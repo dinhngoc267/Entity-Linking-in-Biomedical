@@ -1,16 +1,53 @@
 import torch
+import argparse
 from torch.utils.data import DataLoader
 from transformers import BertModel
 from transformers import BertTokenizer
-from src.data.make_dataset import AffinityDataset, BatchSampler
+from data.make_dataset import AffinityDataset, BatchSampler
 from src.models.affinity_models import MentionEntityAffinityModel, MentionMentionAffinityModel
 from src.models.loss import TripletLosss
 from src.utils import create_pair_indices, create_input_sentences, load_processed_medmention, create_neg_pair_indices_dict
 from tqdm import tqdm
+import logging
 
-if __name__ == "__main__":
-    tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True) #nlpie/bio-distilbert-uncased")
+tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True) #nlpie/bio-distilbert-uncased")
 
+LOGGER = logging.getLogger()
+
+def parse_args():
+    """
+    Parse input arguments
+    """
+
+    parser = argparse.ArgumentParser(description='Train models')
+
+    # Required
+    parser.add_argument('--umls_dir_path', required=True, help='Directory of UMLs dataset')
+    parser.add_argument('--st21pv_dir_path', required=True, help='Directory of ST21pv dataset')
+    parser.add_argument('--st21pv_corpus_IOB2_format_dir_path', required=True, help='Directory of ST21pv corpus IOB2 format')
+    parser.add_argument('--output_dir', type=str, required=True, help='Directory for output model weights')
+    
+    # Optionals 
+    parser.add_argument('--training_sentences_tokens_path', help='Path of training sentence tokens file')
+    parser.add_argument('--all_entity_description_tokens_dict', help='Path of all training description tokens file')
+    
+
+    # Tokenizer settings
+    parser.add_argument('--max_length', default=256, type=int)
+
+    # Train config
+    parser.add_argument('--learning_rate', help='learning rate', default=0.00001, type=float)
+    parser.add_argument('--batch_size', help='train batch size', default=16, type=int)
+    parser.add_argument('--epoch_mention_entity', help='epoch to train mention entity model', default=2, type= int)
+    parser.add_argument('--epoch_mention_mention', help='epoch to train mention mention model', default=5, type = int)
+
+    args = parser.parse_args()
+
+    return args
+
+
+def main():
+    
     training_mention_tokens = []
     training_mention_pos = []
     with open("./src/data/training_sentences_tokens.txt", 'r') as f:
