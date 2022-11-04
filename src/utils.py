@@ -163,13 +163,11 @@ def create_pair_indices(list_sentences: list, list_labels: list, list_sentence_d
     labels_index_dict = defaultdict(list)    
     docid_index_dict = defaultdict(list)
 
-
     for i,label in enumerate(list_labels):
         labels_index_dict[label].append(i)
 
     for i,docid in enumerate(list_sentence_docids):
         docid_index_dict[docid].append(i)
-
 
     pos_pair_indices = []
     for key, value in labels_index_dict.items():  
@@ -214,4 +212,16 @@ def create_pair_indices(list_sentences: list, list_labels: list, list_sentence_d
     random.shuffle(idx)
     pair_indices = pair_indices[idx]
 
-    return pair_indices, neg_indices_dict
+    return pair_indices
+
+
+def create_neg_pair_indices_dict(pair_indices: list) -> dict:
+    neg_pair_indices_dict = defaultdict(list)
+    for i, pair in enumerate(pair_indices):
+        if pair[0] == 0:
+            anchor_index = pair[1]
+            neg_pair_indices_dict[anchor_index].append(i)
+    for key, value in neg_pair_indices_dict.items():
+        neg_pair_indices_dict[key] = np.array(value)
+
+    return neg_pair_indices_dict
