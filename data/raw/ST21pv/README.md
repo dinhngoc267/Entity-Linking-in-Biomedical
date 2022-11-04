@@ -11,3 +11,6 @@ Sunil Mohan and Donghui Li. 2019. MedMentions: A Large Biomedical Corpus Annotat
 <hr/>
 
 ## Processing Dataset
+
+[TODO]
+Gonna write steps of processing data here
