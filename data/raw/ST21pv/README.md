@@ -1,6 +1,6 @@
 # ST21pv Dataset
 
-If you want to understand this dataset please read this:
+If you want to understand this dataset, please read this:
 
 ### Paper:
 
