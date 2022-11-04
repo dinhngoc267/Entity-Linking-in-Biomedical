@@ -302,7 +302,7 @@ class MentionMentionBatchSampler(object):
   
   def __iter__(self):
     # get list of positive pair indices and negative pair indices from pair indices labels
-    all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == '1')[0]
+    all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == 1)[0]
     start_pos_index = 0
 
     for i in range(self.num_iterations):
@@ -342,7 +342,7 @@ class MentionMentionBatchSampler(object):
           mention_mask_b_buffer = torch.stack(mention_mask_b_buffer).to(self.device) 
           neg_affin = self.model(input_tokens_buffer, mention_mask_a_buffer, mention_mask_b_buffer)
 
-          top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=False, sorted=False)[1].cpu()
+          top_k_neg = torch.topk(neg_affin, self.top_k_neg, dim=0, largest=False, sorted=False)[1].cpu()
           top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
           neg_batch_indices.extend(top_k_neg)
 
