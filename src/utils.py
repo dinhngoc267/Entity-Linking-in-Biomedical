@@ -216,10 +216,51 @@ def create_pair_indices(list_labels: list, list_sentence_docids: list) ->tuple:
 def create_neg_pair_indices_dict(pair_indices: list) -> dict:
     neg_pair_indices_dict = defaultdict(list)
     for i, pair in enumerate(pair_indices):
-        if pair[0] == 0:
+        if int(pair[0]) == 0:
             anchor_index = pair[1]
             neg_pair_indices_dict[anchor_index].append(i)
     for key, value in neg_pair_indices_dict.items():
         neg_pair_indices_dict[key] = np.array(value)
 
     return neg_pair_indices_dict
+
+def load_negative_candidates(candidates_file_path: str, all_entity_labels: list, all_mention_labels) -> dict:
+    with open(candidates_file_path, "r") as f:
+        data = f.read().split('\n')
+        data = data[:-1]
+        all_negative_candidates_indices = defaultdict(list)
+        
+        for idx, row in enumerate(data):
+            row = row.split('||')
+            all_negative_candidates_indices[int(row[0])] = list(set([all_entity_labels[int(x)] for x in row[1].split(" ") if all_entity_labels[int(x)] != all_mention_labels[idx]]))
+    
+    return all_negative_candidates_indices
+
+def tokenize_mention(mention, tokenizer):
+    mention_tokens = []
+    start = None
+    end = None
+    flag = False
+    for i, item in enumerate(mention):
+        splits = item.split('\t')
+        word = splits[0]
+        word_label = splits[1]
+
+        if 'B' in word_label:
+            mention_tokens += ['[START]']
+            start = len(mention_tokens)
+            flag = True
+        elif 'O' in word_label and flag == True:
+            end = len(mention_tokens)
+            mention_tokens += ['[END]']
+            flag = False   
+
+        tokens = tokenizer.tokenize(word)
+        for token in tokens:
+            mention_tokens += [token]
+    if end is None:
+        end = len(mention_tokens)
+        mention_tokens += ['[END]']
+    mention_tokens = tokenizer.convert_tokens_to_ids(mention_tokens)
+
+    return mention_tokens, [start, end]
