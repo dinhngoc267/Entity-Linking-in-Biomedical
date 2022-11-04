@@ -4,7 +4,11 @@ from torch.utils.data import Dataset, DataLoader
 
 
 class AffinityDataset(Dataset):
-  def __init__(self, training_mention_tokens, training_mention_pos, pair_indices, all_entity_description_tokens_dict, max_len=256):
+  def __init__(self, training_mention_tokens,training_mention_pos, 
+              pair_indices,
+              all_entity_description_tokens_dict, 
+              max_len=256):
+
     super().__init__()
 
     self.training_mention_tokens = training_mention_tokens
@@ -46,7 +50,7 @@ class AffinityDataset(Dataset):
     s_a += 1
     e_a += 1
 
-    if len(mention_tokens_a) >126:
+    if len(mention_tokens_a) > 126:
       # generate a random position to truncate the sentence:
       if s_a == 1:
         rand_num = 1
@@ -202,8 +206,6 @@ class BatchSampler(object):
     # get list of positive pair indices and negative pair indices from pair indices labels
     all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == '1')[0]
     start_pos_index = 0
-    k = 0
-    neg_indices_batches = {}
 
     for i in range(self.num_iterations):
       batch_indices = [] 
@@ -238,11 +240,9 @@ class BatchSampler(object):
             input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
             mention_mask_a_buffer = torch.stack(mention_mask_a_buffer).to(self.device)  
             mention_mask_b_buffer = torch.stack(mention_mask_b_buffer).to(self.device) 
-
             neg_affin = self.model(input_tokens_buffer, mention_mask_a_buffer, mention_mask_b_buffer)
           else:
             input_tokens_buffer = []
-
             for neg_pair in neg_candidates_pairs:
               label = neg_pair[0]
               mention_index = int(neg_pair[1])
@@ -258,7 +258,7 @@ class BatchSampler(object):
 
               input_tokens_buffer.append(input_tokens)
 
-            input_tokens_buffer = torch.stack(input_tokens_buffer).to(device)
+            input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
             neg_affin = self.model(input_tokens_buffer)
 
           top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=False, sorted=False)[1].cpu()

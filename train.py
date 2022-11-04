@@ -1,0 +1,85 @@
+import torch
+from torch.utils.data import DataLoader
+from transformers import BertModel
+from transformers import BertTokenizer
+from src.data.make_dataset import AffinityDataset, BatchSampler
+from src.models.affinity_models import MentionEntityAffinityModel, MentionMentionAffinityModel
+from src.models.loss import TripletLosss
+from src.utils import create_pair_indices, create_input_sentences, load_processed_medmention, create_neg_pair_indices_dict
+from tqdm import tqdm
+
+if __name__ == "__main__":
+    tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True) #nlpie/bio-distilbert-uncased")
+
+    training_mention_tokens = []
+    training_mention_pos = []
+    with open("./src/data/training_sentences_tokens.txt", 'r') as f:
+        data = f.read().split('\n')
+        data = data[:-1]
+
+        for row in data:
+            row = row.split('||')
+            training_mention_tokens.append([int(x) for x in row[1].split(" ")])
+            training_mention_pos.append([int(x) for x in row[2].split(" ")])
+
+    with open("./src/data/all_entity_description_tokens_dict.txt", "r") as f:
+        data = f.read().split('\n')
+        data = data[:-1]
+        
+        all_entity_description_tokens_dict = {}
+
+        for row in data:
+            row = row.split('||')
+            cui = row[0]
+            entity_description_tokens = [int(x) for x in row[1].split(" ")]
+            all_entity_description_tokens_dict[cui] = entity_description_tokens
+
+    st21pv_corpus = load_processed_medmention('./data/processed/ST21pv_IOB2_formmat.txt')
+    list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, './data/raw/ST21pv/data/corpus_pubtator_pmids_trng.txt')
+    pair_indices = create_pair_indices(list_labels, list_sentence_docids)
+    neg_pair_indices_dict = create_neg_pair_indices_dict(pair_indices)
+    mention_entity_model = MentionEntityAffinityModel(tokenizer, base_model_path = None)
+    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+    mention_entity_model.to(device)
+    optimizer = torch.optim.Adam(mention_entity_model.parameters(), lr=1e-5)
+    loss_func = TripletLosss(margin = 0.8)
+
+    BATCH_SIZE = 16
+    TOP_K_NEG = 1
+
+    training_dataset = AffinityDataset(training_mention_tokens = training_mention_tokens, 
+                                    training_mention_pos= training_mention_pos,
+                                    pair_indices=pair_indices,
+                                    all_entity_description_tokens_dict = all_entity_description_tokens_dict)
+
+    train_data_loader = DataLoader(training_dataset, 
+                                batch_sampler=BatchSampler(model=mention_entity_model, 
+                                                            device= device,
+                                                            training_mention_tokens = training_mention_tokens,
+                                                            training_mention_pos = training_mention_pos,
+                                                            pair_indices_labels = pair_indices,
+                                                            neg_pair_indices_dict = neg_pair_indices_dict,
+                                                            entity_description_tokens_dict = all_entity_description_tokens_dict)
+                                )
+    
+
+    with tqdm(train_data_loader, unit="batch") as tepoch:
+        mention_entity_model.train()
+        for dataset, labels in tepoch: 
+            pairs = dataset
+            
+            anchor_pos_batch = pairs[:BATCH_SIZE//TOP_K_NEG].to(device)
+            anchor_neg_batch = pairs[BATCH_SIZE//TOP_K_NEG:].to(device)
+
+            anchor_pos_batch = anchor_pos_batch.to(device)
+            anchor_neg_batch = anchor_neg_batch.to(device)
+
+            for i in range(TOP_K_NEG):
+                anchor_pos_affin = mention_entity_model(anchor_pos_batch)
+                anchor_neg_affin = mention_entity_model(anchor_neg_batch[i::TOP_K_NEG]) # anchor_neg_batch_indices[i::TOP_K_NEG])      print(time.time()-s)
+
+                loss = loss_func(anchor_pos_affin, anchor_neg_affin)
+                optimizer.zero_grad()
+                loss.backward()
+                optimizer.step()
+                tepoch.set_postfix(loss=loss.item())

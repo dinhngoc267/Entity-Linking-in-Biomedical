@@ -20,8 +20,6 @@ def load_umls(mrconso_file_path: str) -> dict:
         for key, value in synonyms_dict.items():
             synonyms_dict[key] = list(set(value))
 
-        print(f'There are {len(synonyms_dict)} concepts in UMLS')
-
     return synonyms_dict
 
 def load_semantic_type(mrsty_file_path:str) -> dict:
@@ -151,7 +149,7 @@ def create_input_sentences(st21pv_corpus: dict, data_docid_file_path: str) ->tup
     return list_sentences, list_labels, list_sentence_docids
 
 
-def create_pair_indices(list_sentences: list, list_labels: list, list_sentence_docids: list) ->tuple:
+def create_pair_indices(list_labels: list, list_sentence_docids: list) ->tuple:
     """
     label_index_dict: a dictionary where:
                         key: CUI of mention in the sentence. 
