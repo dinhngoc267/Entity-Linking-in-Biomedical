@@ -107,11 +107,12 @@ def main(args):
         LOGGER.info("Load all entity description tokens into dictionary!")
         all_entity_description_tokens_dict = load_all_entity_descriptions(args.all_entity_description_tokens_path)
     else:
-        LOGGER.info("Create dictionary off all entity description tokens!")
+        LOGGER.info("Start creating dictionary off all entity description tokens!")
         umls_synonym_dict = load_umls_synonym(args.umls_dir_path + '/MRCONSO.RRF')
         umls_semantic_dict = load_umls_semantic_type(args.umls_dir_path + '/MRSTY.RRF')
-        all_entity_description_tokens_dict = tokenize_all_entitiy_descriptions(umls_synonym_dict, umls_semantic_dict)
-    
+        all_entity_description_tokens_dict = tokenize_all_entitiy_descriptions(umls_synonym_dict, umls_semantic_dict, tokenizer)
+        LOGGER.info("Done!")
+
     LOGGER.info("Start trainining mention entity model!")
 
     pair_indices = create_pair_indices(list_labels, list_sentence_docids)
