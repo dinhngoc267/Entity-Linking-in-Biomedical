@@ -1,6 +1,7 @@
 from collections import defaultdict
 import numpy as np
 import random
+from tqdm import tqdm
 
 def load_umls(mrconso_file_path: str) -> dict:
     """
@@ -236,31 +237,75 @@ def load_negative_candidates(candidates_file_path: str, all_entity_labels: list,
     
     return all_negative_candidates_indices
 
-def tokenize_mention(mention, tokenizer):
-    mention_tokens = []
+def tokenize_sentences(sentences, tokenizer):
+    sentence_tokens = []
     start = None
     end = None
     flag = False
-    for i, item in enumerate(mention):
+
+    for item in enumerate(sentences):
         splits = item.split('\t')
         word = splits[0]
         word_label = splits[1]
 
         if 'B' in word_label:
-            mention_tokens += ['[START]']
-            start = len(mention_tokens)
+            sentence_tokens += ['[START]']
+            start = len(sentence_tokens)
             flag = True
         elif 'O' in word_label and flag == True:
-            end = len(mention_tokens)
-            mention_tokens += ['[END]']
+            end = len(sentence_tokens)
+            sentence_tokens += ['[END]']
             flag = False   
 
         tokens = tokenizer.tokenize(word)
         for token in tokens:
-            mention_tokens += [token]
+            sentence_tokens += [token]
     if end is None:
-        end = len(mention_tokens)
-        mention_tokens += ['[END]']
-    mention_tokens = tokenizer.convert_tokens_to_ids(mention_tokens)
+        end = len(sentence_tokens)
+        sentence_tokens += ['[END]']
+    sentence_tokens = tokenizer.convert_tokens_to_ids(sentence_tokens)
 
-    return mention_tokens, [start, end]
+    return sentence_tokens, [start, end]
+
+
+def load_sentence_tokens(file_path):
+    sentence_tokens = []
+    mention_pos = []
+    with open(file_path, 'r') as f:
+        data = f.read().split('\n')
+        data = data[:-1]
+
+        for row in data:
+            row = row.split('||')
+            sentence_tokens.append([int(x) for x in row[1].split(" ")])
+            mention_pos.append([int(x) for x in row[2].split(" ")])
+    
+    return sentence_tokens, mention_pos
+
+def load_all_entity_descriptions(file_path):
+    with open(file_path, "r") as f:
+        data = f.read().split('\n')
+        data = data[:-1]
+        
+        all_entity_description_tokens_dict = {}
+
+        for row in data:
+            row = row.split('||')
+            cui = row[0]
+            entity_description_tokens = [int(x) for x in row[1].split(" ")]
+            all_entity_description_tokens_dict[cui] = entity_description_tokens
+    
+    return all_entity_description_tokens_dict
+
+
+def tokenize_sentences(sentences, tokenizer):
+  sentence_tokens = []
+  mention_positions = []
+
+  for sentence in tqdm(sentences):
+    tmp, [s, e] = tokenize_sentences(sentence, tokenizer)
+    sentence_tokens.append(tmp)
+    mention_positions.append([s,e])
+
+  return sentence_tokens, mention_positions
+

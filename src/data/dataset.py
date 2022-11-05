@@ -256,7 +256,6 @@ class MentionEntityBatchSampler(object):
       batch_indices.extend(neg_batch_indices)
 
       yield batch_indices 
-    
   
   def __len__(self):
     return self.num_iterations

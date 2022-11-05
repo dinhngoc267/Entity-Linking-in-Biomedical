@@ -3,16 +3,25 @@ import argparse
 from torch.utils.data import DataLoader
 from transformers import BertModel
 from transformers import BertTokenizer
-from data.make_dataset import AffinityDataset, BatchSampler
+from data.dataset import AffinityDataset, BatchSampler
 from src.models.affinity_models import MentionEntityAffinityModel, MentionMentionAffinityModel
 from src.models.loss import TripletLosss
-from src.utils import create_pair_indices, create_input_sentences, load_processed_medmention, create_neg_pair_indices_dict
+from src.utils import (
+    create_pair_indices, 
+    create_input_sentences, 
+    load_processed_medmention, 
+    create_neg_pair_indices_dict,
+    load_sentence_tokens,
+    load_all_entity_descriptions
+    )
+
 from tqdm import tqdm
 import logging
+import os
 
 tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True) #nlpie/bio-distilbert-uncased")
-
 LOGGER = logging.getLogger()
+
 
 def parse_args():
     """
@@ -29,7 +38,7 @@ def parse_args():
     
     # Optionals 
     parser.add_argument('--training_sentences_tokens_path', help='Path of training sentence tokens file')
-    parser.add_argument('--all_entity_description_tokens_dict', help='Path of all training description tokens file')
+    parser.add_argument('--all_entity_description_tokens_path', help='Path of all training description tokens file')
     
 
     # Tokenizer settings
@@ -45,31 +54,29 @@ def parse_args():
 
     return args
 
+def init_logging():
+    LOGGER.setLevel(logging.INFO)
+    fmt = logging.Formatter('%(asctime)s: [ %(message)s ]',
+                            '%m/%d/%Y %I:%M:%S %p')
+    console = logging.StreamHandler()
+    console.setFormatter(fmt)
+    LOGGER.addHandler(console)
 
-def main():
+def main(args):
+    init_logging()
+    print(args)
+
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
     
-    training_mention_tokens = []
-    training_mention_pos = []
-    with open("./src/data/training_sentences_tokens.txt", 'r') as f:
-        data = f.read().split('\n')
-        data = data[:-1]
-
-        for row in data:
-            row = row.split('||')
-            training_mention_tokens.append([int(x) for x in row[1].split(" ")])
-            training_mention_pos.append([int(x) for x in row[2].split(" ")])
-
-    with open("./src/data/all_entity_description_tokens_dict.txt", "r") as f:
-        data = f.read().split('\n')
-        data = data[:-1]
+      
+    if args.training_sentences_tokens_path is not None:
+        sentence_tokens, mention_pos = load_sentence_tokens(args.training_sentences_tokens_path)
         
-        all_entity_description_tokens_dict = {}
+    if args.all_entity_description_tokens_dict is not None:
+        all_entity_description_tokens_dict = load_all_entity_descriptions(args.all_entity_description_tokens_path)
 
-        for row in data:
-            row = row.split('||')
-            cui = row[0]
-            entity_description_tokens = [int(x) for x in row[1].split(" ")]
-            all_entity_description_tokens_dict[cui] = entity_description_tokens
+   
 
     st21pv_corpus = load_processed_medmention('./data/processed/ST21pv_IOB2_formmat.txt')
     list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, './data/raw/ST21pv/data/corpus_pubtator_pmids_trng.txt')
