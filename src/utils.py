@@ -3,7 +3,7 @@ import numpy as np
 import random
 from tqdm import tqdm
 
-def load_umls(mrconso_file_path: str) -> dict:
+def load_umls_synonym(mrconso_file_path: str) -> dict:
     """
     Return a dictionary which key is concept CUI and value is list of synonyms
     """
@@ -23,7 +23,7 @@ def load_umls(mrconso_file_path: str) -> dict:
 
     return synonyms_dict
 
-def load_semantic_type(mrsty_file_path:str) -> dict:
+def load_umls_semantic_type(mrsty_file_path:str) -> dict:
     """
     Return a dictionary which key is concept CUI and value is semantic type of that concept
     """
@@ -309,10 +309,15 @@ def tokenize_list_sentences(list_sentences, tokenizer):
 
   return sentence_tokens, mention_positions
 
-def tokenize_all_entitiy_descriptions(umls_dict, tokenizer):
+def tokenize_all_entitiy_descriptions(umls_synonym_dict, umls_semantic_dict, tokenizer):
     all_entity_description_tokens_dict = {}
+    
+    UMLs = defaultdict(dict)
 
-    for key, values in tqdm(umls_dict.items()):
+    for key, value in umls_synonym_dict.items():
+        UMLs[key] = {"syn": value, "sem": umls_semantic_dict[key]}
+
+    for key, values in tqdm(UMLs.items()):
       entity_description = values['sem'] + '|'
 
       for syn in values['syn']:
@@ -320,3 +325,5 @@ def tokenize_all_entitiy_descriptions(umls_dict, tokenizer):
       entity_description = tokenizer.tokenize(entity_description)
       entity_description_tokens = tokenizer.convert_tokens_to_ids(entity_description)
       all_entity_description_tokens_dict[key] = entity_description_tokens
+
+    return all_entity_description_tokens_dict
