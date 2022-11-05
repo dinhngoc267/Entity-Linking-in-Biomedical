@@ -16,11 +16,11 @@ def load_st21pv_corpus(file_path: str):
             abstract = arr[1][11:]
             tmp = id + '\n' + title + '\n' + abstract + '\n'
 
-        for row in arr[2:]:
-            splits = row.split('\t')
-            tmp += '\t'.join(splits[1:4] + [splits[5]]) + '\n'
-        tmp = tmp[:-1]
-        corpus_st21pv.append(tmp)
+            for row in arr[2:]:
+                splits = row.split('\t')
+                tmp += '\t'.join(splits[1:4] + [splits[5]]) + '\n'
+            tmp = tmp[:-1]
+            corpus_st21pv.append(tmp)
     return corpus_st21pv
 
 def delete_overlapping_mentions(corpus_st21_pv):
@@ -44,7 +44,6 @@ def delete_overlapping_mentions(corpus_st21_pv):
         while i < len(positions):
             if int(positions[i][0]) < int(positions[i-1][1]):
                 if int(positions[i][0]) == int(positions[i-1][0]) and int(positions[i-1][1]) < int(positions[i][1]):
-                    count += 1
                     deleted_terms.append(positions[i-1])
                     positions.pop(i-1)
                     continue
@@ -56,7 +55,6 @@ def delete_overlapping_mentions(corpus_st21_pv):
 
 
     new_corpus_st21pv = []
-    count = 0
     term_deleted = []
     for item in corpus_st21_pv:
         arr = item.split('\n')
@@ -72,17 +70,16 @@ def delete_overlapping_mentions(corpus_st21_pv):
             e = splits[1]
             tmp = [s,e, splits[2], splits[3],id]
             if tmp in deleted_terms:
-                count += 1
                 term_deleted.append(entity.split('\t') + [id])
                 deleted_terms.remove(tmp)
             else: 
                 new_entities.append(entity)
 
-    tmp = id+ '\n' + text + '\n'
-    for i in new_entities:
-        tmp += i + '\n'
-    tmp = tmp[:-1]
-    new_corpus_st21pv.append(tmp)
+        tmp = id+ '\n' + text + '\n'
+        for i in new_entities:
+            tmp += i + '\n'
+        tmp = tmp[:-1]
+        new_corpus_st21pv.append(tmp)
 
     return new_corpus_st21pv
 

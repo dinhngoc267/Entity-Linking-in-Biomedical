@@ -3,7 +3,12 @@ import argparse
 from torch.utils.data import DataLoader
 from transformers import BertModel
 from transformers import BertTokenizer
-from data.dataset import AffinityDataset, BatchSampler
+from src.data.dataset import (
+    MentionEntityAffinityDataset,
+    MentionMentionAffinityDataset,
+    MentionEntityBatchSampler,
+    MentionMentionBatchSampler
+)
 from src.models.affinity_models import MentionEntityAffinityModel, MentionMentionAffinityModel
 from src.models.loss import TripletLosss
 from src.utils import (
@@ -13,13 +18,15 @@ from src.utils import (
     create_neg_pair_indices_dict,
     load_sentence_tokens,
     load_all_entity_descriptions,
-    tokenize_sentences
+    tokenize_list_sentences
     )
 from src.data.pre_processing import convert_IOB2_format
-
 from tqdm import tqdm
 import logging
 import os
+
+import warnings
+warnings.filterwarnings("ignore")
 
 LOGGER = logging.getLogger()
 
@@ -68,27 +75,30 @@ def init_logging():
 
 def main(args):
     init_logging()
-    print(args)
 
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
     
     try:
         tokenizer = BertTokenizer.from_pretrained(args.base_model_name,use_fast=True)
-        return 0
     except Exception as e:
         LOGGER.info(e.message)
 
     if args.training_sentences_tokens_path is not None:
+        LOGGER.info("Load exsiting list training sentence tokens!")
         training_sentence_tokens, training_mention_pos = load_sentence_tokens(args.training_sentences_tokens_path)
     else:
+        LOGGER.info("Process ST21pv dataset!")
         if args.st21pv_corpus_IOB2_format_dir_path is not None:
             st21pv_corpus = load_processed_medmention(args.st21pv_corpus_IOB2_format_dir_path)
         else:
-            st21pv_corpus = convert_IOB2_format(args.st21pv_dir_path + "/corpus_pubtator.txt", args.ab3p_output_file_path) 
-
+            st21pv_corpus = convert_IOB2_format(args.st21pv_dir_path + "/corpus_pubtator.txt", args.ab3p_output_file_path, args.output_dir) 
+        LOGGER.info("Done processing ST21pv dataset!")
+    
+    LOGGER.info("Start creating list training sentence tokens!")
     list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, args.st21pv_dir_path + '/corpus_pubtator_pmids_trng.txt')
-    training_sentence_tokens = tokenize_sentences(list_sentences, tokenizer)
+    training_sentence_tokens = tokenize_list_sentences(list_sentences, tokenizer)
+    LOGGER.info("Done creating list training sentence tokens!")
 
     if args.all_entity_description_tokens_dict is not None:
         all_entity_description_tokens_dict = load_all_entity_descriptions(args.all_entity_description_tokens_path)
@@ -107,13 +117,13 @@ def main(args):
     BATCH_SIZE = 16
     TOP_K_NEG = 1
 
-    training_dataset = AffinityDataset(training_mention_tokens = training_sentence_tokens, 
+    training_dataset = MentionEntityAffinityDataset(training_mention_tokens = training_sentence_tokens, 
                                     training_mention_pos= training_mention_pos,
                                     pair_indices=pair_indices,
                                     all_entity_description_tokens_dict = all_entity_description_tokens_dict)
 
     train_data_loader = DataLoader(training_dataset, 
-                                batch_sampler=BatchSampler(model=mention_entity_model, 
+                                batch_sampler=MentionEntityBatchSampler(model=mention_entity_model, 
                                                             device= device,
                                                             training_mention_tokens = training_sentence_tokens,
                                                             training_mention_pos = training_mention_pos,

@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["--base_model_name","nlpie/bio-distilbert-uncased", 
+                     "--umls_dir_path", "./data/raw/UMLs",
+                     "--st21pv_dir_path","./data/raw/ST21pv",
+                     "--ab3p_output_file_path", "./data/processed/Ab3P_output.txt",
+                     "--output_dir", "./models",
+                     "--st21pv_corpus_IOB2_format_dir_path", "data/processed/ST21pv_IOB2_formmat.txt"
+        ]
+        }
+    ]
+}

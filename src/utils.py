@@ -98,7 +98,7 @@ def create_input_sentences(st21pv_corpus: dict, data_docid_file_path: str) ->tup
     list_sentence_docids = []
     
 
-    for docid, doc in enumerate(documents):
+    for docid, doc in tqdm(enumerate(documents)):
         for sent in doc:
             tokens = sent.split('\n')
             mention_count = 0
@@ -237,13 +237,13 @@ def load_negative_candidates(candidates_file_path: str, all_entity_labels: list,
     
     return all_negative_candidates_indices
 
-def tokenize_sentences(sentences, tokenizer):
+def tokenize_sentence(sentence, tokenizer):
     sentence_tokens = []
     start = None
     end = None
     flag = False
 
-    for item in enumerate(sentences):
+    for item in sentence:
         splits = item.split('\t')
         word = splits[0]
         word_label = splits[1]
@@ -298,14 +298,25 @@ def load_all_entity_descriptions(file_path):
     return all_entity_description_tokens_dict
 
 
-def tokenize_sentences(sentences, tokenizer):
+def tokenize_list_sentences(list_sentences, tokenizer):
   sentence_tokens = []
   mention_positions = []
 
-  for sentence in tqdm(sentences):
-    tmp, [s, e] = tokenize_sentences(sentence, tokenizer)
+  for sentence in tqdm(list_sentences):
+    tmp, [s, e] = tokenize_sentence(sentence, tokenizer)
     sentence_tokens.append(tmp)
     mention_positions.append([s,e])
 
   return sentence_tokens, mention_positions
 
+def tokenize_all_entitiy_descriptions(umls_dict, tokenizer):
+    all_entity_description_tokens_dict = {}
+
+    for key, values in tqdm(umls_dict.items()):
+      entity_description = values['sem'] + '|'
+
+      for syn in values['syn']:
+        entity_description += syn + '|'
+      entity_description = tokenizer.tokenize(entity_description)
+      entity_description_tokens = tokenizer.convert_tokens_to_ids(entity_description)
+      all_entity_description_tokens_dict[key] = entity_description_tokens
