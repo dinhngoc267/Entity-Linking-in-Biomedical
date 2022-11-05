@@ -12,7 +12,8 @@ from src.utils import (
     load_processed_medmention, 
     create_neg_pair_indices_dict,
     load_sentence_tokens,
-    load_all_entity_descriptions
+    load_all_entity_descriptions,
+    tokenize_sentences
     )
 from src.data.pre_processing import convert_IOB2_format
 
@@ -20,7 +21,6 @@ from tqdm import tqdm
 import logging
 import os
 
-tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True) #nlpie/bio-distilbert-uncased")
 LOGGER = logging.getLogger()
 
 
@@ -32,6 +32,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Train models')
 
     # Required
+    parser.add_argument('--base_model_name', required=True, help='Name of bert base model')
     parser.add_argument('--umls_dir_path', required=True, help='Directory of UMLs dataset')
     parser.add_argument('--st21pv_dir_path', required=True, help='Directory of ST21pv dataset')
     parser.add_argument('--ab3p_output_file_path', required=True, help='Path of Ab3p output')
@@ -48,6 +49,7 @@ def parse_args():
 
     # Train config
     parser.add_argument('--learning_rate', help='learning rate', default=0.00001, type=float)
+    parser.add_argument('--margin', help='margin of triplet loss', default=0.8, type=float)
     parser.add_argument('--batch_size', help='train batch size', default=16, type=int)
     parser.add_argument('--epoch_mention_entity', help='epoch to train mention entity model', default=2, type= int)
     parser.add_argument('--epoch_mention_mention', help='epoch to train mention mention model', default=5, type = int)
@@ -71,23 +73,29 @@ def main(args):
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
     
-      
+    try:
+        tokenizer = BertTokenizer.from_pretrained(args.base_model_name,use_fast=True)
+        return 0
+    except Exception as e:
+        LOGGER.info(e.message)
+
     if args.training_sentences_tokens_path is not None:
         training_sentence_tokens, training_mention_pos = load_sentence_tokens(args.training_sentences_tokens_path)
     else:
         if args.st21pv_corpus_IOB2_format_dir_path is not None:
-            st21pv_corpus = load_processed_medmention(args.st21pv_corpus_IOB2_format_dir_path )
+            st21pv_corpus = load_processed_medmention(args.st21pv_corpus_IOB2_format_dir_path)
         else:
             st21pv_corpus = convert_IOB2_format(args.st21pv_dir_path + "/corpus_pubtator.txt", args.ab3p_output_file_path) 
 
+    list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, args.st21pv_dir_path + '/corpus_pubtator_pmids_trng.txt')
+    training_sentence_tokens = tokenize_sentences(list_sentences, tokenizer)
 
     if args.all_entity_description_tokens_dict is not None:
         all_entity_description_tokens_dict = load_all_entity_descriptions(args.all_entity_description_tokens_path)
 
    
+    LOGGER.info("Start trainining mention entity model!")
 
-    st21pv_corpus = load_processed_medmention('./data/processed/ST21pv_IOB2_formmat.txt')
-    list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, './data/raw/ST21pv/data/corpus_pubtator_pmids_trng.txt')
     pair_indices = create_pair_indices(list_labels, list_sentence_docids)
     neg_pair_indices_dict = create_neg_pair_indices_dict(pair_indices)
     mention_entity_model = MentionEntityAffinityModel(tokenizer, base_model_path = None)
@@ -99,7 +107,7 @@ def main(args):
     BATCH_SIZE = 16
     TOP_K_NEG = 1
 
-    training_dataset = AffinityDataset(training_mention_tokens = training_mention_tokens, 
+    training_dataset = AffinityDataset(training_mention_tokens = training_sentence_tokens, 
                                     training_mention_pos= training_mention_pos,
                                     pair_indices=pair_indices,
                                     all_entity_description_tokens_dict = all_entity_description_tokens_dict)
@@ -107,7 +115,7 @@ def main(args):
     train_data_loader = DataLoader(training_dataset, 
                                 batch_sampler=BatchSampler(model=mention_entity_model, 
                                                             device= device,
-                                                            training_mention_tokens = training_mention_tokens,
+                                                            training_mention_tokens = training_sentence_tokens,
                                                             training_mention_pos = training_mention_pos,
                                                             pair_indices_labels = pair_indices,
                                                             neg_pair_indices_dict = neg_pair_indices_dict,
@@ -135,3 +143,8 @@ def main(args):
                 loss.backward()
                 optimizer.step()
                 tepoch.set_postfix(loss=loss.item())
+
+
+if __name__ == '__main__':
+    args = parse_args()
+    main(args)
