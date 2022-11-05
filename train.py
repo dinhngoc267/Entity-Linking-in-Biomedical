@@ -18,7 +18,10 @@ from src.utils import (
     create_neg_pair_indices_dict,
     load_sentence_tokens,
     load_all_entity_descriptions,
-    tokenize_list_sentences
+    tokenize_list_sentences, 
+    load_umls_synonym,
+    load_umls_semantic_type,
+    tokenize_all_entitiy_descriptions
     )
 from src.data.pre_processing import convert_IOB2_format
 from tqdm import tqdm
@@ -100,10 +103,15 @@ def main(args):
     training_sentence_tokens = tokenize_list_sentences(list_sentences, tokenizer)
     LOGGER.info("Done creating list training sentence tokens!")
 
-    if args.all_entity_description_tokens_dict is not None:
+    if args.all_entity_description_tokens_path is not None:
+        LOGGER.info("Load all entity description tokens into dictionary!")
         all_entity_description_tokens_dict = load_all_entity_descriptions(args.all_entity_description_tokens_path)
-
-   
+    else:
+        LOGGER.info("Create dictionary off all entity description tokens!")
+        umls_synonym_dict = load_umls_synonym(args.umls_dir_path + '/MRCONSO.RRF')
+        umls_semantic_dict = load_umls_semantic_type(args.umls_dir_path + '/MRSTY.RRF')
+        all_entity_description_tokens_dict = tokenize_all_entitiy_descriptions(umls_synonym_dict, umls_semantic_dict)
+    
     LOGGER.info("Start trainining mention entity model!")
 
     pair_indices = create_pair_indices(list_labels, list_sentence_docids)
