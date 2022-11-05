@@ -14,6 +14,7 @@ from src.utils import (
     load_sentence_tokens,
     load_all_entity_descriptions
     )
+from src.data.pre_processing import convert_IOB2_format
 
 from tqdm import tqdm
 import logging
@@ -33,13 +34,14 @@ def parse_args():
     # Required
     parser.add_argument('--umls_dir_path', required=True, help='Directory of UMLs dataset')
     parser.add_argument('--st21pv_dir_path', required=True, help='Directory of ST21pv dataset')
-    parser.add_argument('--st21pv_corpus_IOB2_format_dir_path', required=True, help='Directory of ST21pv corpus IOB2 format')
+    parser.add_argument('--ab3p_output_file_path', required=True, help='Path of Ab3p output')
     parser.add_argument('--output_dir', type=str, required=True, help='Directory for output model weights')
     
     # Optionals 
     parser.add_argument('--training_sentences_tokens_path', help='Path of training sentence tokens file')
     parser.add_argument('--all_entity_description_tokens_path', help='Path of all training description tokens file')
-    
+    parser.add_argument('--st21pv_corpus_IOB2_format_dir_path', help='Directory of ST21pv corpus IOB2 format')
+
 
     # Tokenizer settings
     parser.add_argument('--max_length', default=256, type=int)
@@ -71,8 +73,14 @@ def main(args):
     
       
     if args.training_sentences_tokens_path is not None:
-        sentence_tokens, mention_pos = load_sentence_tokens(args.training_sentences_tokens_path)
-        
+        training_sentence_tokens, training_mention_pos = load_sentence_tokens(args.training_sentences_tokens_path)
+    else:
+        if args.st21pv_corpus_IOB2_format_dir_path is not None:
+            st21pv_corpus = load_processed_medmention(args.st21pv_corpus_IOB2_format_dir_path )
+        else:
+            st21pv_corpus = convert_IOB2_format(args.st21pv_dir_path + "/corpus_pubtator.txt", args.ab3p_output_file_path) 
+
+
     if args.all_entity_description_tokens_dict is not None:
         all_entity_description_tokens_dict = load_all_entity_descriptions(args.all_entity_description_tokens_path)
 

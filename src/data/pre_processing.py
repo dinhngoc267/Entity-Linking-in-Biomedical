@@ -2,7 +2,6 @@ from collections import defaultdict
 from tqdm import tqdm
 import stanza
 stanza.download('en')
-st = stanza.Pipeline(lang='en', processors='tokenize')
 
 def load_st21pv_corpus(file_path: str):
     with open(file_path, "r") as f:
@@ -165,6 +164,8 @@ def replace_abbr_with_long_form(corpus_st21_pv, abbreviation_dict):
 
 
 def convert_IOB2_format(file_corpus_path, file_Ab3P_output, output_dir:str):
+    st = stanza.Pipeline(lang='en', processors='tokenize')
+    
     st21pv_corpus = load_st21pv_corpus(file_corpus_path)
     st21pv_corpus = delete_overlapping_mentions(st21pv_corpus)
     abbreviation_dict = load_Ab3P_output(file_Ab3P_output)
@@ -228,3 +229,5 @@ def convert_IOB2_format(file_corpus_path, file_Ab3P_output, output_dir:str):
                     f.write(token[0] + '\t' + token[1] + '\n')
                 f.write('\n')  
             f.write('\n')
+
+    return IOB2_tags
