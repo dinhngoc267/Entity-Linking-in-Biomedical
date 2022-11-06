@@ -92,14 +92,15 @@ def main(args):
         st21pv_corpus = load_processed_medmention(args.st21pv_corpus_IOB2_format_dir_path)
     else:
         st21pv_corpus = convert_IOB2_format(args.st21pv_dir_path + "/corpus_pubtator.txt", args.ab3p_output_file_path, args.output_dir) 
-    LOGGER.info("Done processing ST21pv dataset!")
+    
+    list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, args.st21pv_dir_path + '/corpus_pubtator_pmids_trng.txt')
 
+    LOGGER.info("Done processing ST21pv dataset!")
     if args.training_sentences_tokens_path is not None:
         LOGGER.info("Load exsiting list training sentence tokens!")
         training_sentence_tokens, training_mention_pos = load_sentence_tokens(args.training_sentences_tokens_path)
     else:
         LOGGER.info("Start creating list training sentence tokens!")
-        list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, args.st21pv_dir_path + '/corpus_pubtator_pmids_trng.txt')
         training_sentence_tokens = tokenize_list_sentences(list_sentences, tokenizer)
         LOGGER.info("Done creating list training sentence tokens!")
 
@@ -115,7 +116,7 @@ def main(args):
 
     LOGGER.info("Start trainining mention entity model!")
 
-
+    
     pair_indices = create_pair_indices(list_labels, list_sentence_docids)
     neg_pair_indices_dict = create_neg_pair_indices_dict(pair_indices)
     mention_entity_model = MentionEntityAffinityModel(tokenizer, base_model_path = None)
