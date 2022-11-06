@@ -16,7 +16,9 @@
                      "--st21pv_dir_path","./data/raw/ST21pv",
                      "--ab3p_output_file_path", "./data/processed/Ab3P_output.txt",
                      "--output_dir", "./models",
-                     "--st21pv_corpus_IOB2_format_dir_path", "data/processed/ST21pv_IOB2_formmat.txt"
+                     "--st21pv_corpus_IOB2_format_dir_path", "data/processed/ST21pv_IOB2_formmat.txt",
+                     "--all_entity_description_tokens_path", "models/all_entity_description_tokens_dict.txt",
+                     "--training_sentences_tokens_path", "data/processed/training_sentences_tokens.txt"
         ]
         }
     ]
