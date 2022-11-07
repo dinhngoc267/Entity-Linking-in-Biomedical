@@ -327,3 +327,63 @@ def tokenize_all_entitiy_descriptions(umls_synonym_dict, umls_semantic_dict, tok
       all_entity_description_tokens_dict[key] = entity_description_tokens
 
     return all_entity_description_tokens_dict
+
+def load_negative_candidates(candidates_file_path, all_entity_labels, list_sentence_labels):
+    # load negative sample indices in the list all entities in UMLs of all mentions. 
+ 
+    with open(candidates_file_path, "r") as f:
+        data = f.read().split('\n')
+        data = data[:-1]
+        all_negative_indices_dict = defaultdict(list)
+        
+        for idx, row in tqdm(enumerate(data)):
+            row = row.split('||')
+            all_negative_indices_dict[int(row[0])] = list(set([all_entity_labels[int(x)] for x in row[1].split(" ") if all_entity_labels[int(x)] != list_sentence_labels[idx]]))
+        
+    return all_negative_indices_dict
+
+def create_pair_indices_mention_entity(list_sentence_docids, all_docid, list_sentence_labels, all_negative_indices_dict):
+    # stores the index of each sentence in subset of the corpus
+    sentence_indices = []
+
+    for docid in tqdm(list_sentence_docids):
+        for idx, docid2 in enumerate(all_docid):
+            if docid == docid2:
+                sentence_indices.append(idx)
+    
+    # create anchor_positive pairs 
+    anchor_positive_pairs = []
+    for i in range(len(list_sentence_labels)):
+        anchor_positive_pairs.append([i, list_sentence_labels[i]])\
+    
+    # create negative indices dict
+    training_negative_indices = defaultdict(list)
+    for i in range(len(list_sentence_labels)):
+        idx = sentence_indices[i]
+        training_negative_indices[i] = all_negative_indices_dict[idx]
+    
+    # create anchor negative pairs
+    anchor_negative_pairs = []
+
+    for i in range(len(list_sentence_labels)):
+        for negative_candidate in training_negative_indices[i]:
+            anchor_negative_pairs.append([i, negative_candidate])
+
+    pair_indices = []
+
+    for item in anchor_positive_pairs:
+        item = [1] + item
+        pair_indices += [item]
+
+    for item in anchor_negative_pairs:
+        item = [0] + item
+        pair_indices += [item]
+
+
+    pair_indices = np.array(pair_indices)
+
+    idx = np.arange(len(pair_indices))
+    random.shuffle(idx)
+    pair_indices = pair_indices[idx]
+
+    return pair_indices
