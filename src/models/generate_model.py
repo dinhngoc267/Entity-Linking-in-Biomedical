@@ -24,7 +24,8 @@ class GenerateCandidateModel():
                                      token_pattern='[a-zA-Z0-9_]{1,}')
         
         self.corpus = corpus
-    
+        self.fit()
+        
     def fit(self):
         self.char_tfidf.fit(self.corpus)
         self.word_tfidf.fit(self.corpus)
