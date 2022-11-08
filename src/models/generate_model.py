@@ -51,7 +51,6 @@ class GenerateCandidateModel():
 
         batch_size = 100
 
-        MAX_K = 64
         with open(output_file_path, 'w') as f:
             line = 0
             #count = 0
@@ -65,7 +64,7 @@ class GenerateCandidateModel():
                     cosine_sim = linear_kernel(query_sparse_matrix[n_batch*batch_size:(n_batch+1)*batch_size], corpus_sparse_matrix)
                     for row in cosine_sim:
                         # get index of the k highest elements
-                        top_k_ind = np.argpartition(row, -MAX_K)[-MAX_K:]
+                        top_k_ind = np.argpartition(row, -top_k)[-top_k:]
                         top_k_ind = top_k_ind[np.argsort(row[top_k_ind])][::-1]
 
                         # write result to file
