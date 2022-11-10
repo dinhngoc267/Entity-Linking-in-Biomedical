@@ -227,4 +227,12 @@ def convert_IOB2_format(file_corpus_path, file_Ab3P_output, output_dir:str):
                 f.write('\n')  
             f.write('\n')
 
+    with open(output_dir + "all_mention.txt", 'w') as f:
+        for item in st21pv_corpus:
+            rows = item.split('\n')
+            entities = rows[3:]
+
+            for entity in entities:
+                entity = entity.split('\t')
+                f.write(rows[0] + '||' + entity[2] + '||' + entity[-1].split(':')[-1] + '\n')
     return IOB2_tags

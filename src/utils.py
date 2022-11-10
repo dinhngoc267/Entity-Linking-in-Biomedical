@@ -387,3 +387,21 @@ def create_pair_indices_mention_entity(list_sentence_docids, all_docid, list_sen
     pair_indices = pair_indices[idx]
 
     return pair_indices
+
+def load_all_mentions(path_file):
+    # load all mentions, all mentions label, all docid in dataset
+    with open(path_file, 'r') as f:
+        all_mentions = []
+        all_mentions_labels = []
+        all_docid = []
+
+        data = f.read().split('\n')
+        data = data[:-1]
+            
+        for row in data:
+            row = row.split('||')
+            all_mentions.append(row[1])
+            all_mentions_labels.append(row[2])
+            all_docid.append(row[0])
+
+    return all_mentions, all_mentions_labels, all_docid
