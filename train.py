@@ -21,7 +21,10 @@ from src.utils import (
     tokenize_list_sentences, 
     load_umls_synonym,
     load_umls_semantic_type,
-    tokenize_all_entitiy_descriptions
+    tokenize_all_entitiy_descriptions,
+    create_pair_indices_mention_entity,
+    load_all_mentions,
+    load_negative_candidates
     )
 from src.data.pre_processing import convert_IOB2_format
 from tqdm import tqdm
@@ -93,7 +96,7 @@ def main(args):
     else:
         st21pv_corpus = convert_IOB2_format(args.st21pv_dir_path + "/corpus_pubtator.txt", args.ab3p_output_file_path, args.output_dir) 
     
-    list_sentences, list_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, args.st21pv_dir_path + '/corpus_pubtator_pmids_trng.txt')
+    list_sentences, list_sentence_labels, list_sentence_docids = create_input_sentences(st21pv_corpus, args.st21pv_dir_path + '/corpus_pubtator_pmids_trng.txt')
 
     LOGGER.info("Done processing ST21pv dataset!")
     if args.training_sentences_tokens_path is not None:
@@ -116,7 +119,11 @@ def main(args):
 
     LOGGER.info("Start trainining mention entity model!")
 
-    
+    all_mentions, all_mentions_labels, all_docid = load_all_mentions("./data/processed/all_mentions.txt")
+    all_negative_indices_dict = load_negative_candidates(candidates_file_path, all_entity_labels, list_sentence_labels)
+
+    create_pair_indices_mention_entity(list_sentence_docids, all_docid, list_sentence_labels, all_negative_indices_dict)
+
     pair_indices = create_pair_indices(list_labels, list_sentence_docids)
     neg_pair_indices_dict = create_neg_pair_indices_dict(pair_indices)
     mention_entity_model = MentionEntityAffinityModel(tokenizer, base_model_path = None)
