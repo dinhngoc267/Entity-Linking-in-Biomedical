@@ -45,18 +45,14 @@ class GenerateCandidateModel():
     def generate_candidates(self, query, corpus, top_k, output_file_path, use_char_tfidf = True):
         """
         Return indices of top k candiates in corpus 
-        """        
+        """   
         query_sparse_matrix = self.char_tfidf.transform(query)
         corpus_sparse_matrix = self.char_tfidf.transform(corpus)
-
+        
         batch_size = 100
-
+        result = []
         with open(output_file_path, 'w') as f:
             line = 0
-            #count = 0
-            #result_top_k = [0] * 7
-            #result_top_k = np.array(result_top_k)
-            #top_k = [1, 2, 4, 8, 16, 32, 64]
 
             with tqdm(range(math.ceil(query_sparse_matrix.shape[0]/batch_size)), unit="batch") as tepoch:
                 for n_batch in tepoch:  
@@ -67,16 +63,7 @@ class GenerateCandidateModel():
                         top_k_ind = np.argpartition(row, -top_k)[-top_k:]
                         top_k_ind = top_k_ind[np.argsort(row[top_k_ind])][::-1]
 
+                        result.append(top_k_ind)
                         # write result to file
                         f.write(str(line)+ '||' + " ".join([str(x) for x in top_k_ind]) + "\n")
-
-                        # check if the candidates contain ground truth
-                        # for i, index in enumerate(top_k_ind):
-                        #     if all_entities_label[index] == all_mentions_labels[line]:    
-                        #         for idx, k in enumerate(top_k):
-                        #         if k >=i:
-                        #             result_top_k[idx] += 1
-                        #         break
-                        #     line += 1
-                    #tepoch.set_postfix(recall_top_k = ' '.join([str(round(x,2)) for x in result_top_k/line]))
-        return
+        return result

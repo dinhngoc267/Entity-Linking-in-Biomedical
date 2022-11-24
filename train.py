@@ -26,10 +26,12 @@ from src.utils import (
     load_all_mentions,
     load_negative_candidates
     )
+from .src.models.generate_model import GenerateCandidateModel
 from src.data.pre_processing import convert_IOB2_format
 from tqdm import tqdm
 import logging
 import os
+
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -119,12 +121,17 @@ def main(args):
 
     LOGGER.info("Start trainining mention entity model!")
 
+    LOGGER.info("Generate candidates for training set")
+    corpus = 
+    generate_model = GenerateCandidateModel()
+    candidate_indices = generate_model
+    
     all_mentions, all_mentions_labels, all_docid = load_all_mentions("./data/processed/all_mentions.txt")
     all_negative_indices_dict = load_negative_candidates(candidates_file_path, all_entity_labels, list_sentence_labels)
 
     create_pair_indices_mention_entity(list_sentence_docids, all_docid, list_sentence_labels, all_negative_indices_dict)
 
-    pair_indices = create_pair_indices(list_labels, list_sentence_docids)
+    pair_indices = create_pair_indices(all_mentions_labels, list_sentence_docids)
     neg_pair_indices_dict = create_neg_pair_indices_dict(pair_indices)
     mention_entity_model = MentionEntityAffinityModel(tokenizer, base_model_path = None)
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
