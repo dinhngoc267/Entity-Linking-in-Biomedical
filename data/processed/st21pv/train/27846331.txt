@@ -2,7 +2,29 @@ Clinical	B:C0008972
 Inquiry	I:C0008972
 :	O
 Does	O
+knuckle	O
+popping	O
+lead	O
+to	O
+arthritis	O
+?	O
+
+Clinical	O
+Inquiry	I:C0008972
+:	O
+Does	O
 knuckle	B:C0025525
+popping	O
+lead	O
+to	O
+arthritis	O
+?	O
+
+Clinical	O
+Inquiry	I:C0008972
+:	O
+Does	O
+knuckle	O
 popping	O
 lead	O
 to	O
@@ -11,6 +33,32 @@ arthritis	B:C0003864
 
 Habitual	O
 knuckle	B:C0025525
+popping	O
+,	O
+or	O
+cracking	O
+(	O
+over	O
+the	O
+course	O
+of	O
+several	O
+decades	O
+)	O
+is	O
+n't	O
+associated	O
+with	O
+clinical	O
+or	O
+radiographic	O
+evidence	O
+of	O
+osteoarthritis	O
+.	O
+
+Habitual	O
+knuckle	O
 popping	O
 ,	O
 or	O

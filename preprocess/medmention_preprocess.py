@@ -177,7 +177,6 @@ def replace_abbr_with_long_form(corpus: dict, abbreviation_dict: dict):
         
     return new_corpus
 
-
 def main(args):
     
     corpus_file = args.corpus_file
@@ -201,7 +200,6 @@ def main(args):
 
     st = stanza.Pipeline(lang='en', processors='tokenize')
 
-    sents_dict = {}
 
     for id, doc in tqdm(corpus.items()):
         if id in input_ids:
@@ -212,6 +210,7 @@ def main(args):
 
             doc = st(text)
             list_sents = []
+            buffer = []
 
             for sentence in doc.sentences:
                 list_tokens = []
@@ -237,18 +236,44 @@ def main(args):
                 if exist_mention == True:
                     list_sents.append(list_tokens)
 
-            sents_dict[id] = list_sents
+            for sent in list_sents:
+                n_mention_in_sent = 0
+
+                for word_tag in sent:
+                    if 'B' in word_tag[1]:
+                        n_mention_in_sent += 1
+                flag = 1
+
+                for i in range(n_mention_in_sent):
+                    count = 0
+                    tmp = []
+                    already_took = False
+
+                    for word_tag in sent:
+                        word_str = word_tag[0]
+                        word_label = word_tag[1]
+                        
+                        if 'B' in word_label:
+                            if already_took == False:
+                                count += 1
+                            if count == flag:
+                                tmp += [word_tag]
+                                flag += 1
+                                already_took = True
+                            else:
+                                tmp += [[word_str, 'O']]
+                        else: 
+                            tmp += [word_tag]             
+                    buffer.append(tmp)
             
             output_file = os.path.join(output_dir, "{}.txt".format(id))
 
             with open(output_file, "w") as f:
-                for sent in list_sents:
+                for sent in buffer:
                     for word_tag in sent:
                         f.write('\t'.join(word_tag) + '\n')
                 
-                    f.write('\n')
-
-    
+                    f.write('\n')    
 
 if __name__ == "__main__":
 
@@ -258,7 +283,7 @@ if __name__ == "__main__":
                     help='path of corpus file')
     parser.add_argument('--input_file', type=str,
                     default="./data/raw/ST21pv/corpus_pubtator_pmids_trng.txt",
-                    help='path of input file (train/test')                
+                    help='path of input file (train/test)')                
     parser.add_argument('--output_dir', type=str,
                     default="./data/processed/st21pv/train", 
                     help='path of output directionary')

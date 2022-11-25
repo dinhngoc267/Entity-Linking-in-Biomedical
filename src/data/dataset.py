@@ -4,6 +4,37 @@ from torch.utils.data import Dataset, DataLoader
 
 
 
+def tokenize_sentence(sentence, tokenizer):
+    sentence_tokens = []
+    start = None
+    end = None
+    flag = False
+
+    for item in sentence:
+        splits = item.split('\t')
+        word = splits[0]
+        word_label = splits[1]
+
+        if 'B' in word_label:
+            sentence_tokens += ['[START]']
+            start = len(sentence_tokens)
+            flag = True
+        elif 'O' in word_label and flag == True:
+            end = len(sentence_tokens)
+            sentence_tokens += ['[END]']
+            flag = False   
+
+        tokens = tokenizer.tokenize(word)
+        for token in tokens:
+            sentence_tokens += [token]
+    if end is None:
+        end = len(sentence_tokens)
+        sentence_tokens += ['[END]']
+    sentence_tokens = tokenizer.convert_tokens_to_ids(sentence_tokens)
+
+    return sentence_tokens, [start, end]
+
+
 class MentionEntityAffinityDataset(Dataset):
   def __init__(self, training_mention_tokens,training_mention_pos, 
                pair_indices,

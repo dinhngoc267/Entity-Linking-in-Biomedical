@@ -5,6 +5,23 @@ panel	O
 Should	O
 nurses	B:C0028661
 be	O
+prosecuted	O
+if	O
+they	O
+fail	O
+to	O
+report	O
+child	O
+abuse	O
+?	O
+
+Readers	O
+'	O
+panel	O
+-	O
+Should	O
+nurses	O
+be	O
 prosecuted	B:C0578842
 if	O
 they	O
@@ -17,6 +34,17 @@ abuse	O
 
 Our	O
 experts	B:C0009817
+consider	O
+a	O
+hot	O
+topic	O
+of	O
+the	O
+day	O
+.	O
+
+Our	O
+experts	O
 consider	O
 a	O
 hot	O
