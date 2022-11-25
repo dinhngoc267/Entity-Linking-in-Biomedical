@@ -1,0 +1,50 @@
+Draft	B:C0162326
+Genome	I:C0162326
+Sequence	I:C0162326
+of	O
+Salmonella	B:C1275777
+enterica	I:C1275777
+subsp	I:C1275777
+.	I:C1275777
+
+enterica	I:C1275777
+Serovar	I:C1275777
+Orion	I:C1275777
+Strain	I:C1275777
+CRJJGF_00093	I:C1275777
+(	O
+Phylum	B:C1709533
+Gammaproteobacteria	B:C0751988
+)	O
+
+Here	O
+,	O
+we	O
+report	B:C0684224
+a	O
+4.70	O
+-	O
+Mbp	O
+draft	B:C0162326
+genome	I:C0162326
+sequence	I:C0162326
+of	O
+Salmonella	B:C1275777
+enterica	I:C1275777
+subsp	I:C1275777
+.	I:C1275777
+
+enterica	I:C1275777
+serovar	I:C1275777
+Orion	I:C1275777
+strain	I:C1275777
+CRJJGF_00093	I:C1275777
+,	O
+isolated	O
+from	O
+a	O
+dog	B:C0012984
+in	O
+2005	O
+.	O
+

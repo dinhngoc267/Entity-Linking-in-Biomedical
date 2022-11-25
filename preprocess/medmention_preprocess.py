@@ -4,13 +4,13 @@ import stanza
 import os
 import argparse
 
-def load_corpus_into_dictionary(input_file: str):
+def load_corpus_into_dictionary(corpus_file: str):
     """
     input_file: string - file path of corpus
     """
     corpus = {}
     
-    with open(input_file, "r") as f:
+    with open(corpus_file, "r") as f:
         data = f.read().split('\n\n')
 
     for item in data:
@@ -180,6 +180,7 @@ def replace_abbr_with_long_form(corpus: dict, abbreviation_dict: dict):
 
 def main(args):
     
+    corpus_file = args.corpus_file
     input_file = args.input_file
     output_dir = args.output_dir
     ab3p_output_file = args.ab3p_output_file
@@ -188,72 +189,76 @@ def main(args):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
+    # read input_file
+    with open(input_file, "r") as f:
+        input_ids = f.read().split('\n')
 
-    corpus = load_corpus_into_dictionary(input_file=input_file)
+    corpus = load_corpus_into_dictionary(corpus_file=corpus_file)
     corpus = delete_overlapping_mentions(corpus=corpus)
 
     abbreviations_dict = load_Ab3P_output(ab3p_output_file)
     corpus = replace_abbr_with_long_form(corpus=corpus, abbreviation_dict=abbreviations_dict)
-
 
     st = stanza.Pipeline(lang='en', processors='tokenize')
 
     sents_dict = {}
 
     for id, doc in tqdm(corpus.items()):
-        lines = doc.split('\n')
-        
-        text = lines[0] + '\n' + lines[1]
-        list_entity_annotations = [x.split('\t') for x in lines[2:]]
-
-        doc = st(text)
-        list_sents = []
-
-        for sentence in doc.sentences:
-            list_tokens = []
-            exist_mention = False
-            for token in sentence.tokens:
-                string = token.text
-                start_c = token.start_char
-
-                flag = False
-                for entity in list_entity_annotations:
-                    if int(entity[0]) == start_c:
-                        flag = True
-                        list_tokens.append([string, 'B:'+ entity[-1]])
-                        exist_mention = True
-                        break
-                    elif int(entity[0]) < start_c and int(entity[1]) > start_c:
-                        exist_mention = True
-                        flag = True
-                        list_tokens.append([string, 'I:'+ entity[-1]])
-                        break
-                if flag==False:
-                    list_tokens.append([string, 'O'])
-            if exist_mention == True:
-                list_sents.append(list_tokens)
-
-        sents_dict[id] = list_sents
-        
-        output_file = os.path.join(output_dir, "{}.txt".format(id))
-
-        with open(output_file, "w") as f:
-            for sent in list_sents:
-                for word_tag in sent:
-                    f.write('\t'.join(word_tag) + '\n')
+        if id in input_ids:
+            lines = doc.split('\n')
             
-                f.write('\n')
-        
-        break
+            text = lines[0] + '\n' + lines[1]
+            list_entity_annotations = [x.split('\t') for x in lines[2:]]
+
+            doc = st(text)
+            list_sents = []
+
+            for sentence in doc.sentences:
+                list_tokens = []
+                exist_mention = False
+                for token in sentence.tokens:
+                    string = token.text
+                    start_c = token.start_char
+
+                    flag = False
+                    for entity in list_entity_annotations:
+                        if int(entity[0]) == start_c:
+                            flag = True
+                            list_tokens.append([string, 'B:'+ entity[-1]])
+                            exist_mention = True
+                            break
+                        elif int(entity[0]) < start_c and int(entity[1]) > start_c:
+                            exist_mention = True
+                            flag = True
+                            list_tokens.append([string, 'I:'+ entity[-1]])
+                            break
+                    if flag==False:
+                        list_tokens.append([string, 'O'])
+                if exist_mention == True:
+                    list_sents.append(list_tokens)
+
+            sents_dict[id] = list_sents
+            
+            output_file = os.path.join(output_dir, "{}.txt".format(id))
+
+            with open(output_file, "w") as f:
+                for sent in list_sents:
+                    for word_tag in sent:
+                        f.write('\t'.join(word_tag) + '\n')
+                
+                    f.write('\n')
 
     
 
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_file', type=str,
+    parser.add_argument('--corpus_file', type=str,
                     default="./data/raw/ST21pv/corpus_pubtator.txt",
-                    help='path of input file')
+                    help='path of corpus file')
+    parser.add_argument('--input_file', type=str,
+                    default="./data/raw/ST21pv/corpus_pubtator_pmids_trng.txt",
+                    help='path of input file (train/test')                
     parser.add_argument('--output_dir', type=str,
                     default="./data/processed/st21pv/train", 
                     help='path of output directionary')
