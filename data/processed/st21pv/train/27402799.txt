@@ -1,0 +1,78 @@
+C0524865||reconstructive
+C0038257||overlapping stent
+C0038257||LEO+
+C0025080||SILK
+C0087111||treatment
+C0524466||intracranial
+C0205113||circumferential
+C0333099||fusiform aneurysms
+C0005775||circulation
+C0524466||Intracranial
+C0205113||circumferential
+C0333099||fusiform aneurysms
+C0005775||circulation
+C0003842||arterial branches
+C0549099||perforating
+C0005847||vessels
+C0524865||reconstruction technique
+C4042807||telescoping self-expandable stent
+C0038257||LEO+
+C0025080||flow-diverter device
+C0025080||SILK
+C0205113||circumferential
+C0333099||fusiform aneurysm
+C0002940||aneurysm
+C0149576||posterior cerebral artery
+C0011900||diagnosed
+C0018681||headache
+C1265766||thrombosed aneurysm
+C1548802||lower
+C0004811||basilar artery
+C0011900||diagnosed
+C0022116||ischemia
+C0006121||brain stem
+C0524865||treatment
+C0005847||vascular
+C0524865||reconstruction technique
+C2937236||overlapping; a telescoped self-expandable stent
+C0038257||LEO+
+C0025080||flow-diverter device
+C0025080||SILK
+C0002978||Angiographic
+C0003842||arterial branches
+C0549099||perforating
+C0005847||vessels
+C0040053||thrombosis
+C0002940||aneurysm
+C4042807||self-expandable stent
+C0025080||flow-diverter device
+C0009566||complications
+C1522577||follow-up
+C0003842||arterial
+C0005847||vascular
+C0524865||reconstruction
+C0002940||aneurysm
+C0002978||angiographic
+C1522577||follow-up
+C3854508||aneurysm recanalization
+C1261287||intra-stent stenosis
+C0205113||Circumferential
+C0333099||fusiform aneurysm
+C0005775||circulation
+C0003842||arterial branches
+C0549099||perforating
+C0005847||vessels
+C0006121||brain stem
+C0003842||arterial
+C0524865||reconstruction technique
+C4042807||self-expandable stent
+C0038257||LEO+
+C0025080||flow-diverter device
+C0025080||SILK
+C0009566||complications
+C0524865||technique
+C2937236||arterial reconstruction
+C0040053||thrombosis
+C0002940||aneurysmatic sac
+C0003842||eloquent arteries
+C0917996||cerebral aneurysm

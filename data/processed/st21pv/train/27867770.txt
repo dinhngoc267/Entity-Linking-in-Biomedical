@@ -1,0 +1,86 @@
+C0960549||okara
+C0317608||Lactobacillus plantarum
+C0007634||cells
+C0015852||fermentation
+C0022179||glucosidic isoflavone
+C0007620||cell survival
+C0021853||intestinal
+C0282542||Cell immobilization
+C0025974||microencapsulation
+C0007634||cells
+C0960549||Okara
+C0016452||food-grade
+C2717875||prebiotics
+C0317608||Lactobacilli
+C2603343||study
+C0960549||okara
+C0007634||L. plantarum 70810 cells
+C0960549||okara-immobilized
+C0007634||L. plantarum 70810 cells
+C0007634||IL
+C0015852||fermentation
+C0022179||glucosidic isoflavone
+C0007634||cell
+C0021853||intestinal
+C0449430||stresses
+C0026020||Scanning electron microscopy
+C0026020||Scanning electron microscopy
+C0007634||cells
+C0205148||surface
+C0960549||okara
+C0064582||Lactic acid
+C0000983||acetic acid
+C0022179||isoflavone
+C0936012||analyses
+C1827145||fermented
+C0201764||HPLC with UV detection
+C0282542||immobilized
+C0007634||free L. plantarum 70810 cells
+C0007634||FL
+C0015852||fermentation
+C1304686||pH
+C0368606||titrable acidity
+C0025663||conventional methods
+C0521362||gastrointestinal
+C1827145||fermented
+C2987620||inoculated
+C0007634||FL
+C0007634||IL
+C1439852||incubated
+C0030296||pancreatic juices
+C0005404||bile salts
+C0021853||intestinal
+C0449430||stresses
+C0201253||plate count of colony forming units
+C1720273||MRS agar
+C0026020||Scanning electron microscopy
+C0317608||lactobacilli
+C0007634||cells
+C0205148||surface
+C0960549||okara
+C0007634||FL
+C0007634||IL
+C0018270||growth
+C0064582||lactic
+C0000983||acetic acids
+C1304686||pH
+C0368606||titrable acidity
+C0007634||IL
+C0022179||daizein
+C0061202||genistein
+C0007634||FL
+C0007634||IL
+C0021853||intestinal
+C0449430||stresses
+C0728725||low pH
+C0728725||low pH plus
+C0014442||pepsin
+C0030304||pancreatin
+C0005404||bile salt
+C0960549||okara
+C0018270||growth
+C0022179||glucosidic isoflavone
+C0317608||L. plantarum
+C0184511||improve
+C0007620||cell survivability
+C0021853||intestinal

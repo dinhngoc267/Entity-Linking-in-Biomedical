@@ -1,0 +1,66 @@
+C1514474||prognostic value
+C3899187||extranodal extension
+C0021344||human papillomavirus
+C0280313||oropharyngeal squamous cell carcinoma
+C3899187||Extranodal (or extracapsular) extension
+C3899187||ENE
+C1514474||adverse prognostic factor
+C0278996||head and neck cancers
+C2081627||primary surgery
+C3899187||ENE
+C2828150||human papillomavirus (HPV)-positive oropharyngeal squamous cell carcinoma (OPSCC)
+C2607850||single-institution
+C2603343||studies
+C3899187||ENE
+C0542339||inferior
+C1514474||prognostic value
+C3899187||ENE
+C0021344||human papillomavirus
+C1446409||positive
+C2081627||primary surgery
+C3178761||adjuvant chemoradiation
+C3899187||ENE
+C1446409||positive
+C2081627||primary surgery
+C0027651||pT4 tumors
+C0024204||pN3 lymph node
+C2828150||HPV-positive OPSCC
+C3899187||ENE
+C0936012||analyzed
+C0034980||Univariable and multivariable Cox regression analyses
+C3899187||ENE
+C1446409||positive
+C0220825||evaluated
+C3899187||ENE
+C1446409||positive
+C3899187||ENE
+C1446409||positive
+C0087111||treatment
+C3178775||concurrent chemoradiotherapy
+C0038886||radiotherapy
+C1522577||follow-up
+C3899187||ENE
+C1457868||worse
+C0034980||multivariable analysis
+C0024204||lymph nodes
+C3899187||ENE
+C1708790||lymphovascular invasion
+C0027651||pT3/pT4 tumors
+C1457868||worse
+C3899187||ENE
+C1446409||positive
+C3178761||adjuvant concurrent chemoradiotherapy
+C0038886||radiotherapy alone
+C3899187||ENE
+C0542339||inferior
+C2828150||HPV-positive OPSCC
+C4049139||not better
+C3178761||adjuvant chemoradiotherapy
+C0038886||radiotherapy alone
+C3899187||ENE
+C1446409||positive
+C0033522||prospective studies
+C3178761||adjuvant chemoradiation
+C0021344||human papillomavirus
+C1446409||positive
+C3899187||ENE

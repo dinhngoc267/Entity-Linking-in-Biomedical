@@ -1,0 +1,44 @@
+C0682492||Grapevine
+C0767764||Subtilase Family
+C0004793||Sequences
+C0600281||Nomenclature Proposal
+C0682492||grapevine
+C2717971||serine peptidases
+C0767764||subtilase family
+C1091290||Plasmopara viticola
+C0682492||grapevine
+C0936012||re-analyzed
+C0767764||subtilase
+C0017337||genes
+C1705803||National Center for Biotechnology Information
+C0242356||database
+C1705803||National Center for Biotechnology Information database
+C0682492||grapevine
+C2936606||genome annotation
+C0026382||sequencing data
+C0002045||algorithms
+C2936606||gene annotations
+C0682492||grapevine
+C0767764||subtilase
+C1517488||gene family
+C0004793||sequences
+C0767764||SBT
+C0600091||sequence identifiers
+C1140694||bioinformatic
+C0600281||nomenclature
+C0682492||grapevine
+C0767764||SBT
+C0017337||genes
+C0456984||results
+C0682492||grapevine
+C0767764||subtilase
+C1517488||gene family
+C0767764||subtilase
+C0017337||genes
+C0767764||subtilase proteins
+C0596611||alterations
+C0017262||expression
+C0767764||subtilases
+C0682492||grapevine
+C1091290||P. viticola
+C0596611||alteration

@@ -1,0 +1,43 @@
+C3179130||Multidetector CT
+C1517001||expected
+C0243095||findings
+C0009566||complications
+C0021446||inguinal hernia repair
+C0543467||surgery
+C0021446||Inguinal hernia repair
+C0021446||Inguinal hernia repair
+C0175649||prosthetic
+C0181805||mesh
+C0021107||implantation
+C0087111||procedure
+C2242991||general surgery
+C0348025||open
+C0393360||laparoscopic approach
+C0021446||Inguinal hernia repair
+C1517001||expected
+C0231287||postoperative
+C1287399||imaging findings
+C0854404||iatrogenic injuries
+C3179130||multidetector CT
+C1279151||groin region
+C0205125||deeper
+C0588044||intra-abdominal structures
+C0040405||CT
+C0262627||seroma
+C3888473||mesh infections
+C0019080||hemorrhages
+C0021853||bowel
+C0009566||complications
+C0005682||urinary bladder
+C0403677||injuries
+C0334907||radiologists
+C0009566||complications
+C0600269||familiarity
+C0040405||CT
+C1881134||studies
+C0021446||Inguinal hernia repair
+C0009566||complications
+C0231287||postoperative
+C0205234||focal
+C1261287||pseudolesions
+C0376636||management

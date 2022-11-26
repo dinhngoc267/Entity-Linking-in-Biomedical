@@ -1,0 +1,36 @@
+C0079435||Systematic mapping
+C0014290||enhancer
+C2350877||promoter
+C0200924||CRISPR interference
+C0017262||Gene expression
+C0024660||mammals
+C0017263||regulated
+C0021920||noncoding elements
+C0031843||physiology
+C0012634||disease
+C0017337||target genes
+C0021920||noncoding elements
+C0200924||clustered regularly interspaced short palindromic repeats (CRISPR) interference
+C0200924||CRISPRi
+C0021920||regulatory elements
+C0017337||target genes
+C0004793||sequence
+C0040648||transcription factors
+C1137610||MYC
+C1530719||GATA1
+C0205108||distal
+C0014290||enhancers
+C0017262||gene expression
+C0596290||cellular proliferation
+C0008546||chromatin
+C0008633||chromosome
+C1299941||conformation
+C0014290||enhancers
+C1137610||MYC
+C0004793||elements
+C0014290||enhancer
+C2350877||promoter
+C0200924||CRISPRi
+C1720950||transcriptional networks
+C0086418||human
+C0012634||disease

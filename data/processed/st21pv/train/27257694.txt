@@ -1,0 +1,53 @@
+C4075886||specific frailty index
+C0681836||validation study
+C0220825||Assessment
+C0424594||Frailty
+C0086930||risk assessment
+C2603343||study
+C1519941||validate
+C4075415||emergency general surgery specific frailty index
+C4075415||emergency general surgery specific frailty index
+C0032787||Post-operative complications
+C4075886||Frailty Index
+C1443182||calculated
+C4075886||Rockwood Frailty Index
+C4075886||Frailty Index
+C4075415||emergency general surgery specific frailty index
+C0034980||regression model
+C0032787||complications
+C4075886||Frailty Index
+C0871754||frail
+C1519941||validated
+C0032787||complications
+C1519941||Validation
+C1516879||enrolled
+C2603343||study
+C0032787||complications
+C0032787||complications
+C0032285||pneumonia
+C0042029||UTI
+C0043241||wound infection
+C0032787||complications
+C4075415||emergency general surgery specific frailty index
+C4075885||frailty score
+C0871754||frail
+C0871754||frail
+C0871754||non-frail
+C1516879||enrolled
+C1519941||validation
+C0599755||cohort
+C0871754||Frail
+C0032787||post-operative complications
+C0871754||Frail
+C4075415||emergency general surgery specific frailty index
+C0032787||post-operative complications
+C0032787||postoperative complications
+C1519941||validated
+C4075415||emergency general surgery specific frailty index
+C0424594||frailty status
+C0871754||Frail
+C4075415||emergency general surgery specific frailty index
+C0032787||post-operative complications
+C0242481||Prognostic Studies
+C1285579||Patient Characteristic
+C0679250||Outcome of Disease

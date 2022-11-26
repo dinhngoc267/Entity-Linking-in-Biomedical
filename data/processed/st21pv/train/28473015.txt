@@ -1,0 +1,52 @@
+C0225335||MESOTHELIAL CELL
+C0005846||VASCULAR PROSTHESES
+C0018270||GROWTH
+C0007634||Cell
+C1705192||seeding
+C0040053||thrombogenicity
+C0021102||implanted
+C0225336||endothelial cells
+C0086418||Human
+C0442034||peritoneal
+C0225335||mesothelial cells
+C0232338||blood flow
+C0225335||mesothelial cells
+C0005846||vascular prostheses
+C0018270||growth
+C1282913||Circular
+C0444752||prosthetic materials
+C1705192||seeded
+C0303212||51Chromium-labeled
+C0225335||mesothelial
+C0225336||endothelial cells
+C0007634||cells
+C0007634||cell
+C0225335||mesothelial cells
+C0947693||Dacron
+C1705192||seeded
+C0243095||reached
+C0026020||Scanning electron microscopy
+C0225335||mesothelial cells
+C0947693||Dacron fibers
+C0022885||preincubation
+C0947693||Dacron
+C0016055||fibronectin
+C0150312||found
+C0022885||preincubation
+C0086418||human
+C0036773||serum albumin
+C0017237||gelatin
+C0225335||Mesothelial cells
+C0947693||plain Dacron
+C0225335||mesothelial cells
+C0015312||ePTFE
+C0699518||Teflon
+C1273937||No significant
+C0150312||found
+C0225335||mesothelial
+C0225336||endothelial cells
+C0225335||Mesothelial cell
+C0018270||growth
+C0947693||Dacron
+C0947693||Dacron
+C0225335||mesothelial cells

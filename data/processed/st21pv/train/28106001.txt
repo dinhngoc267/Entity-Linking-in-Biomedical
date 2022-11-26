@@ -1,0 +1,50 @@
+C0015801||femoral artery
+C0034117||puncture
+C0002979||digital subtraction angiography
+C0019080||bleeding
+C0009566||complications
+C3509486||transcatheter aortic valve implantation
+C0019080||bleeding
+C0009566||complications
+C3509486||transcatheter aortic valve implantation
+C3509486||transcatheter aortic valve implantation
+C0936012||analysis
+C0015801||femoral artery
+C0034117||puncture
+C0002979||digital subtraction angiography
+C0002979||digital subtraction angiography
+C3509486||transcatheter aortic valve implantation
+C1141861||periprocedural
+C0005847||vascular
+C0019080||bleeding
+C0936012||analysis
+C3509486||transcatheter aortic valve implantation
+C0242356||prospective institutional database
+C0015801||femoral artery
+C0034117||puncture
+C0002979||digital subtraction angiography
+C0005847||vascular
+C0034117||puncture
+C0002978||angiographic
+C1279169||iliofemoral
+C0504075||landmarks
+C3509486||transcatheter aortic valve implantation
+C3509486||transcatheter aortic valve implantation
+C0003281||periprocedural anticoagulation
+C0025080||single suture-based closure device
+C0282574||VARC-2 criteria
+C3164744||baseline logistic EuroSCORE
+C0456389||sheath size
+C0021107||implantation
+C0019080||bleeding
+C0936012||analysis
+C0009566||complications
+C0019080||bleeding
+C0009566||complications
+C0015801||femoral artery
+C0034117||puncture
+C0002979||digital subtraction angiography
+C0019080||bleeding
+C0009566||complications
+C3509486||transcatheter aortic valve implantation
+C2987124||patient outcomes

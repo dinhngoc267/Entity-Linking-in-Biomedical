@@ -1,0 +1,41 @@
+C1436532||HIF2
+C0279702||Clear Cell Renal Cell Carcinoma
+C1566585||von Hippel-Lindau tumor-suppressor protein
+C1566585||pVHL
+C0243095||signature "truncal" event
+C0279702||clear cell renal cell carcinoma
+C1378703||kidney cancer
+C1566585||pVHL
+C0077678||ubiquitin ligase
+C0599220||α subunit
+C1528322||hypoxia-inducible factor (HIF) transcription factor
+C0008972||studies
+C1514542||deregulation
+C1528322||hypoxia-inducible factor
+C1436532||HIF2
+C1566585||pVHL
+C1378703||renal carcinogenesis
+C0538487||HIF2α
+C0041740||University of Texas Southwestern
+C1328819||small molecule
+C0243076||HIF2α antagonists
+C3896783||PT2385
+C0243076||PT2399
+C0815266||Peloton Therapeutics
+C1323327||dimerization
+C0538487||HIF2α
+C1506870||protein ARNT1
+C1512773||inhibit clear cell renal cell carcinoma growth
+C1514292||preclinical models
+C3896783||PT2385
+C0442592||clinic
+C1254351||such compounds
+C3658200||clustered regularly interspaced short palindromic repeat
+C3658200||clustered regularly interspaced short palindromic repeat
+C4277689||gene editing approaches
+C0279702||clear cell renal carcinomas
+C0520484||xenografts
+C1436532||HIF2
+C0041366||predictive biomarkers
+C1254351||such agents
+C0442592||clinic

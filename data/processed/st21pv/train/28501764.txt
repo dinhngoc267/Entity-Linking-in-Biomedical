@@ -1,0 +1,48 @@
+C1709323||Open-label, multicentre safety study
+C3192263||vemurafenib
+C3811884||BRAF(V600) mutation
+C1514241||positive
+C0278883||metastatic melanoma
+C1522577||follow-up
+C0936012||responders' analysis
+C0442027||orally
+C3838813||BRAF kinase inhibitor
+C3192263||vemurafenib
+C0683525||treatment option
+C0278883||metastatic melanoma
+C3811884||BRAF(V600) mutations
+C3192263||vemurafenib
+C1257890||population
+C0683525||treatment options
+C1709323||open-label, multicentre study
+C3192263||vemurafenib
+C0332155||untreated
+C3811884||BRAF mutation
+C1514241||positive
+C0278883||metastatic melanoma
+C0025080||cobas(®) 4800
+C1504359||BRAF V600 Mutation Test
+C0936012||exploratory analysis
+C0549183||median
+C1522577||follow-up
+C0558681||discontinued treatment
+C0877248||Adverse events
+C0877248||Adverse events
+C0877248||Adverse events
+C0003862||arthralgia
+C0002170||alopecia
+C0870082||hyperkeratosis
+C0877248||Adverse events
+C0553723||squamous cell carcinoma of the skin
+C0022572||keratoacanthoma
+C0936012||exploratory analysis
+C0877248||Adverse events
+C1257890||population
+C0743284||vemurafenib exposure
+C1522577||follow-up
+C3811884||BRAF(V600) mutation
+C1514241||positive
+C0278883||metastatic melanoma
+C0008976||clinical trial
+C1257890||populations
+C3192263||vemurafenib

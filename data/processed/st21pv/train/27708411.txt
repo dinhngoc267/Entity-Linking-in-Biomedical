@@ -1,0 +1,49 @@
+C0920681||DNA annealing
+C0766456||Redβ
+C0599773||homologous recombination
+C0033684||Single strand annealing proteins
+C0033684||Single strand annealing proteins
+C0766456||Redβ
+C0599773||homologous recombination
+C0006556||annealing complementary DNA strands
+C1514568||C-terminally truncated
+C0766456||Redβ
+C0920681||annealing
+C1158503||nucleoprotein filament formation
+C0599773||homologous recombination
+C0026882||Mutations
+C1514562||C-terminal domain
+C0012935||single
+C0311474||double stranded
+C0012935||ss
+C0311474||ds
+C0034865||recombination
+C0005507||assays
+C0012878||Mutations
+C0002520||critical amino acids
+C0311474||dsDNA
+C1158522||recombination
+C0012935||ssDNA
+C1158522||dsDNA recombination
+C1158522||dsDNA recombination
+C1158522||recombination
+C1449705||co-immunoprecipitation experiments
+C1158522||dsDNA recombination function
+C0033684||Redα
+C0766456||Redβ
+C0872079||protein-protein interaction
+C1514562||C-terminal domain
+C1514562||N-terminus
+C1158503||nucleoprotein filament formed
+C1514568||C-terminally truncated
+C0766456||Redβ
+C1149341||C-terminal function
+C1511658||interaction
+C0025979||filaments
+C1149341||C-terminal function
+C0766456||Redβ
+C1659605||host factor interaction
+C0599773||Red recombination
+C0766456||Redβ
+C0663124||RAD52
+C0033684||Single strand annealing proteins

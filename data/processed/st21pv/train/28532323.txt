@@ -1,0 +1,16 @@
+C1327622||regulation
+C4284633||histone variant H2A.Z
+C0007586||cell cycle
+C1523807||ubiquitin proteasome system
+C2247240||SUMO-targeted ubiquitin ligases
+C0019652||histones
+C1529369||histone variants
+C0007586||cell cycle
+C1160465||epigenetic functions
+C4284633||yeast histone variant H2A.Z
+C3824600||G2/M-phase
+C1523807||ubiquitin proteasome system
+C2247240||SUMO-targeted ubiquitin ligases
+C1514559||Overexpression
+C4284633||H2A.Z
+C1155864||induced defects in mitotic progression

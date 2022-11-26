@@ -1,0 +1,73 @@
+C0325635||phasianid genera
+C0005595||Aves
+C0325589||Galliformes
+C2346460||phylogenomic and mitogenomic data
+C0325635||Phasianidae
+C0999292||pheasants
+C1828284||partridges
+C3973343||allies
+C0012854||DNA
+C0449416||source material
+C0872179||phylogenetic data
+C1035898||blood pheasants
+C1035898||Ithaginis
+C3684199||snow partridges
+C3684199||Lerwa
+C2291854||long-billed partridges
+C2291854||Rhizothera
+C3684199||Lerwa
+C1035898||Ithaginis
+C2291854||Rhizothera
+C0999297||Perdix
+C0999297||true partridges
+C0010744||cytochrome b
+C0010744||cytochrome b
+C0999301||Pucrasia
+C0999301||koklass pheasant
+C1035898||Ithaginis
+C3684199||Lerwa
+C2291854||Rhizothera
+C0325635||phasianid relatives
+C0678933||ultra-conserved element (UCE) loci
+C0017428||mitogenomes
+C1705920||species
+C0325635||phasianid clades
+C0012854||DNA extracted
+C1848515||specimen toepads
+C2711421||lacked fresh tissue
+C0200345||museum collections
+C3684199||Lerwa
+C0325635||large clade
+C1035898||Ithaginis
+C3669390||turkey
+C0325618||grouse
+C0999292||pheasants
+C0325686||tragopans
+C0999301||Pucrasia
+C0999297||Perdix
+C2291854||Rhizothera
+C0325635||clade
+C0999297||Perdix
+C0999292||pheasants
+C0999301||Pucrasia
+C3669390||turkey
+C0325618||grouse
+C0017298||Mitogenomic genealogies
+C1035898||Ithaginis
+C3684199||Lerwa
+C2291854||Rhizothera
+C0017428||mitogenomes
+C0936012||analytical choices
+C0162802||codon-based analyses
+C2291854||Rhizothera
+C0325635||tragopan clade
+C0026343||DNA model
+C0017428||mitogenome
+C0243095||UCE results
+C3854164||mitogenome analyses
+C0999301||Pucrasia
+C0325635||clade
+C0999297||Perdix
+C0999292||pheasants
+C0993637||published nuclear intron data
+C0325635||phasianid taxa

@@ -1,0 +1,63 @@
+C2001525||Ceftaroline fosamil
+C0694549||community-acquired pneumonia
+C1123023||skin
+C3714514||skin structure infections
+C1955832||systematic review
+C2001525||Ceftaroline
+C3536856||cephalosporin
+C0205229||expanded
+C1321418||activity
+C3536856||cephalosporins
+C0087111||therapy
+C1955832||Review
+C2001525||ceftaroline
+C0003232||antibiotic
+C0040808||regimens
+C0694549||community-acquired pneumonia
+C0694549||community-acquired pneumonia
+C3714514||complicated skin and skin structure infections
+C3714514||complicated skin and skin structure infections
+C0242356||databases
+C0025141||MEDLINE
+C0242356||EBSCO
+C0242356||Embase
+C1522486||experts
+C0887929||unpublished data
+C0206035||Randomized controlled trials
+C2001525||ceftaroline
+C0694549||community-acquired pneumonia
+C3714514||cSSSI
+C1257890||populations
+C3640840||clinical cure
+C0877248||adverse events
+C1519255||serious adverse events
+C4288399||discontinuation
+C0877248||adverse events
+C0282458||Meta-analysis
+C1515021||subgroup
+C0936012||analyses
+C0085426||gram positive infections
+C0694549||community-acquired pneumonia
+C3714514||infections
+C1265292||methicillin-resistant Staphylococcus aureus
+C3714514||complicated skin and skin structure infections
+C2603343||studies
+C0694549||community-acquired pneumonia
+C2001525||ceftaroline
+C3640840||clinical cure
+C0007561||ceftriaxone
+C3714514||complicated skin and skin structure infections
+C3640840||clinical cure
+C2001525||ceftaroline
+C0042313||vancomycin
+C0004521||aztreonam
+C1519255||serious adverse events
+C4288399||discontinuation
+C0877248||adverse events
+C0877248||adverse events
+C2001525||Ceftaroline
+C0949216||therapeutic alternative
+C0694549||community-acquired pneumonia
+C3714514||complicated skin and skin structure infections
+C2924039||poor external validity
+C0003232||first-line agent

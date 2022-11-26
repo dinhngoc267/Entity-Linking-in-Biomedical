@@ -1,0 +1,33 @@
+C0879427||Panitumumab
+C0085584||Encephalopathy
+C0185125||Application
+C0025080||Dislocated Central Venous Access Device
+C3714787||central nervous system
+C3714787||central nervous system
+C3160947||toxicity
+C0879626||side effects
+C0003250||monoclonal antibodies
+C0920425||cancer therapy
+C4014441||acute-onset encephalopathy
+C0009421||coma
+C0879427||panitumumab
+C0087111||treatment
+C0948380||metastatic colorectal cancer
+C0013516||Echocardiography
+C0013227||drug
+C0225897||left cardiac ventricle
+C0025080||dislocated central venous line
+C0598801||Diffusion-weighted magnetic resonance imaging
+C3149362||cortical hyperintensities
+C0016733||frontal lobes
+C0027765||neurological condition
+C0011065||died
+C0003241||antibody
+C0012634||condition
+C0149504||Toxic encephalopathy
+C0009566||complication
+C0879427||panitumumab
+C0087111||treatment
+C3714787||central nervous system
+C1457887||symptoms
+C0087111||therapy

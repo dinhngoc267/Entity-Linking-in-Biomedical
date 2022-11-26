@@ -1,0 +1,57 @@
+C0243107||Development
+C0055661||chrysin
+C0600615||poloxamer
+C0220825||evaluation
+C0016163||fish
+C0013935||embryos
+C0600615||Poloxamer
+C0025938||micelles
+C0043047||water
+C0013227||drugs
+C0055661||Chrysin
+C3179302||antioxidant
+C1148560||anti-aromatase activities
+C0043047||water
+C0039429||pharmaceutical application
+C0055661||chrysin
+C0600615||poloxamer
+C0025938||micelles
+C0600615||poloxamers
+C0032254||Pluronic F-68
+C0032253||Pluronic F-127
+C0055661||chrysin
+C0032254||Pluronic F-68
+C0025938||micelles
+C0025938||chrysin loaded Pluronic F-68 micelles
+C0055661||chrysin
+C0032253||Pluronic F-127
+C0025938||micelles
+C0025938||chrysin loaded Pluronic F-127 micelles
+C0055661||chrysin
+C0032521||polymer
+C0013227||drug
+C0032521||polymer
+C0456389||size
+C0025938||micelles
+C0025938||micelle system
+C0025938||chrysin loaded Pluronic F-68 micelles
+C0025938||chrysin loaded Pluronic F-127 micelles
+C0013227||drug
+C0032521||polymer
+C0043457||zebrafish
+C0029974||eggs
+C0025938||chrysin loaded Pluronic F-68 micelles
+C0025938||chrysin loaded Pluronic F-127 micelles
+C0025938||chrysin loaded Pluronic F-68 micelles
+C0025938||chrysin loaded Pluronic F-127 micelles
+C0043457||zebrafish
+C0013935||embryo
+C0018270||growth
+C2603343||study
+C0055661||chrysin
+C0055661||Chrysin
+C0600615||poloxamer
+C0025938||micelles
+C0024660||mammalian
+C0003062||animals
+C0086418||humans

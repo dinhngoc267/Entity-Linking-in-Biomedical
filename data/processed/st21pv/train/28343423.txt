@@ -1,0 +1,43 @@
+C1536570||Management
+C3274502||precipitated opiate withdrawal syndrome
+C0068377||nalmefene
+C0376196||opiate
+C0282443||review
+C0871685||clinicians
+C0068377||Nalmefene
+C3536879||long-acting µ-opioid antagonist
+C0376196||opiate
+C0242402||opioid
+C0023866||literature
+C0687133||drug-drug interactions
+C0068377||nalmefene
+C0242402||opioids
+C0029104||precipitated opioid withdrawal
+C1536570||management
+C0017313||care
+C0030685||discharge
+C3494708||comprehensive review
+C3274502||precipitated opioid withdrawal syndrome
+C0068377||nalmefene
+C0242402||opioid
+C1997897||misused
+C0376196||opiate
+C0013227||drugs
+C0687133||drug-drug interactions
+C0242402||opioid
+C4284232||medications
+C0376196||Opiate
+C0035648||risk factors
+C0068377||nalmefene
+C0806914||administered
+C0376196||opiate
+C3274502||opioid withdrawal syndrome
+C1536570||Management
+C0029104||opioid withdrawal
+C1373059||long-acting µ-opioid agonists
+C0019993||hospitalization
+C0344211||supportive treatment
+C1610129||management
+C0556390||polydrug abusers
+C0729737||multidisciplinary approach
+C0184511||improved

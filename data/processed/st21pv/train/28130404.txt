@@ -1,0 +1,75 @@
+C0040300||Tissue
+C0243095||antiviral
+C1817907||T cell immunity
+C0086418||human
+C0010823||CMV infection
+C0039194||T cell
+C0301872||responses
+C0042776||viruses
+C0040300||tissue
+C0086418||human
+C0243095||antiviral
+C0039194||T cells
+C0005767||blood
+C0010825||Cytomegalovirus
+C0010825||Cytomegalovirus
+C0086418||humans
+C1817907||T cell immunity
+C0040300||tissue
+C0301872||immune responses
+C0086418||human
+C0010825||Cytomegalovirus
+C0039194||T cells
+C0042776||virus
+C0010825||Cytomegalovirus
+C0039194||T cell
+C0019868||homeostasis
+C0005767||blood
+C0024296||lymphoid
+C0026724||mucosa
+C0040300||secretory tissues
+C0010825||Cytomegalovirus
+C0521144||seronegative
+C0013018||donors
+C0010825||Cytomegalovirus
+C0039194||T cells
+C0449775||distribution patterns
+C0005767||blood
+C0005953||bone marrow
+C0005953||bone marrow
+C0024204||lymph nodes
+C0024204||lymph nodes
+C0005767||blood
+C0040300||tissues
+C0010825||Cytomegalovirus
+C0017428||genomes
+C0442726||detected
+C0024109||lung
+C0037993||spleen
+C0005953||bone marrow
+C0005767||blood
+C0024204||lymph nodes
+C0010825||Cytomegalovirus
+C0039194||T cells
+C0005767||blood
+C0005953||bone marrow
+C1154657||virus detection
+C0024109||lung
+C0010825||Cytomegalovirus
+C0039194||T cells
+C0042776||virus
+C0024204||LNs
+C0010825||Cytomegalovirus
+C0039194||T cells
+C0042776||virus
+C0039194||T cell
+C0007589||differentiation
+C0040300||tissue
+C0039194||T cell
+C0010825||Cytomegalovirus
+C0085557||control
+C0040300||tissue
+C0021918||intrinsic factors
+C0019868||homeostasis
+C0040300||tissue
+C0039194||T cells

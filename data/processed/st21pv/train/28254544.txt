@@ -1,0 +1,54 @@
+C0025219||Melatonin
+C0028128||nitric oxide
+C3269637||regulate
+C0947381||sunflower
+C3156975||seedling growth
+C1154956||salt stress
+C1171362||expression
+C0010461||Cu/Zn SOD
+C0024708||Mn SOD
+C1154956||Salinity results
+C0947381||sunflower
+C0947381||Helianthus annuus L.
+C3156975||seedling growth
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0025219||melatonin
+C0003402||antioxidant
+C0028128||nitric oxide
+C0028128||nitric oxide
+C1154956||NaCl-stress
+C1519315||signaling molecule
+C0242437||seedling
+C0242769||cotyledons
+C0025219||melatonin
+C0037494||NaCl
+C3156975||seedling growth
+C0028128||nitric oxide
+C0038836||potential superoxide anion
+C0038836||O2(•-)
+C0136157||peroxynitrite anion
+C0136157||ONOO(-)
+C4050156||tyrosine-nitration
+C0033684||proteins
+C1151619||activity of superoxide dismutase
+C0038838||superoxide dismutase
+C0597298||isoforms
+C0028128||nitric oxide
+C0025219||melatonin
+C0242437||seedling
+C0242769||cotyledons
+C1514991||long-distance signaling response
+C2246284||Modulation of superoxide anion
+C0136157||peroxynitrite anion
+C0025219||melatonin
+C0162772||reactive oxygen species
+C0969698||reactive nitrogen species
+C0025219||melatonin
+C0028128||nitric oxide
+C3156975||seedling growth
+C1154956||salt stress accompanying
+C0038838||superoxide dismutase
+C0597298||isoforms
+C0010461||Cu/Zn SOD
+C0024708||Mn SOD

@@ -1,0 +1,49 @@
+C0220825||assessment
+C0198737||bilateral inguinal hernia repair
+C0087111||laparoscopic total extraperitoneal
+C0087111||Stoppa approaches
+C0008976||clinical trial
+C0198737||bilateral inguinal hernia repair
+C0087111||Stoppa technique
+C0521293||laparoscopic total extraperitoneal repair
+C0521293||laparoscopic total extraperitoneal repair
+C0181805||mesh
+C1293125||staple fixation
+C0034656||randomised
+C0008976||clinical trial
+C1708333||General Surgery and Trauma of the Clinics Hospital
+C1708333||Medical School
+C1708333||University of Sγo Paulo
+C0267672||bilateral inguinal hernia
+C2603343||study
+C0936012||analysed
+C0006560||C-reactive protein
+C0006560||C-reactive protein
+C0023508||white blood cell count
+C0019080||bleeding
+C1320357||pain intensity
+C0220825||assessment
+C0032787||post-operative complications
+C0521293||LTE procedure
+C0087111||Stoppa procedure
+C0006560||C-reactive protein
+C0087111||Stoppa
+C0023516||leucocytes
+C0518014||haematocrit
+C0019046||haemoglobin
+C0030193||pain
+C0241311||post-operative
+C0516981||physical functioning
+C0030193||pain
+C0349674||Carolinas Comfort Scale
+C0241311||post-operative
+C0009566||Complications
+C0087111||Stoppa
+C0521293||laparoscopic total extraperitoneal repair
+C1579762||comparative study
+C0087111||Stoppa
+C0521293||laparoscopic total extraperitoneal repair
+C0198737||bilateral inguinal hernia repair
+C0521293||laparoscopic total extraperitoneal repair
+C0009566||Complication
+C0087111||Stoppa

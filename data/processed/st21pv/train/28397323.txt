@@ -1,0 +1,58 @@
+C1515021||subgroup
+C0936012||analysis
+C0599755||cohort
+C3280768||Posterior fossa abnormalities
+C0024485||in utero magnetic resonance (iuMR) imaging
+C0015965||fetuses
+C0011900||diagnosed
+C3280768||abnormalities of the posterior fossa
+C3809358||intracranial abnormality
+C0080265||antenatal ultrasonography
+C0080265||USS
+C0684224||report
+C1515021||sub-group
+C0936012||analysis
+C0015965||fetuses
+C3280768||abnormalities of the posterior fossa
+C0011900||diagnosed
+C0080265||antenatal USS
+C0599755||cohort
+C0024485||iuMR imaging
+C0080265||USS
+C0080265||USS
+C0024485||in utero magnetic resonance
+C0684224||reported
+C0021212||indicators
+C0033325||prognosis
+C1516615||clinical management
+C3280768||Abnormalities confined to the posterior fossa
+C0080265||USS
+C0015965||fetuses
+C0682552||parenchymal
+C0007806||CSF
+C0221198||lesions
+C0442726||detecting
+C3280768||posterior fossa abnormality
+C0080265||USS
+C0024485||in utero magnetic resonance
+C0025663||method
+C0441610||reduction
+C0011900||diagnoses
+C0024485||iuMR imaging
+C0033325||prognostic information
+C0043210||women
+C0024485||iuMR imaging
+C0024485||in utero magnetic resonance
+C1516615||clinical management
+C0564585||decisive
+C0043210||woman
+C0015965||fetus
+C3280768||posterior fossa abnormality
+C3809358||intracranial finding
+C0080265||USS
+C0024485||iuMR imaging
+C0220825||evaluation
+C0184511||improved
+C0033325||prognostic information
+C0043210||women
+C1516615||clinical management

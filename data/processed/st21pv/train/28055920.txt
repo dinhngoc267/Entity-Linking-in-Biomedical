@@ -1,0 +1,16 @@
+C0023185||subspace learning
+C1704922||image
+C0008902||classification
+C0348018||projection
+C0442335||vectors
+C0035171||greedy strategy
+C0348018||projection
+C0442335||vectors
+C1706817||solution
+C0002045||trace ratio optimization algorithm
+C0282574||dimensionality reduction
+C0237818||recognition
+C0002045||nongreedy algorithm
+C0489829||trace ratio formula
+C0242356||databases
+C0002045||algorithm

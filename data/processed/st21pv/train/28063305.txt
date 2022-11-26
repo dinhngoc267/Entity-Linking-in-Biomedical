@@ -1,0 +1,68 @@
+C0317597||Lactobacillus rhamnosus
+C0022940||Lactobacillus casei
+C0006837||Candida
+C0081786||biofilm
+C0457711||denture surface
+C0006837||Candida albicans
+C0081786||biofilm
+C0038364||denture-related stomatitis
+C0006849||oral candidiasis
+C0001792||elderly
+C0525033||Probiotics
+C0004611||bacteria
+C0243095||antibacterial activity
+C0004611||pathogenic bacteria
+C0243095||antifungal activity
+C0525033||probiotics
+C0006837||C. albicans
+C0525033||probiotics
+C0006837||Candida
+C0081786||biofilm
+C0457711||denture surface
+C0010454||spent culture media
+C0525033||probiotics
+C0006837||C. albicans
+C0006837||Candida
+C0081786||biofilm
+C0317597||Lactobacillus rhamnosus
+C0022940||Lactobacillus casei
+C0081786||biofilm
+C0317597||L. rhamnosus
+C0022940||L. casei
+C0006837||C. albicans
+C0006837||C. albicans
+C0457711||denture surface
+C0001771||agar
+C0180454||plate
+C0010454||spent culture media
+C0457711||denture surface
+C0243095||roughness
+C0242849||atomic force microscope
+C0317597||L. rhamnosus
+C0022940||L. casei
+C0243095||antifungal activity
+C0525033||probiotics
+C0010454||spent culture medium
+C0317597||L. rhamnosus
+C0022940||L. casei
+C0243095||antifungal activity
+C0521050||blastoconidia
+C0081786||biofilm
+C0006837||C. albicans
+C0317597||L. rhamnosus
+C0022940||L. casei
+C0243095||antifungal activity
+C0006837||Candida
+C0081786||biofilm
+C0081786||biofilm
+C0317597||L. rhamnosus
+C0022940||L. casei
+C0006837||Candida
+C0081786||biofilm
+C0457711||denture surface
+C0525033||probiotics
+C0243095||surface roughness
+C0317597||L. rhamnosus
+C0022940||L. casei
+C0525033||probiotics
+C0038364||denture-related stomatitis

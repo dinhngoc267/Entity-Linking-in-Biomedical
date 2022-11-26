@@ -1,0 +1,79 @@
+C0042413||Vasopressin
+C0596286||regulates the growth
+C0158683||polycystic liver disease
+C0032017||neurohypophysial hormone
+C0003779||arginine vasopressin
+C0003779||arginine vasopressin
+C0597357||receptor
+C0284725||V1a
+C0284726||V1b
+C0162829||V2
+C0023884||liver
+C0003779||arginine vasopressin
+C0597619||ureogenesis
+C0596624||glycogenolysis
+C0034963||regeneration
+C0150312||presence
+C0003779||arginine vasopressin
+C0221284||target cells
+C0012644||animal models
+C0008370||cholestasis
+C0005400||bile duct
+C0023690||ligation
+C0023690||bile duct ligation
+C0086418||human
+C0030664||pathologies
+C0158683||polycystic liver disease
+C0150312||presence
+C0010709||cysts
+C1515655||In vivo
+C0023884||liver
+C0486805||fragments
+C0023690||bile duct ligation
+C0025929||mice
+C0034721||rats
+C0586689||liver samples
+C0085413||ADPKD
+C1512948||intrahepatic
+C0005400||bile duct
+C0577559||mass
+C0021044||immunohistochemistry
+C0010803||cytokeratin-19
+C0284725||V1a
+C0284726||V1b
+C0162829||V2
+C0021044||immunohistochemistry
+C0079603||immunofluorescence
+C1709846||real-time PCR
+C0025929||mouse
+C0007634||H69
+C0086418||human
+C0007634||LCDE
+C0086418||human
+C0259770||cystic epithelium
+C0038337||stimulated
+C0042413||vasopressin
+C0150312||presence
+C1719946||AVP antagonists
+C0171458||OPC-31260
+C1176308||Tolvaptan
+C0007595||cellular growth
+C0201596||MTT assay
+C0001455||cAMP
+C0162829||V2 receptor
+C0041904||upregulated
+C0023690||bile duct ligation
+C0085413||ADPKD
+C0586689||liver samples
+C1533734||Administration
+C0003779||arginine vasopressin
+C0596290||proliferation
+C0001455||cAMP
+C0007634||LCDE cells
+C0596290||proliferation
+C0025929||mouse
+C0007634||H69 cells
+C1719946||AVP antagonists
+C0003779||arginine vasopressin
+C0597357||receptors
+C0812425||proliferation rate

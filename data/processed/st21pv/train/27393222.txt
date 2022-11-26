@@ -1,0 +1,64 @@
+C0056501||Crocetin
+C0184511||improves
+C3667982||bovine
+C0013935||embryos
+C1326531||blastocyst development
+C0162638||apoptosis
+C0087111||supplementation
+C3667982||bovine
+C0010454||culture medium
+C0003402||natural antioxidant
+C0056501||crocetin
+C1326531||blastocyst development
+C0220825||evaluated
+C0918012||apoptosis index
+C0007584||total cells number
+C0029045||oocytes
+C0015915||IVF
+C0043544||zygotes
+C0430400||cultured
+C0029954||synthetic oviduct
+C0056501||crocetin
+C0007012||CO2
+C0030054||O2
+C0028158||N2
+C1281743||blastocysts
+C0025663||Cryotop method
+C0015083||ethylene glycol
+C0012403||DMSO
+C0038636||sucrose
+C1281743||blastocysts
+C0150312||presence
+C0056501||crocetin
+C1515232||terminal deoxynucleotidyl transferase-mediated dUTP nick end labelling
+C0487602||differential staining
+C0220825||evaluate
+C0007634||cells
+C1283994||inner cell mass
+C1283994||inner cell mass
+C0041178||trophectoderm
+C0041178||trophectoderm
+C0013936||Embryo development
+C0013935||embryo
+C1275673||grade 1
+C1275673||2
+C1281743||blastocysts
+C0013936||fast-developing embryos
+C0056501||crocetin
+C0184511||improved
+C0013935||embryo
+C0598016||hatching
+C0010454||postwarming culture
+C0056501||crocetin
+C0007634||cells
+C1281743||blastocysts
+C1283994||inner cell mass
+C0041178||trophectoderm
+C0007634||cells
+C0056501||crocetin
+C0056501||crocetin
+C0184511||improved
+C0008717||chronology
+C0013936||embryo development
+C0519951||cryopreservation
+C0162638||apoptosis

@@ -1,0 +1,46 @@
+C0870071||Modeling
+C0870883||metabolites
+C0022439||juvenile hormone
+C0220781||biosynthesis
+C1704259||pathway
+C0282574||ordinary differential equations
+C0022439||Juvenile hormone
+C0022439||Juvenile hormone
+C0036887||reproductive maturation
+C0021585||insects
+C0010085||corpora allata
+C0010085||corpora allata
+C0026584||adult mosquitoes
+C0022439||Juvenile hormone
+C1160265||ovarian development
+C0037083||signals
+C0022439||Juvenile hormone
+C0220781||biosynthesis
+C0682996||isoprenoids
+C1704259||pathway
+C0014442||enzyme
+C2603343||study
+C0243102||enzymatic activities
+C0026584||mosquito
+C0322859||Aedes aegypti
+C0022439||Juvenile hormone
+C0220781||biosynthesis
+C1704259||pathway
+C2603343||studies
+C1704259||pathway
+C0022439||Juvenile hormone
+C0220781||synthesis
+C0870883||metabolite
+C0243102||enzymatic activities
+C0936012||analyzed
+C0243102||enzymatic activities
+C0282574||ordinary differential equations
+C0282574||ordinary differential equations
+C0870883||metabolites
+C0243102||enzymatic catalytic activities
+C0870883||metabolites
+C0022439||Juvenile hormone
+C1704259||pathway
+C1519941||validate
+C0022439||Juvenile hormone
+C0220781||synthesis

@@ -1,0 +1,68 @@
+C0086388||Healthcare
+C0332155||non-treated
+C0028754||obesity
+C0022277||Italy
+C3845829||administrative
+C1516642||clinical database
+C0936012||analysis
+C0028754||obesity
+C0022277||Italy
+C0243095||consumption
+C0022277||Italian
+C0282574||national healthcare system
+C0282574||national healthcare system
+C1518527||observational
+C2603343||real-life study
+C1708333||health units
+C1709269||Northern
+C0017446||Bergamo
+C0017446||Lombardy
+C0205099||Central
+C0017446||Grosseto
+C0017446||Tuscany
+C1710133||Southern
+C0017446||Naples
+C0017446||Campania
+C0022277||Italy
+C1305855||body mass index
+C1305855||body mass index
+C0242356||databases
+C1521941||medical prescriptions
+C2090905||specialist consultations
+C0743221||hospital discharge records
+C1305855||body mass index
+C0243095||consumption
+C0022277||Italian
+C0282574||national healthcare system
+C0080105||subjects
+C1305855||body mass index
+C0683312||category
+C0080105||subjects
+C2724372||documented BMI
+C0080105||Subjects
+C1305855||body mass index
+C0028754||obese
+C0028754||obesity
+C0302523||observation
+C0028754||obese
+C0080105||subjects
+C0087111||treatment
+C0028754||obesity
+C0019993||hospitalisation
+C0304227||prescription drugs
+C0086388||healthcare
+C0304227||prescription drugs
+C0184666||hospital admissions
+C0033081||drug prescriptions
+C0019993||hospitalisations
+C0002423||outpatient care
+C2712185||normal weight
+C0080105||subjects
+C1522577||follow-up
+C0332155||Untreated
+C0028754||obesity
+C0022277||Italian
+C0282574||healthcare system
+C0004448||awareness
+C0087111||treat
+C0080105||subjects

@@ -1,0 +1,78 @@
+C0021753||Interleukin-1β
+C1325596||Stress Granules
+C0387583||cyclooxygenase-2
+C0035696||mRNA
+C1327622||Regulates
+C0086418||Human
+C0029408||OA
+C0225369||Chondrocytes
+C0017262||expression
+C1367485||cyclooxygenase-2
+C1367485||cyclooxygenase-2
+C0035696||mRNA
+C0021753||IL-1β
+C1292856||stimulated
+C0029408||OA
+C0225369||chondrocytes
+C0597295||synthesis of protein
+C1325596||stress granules
+C1325596||stress granules
+C1167298||ribonucleoprotein complexes
+C1327622||regulate
+C1367485||cyclooxygenase-2
+C0035696||mRNAs
+C0021753||IL-1β
+C1292856||stimulated
+C0029408||OA
+C0225369||chondrocytes
+C1292856||Stimulation
+C0086418||human
+C0225369||chondrocytes
+C0021753||IL-1β
+C0149784||stress response
+C0017337||genes
+C1158886||phosphorylation
+C0013733||eIF2α
+C2247634||assembly of SGs
+C0079603||immunofluorescence staining
+C1325596||stress granules
+C0005516||markers
+C0387583||COX-2 protein
+C0035668||RNA
+C0162789||fluorescence in situ hybridization
+C0035668||RNA
+C0021069||immunoprecipitation
+C1367485||cyclooxygenase-2
+C0035696||mRNAs
+C1325596||stress granules
+C0021753||IL-1β
+C1292856||stimulated
+C0029408||OA
+C0225369||chondrocytes
+C1513916||No
+C0387583||cyclooxygenase-2
+C1171362||protein expression
+C1325596||stress granules
+C1171362||expression
+C0387583||COX-2 protein
+C1325596||stress granules
+C1325596||stress granules
+C1367485||cyclooxygenase-2
+C0035696||mRNA
+C2247634||assembly of SGs
+C1429678||TIA-1
+C0387583||cyclooxygenase-2
+C0012472||PGE2
+C2247634||assembly of SGs
+C1367485||cyclooxygenase-2
+C0035696||mRNAs
+C0086418||human
+C0029408||OA
+C0225369||chondrocytes
+C0039058||pathological conditions
+C1514248||Post-transcriptional regulation
+C1367485||cyclooxygenase-2
+C1325596||stress granules
+C0021753||IL-1β
+C0087111||therapeutically
+C0029408||OA

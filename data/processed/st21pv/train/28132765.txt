@@ -1,0 +1,58 @@
+C0043457||Zebrafish
+C0812230||akt2
+C0018270||growth
+C0005939||bone development
+C1326961||glucose homeostasis
+C0166559||akt
+C0597298||isoforms
+C1312419||akt2
+C1327622||regulation
+C1325880||cellular processes
+C0024660||mammals
+C0043457||zebrafish
+C0812230||akt2
+C0043457||zebrafish
+C0043457||zebrafish
+C0812230||akt2 gene
+C3658355||CRISPR/Cas9
+C0812230||Akt2
+C0043457||zebrafish
+C3151529||lethality
+C0018270||growth
+C0812230||akt2
+C0025929||mice
+C0812230||akt2
+C0043457||zebrafish
+C2246747||fin ray development
+C0007301||cartilage
+C0302523||observations
+C0812230||akt2
+C0025929||mice
+C0812230||akt2
+C0043457||zebrafish
+C1326961||glucose homeostasis
+C0812230||akt2
+C0025929||mice
+C0202098||insulin level
+C0812230||akt2
+C0043457||zebrafish
+C1457887||symptoms
+C0011854||type I diabetes
+C0812230||akt2
+C0043457||zebrafish
+C0752248||transcriptome analysis
+C0017337||genes
+C0025519||metabolism
+C0029433||osteogenesis
+C0812230||akt2
+C0043457||zebrafish
+C0812230||akt2
+C0043457||zebrafish
+C0018270||growth
+C0005939||bone development
+C1326961||glucose homeostasis
+C0812230||akt2
+C0025929||mice
+C0043457||zebrafish
+C0015219||evolutionarily
+C0969701||conserved

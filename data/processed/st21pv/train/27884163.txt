@@ -1,0 +1,113 @@
+C2675518||adiponectin deficiency
+C0002395||Alzheimer's disease
+C0338656||cognitive impairments
+C0030664||pathologies
+C2350345||AMPK
+C0006104||cerebral
+C0021655||insulin resistance
+C0026809||mice
+C0021655||Insulin resistance
+C0699748||pathogenesis
+C0011860||type 2 diabetes mellitus
+C0011860||type 2 diabetes mellitus
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0021655||insulin resistance
+C0699748||pathogenesis
+C0244989||GSK3β
+C0014429||activation
+C0175996||intra-
+C0521119||extracellular
+C0389071||Adiponectin
+C0389071||Adiponectin
+C1955907||adipokine
+C0389071||Adiponectin
+C0021655||insulin resistance
+C0011860||type 2 diabetes mellitus
+C0389071||Adiponectin
+C0002395||Alzheimer's disease
+C2603343||study
+C2675518||adiponectin deficiency
+C0006104||cerebral
+C0021655||insulin resistance
+C0338656||cognitive decline
+C0699748||Alzheimer's-like pathology
+C0026809||mice
+C2603343||study
+C0389071||adiponectin
+C0392335||cognitive functions
+C1522225||adiponectin-knockout
+C0206745||(APN-KO) mice
+C2675518||APN deficiency
+C3714787||CNS
+C0683444||Behavioral tests
+C2603343||study
+C0009240||cognitions
+C0206745||APN-KO mice
+C0006104||Brains
+C0040300||tissue
+C2603343||study
+C1148560||molecular changes
+C0006104||brain
+C0206745||APN-KO mice
+C0007600||SH-SY5Y neuroblastoma cell line
+C2603343||study
+C3537153||molecular mechanism
+C0389071||Adiponectin
+C0389071||Adiponectin
+C0026809||mice
+C0814087||spatial memory
+C0023185||learning
+C0684336||impairments
+C0233794||memory deficit
+C0003467||anxiety
+C0026809||mice
+C0002395||Alzheimer's disease
+C0699748||pathologies
+C0006104||cerebral
+C0169424||Aβ42
+C0085401||hyperphosphorylated Tau proteins
+C3686874||microgliosis
+C0017639||astrogliosis
+C0006104||cerebral
+C0021753||IL-1β
+C1456820||TNFα
+C1660771||neuronal apoptosis
+C0229984||synaptic
+C0428479||proteins levels
+C2675518||APN deficiency
+C0006104||brain
+C0002395||Alzheimer's disease
+C0389071||Adiponectin
+C0206745||KO mice
+C2350345||AMPK
+C0031715||phosphorylation
+C1512804||insulin signaling
+C0014442||Akt
+C0244989||GSK3β
+C0014429||activation
+C0019564||hippocampus
+C0016733||frontal cortex
+C0389071||Adiponectin
+C0026809||mice
+C0019564||hippocampal
+C0021655||insulin resistance
+C0014442||pAkt
+C0199782||insulin injection
+C0389071||Adiponectin
+C0087111||treatment
+C0021655||insulin resistance
+C1171362||overexpressing
+C0014442||pAkt
+C1259440||AdipoR1
+C0028778||blocked
+C1706082||compound C
+C0389071||Adiponectin
+C0920563||insulin sensitivity
+C2350345||AMPK
+C2675518||APN deficiency
+C2350345||AMPK
+C0699748||AD-like pathogenesis
+C0026809||mice
+C0338656||cognitive impairments
+C0233401||psychiatric symptoms

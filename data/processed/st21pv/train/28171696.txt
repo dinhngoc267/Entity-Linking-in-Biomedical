@@ -1,0 +1,30 @@
+C0087111||treatment
+C0220603||pediatric brain tumor
+C4255046||report
+C0006104||Brain
+C1880171||Radiation Investigative Study Consortium
+C0220603||pediatric brain tumor
+C2603343||study
+C0087111||treatment
+C0679646||Participants
+C0011900||diagnosis
+C0220603||pediatric brain tumor
+C0262926||histories
+C0011900||Diagnostic
+C0087111||treatment
+C0025102||medical records
+C0011900||postdiagnosis
+C0475440||tumor size
+C0011900||diagnosis
+C0011900||postdiagnosis
+C0011900||diagnosis
+C0220603||pediatric brain tumor
+C0087111||treatment
+C0011900||prediagnosis
+C0011900||diagnostic
+C0087111||treatment
+C0184511||improve
+C1710032||Screening
+C3494403||tertiary care
+C1522577||follow-up
+C0184511||improve

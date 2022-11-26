@@ -1,0 +1,78 @@
+C0031323||Pharmacist
+C0424093||Initiative
+C0184511||Improves
+C0034379||Quality of Care
+C1142423||Staphylococcus aureus Bacteremia
+C0009450||Infectious diseases
+C0009450||Infectious diseases
+C0009818||consultation
+C0086388||antimicrobial stewardship intervention
+C0184511||improve
+C0376636||management
+C1142423||Staphylococcus aureus bacteremia
+C1142423||Staphylococcus aureus bacteremia
+C0086388||antimicrobial stewardship programs
+C0086388||antimicrobial stewardship programs
+C0086388||antimicrobial stewardship programs
+C2603343||study
+C0220825||evaluate
+C0008960||health informatics
+C0376636||management
+C1142423||Staphylococcus aureus bacteremia
+C0031323||pharmacist
+C0424093||initiative
+C2603343||study
+C1142423||Staphylococcus aureus bacteremia
+C0184661||intervention
+C0031323||pharmacists
+C1142423||Staphylococcus aureus bacteremia
+C0025080||scoring tool
+C2362543||electronic medical record
+C0031323||Pharmacists
+C0025080||scoring tool
+C2607850||institution's
+C0162791||guideline
+C1142423||Staphylococcus aureus bacteremia
+C0034379||quality-of-care
+C0009450||Infectious diseases
+C0009818||consultation
+C3714738||compliance
+C0237401||individual
+C0034379||quality-of-care
+C0936012||analyzed
+C2603343||study
+C0184661||intervention
+C0184661||intervention
+C0034379||quality-of-care
+C0376636||management
+C1142423||Staphylococcus aureus bacteremia
+C0184661||intervention
+C0009450||Infectious diseases
+C0009818||consult
+C0184511||improved
+C0184661||intervention
+C0004610||bacteremia
+C3714514||infection
+C0030700||readmission
+C0184661||intervention
+C0184661||intervention
+C0031323||pharmacist
+C0184661||intervention
+C0376636||management
+C1142423||Staphylococcus aureus bacteremia
+C0009450||Infectious diseases
+C0009818||consult
+C0443071||antimicrobial therapy
+C1142423||Staphylococcus aureus bacteremia
+C0034379||quality-of-care
+C0086388||antimicrobial stewardship
+C0086388||healthcare
+C0019994||hospitals
+C0041703||U.S.
+C0086388||antimicrobial stewardship programs
+C0243095||find
+C0012634||disease
+C0017313||patient care
+C2603343||study
+C0184661||intervention
+C0009450||infectious diseases

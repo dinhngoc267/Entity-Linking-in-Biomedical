@@ -1,0 +1,77 @@
+C0072382||DEAD-box helicase
+C1100944||Dhh1
+C0600493||5'UTR
+C1426004||ASH1
+C0035696||mRNA
+C1519619||represses
+C1519614||translation
+C1426004||ASH1
+C0043393||yeast
+C0007634||cells
+C1519614||Local translation
+C0035696||mRNAs
+C1326447||regulated
+C0729605||subcellular
+C0521449||cytoplasmic
+C1523053||mRNA transport
+C0014181||budding yeast
+C0036025||Saccharomyces cerevisiae
+C1519595||transcripts
+C1519628||transported
+C0007634||mother cell
+C1155616||budding
+C0007634||daughter cell
+C1157519||translational control
+C1426004||ASH1
+C0035696||mRNA
+C1519628||transport
+C1426004||ASH1
+C1519595||transcripts
+C1519614||translated
+C2263090||bud-tip
+C0035696||mRNAs
+C0085177||RNA-binding protein
+C1453996||Puf6
+C0243095||non-polysomal
+C0072382||DEAD-box helicase
+C1100944||Dhh1
+C0600680||untranslated
+C1426004||ASH1
+C0035696||mRNA
+C1453996||Puf6
+C1100944||Dhh1
+C1519614||local translation
+C1426004||ASH1
+C0035696||mRNA
+C1426004||ASH1
+C1519595||transcript
+C2700462||bud
+C0243095||non-polysomal
+C1426004||ASH1
+C0035696||mRNA
+C0032592||polysomes
+C1100944||Dhh1
+C0086168||dissociation
+C1100944||Dhh1
+C1426004||ASH1
+C0035696||mRNA
+C0040649||co-transcriptionally
+C1426004||ASH1
+C0035696||mRNA
+C0010834||cytoplasm
+C1100944||Dhh1
+C0600493||5 UTR
+C1426004||ASH1
+C0035696||mRNA
+C1519614||translation
+C2263090||bud tip,
+C0449719||portion
+C0392752||localized
+C1426004||ASH1
+C0035696||mRNA
+C1519614||translationally
+C1100944||Dhh1
+C1453996||Puf6
+C0600493||5' and 3' UTRs
+C1426004||ASH1
+C0035696||mRNA

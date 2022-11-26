@@ -1,0 +1,36 @@
+C0086418||Allen J. Wilcox
+C0086418||Allen James Wilcox
+C3831044||Columbus, OH
+C0025118||medicine
+C0041740||University of Michigan
+C1512022||PhD
+C0014507||epidemiology
+C0041740||University of North Carolina
+C0017446||Chapel Hill
+C1955979||National Institute of Environmental Health Sciences
+C1955979||National Institute of Environmental Health Sciences
+C0027468||US National Institutes of Health
+C3830368||Durham, NC
+C1518977||perinatal epidemiology
+C1301725||documented
+C0687675||pregnancy loss
+C0086418||humans
+C0043210||woman's
+C0025329||menstrual cycle
+C1706996||Chief of
+C0014507||Epidemiology
+C1706131||Branch
+C1522486||Editor-in-Chief
+C0162443||journal
+C0014507||EPIDEMIOLOGY
+C0039712||textbook
+C0039712||Fertility and Pregnancy-An Epidemiologic Perspective
+C1552679||Oxford University Press
+C1708333||American Epidemiological Society
+C1708333||Society of Pediatric and Perinatal Epidemiological Research
+C1708333||Society of Epidemiological Research
+C0041740||University of North Carolina
+C0041740||Harvard University
+C0041740||University of Bergen
+C0028423||Norway
+C1512027||doctoral degree

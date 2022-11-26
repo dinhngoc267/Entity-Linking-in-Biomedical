@@ -1,0 +1,74 @@
+C0015689||Omega 3 Fatty Acids
+C0005974||Bone Resorption
+C1371285||Promoting Bone Generation
+C0034721||Rat
+C0031030||Apical Periodontitis
+C0220825||evaluated
+C0242295||dietary supplement
+C0015689||omega 3 polyunsaturated fatty acids
+C0015689||ω-3 PUFAs
+C0011406||pulp exposure
+C0031030||apical periodontitis
+C0031030||apical periodontitis
+C0034721||rats
+C0034721||rats
+C1257890||groups
+C0332155||untreated
+C0034721||rats
+C0034721||rats
+C0015689||ω-3 PUFAs
+C0034721||rats
+C0011406||pulp exposure
+C0031030||apical periodontitis
+C0034721||rats
+C0011406||pulp exposure
+C0031030||apical periodontitis
+C0015689||ω-3 PUFAs
+C0031030||apical periodontitis
+C0015689||ω-3 PUFAs
+C0001563||administered orally
+C0011406||pulp exposure
+C0011406||pulp exposure
+C0034721||Rats
+C0011406||pulp exposure
+C0022359||jaws
+C0936012||analyses
+C0936012||analyses
+C0297331||tartrate-resistant acid phosphatase
+C1446409||positive
+C0029431||osteoclasts
+C0029419||osteocalcin
+C1446409||positive
+C0029418||osteoblasts
+C0825429||bone surface
+C0729269||periapical area
+C0220825||evaluated
+C0005974||bone resorption
+C0221198||lesion
+C0031030||apical periodontitis
+C0031030||apical periodontitis
+C1257890||groups
+C0302158||inflammatory cell infiltration
+C0297331||tartrate-resistant acid phosphatase
+C1446409||positive
+C0029431||osteoclasts
+C0729269||periapical
+C0221198||lesions
+C0031030||apical periodontitis
+C0031030||apical periodontitis
+C1257890||groups
+C0029419||osteocalcin
+C1446409||positive
+C0029418||osteoblasts
+C0031030||apical periodontitis
+C0031030||apical periodontitis
+C0242297||Supplementation
+C0015689||ω-3 PUFAs
+C0005974||bone resorption
+C1371285||promotes new bone formation
+C0729269||periapical area
+C0034721||rats
+C0031030||apical periodontitis
+C0013081||downregulation
+C0302158||inflammatory cell infiltration
+C0221198||lesion

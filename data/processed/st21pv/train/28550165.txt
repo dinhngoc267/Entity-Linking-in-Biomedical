@@ -1,0 +1,94 @@
+C1566863||CLASP2
+C0206131||Adipocytes
+C2350719||CLIP2
+C0061928||AGAP3
+C1566863||CLASP2
+C0033684||G2L1
+C0299851||MARK2
+C0026045||SOGA1
+C0026045||SOGA1
+C0026045||Microtubule-Associated Protein
+C1566863||CLASP2
+C0026045||microtubule-associated protein
+C0021641||insulin
+C1158886||phosphorylation
+C0001271||actin
+C0166441||GLUT4
+C0007603||plasma membrane
+C0233820||insight
+C1566863||CLASP2
+C0872079||interactome
+C0444454||approach
+C1566863||CLASP2
+C1257743||3T3-L1 adipocytes
+C0680536||commercially
+C0003241||antibodies
+C1566863||CLASP2
+C0003241||antibody
+C0003316||epitope
+C1171362||overexpressed
+C1566863||CLASP2
+C0008551||affinity purification
+C0037813||mass spectrometry
+C0008551||AP
+C0037813||MS
+C0681814||experiments
+C0475878||label-free
+C0872252||proteomics
+C0936012||analyzed
+C1140694||bioinformatics
+C0037589||tool
+C1566863||CLASP2
+C0301871||co-immunoprecipitates
+C0301871||co-immunoprecipitates
+C0033684||protein
+C0026045||SOGA1
+C3542416||microtubule-associated protein kinase
+C0299851||MARK2
+C0026046||microtubule
+C0001271||actin
+C1327622||regulating
+C0033684||protein
+C0033684||G2L1
+C0061928||GTPase-activating proteins
+C1173678||AGAP1
+C0061928||AGAP3
+C1566863||CLASP2
+C0872079||interactome
+C0061928||AGAP3
+C2350719||CLIP2
+C0872079||interactome
+C0936012||analysis
+C0061928||AGAP3
+C2350719||CLIP2
+C0299851||MARK2
+C0872079||interactome
+C0936012||analysis
+C0750484||confirmed
+C0301871||co-IP
+C1566863||CLASP2
+C0299851||MARK2
+C0301871||co-IP
+C0026045||SOGA1
+C0017932||glycogen synthase
+C1612135||glycogenin
+C0026045||SOGA1
+C0872079||interactome
+C0750484||confirmed
+C0026045||SOGA1
+C0301871||co-IP
+C1566863||CLASP2
+C0299851||MARK2
+C0017932||glycogen synthase
+C1612135||glycogenin
+C0026045||SOGA1
+C0750484||confirmed
+C0392752||colocalize
+C1566863||CLASP2
+C0041348||tubulin
+C0026045||SOGA1
+C0026045||microtubule-associated protein
+C0597299||metabolic function
+C0026046||microtubules
+C0010853||cytoskeleton
+C0026376||protein biology

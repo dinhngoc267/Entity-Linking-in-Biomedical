@@ -1,0 +1,62 @@
+C4304779||Kidney transplant recipients
+C0029216||nonrenal solid organ transplantation
+C0301873||alloreactivity
+C3714514||infection
+C4304779||kidney transplant recipients
+C4304779||kidney transplant recipients
+C0029216||nonrenal solid organ transplantation
+C0029216||solid organ transplantation
+C0040739||allograft
+C3714514||infections
+C0301873||alloreactivity
+C2603343||studied
+C4304779||kidney transplant recipients
+C0029216||nonrenal SOT
+C4304779||kidney transplant recipients
+C4304779||kidney transplant recipients
+C0504082||Samples
+C0301873||Alloreactive
+C0010825||CMV-specific
+C0039194||T cells
+C0920508||interferon-γ ELISPOT assay
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C4304779||kidney transplant recipients
+C0011065||death
+C0040739||allograft
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C4304779||kidney transplant recipients
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C0011065||death
+C0040739||allograft
+C4304779||kidney transplant recipients
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C1141951||panel-reactive antibodies
+C0301873||alloreactive
+C0039194||T cells
+C3273245||acute rejections
+C4304779||kidney transplant recipients
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C1701919||EBV viremia
+C0432487||PTLD
+C0243026||sepsis
+C0011065||death
+C0243026||sepsis
+C0010825||CMV-specific
+C0020966||cellular immunity
+C0010825||CMV
+C0042774||replication
+C4304779||kidney transplant recipients
+C0040739||allograft
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C4304779||kidney transplant recipients
+C0301873||alloreactivity
+C0040739||allograft
+C4304779||kidney transplant recipients
+C0029216||solid organ transplantation
+C4048329||overimmunosuppression

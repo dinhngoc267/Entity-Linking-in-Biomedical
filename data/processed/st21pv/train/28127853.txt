@@ -1,0 +1,25 @@
+C0001811||aging
+C0031928||pilot study
+C0043113||health promotion program
+C0220825||evaluate
+C0043113||health promotion program
+C0679646||participants
+C0043113||program
+C0032919||pre-test and post-test
+C0001792||older adults
+C0017446||Taipei
+C1521895||principal investigator's
+C0041740||university
+C0282574||Attitudes toward Aging Scale
+C0282574||Spiritual Health Scale
+C0220825||assessment
+C0282574||instruments
+C2603343||study
+C0282574||Attitudes toward Aging Scale
+C0282574||Spiritual Health Scale
+C0001792||older adult
+C0220825||evaluation
+C0679646||participants
+C0242428||satisfied
+C0043113||program
+C0001811||aging

@@ -1,0 +1,42 @@
+C0242402||Opioid
+C0150055||Chronic Pain
+C1561643||Chronic Kidney Disease
+C1955832||Systematic Review
+C0150055||chronic pain
+C0242402||opioid
+C1611232||management
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C1955832||Systematic review
+C0085973||studies
+C0030193||pain
+C0242402||opioid
+C1304888||pain control
+C0879626||adverse effects
+C0242402||opioids
+C1561643||chronic kidney disease
+C0282440||randomized controlled trials
+C0282440||randomized controlled trials
+C3658316||observational studies
+C0085973||studies
+C0085973||studies
+C0085973||studies
+C0454664||countries
+C0085973||studies
+C0747149||uncontrolled pain
+C0242402||opioids
+C0242402||opioids
+C0085973||studies
+C1955832||systematic review
+C0150055||chronic pain
+C1561643||chronic kidney disease
+C0002771||analgesics
+C0242402||opioids
+C1561643||chronic kidney disease
+C0871685||Clinicians
+C0282440||randomized control trials
+C0242402||opioid
+C0087111||therapy
+C0242402||opioid
+C1274136||symptom control
+C0879626||adverse side effects

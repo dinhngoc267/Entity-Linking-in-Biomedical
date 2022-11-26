@@ -1,0 +1,72 @@
+C0220825||Evaluation
+C0348016||Intravenous
+C0522523||Percutaneous
+C0279027||Low Level Laser Therapy
+C0002766||Management
+C0037004||Shoulder
+C0027073||Myofascial Pain Syndrome
+C0027073||Myofascial pain syndrome
+C0027073||Myofascial pain syndrome
+C0087111||treatment
+C0087111||treatment frame
+C0087111||treatment
+C0348016||intravenous
+C1955835||laser therapy
+C1955835||intravenous laser therapy
+C0522523||percutaneous
+C0279027||low level laser
+C0279027||percutaneous low level laser
+C0002766||management
+C0037004||shoulder
+C0027073||Myofascial pain syndrome
+C0206035||randomized controlled trial
+C1257890||intravenous laser therapy
+C1257890||percutaneous low level laser
+C1706408||placebo
+C0279027||low level laser
+C1257890||IVL group
+C1955835||IVL therapy
+C1257890||PLLL group
+C0279027||PLLL therapy
+C0150347||gentle massage
+C0458343||trigger points
+C0600080||stretching exercises
+C0026845||muscle
+C0224361||trapezius
+C0442027||oral
+C0028420||nortriptyline
+C0040808||regimen
+C4050142||Numeric Rating Scale
+C4050142||Numeric Rating Scale
+C0282574||Pain Disability Index
+C0282574||Pain Disability Index
+C0451286||Short Form Health Survey
+C1519135||SF-12
+C4019276||Data collected
+C0936012||analyzed
+C1708930||Mann-Whitney
+C0871472||t tests
+C0282574||Pain Disability Index
+C1320357||pain intensity
+C1257890||percutaneous low level laser
+C1257890||IVL groups
+C0282574||Pain Disability Index
+C1257890||IVL group
+C1257890||PLLL group
+C1257890||intravenous laser therapy
+C1257890||PLLL groups
+C1257890||IVL group
+C1257890||PLLL group
+C1963761||No side effects
+C2986530||intervention groups
+C0348016||Intravenous
+C1955835||laser
+C0279027||PLLL therapy
+C0282574||Pain Disability Index
+C1963761||no adverse event
+C0348016||intravenous
+C1955835||lasers
+C0279027||PLLL therapy
+C0002766||managing
+C0037004||shoulder
+C0027073||Myofascial pain syndrome

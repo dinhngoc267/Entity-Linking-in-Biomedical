@@ -1,0 +1,36 @@
+C0012158||DIABETES EATING PROBLEM SURVEY-REVISED
+C0549217||TURKISH
+C0011854||TYPE 1 DIABETES MELLITUS
+C2603343||study
+C0549217||Turkish
+C0333052||version
+C0012158||Diabetes Eating Problem Survey-Revised
+C0012158||Diabetes Eating Problem Survey-Revised
+C0011854||Type 1 Diabetes Mellitus
+C0011854||type 1 diabetes
+C0012158||Diabetes Eating Problem Survey-Revised
+C0549217||Turkish
+C0333052||version
+C0549217||Turkish
+C0333052||version
+C0012158||Diabetes Eating Problem Survey-Revised
+C0549217||Turkish
+C0333052||version
+C0012158||Diabetes Eating Problem Survey-Revised
+C1261236||hemoglobin A1c levels
+C1305855||BMI
+C0012158||Diabetes Eating Problem Survey-Revised
+C0549217||Turkish
+C0333052||version
+C1257890||samples
+C0021641||insulin
+C1513158||metabolic control
+C0011854||diabetes
+C1710032||screening
+C0086388||care
+C0011854||type 1 diabetes
+C0549217||Turkish
+C0333052||version
+C0012158||Diabetes Eating Problem Survey-Revised
+C1710032||screening
+C0011854||type 1 diabetes

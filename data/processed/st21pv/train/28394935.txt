@@ -1,0 +1,66 @@
+C0132555||endothelial nitric oxide synthase
+C1159123||S-nitrosylates
+C0005186||β-actin
+C0010654||Cys374
+C1327623||regulates
+C0171420||protein kinase C-θ
+C1171348||immune synapse
+C1149245||actin binding
+C0525216||profilin-1
+C1155966||actin cytoskeleton coordinates the organization
+C0021054||signaling microclusters
+C1171348||immune synapse
+C1171348||immune synapse
+C3537153||mechanisms
+C0028128||nitric oxide
+C0028128||nitric oxide
+C0132555||endothelial nitric oxide synthase
+C0132555||endothelial nitric oxide synthase
+C0171420||protein kinase C-θ
+C0171420||protein kinase C-θ
+C1171348||central supramolecular activation cluster
+C1171348||central supramolecular activation cluster
+C1171348||immune synapse
+C0132555||endothelial nitric oxide synthase
+C0599893||translocated
+C0018042||Golgi
+C1171348||immune synapse
+C0392752||colocalized
+C1180307||F-actin
+C1171348||central supramolecular activation cluster
+C1155982||actin polymerization
+C0005186||β-actin
+C0171420||protein kinase C-θ
+C0230628||lamellipodium-like
+C0205108||distal
+C1171348||(d)-SMAC
+C0171420||protein kinase C-θ
+C0014429||activation
+C0132555||endothelial nitric oxide synthase
+C0028128||nitric oxide
+C1159123||S-nitrosylated
+C0005186||β-actin
+C0010654||Cys374
+C1149245||actin binding
+C0525216||profilin-1
+C0525216||profilin-1
+C3158785||transnitrosylating
+C0073896||S-nitroso-L-cysteine
+C0073896||Cys-NO
+C0028128||nitric oxide
+C1180347||PFN1-actin complexes
+C1327623||regulation
+C0171420||protein kinase C-θ
+C1514559||overexpression
+C1456390||profilin-1
+C1149245||actin-binding
+C0596988||mutants
+C1384510||β-actin (C374S)
+C1456390||PFN1 (H119E)
+C0171420||protein kinase C-θ
+C1171348||central supramolecular activation cluster
+C0028128||nitric oxide
+C3537153||mechanism
+C1155966||actin cytoskeleton controls the organization
+C0021054||signaling microclusters
+C1171348||immune synapse

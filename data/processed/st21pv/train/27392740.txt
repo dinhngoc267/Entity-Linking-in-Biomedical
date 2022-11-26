@@ -1,0 +1,46 @@
+C0598741||Hard ticks
+C0598741||Acari: Ixodidae
+C2936506||livestock
+C0028002||Nicaragua
+C1317574||notes
+C0920316||document
+C1705920||species
+C0040203||ticks
+C1384353||parasitize
+C2936506||livestock
+C0028002||Nicaragua
+C2603343||study
+C0040203||tick
+C0007452||cattle
+C0019944||horses
+C0557759||farms
+C1704729||departments
+C0003062||animals
+C0007452||cows
+C0019944||horses
+C1384353||parasitized
+C3667982||bovines
+C0019944||equines
+C2603343||study
+C0007452||cows
+C0019944||horses
+C1384353||parasitized
+C1705920||species
+C3814077||León
+C0040203||ticks
+C0007452||cattle
+C0323515||Rhipicephalus microplus
+C0040203||ticks
+C3989620||Amblyomma mixtum
+C1667898||A. parvum
+C1690769||A. tenellum
+C0323501||A. maculatum
+C0040203||ticks
+C0019944||horses
+C0323524||Dermacentor nitens
+C3989620||A. mixtum
+C0323515||R. microplus
+C1667898||A. parvum
+C1690769||A. tenellum
+C0011595||D. dissimilis
+C0323501||A. maculatum

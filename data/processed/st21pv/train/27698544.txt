@@ -1,0 +1,36 @@
+C0937846||Esomeprazole
+C0378482||rabeprazole
+C0087111||therapy
+C0079488||Helicobacter pylori
+C0055856||clarithromycin
+C1332828||CYP2C19
+C2603343||study
+C0937846||esomeprazole
+C0087111||therapy
+C0378482||rabeprazole
+C0087111||therapy
+C1332828||CYP2C19
+C0055856||clarithromycin
+C0559761||eradication therapy of Helicobacter pylori
+C0079488||Helicobacter pylori
+C0022341||Japan
+C0079488||Helicobacter pylori
+C0937846||esomeprazole
+C0055856||clarithromycin
+C0002645||amoxicillin
+C0013227||drugs
+C0378482||rabeprazole
+C0055856||clarithromycin
+C0002645||amoxicillin
+C0013227||drugs
+C0079488||Helicobacter pylori
+C0936012||PP analyses
+C0860039||clarithromycin -resistant
+C0004611||strains
+C0055856||clarithromycin
+C0004611||strains
+C0860039||resistant strains
+C0087111||therapies
+C1332828||CYP2C19
+C0055856||clarithromycin
+C0022341||Japan

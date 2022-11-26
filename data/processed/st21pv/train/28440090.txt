@@ -1,0 +1,20 @@
+C0334517||Spermatocytic Tumor
+C1261473||Sarcoma
+C0039590||Testicular Neoplasm
+C0334517||Spermatocytic tumor
+C0334517||spermatocytic seminoma
+C0039590||testicular neoplasm
+C0036631||seminoma
+C0027651||tumors
+C4021985||germ cell neoplasia
+C0205851||germ cell tumors
+C1515647||isochromosome 12p
+C0027651||tumors
+C0033325||prognosis
+C1261473||sarcoma
+C0278252||very poor prognosis
+C0334517||spermatocytic tumor
+C1261473||sarcoma
+C0008479||chondrosarcomatous component
+C0011906||differential diagnosis
+C1522577||follow-up

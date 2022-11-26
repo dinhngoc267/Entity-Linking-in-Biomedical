@@ -1,0 +1,22 @@
+C0870077||Bending rules
+C0332479||shape
+C0030971||perceptual
+C0017324||generalisation
+C0870077||inference rules
+C0017326||Generalising
+C0023185||learned
+C0030971||perceptually
+C0220825||evaluated
+C0870077||rule
+C0023185||learning
+C0017324||generalisation
+C0870077||inference rules
+C0566001||communicated
+C0017324||generalisation
+C1704326||role
+C0870077||inference rules
+C0017324||generalisation
+C2603343||study
+C0870077||inference rules
+C0017324||generalisation
+C0033927||psychopathology

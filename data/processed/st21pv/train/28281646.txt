@@ -1,0 +1,12 @@
+C0262758||Personal Thermoregulation
+C3274373||designed to reversibly adapt
+C0221956||pores
+C1123023||human skin
+C0221956||pores
+C0068361||Nafion
+C0038990||human sweating
+C0221956||human sweating pores
+C0038990||perspiration
+C0392197||warmth-preservation
+C1331418||personal comfort
+C0243095||reducing energy consumption

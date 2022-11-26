@@ -1,0 +1,53 @@
+C0574031||Phytochrome Interacting Factors
+C0282635||Moss
+C0996529||Physcomitrella patens
+C0574031||Phytochrome Signaling Modules
+C1562025||Land Plants
+C0032098||plant kingdom
+C0031857||phytochrome
+C0031857||phytochrome
+C0031760||photoreceptors
+C0162740||Arabidopsis thaliana
+C0031857||PHYs
+C0007610||nucleus
+C1519315||downstream signaling components
+C0574031||phytochrome interacting factors
+C0574031||phytochrome interacting factors
+C0574031||phytochrome interacting factors
+C0040648||transcription factors
+C1336789||repressors
+C1154971||photomorphogenesis
+C2265391||inhibition
+C0031857||PHYs
+C0017262||gene expression
+C0007613||nuclear function
+C0031857||PHYs
+C0032098||non-seed plants
+C0017337||genes
+C0031857||phytochrome
+C3537152||signaling
+C0282635||moss
+C0996529||Physcomitrella patens
+C0017337||light-regulated genes
+C1335144||orthologs
+C0017337||PIF-controlled genes
+C0162741||Arabidopsis
+C1519068||Phylogenetic analyses
+C0017337||PIF-like gene
+C0002028||streptophyte algae
+C0032098||plants
+C0574031||PIF homologs
+C0017428||genome
+C0996529||P. patens
+C0162741||Arabidopsis
+C0574031||phytochrome interacting factors
+C1510464||protein domain structure
+C0031857||phytochrome
+C0996529||P. patens
+C0574031||phytochrome interacting factors
+C0031857||phytochrome
+C3537152||signaling
+C0037080||PHY-PIF signaling node
+C0017337||genes
+C1562025||land plant
+C0015219||evolution

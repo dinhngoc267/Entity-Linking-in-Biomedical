@@ -1,0 +1,58 @@
+C1292856||stimulate
+C1321023||bone healing
+C0005972||regeneration
+C0242184||hypoxic conditions
+C4019433||photobiomodulation
+C0025219||melatonin
+C0025219||Melatonin
+C3179309||anabolic effects
+C0391978||bone
+C0242184||hypoxia
+C1159974||osteoblastic differentiation
+C2603343||study
+C0025219||melatonin
+C1159974||osteoblastic differentiation
+C2350989||mineralization
+C0242184||hypoxic conditions
+C0007634||MC3T3-E1 cells
+C0860755||oxygen tension
+C0242184||hypoxia condition
+C0007634||cells
+C1159974||osteoblast differentiation
+C0010454||medium
+C0242184||hypoxic condition
+C0025219||melatonin
+C0025219||melatonin
+C0020985||Immunoblotting
+C1312518||osterix
+C1171362||expression
+C0025219||melatonin
+C0007634||cells
+C0002059||alkaline phosphatase
+C0681814||experiment
+C1318906||Alizarin Red staining
+C2350989||mineralized
+C0035441||nodules
+C0025219||melatonin
+C0007634||cells
+C0025219||melatonin
+C0007634||cells
+C0007589||differentiation
+C2350989||mineralization
+C0007634||cells
+C1120843||p38 MAPK
+C2987025||PRKD1
+C0037083||signaling mechanisms
+C0025219||melatonin
+C0007634||cells
+C0065275||luzindole
+C2917356||melatonin receptor antagonist
+C0025219||melatonin
+C0007589||differentiation
+C2350989||mineralization
+C0007634||MC3T3-E1 cells
+C0242184||hypoxic conditions
+C0065911||melatonin 1/2 receptors
+C2987025||PKRD
+C1120843||p38
+C0037080||signaling pathways

@@ -1,0 +1,28 @@
+C0034595||radioisotope
+C0546881||tracking
+C0013138||drosophilid fly
+C0557745||natural habitat
+C1705920||species
+C0026649||movement
+C1883067||space
+C0005532||biology
+C0546881||tracking
+C0003062||animals
+C0021585||millimetre-sized insects
+C0546881||tracking
+C0022261||labelling procedures
+C0034595||radionuclide
+C0303612||Technetium-99
+C0022261||labelling
+C0243095||field detection
+C0442533||mountain
+C1704307||fly
+C3766101||Drosophila nigrosparsa
+C0022261||label
+C0012578||flies
+C0243095||detect single individuals
+C0034533||radiation protection
+C0034532||monitors
+C0243095||low-mobility
+C0003062||animals
+C0243095||visual contact

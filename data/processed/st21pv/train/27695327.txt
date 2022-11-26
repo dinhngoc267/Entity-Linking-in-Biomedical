@@ -1,0 +1,98 @@
+C0029224||gelatin methacrylate
+C0020326||nanohydroxyapatite
+C0017243||microgel
+C1510941||arrays
+C1448477||periodontal tissue regeneration
+C0031099||Periodontitis
+C0151317||chronic infectious disease
+C1333617||major cause
+C0080233||tooth loss
+C0029162||oral health
+C0033213||issues
+C2700280||world
+C1448477||Periodontal tissue regeneration
+C0018017||ultimate goal
+C0011441||dentists
+C0035173||researchers
+C0025663||methods
+C0596171||top-down tissue engineering
+C0243095||remain
+C0029224||Gelatin methacrylate
+C0029224||Gelatin methacrylate
+C0005479||biocompatible
+C0063083||hydrogel
+C1171285||enabling
+C3831155||cell encapsulation
+C1623047||regeneration of functional tissues
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0020326||nanohydroxylapatite
+C0017243||microgel
+C1510941||arrays
+C0007620||viability
+C0596290||proliferation
+C1159974||osteogenic differentiation
+C1515655||in vivo
+C0029433||osteogenesis
+C0086418||human
+C0031093||periodontal ligament
+C0038250||stem cells
+C0038250||human periodontal ligament stem cells
+C0017243||microgels
+C0220825||evaluated
+C0017243||microgels
+C1448477||periodontal tissue repair and regeneration
+C0017243||Microgel
+C1510941||arrays
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0038250||human periodontal ligament stem cells
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0017243||microgels
+C0220825||evaluation
+C0007620||cell viability
+C0596290||proliferation
+C1159974||osteogenic differentiation
+C1515655||In vivo
+C0029433||osteogenesis
+C0025932||nude mice
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0017243||microgels
+C0205148||surface
+C0007577||cell adhesion
+C0596290||proliferation
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0017243||microgels
+C1159974||osteogenic differentiation
+C0038250||human periodontal ligament stem cells
+C0005516||osteogenic biomarker
+C0017337||genes
+C0017337||ALP
+C1415840||BSP
+C1412791||OCN
+C1419771||RUNX2
+C1515655||In vivo
+C0574895||ectopic
+C0040732||transplantation
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0017243||microgels
+C0040300||mineralized tissue
+C0029224||GelMA group
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0017243||microgels
+C0038250||human periodontal ligament stem cells
+C0007620||viability
+C0596290||proliferation
+C1159974||osteogenic differentiation
+C1517331||further
+C0029433||bone formation
+C1515655||in vivo
+C0029224||Gelatin methacrylate
+C0020326||nanohydroxylapatite
+C0017243||microgels
+C1448477||periodontal tissue regeneration

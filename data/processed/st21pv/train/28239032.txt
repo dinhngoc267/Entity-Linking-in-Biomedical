@@ -1,0 +1,46 @@
+C0033625||conformation
+C0007595||cell growth
+C0002287||alpha- lactalbumin
+C0005248||beta-lactoglobulin
+C1318228||market
+C2825079||milk
+C3179136||ultra-heat treatment (UHT) sterilization
+C1318228||market
+C2825079||milk
+C2825079||milk
+C0002287||α-lactalbumin
+C0002287||α-LA
+C0005248||β-lactoglobulin
+C0005248||β-LG
+C1318228||market
+C2825079||milk
+C3179136||UHT-I
+C3179136||UHT-D
+C0026377||molecular conformations
+C0008813||circular dichroism spectrum measurement
+C0007595||cell growth
+C2986858||WST-1 method
+C0033684||proteins
+C0002287||α-LA
+C1318228||market
+C2825079||milk
+C1273937||no significant
+C1510464||structural
+C0002287||α-LA
+C0002287||α-LA
+C3179136||UHT-I
+C0007595||cell growth
+C0021853||intestinal
+C0014597||epithelial cell line
+C0002287||α-LA
+C0005248||β-LG
+C3179136||UHT-I
+C1510464||structure
+C1513916||did not exhibit
+C0596402||cytotoxicity
+C0007620||cell viability
+C0002287||α-LA
+C0005248||β-LG
+C3179136||ultra-heat treatment
+C0243095||findings
+C0078479||whey proteins

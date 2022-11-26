@@ -1,0 +1,69 @@
+C0205102||Intrinsic
+C0035609||rifamycin
+C0445910||Mycobacterium abscessus
+C0085748||ADP-ribosyltransferase
+C0017337||MAB_0591
+C0035608||Rifampicin
+C0013227||TB drug
+C0035609||rifamycin group
+C0445910||Mycobacterium abscessus
+C0151521||bacterial resistance
+C0035608||rifampicin
+C0032529||polymorphisms
+C0017337||gene rpoB
+C0014442||enzymes
+C0035608||rifampicin
+C0017337||MAB_0591
+C0017337||arrMab
+C0035608||rifampicin
+C0085748||ADP-ribosyltransferase
+C0085748||Arr_Mab
+C0035608||rifampicin
+C0445910||M. abscessus
+C0014834||Escherichia coli
+C0026926||Mycobacterium tuberculosis
+C0017262||expressing
+C0017337||MAB_0591
+C0445910||M. abscessus
+C1511760||deletion mutant
+C0017337||MAB_0591
+C1510438||MIC assays
+C0035608||rifampicin
+C0006948||C25 carbamate
+C0035609||rifamycin derivatives
+C0017262||expression
+C0017337||MAB_0591
+C0035608||rifampicin
+C0014834||E. coli
+C0026926||M. tuberculosis
+C0035609||Rifamycin
+C1304747||MIC values
+C0445910||M. abscessus
+C0678941||ΔarrMab mutant
+C0445910||M. abscessus ATCC 19977
+C0035609||rifamycin
+C1883559||WT
+C0445910||M. abscessus
+C0678941||ΔarrMab mutant
+C0085748||arrMab
+C1304747||MIC data
+C0006948||C25
+C3840684||modification
+C0035609||rifamycin
+C1883559||WT
+C0445910||M. abscessus
+C0681814||MIC studies
+C0445910||M. abscessus
+C0678941||ΔarrMab mutant
+C0006948||C25
+C0035609||rifamycins
+C3840684||modification
+C0085748||Arr_Mab
+C0085748||Arr_Mab
+C0035609||rifamycin
+C0445910||M. abscessus
+C0085748||Arr_Mab
+C0035609||rifamycin
+C0445910||M. abscessus
+C0006948||C25 carbamate
+C3840684||modification

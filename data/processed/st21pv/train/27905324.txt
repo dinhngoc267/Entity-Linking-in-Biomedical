@@ -1,0 +1,48 @@
+C0206695||Primary neuroendocrine carcinoma
+C0006141||breast
+C0596545||single Center experience
+C0282441||review of the literature
+C0206695||Neuroendocrine carcinoma
+C0006141||breast
+C0027651||tumor
+C0087111||treatment
+C0023866||literature
+C3812881||authors
+C0282441||review of literature
+C0337354||quadrantectomy
+C0024203||axillary nodal dissection
+C0024881||mastectomy
+C0024203||axillary nodal dissection
+C0475440||Tumor size
+C0475372||T1
+C0475373||T2
+C0441959||N0
+C0441962||N1
+C0809869||TNM classification
+C0444061||Pathological specimens
+C0018964||hematoxylin
+C0021212||eosin
+C0813154||antibodies
+C0003320||Neuron-specific enolase
+C0486578||Chromogranin
+C0487636||Synaptophysin
+C0003320||c-erb
+C0208804||Ki-67
+C0003320||Neuron-specific enolase
+C0486578||Chromogranin
+C0487636||Synaptophysin
+C0208804||Ki-67
+C0085533||Adjuvant chemotherapy
+C1533734||administrated
+C0208804||Ki-67
+C1522449||radiotherapy
+C0279025||hormonal therapy
+C3544078||Neuroendocrine breast tumor
+C0087111||treatment
+C0475440||size of tumor
+C0024204||lymph node
+C0208804||Ki-67
+C0600653||index
+C0678222||breast cancer
+C0011900||Diagnosis
+C0206695||Neuroendocrine breast carcinoma

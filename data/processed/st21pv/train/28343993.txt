@@ -1,0 +1,39 @@
+C0011315||dengue virus
+C1612175||NS2b-NS3-protease
+C0005456||binding sites
+C1612175||NS2B-NS3 protease
+C0011315||Dengue Virus
+C0011315||Dengue Virus
+C1514849||replication process
+C1167179||complex
+C0003451||antiviral
+C1254351||drug
+C1159314||viral polyprotein processing
+C1947941||protease
+C0009802||conserved
+C0011315||Dengue virus
+C0449943||serotypes
+C1254351||drug
+C0011315||Dengue
+C1612175||NS2b-NS3 Protease
+C0033684||protein
+C0376528||computational
+C0001898||alanine
+C1517890||scanning mutagenesis
+C0314659||sequence
+C0009802||structure conservation
+C0678594||structure
+C0870951||multilayer perceptron model
+C0005456||binding sites
+C0011315||Dengue Virus
+C1947941||protease
+C0002520||amino acids
+C0162806||beta sheet
+C0162806||beta sheet
+C0033625||closed conformation
+C1612175||NS2b
+C1612175||NS2b-NS3
+C1947941||protease
+C0002520||amino acids
+C0030956||peptide
+C0597634||vaccine development

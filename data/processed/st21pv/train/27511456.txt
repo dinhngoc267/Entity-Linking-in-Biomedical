@@ -1,0 +1,83 @@
+C0032105||plasma
+C0003017||angiotensinogen
+C0033625||reduced conformations
+C0014441||ELISA
+C0035096||renin-angiotensin system
+C0035096||renin-angiotensin system
+C0003017||angiotensinogen
+C0003017||angiotensinogen
+C0003006||angiotensin I
+C0003006||angiotensin I
+C0205242||cleaved
+C0035094||renin
+C0003017||angiotensinogen
+C0003017||intact AGT
+C0003017||renin substrate
+C0003017||intact AGT
+C0033625||conformation
+C0003017||oxidized AGT
+C0003017||oxidized AGT
+C0003017||reduced AGT
+C0003017||reduced AGT
+C1511997||disulfide bond
+C0003017||oxidized AGT
+C0035094||renin
+C0035096||renin-angiotensin system
+C0243083||associated diseases
+C0003017||intact AGT
+C0003017||oxidized AGT
+C0003017||reduced AGT
+C0032105||plasma
+C0034693||rats
+C0025929||mice
+C0178913||Blood samples
+C0022885||cardiac puncture
+C0243077||inhibitor
+C1960108||renin inhibitor
+C0003017||angiotensinogen
+C0003017||Total AGT
+C0003017||Total AGT
+C0014441||ELISA
+C0442726||detects
+C0205242||cleaved
+C0003017||intact AGT
+C0003017||intact AGT
+C0003017||intact AGT
+C0014441||ELISA
+C0442726||detect
+C0003017||reduced AGT
+C0178913||samples
+C0012789||dithiothreitol
+C0376446||reducing agent
+C0003017||intact AGT
+C0003017||Total AGT
+C0034693||rat
+C0025929||mouse
+C0032105||plasma
+C0003017||intact AGT
+C0003017||Total AGT
+C0034693||rat
+C0032105||plasma
+C0025929||mouse
+C0032105||plasma
+C0032105||plasma
+C0035094||renin
+C0243102||activity
+C0025929||mice
+C0003017||oxidized AGT
+C0003017||reduced AGT
+C0034693||rat
+C0025929||mouse
+C0032105||Plasma
+C0003017||intact AGT
+C0003017||oxidized AGT
+C0003017||reduced AGT
+C0242606||oxidative stress
+C0003006||angiotensin I
+C0003017||angiotensinogen
+C0033625||conformation
+C0032105||plasma
+C0003017||intact AGT
+C0025929||mice
+C0003006||angiotensin I
+C1705920||species

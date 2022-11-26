@@ -1,0 +1,39 @@
+C0014432||inhibitors
+C0002003||aldose reductase
+C0002003||ALR2
+C0032405||poly (ADP-ribose) polymerase
+C0032405||PARP-1
+C0678594||structure
+C0008972||Clinical studies
+C0011884||diabetic retinopathy
+C0012634||disorder
+C0002003||ALR2
+C0032405||PARP-1
+C0035298||retinal
+C0007634||cells
+C0087111||treatment
+C0011884||diabetic retinopathy
+C0014432||inhibitors
+C0002003||ALR2
+C0032405||PARP-1
+C0678594||structure
+C0033684||proteins
+C1568506||thiazolidine-2,4-dione
+C1568506||thiazolidine-2,4-dione
+C1152555||inhibitory activities
+C0002003||ALR2
+C0032405||PARP-1
+C2825142||experimental results
+C1254351||compounds 5b
+C1254351||5f
+C0014442||enzymes
+C0014432||inhibitors
+C0014442||enzymes
+C1167622||binding
+C0014432||inhibitors
+C0014442||enzymes
+C1446409||positive
+C0005507||assay
+C1254351||compounds
+C0087111||treatment
+C0011884||diabetic retinopathy

@@ -1,0 +1,46 @@
+C3161035||dynamic global vegetation models
+C0017446||Amazon basin
+C3161035||model
+C3161035||dynamic global vegetation models
+C3161035||dynamic global vegetation models
+C0014406||environmental drivers
+C0150098||dataset
+C0242356||Brasil flux network
+C3161035||models
+C3161035||IBIS
+C3161035||ED2
+C3161035||JULES
+C3161035||CLM3.5
+C0017446||Amazonian
+C3161035||dynamic global vegetation models
+C3161035||Models
+C0017446||equatorial Amazon
+C0017446||Manaus K34
+C0017446||Santarem K67
+C0017446||Caxiuanã CAX
+C3161035||Model
+C0014406||environmental
+C0038435||soil water stress
+C0242724||leaf
+C1177284||abscission
+C0014406||environmental
+C3161035||models
+C0035203||respiration
+C0035203||respiration
+C0017446||southern Amazon
+C0035203||respiration
+C3161035||dynamic global vegetation models
+C0679083||simulations
+C3161035||models
+C0017446||southern Amazonia
+C1511162||biophysical processes
+C1158303||light-harvesting
+C0918012||leaf area index
+C0918012||leaf area index
+C0242724||leaf
+C3714634||assimilation
+C0242724||leaf
+C0032098||wood
+C0017446||equatorial Amazon
+C3161035||model
+C1148560||biophysical mechanisms

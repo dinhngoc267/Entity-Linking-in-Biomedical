@@ -1,0 +1,44 @@
+C0021102||implants
+C3839493||super-erupted
+C0011443||dentition
+C0040426||teeth
+C0080233||missing
+C3839493||super-eruption of teeth
+C0205146||area
+C0524544||occlusal plane
+C0080233||missing teeth
+C0021102||implants
+C0260272||oral surgeon
+C0040426||super-erupted teeth
+C1882115||normalize
+C0524544||occlusal plane
+C0008972||study
+C0220825||evaluated
+C0011443||dentition
+C0021107||implant placement
+C0204076||prosthetic treatment
+C0524544||occlusal plane
+C0040426||super-erupted teeth
+C0040426||super-erupted teeth
+C0021102||implants
+C0175649||prosthetics
+C3839493||super-erupted
+C0011443||dentition
+C3850150||Seoul
+C0019994||National University Bundang Hospital
+C0021102||implants
+C0002382||crestal bone loss
+C0274311||surgical
+C0274320||prosthetic complications
+C0204076||prosthetic loading
+C0021102||cover screw
+C0543467||implant surgery
+C0002382||crestal bone loss
+C0021102||implants
+C0274320||prosthetic complication
+C0456984||clinical results
+C0274320||prosthetic complications
+C0002382||crestal bone loss
+C0021102||implant
+C0021102||implants
+C0040426||super-erupted opposing tooth

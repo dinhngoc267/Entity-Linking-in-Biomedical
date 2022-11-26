@@ -1,0 +1,72 @@
+C0013089||Doxorubicin
+C0600688||Toxicity
+C0025929||Mouse
+C0018120||Ovarian Follicle
+C0243107||Development
+C0312431||Hormone Secretion
+C1160520||Oocyte Maturation
+C0013089||Doxorubicin
+C0013089||Doxorubicin
+C0003392||anticancer medications
+C0015895||fertility
+C0018120||ovarian follicles
+C0600688||toxicity
+C0013089||Doxorubicin
+C0018120||follicle
+C0243107||development
+C1160520||oocyte maturation
+C0018017||objective
+C0086418||human
+C0013089||Doxorubicin
+C0018120||follicular
+C0243107||developmental
+C0430400||cultured
+C0737234||multilayered secondary mouse follicles
+C0013089||Doxorubicin
+C0018120||follicle
+C0243107||development
+C0312431||hormone secretion
+C1160520||oocyte maturation
+C0013089||Doxorubicin
+C0600688||toxicity
+C1155902||follicle growth
+C0312431||secretion
+C0014912||17β-estradiol
+C0014912||E2
+C0013089||Doxorubicin
+C0012860||DNA damage
+C0162638||apoptosis
+C0018120||follicle
+C1257909||somatic cells
+C0029045||oocytes
+C0243144||uptake
+C0013089||Doxorubicin
+C1257909||somatic cells
+C0017471||germ cells
+C0018120||Follicles
+C0013089||Doxorubicin
+C0029045||oocyte
+C1155832||metaphase II
+C1155832||metaphase II
+C1160520||oocyte maturation
+C0013089||Doxorubicin
+C1155832||metaphase II
+C0029045||oocytes
+C0205161||abnormal
+C1166795||spindle
+C0008633||chromosome
+C1515655||in vivo
+C0600688||toxicity
+C1160520||oocyte meiotic maturation
+C0025929||CD-1 mice
+C0013089||Doxorubicin
+C1160520||oocyte maturation
+C2603343||study
+C0013089||Doxorubicin
+C0600688||toxicity
+C0018120||ovarian follicle
+C0243107||development
+C0312431||hormone secretion
+C1160520||oocyte maturation
+C0278049||female reproductive
+C0678896||endocrine functions

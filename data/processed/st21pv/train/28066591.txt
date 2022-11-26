@@ -1,0 +1,40 @@
+C0032461||polycythemia
+C0024117||chronic obstructive pulmonary disease
+C0034065||pulmonary embolism
+C0034065||Pulmonary embolism
+C0034065||Pulmonary embolism
+C0080105||subjects
+C0024117||chronic obstructive pulmonary disease
+C0024117||chronic obstructive pulmonary disease
+C0035363||multi-center retrospective study
+C0032461||polycythemia
+C0024117||chronic obstructive pulmonary disease
+C0034065||Pulmonary embolism
+C0024117||chronic obstructive pulmonary disease
+C0034065||Pulmonary embolism
+C0243095||PESI score
+C0025102||medical records
+C0080105||subjects
+C0586003||hospital discharge
+C0024117||chronic obstructive pulmonary disease
+C0034065||Pulmonary embolism
+C0032461||polycythemia
+C0032461||polycythemia
+C0032461||polycythemia
+C2238302||forced expiratory volume in one second (FEV1) level
+C2363807||lower PaO2
+C2317096||SpO2
+C0391839||higher PaCO2
+C0024117||chronic obstructive pulmonary disease
+C0032461||polycythemia
+C0003811||arrhythmia
+C0013798||electrocardiogram
+C0013798||electrocardiogram
+C2986496||noninvasive
+C0032461||polycythemia
+C0024117||chronic obstructive pulmonary disease
+C0034065||Pulmonary embolism
+C0032461||Polycythemia
+C0035648||risk factor
+C0024117||chronic obstructive pulmonary disease
+C0034065||Pulmonary embolism

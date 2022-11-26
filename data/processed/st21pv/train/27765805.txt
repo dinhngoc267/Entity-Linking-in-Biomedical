@@ -1,0 +1,30 @@
+C0009274||colectomy
+C0347646||colon perforation
+C0124498||kayexalate
+C1533734||administration
+C0282441||literature review
+C0009566||complication
+C0124498||Kayexalate
+C0022014||ion exchange resin
+C0087111||treat
+C0020461||hyperkalemia
+C0009324||Bowel ulceration
+C0027540||necrosis
+C0009566||complication
+C0124498||kayexalate
+C1533734||administration
+C1533734||administration
+C0037688||sorbitol
+C0021853||bowel
+C0124498||kayexalate
+C1533734||administration
+C2243080||bowel necrosis
+C0037688||sorbitol
+C0010340||critically ill
+C0009274||colectomy
+C0442027||oral
+C0124498||kayexalate
+C1533734||administration
+C0030660||pathologic process
+C0282441||review the literature
+C0242656||progression

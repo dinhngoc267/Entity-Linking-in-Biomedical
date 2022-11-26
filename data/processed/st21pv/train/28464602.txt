@@ -1,0 +1,106 @@
+C0017725||High Glucose
+C0034693||Rat
+C0225828||Cardiomyocyte
+C0162638||Apoptosis
+C0167117||Exendin-4
+C0184661||Intervention
+C0538674||heme oxygenase-1
+C0289507||nuclear factor E2-related factor 2
+C0167117||Exendin-4
+C2917359||glucagon-like peptide-1 receptor agonist
+C0524828||cytoprotective actions
+C0522082||glycemic control
+C2603343||study
+C0167117||exendin-4
+C0017725||high glucose
+C0017725||high glucose
+C0225828||cardiomyocyte
+C0162638||apoptosis
+C0034693||Rat
+C0225828||cardiomyocytes
+C0017725||normal glucose
+C0017725||NG
+C0017725||high glucose
+C0017725||high glucose
+C0167117||exendin-4
+C0017725||high glucose
+C0167117||Ex
+C0225828||Cardiomyocyte
+C0162638||apoptosis
+C0022885||double-staining
+C0085216||annexin V-fluorescein isothiocyanate
+C0085216||V-fluorescein isothiocyanate
+C0033470||propidium iodide
+C0033470||propidium iodide
+C0016263||flow cytometry
+C0178719||Intracellular
+C0442726||detected
+C0670829||2’,7’-dichlorodihydrofluorescein diacetate
+C0670829||2’,7’-dichlorodihydrofluorescein diacetate
+C1439852||incubation
+C0026022||fluorescence microscopy
+C0251991||LY294002
+C0251991||LY294002
+C0044602||phosphoinositide 3-kinase
+C0044602||phosphoinositide 3-kinase
+C1704259||pathway
+C0010454||medium
+C0017725||high glucose
+C0167117||Ex
+C0251991||LY294002
+C0949466||western blot analysis
+C0033684||proteins
+C0936012||analyzed
+C0242606||oxidative stress
+C0033684||associated proteins
+C0538674||heme oxygenase-1
+C0538674||heme oxygenase-1
+C0289507||nuclear factor E2-related factor 2
+C0289507||nuclear factor E2-related factor 2
+C0162638||apoptosis
+C0033684||associated proteins
+C0291573||caspase-3
+C0219474||Bax/B-cell lymphoma 2
+C0219474||Bax/B-cell lymphoma 2
+C0164786||p-AKT
+C0164786||AKT
+C0017725||high glucose
+C0225828||cardiomyocyte
+C0162638||apoptosis
+C0041904||upregulated
+C0162772||reactive oxygen species
+C0167117||exendin-4
+C1439852||co-incubation
+C0225828||cardiomyocyte
+C0162638||apoptosis
+C0162772||reactive oxygen species
+C0538674||heme oxygenase-1
+C0289507||nuclear factor E2-related factor 2
+C1171362||protein expression
+C0017725||high glucose
+C0167117||exendin-4
+C0184661||intervention
+C0167117||exendin-4
+C0017725||high glucose
+C1171362||protein expression
+C0291573||caspase-3
+C0219474||Bax
+C1171362||expression
+C4042483||Bcl-2 protein
+C0167117||exendin-4
+C1439852||co-incubation
+C0251991||LY294002
+C0167117||exendin-4
+C0017725||high glucose
+C0164786||p-AKT
+C0164786||AKT
+C1171362||lower expression
+C0251991||LY294002
+C0167117||Exendin-4
+C0017725||high glucose
+C0225828||cardiomyocyte
+C0162638||apoptosis
+C1148560||anti-oxidative stress
+C0538674||heme oxygenase-1
+C0289507||nuclear factor E2-related factor 2
+C0184661||intervention

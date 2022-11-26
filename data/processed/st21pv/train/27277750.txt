@@ -1,0 +1,43 @@
+C0210657||pemetrexed
+C0079925||miR-21 antisense oligonucleotide
+C0023779||lipid
+C0032521||polymer
+C0017636||glioblastoma
+C0007634||cells
+C0009429||Combination therapy
+C0003392||anticancer drugs
+C0028606||nucleic acid
+C0027651||cancer
+C0162638||apoptosis
+C2603343||study
+C0023779||lipid
+C0032521||polymer
+C1713964||lipid - polymer hybrid nanoparticles
+C0210657||pemetrexed
+C0079925||miR-21 antisense oligonucleotide
+C0079925||anti-miR-21
+C0017636||glioblastoma
+C0006118||brain tumor
+C1713964||lipid - polymer hybrid nanoparticles
+C0681814||release experiments
+C1713964||lipid - polymer hybrid nanoparticles
+C0678118||transmission electron microscopy
+C1713964||lipid - polymer hybrid nanoparticles
+C0456389||size
+C0210657||pemetrexed
+C0210657||pemetrexed
+C1713964||lipid - polymer hybrid nanoparticles
+C0007613||cellular uptake
+C0242842||confocal microscopy analysis
+C0079925||anti-miR-21
+C4055506||accumulation
+C1713964||lipid - polymer hybrid nanoparticles
+C0007610||nucleus
+C0007634||U87MG cells
+C0596402||cytotoxicity
+C0079925||anti-miR-21
+C1713964||lipid - polymer hybrid nanoparticles
+C0085104||drug delivery systems
+C0079925||anti-miR-21
+C0087111||treatment
+C0017636||glioblastoma

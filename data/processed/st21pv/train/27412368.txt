@@ -1,0 +1,33 @@
+C0039637||tetrachloroethylene
+C0039637||PCE
+C0032460||polycystic ovary syndrome
+C0017446||cape cod
+C0008972||health study
+C0035363||retrospective cohort study
+C0039637||Tetrachloroethylene
+C0039637||PCE
+C0037638||solvent
+C0027912||neuroendocrine
+C0018017||objective
+C2603343||study
+C0039637||PCE
+C0243107||development
+C1853562||adult-onset
+C0032460||Polycystic Ovary Syndrome
+C0032460||Polycystic Ovary Syndrome
+C0014175||endometriosis
+C0013418||difficulty conceiving
+C0000786||miscarriage
+C2349018||unexposed
+C0679646||participants
+C0034394||questionnaires
+C0442506||Residential locations
+C0039637||PCE
+C0037585||water modeling software
+C0039637||PCE
+C0032460||Polycystic Ovary Syndrome
+C0032460||Polycystic Ovary Syndrome
+C0150312||found
+C0043210||women
+C0039637||PCE
+C1853562||adult-onset

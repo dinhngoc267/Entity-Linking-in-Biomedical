@@ -1,0 +1,58 @@
+C1979963||Profile
+C1704656||Diagnoses
+C3898226||Motor Stereotypies
+C3898226||Motor stereotypies
+C0031843||physiological
+C1457887||symptoms
+C0012634||disorders
+C4302136||primary stereotypies
+C1510586||autistic spectrum disorder
+C1510586||autistic spectrum disorder
+C3714756||intellectual disabilities
+C0567439||genetic syndromes
+C2603343||study
+C0220825||assessment
+C0038273||stereotypies
+C1535926||neurodevelopmental disorders
+C2603343||studied
+C0009818||consultation
+C3898226||motor stereotypies
+C1704656||diagnosis
+C1510586||autistic spectrum disorder
+C0220825||assessment
+C0349674||Motor Severity Stereotypy Scale
+C0349674||Motor Severity Stereotypy Scale
+C0475483||Repetitive Behavior Scale-Revised
+C0475483||Repetitive Behavior Scale-Revised
+C4305179||Raven's Colored Progressive Matrices
+C0349674||Social Responsiveness Scale
+C0349674||(SRS)
+C0282574||Autism Diagnostic Observation Schedule-second edition
+C0282574||ADOS 2
+C3898226||motor stereotypies
+C0349674||Motor Severity Stereotypy Scale
+C0038273||stereotypies
+C0038273||stereotypies
+C0475483||Repetitive Behavior Scale-Revised
+C0038271||stereotypic behaviors
+C1827547||repetitive behaviors
+C2266670||ritualistic behavior
+C1827547||sameness behavior
+C4231661||normal cognitive level
+C0233514||behavioral problems
+C1457887||internalizing problems
+C0004268||attention
+C2825032||withdrawn
+C0349674||Social Responsiveness Scale
+C0282574||ADOS 2
+C1510586||autistic spectrum disorder
+C1457887||symptoms
+C0037088||signs
+C1510586||autistic spectrum disorder
+C3898226||Motor stereotypies
+C4231661||normal cognitive level
+C0033213||issue
+C0220825||assessment
+C0679838||misdiagnosis
+C3898226||motor stereotypies
+C0026650||movement disorder

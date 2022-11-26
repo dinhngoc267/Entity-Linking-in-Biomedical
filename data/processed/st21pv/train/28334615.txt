@@ -1,0 +1,33 @@
+C1334863||NCAM1 gene set
+C0086132||depressive symptoms
+C0006104||brain structural
+C0237401||healthy individuals
+C0086132||Depressive symptoms
+C0011581||depressive disorders
+C0037812||continuous spectrum
+C0086132||depressive symptoms
+C0243095||biological underpinnings
+C0011570||depression
+C0796344||Gene set enrichment analysis
+C0796344||Gene set enrichment analysis
+C0017337||gene groups
+C2350277||genome-wide association study
+C2350277||genome-wide association study
+C0006104||brain-level structural
+C0237401||healthy young individuals
+C1319166||symptom level
+C0017337||gene sets
+C1334863||NCAM1
+C2246343||Collagen Formation
+C0152381||brain white matter property
+C0152325||within the forceps minor
+C2337627||left superior temporal longitudinal fasciculus
+C0796344||Gene set enrichment analysis
+C1334863||NCAM1
+C0017337||gene set
+C1334863||NCAM1
+C0017337||gene set
+C0006104||structural brain
+C1708335||healthy participants
+C0243095||molecular underpinnings
+C0086132||depressive symptomatology

@@ -1,0 +1,7 @@
+C0035345||Retirement
+C0231224||crisis
+C0243095||startling
+C0028698||staff
+C0035345||retire
+C0028661||nurses
+C1704312||healthcare professionals

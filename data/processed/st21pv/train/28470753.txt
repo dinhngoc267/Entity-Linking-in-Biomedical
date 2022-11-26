@@ -1,0 +1,64 @@
+C1947953||Stalk
+C0700276||base
+C1269955||invasion
+C0332391||Pathologic stage T1
+C0699885||papillary cancers of the bladder
+C0242656||progression
+C0332391||Pathologic stage T1
+C0332391||Pathologic stage T1
+C0699885||bladder cancers
+C0178759||staging
+C0205124||superficially
+C0677898||invasive cancers
+C1269980||lamina propria invasion
+C1368911||papillary urothelial carcinomas
+C1368911||papillary urothelial carcinomas
+C0030698||patient outcomes
+C0332391||Pathologic stage T1
+C1368911||papillary urothelial carcinomas
+C1519193||scheme
+C0220901||prognostically
+C0332391||Stage pT1
+C1368911||papillary urothelial carcinomas
+C0011900||diagnosed
+C0035363||retrospectively reviewed
+C0205234||focal
+C2699153||invasion
+C1947953||papillary stalk
+C0205234||focal
+C1269955||invasion
+C0027651||tumor
+C0700276||base
+C1269955||invasion
+C0027651||tumor
+C0700276||base
+C1300924||flat carcinoma in-situ
+C1708790||angiolymphatic invasion
+C0225358||muscularis propria
+C0679254||recurrence
+C0242656||progression
+C0011065||death
+C1519691||tumor subtype
+C0220825||evaluated
+C0035648||differential risks
+C0237913||log-rank tests
+C1269793||extent of invasion
+C0700276||base
+C1269955||invasion
+C0700276||base
+C0205234||focal
+C1947953||stalk
+C1269955||invasion
+C0700276||base
+C0242656||progression
+C0011065||death
+C0699885||bladder cancer
+C0700276||base
+C0205234||focal
+C1947953||stalk
+C1519691||tumor subtype
+C0679254||recurrence
+C1269980||lamina propria invasion
+C0332391||Pathologic stage T1
+C1368911||papillary urothelial carcinomas
+C0242656||progression

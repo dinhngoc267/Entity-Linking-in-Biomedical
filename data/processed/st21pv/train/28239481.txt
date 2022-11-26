@@ -1,0 +1,47 @@
+C1527116||workers
+C0420142||general health examination
+C0022771||Korea
+C3714738||compliance
+C2985505||retrospective cohort study
+C0220825||evaluated
+C1527116||Workers
+C0420142||General Health Examination
+C3714738||compliance
+C2985505||retrospective cohort
+C0679646||participants
+C0007222||cardio
+C0007820||cerebrovascular disease
+C1514983||stratification
+C0027452||national health insurance type
+C0007222||cardio
+C0007820||cerebrovascular disease
+C3714738||compliance
+C3714738||compliance
+C1257890||compliant group
+C0007222||cardio
+C0007820||cerebrovascular disease
+C1257890||non-compliant group
+C0162579||workplace
+C0007222||cardio
+C0007820||cerebrovascular disease
+C0151744||ischemic heart disease
+C0679646||participants
+C0025266||men
+C0332167||higher relative risk of
+C0151744||ischemic heart disease
+C1527116||non-office workers
+C0007820||cerebrovascular disease
+C0007820||cerebrovascular disease
+C0025266||men
+C0007222||cardio
+C0007820||cerebrovascular disease
+C0043210||women
+C1527116||Workers
+C0420142||General Health Examinations
+C1527116||non-office workers
+C0199176||prevention
+C0151744||ischemic heart disease
+C0025266||men
+C0199176||prevention
+C0007222||cardio
+C0007820||cerebrovascular disease

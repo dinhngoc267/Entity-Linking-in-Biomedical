@@ -1,0 +1,26 @@
+C0870071||Ecohydrological modeling
+C0014406||environmental
+C0006137||Minas Gerais State
+C0006137||Brazil
+C1706852||paper
+C0014406||environmental
+C0006137||MG
+C0870071||River2D model
+C0870071||ecohydrological modeling
+C0871648||Habitat
+C1705920||species
+C3128443||Hypostomus auroguttatus
+C0870071||River2D
+C0205146||Areas
+C1704640||matrices
+C0871648||habitat
+C0205146||area
+C3128443||H. auroguttatus
+C0205146||Area
+C3128443||H. auroguttatus
+C0205146||Area
+C0014406||environmental
+C0150312||found
+C0014406||environmental
+C1706852||paper
+C0870071||ecohydrological studies

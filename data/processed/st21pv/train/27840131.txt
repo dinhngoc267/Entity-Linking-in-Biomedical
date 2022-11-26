@@ -1,0 +1,37 @@
+C0026769||Multiple Sclerosis
+C0521654||motor deficits
+C0233849||dimensions
+C0237401||individuals
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0010362||cross-sectional study
+C3839267||MS clinic
+C0679083||simulator
+C0022877||lab
+C0684312||Active drivers
+C0026769||multiple sclerosis
+C0234130||motor functions
+C0009085||hierarchic clusters
+C0034980||Stepwise regression analysis
+C0021467||inhibition
+C0429540||binocular acuity
+C1301505||vertical visual field
+C0011586||stereopsis
+C4274597||Attentional shift
+C0011586||stereopsis
+C1321305||glare recovery
+C0036605||assistive devices
+C0009085||operational cluster
+C0021467||inhibition
+C0684328||reasoning
+C0429540||binocular acuity
+C0011586||stereopsis
+C0009085||tactical cluster
+C0026347||visuo-integrative mode
+C0429540||binocular acuity
+C0011586||stereopsis
+C0021467||Inhibition
+C0429540||binocular acuity
+C0026348||model
+C0009085||mixed cluster
+C0026769||multiple sclerosis

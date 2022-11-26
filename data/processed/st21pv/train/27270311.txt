@@ -1,0 +1,59 @@
+C0005847||perivascular
+C0597032||tumor cells
+C1138427||integrin αvβ3
+C1514762||signaling
+C1622501||migration
+C0225336||endothelial cells
+C1327616||secretion
+C0002976||pro-angiogenic factors
+C0597032||tumor cells
+C0162597||stromal cells
+C0005847||perivascular
+C1519670||aggressive angiogenesis
+C0017636||glioblastoma
+C0017636||glioblastoma
+C1519670||angiogenesis
+C0006104||brain
+C0597032||tumor cells
+C0597032||tumor cells
+C1956422||cancer stem
+C1956422||CSCs
+C0225336||endothelial cells
+C0225336||endothelial cells
+C0597358||binding
+C1138427||integrin αvβ3
+C0225336||endothelial cells
+C0052350||RGD-peptide
+C0950625||L1CAM
+C1171362||expressed
+C1956422||CSCs
+C0225336||EC
+C0007613||network formation
+C1622501||migration
+C0016026||fibroblast growth factor
+C1138427||αvβ3
+C1384557||bone marrow tyrosine kinase on chromosome X
+C1453891||BMX
+C1622501||migration
+C0597358||binding
+C1622501||migration
+C0052350||RGD-peptide
+C0025929||mice
+C0442111||intracerebral
+C0017636||glioblastoma
+C0522537||xenografts
+C0300483||Sox2
+C0597032||tumor cells
+C1956422||CSCs
+C0225336||endothelial cells
+C1138427||integrin αvβ3
+C1453891||BMX
+C1451358||p130CAS
+C1158886||phosphorylation
+C0225336||endothelial cells
+C0005847||vessel
+C0205146||surface area
+C1327622||regulation
+C1519670||angiogenesis
+C0017636||glioblastoma
+C0596087||anti-angiogenic

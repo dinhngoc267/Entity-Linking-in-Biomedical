@@ -1,0 +1,39 @@
+C1273858||Transfusion medicine
+C0936012||analysis
+C0006137||Brazil
+C0023866||current literature
+C0005841||Blood transfusions
+C0199171||medical procedures
+C2700280||world
+C1273858||transfusion medicine
+C0496675||medical care
+C0005767||blood
+C0031831||doctors
+C1273858||transfusion medicine
+C0036378||medical schools
+C0006137||Brazil
+C2349146||websites
+C1257890||Brazilian
+C0036378||medical schools
+C0010478||curricula
+C1273858||transfusion medicine discipline
+C0936012||analyzed
+C0678257||description of content
+C1273858||transfusion medicine
+C0036378||medical school
+C0010478||curriculum
+C0036378||medical schools
+C0010478||curriculum
+C1273858||disciplines of transfusion medicine
+C0018943||hematology
+C1273858||discipline of transfusion medicine
+C1273858||transfusion medicine
+C1879316||safe and efficient transfusion practices
+C0376554||knowledge
+C0033522||prospective studies
+C0376554||knowledge
+C1273858||transfusion medicine
+C1257890||Brazilian
+C0036378||medical schools
+C1273858||transfusion medicine
+C0038495||medical students

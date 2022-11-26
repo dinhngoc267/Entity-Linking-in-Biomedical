@@ -1,0 +1,52 @@
+C0238767||Bilateral
+C0038293||sternal
+C0574032||infusion
+C0073571||ropivacaine
+C0021708||ICU
+C0018821||cardiac surgery
+C0206035||randomised controlled trial
+C0238767||bilateral
+C0574032||infusion
+C0002934||local anaesthetic
+C0525069||solution
+C0185792||sternotomy
+C0043250||wound
+C0238767||bilateral
+C0038293||sternal
+C0030193||pain
+C0185792||sternotomy
+C0085559||intensive care
+C0161818||respiratory complications
+C0206035||Randomised, observer-blind controlled trial
+C0020028||French University Hospital
+C0189745||open-heart surgery
+C1305855||BMI
+C0024117||chronic obstructive pulmonary disease
+C0238767||bilateral
+C0038293||sternal
+C0574032||infusion
+C0073571||ropivacaine
+C0085590||catheter
+C2986530||'intervention' group
+C3202977||Analgesia
+C0000970||paracetamol
+C0026549||morphine
+C1318963||readiness
+C0030685||discharge
+C0021708||ICU
+C0009817||experts
+C2718028||intention to treat
+C2986530||intervention groups
+C0241311||postoperative
+C0184661||intervention
+C0030193||dynamic pain
+C0042963||vomiting
+C0011206||delirium
+C0009676||mental confusion
+C0281169||pulmonary complications
+C1457887||symptoms
+C0235031||neurological symptoms
+C1708335||healthy volunteers
+C0948482||analgesic effects
+C0021708||ICU
+C4086204||ClinicalTrials.gov

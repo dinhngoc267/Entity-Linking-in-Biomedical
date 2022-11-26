@@ -1,0 +1,19 @@
+C0243095||reflection
+C0152035||Chinese
+C0025266||man
+C0562508||emergency department
+C1457887||symptoms
+C0011900||diagnosed
+C0235974||advanced cancer of the pancreas
+C0278252||poor prognosis
+C0011900||diagnosis
+C0086390||team
+C0033213||issues
+C0011900||diagnosis
+C0011900||diagnosis
+C0557061||discussion
+C0031831||doctor in charge
+C0011900||diagnosis
+C0150646||interpreter
+C1279750||respecting patients' and families' preferences
+C0237726||medical treatment and care

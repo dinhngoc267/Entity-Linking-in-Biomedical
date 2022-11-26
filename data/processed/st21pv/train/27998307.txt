@@ -1,0 +1,53 @@
+C0858762||Neuro-Behcet disease
+C0149854||cerebellar hemorrhagic
+C0221198||lesion
+C0085973||case report
+C0282441||review of the literature
+C0004943||Behcet's disease
+C1858576||heterogeneous
+C0559758||multisystem
+C1290884||inflammatory disorder
+C0149745||oral
+C0151281||genital ulcerations
+C0042164||uveitis
+C0549217||Turkish
+C0259831||dermatologist
+C0521989||associated symptoms
+C0007226||cardiovascular
+C3714787||central nervous
+C0012240||gastrointestinal systems
+C0004943||Behcet's disease
+C0027765||neurological involvement
+C0858762||neuro-Behcet's disease
+C0858762||neuro-Behcet's disease
+C1457887||symptoms
+C0006121||brainstem
+C0012144||diencephalic
+C0205147||regions
+C0684224||report
+C0858762||neuro-Behcet's disease
+C0149854||cerebellar hemorrhage
+C0078988||Asian
+C0043210||woman
+C0809949||admitted
+C0019994||hospital
+C0277786||complaints
+C0233715||speech difficulty
+C0012833||dizziness
+C0042963||vomiting
+C3890166||Magnetic resonance images
+C0149854||hemorrhagic
+C0221198||lesions
+C2335345||right hemisphere of the cerebellum
+C0035648||Risk factors
+C0149854||cerebellar hemorrhage
+C0020538||high blood pressure
+C1458140||bleeding diathesis
+C0006104||brain
+C0002978||angiograms
+C0243095||findings
+C0149854||cerebellar hemorrhage
+C0524466||intracranial
+C0042384||vasculitis
+C0009566||complication
+C0858762||neuro-Behcet's disease

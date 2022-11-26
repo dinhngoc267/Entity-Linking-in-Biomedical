@@ -1,0 +1,52 @@
+C0681814||quasi-experimental study
+C0150321||reminiscence program
+C0561843||autobiographical memory
+C0001792||older adults
+C0338656||cognitive impairment
+C0233793||past memories
+C0150321||reminiscence interventions
+C0025353||mental health
+C0001792||older adults
+C2603343||studies
+C0561843||autobiographical memory
+C0034770||recall
+C0338656||cognitive impairment
+C2603343||study
+C0237401||individual
+C0150321||reminiscence program
+C0234985||cognitive decline
+C0028688||nursing homes
+C0009240||cognition
+C0561843||autobiographical memory
+C0026516||mood
+C0003469||anxiety
+C0032919||pre-test and post-test design
+C0220825||single blinded assessment
+C0679646||participants
+C1257890||experimental group
+C0237401||individual
+C0332128||examined
+C0009240||cognition
+C3496286||Montreal Cognitive Assessment
+C0392366||Autobiographical Memory Test
+C0450989||Alzheimer Disease Assessment Subscale Non-Cog
+C0243095||emotional status
+C0679604||Cornell Scale for Depression
+C0497327||Dementia
+C0451184||Geriatric Depression Scale
+C0282574||Geriatric Anxiety Inventory
+C0679646||Participants
+C0009240||cognition
+C0003469||anxiety
+C0011570||depression
+C0034770||retrieved
+C0025260||memories
+C0034770||recalling
+C0034770||recalled
+C0150321||reminiscence therapy
+C0034770||recall
+C0561843||autobiographical memory
+C0150321||Reminiscence therapy
+C0392335||cognitive function
+C0003469||anxiety
+C0086132||depressive symptoms

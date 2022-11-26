@@ -1,0 +1,20 @@
+C1705920||species
+C0323749||wolf spider
+C1708235||genus
+C3409647||Trebacosa
+C0037913||Araneae
+C0323749||Lycosidae
+C1706852||paper
+C3409647||Trebacosa brunhesi
+C3409647||Trebacosa europaea
+C0017446||localities
+C1705920||species
+C1705920||species
+C1708235||genus
+C3409648||Trebacosa marxi
+C0017446||localities
+C3409647||T. europaea
+C1708235||genus
+C0026020||Scanning electron micrographs
+C0678594||structure
+C0017421||female's genitalia

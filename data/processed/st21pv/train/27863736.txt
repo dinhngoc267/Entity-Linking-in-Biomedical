@@ -1,0 +1,34 @@
+C1293918||Moberg Picking-Up Test
+C0263746||hand osteoarthritis
+C1293918||Moberg Pick-up Test
+C1293918||Moberg Pick-up Test
+C3853978||functional performance
+C0018563||hand
+C1290884||inflammatory disease
+C1293918||Moberg Pick-up Test
+C0263746||hand osteoarthritis
+C0263746||osteoarthritis
+C3853978||functional performance
+C1293918||Moberg Pick-up Test
+C0263746||hand OA
+C0263746||hand OA
+C1293918||Moberg Pick-up Test
+C3891717||AUSCAN
+C0034394||Cochin questionnaires
+C1720876||pinch strength
+C0030193||pain
+C0042815||visual analog scale
+C0451267||Likert scale
+C1293918||Moberg Pick-up Test
+C1293918||Moberg Pick-up Test
+C1261322||evaluation
+C0263746||osteoarthritis
+C0263746||osteoarthritis
+C0392366||test
+C1720876||pinch strength measurements
+C0263746||osteoarthritis
+C0392366||test
+C1293918||Moberg Pick-up Test
+C0392366||test
+C3853978||functional performance
+C0263746||hand OA

@@ -1,0 +1,50 @@
+C0206034||randomized trial
+C0071213||Plasma-Lyte A
+C0267446||acute pediatric gastroenteritis
+C0071213||Plasma-Lyte A
+C0071213||Plasma-Lyte A
+C0559692||intravenous (IV) fluid replacement
+C3472181||severe dehydration
+C0267446||acute gastroenteritis
+C0267446||acute gastroenteritis
+C0033522||Prospective
+C0034656||randomized
+C0013072||double-blind study
+C0562508||emergency departments
+C0562508||emergency departments
+C0041703||US
+C0006823||Canada
+C1261426||serum bicarbonate level
+C3274448||tolerability
+C0071213||Plasma-Lyte A
+C0202059||improvement of 4-h bicarbonate
+C0267446||acute gastroenteritis
+C3472181||severe dehydration
+C0428196||bicarbonate level
+C1257890||group
+C0087111||treatment
+C1257890||groups
+C0071213||Plasma-Lyte A
+C1257890||group
+C0071213||Plasma-Lyte A
+C1257890||group
+C0858078||increases in serum bicarbonate
+C1257890||group
+C0087111||treatment
+C1257890||groups
+C0071213||Plasma-Lyte A
+C1257890||group
+C0000737||abdominal pain
+C0011175||dehydration
+C0587081||laboratory findings
+C0031809||physical examination
+C0087111||treatment
+C1257890||group
+C0020625||hyponatremia
+C0020461||hyperkalemia
+C0071213||Plasma-Lyte A
+C0071213||Plasma-Lyte A
+C0034997||rehydration
+C0267446||acute gastroenteritis
+C0428301||improvement in serum bicarbonate
+C0011175||dehydration

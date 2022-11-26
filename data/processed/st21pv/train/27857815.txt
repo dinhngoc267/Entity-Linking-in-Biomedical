@@ -1,0 +1,46 @@
+C0918182||Iron Stain
+C0151699||Intracranial Hemorrhage
+C0014792||red blood cells
+C0019080||hemorrhage
+C0699900||catabolism
+C0018966||heme
+C0302583||iron
+C3714660||traumatic
+C0009938||contusions
+C0019080||hemorrhages
+C0009938||date contusions
+C0369671||microscopic observations
+C0581296||Intracranial lesions
+C0019080||hemorrhage
+C2826244||life-threatening
+C0019080||hemorrhages
+C0420141||medicolegal investigation
+C0033779||Prussian Blue reaction
+C0302583||iron
+C0019635||histochemical
+C0086143||diagnostic test
+C2603343||study
+C0332128||examined
+C0060234||Prussian Blue iron stain
+C0151699||intracranial hemorrhages
+C0150312||presence
+C0060234||Prussian Blue
+C0243095||found
+C0151699||intracranial hemorrhage
+C0302583||focal iron
+C0543467||surgery
+C0243095||no iron reactivity
+C0543467||surgery
+C0033779||Prussian Blue reaction
+C0021212||indicator
+C0151699||intracranial hemorrhage
+C0033779||Prussian blue reaction
+C0021212||independent indicator
+C1444656||indicated
+C1522279||iron staining
+C0221198||lesions
+C0221505||brain lesions
+C0033779||Prussian blue reaction
+C4314692||neurologic decline
+C1516606||clinical data
+C0205557||false positive results

@@ -1,0 +1,67 @@
+C0872252||proteomic
+C0936012||analyses
+C0542478||physiological response
+C0039005||gilts
+C0449430||stress
+C0005516||markers
+C0220825||assessment
+C0003062||animal
+C0449430||stress
+C0022877||laboratory
+C0005516||biomarkers
+C0229671||serum
+C0486616||composition
+C0039005||gilts
+C0003062||animal
+C2364135||discomfort
+C0005767||Blood
+C0438730||saliva samples
+C0936012||analyses
+C0023779||lipid
+C0597299||protein metabolism
+C0020268||cortisol
+C0026845||muscular
+C0005516||markers
+C0003062||animals
+C2936240||2D-DIGE
+C0282574||iTRAQ
+C0872252||proteomic
+C0036825||serum protein
+C0486616||composition
+C0039005||gilts
+C1561987||homeostatic mechanisms
+C0030012||redox
+C0001347||acute phase proteins
+C0018595||haptoglobin
+C0085201||apolipoprotein A-I
+C0003402||antioxidant
+C1137156||peroxiredoxin 2
+C2936240||2D-DIGE
+C0033684||proteins
+C0022942||lactotransferrin
+C0300261||protegrin 3
+C0252527||galectin 1
+C0282574||iTRAQ
+C0242606||oxidative stress
+C0014442||enzymes
+C1137156||peroxiredoxin 2
+C1436542||glutathione peroxidase 3
+C0872252||Proteomics
+C0003591||apolipoproteins
+C0178719||intracellular
+C0033684||proteins
+C0229671||serum
+C0040300||tissues
+C0039005||gilts
+C0023779||lipid
+C0597297||protein catabolism
+C0242606||oxidative stress
+C0010957||tissue damage
+C4076401||stress assessment
+C0039005||gilts
+C0023779||lipid
+C0870883||metabolites
+C0242606||oxidative stress
+C0005516||markers
+C0178719||intracellular
+C0033684||proteins

@@ -1,0 +1,57 @@
+C0243095||Visualization
+C1537570||LGR5(+)
+C0086418||human
+C0009368||colon
+C1956422||cancer stem cells
+C1956422||cancer stem cell
+C1956422||cancer stem cell
+C4042950||self-renewing
+C0449560||subpopulation
+C0334227||cancer cells
+C0086418||human
+C1956422||CSCs
+C0520484||xenotransplantation
+C3829491||isolated cells
+C1522642||clonal
+C0086418||human
+C1537570||LGR5(+)
+C0334227||colorectal cancer cells
+C1956422||CSCs
+C0006826||cancer
+C0040300||tissues
+C0022885||tracing experiments
+C0039286||tamoxifen
+C1744318||Cre
+C2350597||knock-in
+C0002085||allele
+C3640115||LGR5
+C4042950||self-renewal
+C0007589||differentiation
+C1537570||LGR5(+)
+C0334227||tumour cells
+C0547070||ablation
+C1537570||LGR5(+)
+C1956422||CSCs
+C1537570||LGR5
+C1332668||Caspase9
+C2350597||knock-in
+C0029250||organoids
+C1537570||LGR5(+)
+C1956422||CSCs
+C1426926||KRT20
+C2350597||knock-in
+C0206414||reporter
+C0007589||differentiated
+C0334227||cancer cells
+C0475358||tumour tissues
+C1537570||LGR5(+)
+C1956422||CSCs
+C1537570||LGR5(+)
+C1956422||cancer stem cell
+C0547070||ablation
+C3665472||chemotherapy
+C1537570||LGR5(+)
+C1956422||CSCs
+C1956422||CSCs
+C0086418||human
+C1527249||colorectal cancer

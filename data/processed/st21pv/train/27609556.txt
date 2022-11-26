@@ -1,0 +1,35 @@
+C0392673||Functional adaptation
+C1704306||crustacean
+C0013879||elements
+C0678594||structural
+C0681814||experimental
+C0039778||theoretical study
+C1704306||crustacean
+C2699479||cuticle
+C0003062||animal
+C0008141||chitin
+C0033684||protein molecules
+C4050026||matrix
+C2699479||cuticle
+C2699479||exo-
+C2699479||endocuticle
+C0026162||mineral phase
+C0024467||Mg
+C0205686||calcite
+C0006681||calcium carbonate
+C0031603||phosphate
+C1998468||physical
+C2699479||cuticle
+C0521324||skeletal
+C0013879||elements
+C0392673||adapted
+C1705920||individual species
+C0282443||review
+C0681814||experimental
+C0039778||theoretical studies
+C2699479||cuticle
+C0678594||structure
+C1998468||physical properties
+C2603343||studies
+C0678594||structure
+C2699479||cuticle

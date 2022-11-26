@@ -1,0 +1,70 @@
+C0220862||isolating
+C0227525||hepatocytes
+C0039011||mini pigs
+C0039005||porcine
+C0227525||hepatocyte
+C0220862||isolation
+C0336562||bioartificial liver devices
+C1998344||hepatocyte transplantation
+C0162745||Serva collagenase NB grades
+C0162745||collagenases
+C0040300||tissue
+C0220862||isolation
+C0001047||N-acetylcysteine
+C0001047||N-acetylcysteine
+C0086418||human
+C0227525||hepatocytes
+C0162745||collagenases
+C0001047||N-acetylcysteine
+C0227525||hepatocyte
+C0220862||isolation
+C0039005||porcine
+C0736268||liver tissue
+C0039005||Porcine
+C0227525||hepatocytes
+C0220862||isolated
+C0031001||perfusion method
+C0039011||mini pigs
+C0162745||Serva NB 4
+C0162745||Serva NB 8
+C0162745||NB 8
+C0001047||N-acetylcysteine
+C0227525||hepatocytes
+C1844596||spheroids formation
+C0430400||rocker culture
+C0085414||serum-free medium
+C0025519||Metabolic function
+C0017262||gene expression
+C0001924||albumin
+C0041942||urea
+C0220781||synthesis
+C0227525||hepatocyte
+C0220862||isolation
+C0007634||Cells
+C0162745||NB 8
+C0001047||N-acetylcysteine
+C0162745||NB 8
+C0162745||NB 4
+C0007634||cell
+C0007634||cells
+C0162745||NB 8
+C0001047||N-acetylcysteine
+C0007634||cells
+C0162745||NB 8
+C0007634||cells
+C0162745||NB 4
+C0036536||secretion
+C0001924||albumin
+C0162745||NB 8
+C0001047||N-acetylcysteine
+C0162745||NB 8
+C0162745||NB 4
+C0178314||injury
+C0227525||hepatocytes
+C0162745||NB 8
+C0001047||N-acetylcysteine
+C0162745||collagenase Serva NB 8
+C0001047||N-acetylcysteine
+C0039005||porcine
+C0227525||hepatocyte
+C0220862||isolation

@@ -1,0 +1,43 @@
+C0220825||Evaluation
+C0061751||Glycyrrhizic Acid
+C1318473||Radioprotector
+C0340126||Radiation-Induced Lung Fibrosis
+C1522449||Radiotherapy
+C0817096||thorax
+C0032285||lung inflammation
+C0034069||fibrosis
+C2603343||study
+C0061751||glycyrrhizic acid
+C0061751||glycyrrhizic acid
+C0034069||lung fibrosis
+C1522449||irradiated
+C0003062||animals
+C0034716||Wistar rats
+C0034693||rats
+C0034693||Rats
+C0061751||glycyrrhizic acid
+C1522449||irradiation
+C0061751||glycyrrhizic acid
+C1522449||irradiation
+C0061751||glycyrrhizic acid
+C1522449||irradiation
+C0061751||glycyrrhizic acid
+C0021493||intraperitoneal injection
+C1522449||Radiation therapy
+C0303395||Cobalt-60
+C0003062||animals
+C0024109||lungs
+C0220825||evaluation
+C0205400||thickening
+C0225695||alveolar
+C1180039||bronchial wall
+C0334163||fibrous bands
+C0009325||collagen
+C0003062||animals
+C0003062||animals
+C0681814||experimental study
+C0061751||glycyrrhizic acid
+C0033613||protective agent
+C0340126||radiation-induced fibrosis
+C0003062||animals
+C0012644||model

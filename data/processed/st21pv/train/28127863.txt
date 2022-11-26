@@ -1,0 +1,42 @@
+C0037088||Signs
+C0013362||dysarthria
+C0012236||22q11.2 deletion syndrome
+C2603343||study
+C0012236||22q11.2 deletion syndrome
+C0012236||22q11.2 deletion syndrome
+C0013362||dysarthria
+C0589416||intelligibility
+C0679646||participants
+C2910370||22q11.2 deletion
+C0430022||non-verbal and verbal tasks
+C0035203||respiration
+C0031577||phonation
+C0563145||oral motor function
+C0234830||articulation
+C0233743||prosody
+C0451496||Swedish Test of Intelligibility
+C0451496||Swedish Test of Intelligibility
+C0679646||participants
+C0012236||22q11.2 deletion syndrome
+C0033213||problems
+C0451496||Swedish Test of Intelligibility
+C0243095||speech deviation
+C0037817||speech
+C0035203||respiration
+C0031577||phonation
+C0563145||oral motor function
+C2603343||study
+C0233715||speech difficulties
+C0012236||22q11.2 deletion syndrome
+C0037088||Signs
+C0025361||speech motor planning
+C0025361||speech motor programming
+C2603343||studies
+C2603343||studies
+C1866933||structural brain abnormalities
+C1457887||neurological speech symptoms
+C0871685||clinicians
+C0478143||speech symptoms
+C0237401||individuals
+C0012236||22q11.2 deletion syndrome
+C0478143||speech symptoms

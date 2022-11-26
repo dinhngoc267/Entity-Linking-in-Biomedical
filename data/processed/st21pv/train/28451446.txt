@@ -1,0 +1,53 @@
+C0038250||Stem cell
+C0349782||ischemic cardiomyopathy
+C0010055||coronary artery bypass grafting
+C0038136||Standardization
+C2911685||methods
+C0220825||evaluate
+C3178990||pharmacovigilance
+C0018017||objective
+C0037585||registry programme
+C0349782||ischemic cardiomyopathy
+C0027061||intramyocardial
+C1511246||CD133+ bone marrow mononuclear stem cell
+C0087111||treatment
+C0010055||coronary artery bypass grafting
+C0010055||coronary artery bypass grafting
+C0010055||coronary artery bypass grafting
+C0243095||adverse cerebral
+C1556247||cardiac events
+C0220825||evaluated
+C1522577||follow-up
+C1257890||population
+C0919876||responders
+C0919875||non-responders
+C0936012||analysis
+C0184785||good response
+C1511246||CD133+ bone marrow mononuclear stem cell
+C0087111||treatment
+C1504389||stem cells transplantation
+C0243095||no significant
+C0243095||adverse cardiovascular
+C0243095||cerebral events
+C0038250||stem cell
+C1522577||follow-up
+C0428772||left ventricle ejection fraction
+C0428772||left ventricle ejection fraction
+C0038250||stem cell
+C0010055||coronary artery bypass grafting
+C0428772||left ventricle ejection fraction
+C0428772||left ventricle ejection fraction
+C0919652||left ventricle end diastolic diameter
+C0007634||CD133+ cell
+C0302189||therapy
+C0679646||Participants
+C0018801||overt heart failure
+C0010055||coronary artery bypass grafting
+C0027061||intramyocardial
+C1533685||injection
+C1511246||CD133+ bone marrow mononuclear cell
+C0428772||left ventricle ejection fraction
+C0038250||stem cell
+C0010055||coronary artery bypass grafting
+C0428772||left ventricle ejection fraction
+C0919652||LVED

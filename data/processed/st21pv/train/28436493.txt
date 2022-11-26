@@ -1,0 +1,48 @@
+C0026926||Mycobacterium tuberculosis
+C1744314||ESX-1
+C0036536||secretion
+C0301872||immune responses
+C0030664||pathology
+C0026926||Mycobacterium tuberculosis (M.tb) DK9897
+C0679362||extrapulmonary tuberculosis
+C0042196||vaccination
+C0887892||subunit vaccine
+C0887892||H56
+C0026926||M.tb DK9897
+C0036536||secrete
+C1744314||EsxA
+C1136170||virulence factor
+C0301872||host response
+C0079380||frameshift mutation
+C0017337||eccCa1 gene
+C1254349||EccCa1 protein
+C1744314||ESX-1
+C0036536||secretion
+C1744314||ESX-1
+C3159197||type VII secretion system
+C0032136||plasmid
+C0026926||M.tb H37Rv
+C0012931||eccCa1-eccCb1-pe35
+C1744314||EsxA
+C0036536||secretion
+C1744314||EsxA
+C0039194||T-cell
+C0301872||responses
+C0042765||virulence
+C1744314||ESX-1
+C0036536||secretion
+C1136170||virulence factors
+C3714514||infection
+C0026926||Mycobacterium tuberculosis
+C0039194||T-cell
+C0301872||responses
+C0003320||antigens
+C1515655||in vivo
+C1327413||cytokine production
+C0428094||gross pathology
+C1817882||granuloma formation
+C0024109||lungs
+C0026926||M.tb DK9897
+C0026926||M.tb DK9897
+C1166752||phagosome membrane
+C1383501||cytosol

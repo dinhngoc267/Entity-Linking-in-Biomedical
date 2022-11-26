@@ -1,0 +1,68 @@
+C0024485||magnetic resonance imaging
+C1302166||B-mode ultrasound
+C0442726||detecting
+C0439792||extent
+C0086418||human
+C0577631||carotid atherosclerosis
+C3515983||MRI studies
+C0751633||carotid plaques
+C1302166||ultrasound
+C0243095||find
+C0332461||plaques
+C1704254||imaged
+C0024485||MRI
+C0332461||plaque
+C0442726||detection
+C2603343||study
+C0024485||MRI
+C1302166||ultrasound
+C0442726||detecting
+C0751633||carotid artery plaques
+C0439792||extent
+C0004153||atherosclerosis
+C0332461||plaque
+C1302166||ultrasound
+C1704254||imaged
+C0024485||MRI
+C0332461||plaques
+C0332461||plaque
+C0205146||area
+C0936012||analysed
+C1302166||ultrasound
+C0024485||MRI
+C0024485||MRI
+C0442726||detected
+C0332461||plaques
+C0007272||carotid arteries
+C0332461||plaque
+C1302166||ultrasound
+C0007272||carotid arteries
+C0332461||plaque
+C0024485||MRI
+C0442726||detected
+C0332461||plaques
+C0332461||plaque
+C1302166||Ultrasound
+C0332461||plaque
+C0332461||plaque
+C0205146||area
+C0024485||MRI
+C0332461||plaque
+C0024485||MRI
+C1302166||ultrasound
+C0243095||finding
+C0751633||carotid artery plaques
+C0332461||plaques
+C0024485||MRI
+C0442726||detects
+C0332461||plaques
+C0751633||Multiple carotid plaques
+C1302166||ultrasound
+C0332461||single plaque
+C0332461||Plaque
+C1302166||ultrasound
+C0332461||plaque
+C0024485||MRI
+C0332461||plaque
+C0024485||MRI
+C0332461||plaque

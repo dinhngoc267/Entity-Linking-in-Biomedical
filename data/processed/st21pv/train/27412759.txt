@@ -1,0 +1,57 @@
+C1511790||detection
+C3714514||infection
+C0068006||miltefosine
+C0018561||Syrian golden hamster
+C0023273||Leishmania donovani
+C0023272||L. infantum
+C0023290||visceral leishmaniasis
+C0023290||visceral leishmaniasis
+C0023272||Leishmania infantum
+C0023273||Leishmania donovani
+C3665472||chemotherapy
+C0304339||antileishmanial compounds
+C0220825||evaluation
+C1254351||drugs
+C0018561||Syrian golden hamster
+C0086272||laboratory model
+C2603343||study
+C1294355||molecular parasite detection assays
+C0699919||cathepsin-like cysteine protease B
+C0699919||cysteine protease B
+C0012854||DNA
+C0035701||rRNA
+C0686878||amastigote
+C0178784||organs
+C0023884||liver
+C0037993||spleen
+C1709846||quantitative PCR
+C1709846||(qPCR) techniques
+C0369671||microscopic reading
+C0523205||Giemsa-stained
+C0040300||tissue
+C1272593||smears
+C0040300||tissue pieces
+C0442726||detection
+C0025663||methods
+C3714514||infection
+C0023884||liver
+C0037993||spleen
+C0040300||tissue piece
+C0439663||infected
+C0018561||hamsters
+C0442726||detection
+C0025663||methods
+C0030498||parasite
+C0037993||spleen
+C0023884||liver
+C0178784||organ
+C0068006||miltefosine
+C2603343||study
+C0018561||hamster
+C3714514||infection
+C0023884||liver
+C0037993||spleen
+C1511790||detection
+C0025663||methods
+C0220825||assessment
+C0040300||tissue

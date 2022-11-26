@@ -1,0 +1,20 @@
+C0033213||problem
+C1879848||area of biomedicine
+C1555712||topic
+C0017398||genetics
+C0558083||enthusiastic
+C2700280||world
+C0009458||media
+C0035173||researchers
+C0005574||biotech
+C0017428||genome
+C0086388||health care
+C0243095||adverse
+C0162592||public
+C3640015||hurting
+C0023262||legitimacy
+C0035174||proposition
+C0162592||public
+C0005540||biomedical research
+C0518609||consideration
+C0680513||legal

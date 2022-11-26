@@ -1,0 +1,45 @@
+C0025368||Menthol
+C0065950||Menthone
+C0036330||Schistosoma mansoni Infection
+C0036323||Schistosomiasis
+C0030499||parasitic disease
+C1705920||species
+C3662558||trematode worms
+C0027361||people
+C0872152||drug development
+C0030498||parasite
+C1514892||resistant
+C0032911||Praziquantel
+C0013227||drug
+C3714514||infection
+C2603343||study
+C0220825||evaluated
+C0449381||parameters
+C0025929||mice
+C0439663||infected
+C0036319||Schistosoma mansoni
+C0332293||treated with
+C2240391||herbal commercial medicine
+C0013227||drug
+C0025368||menthol
+C0065950||menthone
+C0040808||treatment regimen
+C2240391||herbal medicine
+C0036319||S. mansoni
+C0686887||eggs
+C0015733||feces
+C0023884||liver
+C0021853||intestine
+C0745754||hepatic granulomas
+C0441610||reduction
+C0014457||blood eosinophilia
+C0021758||IL-4
+C0085295||IL-10
+C0005768||blood levels
+C0087111||treatment
+C0036323||schistosomiasis
+C0087111||treatment
+C2240391||herbal medicine
+C0599779||animal model
+C0036323||schistosomiasis
+C0036330||S. mansoni infection

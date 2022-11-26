@@ -1,0 +1,44 @@
+C0242444||Population "at Risk"
+C0030567||Parkinson's Disease
+C0007328||Case-Control Study
+C0699748||multifactorial pathogenesis
+C0030567||Parkinson's Disease
+C0030567||Parkinson's Disease
+C0242444||populations "at risk"
+C0030567||disease
+C0007328||case-control study
+C0936012||analyzed
+C0022277||Italian
+C1257890||population
+C0242444||population "at risk"
+C0030567||Parkinson's Disease
+C0030567||Parkinson's Disease
+C0080105||subjects
+C0241889||family history
+C0030567||Parkinson's Disease
+C1519386||smoking status
+C1550100||serum
+C0337439||iron
+C0373587||copper
+C0428257||mercury
+C0373677||manganese
+C1553183||Inductively Coupled-Plasma-Mass-Spectrometry
+C1553183||Inductively Coupled-Plasma-Mass-Spectrometry
+C1446409||Positive
+C0241889||family history
+C0040537||toxicants exposure
+C3496610||non-current-smoker
+C0425322||alcohol nonconsumer status
+C0035648||risk factors
+C1257890||population
+C0035648||concurring risk factors
+C0080105||same subject
+C0025552||metal
+C1550100||serum
+C0243095||findings
+C0030567||Parkinson's Disease
+C0035648||risk factors
+C0030567||Parkinson's Disease
+C1514983||stratification
+C0034394||questionnaires
+C0949543||identifying subjects

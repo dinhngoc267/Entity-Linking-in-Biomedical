@@ -1,0 +1,27 @@
+C0017428||Genome
+C0162326||Sequences
+C0023238||Legionella pneumophila
+C1764827||Isolates
+C0017428||genome
+C0162326||sequences
+C0023238||Legionella pneumophila
+C1764827||isolates
+C0023241||Legionnaires' disease
+C0027976||New York
+C1764827||isolates
+C0023238||D7630
+C0023238||D7632
+C0014406||environmental
+C1764827||isolate
+C0023238||D7631
+C1764827||isolate-specific
+C0042765||virulence
+C0017337||gene
+C0023238||D7632
+C1764827||isolates
+C0220825||evaluating
+C0017428||genomic
+C1140694||bioinformatics
+C0023238||L. pneumophila
+C0449543||serogroup 1
+C1764827||isolates

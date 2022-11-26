@@ -1,0 +1,43 @@
+C2603343||ABBA study
+C2267227||bulimia nervosa
+C0596170||binge eating disorder
+C0206035||randomised controlled trial
+C1457887||symptoms
+C2267227||bulimia nervosa
+C2267227||bulimia nervosa
+C0596170||binge eating disorder
+C0596170||binge eating disorder
+C1843777||recurrent episodes of binge eating
+C1306597||negative psychological
+C1446390||physical consequences
+C0013473||BN/BED
+C0003618||tendencies towards food
+C0700301||information processing
+C0087111||treating
+C0004936||mental disorders
+C0001973||alcohol addiction
+C2603343||proof-of-concept study
+C0027361||people
+C0013473||BN/BED
+C0013473||BN/BED
+C0085281||addictive disorders
+C3897046||sham training
+C1843777||binge-eating episodes
+C0013473||BN/BED
+C0556019||eating disorder psychopathology
+C0013470||food intake
+C4277667||attentional bias
+C1706817||responses
+C0013072||double-blind
+C0034656||randomised
+C0013473||BN/BED
+C3897046||sham
+C3897463||public registration
+C0034656||randomisation
+C1522486||central study office
+C0038136||standardisation of the treatments
+C0150108||blinding of assessors
+C0206035||randomised controlled trial
+C0008976||clinical BN/BED sample
+C0013473||BN/BED
+C0087111||treatment

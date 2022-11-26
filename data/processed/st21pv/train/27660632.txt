@@ -1,0 +1,65 @@
+C0008630||Genome-Wide SNP Linkage Mapping
+C0597336||QTL
+C0796344||Analysis
+C1260603||Fiber
+C0010196||Upland Cotton
+C1514783||Recombinant Inbred Lines
+C0017337||genes
+C1260603||fiber
+C0017393||markers
+C0017395||marker-assisted selection
+C0017395||marker-assisted selection
+C0010196||cotton
+C4042898||breeding
+C0010196||188 F8
+C1514783||recombinant inbred lines
+C1514783||recombinant inbred lines
+C4042898||cross
+C0010196||HS46
+C0010196||MARCABUCAG8US-1-88
+C0010196||cotton
+C3536614||single nucleotide polymorphism (SNP) assay
+C1514783||recombinant inbred lines
+C0014406||environments
+C1260603||fiber
+C1260603||fiber
+C1260603||fiber
+C1260603||fiber
+C0018270||elongation
+C1260603||fiber
+C0010197||boll
+C0008630||linkage map
+C0752046||single nucleotide polymorphism
+C0017393||markers
+C0017393||marker
+C0597336||quantitative trait locus
+C0597336||quantitative trait locus
+C1260603||fiber
+C1135923||chromosomes
+C0597336||quantitative trait locus
+C0014406||environments
+C1953345||regions
+C2986491||hotspot
+C0017258||cluster
+C1135923||Chr05
+C1135923||Chr09
+C1135923||Chr10
+C1135923||Chr14
+C1135923||Chr19
+C1135923||Chr20
+C0017344||epistatic
+C0597336||quantitative trait locus
+C0597336||epistatic QTLs
+C0597336||quantitative trait locus
+C0597336||quantitative trait locus
+C0597336||epistatic QTLs
+C0597336||QTL
+C0017258||clusters
+C0752046||single nucleotide polymorphism
+C0017393||markers
+C1953345||regions
+C0598888||map-based cloning
+C2717881||gene discovery
+C0017395||marker-assisted selection
+C0010196||cotton
+C4042898||breeding

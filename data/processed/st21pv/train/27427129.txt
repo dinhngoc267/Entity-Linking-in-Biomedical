@@ -1,0 +1,17 @@
+C0009691||congenital cataract
+C0009691||congenital cataract
+C0008972||descriptive study
+C1708333||Layton Rahmatullah Benevolent Trust
+C0030211||Pakistan
+C0019348||herpes simplex
+C2145877||birth trauma
+C3537167||trisomy 21
+C0796085||Nance-Horan syndrome
+C0028860||Lowe's syndrome
+C0011900||diagnosed
+C0009691||congenital cataract
+C3277059||Bilateral congenital cataract
+C3640028||unilateral congenital cataract
+C0009691||Congenital cataract
+C0011900||diagnosis
+C0087111||therapy

@@ -1,0 +1,75 @@
+C0014429||Activation
+C2354171||general control nonderepressible 2 kinase
+C0086418||human
+C1182791||glomerular endothelial cells
+C0860803||high-glucose
+C1704259||molecular pathways
+C0033684||protein
+C0011881||diabetic nephropathy
+C0011881||diabetic nephropathy
+C0022646||renal
+C0014257||endothelium
+C0699748||pathogenesis
+C0220825||evaluated
+C2354171||general control nonderepressible 2 (GCN2) kinase
+C0014429||activation
+C0002520||amino acid
+C1704259||molecular pathways
+C0086418||human
+C1182791||glomerular endothelial cells
+C1182791||glomerular endothelial cells
+C1182791||glomerular endothelial cells
+C0430400||cultured
+C0020456||high -glucose conditions
+C2354171||GCN2 kinase
+C2247123||activator
+C0526839||tryptophanol
+C0168458||Glucose transporter 1
+C0168458||Glucose transporter 1
+C1171362||expression
+C0005863||western blotting
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0016321||fluorogenic probe
+C0243102||Activities
+C3536868||glyceraldehyde 3-phosphate dehydrogenase
+C3536868||glyceraldehyde 3-phosphate dehydrogenase
+C0033634||protein kinase C
+C0033634||protein kinase C
+C0005507||commercial activity assays
+C0037688||sorbitol
+C1531834||colorimetrically
+C0034338||methylglyoxal
+C0014441||ELISA
+C0671368||O-linked β-N-acetyl glucosamine (O-GlcNAc)-modified proteins
+C0005863||western blotting
+C0860803||High glucose
+C0168458||Glucose transporter 1
+C1171362||expression
+C0162772||reactive oxygen species
+C3536868||glyceraldehyde 3-phosphate dehydrogenase
+C0071629||polyol
+C1704259||pathway
+C0037688||sorbitol
+C0033634||protein kinase C
+C0243102||activity
+C0671368||O-GlcNAc-modified proteins
+C0019477||hexosamine
+C1704259||pathway
+C0162574||advanced glycation endproducts'
+C0034338||methylglyoxal
+C1182791||glomerular endothelial cells
+C0526839||tryptophanol
+C0860803||high-glucose
+C0014429||Activation
+C2354171||GCN2 kinase
+C1182791||glomerular endothelial cells
+C0860803||high-glucose
+C1704259||molecular pathways
+C1704259||pathways
+C0011881||diabetic nephropathy
+C0699748||pathogenesis
+C2354171||GCN2 kinase
+C0031336||pharmaceutical
+C0087111||treatment
+C0011881||diabetic nephropathy

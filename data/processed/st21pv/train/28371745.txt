@@ -1,0 +1,55 @@
+C0019878||Homocysteine
+C0205100||peripheral
+C0005516||biomarker
+C0005586||bipolar disorder
+C0920317||meta-analysis
+C0005586||Bipolar disorder
+C0005586||Bipolar disorder
+C0004936||psychiatric disorder
+C0087130||uncertain
+C0019878||homocysteine
+C0019878||homocysteine
+C1158831||1-carbon metabolism
+C0004936||psychiatric disorders
+C0087130||uncertainty
+C0205100||peripheral
+C0019878||homocysteine
+C0005586||Bipolar disorder
+C0920317||meta-analysis
+C1278080||serum
+C1278165||plasma Hcy levels
+C0027361||persons
+C0005586||Bipolar disorder
+C2985503||peer-reviewed articles
+C0010362||cross-sectional studies
+C0920317||meta-analyses
+C0679646||participants
+C0920317||meta-analysis
+C1278080||serum
+C1278165||plasma levels of Hcy
+C0005586||Bipolar disorder
+C0338831||mania
+C0948853||euthymia
+C0338831||mania
+C1257890||group
+C0948853||euthymia
+C1257890||group
+C0920317||meta-analysis
+C0920051||Hcy levels are elevated
+C0027361||persons
+C0005586||Bipolar disorder
+C0338831||mania
+C0948853||euthymia
+C0205100||Peripheral
+C0019878||homocysteine
+C0005516||biomarker
+C0005586||Bipolar disorder
+C0948853||euthymia
+C0338831||mania
+C0023981||Longitudinal studies
+C0005586||bipolar disorder
+C0019878||homocysteine
+C0205100||peripheral
+C0019878||homocysteine
+C0005516||biomarker
+C0005586||Bipolar disorder

@@ -1,0 +1,38 @@
+C0030193||endodontic pain
+C0282543||root canal preparation
+C0011377||rotary
+C0011377||reciprocating instruments
+C0920317||meta-analysis
+C0206034||randomized clinical trials
+C0035849||endodontic therapy
+C0030193||post-endodontic pain
+C0030193||post-endodontic pain
+C2603343||study
+C0030193||post-endodontic pain
+C0011377||rotary
+C0011377||reciprocal instruments
+C0920317||meta-analysis
+C1138432||Pubmed
+C0242356||EM databases
+C0206034||clinical randomized trials
+C0282543||root canal preparation
+C0087111||treatment
+C0087111||therapy
+C0030193||endodontic pain
+C0011377||reciprocal
+C0011377||rotary instruments
+C2603343||studies
+C0011377||reciprocating instruments
+C0011377||rotary instruments
+C0030193||post-endodontic pain
+C1257890||reciprocating group
+C1257890||rotary group
+C0030193||post-endodontic pain
+C0011377||rotary instruments
+C0030193||post-endodontic pain
+C0011377||Rotary instrument
+C0035849||endodontic therapy
+C0030193||post-endodontic pain
+C0011377||reciprocating instruments
+C0011377||reciprocating instruments
+C0030193||post-endodontic pain

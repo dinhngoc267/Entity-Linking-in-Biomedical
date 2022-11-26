@@ -1,0 +1,28 @@
+C0333200||intramural hematoma
+C2603343||studying
+C0232338||blood flow
+C1562006||deforming
+C0507851||aortic wall
+C0333200||intramural hematoma
+C0333200||intramural hematoma
+C0507851||aortic wall
+C0679083||simulated
+C0934502||wall layers
+C0333200||intramural hematoma
+C0018944||hematoma
+C1562006||deformation
+C0018944||hematoma
+C0679083||Model simulations
+C0018944||hematoma
+C0018944||hematoma
+C0038435||wall stress
+C1516606||clinical data
+C0679083||simulations
+C0018944||hematoma
+C0038435||wall stress
+C0005778||blood coagulation
+C0018944||hematoma
+C0243095||mechanical stability
+C0302523||observations
+C0005778||coagulation
+C0333200||intramural hematoma

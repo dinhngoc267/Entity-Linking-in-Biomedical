@@ -1,0 +1,42 @@
+C0039474||Temperament
+C0019564||Hippocampal
+C0005586||Bipolar Disorder
+C0039474||temperament
+C0003469||anxiety
+C0525045||mood disorder
+C0005586||bipolar disorder
+C0332128||examine
+C0039474||temperament
+C0231221||asymptomatic
+C0005586||bipolar disorder
+C0005586||OBD
+C0039474||temperament
+C0019564||hippocampal
+C0005586||OBD
+C0233401||psychiatric symptoms
+C0005586||(OBD(+)s)
+C0233401||psychiatric symptoms
+C0039474||Temperament
+C0430022||Revised Dimensions of Temperament Survey
+C0024485||Magnetic resonance imaging
+C0019564||hippocampal
+C0039474||temperament
+C0019564||hippocampal
+C0005586||OBD(+)s
+C0039474||temperament
+C0205160||negative
+C0026516||mood
+C0871269||rhythm
+C0005586||OBD(+)s
+C0005586||OBD(+)s
+C0039474||temperament
+C0444532||right
+C0019564||hippocampal
+C0005586||OBD
+C0039474||temperament
+C0019564||hippocampal
+C0023981||longitudinal studies
+C0019564||hippocampal
+C0039474||temperament
+C0005516||markers
+C0005586||bipolar disorder

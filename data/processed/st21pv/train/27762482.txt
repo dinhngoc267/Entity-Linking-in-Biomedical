@@ -1,0 +1,35 @@
+C0087111||Treatment
+C1449852||erythematotelangiectatic rosacea
+C3161031||fractionation
+C1289859||pulsed dye laser
+C0087111||treatment
+C1449852||erythematotelangiectatic rosacea
+C1449852||erythematotelangiectatic rosacea
+C1515119||systemic
+C0150349||topical therapy
+C1289859||pulsed dye lasers
+C1289859||pulsed dye lasers
+C1449852||erythematotelangiectatic rosacea
+C0034150||purpuragenic
+C0034150||purpura
+C0333616||postinflammatory hyperpigmentation
+C0333616||postinflammatory hyperpigmentation
+C0243095||nonpurpuragenic
+C1289859||PDL
+C0034150||purpura
+C3161031||fractionation
+C1289859||PDL
+C1449852||erythematotelangiectatic rosacea
+C1289859||PDL
+C0041834||Erythema
+C0039446||telangiectasia
+C0031831||physicians
+C3899375||digital photographs
+C0041834||erythema
+C0039446||telangiectasia
+C0034150||Purpura
+C0333616||postinflammatory hyperpigmentation
+C3161031||fractionation
+C1289859||PDL
+C0087111||treatment
+C1449852||erythematotelangiectatic rosacea

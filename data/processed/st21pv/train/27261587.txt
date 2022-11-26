@@ -1,0 +1,71 @@
+C0013162||Combination
+C0248719||telmisartan
+C0529793||sildenafil
+C0242656||progression
+C0011881||diabetic nephropathy
+C0038432||streptozotocin
+C0241863||diabetic
+C0011881||Diabetic nephropathy
+C0011881||Diabetic nephropathy
+C0022661||end-stage renal disease
+C0037080||signaling pathways
+C0699748||pathogenesis
+C0011881||Diabetic nephropathy
+C0702240||elevation
+C0003009||angiotensin II
+C0162574||advanced glycation end products
+C0162574||advanced glycation end products
+C1819041||activation
+C0033634||protein kinase c
+C0033634||protein kinase c
+C0333574||lipid accumulation
+C0037080||pathways
+C0242606||oxidative stress
+C1171362||expression
+C1704256||transforming growth factor beta-1
+C1704256||transforming growth factor beta-1
+C0021764||interleukins
+C0007578||adhesion molecules
+C3816499||pathogenic
+C0242656||progression
+C0011881||Diabetic nephropathy
+C0008972||study
+C0241863||diabetic
+C0021493||intraperitoneal injection
+C0038432||Streptozotocin
+C0038432||Streptozotocin
+C0011881||Diabetic nephropathy
+C0011881||Diabetic nephropathy
+C0011881||Diabetic nephropathy
+C0248719||Telmisartan
+C0529793||Sildenafil
+C0248719||Telmisartan
+C0529793||Sildenafil
+C0013162||combination
+C1610733||urine samples
+C0033687||proteinuria
+C0003062||animals
+C0178913||blood
+C1292533||tissue samples
+C0392201||measurement of Blood glucose
+C0005845||BUN
+C0201976||S.Cr
+C0202117||LDL
+C3810607||NO
+C3889969||TGF-β1
+C3815172||IL-1β
+C0022885||AGEPs
+C0022885||SOD
+C0013218||combination therapy
+C0600137||BUN
+C0010294||S.Cr
+C0023823||LDL
+C1704256||TGF-β1
+C0021753||IL-1β
+C0033687||Proteinuria
+C0162574||AGEPs
+C0038838||SOD
+C0028128||NO
+C0013218||combination therapy
+C0011881||Diabetic nephropathy
+C0013227||drugs

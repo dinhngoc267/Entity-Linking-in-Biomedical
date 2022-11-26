@@ -1,0 +1,19 @@
+C0628688||kefiran
+C0628688||Kefiran
+C0032594||neutral polysaccharide
+C0017725||glucose
+C0016945||galactose
+C0317649||Lactobacillus kefiranofaciens
+C4280055||kefir grains
+C0628688||kefiran
+C0029224||neutral gums
+C0016452||food
+C0013185||pharmaceutics industries
+C0025729||methylcellulose
+C0061996||guar gum
+C0628688||Kefiran
+C0029224||neutral gums
+C0029224||gum
+C0205134||master curve
+C0029224||gums
+C0628688||kefiran

@@ -1,0 +1,31 @@
+C1514562||Signature
+C0033422||prone
+C0085401||tau
+C0026046||microtubule
+C0085401||tau protein
+C0230674||fibrillar cell inclusions
+C0449379||linked
+C0524851||neurodegenerative disorders
+C0949664||tauopathies
+C0085401||tau
+C0233820||insights
+C0022885||pulsed double electron-electron resonance
+C0225328||fibril
+C0205147||regions
+C0085401||tau
+C1608562||PHF6
+C0033684||PHF6*
+C0033684||PHF6((*))
+C0205147||regions
+C0231449||extended
+C0600383||β-strand structures
+C0225328||fibril
+C0679083||simulations
+C0681814||experiments
+C0231449||extended
+C0600383||β-strand conformational
+C0033684||PHF6((*))
+C1514562||signature
+C0033422||prone
+C0085401||tau
+C0808232||therapeutic interventions

@@ -1,0 +1,36 @@
+C0392335||neurocognitive domain functions
+C0036341||schizophrenia
+C0010362||cross-sectional study
+C4041080||Neurocognitive dysfunction
+C1457887||symptom
+C0036341||schizophrenia
+C0087111||treatment
+C0392335||neurocognitive function
+C0237401||healthy individuals
+C0036341||schizophrenia
+C2603343||study
+C0582103||examine
+C0392335||neurocognitive domains
+C0036341||schizophrenia
+C2603343||study
+C0036341||schizophrenia
+C0582103||examined
+C1457887||symptoms
+C1446409||Positive
+C0205160||Negative
+C0429688||Symptom Scale
+C0392335||neurocognitive functions
+C0679646||participants
+C0178951||HJA-750C accelerometer
+C0010101||Partial correlation analyses
+C0009240||cognitive
+C0449381||parameters
+C0033923||Psychomotor
+C0004268||Attention
+C0025260||Memory
+C0392335||neurocognitive functions
+C0036341||schizophrenia
+C0392335||cognitive domains
+C2603343||study
+C0582103||examining
+C0392335||neurocognitive function

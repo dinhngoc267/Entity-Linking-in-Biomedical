@@ -1,0 +1,75 @@
+C0015689||Omega-3 Fatty Acid
+C0087111||Treatment
+C0876926||Traumatic Brain Injury
+C0040300||Tissue
+C0087111||Restoration
+C0009244||Cognitive Recovery
+C0876926||Traumatic brain injury
+C0876926||Traumatic brain injury
+C4041080||neurocognitive disorders
+C1705429||group
+C1257890||others
+C0684224||reported
+C0199176||prophylactic enrichment
+C0015689||omega-3 polyunsaturated fatty acids
+C0015689||n-3 PUFAs
+C0009241||cognitive deficits
+C0876926||Traumatic brain injury
+C1276413||therapeutic regimen
+C0015689||n-3 PUFAs
+C0876926||Traumatic brain injury
+C0009244||cognitive recovery
+C2603343||study
+C0009241||cognitive function
+C0876926||Traumatic brain injury
+C0876926||Traumatic brain injury
+C0015689||n-3 PUFA
+C0087111||treatment
+C0025929||Mice
+C0141287||sham operation
+C0007776||cortical
+C0087111||treatments
+C0042444||vehicle
+C0021493||intraperitoneal injections
+C0015689||n-3 PUFAs
+C0876926||Traumatic brain injury
+C0556145||fish oil dietary
+C0242297||supplementation
+C2603343||study
+C0876926||Traumatic brain injury
+C0087111||treatments
+C0459385||brain tissue
+C0161849||brain repair processes
+C0814002||neurogenesis
+C0302600||angiogenesis
+C3714634||oligodendrogenesis
+C0876926||Traumatic brain injury
+C0009241||cognitive deficits
+C0459385||tissue
+C0876926||Traumatic brain injury
+C0025929||mice
+C0876926||post-TBI
+C0015689||n-3 PUFA
+C0087111||treatments
+C0087111||treatment
+C0556145||fish oil dietary
+C0242295||supplement
+C0015689||n-3 PUFA
+C1272883||injections
+C0009241||cognitive deficits
+C0459385||tissue
+C0087111||treatment
+C0876926||post-TBI
+C0006104||brain
+C0027882||immature neurons
+C2350570||microvessels
+C0028944||oligodendrocytes
+C0184511||improved
+C1444656||indicated
+C0015689||n-3 PUFA
+C0087111||treatments
+C0876926||Traumatic brain injury
+C0006104||brain
+C0087111||therapy
+C0876926||Traumatic brain injury
+C0442592||clinic

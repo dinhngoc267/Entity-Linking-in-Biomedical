@@ -1,0 +1,33 @@
+C0220825||Evaluation
+C0002871||Anemia
+C0021294||Premature Infants
+C0002871||Anemia
+C0019046||hemoglobin
+C0002871||anemia
+C0005841||transfusions
+C1533734||administration
+C0376541||human recombinant erythropoietin
+C0002871||anemia
+C0021294||premature infants
+C3839701||Pediatric Clinic, University Clinical Center Sarajevo
+C0005771||blood count
+C0021294||premature infants
+C0005841||blood transfusions
+C0240059||intraventricular hemorrhage
+C0035168||Research
+C0035363||retrospective study
+C0035168||Research
+C0021294||premature infants
+C0332128||examining
+C0025102||medical records
+C3839701||Pediatric Clinic, UCCS
+C0021294||premature infants
+C0021294||premature infants
+C1306577||deaths
+C1306577||deaths
+C0005841||transfusion
+C0005841||transfusion
+C0005841||blood transfusion
+C0151699||intracranial bleeding
+C0185125||application
+C0005841||blood transfusion

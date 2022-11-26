@@ -1,0 +1,29 @@
+C0205134||Trajectories
+C0009472||Behavioral Health Services
+C0240919||Rural
+C0205134||trajectories
+C0009472||behavioral health services
+C0205134||trajectories
+C0936012||latent class growth analysis
+C0936012||latent class growth analysis
+C0009472||services
+C0240919||rural
+C0025353||mental health
+C0936012||latent class growth analysis
+C0205134||trajectories
+C0018747||health services
+C0240919||rural
+C0199168||medical services
+C1706077||users
+C1706077||users
+C1706077||users
+C0025353||mental health
+C0009472||services
+C0011570||depression
+C0009472||services
+C0037444||social workers
+C0009472||community services
+C0018724||providers
+C0018747||health services
+C0199176||prevention
+C0184661||intervention domains

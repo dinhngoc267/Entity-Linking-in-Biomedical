@@ -1,0 +1,70 @@
+C0392209||nutritionally induced
+C0020473||hyperlipidaemia
+C3667982||bovine
+C0013935||embryo
+C0015684||fatty acid
+C0012155||diet
+C2603343||study
+C0332128||examined
+C0012155||dietary
+C0020473||hyperlipidaemia
+C1446949||preimplantation embryo development
+C0015684||fatty acid
+C0015684||fatty acid
+C0012155||diet
+C1515655||in vivo
+C3667982||bovine
+C0599779||model
+C0007452||cows
+C0012155||diets
+C0012155||maintenance control diet
+C0012155||control diet
+C0311120||starch
+C0012155||diet
+C0597423||saturated fat
+C0597423||saturated fat
+C0311120||starch
+C0012155||diet
+C0015689||omega-3
+C0012172||unsaturated fat
+C0012172||unsaturated fat
+C0012155||control diet
+C0597423||SAT1
+C0012172||UNSAT2
+C0012155||control diet
+C0012172||UNSAT1
+C0597423||SAT2
+C0229671||Serum
+C0012155||dietary
+C0936012||analysed
+C3667982||bovine
+C0920489||embryo culture
+C0597423||saturated fat
+C0012172||unsaturated fat
+C0012155||diets
+C0020473||hyperlipidaemia
+C0020443||hypercholesterolaemia
+C0015688||free FAs
+C0920563||insulin sensitivity
+C0229671||serum
+C0870883||metabolites
+C0202009||FA profile
+C0012155||diet
+C0597423||SAT1
+C0597423||SAT2
+C0229671||serum
+C1281743||blastocyst
+C1281743||blastocyst
+C1515670||mRNA expression
+C0162638||apoptosis
+C0242606||oxidative stress
+C0012172||UNSAT1
+C0012172||UNSAT2
+C0229671||serum
+C0013935||embryo
+C0597423||saturated fat
+C0015689||omega-3 fat
+C0301590||high-caloric diet
+C0020473||hyperlipidaemia
+C0202009||FA profile
+C1281743||blastocysts

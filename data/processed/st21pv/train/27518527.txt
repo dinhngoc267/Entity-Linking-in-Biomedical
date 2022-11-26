@@ -1,0 +1,49 @@
+C0032005||pituitary
+C0079744||diffuse large B-cell lymphoma
+C0342369||somatotroph hyperplasia
+C0001206||acromegaly
+C0085973||case report
+C0079744||Diffuse large B-cell lymphoma
+C0079744||Diffuse large B-cell lymphoma
+C0024305||non-Hodgkin lymphoma
+C0024299||lymphomas
+C0150312||present
+C0577559||mass
+C0027530||neck
+C0018246||groin
+C0000726||abdomen
+C0009812||constitutional symptoms
+C0684224||report
+C3812881||authors
+C0043210||woman
+C0020514||hyperprolactinemia
+C0020676||hypothyroidism
+C0001206||acromegaly
+C0021665||insulin-like growth factor-1
+C0021665||insulin-like growth factor-1
+C0037668||growth hormone-releasing hormone
+C0037668||growth hormone-releasing hormone
+C0024485||MRI
+C0877018||diffuse enlargement of the pituitary gland
+C0418981||medical treatment
+C0021665||insulin-like growth factor-1
+C0176118||transsphenoidal biopsy
+C0011900||diagnosis
+C0079744||Diffuse large B-cell lymphoma
+C0004561||B-cell
+C0079611||immunophenotype
+C0342369||somatotroph hyperplasia
+C3896609||stereo-tactic radiation therapy
+C3665472||chemotherapy
+C0687702||remission
+C0024299||lymphoma
+C1882115||normalized
+C0021665||insulin-like growth factor-1
+C0418981||medical therapy
+C0011900||diagnosis
+C0684224||reported
+C0011906||differential diagnosis
+C0729737||multidisciplinary evaluation
+C0011109||decision-making
+C0036609||sellar
+C0221198||lesions

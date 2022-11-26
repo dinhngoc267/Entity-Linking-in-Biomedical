@@ -1,0 +1,66 @@
+C1515655||In Vivo
+C0450363||3-Dimensional
+C0029127||Optic Nerve Head
+C0302142||Deformations
+C0015413||Horizontal Eye Movements
+C0229114||lamina cribrosa
+C0229114||lamina cribrosa
+C0302142||strains
+C0302142||deformations
+C0231456||abduction
+C1708335||healthy subjects
+C0021888||intraocular pressure
+C0021888||intraocular pressure
+C0702240||elevation
+C0015392||eyes
+C1708335||healthy subjects
+C0015392||eyes
+C1719838||peripapillary atrophy
+C1719838||peripapillary atrophy
+C0029127||optic nerve heads
+C0029127||optic nerve heads
+C1704922||imaged
+C0920367||optical coherence tomography
+C0920367||optical coherence tomography
+C0590323||gaze
+C0733755||positions
+C0231456||abduction
+C0021888||intraocular pressure
+C0702240||elevation
+C0025424||Hg
+C0029085||ophthalmodynamometry
+C0302142||Strains
+C0229114||lamina cribrosa
+C0450363||three-dimensional
+C0546881||tracking
+C0002045||algorithm
+C0015392||eyes
+C0229114||lamina cribrosa
+C0302142||strains
+C0231456||abduction
+C0302142||strains
+C0302142||Strains
+C0229114||lamina cribrosa
+C0231456||abduction
+C0302142||Strains
+C0229114||lamina cribrosa
+C0021888||intraocular pressure
+C0702240||elevations
+C0025424||Hg
+C0302142||strains
+C0590323||Gaze
+C0229114||lamina cribrosa
+C0302142||strains
+C1719838||peripapillary atrophy
+C0015413||horizontal eye movements
+C0029127||ONH
+C0302142||strains
+C0680844||estimations
+C0600552||finite element analysis
+C2603343||Further studies
+C0332149||possible
+C0029127||ONH
+C0302142||strains
+C0015413||eye movements
+C1832338||axonal loss
+C0029132||optic neuropathies

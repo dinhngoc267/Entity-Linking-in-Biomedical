@@ -1,0 +1,32 @@
+C4054530||Metabolic responses
+C1005664||Daphnia similis
+C0037125||Silver
+C4086299||fast-growing
+C0014406||environment
+C1136118||chronic toxicity tests
+C0870883||metabolic
+C1005664||Daphna similis
+C0037813||non-targeted mass spectrometry
+C1328813||metabolomics
+C0870883||metabolite
+C0010979||Daphnia crustacean
+C0243095||dynamic kinetic pattern
+C0010979||Daphnia's
+C0870883||metabolites
+C0243095||morphological or structural changes
+C0870883||metabolite
+C0870883||metabolites
+C0002520||amino acids
+C0036720||serine
+C0040005||threonine
+C0041485||tyrosine
+C0242209||sugars
+C0894158||d-allose
+C0015684||fatty acids
+C0003695||arachidonic acid
+C0870883||metabolites
+C0010979||Daphnia
+C1328813||metabolomics
+C4054530||metabolic responses
+C0014406||environmental
+C0037125||silver

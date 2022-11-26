@@ -1,0 +1,33 @@
+C0017337||Gene
+C2350277||genome-wide association study
+C1520850||19p13.3
+C0424678||lean body mass
+C0424678||Lean body mass
+C0424678||Lean body mass
+C0086418||human
+C0678933||genomic loci
+C0424678||Lean body mass
+C0017337||gene
+C2350277||genome-wide association study
+C0445356||unrelated
+C0043157||Caucasian
+C0080105||subjects
+C0445356||unrelated
+C0043157||Caucasians
+C0080105||subjects
+C0017337||Gene
+C2350277||association analyses
+C0017337||genes
+C1540163||UQCR
+C1336596||TCF3
+C1417051||MBD3
+C0678933||locus
+C1520850||19p13.3
+C0017337||genes
+C1520850||19p13.3
+C0205147||region
+C1540163||UQCR
+C1336596||TCF3
+C1417051||MBD3 genes
+C0678933||locus
+C0424678||lean mass

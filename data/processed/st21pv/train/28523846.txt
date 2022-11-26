@@ -1,0 +1,49 @@
+C0936012||analysis
+C0037813||mass spectrometry
+C0522506||downstream
+C0162847||refolding
+C0904505||recombinant human insulin-like growth factor-1
+C0904505||mecasermin
+C0904505||Mecasermin
+C0020456||elevated blood sugar
+C0037663||growth hormone
+C0271568||Laron-type dwarfism
+C0904505||Mecasermin
+C0007637||inclusion bodies
+C0014834||E.coli
+C0162847||refolding
+C0597301||purification
+C0904505||mecasermin
+C0013227||drug product
+C0030011||oxidation
+C0904505||mecasermin
+C0904505||mecasermin
+C0904505||mecasermin
+C0904505||mecasermin
+C0282597||MALDI-ISD
+C0904505||mecasermin
+C0596495||ESI-MS
+C0008562||HPLC
+C0904505||mecasermin
+C0022885||ESI-IMS-MS
+C0008562||HPLC
+C0282597||MALDI-ISD
+C0596495||ESI-MS
+C0022885||ESI-IMS-MS
+C0332462||folded
+C1510464||proteoforms
+C0904505||mecasermin
+C0904505||mecasermin
+C0904505||mecasermin
+C0013227||drug product
+C0022885||ESI-IMS-MS
+C1510464||proteoform
+C0904505||mecasermin
+C0022885||ESI-IMS-MS
+C0008562||HPLC
+C0904505||mecasermin
+C1510464||proteoform
+C0030011||oxidation
+C0904505||mecasermin
+C0022885||ESI-IMS-MS
+C0904505||mecasermin

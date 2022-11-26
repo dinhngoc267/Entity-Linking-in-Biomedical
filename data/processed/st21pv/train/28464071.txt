@@ -1,0 +1,88 @@
+C0002520||amino acid
+C0037733||soybean meal
+C0041703||United States
+C0008115||China
+C0003761||Argentina
+C0006137||Brazil
+C0021201||India
+C0037733||soybean meal
+C0037733||soybean meal
+C0008115||China
+C0003761||Argentina
+C0006137||Brazil
+C0041703||U.S
+C0021201||India
+C0033684||CP
+C0002520||AA
+C0037733||soybean meal
+C0039005||pigs
+C0037733||soybean meal
+C0008115||China
+C0003761||Argentina
+C0006137||Brazil
+C0041703||U.S
+C0021201||India
+C0037733||soybean meal
+C0678695||nutrients
+C1384515||cornstarch based diet
+C0037733||soybean meal
+C0002520||AA
+C1550600||ingredient
+C0012155||N-free diet
+C0227327||distal ileum
+C0035171||Youden square design
+C0012155||diets
+C0033684||CP
+C0037733||soybean meal
+C0006137||Brazil
+C0021201||India
+C0037733||soybean meal
+C0008115||China
+C0003761||Argentina
+C0041703||U.S
+C0002520||AA
+C0033684||CP
+C0037733||soybean meal
+C0041703||U.S
+C0002520||AA
+C0037733||soybean meal
+C0008115||China
+C0003761||Argentina
+C0037733||soybean meal
+C0021201||India
+C0041242||trypsin inhibitors
+C0037733||soybean meal
+C0454664||countries
+C0033684||CP
+C0002520||AA
+C0037733||soybean meal
+C0041703||U.S
+C0037733||soybean meal
+C0006137||Brazil
+C0003761||Argentina
+C0021201||India
+C0037733||soybean meal
+C0041703||U.S
+C0037733||soybean meal
+C0008115||China
+C0002520||AA
+C0037733||soybean meal
+C0008115||China
+C0002520||AA
+C0037733||soybean meal
+C0008115||China
+C0037733||soybean meal
+C0041703||U.S
+C0041703||U.S
+C0006137||Brazil
+C0037733||soybean meal
+C0003761||Argentina
+C0008115||China
+C0021201||India
+C0033684||CP
+C0002520||AA
+C0454664||country
+C0037733||soybean meal
+C0454664||country
+C0012164||formulating diets
+C0039005||pigs

@@ -1,0 +1,10 @@
+C0220843||Grasping
+C0079853||Moon
+C0444454||Access
+C0018722||Health Professions
+C0041711||HHS
+C0341647||secretary
+C0558058||reflects
+C0026192||minorities
+C0031831||doctors
+C1704312||health professionals

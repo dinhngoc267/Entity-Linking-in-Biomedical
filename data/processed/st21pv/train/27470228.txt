@@ -1,0 +1,48 @@
+C1836777||leucocyte telomere length
+C1517875||lifestyle factors
+C0025353||mental health
+C0021368||low grade inflammation
+C0599755||cohort
+C0025266||Danish men
+C0005615||born
+C0038435||stress
+C0004936||mental disorders
+C0020962||immune system
+C1836777||leucocyte telomere length
+C1836777||telomere length
+C4055506||accumulated
+C0021368||inflammation
+C0242606||oxidative stress
+C1836777||telomere length
+C0025353||mental health
+C0005516||markers
+C0021368||low-grade inflammation
+C0599755||cohort
+C0025266||Danish men
+C0005615||born
+C0005615||birth
+C0599755||Metropolit Cohort
+C0025266||men
+C0420151||health examination
+C0005834||blood sampling
+C2733022||quantitative PCR-based measurement
+C1836777||telomere length
+C1836777||telomere length
+C0025353||mental health
+C0007222||cardiovascular disease
+C0344315||depressive mood
+C1517875||lifestyle factors
+C0021368||low grade inflammation
+C0006560||C-reactive protein
+C0006560||C-reactive protein
+C0021760||interleukin (IL)-6
+C0085295||IL-10
+C1836777||telomere length
+C1836777||shorter TL
+C0442519||home
+C1836777||telomere length
+C0344315||depressive mood
+C0006560||C-reactive protein
+C1836777||shorter TL
+C0852545||depressive mood
+C0021368||low grade inflammation

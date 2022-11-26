@@ -1,0 +1,65 @@
+C0056580||Cucurbitacin B
+C1383860||Cardiac Hypertrophy
+C1254351||anti-cardiac hypertrophy drugs
+C0018801||heart failure
+C0243095||anti-hypertrophy
+C0243095||anti-fibrosis
+C0032098||natural plant
+C1519655||triterpenoid
+C0056580||Cucurbitacin B
+C0185014||Aortic banding
+C0185014||Aortic banding
+C1383860||cardiac hypertrophy
+C0543467||surgery
+C0025929||mice
+C0056580||cucurbitacin B
+C0087111||treatment
+C0185014||Aortic banding
+C0056580||cucurbitacin B
+C0243095||anti-hypertrophy
+C0243095||-fibrosis
+C0018787||heart
+C0225828||myocardial cell
+C0240035||interstitial fibrosis
+C0012000||diastolic
+C0205161||abnormalities
+C0017262||gene expression
+C0020564||hypertrophic
+C0005516||markers
+C0020564||hypertrophic
+C0025929||mice
+C0056580||Cucurbitacin B
+C0020564||hypertrophy
+C0243095||inhibitory effect
+C0031469||phenylephrine
+C0225828||cardiomyocytes
+C0056580||Cucurbitacin B
+C1383860||cardiac hypertrophy
+C0004391||autophagy
+C0164786||Akt
+C1453984||mTOR
+C1506134||FoxO3a
+C0037080||signal pathway
+C4307495||SC79
+C2933427||MK2206
+C0047569||3-MA
+C0164786||Akt
+C2987634||agonist
+C0243077||inhibitor
+C0004391||autophagy
+C0243077||inhibitor
+C1514559||overexpression
+C0164786||Akt
+C0056580||Cucurbitacin B
+C1383860||cardiac hypertrophy
+C0086418||human
+C0225828||cardiomyocytes AC16
+C0056580||cucurbitacin B
+C1383860||cardiac hypertrophy
+C0004391||autophagy
+C0225828||cardiomyocytes
+C1519312||inhibition
+C0164786||Akt
+C1453984||mTOR
+C1506134||FoxO3a
+C0037080||signal axis

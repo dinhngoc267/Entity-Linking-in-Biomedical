@@ -1,0 +1,54 @@
+C1519941||validation
+C0336660||MRI
+C0162703||pain tolerance
+C0025080||device
+C0013987||emotional
+C0030193||pain
+C0376335||functional Magnetic Resonance Imaging
+C0376335||functional Magnetic Resonance Imaging
+C0336660||MRI
+C0025080||algometer
+C0030193||pain
+C0336660||MRI
+C0025080||apparatus
+C0183115||scanning bore
+C0025080||device
+C0030193||pain
+C0022885||test
+C0336660||MRI
+C0025080||algometer
+C0025080||AlgoMed
+C0162703||pain tolerance
+C0022885||tested
+C0030193||pain
+C0336660||MRI
+C0014406||environment
+C0006104||brain
+C0242406||neural networks
+C0030193||pain
+C0022885||test
+C0030193||pain
+C0441633||scanned
+C0336660||MRI scanner
+C0025080||device
+C0162703||pain tolerance
+C0025080||device
+C0162703||pain tolerance
+C0025080||algometer
+C0025080||device
+C1655730||BOLD
+C0021640||insula
+C2326439||BA 13
+C0175190||anterior cingulate gyrus
+C2334367||BA 24
+C0699886||mechanical
+C0521491||pain applications
+C0025080||device
+C1533734||administering
+C0030193||pain
+C0336660||MRI
+C0014406||environments
+C0336660||MRI
+C0025080||device
+C0348000||instrument
+C0030193||pain

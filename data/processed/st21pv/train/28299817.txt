@@ -1,0 +1,50 @@
+C0017262||expression
+C1418155||Olr59
+C1428025||Ethe1
+C1420087||Slc10a2 genes
+C1882726||liver
+C0034703||F344 rats
+C0347610||thyroid hormone disruption
+C0347610||thyroid hormone-disrupting
+C0018624||chemicals
+C0014406||environment
+C0347610||disruption of thyroid hormones
+C0040135||thyroid hormone
+C0019868||homeostasis
+C0008073||developmental disorders
+C0040135||thyroid hormones
+C1160191||regulating the growth
+C1519519||differentiation of many tissues
+C0017262||gene expressions
+C0199780||administration of thyroid hormone
+C0017262||genes whose expression
+C1882726||liver
+C0040135||thyroid hormone
+C0041014||triiodothyronine
+C0041014||T3
+C0041014||T3
+C0199780||administered
+C0034703||male F344 rats
+C1609488||cDNA microarray analysis
+C0205054||hepatic
+C0017337||genes
+C0017262||expression
+C0041014||T3
+C0041904||up-regulated genes
+C0017262||expression
+C1418155||Olr59
+C1428025||Ethe1
+C1420087||Slc10a2
+C0034721||rats
+C0041014||T3
+C0205054||hepatic
+C0017262||expression of these genes
+C4086502||hydroxylated polybrominated diphenyl ether
+C4086502||polybrominated diphenyl ether
+C4086502||OH-BDE42
+C1323384||binding to the TR
+C0040135||thyroid hormones
+C0017262||expression of the genes
+C0856669||neonatal effects
+C0040135||thyroid hormone
+C0018624||disrupting chemicals

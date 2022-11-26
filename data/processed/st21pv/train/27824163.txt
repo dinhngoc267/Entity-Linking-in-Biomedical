@@ -1,0 +1,65 @@
+C0386482||P2X7 receptors
+C0035804||rodent
+C0031381||PCP
+C0036341||schizophrenia
+C0012644||model
+C0386482||P2X7 receptors
+C0386482||P2X7 receptors
+C0815090||ligand-gated ion channels
+C0521119||extracellular
+C0001480||ATP
+C0332128||examined
+C0386482||P2X7R
+C0599779||animal model
+C0036341||schizophrenia
+C0031381||PCP
+C0036341||schizophrenia
+C0012644||model
+C1511760||genetic deletion
+C0386482||P2X7 receptors
+C0243095||schizophrenia-like
+C1418215||P2rx7+/+
+C0025929||mice
+C0031381||PCP
+C3540840||hyperlocomotion
+C0038271||stereotype behavior
+C0004134||ataxia
+C0424095||social withdrawal
+C1418215||P2X7 receptor
+C0206745||mice
+C1418215||P2rx7-/-
+C0037420||social interactions
+C0031381||PCP
+C3540840||hyperlocomotion
+C0038271||stereotype behavior
+C2936582||P2X7 receptor antagonist
+C2936582||JNJ-47965567
+C1511760||gene deficiency
+C0031381||PCP
+C0031381||PCP
+C0424095||social withdrawal
+C0031381||PCP
+C0041904||upregulates
+C0386482||P2X7 receptors
+C0162783||prefrontal cortex
+C0003062||animals
+C0080093||NMDA
+C0206441||layer V pyramidal neurons
+C0007776||cortical
+C1511760||genetic deletion
+C1418215||P2rx7
+C2936582||JNJ-47965567
+C0031381||PCP
+C1515670||mRNA expression
+C0036341||schizophrenia-related
+C0017337||genes
+C1415299||NR2A
+C1415300||NR2B
+C0626201||neuregulin 1
+C0914905||NR1
+C1565610||GABA α1
+C1418215||P2rx7-/-
+C1517490||animals
+C0243095||findings
+C0386482||P2X7R
+C0036341||schizophrenia

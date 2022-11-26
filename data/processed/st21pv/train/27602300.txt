@@ -1,0 +1,52 @@
+C0206298||adder
+C0206298||Vipera berus
+C0442533||Southern Altay Mountains
+C0037775||distribution
+C0037775||distributed
+C0037382||snake
+C0017446||Eurasia
+C0206298||adder
+C0206298||Vipera berus
+C0015176||Europe
+C0003980||Asia
+C0442533||Southern Altay Mountains
+C0206298||adder's
+C1710133||southern
+C0037775||distribution
+C0003982||Central Asia
+C1517184||field surveys
+C0206298||adder
+C0205146||areas
+C0442533||Southern Altay Mountains
+C0242481||line transects
+C0200345||collected specimens
+C0936012||analyses
+C0205101||external
+C0206298||adder
+C0037775||distributed
+C0011296||survey
+C0205145||sites
+C0034869||recorded
+C0563004||Kanas river valley
+C0242481||transects
+C0025209||melanism
+C0206298||adders
+C0442533||Southern Altay Mountains
+C1883207||subspecies
+C0162326||DNA sequences
+C0010744||mitochondrial cytochrome b
+C0439745||grouped
+C1705920||species
+C1883207||subspecies
+C0206298||V. b. sachalinensis
+C0037775||distribution
+C0206298||V. berus
+C0035168||researches
+C0206298||adder
+C0205229||expands
+C0037775||distribution
+C2828371||border
+C1710136||southwest
+C0442533||mountains
+C0702240||elevation
+C1257890||population

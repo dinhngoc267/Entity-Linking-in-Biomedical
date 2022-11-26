@@ -1,0 +1,38 @@
+C1536105||CT angiography
+C3509486||transcatheter aortic valve replacement
+C1536105||CT angiography
+C1536105||CT angiography
+C3509486||transcatheter aortic valve replacement
+C3509486||transcatheter aortic valve replacement
+C0040405||3rd generation dual-source CT
+C0040405||dual-source CT
+C3509486||transcatheter aortic valve replacement
+C1536105||CT angiography
+C0040405||3rd generation DSCT
+C0008971||two-part protocol
+C1634617||ECG-gated coronary CTA
+C1634617||coronary CTA
+C1536105||ECG-triggered aortoiliac CTA
+C0009924||contrast medium
+C2986769||advanced iterative reconstruction
+C0282574||Five-point scales
+C1297895||image quality analysis
+C3509486||transcatheter aortic valve replacement
+C0449381||sizing parameters
+C1634617||coronary CTA
+C1536105||aortoiliac CTAs
+C1536105||CT angiography
+C0008972||studies
+C1634617||coronary CTA
+C1536105||aortoiliac CTA
+C3509486||transcatheter aortic valve replacement
+C0225957||annulus
+C1513916||No
+C0161816||cardiac
+C0009566||vascular complications
+C0040405||3rd generation DSCT
+C3509486||transcatheter aortic valve replacement
+C1536105||CT angiography
+C0220825||assessment
+C3509486||transcatheter aortic valve replacement
+C0025080||device

@@ -1,0 +1,82 @@
+C0278092||sexual function
+C0270549||generalized anxiety disorder
+C0242481||pooled analysis
+C1530072||vilazodone
+C0002783||studies
+C1530072||Vilazodone
+C1457887||core symptoms
+C0270549||generalized anxiety disorder
+C0270549||generalized anxiety disorder
+C0206035||randomized
+C0013072||double-blind
+C0549622||sexual dysfunction
+C0549622||sexual dysfunction
+C0270549||generalized anxiety disorder
+C0242481||post hoc analysis
+C0008976||trials
+C0220825||evaluate
+C1530072||vilazodone
+C0278092||sexual functioning
+C0270549||generalized anxiety disorder
+C0008976||fixed-dose trial
+C1530072||vilazodone
+C0282574||NCT01629966
+C0242481||flexible-dose studies
+C1530072||vilazodone
+C0282574||NCT01766401
+C0282574||NCT01844115
+C0270549||generalized anxiety disorder
+C0278092||Sexual functioning
+C0034394||Changes in Sexual Functioning Questionnaire
+C0034394||Changes in Sexual Functioning Questionnaire
+C0086750||Outcomes
+C2960025||CSFQ total score
+C0549622||sexual dysfunction
+C2960025||CSFQ total score
+C0025266||males
+C0043210||females
+C0877248||Treatment-emergent adverse events
+C0278092||sexual functioning
+C0936012||analyzed
+C0936012||analyses
+C0549622||sexual dysfunction
+C0043210||females
+C1696465||placebo
+C1530072||vilazodone
+C0025266||males
+C1696465||placebo
+C1530072||vilazodone
+C2960025||CSFQ total score
+C0043210||females
+C1696465||placebo
+C1530072||vilazodone
+C0025266||males
+C1696465||placebo
+C1530072||vilazodone
+C0549622||sexual dysfunction
+C0278092||sexual functioning
+C0025266||males
+C1696465||placebo
+C1530072||vilazodone
+C0043210||females
+C1696465||placebo
+C1530072||vilazodone
+C0242350||erectile dysfunction
+C0234047||delayed ejaculation
+C1530072||vilazodone
+C0025266||males
+C1963761||no treatment-emergent adverse events
+C0278092||sexual functioning
+C1530072||vilazodone
+C0270549||generalized anxiety disorder
+C0002783||studies
+C0549622||sexual dysfunction
+C1530072||Vilazodone
+C1696465||placebo
+C0034394||Changes in Sexual Functioning Questionnaire
+C0086750||outcomes
+C0043210||females
+C0025266||males
+C0879626||adverse impact
+C0278092||sexual functioning
+C1530072||vilazodone

@@ -1,0 +1,56 @@
+C3151529||Sub-lethal effects
+C0012155||dietary
+C1997222||neonicotinoid insecticide
+C0323351||honey bee queen
+C0015895||fecundity
+C1947989||colony
+C0243107||development
+C0205160||negatively
+C0323351||honey bee
+C0323351||Apis mellifera L.
+C0205391||pervasive
+C1997222||neonicotinoid insecticides
+C1947907||consumption
+C2717960||nectar
+C0032385||pollen
+C0032098||plants
+C1997222||neonicotinoids
+C0023185||learning
+C0025260||memory
+C0004923||worker bees
+C1997222||neonicotinoids
+C0004923||queen bees
+C0016452||food
+C0004923||queen
+C1947989||colonies
+C0456389||sizes
+C0004923||bees
+C0218499||imidacloprid
+C0458173||syrup
+C0879626||adverse effects
+C0218499||imidacloprid
+C0004923||queens
+C1622979||egg-laying
+C0023946||locomotor activity
+C0004923||worker bees
+C0020405||hygienic
+C1947989||colony
+C0678723||development
+C0004923||brood
+C0032385||pollen
+C1947989||colonies
+C1947989||colony
+C0456389||size
+C1947989||colony
+C1257890||populations
+C2603343||study
+C0879626||adverse effects
+C0218499||imidacloprid
+C0004923||queen bee
+C0015895||fecundity
+C0162340||understanding
+C1997222||neonicotinoids
+C1947989||colony
+C1997222||neonicotinoid
+C1947989||colonies
+C0004923||queens

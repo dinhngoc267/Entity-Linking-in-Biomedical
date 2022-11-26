@@ -1,0 +1,75 @@
+C0017428||genome
+C1148673||DNA-binding
+C1979963||profile
+C0033684||BarR
+C0000392||β-alanine
+C0040648||transcription factor
+C0125575||Leucine-responsive Regulatory Protein
+C0125575||Leucine-responsive Regulatory Protein
+C1335532||family
+C1335532||family
+C0040648||regulatory transcription factors
+C0033684||BarR
+C0125575||Leucine-responsive Regulatory Protein
+C0040648||transcription factor
+C0017262||expression
+C0017337||β-alanine aminotransferase gene
+C1156738||β-alanine degradation
+C0125575||Leucine-responsive Regulatory Protein
+C0040648||transcription factors
+C0033684||BarR
+C0237284||not responsive
+C0311462||α-amino acids
+C0000392||β-alanine
+C0017337||β-alanine aminotransferase gene
+C0033684||BarR
+C0000392||β-alanine
+C0014436||precursor
+C0009226||coenzyme A
+C0870883||metabolite
+C2603343||study
+C1148673||DNA-binding
+C0033684||BarR
+C0206522||regulon
+C0205276||local
+C0017428||genome
+C2986505||genome-wide binding profile
+C0033684||BarR
+C1328856||chromatin immunoprecipation
+C2936621||high-throughput sequencing
+C2936621||combined with high-throughput sequencing
+C0017428||genomic
+C1167622||binding
+C1708726||loci
+C3158196||binding regions
+C0033684||BarR protein
+C0949632||electrophoretic mobility shift assays
+C0009802||conserved
+C2350254||semi-palindromic
+C1514535||binding motif
+C0017428||genomic sites
+C0887859||intergenic regions
+C0086860||promoter
+C2733022||qRT-PCR analysis
+C0029073||operon
+C0033684||BarR
+C0029073||glutamine synthase operon
+C0125575||Leucine-responsive Regulatory Protein
+C0040648||transcription factors
+C0033684||BarR
+C3463810||ChIP-seq profile
+C0033413||β-alanine aminotransferase promoter region
+C1514535||binding motif
+C0086734||operator structure
+C0086734||multiple (major and auxiliary) operators
+C0033684||BarR
+C0206522||regulon
+C0017337||glutamine synthase genes
+C0017337||β-alanine aminotransferase
+C1327622||Regulation
+C0017801||glutamine synthase
+C1156837||β-alanine
+C3547146||α-amino acid metabolism
+C0033684||BarR
+C0206522||regulon
+C0125575||Leucine-responsive Regulatory Protein

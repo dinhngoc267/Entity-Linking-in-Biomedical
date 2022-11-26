@@ -1,0 +1,46 @@
+C0034656||Randomized
+C2603343||Study
+C3494470||Virtual Reality Exposure Therapy
+C0038436||Posttraumatic Stress Disorder
+C3494470||Virtual reality exposure therapy
+C3494470||Virtual reality exposure therapy
+C1273869||interventions
+C0282440||randomized controlled trials
+C0087111||treatment
+C0038436||combat-related posttraumatic stress disorder
+C0038436||posttraumatic stress disorder
+C0680022||members
+C1579762||comparative effectiveness study
+C0184511||improved
+C0870527||control exposure therapy
+C0870527||control exposure therapy
+C0680022||members
+C0038436||combat-related PTSD
+C3494470||Virtual reality exposure therapy
+C0870527||control exposure therapy
+C0401803||Assessors
+C0150108||blinded
+C0038436||posttraumatic stress disorder
+C1457887||symptom
+C0087111||treatment
+C0349674||clinician-administered PTSD scale
+C0349674||clinician-administered PTSD scale
+C0038436||posttraumatic stress disorder
+C1457887||symptoms
+C0184511||improved
+C0087111||treatments
+C0030686||Dropout
+C3494470||Virtual reality exposure therapy
+C3494470||Virtual reality exposure therapy
+C0349674||clinician-administered PTSD scale
+C0870527||control exposure therapy
+C0087111||treatment
+C3494470||Virtual reality exposure therapy
+C0679646||participants
+C0870527||control exposure therapy
+C0679646||Participants
+C0243095||crossed over
+C0087111||treatment
+C2603343||study
+C0870527||exposure therapy
+C0038436||posttraumatic stress disorder

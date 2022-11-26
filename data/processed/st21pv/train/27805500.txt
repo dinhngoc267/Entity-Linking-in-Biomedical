@@ -1,0 +1,25 @@
+C0376649||Addressing
+C0679924||professionals
+C0031928||pilot study
+C0679924||professionals
+C0679924||professionals
+C0679646||participants
+C0231303||physical distress
+C0001721||affect
+C1273869||intervention
+C0679646||Participants
+C0243095||negative affect
+C0231303||physical distress
+C0243095||spiritually disoriented
+C1273869||intervention
+C0018592||positive affect
+C0522165||tranquility
+C0679646||participants
+C0562342||empowered
+C0243095||positive
+C0679646||participants
+C0259853||Educators
+C0032893||practices
+C0010478||curriculum
+C1709627||practitioners
+C0679924||professionals

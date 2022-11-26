@@ -1,0 +1,42 @@
+C0041904||upregulation
+C0034800||host surface receptors
+C0004614||bacterial adhesion
+C0004623||disease
+C0034800||Host surface receptors
+C0004611||bacteria
+C0040300||tissue
+C0086418||human
+C0012634||disease
+C0034800||host receptors
+C0699040||cognate adhesins
+C0004611||bacterial
+C0699748||pathogenesis
+C0034800||host surface receptors
+C3540477||CEACAM-1
+C0376900||CEACAM-6
+C0063695||ICAM-1
+C0071234||PAFR
+C0542478||response to specific stimuli
+C0949479||upregulated receptors
+C0004623||bacterial infections
+C0035237||respiratory tract
+C0597357||receptor
+C0004614||bacterial adherence
+C0460002||body system
+C3714787||central nervous
+C0012240||gastrointestinal
+C0042066||urogenital systems
+C0699748||pathogens
+C3714514||infectivity
+C0038410||Streptococcus pneumoniae
+C0018483||Haemophilus influenzae
+C0027575||Neisseria meningitidis
+C0014834||Escherichia coli
+C1515654||in vitro
+C1515657||in vivo experimental models
+C0004614||bacterial attachment
+C0034800||host receptors
+C1273869||interventions
+C0199176||prevention
+C0087111||treatment
+C0004623||bacterial disease

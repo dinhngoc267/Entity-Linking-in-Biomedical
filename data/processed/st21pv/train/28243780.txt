@@ -1,0 +1,18 @@
+C0025519||metabolic
+C0025361||cognitive processing
+C0025519||metabolic
+C4042775||seated
+C0009240||cognitive
+C4042775||seated
+C0009240||cognitive
+C0009240||cognitive
+C0679646||participant's
+C0030055||oxygen consumed per distance traveled
+C0009240||cognitive
+C0009240||cognitive
+C0936012||analyzed
+C4042775||seated
+C0009240||cognitive
+C0025361||Cognitive processing
+C0004268||attentional
+C0025519||metabolic

@@ -1,0 +1,7 @@
+C1706852||article
+C0015538||adjunct clinical faculty
+C0221457||preceptors
+C0038496||nursing students
+C0588053||graduates
+C0376554||knowledge
+C1706852||article

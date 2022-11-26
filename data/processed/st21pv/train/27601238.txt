@@ -1,0 +1,42 @@
+C0038951||Survey
+C0856687||Trichinella infection
+C1136016||domestic pigs
+C2004062||historical
+C0205146||endemic areas
+C1514578||Henan province
+C0008115||central China
+C0150312||current situation
+C0856687||Trichinella infection
+C1136016||domestic pigs
+C2004062||historical
+C0205146||endemic areas
+C1514578||Henan province
+C0008115||central China
+C1136016||indoor-raised pigs
+C0008848||cities
+C1514578||Henan
+C0332128||examined
+C0856687||Trichinella infection
+C0039005||pigs
+C0546803||Trichinella larvae
+C0442726||detected
+C0039005||pigs
+C0008848||Nanyang city
+C1514578||Henan
+C0023047||larval
+C0023047||larvae
+C0026845||muscles
+C0546803||larvae
+C0040892||Trichinella spiralis
+C3179032||multiple PCR
+C2603343||study
+C0039005||swine
+C0040896||trichinellosis
+C1514578||Henan
+C3714514||infection
+C0086418||humans
+C0039005||swine
+C0856687||Trichinella infection
+C1514578||Henan
+C0220825||evaluated
+C0025017||meat

@@ -1,0 +1,39 @@
+C0015357||extracorporeal life support
+C0587446||cardiac intensive care unit
+C0220825||evaluate
+C0015357||extracorporeal life support system
+C0015357||extracorporeal life support system
+C0587446||cardiac intensive care unit
+C0015357||extracorporeal life support system
+C0220825||evaluated
+C0450124||Venoarterial
+C0015357||extracorporeal life support system
+C0003956||Ascendan aorta
+C0225844||right atrial
+C0917707||cannulation
+C0027530||neck
+C0917707||cannulation
+C0015357||extracorporeal life support system
+C0007203||E-CPR
+C0243095||inability to wean
+C0007202||cardiopulmonary bypass
+C0007202||cardiopulmonary bypass
+C0035229||respiratory insufficiency
+C0242184||hypoxia
+C0600177||low cardiac output
+C0600177||LCOS
+C0015357||extracorporeal life support system
+C0009566||complications
+C0281169||pulmonary complications
+C0009450||infectious
+C0009566||complications
+C0235029||neurologic complications
+C0009566||mechanical complications
+C0043084||Weaning
+C0030685||discharged
+C0015357||extracorporeal life support system
+C0683525||treatment option
+C0475309||centers
+C2700280||world
+C0521300||life support
+C0152021||congenital heart disease

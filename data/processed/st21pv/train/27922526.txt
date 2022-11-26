@@ -1,0 +1,48 @@
+C0001869||Air Pollutant
+C0011209||Delivery
+C0000832||Placental Abruption
+C0022341||Japan
+C0000832||Placental abruption
+C0178292||emergency obstetric complication
+C0000832||abruption
+C0022116||ischemia
+C0021368||inflammation
+C0155760||rupture of the decidual artery
+C0233170||placental separation
+C0022116||Ischemia
+C0021368||inflammation
+C4288565||case-crossover design
+C0001869||air pollutants
+C0032930||trigger
+C0000832||placental abruption
+C0017446||western Japan
+C0017446||Kyushu-Okinawa Districts
+C0242356||Japan Perinatal Registry Network database
+C0033011||pregnant women
+C0000832||placental abruption
+C0001869||air pollutants
+C0028160||nitrogen dioxide
+C0028160||NO2
+C1510837||suspended particulate matter
+C0030106||ozone
+C0038777||sulfur dioxide
+C0038777||SO2
+C0011209||delivery
+C0019994||hospital
+C0043210||woman
+C0000832||abruption
+C0011209||delivery
+C0028160||NO2
+C0000832||placental abruption
+C0679646||participants
+C0011209||delivered
+C0558380||emergency cesarean
+C0011209||delivered
+C1513916||no association
+C1510837||suspended particulate matter
+C0030106||ozone
+C0038777||SO2
+C0028160||NO2
+C0011209||delivery
+C0000832||placental abruption
+C0033011||pregnant Japanese women

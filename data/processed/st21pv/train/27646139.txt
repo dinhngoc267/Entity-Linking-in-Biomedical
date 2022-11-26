@@ -1,0 +1,70 @@
+C0017337||PLA2 gene
+C1155229||humoral immune responses
+C1001509||Bactrocera dorsalis (Hendel)
+C0017337||phospholipase A2 (PLA2) gene
+C0014442||enzyme
+C0031676||phospholipids
+C0031676||phospholipids
+C0733755||sn-2 position
+C1704326||role
+C1155229||humoral immune responses
+C2603343||study
+C0017337||phospholipase A2
+C0040300||tissues
+C1001509||Bactrocera dorsalis (Hendel)
+C0040649||transcriptional
+C0017337||phospholipase A2
+C1326793||mature stage
+C0039597||testis
+C0040300||tissue
+C0004623||Bacterial infection
+C0017262||expression
+C0017337||phospholipase A2
+C0041904||up-regulation
+C0015665||fat body
+C0598496||Silencing
+C0017337||phospholipase A2
+C0017262||expression
+C0017337||immune-related genes
+C1417530||MyD88
+C0057256||defensin
+C1155478||Toll pathway
+C0033684||relish
+C0033684||diptericin
+C0017262||expression
+C1417530||MyD88
+C0057256||defensin
+C0013081||down-regulated
+C0017337||ds-PLA2
+C1258415||ds-egfp
+C1001509||B. dorsalis
+C0439663||infected
+C0023861||L. monocytogenes
+C0038172||S. aureus
+C0017337||phospholipase A2
+C0017255||activation
+C1155478||Toll pathway
+C3714514||infection
+C0023861||L. monocytogenes
+C0014834||E. coli
+C0035696||mRNA
+C0033684||relish
+C0033684||diptericin
+C0017337||ds-PLA2
+C1258415||ds-egfp
+C0598496||silencing
+C0017337||phospholipase A2
+C0230704||lipid droplets
+C0015665||fat body
+C0007634||cells
+C0598496||silencing
+C0017337||phospholipase A2
+C0017337||phospholipase A2
+C0015665||fat body
+C0040300||tissue
+C0017337||PLA2 gene
+C1155229||humoral immune responses
+C1159705||lipid storage
+C0015665||fat body
+C0007634||cells
+C1001509||B. dorsalis

@@ -1,0 +1,30 @@
+C0017446||protected areas
+C0043476||Zimbabwe
+C3714536||long history
+C0205276||local
+C0205276||local
+C0017446||protected areas
+C0017446||forest protected areas
+C0043476||Zimbabwe
+C0870077||colonial
+C0870077||colonial forms
+C0332128||examined
+C0205276||local
+C0017446||FPA
+C0043476||Zimbabwe
+C0439792||extent
+C0027361||people
+C0205276||Local
+C0017446||FPA
+C0184511||improved
+C0017446||FPA
+C0017446||FPA
+C0205276||local
+C0205276||local
+C0870433||dissatisfaction
+C0017446||forest protected areas
+C0243095||ungovernable
+C0242456||policy
+C0017446||FPA
+C1708237||sector
+C0184511||improve

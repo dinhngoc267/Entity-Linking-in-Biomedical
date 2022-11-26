@@ -1,0 +1,27 @@
+C2603343||perspective study
+C0442519||home
+C0018724||care professionals
+C0442519||home
+C1837655||multifactorial
+C2603343||study
+C0442519||home
+C0028688||nursing home
+C0018724||care professionals
+C0679646||participants
+C0018724||care professionals
+C0028688||nursing homes
+C0027778||Netherlands
+C0949415||qualitative study
+C0442519||home
+C0034379||quality of care
+C1709359||outdoors
+C0018724||care professionals
+C0029246||organization
+C0442519||home
+C0442519||home
+C0442519||home
+C0949415||study
+C0028688||nursing home
+C0237096||residence
+C0442504||place
+C0027361||people

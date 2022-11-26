@@ -1,0 +1,19 @@
+C0085808||Renal arterial mycotic aneurysm
+C0022671||kidney transplantation
+C0085808||Mycotic aneurysm
+C0006836||Candida
+C0004034||Aspergillus species
+C0006836||Candida
+C0003860||arteritis
+C0022671||kidney transplant
+C0684224||report
+C0022646||kidney
+C0013018||donor
+C0162438||organ retrieval
+C0003460||anuria
+C0022671||renal transplantation
+C0085808||mycotic aneurysm
+C1720289||kidney graft
+C0035065||renal artery
+C0178784||Organs
+C0013018||donors

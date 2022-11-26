@@ -1,0 +1,33 @@
+C1821461||close
+C0079382||friends
+C1821461||closer
+C0001792||older
+C0497327||dementia
+C1305660||carers
+C0497327||dementia
+C1305660||carers
+C0150775||social networks
+C0242656||disease progresses
+C1305660||carers
+C0001792||older
+C0497327||dementia
+C1305660||carers
+C1305660||carers
+C1305660||carer
+C0036606||support groups
+C0014282||North West England
+C0079382||friends
+C0679646||resilient
+C0679646||non-resilient participants
+C0150232||Family support
+C0030971||perceived
+C1527305||feelings
+C0679646||Participants
+C0079382||Friend
+C0030971||perceived
+C1553702||Neighbours
+C0030971||perceptions
+C0150232||Family
+C0079382||friend
+C0030971||perceived
+C0243095||Implications

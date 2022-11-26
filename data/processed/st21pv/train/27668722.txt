@@ -1,0 +1,49 @@
+C1960417||single-dose
+C0006968||carbapenem
+C0743284||exposure
+C0017262||transcriptional expression
+C0376623||mexA
+C0033809||Pseudomonas aeruginosa
+C0006968||carbapenem antibiotic
+C0033809||Pseudomonas aeruginosa
+C1155281||acquired
+C2973511||New Delhi metallo-β-lactamase
+C0033809||P. aeruginosa
+C0017262||overexpressed
+C0029073||MexAB-OprM
+C0006968||carbapenem
+C0338237||therapy
+C1764827||clinical isolates
+C0033809||P. aeruginosa
+C0066005||meropenem
+C0017262||strain overexpressing
+C0029073||MexAB-OprM
+C0017262||expressing
+C0029073||MexAB-OprM
+C0017262||overexpressing
+C0029073||MexAB-OprM
+C4164297||P. aeruginosa PAO1
+C4164297||P. aeruginosa K2733-PAO1
+C0029073||ΔMexAB-OprM
+C0029073||ΔMexCD-OprJ
+C0029073||ΔMexEF-OprN
+C0029073||ΔMexXY-OprM
+C0598888||cloned
+C2919900||Luria-Bertani broth
+C0066005||meropenem
+C4086963||Total RNA
+C0035380||reverse transcribed
+C0006556||cDNA
+C3179034||Quantitative real-time PCR
+C1517585||resistance mechanisms
+C0066005||Meropenem
+C0743284||exposure
+C0040649||elevate transcription
+C0376623||mexA gene
+C1960417||single-dose
+C0743284||exposure to carbapenem
+C3824504||efflux pump system
+C2973511||NDM-1
+C0683154||bacterial response to carbapenem antibiotic
+C1517585||resistance mechanisms
+C1136254||antimicrobials

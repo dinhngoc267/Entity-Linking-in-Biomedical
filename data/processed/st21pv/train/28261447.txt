@@ -1,0 +1,43 @@
+C0206155||Caribbean
+C0324034||massive corals
+C0324034||Massive coral
+C0036493||sea
+C0205148||surface
+C0302523||Monitoring
+C0324034||coral
+C2603343||multiyear studies
+C1063194||coral
+C0456389||size
+C0997908||reef-building scleractinian
+C0324034||corals
+C1013977||Orbicella franksi
+C1063194||Siderastrea siderea
+C1062911||Stephanocoenia michelini
+C0030266||Panama
+C0302523||monitored
+C0040300||live tissue
+C0456389||size
+C0324034||Corals
+C0040300||live tissue
+C0324034||corals
+C1705920||species
+C0040300||live tissue
+C1013977||O. franksi
+C1062911||S. michelini
+C1063194||S. siderea
+C1705920||species
+C1013977||O. franksi
+C1062911||S. michelini
+C1446409||positive
+C0018270||growth
+C1705920||species
+C0040300||tissue
+C1705920||species
+C0237446||acclimative response
+C0324034||corals
+C0040300||tissue
+C0206155||Caribbean
+C0324034||reef-building corals
+C0040300||tissue
+C0017446||region
+C0237446||acclimation

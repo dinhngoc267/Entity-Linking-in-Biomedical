@@ -1,0 +1,54 @@
+C1254351||Netarsudil
+C0430894||Outflow Facility
+C0086418||Human
+C0015392||Eyes
+C1254351||Netarsudil
+C0033671||Rho kinase/norepinephrine transporter inhibitor
+C0282461||phase 3 clinical development
+C0017601||glaucoma
+C0087111||treatment
+C0870883||metabolite
+C1254351||netarsudil-M1
+C0430894||outflow facility
+C0430894||C
+C0086418||human
+C0015392||eyes
+C0031001||perfused
+C1254351||netarsudil-M1
+C0042444||vehicle solution
+C0026032||fluorescent microspheres
+C0031001||perfusion
+C0009924||media
+C0031001||perfusion
+C0185023||fixation
+C1522485||tracer
+C0040573||trabecular meshwork
+C0040573||trabecular meshwork
+C0226616||episcleral veins
+C0226616||episcleral veins
+C0229108||Schlemm's canal
+C0242842||confocal imaging
+C1260954||Morphologic changes
+C0040573||trabecular
+C0242842||confocal
+C0430389||light
+C0026019||electron microscopy
+C0031001||Perfusion
+C1254351||netarsudil-M1
+C0430894||C
+C0226616||episcleral veins
+C0015392||eyes
+C0226616||episcleral veins
+C0205146||cross-sectional area
+C0226616||episcleral veins
+C0226616||episcleral veins
+C0430894||C
+C0009780||juxtacanalicular connective tissue
+C0009780||juxtacanalicular connective tissue
+C0015392||eyes
+C1254351||Netarsudil
+C0430894||C
+C0009780||juxtacanalicular connective tissue
+C0226616||episcleral veins
+C0205146||larger area
+C0226616||episcleral veins

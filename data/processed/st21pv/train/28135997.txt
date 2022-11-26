@@ -1,0 +1,43 @@
+C1760428||Exposure to suicidal behaviors
+C0038661||suicide
+C0035648||risk factor
+C0038661||suicide
+C0035648||risk factors
+C0087111||treatment
+C1760428||Exposures to suicidal behaviors
+C1760428||Exposures to suicidal behaviors
+C0079382||friend
+C0038663||suicide attempts
+C0038661||completions
+C0038661||suicidal
+C0035648||risk factor
+C0029038||online
+C0038951||survey
+C0679646||participants
+C1760428||Exposures to suicidal behaviors
+C0282574||Suicidal Affect-Behavior-Cognition Scale
+C0282574||Suicidal Affect-Behavior-Cognition Scale
+C0392366||Tests
+C1707753||dimensionality
+C1760428||Exposures to suicidal behaviors
+C0038663||attempts
+C0038661||completions
+C0079382||friends
+C1760428||Exposures to suicidal behaviors
+C1760428||Exposures to suicidal behaviors
+C0578829||demographic
+C0392366||tests
+C1760428||Exposures to suicidal behaviors
+C0038661||suicide
+C0035648||risk factors
+C0011570||depression
+C0003467||anxiety
+C0038435||stress
+C0237105||emotional stability
+C0684224||reports
+C1760428||Exposures to suicidal behaviors
+C1760428||Exposures to suicidal behaviors
+C0035648||risk factor
+C1760428||Exposures to suicidal behaviors
+C0237401||individual
+C0459471||interpretations

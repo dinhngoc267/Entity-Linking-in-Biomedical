@@ -1,0 +1,41 @@
+C0444498||In situ
+C0347988||heavy metals
+C0025552||metal
+C1083174||paddy
+C0038239||steel
+C0037107||silicon
+C0015919||fertilizer
+C0038239||Steel
+C0037107||silicon
+C0015919||fertilizer
+C0425245||mobility
+C0347988||heavy metals
+C0018017||objective
+C2603343||study
+C0220825||evaluate
+C0025552||metal
+C0001128||acidic
+C0025552||metals
+C0243144||uptake
+C1140671||rice
+C1140671||rice
+C0220844||growth
+C0032098||plant
+C0037107||silicon
+C0025552||metals
+C0001128||acid
+C0006632||Cd
+C0009968||Cu
+C0043481||Zn
+C0006632||Cd
+C0009968||Cu
+C0043481||Zn
+C1140671||rice
+C1514137||tissues
+C1140671||rice
+C0220844||growth
+C1140671||rice
+C0220844||growth
+C1140671||rice
+C0220844||growth
+C0025552||metals

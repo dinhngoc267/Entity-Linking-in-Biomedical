@@ -1,0 +1,45 @@
+C0033137||primary care
+C0589031||team meetings
+C0449445||approach
+C0302523||observations
+C0027361||people
+C3266262||multiple chronic conditions
+C0018747||primary care services
+C0679924||Professionals
+C0086388||health care needs
+C0589031||team (IPT) meetings
+C2603343||study
+C0033137||primary care
+C0589031||team meetings
+C0027778||Netherlands
+C0949415||Qualitative study
+C0302523||observations
+C0589031||team meeting
+C0679646||participants
+C0589031||IPT meetings
+C0033137||primary care practices
+C0596545||Experiences
+C0679646||participants
+C0018724||health care professionals
+C0589031||team meetings
+C0936012||analysed
+C0679646||participants
+C0589031||team meetings
+C0302523||observations
+C0589031||team meetings
+C1711307||team coordinator
+C0401960||leader
+C1290905||discrepancy
+C0243095||findings
+C0302523||observations
+C1257890||Team structure and composition
+C0243024||Patient-centredness
+C0004271||Attitude
+C0026605||motivation
+C0589031||IPT meetings
+C0243024||patient-centredness
+C1524106||chairpersons
+C1290905||discrepancy
+C0302523||observations
+C0004448||awareness
+C0805586||challenges

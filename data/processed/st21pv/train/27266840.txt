@@ -1,0 +1,51 @@
+C0043246||Laceration
+C1253959||branch of
+C0226455||profunda femoris artery
+C0243095||spike
+C0012727||displaced
+C0223866||lesser trochanter
+C0229984||inter-trochanteric
+C0015802||femoral fracture
+C0007320||case report
+C3263722||Injury
+C1116455||femoral vessels
+C0009566||complication
+C0229984||intertrochanteric
+C0015802||femoral fractures
+C0700287||reported
+C1402315||vascular lesion
+C0447106||superficial femoral artery
+C0226455||profunda femoris artery
+C0684224||report
+C0333276||acute bleeding
+C0043246||laceration
+C0549099||perforating
+C1253959||branch of
+C0226455||profunda femoris artery
+C1444775||sharp
+C0012727||displaced
+C0223866||lesser trochanter
+C0229984||intertrochanteric
+C0015802||femoral fracture
+C0221198||lesion
+C0203006||transcatheter embolization
+C0340652||arterial injury
+C2732619||intramedullary
+C0016642||internal fixation
+C3263722||injury
+C0016658||fracture
+C1444775||sharp
+C3698366||bone fragment
+C0226455||profunda femoris artery
+C0549099||perforating
+C1253959||branches
+C0229984||intertrochanteric
+C0015802||femoral fractures
+C0262386||avulsed
+C0223866||lesser trochanter
+C1116455||femoral vessel
+C3263722||injuries
+C0012727||displaced
+C0262950||bone
+C0243095||spike
+C3165364||laboratory monitoring

@@ -1,0 +1,32 @@
+C0677850||adjunctive
+C0079466||guanfacine
+C1707968||extended release
+C0304402||stimulant
+C0041671||attention-deficit
+C1263846||hyperactivity disorder
+C0304402||stimulant
+C0041671||attention-deficit
+C1263846||hyperactivity disorder
+C1263846||attention-deficit / hyperactivity disorder
+C0449986||augmenting stimulants
+C1707968||guanfacine extended-release
+C1707968||guanfacine extended-release
+C1263846||attention-deficit / hyperactivity disorder
+C0011900||diagnosis
+C0304402||long-acting
+C0304402||short-acting stimulant
+C1707968||guanfacine extended-release
+C1293122||augmentation
+C2081612||medication
+C2081612||medication
+C0034980||Regression
+C3161035||models
+C0304402||stimulants
+C1293122||augmentation
+C0304402||stimulant
+C0304402||long-acting
+C0304402||short-acting stimulants
+C0304402||stimulants
+C1707968||guanfacine extended-release
+C1293122||augmentation
+C0304402||stimulant

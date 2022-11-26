@@ -1,0 +1,22 @@
+C1149462||G protein-coupled receptor ligands
+C0936012||analysis
+C1706082||compounds
+C1706082||compounds
+C0242356||databases
+C2603343||study
+C0023688||ligands
+C0682972||family A of the G Protein-Coupled Receptors
+C0242356||ChEMBL database
+C0332128||examined
+C0034838||serotonin receptors
+C1706082||compounds
+C0332128||examined
+C1254351||drugs
+C1444656||indicated
+C0936012||analysis
+C1704922||visualizations
+C4082130||prepared
+C0282574||http://chem.gmum.net/vischem
+C0220807||chemical structures
+C1706082||compounds
+C0150098||datasets

@@ -1,0 +1,38 @@
+C0002844||androgenic
+C1979963||profile
+C0032460||PCOS
+C0010362||cross-sectional study
+C3853758||metabolic
+C3495938||hormonal profiles
+C0043210||women
+C0032460||polycystic ovary syndrome
+C0430022||hormonal assessment
+C2709220||digital pedometer
+C0043210||women
+C0032460||PCOS
+C1305855||body mass index
+C1305855||body mass index
+C1305855||body mass index
+C0043210||women
+C0032460||PCOS
+C0043210||women
+C0455829||waist circumference
+C0455829||waist circumference
+C0032460||PCOS
+C0043210||women
+C0043210||women
+C0455829||waist circumference
+C0021641||insulin
+C0032460||PCOS
+C0002844||androgen
+C0043210||sedentary women
+C1261412||free androgen index
+C1261412||free androgen index
+C0043210||sedentary women
+C1829779||Homeostasis model assessment
+C0021655||insulin resistance
+C1261412||free androgen index
+C1261412||free androgen index
+C0002844||androgenic
+C1979963||profile
+C0032460||PCOS

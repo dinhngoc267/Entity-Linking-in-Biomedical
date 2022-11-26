@@ -1,0 +1,23 @@
+C1698259||Hepatitis C Virus Coinfection
+C0039194||T Cell
+C0079720||Subpopulations
+C0019682||HIV
+C0439663||Infected
+C1963724||Antiretroviral Therapy
+C1698259||hepatitis C virus coinfection
+C0039194||T cell
+C0079720||subpopulations
+C0019682||HIV
+C0439663||infected
+C1963724||antiretroviral therapy
+C0275524||Coinfection
+C0220847||hepatitis C virus
+C3273372||naive CD4(+) T cells
+C0242629||CD8(+) memory T cells
+C0220847||Hepatitis C virus
+C3273371||CD4(+) memory T cells
+C0019682||HIV
+C0205160||negative
+C0220847||hepatitis C virus
+C0019682||HIV
+C3714514||infection

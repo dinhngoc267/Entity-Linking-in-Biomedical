@@ -1,0 +1,50 @@
+C1880239||Methylation Analysis
+C0376571||BRCA1
+C0162832||APC
+C0006142||Breast Cancer
+C0376452||Promoter methylation
+C0079427||tumor suppressor genes
+C1516924||epigenetic alteration
+C0086418||human
+C0027651||tumors
+C0006142||breast cancer
+C0017337||methylated genes
+C0033325||prognosis
+C0596473||early detection
+C0027651||tumors
+C2603343||study
+C0376452||methylation
+C0162832||APC
+C0376571||BRCA1 genes
+C0006142||breast cancer
+C0376571||BRCA1
+C0162832||APC
+C0376452||promoter methylation
+C0025723||methylation
+C3494189||specific multiplex ligation-dependent probe amplification
+C3494189||methylation - specific multiplex ligation-dependent probe amplification
+C1510438||assay
+C2711483||formalin-fixed paraffin embedded (FFPE) breast tissue
+C0162832||APC
+C0376452||promoter methylation
+C0442726||detected
+C0006142||breast cancer
+C0040300||tissues
+C0376571||BRCA1
+C0376452||methylated
+C1458155||breast tumors
+C0376452||Methylation
+C0162832||APC
+C0456201||histological grade
+C0376452||methylation
+C0376571||BRCA1
+C0024204||lymph node
+C4255448||metastasis
+C0243095||findings
+C0376452||methylation
+C0162832||APC
+C0376571||BRCA1
+C0005516||predictive marker
+C0596473||early detection
+C0376636||management
+C0006142||breast cancer

@@ -1,0 +1,44 @@
+C0024032||Low birth weight
+C1842981||neuroticism
+C0525045||mood disorder
+C0679646||participants
+C0041700||UK
+C0206512||Biobank
+C0599755||cohort
+C0024032||Low birth weight
+C0001723||affective disorders
+C1269683||major depressive disorder
+C1269683||major depressive disorder
+C2603343||studies
+C0005586||bipolar disorder
+C0005586||bipolar disorder
+C0233849||personality traits
+C0001723||affective disorders
+C1842981||neuroticism
+C0599755||cohorts
+C0282666||very low birth weight
+C0024032||low birth weight
+C0564512||higher neuroticism
+C1269683||major depressive disorder
+C0005586||bipolar disorder
+C0041700||UK
+C0206512||Biobank
+C0679646||participants
+C0025353||mental health
+C1269683||major depressive disorder
+C0005586||bipolar disorder
+C1842981||neuroticism
+C0034394||Eysenck Personality Inventory Neuroticism scale - Revised
+C0034394||EPIN-R
+C0456136||normal birth weight
+C0282666||very low
+C0024032||low birth weight
+C0564512||higher neuroticism
+C1269683||major depressive disorder
+C0005586||bipolar disorder
+C0683312||category
+C1269683||major depressive disorder
+C0564512||higher neuroticism
+C0694756||intrauterine
+C1720850||programming
+C0001723||affective disorders

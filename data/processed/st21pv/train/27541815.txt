@@ -1,0 +1,34 @@
+C1881977||Porous
+C0037107||Silicon
+C0009361||Colloidal Solutions
+C4082130||prepared
+C0009361||colloidal solutions
+C1881977||porous
+C0037107||silicon
+C0001963||methanol
+C0043047||water
+C0456389||size
+C1881977||porous
+C0678594||"cauliflower"-like structure
+C1881977||porous
+C0037107||silicon
+C0449379||interconnected
+C0456389||size
+C0205147||region
+C0043047||water
+C0043047||water
+C0020281||hydrogen peroxide
+C0020281||hydrogen peroxide
+C0180875||syringe filters
+C0456389||sizes
+C0043047||water
+C0750484||confirmed
+C0456389||size
+C1881977||porous
+C0037107||silicon
+C1881977||porous
+C0037107||silicon
+C0043047||water
+C2603343||studies
+C0005516||markers
+C0007634||living cells

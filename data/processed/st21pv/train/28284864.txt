@@ -1,0 +1,41 @@
+C4046052||theranostic
+C0056154||combretastain A-4
+C0002776||analogue
+C1254351||YK-5-252
+C3539878||triple negative breast cancer
+C0087111||treatment
+C3539878||triple negative breast cancer
+C3539878||triple negative breast cancer
+C1516225||cancer research
+C0019929||hormone receptors
+C0087111||treatment
+C0011900||diagnosis
+C1522449||radiation
+C3665472||chemotherapy
+C0281318||Anti-angiogenesis
+C3714653||vasculature
+C0027651||tumors
+C0056154||Combretastatin A-4
+C0056154||Combretastatin A-4
+C3714653||vasculature
+C0006826||cancers
+C0041348||tubulin
+C0600688||toxicity
+C0002776||analogues
+C0056154||Combretastatin A-4
+C0056154||Combretastatin A-4
+C0033262||prodrug
+C1254351||YK-5-252
+C1254351||drug
+C0056154||Combretastatin A-4
+C0017817||glutathione
+C0017817||GSH
+C0600688||toxicity
+C1254351||drug
+C0033262||prodrug
+C1254351||YK-5-252
+C0056154||Combretastatin A-4
+C0002776||analogue
+C0600688||toxicity
+C4046052||theranostics
+C0079595||imaging

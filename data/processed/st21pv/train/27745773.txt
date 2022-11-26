@@ -1,0 +1,64 @@
+C0011429||dentin
+C1947941||proteases
+C0010360||crosslinkers
+C0011429||dentin
+C1947941||proteases
+C0010360||crosslinkers
+C0314674||degradation
+C0011429||dentin
+C0009325||collagen
+C2603343||study
+C0010360||crosslinkers
+C0011429||dentin
+C1947941||protease
+C0243102||activity
+C0296481||Demineralized dentin beams
+C0017814||glutaraldehyde
+C0017814||GA1
+C0017814||glutaraldehyde
+C0017814||GA5
+C0772454||grape seed extract
+C0772454||GS1
+C0772454||grape seed extract
+C0772454||GS5
+C4047315||sumac berry extract
+C4047315||S
+C0010467||20μM curcumin
+C0010467||CR20
+C0010467||curcumin
+C0010467||CR200
+C0243095||Untreated
+C0296481||beams
+C0296481||beams
+C1439852||incubated
+C0358514||incubation media
+C0936012||analyze
+C0030956||telopeptide
+C1101784||ICTP
+C1173299||CTX
+C0030935||fragments
+C0623362||MMP
+C0284930||cathepsin K
+C0314674||degradation
+C1439852||incubation
+C0623362||MMP
+C1148560||activity
+C0296481||dentin beams
+C0623362||MMP
+C2717977||assay
+C0936012||analyzed
+C1173299||CTX
+C0011429||dentin
+C1101784||ICTP
+C0011429||dentin
+C0030935||fragments
+C1439852||incubation
+C0011429||dentin
+C0017814||GA5
+C0772454||GS5
+C0010467||CR200
+C1439852||incubation
+C0623362||MMP
+C1148560||activity
+C2603343||study
+C0010360||crosslinker

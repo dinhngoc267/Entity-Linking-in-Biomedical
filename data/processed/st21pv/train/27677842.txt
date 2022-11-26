@@ -1,0 +1,44 @@
+C1254351||drug
+C0032521||Monomethoxy-Poly(ethylene glycol)-Poly(ε-caprolactone)-Poly(D,L-lactide) (MPEG-PCLA) copolymers
+C0032521||Amphiphilic block copolymers
+C0085104||drug delivery systems
+C0032521||monomethoxy-poly (ethylene glycol)-poly (ε-caprolactone-co-D,L-lactide) (MPEG-PCLA) copolymers
+C0137734||poly (ε-caprolactone)
+C0137734||PCL
+C0071444||poly (D,L-lactide)
+C0071444||PDLLA
+C1880180||ring-opening copolymerization
+C0908527||ε-CL
+C0293984||D,L-LA
+C0066763||MPEG
+C0963887||stannous octoate
+C0678594||structure
+C0008559||gel permeation chromatography
+C0008559||gel permeation chromatography
+C0444626||crystallinity
+C0032521||amphiphilic MPEG-PCLA copolymers
+C1744269||PCLA
+C1254351||drug
+C0246415||Docetaxel
+C0246415||Docetaxel
+C0032521||Monomethoxy-Poly(ethylene glycol)-Poly(ε-caprolactone)-Poly(D,L-lactide)
+C0025938||micelles
+C0246415||Docetaxel
+C0032521||Monomethoxy-Poly(ethylene glycol)-Poly(ε-caprolactone)-Poly(D,L-lactide)
+C0025938||micelles
+C0032521||MPEG-PCL
+C0025938||micelles
+C0445115||normal saline
+C0246415||Docetaxel
+C0032521||Monomethoxy-Poly(ethylene glycol)-Poly(ε-caprolactone)-Poly(D,L-lactide)
+C0025938||micelles
+C0246415||Docetaxel
+C0246415||Docetaxel
+C0025938||micelles
+C0246415||Docetaxel
+C1515655||in vivo
+C0032521||MPEG-PCLA copolymer
+C0137734||PCL
+C0071444||PDLLA
+C0013161||drug delivery carrier
+C0246415||Docetaxel

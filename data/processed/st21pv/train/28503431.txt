@@ -1,0 +1,54 @@
+C0031928||pilot study
+C1096279||intraocular lens explantation
+C0015392||eyes
+C1096279||intraocular lens (IOL) explantation
+C0150093||non-comparative case series
+C1516606||Clinical data
+C0205908||preoperative
+C0009566||complications
+C0200150||visual acuity
+C0015392||eyes
+C0152035||Chinese
+C1096279||IOL explants
+C0221460||farmers
+C4076599||retired
+C0038492||students
+C0041674||unemployed
+C1527116||workers
+C0221457||teachers
+C0561946||explantation
+C0012691||dislocation
+C2609312||decentration
+C0035305||retinal detachment
+C1627355||incorrect lens power
+C0015392||eyes
+C0014236||endophthalmitis
+C1444680||posterior capsular opacity
+C0015392||eyes
+C0197770||retinal surgery operation
+C0271183||high myopia
+C0015392||eyes
+C3714660||trauma
+C0015392||eyes
+C0035305||retinal detachment
+C0015392||eyes
+C0009691||congenital cataracts
+C0015392||eyes
+C0024796||Marfan's syndrome
+C0015392||eyes
+C0032786||Treatment after explantation
+C1298763||posterior chamber IOL implantation
+C0015392||eyes
+C0003534||aphakia
+C0015392||eyes
+C0241311||After surgery
+C1690532||best corrected visual ability
+C1690532||best corrected visual ability
+C0042812||visual ability
+C0012691||Dislocation
+C2609312||decentration
+C0561946||explantation
+C0271183||high myopia
+C0035648||main risk factor
+C1298763||Posterior chamber IOL implantation
+C0032786||treatment after explantation

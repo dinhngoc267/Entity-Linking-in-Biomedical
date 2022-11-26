@@ -1,0 +1,112 @@
+C0026845||Group III/IV muscle
+C0027883||afferents
+C0442117||intramuscular
+C0444584||whole body
+C0086418||humans
+C2603343||study
+C1148554||determine
+C0026845||group III/IV muscle
+C0027883||afferents
+C0518031||endurance
+C1510438||assayed
+C0026845||muscle
+C0677862||biopsy samples
+C0023946||locomotor
+C0026845||muscle
+C0024090||Lumbar
+C1370196||intrathecal
+C0015846||fentanyl
+C0205099||central
+C0348018||projection
+C0066908||μ-opioid receptor
+C0023946||locomotor
+C0026845||muscle
+C0027883||afferents
+C0008976||trial
+C0243095||findings
+C0205099||central
+C0348018||projection
+C0026845||group III/IV muscle
+C0027883||afferent
+C0678663||feedback
+C0013126||drive
+C0023946||locomotor
+C0026845||muscle
+C0442117||intramuscular
+C3714787||CNS
+C1327622||regulate
+C0023946||locomotor
+C0026845||muscle
+C0205100||peripheral
+C0015672||fatigue
+C0026845||group III/IV muscle
+C0027883||afferents
+C1327622||regulatory
+C0023946||locomotor
+C0026845||muscle
+C0442117||intramuscular
+C0025519||metabo
+C0026845||group III/IV muscle
+C0027883||afferents
+C0442117||intramuscular
+C0444584||whole body
+C0518031||endurance
+C0008976||trials
+C2911690||under control conditions
+C2911690||control conditions
+C0024090||lumbar
+C1370196||intrathecal
+C0015846||fentanyl
+C0023216||lower limb
+C0026845||muscle
+C0027883||afferent
+C0678663||feedback
+C0678663||FENT
+C0224444||Vastus lateralis
+C0026845||muscle
+C0677862||biopsies
+C0026609||Motoneuronal
+C0204709||output was estimated
+C0224444||vastus lateralis surface
+C0013839||electromyography
+C0013839||electromyography
+C0442117||intramuscular
+C0870883||metabolites
+C1148554||determine
+C1720784||gas chromatography-mass spectrometry
+C0224440||Quadriceps
+C0015672||fatigue
+C0015808||femoral nerve
+C1292856||stimulation
+C0026609||motoneuronal
+C0678663||FENT
+C2911690||control conditions
+C0008976||trial
+C2911690||control conditions
+C0678663||FENT
+C0008976||trial
+C0442117||intramuscular
+C0031603||inorganic phosphate
+C0033727||H(+)
+C0001459||adenosine diphosphate
+C0022924||lactate
+C0031634||phosphocreatine
+C0678663||FENT
+C2911690||control conditions
+C0678663||FENT
+C2911690||control conditions
+C1446409||positively
+C0031603||inorganic phosphate
+C0444584||whole body
+C0026845||group III/IV muscle
+C0027883||afferents
+C0678663||feedback
+C3714787||CNS
+C0026609||motoneuronal
+C0242692||skeletal muscle
+C1327622||regulatory
+C0442117||intramuscular
+C4022950||abnormal homeostatic
+C0805586||challenge
+C0205100||peripheral
+C0015672||fatigue

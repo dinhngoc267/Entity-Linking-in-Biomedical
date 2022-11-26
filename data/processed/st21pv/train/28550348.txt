@@ -1,0 +1,28 @@
+C0001792||older
+C0019993||hospitalisation
+C2239117||prescribing
+C0019993||hospitalisation
+C0004340||Australia
+C0018017||Objective
+C0220825||evaluate
+C0184666||admission to hospital
+C1708333||General medical units
+C0337954||tertiary care hospital
+C0004340||Australia
+C2985505||Retrospective cohort study
+C2081612||Medication
+C0282574||Medication Regimen Complexity Index
+C0282574||Medication Regimen Complexity Index
+C0282574||Medication Regimen Complexity Index
+C3166216||prescribed medications
+C0019993||hospitalization
+C0456984||Results
+C0150095||convenience sample
+C2603343||study
+C2081612||medication
+C0282574||Medication Regimen Complexity Index
+C0282574||Medication Regimen Complexity Index
+C2081612||medication
+C0019993||pre-hospitalization
+C2081612||medication
+C0019993||hospitalisation

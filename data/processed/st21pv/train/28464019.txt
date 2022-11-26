@@ -1,0 +1,62 @@
+C0043299||Radiologic assessment
+C0035848||root canal fillings
+C0729269||periapical status
+C0337795||Austrian
+C1257890||subpopulation
+C1518527||observational study
+C0700632||endodontic techniques
+C0035849||root canal therapy
+C0031082||periodical
+C0920316||documentation
+C1518527||observational study
+C0700632||endodontic treatments,
+C0729269||periapical status
+C0337795||Austrian
+C1257890||subpopulation
+C0034579||orthopantomograms
+C0020028||university
+C1306645||radiographed
+C0029916||outpatient clinic
+C0220825||evaluated
+C0040426||tooth
+C0150312||presence
+C0031028||periradicular pathosis
+C0700632||endodontic treatment
+C0700632||endodontic treatment
+C0035848||root canal fillings
+C2938896||preparation failures
+C0183062||posts
+C0301559||screws
+C0003571||apicoectomies
+C0204297||coronal restorations
+C1707957||evaluators
+C0150108||blinded
+C0040426||teeth
+C0040426||teeth
+C0031028||periapical pathosis
+C0040426||teeth
+C0035849||root canal treatment
+C0376699||endodontically treated teeth
+C4082298||apical periodontitis
+C1290664||widened periodontal ligament space
+C0035848||root canal fillings
+C0150312||presence
+C0524789||apical
+C0012634||pathosis
+C0035848||root canal fillings
+C0183062||Posts
+C0301559||screws
+C0729269||periapical status
+C0376699||endodontically treated posterior teeth
+C0565067||restored
+C0183062||posts
+C0301559||screws
+C0040426||teeth
+C0700632||endodontic treatment
+C0204297||coronal restoration
+C1852169||periradicular radiolucencies
+C0040426||root canal filled teeth
+C0087111||treatment
+C0729269||Periapical
+C0035848||root canal obturation
+C0729269||periapical

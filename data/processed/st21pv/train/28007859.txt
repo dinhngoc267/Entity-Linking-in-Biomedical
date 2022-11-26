@@ -1,0 +1,17 @@
+C0302523||Observations
+C1514892||Heteroresistant
+C0042313||Vancomycin-Intermediate
+C1265292||Methicillin-Resistant Staphylococcus aureus Strains
+C0021201||South India
+C2348746||genome sequences
+C1514892||heteroresistant
+C1318880||vancomycin-intermediate Staphylococcus aureus (hVISA) strains
+C2316160||bloodstream infection
+C0026882||mutations
+C0017337||vraSR
+C0017337||graSR
+C0017337||walKR
+C0017337||tcaRAB
+C0026882||mutated
+C0017337||genes
+C1318880||heteroresistant vancomycin-intermediate Staphylococcus aureus

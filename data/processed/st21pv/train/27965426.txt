@@ -1,0 +1,50 @@
+C0070948||phosphotyrosine
+C0868995||network analysis
+C1519726||tyrosine phosphorylation
+C0290178||Polo-like kinase 1
+C0290178||Polo-like kinase 1
+C1519726||Tyrosine phosphorylation
+C0596290||cell proliferation
+C0007586||cell cycle
+C1519253||serine and threonine phosphorylation
+C0031715||phosphorylation
+C3893712||mitotic phase
+C0007586||cell cycle
+C0070948||phosphotyrosine
+C0070948||phosphotyrosine
+C0205145||sites
+C0332128||examined
+C1519726||tyrosine phosphorylation
+C0230518||mitotic human cells
+C0033684||spindle-associated proteins
+C0070948||phosphotyrosine
+C0205145||sites
+C0868995||network analysis
+C0033684||tyrosine-phosphorylated proteins
+C0242609||kinetochore
+C1166795||spindle
+C0282625||SRC family kinases
+C0290178||Polo-like kinase 1
+C0290178||Polo-like kinase 1
+C3537152||signaling
+C1166795||spindle
+C1519061||phosphorylated
+C0041485||Tyr(217)
+C1519724||kinase domain
+C0525038||Substitution
+C0041485||Tyr(217)
+C0290178||Polo-like kinase 1
+C0007634||cells
+C0936012||analysis
+C0041485||Tyr(217)
+C0031715||phosphorylation
+C1158892||phosphorylation of Thr(210)
+C0445022||activation loop
+C0031715||phosphorylation
+C0290178||Polo-like kinase 1
+C1519726||tyrosine phosphorylation
+C0072402||serine/threonine kinase
+C0230518||mitotic cells
+C1519726||tyrosine phosphorylation
+C0243092||structures
+C0007586||cell cycle

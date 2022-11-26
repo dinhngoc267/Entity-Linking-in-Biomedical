@@ -1,0 +1,68 @@
+C0679083||Numerical simulation
+C0597177||emitted particle
+C0458827||airway
+C1378698||distribution
+C1735945||Symbicort(®) Turbuhaler(®)
+C0032861||dry powder
+C0013162||combination
+C1112870||aerosol drug
+C0032861||dry powder
+C0013162||combinations
+C0004096||asthma
+C0024117||chronic obstructive pulmonary disease
+C0024117||chronic obstructive pulmonary disease
+C0376636||management
+C1735945||Symbicort(®) Turbuhaler(®)
+C2603343||study
+C0679083||simulate
+C1378698||distribution
+C1254351||drug
+C0458827||airways
+C0004048||Breathing
+C0686750||healthy adults
+C0004048||inhaling
+C1553479||Turbuhaler(®)
+C0027361||Individual
+C1378698||distributions
+C1735945||Symbicort(®) Turbuhaler(®)
+C0597177||particle
+C3161035||model
+C0679083||simulate
+C0054201||budesonide
+C1629043||inhaled corticosteroid
+C1629043||ICS
+C0060657||formoterol
+C2987634||long acting β2 agonist
+C2987634||LABA
+C0225377||upper airways
+C0024109||lungs
+C1708335||healthy volunteers
+C0679083||simulations
+C1629043||ICS
+C2987634||LABA
+C0027361||individual
+C0231832||inhalation flow rate
+C0027361||individual
+C0024109||lung
+C0054201||budesonide
+C0060657||formoterol
+C0024109||lung
+C0054201||budesonide
+C0060657||formoterol
+C0235744||breath-holding
+C0004048||inhalation
+C1254351||drug
+C0024109||lung
+C0235744||breath-hold
+C0235744||breath-hold
+C0024109||lung
+C1735945||Symbicort(®) Turbuhaler(®)
+C1998547||optimal inhalation technique
+C0027361||persons
+C0476408||low vital capacity
+C2603343||study
+C0458827||airway
+C1112870||aerosol drugs
+C0679083||numerical simulations
+C2603343||study
+C1254351||drugs

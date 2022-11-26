@@ -1,0 +1,19 @@
+C0037589||Cloud-based MOTIFSIM
+C0442726||Detecting
+C3178798||DNA Motif
+C0150098||Data Sets
+C0037589||cloud-based MOTIFSIM
+C0037589||tool
+C0333052||version
+C0037589||web-based tool version 2.0
+C0002045||algorithm
+C0442726||detecting
+C3178798||DNA motif
+C0150098||data sets
+C0333052||version
+C0035173||researchers
+C0442726||detect
+C3178798||DNA motif
+C0150098||data sets
+C2936622||next-generation sequencing technology
+C0037589||tool

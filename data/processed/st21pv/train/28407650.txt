@@ -1,0 +1,54 @@
+C0338053||Sexually Transmitted Disease Clinic
+C1301808||State
+C0035487||Rhode Island
+C2936611||Patient Protection and Affordable Care Act
+C1301808||state's
+C0220825||evaluated
+C0243095||barriers
+C0021682||insurance
+C1704289||services
+C0035487||Rhode Island
+C0338053||sexually transmitted disease (STD) clinic
+C0936012||analyzed
+C0036916||sexually transmitted disease
+C1704289||services
+C0087134||uninsured
+C0087134||without insurance
+C0021682||insurance
+C0087134||uninsured
+C0086409||Hispanic
+C0086528||Latino/a
+C0025266||men
+C0009253||sex
+C0025266||men
+C0021682||health insurance
+C2936611||Affordable Care Act
+C0087134||uninsured
+C0087134||uninsured individuals
+C0243095||barriers
+C0021682||health insurance
+C0041674||unemployment
+C0600109||willingness
+C0021682||insurance
+C0036916||sexually transmitted disease
+C1704289||services
+C0243095||Barriers
+C0021682||insurance
+C0021682||insurance
+C0237401||individuals
+C0035487||Rhode Island
+C0338053||STD Clinic
+C0087134||uninsured
+C0243095||barriers
+C0021682||insurance
+C0338053||STD clinics
+C3658319||safety-net
+C0036916||sexually transmitted disease
+C1704289||services
+C1301808||states
+C0087134||uninsured
+C0678367||public
+C0679727||private
+C0021675||insurers
+C0678594||structures
+C1704289||services

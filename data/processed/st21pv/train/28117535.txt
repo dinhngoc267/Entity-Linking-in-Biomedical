@@ -1,0 +1,44 @@
+C0019018||HbA1c
+C1513158||metabolic control
+C0237401||individual
+C0011854||type 1 diabetes mellitus
+C1513158||metabolic control
+C0011854||type 1 diabetes
+C1513158||metabolic control
+C0449381||parameters
+C3839839||pediatric care
+C0150544||diabetes care
+C0011900||diagnosis
+C0019018||HbA1c
+C0449381||parameters
+C0282574||Swedish pediatric quality registry, SWEDIABKIDS
+C0150544||diabetes care
+C0019018||HbA1c
+C1257890||group
+C0011900||diagnosis
+C1513158||metabolic control
+C0019018||HbA1c
+C1257890||group
+C0011900||diagnosis
+C0019018||HbA1c
+C1522577||follow-up
+C0237401||individual
+C1273937||no significant
+C0019018||HbA1c
+C1522577||follow-up
+C1522577||follow-up
+C1257890||group
+C0337664||smokers
+C0556453||physically active
+C0035309||retinopathy
+C1257890||group
+C0019018||HbA1c
+C0019018||HbA1c
+C1522577||follow-up
+C1257890||group
+C1513158||metabolic control
+C0237401||individual
+C0011847||diabetes
+C0011900||diagnosis
+C0018017||goals
+C1513158||metabolic control

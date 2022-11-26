@@ -1,0 +1,47 @@
+C0199230||screening
+C0549473||thyroid cancer
+C0022773||Republic of Korea
+C0040132||thyroid
+C1611835||specialists
+C0030971||perspectives
+C0199230||Cancer screening
+C1306577||deaths
+C0006826||cancer
+C0549473||Thyroid-specific cancer
+C1710032||screening
+C1964257||observations
+C4055506||accumulated
+C0549473||thyroid cancer
+C1283218||provision
+C0034656||randomization
+C0599755||cohorts
+C1517942||long follow-up
+C1516221||prognosis of the cancer
+C0549473||thyroid cancer
+C0199230||screening
+C0549473||thyroid cancer
+C0199230||screening
+C0549473||cancer
+C0549473||thyroid cancer
+C0027651||tumors
+C0442726||detected
+C1300072||treatable stage
+C0027627||metastatic disease
+C0543467||surgery
+C2242640||thyroid replacement therapy
+C1522577||follow-up
+C0203778||RAI administration
+C2983699||risk factor assessments
+C1444481||case findings
+C0162791||Korean guidelines
+C0549473||thyroid cancer
+C0220908||screening
+C0729737||multidisciplinary thyroid experts
+C0549473||thyroid cancer
+C0199230||screening
+C0035168||research
+C0936012||analysis
+C0220908||screening
+C0679646||participants
+C0679006||to make decisions
+C0549473||thyroid cancer

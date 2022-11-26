@@ -1,0 +1,58 @@
+C1844666||Immune dysregulation
+C0005586||bipolar
+C0229671||serum
+C0018284||growth factors
+C1844666||Immune dysregulation
+C0525045||mood disorders
+C0018284||growth factors
+C0143630||Stem Cell Factor
+C0143630||Stem Cell Factor
+C0123257||Insulin-like Growth Factor-Binding Protein-2
+C0123257||Insulin-like Growth Factor-Binding Protein-2
+C0242275||Epidermal Growth Factor
+C0242275||Epidermal Growth Factor
+C0021761||IL-7
+C0487019||sCD25
+C0525045||mood disorders
+C2603343||study
+C0018284||factors
+C0229671||serum
+C0005586||bipolar
+C0525045||mood disorder
+C0936012||analyze
+C1704324||published data
+C0018284||Growth factors
+C0005507||CBA
+C0014441||ELISA
+C0005586||bipolar
+C0242275||Epidermal Growth Factor
+C0132298||neurotrophic compounds
+C3711149||S100B
+C3486709||BDNF
+C0229671||serum
+C0021761||IL-7
+C0143630||Stem Cell Factor
+C0123257||Insulin-like Growth Factor-Binding Protein-2
+C0487019||sCD25
+C0018284||growth factors
+C0123257||Insulin-like Growth Factor-Binding Protein-2
+C0229671||serum
+C0525045||mood disorder
+C0021761||IL-7
+C0143630||Stem Cell Factor
+C0229671||serum
+C0596545||expirienced
+C0525045||mood episode
+C0449774||pattern
+C0005586||bipolar
+C0525045||mood disorder
+C0123257||Insulin-like Growth Factor-Binding Protein-2
+C0525045||mood disorder
+C1704324||published
+C4023612||immune-cellular abnormalities
+C0525045||mood disorder
+C0449774||pattern
+C0018284||compounds
+C0018951||hematopoiesis
+C0814002||neurogenesis
+C0021368||inflammation

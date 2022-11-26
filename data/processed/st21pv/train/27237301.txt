@@ -1,0 +1,51 @@
+C2826293||Clinical value
+C4086729||pathologic examination
+C0022646||non-neoplastic kidney
+C1278977||upper urinary tract
+C4282132||malignancies
+C0728940||surgical resection
+C0087111||treatment
+C1278977||upper urinary tract
+C4282132||malignancies
+C0027695||nephrectomy
+C0035648||risk factor
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C2603343||study
+C0220825||evaluation
+C0022646||non-neoplastic kidney
+C0022658||kidney disease
+C0220901||prognostic
+C0022646||renal
+C0035363||retrospectively analyzed
+C1278977||upper urinary tract
+C4282132||malignancies
+C0027695||uninephrectomy
+C0027732||uninephroureterectomy
+C0220825||evaluation
+C0022646||non-neoplastic kidney
+C2038188||special stains
+C0079603||immunofluorescence
+C0026019||electron microscopic studies
+C0933845||parenchymal
+C0022646||kidney
+C0030664||pathology
+C0011881||diabetic nephropathy
+C0005847||vascular
+C0027695||nephropathy
+C3495566||reflux nephropathy
+C0085697||chronic pyelonephritis
+C3811844||estimated glomerular filtration rate
+C3811844||estimated glomerular filtration rate
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C0035648||risk factors
+C1561643||chronic kidney disease
+C0034980||Cox regression analysis
+C2609414||AKI
+C3811844||estimated glomerular filtration rate
+C0022646||non-neoplastic kidney
+C1561643||chronic kidney disease
+C0220825||evaluation
+C0022646||non-neoplastic kidney
+C0220901||prognostic

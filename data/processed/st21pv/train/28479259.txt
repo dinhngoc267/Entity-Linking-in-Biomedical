@@ -1,0 +1,12 @@
+C0002395||Alzheimer's disease
+C2349001||subjects
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0012727||center of foot pressure displacement
+C1257890||AA group's
+C1282910||superior
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0080105||active AD subjects
+C1282910||superior
+C1708335||healthy subjects

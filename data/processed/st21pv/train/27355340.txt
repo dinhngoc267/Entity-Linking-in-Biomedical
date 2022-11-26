@@ -1,0 +1,57 @@
+C0022885||Proximal Soil Sensing
+C1705920||Species
+C0871648||Habitat
+C0870071||Modelling
+C0086194||Earthworms
+C0562975||Agricultural
+C0086194||Earthworms
+C0021212||indicators
+C0086194||earthworms
+C0086194||earthworm
+C0562975||fields
+C0022885||proximal soil sensing
+C0022885||proximal soil sensing
+C0282574||sensing principles
+C0022885||proximal soil sensing
+C0086194||earthworm
+C0871648||habitats
+C2603343||study
+C0022885||proximal soil sensing
+C0086194||earthworm
+C1705920||species
+C3161035||models
+C0562975||agricultural
+C0022885||Proximal soil sensing
+C0376519||near infrared absorbance
+C0376519||near infrared absorbance
+C0562975||field
+C0022885||proximal soil sensing
+C0302523||observations
+C0086194||earthworm
+C0562975||plots
+C0086194||Earthworms
+C1705920||species
+C0086194||earthworm
+C0086194||earthworm
+C0086194||earthworm
+C3161035||models
+C3161035||state-space models
+C0870071||modelling
+C0376519||near infrared absorbance
+C0870071||modelling
+C0086194||earthworm
+C1705920||species
+C0871648||habitat
+C0086194||earthworms
+C0086194||Earthworm
+C1705920||species
+C0871648||habitat
+C0022885||proximal soil sensing
+C1705920||species
+C0243095||findings
+C0022885||proximal soil sensing
+C0870071||modelling
+C0086194||earthworm
+C1705920||species
+C0870071||modelling
+C0086194||earthworm

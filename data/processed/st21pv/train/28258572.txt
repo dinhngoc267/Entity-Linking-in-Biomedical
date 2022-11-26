@@ -1,0 +1,31 @@
+C1327622||Regulation
+C0599635||Aquaporins
+C0017471||Germ Cells
+C0017471||germ cells
+C2718310||gametes
+C1568405||oviparous
+C1510659||osmoregulatory
+C0178784||organs
+C0243107||development
+C0033213||challenges
+C0205101||external
+C0599635||transmembrane water channels
+C0599635||aquaporins
+C0242606||oxidative stress
+C0033213||problems
+C0243107||developing
+C0029045||oocytes
+C0013935||embryos
+C0037868||spermatozoa
+C0599635||aquaporin
+C1817179||molecular regulation
+C0599635||aquaporins
+C0029047||oogenesis
+C0037864||spermatogenesis
+C0599635||channels
+C0029974||egg
+C1622066||buoyancy
+C0150543||detoxification
+C0037868||spermatozoa
+C0036493||marine
+C0014406||environment

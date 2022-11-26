@@ -1,0 +1,40 @@
+C0436307||chemoradiotherapy
+C0278996||locally advanced head and neck cancer
+C3178775||Concurrent chemoradiotherapy
+C3178775||chemoradiotherapy
+C2936643||standard of care
+C0205145||sites
+C1168401||locally advanced head and neck squamous cell carcinomas
+C1168401||locally advanced head and neck squamous cell carcinomas
+C0920317||meta-analysis
+C3665472||chemotherapy
+C0001792||elderly
+C3178775||chemoradiotherapy
+C0600688||toxicity
+C2607850||single-institution
+C2346499||IRB-approved
+C0035363||retrospective study
+C3178775||chemoradiotherapy
+C1168401||locally advanced head and neck squamous cell carcinomas
+C0026348||Multivariate models
+C1306577||death
+C1306577||death
+C0206031||logistic regression
+C0870071||Cox modeling
+C0008838||cisplatin
+C0079083||carboplatin
+C0600688||toxicity
+C0087111||treatment
+C0019993||hospitalizations
+C0087111||PEG removal
+C1522577||follow-up
+C1306577||death
+C3178775||chemoradiotherapy
+C1306577||death
+C3178775||chemoradiotherapy
+C3665472||chemotherapy
+C0019993||hospitalization
+C0087111||treatment
+C3178775||chemoradiotherapy
+C0436307||chemoradiotherapy
+C0001792||elderly

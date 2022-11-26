@@ -1,0 +1,33 @@
+C0035648||cardiometabolic risk factors
+C0007222||cardiovascular disease
+C1556095||Korean population
+C0022771||Korea
+C0376344||national health and nutrition examination survey
+C0007222||cardiovascular diseases
+C0034394||International Physical Activity Questionnaire
+C0034394||International Physical Activity Questionnaire
+C0936012||analyze
+C0007222||cardiovascular diseases
+C0022771||Korean
+C0376344||National Health and Nutrition Examination Survey
+C0020538||hypertension
+C0011849||diabetes mellitus
+C4076066||serum ferritin
+C4314193||parathyroid hormone
+C1860130||alkaline phosphatase
+C0872084||Sarcopenia
+C0041667||underweight
+C0311277||central obesity
+C0007222||cardiovascular diseases
+C0012634||underlying disease
+C0028754||general
+C0311277||abdominal obesity
+C0240417||muscle mass
+C0007222||cardiovascular diseases
+C0018843||stroke
+C0027051||myocardial infarction
+C0340288||stable angina
+C1561643||chronic renal disease
+C0035648||risk factors
+C1556095||Korean population
+C1446409||positive

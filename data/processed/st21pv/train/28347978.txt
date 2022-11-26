@@ -1,0 +1,68 @@
+C0442108||Intra-articular
+C0021107||implantation
+C0009325||collagen
+C0025080||carriers
+C0557723||safe
+C1142253||arthrofibrotic
+C3887509||rabbit
+C0022745||knee joints
+C0442108||intra-articular
+C0557723||safe
+C0025080||carrier
+C0549421||cartilage damage
+C0016059||fibrosis
+C0009325||Collagen
+C0442108||intra-articularly
+C0220825||investigation
+C0009325||collagen
+C0224507||synovial joints
+C2603343||study
+C0009325||collagen
+C0021107||implantation
+C1519941||validated
+C1515655||in vivo
+C0003062||animal
+C1142253||knee arthrofibrosis
+C3887509||rabbits
+C0185160||arthrotomy
+C0185160||arthrotomy
+C0009325||collagen
+C0441587||placement
+C0009918||contracture
+C0543467||surgery
+C0009918||contracture
+C0543467||surgery
+C0009325||collagen
+C0441587||placement
+C0003062||Animals
+C0009918||Joint contracture
+C0007301||cartilage
+C0002778||histological analysis
+C0003062||Animals
+C0185160||arthrotomy
+C0009918||joint contractures
+C0021107||implantation
+C0003062||Animals
+C0543467||surgery
+C0009918||contracture
+C0009918||joint contracture s
+C0009325||collagen
+C0021107||implantation
+C0442012||Chondral
+C0021107||implantation
+C0039103||synovitis
+C0009325||collagen
+C0003062||animals
+C0442108||intra-articular
+C0021107||implantation
+C0009325||collagen
+C0039103||synovitis
+C0549421||cartilage damage
+C0021107||Implantation
+C0022745||joint
+C0009918||contracture
+C0021107||Implantation
+C0009325||collagen
+C3887509||rabbit
+C0009918||contracture
+C0009918||contracture

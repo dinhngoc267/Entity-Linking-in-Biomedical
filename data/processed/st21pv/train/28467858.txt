@@ -1,0 +1,40 @@
+C0243095||ANTI ANGIOGENIC EFFECT
+C0653267||CHEBULAGIC ACID
+C3549205||VEGFR2
+C0037080||GSK3β DEPENDENT SIGNALING PATHWAYS
+C0302600||angiogenesis
+C1516170||cancer growth
+C0005847||vessels
+C0597032||tumor cells
+C0225336||Endothelial cells
+C0037080||pathways
+C0302600||angiogenesis
+C0037080||pathways
+C1254351||multi targeted drugs
+C0243095||anti angiogenic effect
+C0653267||Chebulagic acid
+C0005078||benzopyran
+C1456509||tannin
+C0016767||fruits
+C1193061||Terminalia chebula
+C3537153||molecular mechanism
+C0243095||anti angiogenic effect
+C0653267||chebulagic acid
+C3494274||molecular docking studies
+C3179121||HUVECs
+C0007585||culture
+C0653267||Chebulagic acid
+C0244988||GSK-3β
+C0105770||β-catenin
+C1158886||phosphorylation
+C0300423||VE-cadherin
+C0105770||β-catenin
+C0037080||signaling
+C3849882||VEGFR2
+C1158886||phosphorylation
+C3271788||VEGF signaling
+C0653267||Chebulagic acid
+C0302600||angiogenesis
+C1256770||VEGF
+C3849882||VEGFR2
+C0037080||cell-cell contact dependent downstream signaling pathway

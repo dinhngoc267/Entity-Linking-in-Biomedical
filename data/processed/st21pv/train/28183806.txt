@@ -1,0 +1,38 @@
+C0027363||Commissioning
+C1556083||English
+C0027462||National Health Service
+C0949415||qualitative study
+C0027363||clinical commissioning groups
+C0027462||National Health Service
+C0027462||National Health Service
+C0027462||National Health Service
+C0282574||England's policy document
+C0282574||Five Year Forward View
+C0282574||5YFV
+C0600657||legislation
+C0949415||commissioners
+C0220905||regulatory framework
+C0085973||case studies
+C0027363||clinical commissioning groups
+C0936012||documentary analysis
+C0949415||commissioners
+C0335141||senior managers
+C0027363||commissioning
+C0033282||organisations
+C0335141||senior managers
+C0027462||National Health Service
+C1273814||independent provider organisations
+C0009482||acute and community services
+C0949415||commissioners
+C0220905||regulatory regime
+C0027462||National Health Service
+C0220905||regulatory authorities
+C0949415||commissioners
+C0949415||commissioners
+C0034379||quality of care
+C0949415||Commissioners
+C0027462||National Health Service
+C0220905||regulatory framework
+C0034036||publication
+C0282574||5YFV
+C0220905||regulatory authorities

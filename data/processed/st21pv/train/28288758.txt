@@ -1,0 +1,72 @@
+C0449774||patterns
+C0007452||bovine
+C0005146||besnoitiosis
+C0175923||beef cattle
+C0007452||Bovine
+C0005146||besnoitiosis
+C0030499||parasitic disease
+C0033739||protozoan
+C0320701||Besnoitia besnoiti
+C0002783||epidemiological studies
+C0015176||Europe
+C0242781||transmission
+C0035648||risk factors
+C0009449||appropriate disease control
+C0009457||programmes
+C2603343||study
+C0449774||pattern
+C0012634||disease
+C0037747||Spanish
+C0442533||Pyrenees
+C3714514||infection
+C0012634||clinical disease
+C0681876||study population
+C0324052||Brown Swiss
+C0007452||Pirenaica
+C3668829||calves
+C0005615||born
+C0420986||weaned
+C0557759||farm
+C2603343||study
+C0442533||mountain
+C0563004||valley
+C0003062||animals
+C1704650||breed
+C0010995||data collection
+C0007452||bovine
+C0005146||besnoitiosis
+C0016318||immunofluorescent antibody testing
+C0178913||blood samples
+C0003062||animals
+C3714514||infections
+C0442726||detected
+C0442533||mountain
+C0563004||valley
+C3714514||infections
+C0003062||animal
+C0442533||mountain
+C0563004||valley
+C0036744||seroepidemiological study
+C0320701||B. besnoiti
+C3714514||infection
+C0007452||cows
+C0003062||animal
+C4288956||horizontal transmission
+C0012634||disease
+C0150312||presence
+C3540840||clinical signs
+C0003261||antibody responses
+C3668829||calves
+C0043084||weaning
+C0600367||seroprevalence
+C0003062||animals
+C0320701||B. besnoiti
+C3714514||infect
+C0012634||disease
+C0003062||animals
+C3668829||calf
+C0007452||cows
+C0242781||transmission
+C0007452||dams
+C3668829||offspring
+C0003068||suckling

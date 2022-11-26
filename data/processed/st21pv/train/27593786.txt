@@ -1,0 +1,43 @@
+C0557351||Employing
+C0183817||Electronic Traction Table
+C0410702||Adolescent Idiopathic Scoliosis
+C2603343||study
+C0220825||assessment
+C0037949||spine
+C0410702||adolescent idiopathic scoliosis
+C0410702||adolescent idiopathic scoliosis
+C0543467||surgical
+C0410702||adolescent idiopathic scoliosis
+C0205095||posterior
+C0919636||instrumented spinal fusion
+C0442592||clinic
+C2603343||study
+C0183817||Electronic Traction Table
+C0183817||Electronic Traction Table
+C0442592||clinic
+C0037949||spine
+C0563192||Cobb angles
+C0205127||longitudinal
+C0040597||traction
+C0563192||lateral pushing Cobb angles
+C0205127||Longitudinal
+C0040597||traction
+C0563192||lateral pushing angles
+C0205127||longitudinal
+C0040597||traction
+C0563192||Cobb angle
+C0205127||longitudinal
+C0040597||traction
+C0563192||lateral pushing minor Cobb angle
+C0563192||postoperative minor Cobb angles
+C0302142||deformity
+C0040597||tractional
+C0543467||operation
+C0183817||Electronic traction table
+C0025080||device
+C0205127||longitudinal
+C0040597||traction
+C1306645||lateral pushing radiographs
+C0205107||proximal
+C0205108||distal
+C0037949||vertebral column

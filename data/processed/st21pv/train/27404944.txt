@@ -1,0 +1,61 @@
+C0037088||Clinical Features
+C0009566||Complications
+C0019740||HLA-B27
+C0701807||Acute Anterior Uveitis
+C0920317||Metanalysis
+C1706852||article
+C0023866||literature-based
+C0920317||metanalysis
+C0037088||clinical features
+C0019740||HLA-B27
+C0701807||Acute Anterior Uveitis
+C0701807||Acute Anterior Uveitis
+C0332128||examined
+C1518527||observational studies
+C0679646||participants
+C0701807||Acute Anterior Uveitis
+C0587081||HLA B27-
+C1706852||articles
+C0042164||HLA B27 uveitis
+C1706852||articles
+C1706852||articles
+C0936012||analyzed
+C0920317||metanalysis
+C0442893||systemic disease
+C0042812||visual acuity
+C0020641||hypopion
+C0015982||anterior chamber's fibrin
+C0234708||elevated intraocular pressure
+C0021888||intraocular pressure
+C0021368||inflammation
+C0017601||glaucoma
+C0152253||posterior synechiae
+C0086543||cataract
+C0024440||cystoid macular edema
+C0030353||papillitis
+C0019740||HLA B27
+C0701807||Acute Anterior Uveitis
+C0038013||ankylosing spondylitis
+C0442893||systemic diseases
+C0205092||unilateral
+C0238767||bilateral
+C0020641||hypopion
+C0033684||fibrinous
+C0030353||papillitis
+C0238767||bilateral
+C0701807||Acute Anterior Uveitis
+C0019740||HLA-B27
+C0205160||negative
+C0234708||elevated IOP
+C0017601||glaucoma
+C0701807||B27- Acute Anterior Uveitis
+C4285788||HLA B 27 positive
+C0205160||negative
+C0701807||Acute Anterior Uveitis
+C0042812||visual acuity
+C0009566||complications
+C0152253||posterior synechiae
+C0086543||cataract
+C0024440||maculare edema
+C4084924||clinical evaluation
+C0679006||decision

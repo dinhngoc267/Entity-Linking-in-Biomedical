@@ -1,0 +1,72 @@
+C0080179||Spine fracture
+C0041703||US
+C0043210||women
+C0025266||men
+C0376344||National Health and Nutrition Examination Survey
+C0376344||National Health and Nutrition Examination Survey
+C0080179||Spine fracture
+C0025266||men
+C0043210||women
+C0005938||bone mineral density
+C0005938||bone mineral density
+C1532547||spine imaging
+C0178693||subjects
+C0080179||spine fractures
+C0589402||unaware
+C0080179||Spine fractures
+C0080179||spine fracture
+C0010362||Cross-sectional analysis
+C0041703||US
+C0376344||National Health and Nutrition Examination Survey
+C0080179||Vertebral Fracture
+C0185141||Vertebral Fracture Assessment
+C0185141||Vertebral Fracture Assessment
+C0005938||bone mineral density
+C0029456||osteoporosis
+C0034394||questionnaire
+C0080179||spine fracture
+C0025266||men
+C0043210||women
+C0016658||Fractures
+C1257890||non-Hispanic whites
+C1305855||body mass index
+C0005938||bone mineral density
+C0178693||subjects
+C0080179||spine fracture
+C0005938||bone mineral density
+C0029456||osteoporosis
+C0178693||subjects
+C1532547||spine imaging
+C0080179||spine fracture
+C0011900||diagnosed
+C0185141||Vertebral Fracture Assessment
+C0681906||self-reported
+C0016658||fracture
+C0681906||self-reported
+C0080179||spine fracture
+C0011900||diagnosed
+C0016658||fracture
+C0185141||Vertebral Fracture Assessment
+C0080179||Spine fracture
+C0043210||women
+C0025266||men
+C0005938||bone mineral density
+C0178693||subjects
+C0080179||spine fracture
+C0005938||bone mineral density
+C0029456||osteoporosis
+C0237401||individuals
+C0589402||unaware
+C0080179||spine fractures
+C0205093||lateral
+C1532547||spine imaging
+C0043210||women
+C0025266||men
+C0080179||Spine fracture
+C0237401||individuals
+C1532547||spine imaging
+C0185141||Vertebral Fracture Assessment
+C0080179||spine fractures
+C0086930||risk assessment
+C0184511||improve
+C4042877||clinical decision making

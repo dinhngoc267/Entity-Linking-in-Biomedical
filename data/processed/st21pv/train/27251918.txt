@@ -1,0 +1,23 @@
+C0162563||catheter ablation
+C0376636||management
+C0004238||atrial fibrillation
+C0004238||Atrial fibrillation
+C1658783||electrical activation
+C0034090||pulmonary veins
+C0162563||Catheter ablation
+C0850292||radiofrequency
+C0010412||cryothermal energy
+C0034090||veins
+C0225860||left atrium
+C0004238||atrial fibrillation
+C1457887||symptoms
+C0162563||Catheter ablation
+C0003195||antiarryhthmic drugs
+C1715372||medical problems
+C0028754||obesity
+C0020538||hypertension
+C0520679||obstructive sleep apnoea
+C0547070||ablation
+C0087111||treatment
+C1457887||symptoms
+C0742724||procedural complications

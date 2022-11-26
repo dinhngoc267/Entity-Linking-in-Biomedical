@@ -1,0 +1,13 @@
+C0314627||Directing traffic on DNA
+C0040648||transcription factors
+C0598496||transcriptional interference
+C0598496||Transcriptional interference
+C0598496||Transcriptional interference
+C0205391||widespread
+C0017263||gene control
+C0040649||transcription
+C0079249||antisense
+C1708611||kingdoms
+C0040648||transcription factor
+C0040648||transcription factor
+C0598496||Transcriptional interference

@@ -1,0 +1,47 @@
+C0243092||Open-Cell Scaffolds
+C0036488||Sea Urchin
+C0005479||Spines
+C0185364||Bone Defect Repair
+C0036488||Sea urchin
+C0005479||spines
+C1003462||Heterocentrotus mammillatus
+C0243092||open-cell structure
+C0086418||human
+C0222660||trabecular bone
+C0185364||bone defect repair
+C0600552||Finite element analyses
+C0038435||stress
+C0971859||growth rings
+C0439742||dissipates
+C0700276||structures of the stereoms
+C0678594||mesostructures
+C0016658||fracture
+C0024467||magnesium
+C0106141||substituted tricalcium phosphate
+C0005479||(β-TCMP) scaffolds
+C0036488||urchin
+C0005479||spines
+C0086418||human
+C0222660||trabecular bone
+C0262950||bone
+C0205148||surfaces
+C0005479||β-TCMP scaffolds
+C0021107||implantation
+C3887509||rabbit
+C0015802||femoral defects
+C0971859||grows
+C1179886||open-cell spaces
+C0005479||scaffold
+C0005972||regenerative bone tissue
+C1293131||Fusion
+C0324306||beagle
+C0507372||lumbar facet joints
+C0076732||Ti-6Al-4V cage
+C0005479||β-TCMP scaffold
+C0005479||β-TCMP scaffold
+C0262950||bone
+C0021107||implantation
+C0036488||sea urchin
+C0005479||spines
+C0440261||artificial grafts
+C0185364||bone defect repair

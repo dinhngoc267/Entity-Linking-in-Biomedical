@@ -1,0 +1,38 @@
+C0022924||Lactate
+C1159974||osteoblast differentiation
+C1152620||stabilization
+C0965644||HIF1α
+C1159974||osteoblast differentiation
+C1520113||Wnt signaling
+C0030520||PTH
+C0022924||lactate
+C1159974||osteoblast differentiation
+C0007585||cultures
+C0029418||osteoblast-lineage cells
+C0022924||lactate
+C0002059||alkaline phosphatase
+C0007613||cell formation
+C0243102||activity
+C0002059||alkaline phosphatase
+C1171362||expression
+C0029419||osteocalcin
+C1159974||osteoblast differentiation
+C0022924||lactate
+C0007634||cells
+C3812715||MCT1
+C1099354||siRNA
+C0033671||inhibitors
+C0025519||metabolism
+C1099354||siRNAs
+C0022918||LDHB
+C0034343||PDH
+C0022924||lactate
+C0965644||HIF1α
+C1171362||expression
+C0965644||HIF1α
+C0033671||BAY87-2243
+C1159974||osteoblast differentiation
+C0022924||lactate
+C0243095||findings
+C1159974||osteoblast differentiation
+C0022924||lactate

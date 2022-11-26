@@ -1,0 +1,112 @@
+C0015684||Fatty Acids
+C0596843||Adipogenic Differentiation
+C0162597||Stromal Vascular Cells
+C1563742||Abdominal Fat
+C1622979||Laying
+C0008051||Hens
+C2603343||study
+C0015684||fatty acids
+C0015684||fatty acids
+C0017262||expression
+C0596843||adipogenic
+C1519595||transcripts
+C0596843||adipogenesis
+C0008051||chicken
+C0162597||stromal vascular cells
+C0162597||stromal vascular cells
+C0162597||stromal vascular cells
+C1665363||DMEM
+C3812213||FBS
+C0028928||oleic acid
+C0028928||oleic acid
+C3812213||FBS
+C0023749||linoleic acid
+C0023749||linoleic acid
+C3812213||FBS
+C0030234||palmitic acid
+C0030234||palmitic acid
+C3812213||FBS
+C0038229||stearic acid
+C0038229||stearic acid
+C3812213||FBS
+C0007634||cells
+C1665363||DMEM
+C0028928||oleic acid
+C0028928||oleic acid
+C0030234||palmitic acid
+C0030234||palmitic acid
+C0038229||stearic acid
+C0038229||stearic acid
+C0023749||linoleic acid
+C0023749||linoleic acid
+C0596843||Adipogenesis
+C1294000||Oil Red O staining
+C1151278||glycerol-3-phosphate dehydrogenase (GPDH) activity
+C0028928||oleic acid
+C0030234||palmitic acid
+C0038229||stearic acid
+C0162597||stromal vascular cells
+C3812213||FBS
+C0028928||oleic acid
+C0030234||palmitic acid
+C0038229||stearic acid
+C0596843||Adipogenesis
+C3812213||FBS
+C0028928||oleic acid
+C3812213||FBS
+C0023749||linoleic acid
+C3812213||FBS
+C0030234||palmitic acid
+C3812213||FBS
+C0038229||stearic acid
+C0028928||oleic acid
+C0023749||linoleic acid
+C0030234||palmitic acid
+C0038229||stearic acid
+C3812213||FBS
+C1151278||GPDH activity
+C3812213||FBS
+C0028928||oleic acid
+C3812213||FBS
+C0023749||linoleic acid
+C3812213||FBS
+C3812213||FBS
+C0017262||expression
+C1333527||FABP4
+C0035696||mRNA
+C3812213||FBS
+C0028928||oleic acid
+C3812213||FBS
+C0023749||linoleic acid
+C3812213||FBS
+C0030234||palmitic acid
+C1413322||C/EBPα
+C1413323||C/EBPβ
+C1538686||ATGL
+C3812213||FBS
+C0028928||oleic acid
+C3812213||FBS
+C0023749||linoleic acid
+C0007634||cells
+C0017262||Expression
+C1333527||FABP4
+C1413323||C/EBPβ
+C0035696||mRNA
+C0028928||oleic acid
+C0023749||linoleic acid
+C0030234||palmitic acid
+C0038229||stearic acid
+C3812213||FBS
+C0017262||expression
+C1538686||ATGL
+C1413322||C/EBPα
+C0028928||oleic acid
+C0023749||linoleic acid
+C3812213||FBS
+C0007634||cells
+C2825142||results
+C0015684||fatty acids
+C0596843||adipogenesis
+C0023749||linoleic acid
+C0015684||fatty acids
+C0150312||presence

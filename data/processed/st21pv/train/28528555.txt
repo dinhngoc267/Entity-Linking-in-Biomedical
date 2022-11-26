@@ -1,0 +1,28 @@
+C0015194||Evaluation
+C0451081||ADHD Cognitions Scale
+C0023866||clinical literature
+C1263846||ADHD
+C0009240||overly positive
+C0563183||optimistic cognitions
+C1257890||population
+C0035168||research
+C0023866||literature
+C0451081||ADHD Cognitions Scale
+C0451081||ADHD Cognitions Scale
+C2700446||self-report
+C1263846||ADHD
+C0039869||thoughts
+C2700446||self-report
+C0451081||ADHD Cognitions Scale
+C0451081||ADHD Cognitions Scale
+C0033213||time management problems
+C0231426||avoidant coping
+C2603343||study
+C0451081||ADHD Cognitions Scale
+C0562443||maladaptive
+C1263846||ADHD
+C0009240||cognitions
+C0009244||cognitive-behavioral treatment
+C2603343||study
+C0039869||thoughts
+C1263846||ADHD

@@ -1,0 +1,44 @@
+C0400855||retrograde intussusception
+C0002804||Roux-en-Y anastomosis
+C0017118||total gastrectomy
+C0282441||review of the literature
+C0017118||total gastrectomy
+C0372024||Roux-en-Y reconstruction
+C0699791||gastric cancer
+C0184666||admitted
+C0019994||hospital
+C0000737||abdominal pain
+C0000735||abdominal tumor
+C0018926||hematemesis
+C0809949||On admission
+C0232498||abdominal tenderness
+C0000735||abdominal tumor
+C0021368||Mild inflammatory
+C0002871||anemia
+C0000726||Abdominal
+C0040405||computed tomography
+C0027651||tumor
+C0000726||left abdomen
+C0011900||diagnosed
+C0021843||intestinal obstruction
+C0021933||intussusception
+C0543467||surgery
+C0400855||Retrograde intussusception
+C0002805||Y anastomosis
+C0185114||manual reduction
+C0087111||Hutchinson procedure
+C0021853||intestinal
+C0441610||reduction
+C1096244||intestinal resection
+C4304804||Postoperative recovery
+C0030685||discharged
+C0543467||surgery
+C0684224||Reports
+C0022378||jejunal
+C0021933||intussusception
+C0017118||total gastrectomy
+C0372024||Roux-en-Y reconstruction
+C0022378||jejunal
+C0021933||intussusception
+C0017118||total gastrectomy
+C0372024||Roux-en-Y reconstruction

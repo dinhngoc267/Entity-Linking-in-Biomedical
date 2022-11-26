@@ -1,0 +1,66 @@
+C0220825||Assessment
+C0025556||Rare Earth Elements
+C1527116||Workers
+C0007828||Cerium
+C0534702||Lanthanum Oxide
+C0077801||Ultrafine
+C0025556||rare earth elements
+C0025556||rare earth elements
+C1553183||inductively coupled plasma mass spectrometry
+C1553183||inductively coupled plasma mass spectrometry
+C1148554||determinate
+C0043432||Y
+C0534702||La
+C0007828||Ce
+C0032904||Pr
+C0027599||Nd
+C0036147||Sm
+C0015180||Eu
+C0016911||Gd
+C0039541||Tb
+C0013407||Dy
+C0019846||Ho
+C0014688||Er
+C0040066||Tm
+C0043431||Yb
+C0024170||Lu
+C1610733||urinary samples
+C1527116||workers
+C0077801||ultrafine
+C0007828||cerium
+C0534702||lanthanum oxide
+C0534702||La
+C0007828||Ce
+C0025556||rare earth elements
+C1527116||workers
+C1610733||urinary
+C0534702||La
+C0007828||Ce
+C1527116||workers
+C0010294||creatinine
+C0010294||creatinine
+C2603343||study
+C0237401||individual
+C0534702||La
+C0007828||Ce
+C0534702||La
+C0007828||Ce
+C1610733||urinary
+C0534702||La
+C0007828||Ce
+C0450429||locations
+C0534702||La
+C0007828||Ce
+C0450429||locations
+C0534702||La
+C0007828||Ce
+C1610733||urinary
+C1527116||workers
+C0450429||locations
+C0237401||individual
+C0534702||La
+C0007828||Ce
+C0042036||urine
+C0035173||researches
+C0025556||rare earth elements
+C1527116||workers

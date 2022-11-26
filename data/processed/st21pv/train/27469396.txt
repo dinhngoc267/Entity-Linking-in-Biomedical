@@ -1,0 +1,23 @@
+C0004930||Externalizing Behavior Disorders
+C0033920||Psychometric
+C0282574||Weiss Functional Impairment Rating Scale-Parent Report
+C0017480||German
+C0033920||psychometric
+C0017480||German
+C0282574||Weiss Functional Impairment Rating Scale-Parent Report
+C0282574||Weiss Functional Impairment Rating Scale-Parent Report
+C0004930||externalizing behavior disorders
+C0008976||clinical trials
+C1457887||symptoms
+C1263846||ADHD
+C0029121||oppositional defiant disorder
+C0029121||oppositional defiant disorder
+C3161035||bifactor model
+C2827421||general construct
+C3161035||Model
+C2827421||general construct
+C0282574||WFIRS-P Scales
+C1263846||ADHD
+C0029121||oppositional defiant disorder
+C1457887||symptoms
+C0282574||Weiss Functional Impairment Rating Scale-Parent Report

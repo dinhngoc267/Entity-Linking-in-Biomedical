@@ -1,0 +1,31 @@
+C0009566||Complications
+C0019144||Hepatectomy
+C1318453||Living-Related Liver Donation
+C0022277||Italian
+C0475309||Single Center
+C0684224||Report
+C0237401||individuals
+C0348050||liver living donors
+C0009566||complications
+C0543467||surgery
+C0009566||complications
+C0348050||living donor
+C0035363||retrospective study
+C0242356||database
+C0936012||analysis
+C0009566||complications
+C0475309||single center
+C0019144||liver resections
+C0348050||living-donor
+C0023911||liver transplantation
+C0348050||living donors
+C0543467||surgery
+C1513916||No
+C0348050||living donor
+C0009566||complication
+C0019144||hepatectomies
+C0220825||assessment
+C0348050||living donor
+C0009566||complications
+C0475309||center
+C0684224||reports

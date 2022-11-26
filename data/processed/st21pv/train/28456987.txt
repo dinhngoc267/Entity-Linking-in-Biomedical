@@ -1,0 +1,25 @@
+C2936622||Next-Generation Sequencing
+C0007613||Autophagy Lysosomal Pathway
+C0086418||Human
+C0012634||Disease
+C0442711||LysoPlex
+C2936622||Next-Generation Sequencing (NGS) technologies
+C0679560||genetic testing
+C1858576||heterogeneous
+C0012634||complex diseases
+C0017337||genes
+C1704259||pathways
+C0012634||disorders
+C1511897||gene-by-gene Sanger sequencing
+C2936622||Next-Generation Sequencing
+C0442711||protocol
+C0012854||DNA regions
+C0017337||genes
+C0007613||autophagy-lysosomal (ALP) pathway
+C0805586||challenges
+C0442711||protocol
+C0442711||LysoPlex
+C0017337||ALP genes
+C0442711||LysoPlex
+C2936622||Next-Generation Sequencing
+C0017337||ALP genes

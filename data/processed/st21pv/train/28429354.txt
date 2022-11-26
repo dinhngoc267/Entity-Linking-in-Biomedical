@@ -1,0 +1,77 @@
+C0019564||hippocampus
+C0006669||calcitonin gene-related peptide
+C0876926||traumatic brain injury
+C0162542||fracture-healing
+C0019564||hippocampus
+C0162542||fracture-healing
+C0876926||traumatic brain injury
+C0006669||calcitonin gene-related peptide
+C0006669||calcitonin gene-related peptide
+C0034715||Sprague-Dawley rats
+C0876926||TBI
+C0016658||fracture
+C0016658||fracture
+C0876926||TBI
+C0178913||blood specimen
+C0034715||rats
+C0270611||damage
+C0034715||rats
+C0270611||brain injury
+C1277698||Blood samples
+C0270611||injury
+C0459385||brain tissues
+C0185110||harvested
+C0270611||injury
+C0229671||serum
+C0006669||calcitonin gene-related peptide
+C0006669||calcitonin gene-related peptide
+C0006669||calcitonin gene-related peptide
+C1171362||expression
+C1171362||expression
+C0006669||calcitonin gene-related peptide
+C0019564||hippocampus
+C1171362||expression
+C0006669||calcitonin gene-related peptide
+C0019564||hippocampus
+C1171362||expression
+C0006669||calcitonin gene-related peptide
+C0019564||hippocampus
+C1171362||expression
+C0006669||calcitonin gene-related peptide
+C0006104||brain
+C0021044||immunohistochemistry
+C0949466||Western blotting
+C0035380||RT
+C0017337||calcitonin gene-related peptide
+C1515670||RNA expression
+C0027853||Neurological examinations
+C0007776||cerebral cortex
+C0007765||cerebellum
+C0006121||brain stem
+C0270611||injury
+C0014441||ELISA analysis
+C0006669||calcitonin gene-related peptide
+C0876926||TBI
+C0016658||fracture
+C0876926||TBI
+C0016658||fracture
+C0006669||calcitonin gene-related peptide
+C0019564||hippocampus
+C1269537||whole brain
+C0599161||RT-PCR
+C0949466||western blot analysis
+C0270611||injury
+C0021044||immunohistochemistry analysis
+C0006669||calcitonin gene-related peptide
+C0019564||hippocampus
+C0270611||injury
+C0019564||hippocampus
+C0006669||calcitonin gene-related peptide
+C0019564||hippocampus
+C0162542||fracture healing
+C0006669||calcitonin gene-related peptide
+C1171362||expression
+C0021044||IHC
+C0019564||hippocampus
+C0006104||brain
+C0449430||big stress

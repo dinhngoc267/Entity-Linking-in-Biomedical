@@ -1,0 +1,24 @@
+C1704726||Confidence
+C1704726||confidence
+C0022423||judge
+C0679006||perceptual decisions
+C1704726||confidence
+C0022423||judgments
+C0033930||psychophysics
+C0042830||visual perception
+C1704726||confidence
+C0589513||metacognitive abilities
+C0312418||perceptual sensitivity
+C2603343||study
+C1704726||confidence
+C0086418||humans
+C0003062||nonhuman animals
+C1704726||confidence
+C0022423||judgments
+C0035173||investigators
+C0011114||signal decision theory
+C3161035||models
+C0679006||perceptual decisions
+C3161035||models
+C0086168||dissociation
+C1704726||confidence

@@ -1,0 +1,55 @@
+C2316724||Esophageal
+C0489749||Rectal
+C1321013||Hydration
+C2316724||esophageal
+C0489749||rectal
+C2316724||temperatures
+C0489749||TRE
+C0015967||hyperthermia
+C1321013||hydration states
+C0008972||study
+C2316724||temperatures
+C0489749||TRE
+C0015967||hyperthermia
+C1321013||hydration states
+C0231162||euhydrated
+C0231162||euhydrated
+C0011175||hypohydrated
+C0011175||hypohydrated
+C0242817||Randomized-crossover design
+C0022877||laboratory setting
+C0679646||participants
+C0344335||body fat
+C0679646||Participants
+C0008976||trials
+C0231162||euhydrated
+C0011175||hypohydrated
+C0441800||grade
+C0489749||TRE
+C0489749||TRE
+C2316724||temperatures
+C2316724||temperatures
+C0231162||euhydrated
+C0011175||hypohydrated
+C0936012||analysis
+C0237913||Tukey's HSD
+C0025080||device
+C0231162||euhydrated
+C0489749||TRE
+C0489749||TRE
+C2316724||temperatures
+C2316724||temperatures
+C0011175||hypohydrated
+C0489749||TRE
+C0489749||TRE
+C2316724||temperatures
+C2316724||temperatures
+C0489749||TRE
+C2316724||temperatures
+C0231162||euhydrated
+C0011175||hypohydrated
+C0008976||trials
+C0489749||TRE
+C0231162||euhydration
+C0011175||hypohydrated
+C2826293||clinical significance

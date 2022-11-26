@@ -1,0 +1,91 @@
+C1709846||quantitative PCR
+C0004572||Babesia
+C3714514||infection
+C0040203||Ticks
+C0004574||Babesia microti
+C0449411||causative agents
+C0004576||babesiosis
+C0028405||North America
+C0015176||Europe
+C0004576||Babesiosis
+C0277550||endemic
+C0017446||Northeastern
+C0041703||USA
+C0027361||people
+C0004572||Babesia species
+C0014792||erythrocytes
+C0242781||transmitted
+C0005841||blood transfusion
+C0370231||Whole blood
+C0456388||blood products
+C0004572||Babesia
+C0005841||transfusion
+C0242781||transmitted
+C0004576||babesiosis
+C0004576||transmitted babesiosis
+C0085393||immuno-compromised
+C2603343||study
+C0002783||epidemiological evaluation
+C0004576||babesiosis
+C0040196||tick-infested state
+C0332128||examined
+C0178913||blood samples
+C0442592||clinics
+C0040196||tick-borne diseases
+C1709846||qPCR assay
+C0028630||molecular beacon probe
+C1457887||symptomology
+C0178913||samples
+C0282647||IFA
+C0162789||FISH
+C0026018||microscopic examination
+C0017542||Giemsa-stained
+C2238079||blood smears
+C0004572||Babesia
+C3714514||infection
+C0162789||FISH
+C0026018||microscopy
+C0178913||samples
+C0178913||samples
+C1709846||qPCR
+C1446409||positive
+C0004572||Babesia
+C0178913||samples
+C1446409||positive
+C0162789||FISH
+C1446409||positive
+C1709846||qPCR
+C0200932||nucleic acid based tests
+C0231221||asymptomatic
+C0178913||samples
+C0162789||FISH
+C1446409||positive
+C1709846||qPCR
+C1511790||detection
+C0004572||Babesia
+C0026018||microscopic examination
+C2238079||blood smears
+C0332128||examined
+C0178913||blood samples
+C0454664||counties
+C0026018||microscopy
+C0237401||individuals
+C1446409||positive
+C0004572||Babesia
+C3714514||infection
+C0026018||microscopy
+C0162789||FISH
+C0036743||serological tests
+C1446409||positive
+C1709846||qPCR
+C0004572||Babesia
+C1709846||qPCR
+C0026381||probes
+C1704656||diagnosis
+C0004576||babesiosis
+C1511890||diagnostics
+C1511226||blood screening
+C0200932||nucleic acid amplification test
+C1511226||screening of blood
+C0456388||blood products
+C0004576||transmitted babesiosis

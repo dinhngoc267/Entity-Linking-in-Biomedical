@@ -1,0 +1,17 @@
+C1824391||BORA
+C1579259||polo like kinase 1
+C1158894||regulation
+C0920425||cancer therapy
+C1579259||mitotic kinase polo like kinase 1
+C1579259||polo like kinase 1
+C1514559||overexpressed
+C1512773||cancers and its inhibition
+C1156236||slows down proliferation
+C2248382||increases apoptosis
+C0334227||cancer cell lines
+C1819041||PLK1 is activated
+C1449702||PLK1 inhibitors
+C0003392||anticancer properties
+C1819041||PLK1 activation
+C2353787||cyclin-dependent kinase 1
+C2353787||cyclin-dependent kinase 1

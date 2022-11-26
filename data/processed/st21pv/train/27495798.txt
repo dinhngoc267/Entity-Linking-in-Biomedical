@@ -1,0 +1,84 @@
+C0152965||viridans streptococcal bacteremia
+C4255274||allogeneic hematopoietic stem cell transplant
+C0282386||levofloxacin
+C0199176||prophylaxis
+C0022341||Japanese
+C0019994||hospital
+C0152965||viridans streptococcal bacteremia
+C0152965||viridans streptococcal bacteremia
+C0376545||hematological malignancy
+C0282386||levofloxacin
+C0199176||prophylaxis
+C0004610||blood stream infection
+C0004610||blood stream infection
+C0746883||febrile neutropenia
+C1516606||clinical data
+C0152965||viridans streptococcal bacteremia
+C4255274||allogeneic hematopoietic stem cell transplant
+C4255274||allogeneic hematopoietic stem cell transplant
+C0025102||medical records
+C4255274||allogeneic hematopoietic stem cell transplant
+C0282386||levofloxacin
+C0199176||prophylaxis
+C0019994||Toranomon Hospital
+C0220825||evaluate
+C0152965||viridans streptococcal bacteremia
+C1140704||viridans streptococcal
+C1140704||VGS
+C1705920||species
+C0017337||sodA gene
+C1294197||sequencing
+C1326871||drug susceptibility
+C4255274||allogeneic hematopoietic stem cell transplant
+C0282386||levofloxacin
+C0199176||prophylaxis
+C0152965||viridans streptococcal bacteremia
+C0152965||viridans streptococcal bacteremia
+C0055003||cefepime
+C0250480||piperacillin/tazobactam
+C0040808||regimen
+C1326871||susceptibility
+C1140704||VGS
+C0282386||levofloxacin
+C0055003||cefepime
+C0250480||piperacillin/tazobactam
+C0066005||meropenem
+C0042313||vancomycin
+C0427978||MIC50
+C0427978||minimum inhibitory concentration
+C0427978||MIC90
+C0007559||ceftazidim
+C0427978||MIC90
+C1254351||anti-pseudomonal beta-lactams
+C1254351||anti-pseudomonal beta-lactams
+C1140704||VGS
+C0220892||penicillin
+C0427978||MIC
+C3850116||Etest
+C1848829||acute respiratory distress syndrome
+C1848829||acute respiratory distress syndrome
+C0152965||viridans streptococcal bacteremia
+C0152965||viridans group streptococcal shock syndrome
+C0152965||viridans streptococcal bacteremia
+C0004610||blood stream infection
+C0152965||viridans streptococcal bacteremia
+C0004610||blood stream infection
+C0152965||viridans streptococcal bacteremia
+C0035648||risk factor
+C4255274||allogeneic hematopoietic stem cell transplant
+C1254351||APBL
+C0243095||anti-VGS activity
+C0243095||APBL-VA
+C0087111||monotherapy
+C1140704||VGS
+C1254351||anti-gram-positive agent
+C0243095||APBL-VA
+C0152965||viridans streptococcal bacteremia
+C0205276||local
+C1326871||susceptibility
+C0152965||viridans streptococcal bacteremia
+C0007465||cause of death
+C4255274||allogeneic hematopoietic stem cell transplant
+C0282215||beta-lactam
+C1140704||non-susceptible VGS
+C1848829||acute respiratory distress syndrome

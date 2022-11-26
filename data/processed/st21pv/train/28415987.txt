@@ -1,0 +1,36 @@
+C0016356||fluoroscopy
+C0012249||digital radiography
+C0220825||evaluate
+C0011980||diaphragmatic
+C0016356||Fluoroscopy
+C2911685||method
+C0220825||evaluate
+C0011980||diaphragm
+C2911685||methods
+C0011980||diaphragmatic
+C0016356||fluoroscopy
+C2911685||evaluation method
+C0011980||diaphragmatic
+C0016356||fluoroscopy
+C0012249||digital radiography
+C0220825||evaluated
+C0003188||anthropometry
+C0024119||pulmonary function test
+C0220825||evaluation
+C0011980||diaphragm
+C0016356||fluoroscopy
+C0012249||digital radiography
+C2911685||method
+C0011980||diaphragmatic
+C0220825||assessment
+C1269845||hemidiaphragm
+C0929194||left hemidiaphragm
+C0220825||assessment
+C0220825||assessment
+C1269845||hemidiaphragms
+C1269845||hemidiaphragms
+C0220825||evaluation
+C0011980||diaphragmatic
+C0016356||fluoroscopy
+C0012249||digital radiography
+C2911685||method

@@ -1,0 +1,51 @@
+C0001483||Adenoviral
+C0011209||Delivery
+C1456820||Tumor Necrosis Factor-α
+C0021756||Interleukin-2
+C0079613||Adoptive Cell Therapy
+C0021081||Immunosuppressive
+C0025202||Melanoma
+C0376517||Adoptive T-cell transfer
+C0027627||metastatic cancer
+C0280100||solid tumors
+C0079613||adoptive T-cell therapies
+C0376517||adoptive T-cell transfer
+C1510800||adenoviral vectors
+C1963758||immunomodulatory
+C0026809||murine
+C0079189||cytokines
+C0029974||B16.OVA
+C0004565||melanoma tumors
+C0034790||T-cell receptor
+C0376517||transgenic OT-I T-cell transfer
+C0001483||adenoviruses
+C0079189||cytokine
+C0029974||B16.OVA
+C0027651||tumors
+C0011209||virus-mediated cytokine delivery
+C0001483||adenoviruses
+C0026809||murine
+C0021756||interleukin-2
+C0021756||murine interleukin-2
+C1456820||tumor necrosis factor-α
+C1456820||mTNFα
+C0376517||T-cell transfer
+C0042776||viruses
+C0021756||murine interleukin-2
+C1456820||mTNFα
+C0039194||OT-I T-cells
+C0021756||murine interleukin-2
+C0039194||T-cells
+C0027651||tumor
+C0041368||mTNFα
+C0282554||chemokine
+C1171362||expression
+C0001483||adenovirus
+C0087111||treatments
+C0027651||tumor
+C0039194||OT-I T-cells
+C3472245||SPECT/CT imaging
+C0007634||(111)In-labeled cells
+C0079189||cytokine-coding
+C0001483||adenoviruses
+C0079613||adoptive T-cell therapies

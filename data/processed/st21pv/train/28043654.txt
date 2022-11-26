@@ -1,0 +1,21 @@
+C0596577||flavonoid compounds
+C0243077||inhibitors
+C0108555||protein kinase
+C1173607||CK2α
+C1449828||CK2α'
+C0600499||catalytic subunits
+C0108555||CK2
+C0108555||CK2
+C0108555||protein kinase
+C0007613||cell functions
+C1516225||cancer research
+C0596577||flavonoid compounds
+C0243077||inhibitors
+C0108555||protein kinase
+C0108555||CK2
+C0600499||catalytic subunits
+C1449828||CK2α'
+C0243077||inhibitor
+C0602970||chrysoeriol
+C1173607||CK2α
+C1449828||CK2α'

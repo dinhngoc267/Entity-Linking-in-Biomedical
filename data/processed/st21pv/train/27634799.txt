@@ -1,0 +1,65 @@
+C0022658||kidney disease
+C0520679||obstructive sleep apnea
+C0681876||population study
+C0025266||men
+C1148554||determine
+C0520679||obstructive sleep apnea
+C0520679||obstructive sleep apnea
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C0681876||population studies
+C0855281||conflicting
+C2603343||studies
+C3845829||administrative
+C0010362||Cross-sectional analysis
+C0679646||participants
+C0022646||Renal
+C0025266||men
+C0520679||obstructive sleep apnea
+C0011900||diagnosis
+C0442519||in-home
+C0162701||polysomnography
+C0182339||Embletta X100
+C1561643||chronic kidney disease
+C3811844||estimated glomerular filtration rate
+C3811844||estimated glomerular filtration rate
+C3811844||estimated glomerular filtration rate
+C0001925||albuminuria
+C1561643||chronic kidney disease
+C1513302||mild severity
+C0520679||obstructive sleep apnea
+C0520679||obstructive sleep apnea
+C0233972||arousal
+C0918012||index
+C0700292||hypoxemia
+C0020538||hypertension
+C0011847||diabetes
+C0028754||obesity
+C3536840||NSAID
+C1561643||chronic kidney disease
+C0541854||daytime sleepiness
+C0025266||men
+C1561643||chronic kidney disease
+C0520679||obstructive sleep apnea
+C1273937||not significantly
+C0700287||report
+C1457887||symptoms
+C0013144||sleepiness
+C0037384||snoring
+C0003578||apneas
+C1134635||STOP OSA screening questionnaire
+C0025266||men
+C0520679||obstructive sleep apnea
+C1561643||chronic kidney disease
+C0520679||obstructive sleep apnea
+C0003808||arousals
+C0681876||population studies
+C0332128||examining
+C0205127||longitudinal
+C1561643||chronic kidney disease
+C0520679||obstructive sleep apnea
+C0025663||methods
+C0020792||identify
+C0520679||obstructive sleep apnea
+C1561643||chronic kidney disease
+C1457887||symptoms

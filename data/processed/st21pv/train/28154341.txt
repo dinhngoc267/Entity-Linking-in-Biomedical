@@ -1,0 +1,37 @@
+C0683956||Predictive Factors
+C0152355||Subthalamic Nucleus
+C0394162||Deep Brain Stimulation
+C0030567||Parkinson's Disease
+C0152355||subthalamic nucleus
+C0394162||deep brain stimulation
+C0152355||STN
+C0394162||DBS
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0683956||predictive factors
+C0152355||STN
+C0394162||DBS
+C2603343||study
+C0683956||predictive factors
+C0008902||classified
+C0152355||STN
+C0394162||DBS
+C0543467||surgery
+C2603343||studied
+C0178808||preoperative state
+C0030567||Parkinson's disease
+C0543467||surgery
+C0449719||part I
+C0449719||part II
+C4314351||axial symptoms
+C0449719||part III
+C2960235||mini-mental state examination (MMSE) score
+C0543467||surgery
+C2960235||MMSE score
+C0030567||Parkinson's disease
+C0543467||surgery
+C0392335||cognitive function
+C4314351||axial symptoms
+C0683956||predictive factors
+C0152355||STN
+C0394162||DBS

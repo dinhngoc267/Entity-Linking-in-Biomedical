@@ -1,0 +1,27 @@
+C0019564||hippocampal
+C0243095||volume loss
+C0005516||marker
+C0233794||memory deficits
+C0038435||repeated stress
+C0038435||stress
+C0243095||detrimental effects
+C0019564||hippocampus
+C0019564||hippocampal structure
+C0038435||repeated stress
+C1160858||Behavioral analyses
+C0814087||spatial memory
+C0038435||stress
+C0003062||animals
+C0019564||hippocampal
+C0038435||stressed
+C0003062||animals
+C0231300||unstressed counterparts
+C0038435||stress
+C0003062||animals
+C0683278||suffered
+C0243095||early loss in hippocampal volume
+C0019564||hippocampal
+C0038435||stress
+C0233794||memory deficits
+C0035648||risk factor
+C0338656||cognitive impairments

@@ -1,0 +1,91 @@
+C0017337||marker gene
+C0023621||reference library
+C0032098||plants
+C2936547||metabarcoding
+C0936012||analyze
+C0012155||diet
+C0562691||herbivorous
+C0005595||waterbirds
+C0016452||Food
+C0012155||diet
+C0445392||wild
+C0005595||waterbirds
+C0005595||waterbird
+C0936012||analyzing
+C0012155||diet
+C0019637||microhistologic observation
+C0012155||diet
+C1015285||greater white-fronted goose Anser albifrons
+C1015285||bean goose Anser fabalis
+C0562691||obligate herbivores
+C0008115||China
+C0017446||Middle
+C0017446||Lower Yangtze River floodplain
+C0017337||marker gene
+C0032098||plants
+C0017225||geese
+C0017337||candidate genes
+C0017337||rbcL
+C0017337||rpoC1
+C0017337||rpoB
+C1334485||matK
+C2936548||trnH-psbA
+C1421162||trnL
+C1956149||UAA
+C2936548||atpF-atpH
+C2936548||psbK-psbI
+C0936012||analysis
+C0162326||sequences
+C1705803||NCBI
+C0017256||amplification
+C0032098||plant
+C0017446||wintering area
+C1421162||trnL gene
+C0206416||c/h primers
+C0205276||local
+C0032098||plant
+C0023621||reference library
+C2827421||constructed
+C0017337||gene
+C2936547||DNA metabarcoding
+C0016452||food items
+C0015733||feces
+C0005595||birds
+C0012155||dietary
+C0162326||sequences
+C1705920||specie
+C1015285||greater white-fronted goose
+C0162326||sequences
+C0018210||Poaceae spp.
+C1000671||Carex spp
+C0162326||sequences
+C1064115||bean goose
+C1000671||Carex spp
+C0019637||microhistology
+C0459115||food composition
+C2936547||metabarcoding
+C1015285||greater white-fronted goose
+C0018210||Poaceae
+C1064115||bean goose
+C0019637||microhistologic analysis
+C2936547||DNA metabarcoding
+C1290905||Discrepancies
+C0032520||PCR
+C0017256||amplification
+C2936547||metabarcoding
+C0017337||marker genes
+C0331451||monocots
+C0019637||microhistologic analysis
+C0012155||diet
+C0017225||geese
+C1705920||species
+C2603343||study
+C2936547||DNA metabarcoding
+C2603343||studies
+C0562691||herbivorous
+C0005595||waterbird
+C0012155||diets
+C0562691||herbivores
+C0032098||plants
+C0019637||microhistologic analysis
+C2936547||metabarcoding methods

@@ -1,0 +1,62 @@
+C0012854||DNA
+C0038891||zwitterionic surfactants
+C0012854||DNA
+C0029224||alkyldimethylamine oxide
+C0029224||CnDMAO
+C0012854||DNA
+C0029224||C14DMAOH(+)
+C0012854||DNA
+C0237401||individuals
+C1167622||binding
+C0029224||C14DMAOH(+)
+C0029224||C14DMAOH(+)
+C0029224||C14DMAOH(+)
+C0033727||H(+)
+C0029224||C14DMAOH(+)
+C0301634||increase of the turbidity
+C1167622||binding
+C0029224||C14DMAOH(+)
+C0012854||DNA
+C0012854||DNA
+C0029224||C14DMAOH(+)
+C1704241||complexes
+C0012854||DNA
+C1333134||compacted
+C0022885||UV-vis absorptions
+C0008813||circular dichroism
+C0008813||circular dichroism
+C0242849||atomic force microscopy
+C0242849||atomic force microscopy
+C0302523||observations
+C1882368||dynamic light scattering
+C1882368||dynamic light scattering
+C0013856||agarose gel electrophoresis
+C0013856||agarose gel electrophoresis
+C1333134||compacted
+C0012854||DNA
+C0029224||CnDMAO
+C0029224||C14DMAOH(+)
+C0029224||C12DMAO
+C0038891||surfactant
+C0012854||DNA
+C1333134||compaction
+C0012854||DNA
+C0029224||C10DMAO
+C0012854||DNA
+C1333134||compaction
+C0029224||C10DMAO
+C0012854||DNA
+C0029224||cationic CnDMAOH(+)
+C0025938||micelles
+C0012854||DNA
+C1333134||compacted
+C0012854||DNA
+C0029224||CnDMAOH(+)
+C1704241||complexes
+C0025938||micelle
+C0029224||C10DMAOH(+)
+C0029224||cationic C10DMAOH(+)
+C0025938||micelles
+C1333134||compact
+C0012854||DNA
+C0017296||stimuli-responsive gene therapy

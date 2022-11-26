@@ -1,0 +1,20 @@
+C3854164||Genome Sequence Analysis
+C0021338||Infectious Bursal Disease Virus
+C0021201||India
+C0021338||infectious bursal disease virus
+C0021338||infectious bursal disease virus
+C3494870||isolate
+C0021338||BGE14/ABT1/MVC/India
+C0021338||infectious bursal disease virus
+C3494870||isolated
+C0005595||broiler flocks
+C0021201||India
+C0021201||India
+C0017428||genome sequence
+C0021338||BGE14/ABT1/MVC/India
+C0017428||segments A and B
+C0021338||infectious bursal disease virus
+C0021338||infectious bursal disease virus
+C1749881||genetic exchange
+C0021338||infectious bursal disease virus
+C3539073||in the field

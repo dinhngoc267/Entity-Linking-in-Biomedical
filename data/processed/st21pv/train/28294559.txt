@@ -1,0 +1,84 @@
+C0071234||platelet-activating receptor
+C2354438||C-type lectin receptor-2
+C0023907||liver regeneration
+C0193398||partial hepatectomy
+C0025929||mice
+C0023907||Regeneration
+C2354438||C-type lectin receptor-2
+C2354438||C-type lectin receptor-2
+C0193398||70% hepatectomy
+C0193398||HPx
+C1883559||Wild-type
+C0017337||C-type lectin receptor-2
+C0017260||deleted
+C0005821||platelets
+C0025929||chimeric mice
+C0025929||flKO
+C0193398||HPx
+C0025929||flKO
+C1520150||wild-type
+C2354438||C-type lectin receptor-2
+C0023907||liver regeneration
+C0193398||HPx
+C2354438||C-type lectin receptor (CLEC)-2
+C0023907||liver regeneration
+C0193398||partial liver resection
+C0025929||mice
+C0025929||chimeric mice
+C0227525||liver cells
+C1520150||wild-type (WT) mice
+C0017337||C-type lectin receptor-2
+C0017260||deleted
+C0025929||mice
+C0025929||mice
+C0017337||C-type lectin receptor-2
+C0017260||deleted
+C0005821||platelets
+C0025929||Mice
+C0193398||70% partial hepatectomy
+C0193398||partial hepatectomy
+C0487602||Immunohistochemical staining
+C1171362||expression
+C0023688||ligand
+C2354438||C-type lectin receptor-2
+C3537357||podoplanin
+C0007613||accumulation
+C0005821||platelets
+C0023884||liver
+C0205054||hepatic
+C1171362||expression
+C0021760||IL-6
+C0017968||gp130
+C0253050||STAT3
+C0164786||Akt
+C0600388||ERK1/2
+C1171362||expression
+C0596290||cell proliferation
+C1611701||markers
+C0025929||flKO group
+C1520150||WT group
+C1171362||expression
+C0164786||phosphorylated (p) Akt
+C0600388||pERK1
+C1520150||wild-type
+C0025929||flKO groups
+C1171362||expression
+C0253050||pSTAT3
+C0021760||IL-6
+C1520150||WT group
+C0025929||flKO group
+C1171362||expression
+C3537357||podoplanin
+C0227523||hepatic sinusoids
+C0005821||platelets
+C0227523||hepatic sinusoids
+C0025929||flKO group
+C1520150||WT group
+C2354438||C-type lectin receptor-2
+C0023907||hepatic regeneration
+C0019144||liver resection
+C2354438||C-type lectin receptor-2
+C0023907||liver regeneration
+C0005821||platelets
+C0682624||sinusoidal
+C0225336||endothelial cells

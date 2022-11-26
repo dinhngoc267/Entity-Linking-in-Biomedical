@@ -1,0 +1,65 @@
+C0004358||Autoantibodies
+C0069428||myelin oligodendrocyte glycoprotein
+C1515021||subgroup
+C0026769||multiple sclerosis
+C0220825||evaluate
+C0003241||antibodies
+C0033625||conformation
+C0069428||myelin oligodendrocyte glycoprotein
+C0069428||myelin oligodendrocyte glycoprotein
+C1515021||subgroup
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0037925||spinal cord
+C0029130||optic nerve
+C0006121||brainstem
+C0003241||Antibodies
+C0069428||myelin oligodendrocyte glycoprotein
+C0005507||cell-based assay
+C1257890||groups
+C0026769||multiple sclerosis
+C1257890||group 1
+C0026769||multiple sclerosis
+C1257890||group 2
+C0740294||brain-biopsied
+C0011303||demyelinating diseases
+C3714787||CNS
+C0026769||multiple sclerosis
+C0008902||classified
+C0026769||MS type II
+C1257890||group 3
+C0003316||epitopes
+C0596611||mutated
+C0678941||variants
+C1417228||myelin oligodendrocyte glycoprotein
+C0003241||Antibodies
+C0069428||myelin oligodendrocyte glycoprotein
+C0026769||multiple sclerosis
+C1257890||groups 2
+C1257890||3
+C0069428||myelin oligodendrocyte glycoprotein
+C0003241||antibodies
+C0026769||multiple sclerosis
+C0003241||antibodies
+C0069428||myelin oligodendrocyte glycoprotein
+C0006121||brainstem
+C0037925||spinal cord
+C0242656||disease course
+C0162643||failure
+C0087111||disease-modifying therapies
+C0332293||treated with
+C0032113||plasma exchange
+C1291777||anti-MOG
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0221198||lesions
+C0412675||brain MRI
+C0231239||fluctuations
+C1621287||anti-MOG reactivity
+C0242831||Epitope mapping
+C0003261||antibody response
+C0003241||Antibodies
+C0069428||myelin oligodendrocyte glycoprotein
+C1515021||subgroup
+C0026769||multiple sclerosis
+C0012634||disease

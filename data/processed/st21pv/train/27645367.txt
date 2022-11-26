@@ -1,0 +1,28 @@
+C0011570||depression
+C0026769||multiple sclerosis
+C0011570||depression
+C0026769||Multiple Sclerosis
+C0026769||Multiple Sclerosis
+C0871685||clinicians
+C0011570||depression
+C0026769||Multiple Sclerosis
+C0026769||Multiple Sclerosis
+C2362543||electronic health records (EHR) data base
+C1257890||subgroups
+C0026769||Multiple Sclerosis
+C0740218||depression screening
+C1257890||group
+C1257890||subgroups
+C0679646||participants
+C1319226||depression level
+C1257890||subpopulation
+C0026769||Multiple Sclerosis
+C0231170||disability
+C0011570||depression
+C0026769||Multiple Sclerosis
+C2362543||EHR data base
+C0740218||depression screening
+C0871685||Clinicians
+C0030695||monitor patients
+C0443343||unstable
+C1319226||depression levels

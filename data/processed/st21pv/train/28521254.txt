@@ -1,0 +1,64 @@
+C0162969||CS
+C0032483||PEG
+C0071599||PLGA nano-prototype
+C0574031||bioactive compounds
+C0449445||approach
+C0162638||apoptosis
+C2717940||HepG2 cell line
+C0032521||Polymer
+C0442335||vectors
+C0007097||cancer
+C0574031||bioactive compounds
+C0034392||quercetin
+C0013900||ellagic acid
+C0016979||gallic acid
+C0003402||antioxidants
+C1516463||chemopreventive candidates
+C0007097||cancers
+C0071599||PLGA nano-platform
+C0162969||CS
+C0032483||PEG
+C0577749||phytochemicals
+C1254351||compounds
+C3888108||phagocytic uptake
+C1254351||PLGA-CS-PEG nano-prototype
+C1254351||PLGA-based nanocomposites
+C0086418||human
+C2239176||hepatocellular carcinoma
+C2717940||HepG2
+C1527249||colorectal cancer
+C1258005||HCT 116
+C0682523||cell lines
+C1512773||cell growth inhibition
+C1510438||assays
+C0162638||apoptosis
+C0027540||necrosis
+C1510438||assays
+C0016263||flow cytometry
+C0022885||detect
+C2717940||HepG2
+C0007587||cell death
+C1551412||cytotoxic activity
+C0034392||quercetin
+C0013900||ellagic acid
+C0016979||gallic acid
+C0071599||PLGA
+C1254351||PLGA-CS
+C1254351||PLGA-CS-PEG nano-prototypes
+C0150312||found
+C2717940||HepG2 cells
+C0034392||quercetin
+C0162638||apoptosis
+C0027540||necrosis
+C0013900||ellagic acid
+C0016979||gallic acid
+C0162638||apoptosis
+C0162969||CS
+C0032483||PEG
+C0071599||PLGA
+C0034392||quercetin
+C0013900||ellagic acid
+C0016979||gallic acid
+C0162638||apoptosis-mediated
+C0007587||cell death
+C2717940||HepG2 cell line

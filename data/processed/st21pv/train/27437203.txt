@@ -1,0 +1,60 @@
+C0042870||Hypovitaminosis D
+C0043210||Women
+C0032460||Polycystic Ovary Syndrome
+C0043210||Women
+C0032460||Polycystic Ovary Syndrome
+C0032460||Polycystic Ovary Syndrome
+C0021655||insulin resistance
+C0020538||hypertension
+C0242339||atherogenic dyslipidemia
+C4055506||Accumulating
+C0042870||Vitamin D deficiency
+C0032460||Polycystic Ovary Syndrome
+C0025517||metabolic
+C0032460||Polycystic Ovary Syndrome
+C0043210||women
+C0032460||Polycystic Ovary Syndrome
+C0007222||cardiovascular disease
+C2603343||study
+C0042866||Vitamin D
+C0025517||metabolic
+C0043210||women
+C0032460||Polycystic Ovary Syndrome
+C0018799||cardiac disease
+C0043210||women
+C0032460||Polycystic Ovary Syndrome
+C0679228||Rotterdam criteria
+C0032460||Polycystic Ovary Syndrome
+C0042866||Vitamin D
+C0035648||cardiometabolic risk factors
+C1318375||fasting plasma glucose
+C0021655||insulin resistance
+C0242339||dyslipidemia
+C0742906||hs-CRP
+C0206081||hyperandrogenism
+C0010101||correlation studies
+C0042866||Vitamin D
+C0035648||cardiometabolic risk factor
+C0032460||Polycystic Ovary Syndrome
+C0037585||SPSS software version 16
+C1710574||unpaired student's t-test
+C0042866||Vitamin D
+C0020459||Hyperinsulinemia
+C0021655||insulin resistance
+C0242339||dyslipidemia
+C2603343||study
+C0042866||Vitamin D
+C0021641||insulin
+C3639411||Homeostatic Model of Assessment- Insulin Resistance Index
+C3639411||Homeostatic Model of Assessment- Insulin Resistance Index
+C0042870||Hypovitaminosis D
+C0032460||Polycystic Ovary Syndrome
+C0025517||metabolic
+C3263685||hormonal disorders
+C0032460||Polycystic Ovary Syndrome
+C1272092||impaired fasting glucose
+C0021655||IR
+C0242339||dyslipidemia
+C0032460||Polycystic Ovary Syndrome
+C3658316||observational studies
+C0206035||randomized control trials

@@ -1,0 +1,54 @@
+C0017262||Expression
+C0017337||ermB
+C0017337||ermT
+C3160879||Macrolide Resistance
+C1459658||Streptococcus gallolyticus subsp. pasteurianus
+C0008115||China
+C1459658||Streptococcus gallolyticus subsp. pasteurianus
+C1690490||zoonotic agent
+C0029118||opportunistic infections
+C0086418||humans
+C1459658||subspecies
+C0086418||human
+C0004623||infectious diseases
+C2603343||study
+C1148560||molecular mechanism
+C3160879||macrolide resistance
+C1459658||S. gallolyticus subsp. pasteurianus
+C1306577||dead
+C0013268||ducklings
+C0008115||China
+C3160879||macrolide resistance
+C1304747||MIC
+C0014806||erythromycin
+C0055856||clarithromycin
+C0017337||Efflux-encoding mefA
+C0017337||mefE genes
+C0035704||23S rRNA
+C0026882||mutations
+C0282563||macrolide
+C1304747||MIC
+C0028630||nucleotide
+C0017337||genes
+C0073302||ribosomal proteins L4
+C0035552||L22
+C0017337||ermB
+C0017337||ermT genes
+C0017428||genomes
+C0017337||genes
+C0017262||expression
+C0017337||ermB
+C0017337||ermT
+C0014806||erythromycin
+C0282563||macrolide
+C1304747||MICs
+C0017262||expression
+C0017337||ermB
+C0017337||ermT
+C3160879||macrolide resistance
+C1459658||S. gallolyticus subsp. pasterianus
+C0243095||findings
+C3160879||macrolide resistance
+C1459658||S. gallolyticus subsp. pasteurianus
+C0017337||ermB
+C0017337||ermT

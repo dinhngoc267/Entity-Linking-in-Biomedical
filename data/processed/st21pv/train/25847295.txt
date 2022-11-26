@@ -1,0 +1,33 @@
+C0162638||apoptosis
+C0085262||PC12 cells
+C0150312||present
+C0600688||toxic effects
+C0162638||Apoptosis
+C0229671||serum
+C0009968||copper
+C0162638||apoptosis
+C0229671||serum
+C0009968||copper
+C0085262||PC12 cell system
+C0007620||cell viability
+C0162638||apoptosis
+C0376669||DNA fragmentation
+C0162638||apoptosis
+C0085262||PC12 cells
+C0085262||PC12 cells
+C0010749||cytochrome c
+C1383501||cytosol
+C0007634||apoptotic cells
+C0219474||Bax
+C0007634||apoptotic cells
+C0162638||apoptosis
+C0085262||PC12 cells
+C0162638||apoptosis
+C0229671||serum
+C0678594||structure
+C0220806||compounds
+C2825142||results
+C0007589||cell differentiation
+C0243107||development
+C0600688||harmful effect
+C0162638||apoptosis

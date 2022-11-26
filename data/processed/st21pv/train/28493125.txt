@@ -1,0 +1,24 @@
+C2350567||Knockdown
+C1101610||MicroRNAs
+C0085080||CHO Cells
+C0017397||TET-ON-SanDI Sponge Vectors
+C1101610||MicroRNAs
+C1101610||MicroRNAs
+C0887909||noncoding RNAs
+C0028630||nucleotides
+C4277689||genetic modifications
+C0005574||biotech
+C0017397||miRNA sponge" vectors
+C1101610||tandem miRNA
+C0005456||binding sites
+C1519595||transcripts
+C1158770||transcriptionally regulated
+C0086860||promoter
+C0013081||down regulating
+C1101610||microRNAs
+C0085080||Chinese hamster ovary (CHO) cells
+C0079925||antisense oligonucleotides
+C0005574||biotechnological
+C0017262||expression
+C0085080||CHO cell lines
+C0017262||expressing

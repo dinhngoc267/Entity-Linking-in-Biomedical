@@ -1,0 +1,21 @@
+C0178951||accelerometer
+C0203341||reflective photo-plethysmography signals
+C0007272||carotid
+C0015801||femoral artery
+C0007272||Carotid
+C0015801||femoral
+C4301970||non-invasive continuous blood pressure inference
+C0162599||photo-plethysmography
+C0178951||high fidelity accelerometer s
+C0034107||pulse information
+C0003842||larger arteries
+C0005850||blood volume
+C0040300||superficial tissue
+C0178951||accelerometer
+C0203341||reflective photo-plethysmography signals
+C0007272||carotid
+C0015801||femoral artery
+C0031845||physiological processes
+C2825142||experimental results
+C2603343||study
+C1708335||healthy subjects

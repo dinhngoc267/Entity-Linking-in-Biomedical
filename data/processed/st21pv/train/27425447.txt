@@ -1,0 +1,35 @@
+C1519655||Triterpenoids
+C0242767||stems
+C1059497||Tripterygium regelii
+C1519655||triterpenoids
+C1519655||triregelolides
+C1519655||triregeloic acid
+C0242767||stems
+C1059497||Tripterygium regelii
+C0041113||triterpene
+C0002776||analogues
+C0041113||compounds
+C0877853||NMR spectroscopic
+C0596495||HRESIMS
+C0041113||Compounds
+C0041113||4
+C0041113||7
+C0041113||8
+C0041113||10
+C0041113||13
+C0041113||14
+C0041113||17
+C0041113||21-23
+C1059497||T. regelii
+C1519655||Compounds
+C1519655||3
+C0041113||5
+C0041113||6
+C0041113||8
+C0041113||9
+C0041113||10
+C0041113||14
+C0041113||16
+C1156236||inhibitory effects on the proliferation
+C1512505||human breast cancer cells
+C0596890||MCF-7

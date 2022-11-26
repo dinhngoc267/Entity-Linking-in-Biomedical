@@ -1,0 +1,33 @@
+C0014507||Epidemiology
+C0005670||polyomavirus BK
+C0005670||BKV
+C0001737||African
+C0022646||kidney
+C0005953||bone marrow
+C1708333||Fundacion Valle del Lili in Cali
+C3245499||Colombia
+C0014507||epidemiology
+C0005670||BKV
+C0150312||presence
+C0001737||African
+C0005953||bone marrow
+C4304779||kidney transplant patients
+C0005670||BKV
+C0002783||descriptive study
+C0034869||institutional records
+C1708333||Fundación Valle del Lili, Cali
+C3245499||Colombia
+C0005670||BKV
+C0001737||African
+C1446409||positive
+C0005670||BKV
+C1883559||wild
+C0005670||BKV
+C0005670||BKV
+C1446409||positive
+C4304779||kidney transplant recipients
+C0005953||bone marrow
+C0002783||epidemiological study
+C0001737||African
+C0005670||BKV
+C3245499||Colombia

@@ -1,0 +1,28 @@
+C0870071||Modeling
+C0028661||nurses
+C0019988||hospital unit
+C0242428||satisfaction
+C0028661||nurses
+C0028661||nurse
+C0017313||patient care activities
+C0017313||patient care activities
+C0019988||hospital unit
+C0450429||location
+C0028661||nurse's
+C0019988||unit
+C1272277||achieving
+C0019994||hospitals
+C0028661||nurse
+C1273518||responsible
+C0028661||nurses
+C0596545||experience
+C0237607||past practices
+C0028661||nurse
+C0019988||hospital unit
+C0033213||problem
+C0033213||problem
+C0019988||hospital unit
+C0449445||approach
+C0033213||problems
+C0162579||work environment
+C0030971||perception

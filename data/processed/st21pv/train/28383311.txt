@@ -1,0 +1,52 @@
+C0026858||Musculoskeletal pain
+C1518848||profile
+C0028754||obese
+C0027361||individuals
+C0028754||Obesity
+C0008679||chronic diseases
+C0026858||musculoskeletal (MSK) pain
+C0026858||MSK pain
+C1518848||profile
+C0028754||obese
+C0599755||cohort
+C2985505||retrospective study
+C0242356||database
+C2346845||approval
+C0030193||pain
+C1518848||profile
+C0030193||pain
+C0037313||sleep
+C0516981||function
+C0024031||low back pain
+C0024031||low back pain
+C0231749||knee pain
+C0027361||individuals
+C0025266||male
+C0043210||female
+C1305855||BMI
+C0028754||obese
+C1305855||BMI
+C0026858||MSK pain
+C0024031||low back pain
+C0231749||knee pain
+C0028754||obese
+C0030193||pain
+C0037313||sleep
+C0516981||physical function
+C0028754||obese
+C0030193||pain
+C0030193||pain
+C0681906||self-report
+C0243095||slept fewer hours
+C0243095||functional outcomes
+C0024031||low back pain
+C0086170||divorced
+C0028734||nocturia
+C0231749||knee pain
+C0026858||MSK pain
+C0028754||obese
+C1513916||negatively
+C0243095||functional outcomes
+C0002766||pain management
+C0087111||treating
+C0028754||obesity

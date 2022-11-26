@@ -1,0 +1,41 @@
+C0032098||plant
+C0015858||ferredoxin
+C0597357||receptor
+C0059038||FusA
+C0302583||Iron
+C0678695||nutrient
+C0004623||bacterial infection
+C0018150||Gram-negative bacteria
+C1437205||TonB
+C1167331||outer membrane
+C0597357||receptors
+C0302583||iron
+C3714514||infection
+C0597357||receptors
+C0302583||iron
+C0142281||iron-scavenging siderophores
+C0185115||extraction
+C0033684||proteins
+C0597357||receptors
+C0699748||pathogenesis
+C0042765||virulence
+C1437205||TonB
+C0597357||receptors
+C0059038||FusA
+C1437205||TonB
+C0597357||receptor
+C0030745||phytopathogenic Pectobacterium spp.
+C0302583||iron
+C0032098||plant
+C0015858||ferredoxin
+C0444626||crystal structure
+C0059038||FusA
+C1167622||binding
+C0015858||ferredoxin
+C0243092||extracellular loops
+C0015858||ferredoxin
+C0059038||FusA
+C0162774||homologues
+C0033684||iron-containing proteins
+C0302583||iron
+C0449416||source

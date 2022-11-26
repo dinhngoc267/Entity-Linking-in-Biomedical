@@ -1,0 +1,27 @@
+C0208205||IgG N-Glycome
+C0008565||ultra performance liquid chromatography
+C2603343||large scale studies
+C2348869||glycome
+C0032594||Glycans
+C0020852||immunoglobulin G
+C0020852||immunoglobulin G
+C0031843||function
+C0020852||immunoglobulin G
+C0020852||immunoglobulin G
+C0017968||glycoproteins
+C0449445||approaches
+C0008565||liquid chromatography
+C0596607||capillary gel electrophoresis
+C0037813||mass spectrometry
+C2603343||study
+C0020852||immunoglobulin G
+C2348563||protocol
+C0208205||IgG N-glycan
+C0022885||fluorescent labeling
+C0936012||analysis
+C0208205||IgG N-glycans
+C0008565||hydrophilic interaction liquid chromatography
+C0008565||hydrophilic interaction liquid chromatography
+C0008565||ultra performance liquid chromatography
+C0008565||ultra performance liquid chromatography
+C1511790||detection

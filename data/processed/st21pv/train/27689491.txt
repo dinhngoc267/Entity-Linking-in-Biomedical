@@ -1,0 +1,27 @@
+C0206034||Randomized Trials
+C0024024||Louisiana
+C0017446||Rochester
+C0027976||New York
+C0220825||evaluate
+C0220825||evaluated
+C0599755||cohorts
+C1301808||states
+C0024024||Louisiana
+C0237463||agencies
+C0206035||randomized controlled trial
+C0087111||treatment
+C0237463||agencies
+C0017446||Rochester
+C0027976||New York
+C0206035||randomized controlled trial
+C0184661||intervention
+C0024024||Louisiana
+C0017446||Rochester
+C0027976||New York
+C0009253||sex
+C0009871||birth control
+C0024024||Louisiana
+C0017446||Rochester
+C1513916||no
+C0184661||intervention
+C0035168||Research

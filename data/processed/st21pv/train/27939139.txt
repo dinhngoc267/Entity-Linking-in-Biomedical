@@ -1,0 +1,43 @@
+C0043393||yeast
+C1210581||lactic acid bacterium
+C1979963||profile
+C0453374||soy sauce
+C0015852||fermentation
+C0453374||Soy sauce
+C0022341||Japanese
+C0349383||seasoning
+C0015852||fermentation process
+C0242481||investigation
+C1979963||profile
+C0015852||fermentation
+C0243095||difficult
+C1328813||Metabolomics
+C2603343||study
+C0162340||understanding
+C1328813||metabolomics
+C0936012||analysis
+C0453374||soy sauce
+C0015852||fermentation
+C2603343||studies
+C0453374||soy sauce
+C0015852||fermentation
+C1328813||metabolomics
+C0449445||approach
+C0684224||reported
+C0443769||volatile compounds
+C0453374||soy sauce
+C0024868||gas chromatography/mass spectrometry
+C0024868||gas chromatography/mass spectrometry
+C1328813||metabolic profiling
+C0936012||analyzed
+C0043393||yeast
+C1210581||lactic acid bacterium
+C1979963||profile
+C0243095||finding
+C1210581||lactic acid bacterium
+C0056829||cyclotene
+C0016849||furfural
+C0060863||furfuryl alcohol
+C0066117||methional
+C0453374||soy sauce
+C0015852||fermentation process

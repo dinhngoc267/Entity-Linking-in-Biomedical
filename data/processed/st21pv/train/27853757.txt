@@ -1,0 +1,21 @@
+C1283169||monitoring
+C1622418||vesicle
+C0014139||endocytic
+C1704259||pathway
+C0242275||epidermal growth factor
+C2347609||conjugated two-photon probe
+C2347609||ratiometric two-photon probe
+C2347609||BHS3
+C0242275||epidermal growth factor
+C0242275||epidermal growth factor
+C0242275||epidermal growth factor
+C1283169||monitoring
+C0936012||analysis
+C0524461||acidic luminal
+C0014139||endocytic
+C1704259||pathway activity
+C2347609||BHS3
+C0242275||epidermal growth factor
+C0936012||analysis
+C1622418||vesicles
+C0597361||receptor-mediated endocytosis

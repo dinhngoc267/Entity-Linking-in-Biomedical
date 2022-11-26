@@ -1,0 +1,41 @@
+C0440282||Kiwifruit
+C0332293||Treated by
+C0055754||Cinnamaldehyde
+C0055809||Citral
+C1148564||Antioxidant Capacity
+C0010405||Cold Storage
+C0220825||evaluate
+C0025953||microbiological
+C1148564||antioxidant
+C0031843||physiological activities
+C0440282||kiwifruits
+C0971874||Actinida deliciosa
+C0055754||cinnamaldehyde
+C0055809||citral
+C0028908||Essential oils
+C0028908||Essential oils
+C0043393||yeast
+C0369241||mold
+C0028908||Essential oils
+C1148564||antioxidant activities
+C0440282||kiwifruit
+C0359916||phenolics
+C0596577||flavonoids
+C0016767||fruit
+C1514137||tissue
+C0003968||ascorbic acid
+C0024643||malondialdehyde
+C0024643||malondialdehyde
+C0020281||H2 O2
+C0020281||hydrogen peroxide
+C0038836||O2(-)
+C0038836||superoxide anion
+C0440282||kiwifruits
+C0028908||Essential oils
+C0026492||reducing sugar
+C0033684||soluble protein
+C0002520||amino acid
+C0028908||Essential oils
+C3546449||senescence
+C1148564||antioxidant capacities
+C0440282||kiwifruit

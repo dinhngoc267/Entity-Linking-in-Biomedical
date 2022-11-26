@@ -1,0 +1,43 @@
+C0013819||EEG dynamics
+C1510574||response inhibition
+C0242481||cotwin control analysis
+C0424296||behavioral disinhibition
+C1327471||neurophysiological mechanisms
+C1510574||inhibition
+C0392335||cognitive control
+C2951740||medial frontal cortex
+C2951740||medial frontal cortex
+C2951740||medial frontal cortex
+C4019080||dorsal prefrontal cortex
+C4019080||dorsal prefrontal cortex
+C0025266||men
+C0043210||women
+C2603343||study
+C0879626||deleterious effect
+C0204631||theta-band
+C1510574||response inhibition
+C0013819||EEG dynamics
+C1257890||sample
+C0035171||cotwin control (CTC) design
+C0204631||theta-band
+C2951740||medial frontal cortex
+C4019080||dorsal prefrontal cortex
+C0229984||connectivity
+C1510574||response inhibition
+C0043210||women
+C0242481||CTC analysis
+C0043210||women
+C0204631||theta-band
+C2951740||medial frontal cortex
+C4019080||dorsal prefrontal cortex
+C0229984||connectivity
+C0879626||deleterious causal effects
+C0204631||theta-band
+C2951740||medial frontal cortex
+C4019080||dorsal prefrontal cortex
+C0229984||connectivity
+C1327471||neurophysiological mechanisms
+C0424296||alcohol-related disinhibition
+C0243095||normative levels
+C1510574||response inhibition
+C0013819||EEG dynamics

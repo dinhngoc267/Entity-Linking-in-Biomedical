@@ -1,0 +1,52 @@
+C1563373||LAMP-2
+C0242606||oxidative stress
+C0007587||cell death
+C2346521||Zn(2+)
+C0087111||treated
+C0024109||lung
+C0014597||epithelium cells
+C0043481||Zinc
+C0013879||element
+C0460002||biological system
+C2346521||Zn(2+)
+C2263139||cellular Zn(2+) homeostasis
+C0600688||cause toxicity
+C0351669||Zinc salts
+C0043491||ZnO
+C0560313||respiratory injury
+C0029219||organelle
+C0026237||mitochondria
+C0024369||lysosomes
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C2346521||Zn(2+)
+C0600688||toxicity
+C0026237||mitochondria
+C0024369||lysosomes
+C0162772||reactive oxygen species
+C2346521||Zn(2+)
+C1157972||deglycosylation
+C3539735||lysosome-associated membrane protein 1
+C1563373||2
+C3539735||LAMP-1
+C1563373||LAMP-2
+C0034850||endosomes
+C0024369||lysosomes
+C0014597||A549 lung epithelium cells
+C1416790||LAMP-2
+C2350567||knockdown
+C2346521||Zn(2+)
+C0162772||reactive oxygen species
+C0007587||cell death
+C1563373||LAMP-2
+C3539735||LAMP-1
+C2346521||Zn(2+)
+C0600688||toxicity
+C1563373||LAMP-2
+C0162772||reactive oxygen species
+C0007587||cell death
+C2346521||Zn(2+)
+C0087111||treatment
+C2346521||Zn(2+)
+C0600688||toxicity
+C0035237||respiratory system

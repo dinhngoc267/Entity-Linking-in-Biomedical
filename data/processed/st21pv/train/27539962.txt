@@ -1,0 +1,47 @@
+C0031638||phosphodiesterase 10A inhibitor
+C0237798||non-human primates
+C0036341||schizophrenia
+C0879626||side effect profile
+C0036341||Schizophrenia
+C1457887||symptoms
+C0004782||alterations in basal ganglia-cortical networks
+C0028631||cyclic nucleotides
+C0001455||cAMP
+C0018338||cGMP
+C0037080||signaling pathways
+C0031638||Phosphodiesterase 10A (PDE10A) inhibitors
+C1611640||therapeutic agents
+C0036341||schizophrenia
+C2613288||regulation of cAMP
+C2612051||cGMP
+C0010097||striatum
+C1447737||Phosphodiesterase 10A
+C0037080||signaling mechanisms
+C0392335||cognitive function
+C0237798||non-human primates
+C0237798||non-human primates
+C0031638||PDE10A inhibitor
+C0031638||FRM-6308
+C1447737||human recombinant PDE10A
+C0243095||behavioral effects
+C0031638||FRM-6308
+C0024400||rhesus monkeys
+C4228195||standardized motor disability scale
+C0033147||primates
+C0556033||motor tasks
+C0031638||FRM-6308
+C2315783||[(18)F]-fluorodeoxyglucose PET imaging
+C0031638||FRM-6308
+C0237798||non-human primates
+C0046056||FDG
+C0010097||striatum
+C1181303||cortical
+C0235195||sedation
+C0427086||occasional involuntary movements
+C0743284||tolerance after repeated exposures
+C0031638||FRM-6308
+C1320678||adequate pharmacological profile
+C0008976||clinical trials
+C3179403||antipsychotic efficacy
+C1447737||Phosphodiesterase 10A
+C0036341||schizophrenia

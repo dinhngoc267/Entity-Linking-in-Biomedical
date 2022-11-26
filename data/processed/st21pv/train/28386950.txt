@@ -1,0 +1,61 @@
+C0017178||Gastrointestinal disorders
+C0795915||Curry-Jones syndrome
+C0233820||insights
+C0795915||Curry-Jones syndrome
+C0795915||Curry-Jones syndrome
+C0449774||pattern
+C0302142||malformation
+C0010278||craniosynostosis
+C2751914||pre-axial polysyndactyly
+C0175754||agenesis of the corpus callosum
+C1704258||cutaneous
+C0521362||gastrointestinal
+C0026882||mosaic mutation
+C4086836||SMO (c.1234 C>T; p.Leu412Phe)
+C0795915||Curry-Jones syndrome
+C0684224||report
+C0521362||gastrointestinal
+C0243095||surgical findings
+C0795915||Curry-Jones syndrome
+C0243095||spectrum of gastrointestinal malformations
+C0678236||rare disorder
+C0010278||craniosynostosis
+C2751914||pre-axial polysyndactyly
+C0243095||cutaneous findings
+C0332140||clinical diagnosis
+C0795915||Curry-Jones syndrome
+C0000731||abdominal distension
+C0184899||Surgical exploration
+C0221210||intestinal malrotation
+C3665975||Ladd procedure
+C0243095||Multiple small nodules
+C0243095||found
+C0735973||surface of the small and large bowel
+C0221210||intestinal duplication
+C0205095||posterior
+C0030274||pancreas
+C0028259||nodules
+C1267092||bundles of smooth muscle
+C0228071||ganglion cells
+C1513380||Molecular analysis
+C4086836||SMO c.1234 C>T mutation
+C1123023||skin
+C0345896||intestinal hamartoma
+C0521362||Gastrointestinal
+C0243095||features
+C1704258||structural malformations
+C0679316||motility disorders
+C0041909||upper GI bleeding
+C0795915||Curry-Jones syndrome
+C0018552||Smooth muscle hamartomas
+C0243095||recognized feature
+C0795915||Curry-Jones syndrome
+C0549433||requiring surgical intervention
+C0544886||somatic mutation
+C1364142||SMO
+C1704258||structural malformations
+C0345896||bowel hamartomas
+C1266121||myofibromas
+C0026882||mutation
+C0040300||tissues
+C3150238||variable manifestations

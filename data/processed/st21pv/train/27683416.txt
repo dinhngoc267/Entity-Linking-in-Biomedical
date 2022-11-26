@@ -1,0 +1,70 @@
+C1451071||Prolyl-4-hydroxylase 2
+C2002278||3
+C0591833||murine
+C0014822||erythropoietin
+C0006104||brain
+C0598800||pericytes
+C1704632||response
+C0242184||hypoxia
+C0014819||production of red blood cells
+C0215848||hypoxia-inducible factor
+C0215848||hypoxia-inducible factor
+C0014822||erythropoietin
+C0014822||erythropoietin
+C0014822||erythropoietin
+C0312438||glycoprotein hormone
+C0014819||normal erythropoiesis
+C0456918||peritubular
+C1514842||renal interstitial fibroblast-like cells
+C0005516||cellular markers
+C0027882||neuronal cells
+C0598800||pericytes
+C0014822||erythropoietin
+C0598800||pericytes
+C0242613||gene targeting
+C0019562||von Hippel-Lindau
+C3658213||prolyl-4-hydroxylase domain (PHD)/HIF
+C0007634||cell
+C1171362||expressing
+C1311695||neural glial antigen 2
+C0005516||molecular marker
+C0598800||pericytes
+C0178784||multiple organs
+C0598800||pericytes
+C0006104||brain
+C0014822||erythropoietin
+C0026809||mice
+C0215848||hypoxia-inducible factor
+C0242184||hypoxia
+C0014822||Epo
+C0162788||in situ hybridization
+C0006104||brain
+C0598800||pericytes
+C0007634||cellular source
+C0014822||Epo
+C0242184||hypoxic
+C0006104||brain
+C0014822||Epo
+C1171362||expressing
+C0007634||cells
+C0014822||Epo
+C0040649||transcription
+C0006104||brain
+C0598800||pericytes
+C0215848||HIF-2
+C1451071||PHD2
+C2002278||PHD3
+C0030054||oxygen
+C1291208||2-oxoglutarate
+C3658213||prolyl-4-hydroxylases
+C0215848||hypoxia-inducible factor
+C0243102||activity
+C0598800||pericytes
+C0006104||brain
+C0183211||oxygen sensors
+C0242184||hypoxia
+C0014822||erythropoietin
+C0014822||erythropoietin
+C0598800||pericytes
+C0006104||brain
+C0022646||kidney

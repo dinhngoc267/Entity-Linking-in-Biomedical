@@ -1,0 +1,28 @@
+C0028798||exposures
+C0010362||cross sectional investigation
+C0684312||drivers
+C1837655||Multifactorial
+C0035648||predictors
+C0024031||low back pain
+C0024031||low back pain
+C2603343||study
+C0024031||low back pain
+C0028798||exposures
+C0684312||drivers
+C0028798||exposures
+C0162579||workplaces
+C0034394||questionnaire
+C0677519||vibration exposure
+C0024031||low back pain
+C0028798||exposure
+C0024031||low back pain
+C0028798||exposure
+C0677519||vibration exposure
+C0162579||work place
+C0035168||research
+C0205146||area
+C0028798||exposures
+C0024031||low back pain
+C0162579||workplace
+C2603343||studies
+C0274281||causal exposure

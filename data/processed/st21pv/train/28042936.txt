@@ -1,0 +1,53 @@
+C0011860||type 2 diabetes mellitus
+C0028066||nifedipine
+C0020538||hypertensive
+C0033011||pregnant women
+C0011849||Diabetes mellitus
+C1142644||cytochrome P450 3A4
+C0014442||enzyme
+C0683140||metabolism
+C0028066||nifedipine
+C0087111||treatment
+C0020538||hypertension
+C0033011||pregnant women
+C0011860||type 2 diabetes mellitus
+C0011860||type 2 diabetes mellitus
+C0028066||nifedipine
+C0002638||amniotic fluid
+C0020538||hypertensive
+C0033011||pregnant women
+C2603343||study
+C0020538||hypertensive
+C0033011||pregnant women
+C0020538||hypertensive
+C0033011||pregnant women
+C0011860||type 2 diabetes mellitus
+C0028066||nifedipine
+C0032961||gestation
+C0178913||blood samples
+C1533734||administration
+C0013227||medication
+C0178913||samples
+C0015925||fetal blood
+C0002638||amniotic fluid
+C1148554||determination
+C0028066||nifedipine
+C0011860||type 2 diabetes mellitus
+C1257890||group
+C0028066||nifedipine
+C0041637||umbilical vein
+C0230968||intervillous space
+C0002638||amniotic fluid
+C0011860||type 2 diabetes mellitus
+C0002638||amniotic fluid
+C0032105||plasma
+C1257890||groups
+C0041632||umbilical artery
+C0041637||umbilical vein
+C0011860||type 2 diabetes mellitus
+C0011860||type 2 diabetes mellitus
+C0028066||nifedipine
+C0020538||hypertensive
+C0043210||women
+C2911690||controlled
+C0011847||diabetes

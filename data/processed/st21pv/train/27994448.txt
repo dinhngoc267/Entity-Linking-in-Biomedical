@@ -1,0 +1,51 @@
+C2985631||Clinical
+C0043299||radiological
+C0032326||pneumothorax
+C0375931||endoscopic lung volume reduction
+C0042296||valves
+C0042296||Valve
+C0021107||implantation
+C0087111||therapy
+C0034067||emphysema
+C0282624||minimally invasive treatmen
+C0009566||complications
+C0032326||pneumothorax
+C0032326||Pneumothorax
+C0225752||lobe
+C0524689||volume reduction
+C0009566||complication
+C0018017||objective
+C2603343||study
+C0032326||pneumothorax
+C0087111||endoscopic valve therapy
+C0034067||emphysema
+C2603343||study
+C0035363||retrospective evaluation
+C0032326||pneumothorax
+C0376636||management
+C0032326||pneumothorax
+C2985631||clinical outcomes
+C0087111||valve therapy
+C0032326||Pneumothorax
+C0087111||valve therapy
+C0032326||Pneumothorax
+C0376636||management
+C0189476||chest tube insertion
+C0042296||valve
+C0015252||removal
+C0549433||surgical intervention
+C0032326||pneumothorax
+C0231921||lung function
+C0016529||forced expiratory volume
+C0035190||residual volume
+C0040509||total lung capacity
+C0004144||lobar atelectasis
+C0032326||pneumothorax
+C0032326||Pneumothorax
+C0009566||complication
+C0087111||valve therapy
+C0184661||intervention
+C0032326||pneumothorax
+C0004144||lobar atelectasis
+C0032326||pneumothorax
+C0231921||lung function

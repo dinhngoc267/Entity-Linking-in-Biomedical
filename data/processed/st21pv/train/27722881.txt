@@ -1,0 +1,52 @@
+C0060514||Fluoranthene
+C1167622||binding
+C2603343||study
+C0678594||structure
+C0599874||ring-hydroxylating dioxygenase
+C4153571||Microbacterium paraoxydans JPM1
+C2603343||study
+C0018154||gram-positive fluoranthene-degrading bacterial
+C0031264||crude oil
+C4153571||Microbacterium paraoxydans JPM1
+C0936012||analysis
+C3537372||16S rDNA
+C0004793||sequence
+C1439852||incubation
+C4153571||JPM1
+C0060514||fluoranthene
+C0870883||metabolites
+C0574031||9-fluorenone-1-carboxylic acid
+C0050227||9-fluorenone
+C0070968||phthalic acid
+C0053225||benzoic acid
+C0010454||culture solution
+C0004793||gene sequence
+C0599874||aromatic-ring-hydroxylating dioxygenase
+C0017256||amplified
+C4153571||JPM1
+C0032520||PCR
+C0002518||protein sequence
+C1512489||homology modeling method
+C0444626||crystal structure
+C0599874||dioxygenase
+C0060514||fluoranthene
+C0599874||dioxygenase
+C0679083||simulated
+C0936012||analyzed
+C3494273||molecular docking
+C1704259||pathway
+C0060514||fluoranthene
+C4153571||JPM1
+C0870883||metabolites
+C0936012||thermodynamic analysis
+C4153571||JPM1
+C0060514||fluoranthene
+C0060514||fluoranthene
+C0004611||bacterial
+C0018270||growth
+C2603343||study
+C4153571||JPM1
+C2603343||study
+C0032458||polycyclic aromatic hydrocarbon
+C0032458||polycyclic aromatic hydrocarbon
+C0205145||sites

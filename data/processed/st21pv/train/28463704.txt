@@ -1,0 +1,32 @@
+C0025361||processing
+C0038454||stroke
+C0023981||longitudinal
+C0376335||functional magnetic resonance imaging
+C0025361||processing
+C0022116||ischemic
+C0023981||longitudinal case study
+C0086418||MMY
+C0038454||stroke
+C0038454||stroke
+C2337131||left fusiform gyrus
+C2337131||fusiform gyrus
+C0086418||MMY's
+C2004454||recovery of naming as well
+C0025361||processing
+C0004939||longitudinal behavioral
+C0376335||functional magnetic resonance imaging
+C0376335||functional magnetic resonance imaging
+C0586739||reading
+C0451342||visual object naming
+C0038454||stroke
+C0041904||up-regulation
+C2953769||left mid-FG
+C0152298||inferior frontal junction
+C0152298||inferior frontal junction
+C0025361||processing
+C0586739||reading
+C0451342||visual object naming
+C2953769||left mid-FG
+C0205117||adjacent
+C0038454||stroke
+C0025361||processing

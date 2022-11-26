@@ -1,0 +1,42 @@
+C0337438||sensing of glucose
+C0201950||cholesterol
+C0063083||Janus hydrogel microparticles
+C0337438||sensing method for glucose
+C0201950||cholesterol
+C0063083||Janus hydrogel microparticles
+C0063083||Janus hydrogel microparticles
+C0337438||glucose sensing
+C0009630||concanavalin A
+C0060538||fluorescein labeled dextran
+C0005507||competitive binding assay
+C0002040||alginate
+C0597177||microparticles
+C0597177||microparticles
+C1446409||positively
+C0017725||glucose
+C0201950||cholesterol sensing
+C0597177||microparticles
+C0030011||oxidation
+C0046880||3,3',5,5'-Tetramethylbenzidine
+C0020281||H2O2
+C0014442||enzymatic
+C0008377||cholesterol
+C0597177||microparticles
+C0597177||microparticles
+C1148554||determination
+C0597177||Janus microparticles
+C0557351||employed
+C0017725||glucose
+C0008377||cholesterol
+C0442726||detected
+C0597177||microparticles
+C0597177||particles
+C0205101||external
+C0428548||glucose
+C0428466||cholesterol levels
+C0086418||human
+C0229671||serum
+C0597177||microparticles
+C0750484||confirmed
+C0597177||microparticles
+C1511790||detection

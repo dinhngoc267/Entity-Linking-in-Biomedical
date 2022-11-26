@@ -1,0 +1,12 @@
+C2348746||Draft Genome Sequence
+C1764827||Isolate
+C1095838||Lysinibacillus fusiformis M5
+C0020684||Hypoxanthine
+C1095838||Lysinibacillus fusiformis strain M5
+C0020684||hypoxanthine
+C1764827||isolated
+C0055863||clay
+C2348746||draft genome sequence
+C2936606||annotated
+C2603343||studies
+C1095838||L. fusiformis M5.

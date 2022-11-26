@@ -1,0 +1,35 @@
+C3161472||Membrane
+C0123263||Fcγ receptor I
+C0671702||signal regulatory protein α
+C2248379||activation of human macrophages
+C0037083||Signal integration
+C0034805||Fc receptors
+C0671702||signal regulatory protein α
+C0671702||signal regulatory protein α
+C0024432||macrophage
+C0031308||phagocytosis
+C0430389||dual-color direct stochastic optical reconstruction microscopy
+C0123263||Fcγ receptor I
+C0123263||Fcγ receptor I
+C0796385||FcγRII
+C0671702||signal regulatory protein α
+C0024432||macrophage
+C0699040||surfaces
+C0123263||Fcγ receptor I
+C0796385||FcγRII
+C0671702||signal regulatory protein α
+C0025979||actin cytoskeleton
+C0034805||Fc receptor
+C1514758||activation
+C0282625||Src-family kinase
+C1154413||signaling
+C0123263||Fcγ receptor I
+C0671702||signal regulatory protein α
+C0314675||Co-ligation
+C0671702||signal regulatory protein α
+C1506697||CD47
+C0037083||signals
+C0123263||Fcγ receptor I
+C0597357||receptors
+C0024432||human macrophages
+C0037083||signal integration

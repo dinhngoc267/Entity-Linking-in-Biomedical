@@ -1,0 +1,48 @@
+C0681906||Self-Reported
+C0304227||Prescription Drug
+C0041703||U.S
+C0684312||Drivers
+C1254351||Drug
+C0086190||illegal drugs
+C3166216||prescribed medications
+C0877256||impair driving ability
+C1148554||determine
+C0681906||self-reported
+C0304227||prescription drug
+C0243095||nonmedical
+C0684312||drivers
+C0684312||driver
+C0242481||National Roadside Survey
+C0684312||drivers
+C0304227||prescription drug
+C0684312||drivers
+C0304227||prescription drug
+C1254351||common drug class
+C0036557||sedatives
+C0003289||antidepressants
+C0027415||narcotics
+C0304402||stimulants
+C0684312||Drivers
+C0304227||prescription drug
+C1518563||older
+C0231170||disability
+C0684312||drivers
+C0013227||medication
+C1254351||drug
+C1521941||prescription
+C0085756||Black/African American
+C0086409||Hispanic
+C0684312||drivers
+C1518563||older
+C0684312||drivers
+C1521941||prescription
+C0027415||narcotics
+C0036557||sedatives
+C0304402||stimulants
+C0003289||antidepressants
+C0684312||drivers
+C0304227||prescription drugs
+C0243095||nonmedically
+C1273869||interventions
+C0877256||impaired driving
+C4284232||medications

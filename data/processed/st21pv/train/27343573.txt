@@ -1,0 +1,31 @@
+C2936695||Graphene
+C0068361||Nafion
+C3874229||carbon electrode
+C1148554||determination
+C0000970||paracetamol
+C0004057||aspirin
+C0006644||caffeine
+C2936695||graphene
+C0068361||Nafion
+C3874229||carbon electrode
+C3874229||GR-NF/GCE
+C1148554||determination
+C0000970||paracetamol
+C0000970||paracetamol
+C0004057||aspirin
+C0004057||ASA
+C0006644||caffeine
+C0006644||caffeine
+C0000970||paracetamol
+C0004057||ASA
+C0006644||caffeine
+C0201748||square-wave adsorptive anodic stripping voltammetry
+C0201748||stripping
+C1148554||determination
+C0000970||paracetamol
+C0004057||ASA
+C0006644||caffeine
+C0000970||paracetamol
+C0004057||ASA
+C0006644||caffeine
+C0680536||commercial

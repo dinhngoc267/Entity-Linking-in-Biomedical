@@ -1,0 +1,23 @@
+C0014243||Endoscope
+C0189711||Clipping
+C0740385||Bilateral Middle Cerebral Artery Aneurysm
+C0087111||Unilateral Supraorbital Keyhole Approach
+C0189711||Clipping
+C0740385||bilateral middle cerebral artery (bMCA) aneurysms
+C0087111||unilateral approach
+C0543467||single-stage operation
+C1515089||surgical management
+C0740385||bMCA aneurysms
+C0014243||endoscope
+C0740385||bMCA aneurysms
+C0189711||aneurysms clipping
+C0087111||unilateral supraorbital keyhole approach
+C0014243||endoscope
+C0524850||microneurosurgery
+C0684336||impairment
+C0009566||complication
+C1706477||adaptation
+C0014243||endoscope
+C0189711||clipping
+C0740385||bMCA aneurysms
+C0087111||unilateral supraorbital keyhole approach

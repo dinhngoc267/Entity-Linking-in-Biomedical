@@ -1,0 +1,59 @@
+C0700307||surface hydroxyl
+C0600688||toxicity
+C0053787||BiOCl
+C0086418||human
+C0022567||HaCaT cells
+C0053787||bismuth oxychloride
+C1881976||nanomaterials
+C0053787||bismuth oxychloride nanomaterials
+C0599786||pollutant
+C0599786||Residues
+C0018626||hazardous materials
+C0086418||human
+C0086930||health risks
+C0053787||bismuth oxychloride nanomaterials
+C2603343||study
+C0596402||cytotoxicity
+C0053787||bismuth oxychloride nanomaterials
+C0086418||human
+C1123023||skin
+C0007634||cell line
+C0022567||HaCaT
+C0700307||surface hydroxyl
+C0600688||toxicity
+C0053787||bismuth oxychloride nanomaterials
+C0332479||Microsphere-shaped
+C0053787||BiOCl
+C0600688||toxicity
+C0332479||nanosheet-shaped
+C0053787||BiOCl
+C0007613||weaker particle-membrane interactions
+C0700307||surface hydroxyl
+C0332479||microsphere-shaped
+C0053787||BiOCl
+C0600688||toxicity
+C0007613||interaction
+C0007603||cell membrane
+C0332479||microsphere-shaped
+C0053787||BiOCl
+C0700307||surface hydroxyl
+C0332479||nanosheet-shaped
+C0053787||BiOCl
+C0007603||cell membrane
+C0005507||PI uptake
+C0005507||LDH release
+C0007613||mechanism
+C1623221||"chemical" mechanism
+C0162772||ROS
+C0017817||GSH
+C0007603||cell membrane
+C1623221||physical
+C1623221||"chemical" response
+C0007587||cell death
+C0681814||experiments
+C1720920||MMP
+C1155873||cell cycle arrest
+C0162638||apoptosis
+C0027540||necrosis
+C0053787||bismuth oxychloride nanomaterials
+C0053787||bismuth oxychloride nanomaterials

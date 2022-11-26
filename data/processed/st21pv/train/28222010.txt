@@ -1,0 +1,26 @@
+C1883721||Optical tweezers
+C2603343||studies
+C0040649||transcription
+C0015161||eukaryotic
+C0035681||RNA polymerases
+C0040649||Transcription
+C0017262||expression
+C1449655||macromolecular
+C0014442||enzymes
+C0035681||RNA polymerases
+C0040649||Transcription
+C2603343||studied
+C1881938||myriad
+C2603343||studies
+C0917793||high-resolution transcript sequencing
+C0282443||review
+C1883721||optical tweezers
+C2603343||study
+C0040649||transcription
+C0040649||transcription
+C0040649||transcription
+C0015161||eukaryotic
+C0035681||RNA polymerases
+C0005553||biophysics
+C0035681||RNA polymerase
+C0599893||translocation

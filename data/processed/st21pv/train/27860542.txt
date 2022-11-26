@@ -1,0 +1,45 @@
+C0412564||Fetal Tele-Echo
+C0019994||Small Regional Hospital
+C0033053||Prenatal diagnosis
+C0152021||congenital heart disease
+C0152021||congenital heart disease
+C0184511||improve
+C2239178||newborn
+C0033053||prenatal diagnosis
+C0444454||access
+C0412564||fetal echocardiography
+C0041703||United States
+C0412564||clinical fetal tele-echo
+C0565990||King's Daughters Medical Center
+C0565990||King's Daughters Medical Center
+C3811365||Ashland
+C0022557||KY
+C0022557||eastern Kentucky
+C0334892||congenital heart surgeon
+C2603343||study
+C0412564||fetal tele-echo
+C1954848||local sonographers
+C0019994||small regional hospital
+C0015965||fetuses
+C0152021||congenital heart disease
+C0025102||Medical records
+C0412564||fetal tele-echoes
+C0565990||King's Daughters Medical Center
+C0020028||University of Louisville pediatric cardiology
+C0243095||Findings
+C0412564||fetal tele-echo
+C0013516||echo
+C0412564||fetal tele-echo
+C0013516||echo
+C0412564||fetal tele-echo
+C2239178||newborn
+C0936012||analyzed
+C0412564||Fetal tele-echoes
+C0152021||congenital heart disease
+C0412564||fetal tele-echo
+C0278336||fetal echocardiograms
+C0412564||Fetal tele-echocardiography
+C1954848||local sonographers
+C0019994||small regional hospital
+C0015965||fetuses
+C0152021||congenital heart disease

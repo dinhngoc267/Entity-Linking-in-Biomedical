@@ -1,0 +1,51 @@
+C0870883||mono-hydroxylated metabolites
+C0032458||polycyclic aromatic hydrocarbons
+C1720880||on-line solid phase extraction
+C4054772||high performance liquid chromatography-tandem mass spectrometry
+C0086418||Human
+C0032458||polycyclic aromatic hydrocarbons
+C0032458||polycyclic aromatic hydrocarbons
+C1283169||monitoring
+C0032458||mono-hydroxylated PAHs
+C0032458||OH-PAHs
+C0008555||Gas chromatography
+C0008555||Gas chromatography
+C0032458||OH-PAHs
+C0037813||mass spectrometry
+C2603343||studies
+C0008555||Gas chromatography
+C1720880||on-line solid phase extraction
+C0022262||isotope
+C4054772||high performance liquid chromatography-tandem mass spectrometry
+C1720880||on-line-SPE
+C4054772||HPLC-MS
+C0037813||MS
+C0025663||method
+C0042036||urine
+C0027375||1-OH-naphthalene
+C0027375||2-OH-naphthalene
+C0060517||2-OH-fluorene
+C0060517||3-OH-fluorene
+C0031367||1-OH-phenanthrene
+C0031367||2-OH
+C0031367||3-OH-phenanthrene
+C0031367||4-OH-phenanthrene
+C0072667||1-OH-pyrene
+C0025663||method
+C0557351||employed
+C4283957||well plate platform
+C1720880||on-line SPE
+C1511790||detection
+C0042036||urine
+C1443182||calculated
+C0348018||spiking
+C1443182||calculated
+C0025663||method
+C0021622||NIST
+C1720880||on-line-SPE
+C4054772||HPLC-MS
+C0037813||MS
+C0025663||method
+C0002783||epidemiological studies
+C0032458||mono-hydroxylated PAH
+C0870883||metabolites

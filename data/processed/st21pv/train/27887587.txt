@@ -1,0 +1,61 @@
+C2004454||recovery
+C0018017||goals
+C0949415||qualitative study
+C2004454||Recovery
+C0018017||goals
+C0392347||hopes
+C2603343||study
+C0027361||persons
+C0475309||Community Mental Health Centre
+C0475309||Community Mental Health Centre
+C0087111||treatment
+C0018017||goals
+C0392347||hopes
+C2004454||recovery
+C1704312||health professionals
+C0087111||treatment
+C0087111||treatment
+C0018017||goals
+C0392347||hopes
+C2004454||recovery
+C1704312||health professionals
+C0475309||Community Mental Health Centre
+C0087111||treatment
+C1704312||health professionals
+C0018017||goals
+C0392347||hopes
+C0035173||co-researcher
+C2603343||study
+C0936012||thematic analysis
+C0679646||participants
+C1704312||health professionals
+C0475309||Community Mental Health Centre
+C2004454||recovery
+C0018017||goals
+C1446377||mental health problems
+C1527305||feelings
+C0243095||being 'pushed' into social arenas
+C0243095||finding helpful medication
+C0010210||counselling
+C0851511||family
+C0243095||practical
+C0243095||financial issues
+C0679646||participants
+C0010210||counselling
+C0851511||family
+C0243095||practical
+C0243095||financial challenges
+C0475309||Community Mental Health Centre
+C2004454||recovery
+C1704312||professional
+C0341652||helpers
+C2004454||recovery
+C1704312||health professionals
+C0018017||goals
+C0392347||hopes
+C2004454||recovery
+C0018017||goals
+C0010210||counselling
+C0851511||family
+C0243095||practical
+C0243095||financial issues

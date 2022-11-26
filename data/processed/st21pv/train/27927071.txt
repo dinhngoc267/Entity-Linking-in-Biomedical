@@ -1,0 +1,25 @@
+C1552578||Investigation
+C0220825||evaluation
+C0031928||pilot-scale
+C0220806||petrochemical
+C0220825||evaluation
+C0043047||water
+C0031928||pilot-scale
+C0220806||petrochemical
+C0429627||specific oxygen uptake rate
+C0429627||specific oxygen uptake rate
+C0043047||water
+C0429627||specific oxygen uptake rate
+C0043047||water
+C2936287||chemical oxygen demand
+C2936287||chemical oxygen demand
+C0368666||ammonia nitrogen
+C0005036||benzene
+C0040383||toluene
+C0059792||ethylbenzene
+C0043368||(o-, m-, p-) xylenes
+C0029224||BTEX
+C0070570||phenol
+C0936012||analyzed
+C1510940||aromatic compounds
+C0001674||adsorbed

@@ -1,0 +1,65 @@
+C4282132||Malignancy
+C0521174||microcalcification
+C0041618||ultrasonography
+C0677607||Hashimoto's thyroiditis
+C0430445||histopathology
+C0040137||thyroid nodules
+C0040137||Bethesda Category III
+C0522580||AUS
+C1272585||FLUS
+C1305671||cytology
+C0683956||predictors
+C4282132||malignancy
+C0376636||management
+C0040137||nodules
+C0522580||atypia of undetermined significance
+C1272585||follicular lesion of undetermined significance
+C0522580||AUS
+C1272585||FLUS
+C0683956||ultrasonographical
+C0683956||clinical
+C0683956||biochemical predictors
+C4282132||malignancy
+C0040137||cytologically Bethesda Category III
+C0522580||AUS
+C1272585||FLUS
+C0040137||thyroid nodules
+C0035363||retrospective study
+C0040137||nodules
+C1257890||subgroups
+C0430445||histopathology
+C1720195||ultrasonographical
+C3854293||clinical
+C0243095||biochemical findings
+C0522580||AUS
+C1272585||FLUS
+C0040137||nodules
+C0543467||surgery
+C4282132||malignancy
+C4282132||malignancy
+C0040137||nodules
+C0522580||AUS
+C0040137||nodules
+C1272585||FLUS
+C0430445||histopathology
+C0238463||papillary thyroid carcinoma
+C0238463||papillary thyroid carcinoma
+C1720195||ultrasonographic features
+C0040137||malignant nodules
+C0430445||histopathology
+C0749467||benign nodules
+C0430445||histopathology
+C1257890||malignant group
+C1257890||benign group
+C0936012||multiple logistic analysis
+C0521174||microcalcification
+C4282132||malignancy
+C4282132||malignancy
+C4282132||malignancy
+C0677607||Hashimoto's thyroiditis
+C0430445||histopathology
+C0040137||Bethesda Category III nodules
+C0521174||microcalcification
+C0543467||surgery
+C1510483||fine-needle aspiration biopsy
+C0302523||observation

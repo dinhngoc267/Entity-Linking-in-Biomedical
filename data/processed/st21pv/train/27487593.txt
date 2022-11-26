@@ -1,0 +1,54 @@
+C0011570||DEPRESSION
+C0003469||ANXIETY
+C0038443||STRESS
+C0680022||CORPS MEMBERS
+C0011570||Depression
+C0003469||anxiety
+C0038443||stress
+C1446377||health problems
+C1513916||negative
+C1561598||national youth service
+C0596545||experiences
+C0680022||corps member
+C0033898||psychological factors
+C0680022||corps members
+C2603343||study
+C0011570||depression
+C0003469||anxiety
+C0038443||stress
+C0680022||corps members
+C0010362||cross-sectional study
+C0680022||corps members
+C1301808||state
+C0679646||participants
+C0681878||simple random sampling
+C0034394||self-administered questionnaire
+C0008041||chi-square test
+C0206031||multivariate logistic regression
+C0011570||depression
+C0003469||anxiety
+C0038443||stress
+C0282122||respondents
+C0037179||single
+C0011570||depression
+C0003469||anxiety
+C0038443||stress
+C0282122||respondents
+C0011570||depression
+C0017446||North central
+C0017446||South-south
+C0030971||perception
+C0003469||anxiety
+C0017446||North central
+C0035648||risk factors
+C0035648||risk factor
+C0038443||stress
+C0013658||schooled
+C0237096||residence
+C0564404||stressed
+C0011570||depression
+C0003469||anxiety
+C0038443||stress
+C0680022||corps members
+C2603343||study
+C0033213||problem

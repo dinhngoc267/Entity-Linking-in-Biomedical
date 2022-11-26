@@ -1,0 +1,50 @@
+C1706082||In-Chain-Functionalized Compounds
+C0002065||Methyl-Branched Alkanes
+C2699479||Cuticular
+C0043076||Waxes
+C1123020||Triticum aestivum cv. Bethlehem
+C2699479||cuticular
+C0043076||waxes
+C0242724||flag leaf
+C2700402||blades
+C2698753||peduncles
+C1123020||Triticum aestivum cv. Bethlehem
+C0043076||wax compounds
+C0043076||wax compound
+C1705943||classes
+C0442726||detected
+C0220807||structures
+C0024868||gas chromatography-mass spectrometry
+C0243072||derivatives
+C0043076||waxes
+C0242724||flag leaf
+C2700402||blades
+C0017951||primary
+C0017951||secondary diols
+C0017951||C28
+C0014898||esters of primary
+C0014898||secondary diols
+C0014898||C50
+C0017945||C28 diol
+C0369760||C22 acid
+C0014898||7-
+C0014898||8-hydroxy-2-alkanol esters
+C0014898||C35
+C0014898||7-
+C0014898||8-oxo-2-alkanol esters
+C0014898||C35
+C0022947||4-alkylbutan-4-olides
+C0022947||C28
+C0242724||flag leaf
+C2698753||peduncle
+C0043076||wax
+C0242724||leaf
+C2698753||peduncle
+C0043076||waxes
+C0029224||C-11
+C0029224||C-13 of homologs with even total carbon number
+C0029224||C-12 of odd-numbered homologs
+C1721101||Biosynthetic pathways
+C0220807||structural
+C1510495||wheat
+C0043076||wax compound

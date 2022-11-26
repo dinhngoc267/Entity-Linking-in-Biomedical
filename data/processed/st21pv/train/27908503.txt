@@ -1,0 +1,50 @@
+C0025080||Cobalt-60 Machines
+C0023730||Medical Linear Accelerators
+C1517033||External Beam Radiotherapy
+C0023730||Medical linear accelerators
+C0023730||linear accelerators
+C0025080||cobalt-60 machines
+C1517033||external beam radiotherapy
+C1514880||infrastructure
+C0034603||dosimetry
+C0243095||shielding
+C1514880||Infrastructure
+C0023730||linear accelerators
+C0034603||dosimetry
+C0443264||modulated
+C0332219||easier
+C0087111||treatment
+C0023730||linac
+C0027651||tumour
+C0178784||healthy organs
+C0243095||shielding
+C0025080||cobalt-60 machines
+C0023730||linear accelerators
+C0243095||shielding
+C0023730||linear accelerators
+C0023730||linear accelerators
+C0023730||linear accelerators
+C0023730||linear accelerators
+C0023730||multi-energy linacs
+C0025080||cobalt-60 machines
+C0182598||radioactive source
+C0449416||source
+C0025080||cobalt-60 machines
+C0023730||linear accelerators
+C0087111||treatment
+C0332219||easier
+C0023730||linear accelerators
+C0023730||linear accelerators
+C0087111||treatments
+C0025080||cobalt-60 machines
+C0023730||linear accelerators
+C1522449||radiotherapy
+C1331016||low-
+C0454664||countries
+C0587444||radiotherapy department
+C1704729||orthovoltage X-ray units
+C0205276||Local
+C0679006||decision
+C0419095||teletherapy
+C0018017||goal
+C0587559||radiotherapy service

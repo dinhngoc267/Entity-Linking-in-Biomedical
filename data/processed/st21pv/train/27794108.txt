@@ -1,0 +1,67 @@
+C3887831||FGF21
+C0005516||biomarker
+C2245743||mitochondrial translation
+C0012929||mitochondrial DNA
+C0012634||disorders
+C0162670||mitochondrial myopathy
+C0229671||serum
+C0005516||biomarkers
+C0011933||diagnostic use
+C0936012||analyzed
+C0229671||serum
+C3887831||FGF21
+C3887831||serum FGF21
+C1431343||GDF15
+C0751651||mitochondrial diseases
+C0012634||nonmitochondrial disorders
+C0751651||mitochondrial disorder
+C0920317||meta-analysis
+C3887831||serum FGF21
+C0751651||mitochondrial disease
+C0936012||analyzed
+C3887831||S-Fgf21
+C0242692||skeletal muscle
+C3887831||Fgf21
+C0017262||expression
+C0025929||mouse
+C0599779||models
+C0026845||muscle
+C4021734||mitochondrial dysfunctions
+C3887831||serum FGF21
+C0162670||mitochondrial myopathy
+C2245743||mitochondrial translation
+C0000768||defects
+C4313882||mitochondrial DNA (mtDNA) deletions
+C0025929||mice
+C4313882||mtDNA deletions
+C0025929||mice
+C0000768||structural respiratory chain subunit or assembly factor defects
+C0086418||human
+C0025929||mice
+C1273937||not significant
+C3887831||FGF21
+C1431343||GDF15
+C0162670||mitochondrial myopathy
+C1431343||GDF15
+C3887831||serum FGF21
+C0005516||biomarker
+C0026845||muscle
+C0000768||defects
+C2245743||mitochondrial translation
+C0026237||mitochondrial
+C0035711||transfer-RNA
+C0026882||mutations
+C4313882||mtDNA deletions
+C0751651||mitochondrial disease
+C3887831||serum FGF21
+C1513916||not
+C0000768||structural respiratory chain complex or assembly factor defects
+C0430022||diagnostics
+C2603343||study
+C0441887||Class III
+C3887831||serum FGF21
+C0162670||mitochondrial myopathies
+C3887831||FGF21
+C1431343||GDF15
+C0162670||mitochondrial myopathy
+C0026848||myopathies

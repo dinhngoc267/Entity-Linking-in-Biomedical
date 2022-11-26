@@ -1,0 +1,30 @@
+C0872279||Whole-body strength training
+C0872279||traditional strength training
+C0700431||cardiac rehabilitation
+C0681867||randomized controlled study
+C0022206||Isometric strengthening
+C0010068||coronary heart disease
+C0010068||coronary heart disease
+C0879626||potential side effects
+C0872279||resistance training
+C0872279||traditional strength training
+C0872279||traditional strength training
+C0010068||coronary heart disease
+C0700431||cardiac rehabilitation
+C0872279||traditional strength training
+C0150108||blinded
+C0220825||evaluation
+C0034991||rehabilitation program
+C2959886||testing for cardiopulmonary exercise
+C0430022||maximal isometric voluntary contraction
+C0014257||endothelial
+C0003188||anthropometric
+C0014257||endothelial
+C0018810||heart rate
+C2348563||protocols
+C0010068||coronary heart disease
+C2348563||training protocol
+C0022205||isometric contractions
+C2004454||recovery
+C0034991||rehabilitation programs
+C0010068||coronary heart disease

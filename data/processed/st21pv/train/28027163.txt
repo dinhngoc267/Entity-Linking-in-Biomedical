@@ -1,0 +1,20 @@
+C0018725||Health Physics
+C0018725||health physics
+C0182598||radioactive materials
+C0349674||unprecedented scale
+C0022877||laboratories
+C0334722||health physicists
+C0034533||protecting people
+C0199168||medical
+C0035168||research
+C0205391||prevalent today
+C0199171||medical procedures
+C0025118||medicine
+C0011438||dentistry
+C0871893||scripted
+C3873809||Instruments for the detection and measurement of radiation
+C0018725||health physics
+C0015333||exposures to radiation
+C0182598||radioactive materials
+C0024679||effectively managed
+C1273796||disappearing specialties

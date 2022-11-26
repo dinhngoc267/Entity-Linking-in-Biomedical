@@ -1,0 +1,54 @@
+C4254914||Medial Patellofemoral Ligament
+C0547071||Reconstruction
+C0015811||Femoral
+C0012634||Disease
+C4254914||Medial patellofemoral ligament
+C4254914||Medial patellofemoral ligament
+C0547071||reconstruction
+C0559397||lateral patellar translation
+C0856775||symptomatic patellofemoral instability
+C0015811||femoral
+C0733755||position
+C4254914||Medial patellofemoral ligament
+C0547071||reconstruction
+C0030698||patient outcomes
+C0015811||femoral
+C1533810||placement
+C4254914||Medial patellofemoral ligament
+C0547071||reconstruction
+C0599755||cohort
+C1519941||validated
+C0012634||disease
+C0080105||subjects
+C4254914||Medial patellofemoral ligament
+C0547071||reconstruction
+C0205093||Lateral
+C1306645||radiographs
+C0015811||femoral
+C0015811||femoral
+C0205093||lateral
+C1306645||radiographs
+C1522577||follow-up
+C0205099||center
+C0015811||femoral
+C1262018||failures
+C0599755||cohort
+C0333042||malpositioned
+C0205099||center
+C4254914||Medial patellofemoral ligament
+C0205099||center
+C1709490||Pearson r correlation
+C1273937||no statistically significant
+C0015811||femoral
+C0733755||position
+C4254914||Medial patellofemoral ligament
+C0547071||reconstruction
+C0015811||femoral
+C0012634||disease
+C1262018||Graft failure
+C0015811||femoral
+C1533810||placement
+C0856775||patellofemoral instability
+C0035648||risk factors
+C0733755||position
+C0220825||investigation

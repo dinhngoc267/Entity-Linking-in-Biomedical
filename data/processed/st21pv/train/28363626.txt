@@ -1,0 +1,62 @@
+C1519941||Validating
+C0037088||Signs and Symptoms
+C0040861||Triage
+C0002045||Algorithm
+C0678803||Chemical exposures
+C0220825||assessment
+C0557519||emergency nurses
+C0011065||death
+C0231170||disability
+C0037589||informatics tools
+C1283169||monitor
+C0037088||signs/symptoms
+C0040861||triage
+C2603343||study
+C0562508||ED
+C0037589||informatics tools
+C1519941||validation
+C0037088||signs/symptoms
+C0039082||syndrome
+C0087111||treated
+C0562508||emergency department
+C0037088||signs/symptoms
+C0037589||tools
+C0037589||WISER
+C0037589||CHEMM-IST
+C3178988||emergency responders
+C0557519||emergency nurses
+C0018626||hazardous material
+C0237913||Fisher's exact test
+C0086143||diagnostics tests
+C0037088||signs/symptoms
+C0027361||persons
+C0037088||signs/symptoms
+C0039082||syndrome
+C0013404||shortness of breath
+C0043144||wheezing
+C0010200||coughing
+C0008301||choking
+C0235710||chest discomfort
+C0232292||tightness
+C0008031||pain
+C0740396||burning
+C0015392||eye
+C0028429||nose
+C3665375||throat
+C0030193||pain
+C0085624||burning
+C0039082||syndrome
+C0150312||presence
+C0037088||signs/symptoms
+C1998203||exposed
+C1998203||exposed persons
+C2603343||study
+C1519941||validate
+C0037088||signs/symptoms
+C0039082||syndrome
+C1519941||Validating
+C0037088||signs/symptoms
+C0562508||ED
+C0037589||informatics tools
+C0557519||emergency nurses
+C0040861||triage

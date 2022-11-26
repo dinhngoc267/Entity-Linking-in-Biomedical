@@ -1,0 +1,55 @@
+C1113688||Hypocretin/Orexin Peptides
+C0034693||Rat
+C0027912||Neuroendocrine
+C1512035||Dopamine Neurons
+C0671880||Orexin 2 Receptor
+C0007447||Cation
+C0162585||Current
+C1113688||Hypocretin/Orexin
+C1113688||Hypocretin/Orexin
+C0027882||neurons
+C0020654||lateral hypothalamus
+C0027361||modulator candidates
+C0008716||chronobiology
+C0027912||neuroendocrine
+C0032008||anterior pituitary
+C1113688||H/O peptides
+C1512035||tuberoinfundibular dopamine (TIDA) neurons
+C0007634||cells
+C0032005||pituitary
+C2611224||secretion of prolactin
+C0242624||whole cell recordings
+C0034693||rat
+C0449445||hypothalamic slices
+C0671870||H/O-A
+C0671872||H/O-B
+C1512035||TIDA neurons
+C1113688||Hypocretin/Orexin
+C0439786||inward
+C0162585||current
+C1167384||post-synaptic
+C0150312||presence
+C0039705||tetrodotoxin
+C0037492||Na(+)
+C1563722||transient receptor potential-like channel
+C0669933||2-APB
+C0521119||extracellular
+C0037492||Na(+)
+C0671880||OX2R receptor
+C0671880||OX2R receptor
+C0243076||antagonist
+C3492123||TCS OX2 29
+C0597357||OX1R receptor
+C0243076||antagonist
+C1097132||SB 334867
+C0185125||Application
+C0019932||hormone
+C0025219||melatonin
+C1512035||tuberoinfundibular dopamine
+C0025251||membrane potential
+C0678257||description
+C1113688||H/Os
+C1512035||TIDA network
+C3537153||cellular mechanisms
+C0008810||circadian rhythmicity
+C2611224||prolactin secretion

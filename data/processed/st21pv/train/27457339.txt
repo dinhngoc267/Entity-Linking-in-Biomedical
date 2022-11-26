@@ -1,0 +1,50 @@
+C0596290||Proliferation
+C2699153||Invasion
+C1254351||Drug
+C0162638||Apoptosis
+C0023448||Lymphoblastic Leukemia
+C0015352||extracellular
+C0027651||tumors
+C0178874||tumor progression
+C0040300||tissues
+C2603343||study
+C0015352||extracellular
+C0596290||proliferation
+C2699153||invasion
+C1254351||drug
+C0162638||apoptosis
+C0883208||acute lymphoblastic cells
+C0883208||cells
+C0596290||Cell proliferation
+C2986858||MTT assay
+C2699153||cell invasion
+C0022885||invasion assay
+C1880945||gene expression analysis
+C0165519||MMP-9
+C1254351||Drug
+C0162638||apoptosis
+C0013089||doxorubicin
+C0059249||annexin V
+C0033470||PI
+C0487602||staining
+C1880945||gene expression analysis
+C0219474||BAX pro-apoptotic protein
+C0007595||growth
+C2699153||invasion
+C0023418||leukemic
+C0007634||cells
+C0007634||cells
+C0162638||apoptosis
+C0013089||doxorubicin
+C0596290||proliferation
+C2699153||invasion
+C1254351||drug
+C0162638||apoptosis
+C0023449||acute lymphoblastic leukemia
+C0015352||Extracellular
+C0023418||leukemic
+C0007634||cells
+C0015349||extracellular liquid
+C0087111||therapeutic strategy
+C0023418||leukemia
+C0023449||acute lymphoblastic leukemia

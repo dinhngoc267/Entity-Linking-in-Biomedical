@@ -1,0 +1,35 @@
+C0220825||Assessment
+C0006104||cerebral
+C0000981||acetazolamide
+C3891302||3D spiral ASL MRI
+C0015730||clinical feasibility
+C3891302||non-Cartesian cylindrically-distributed spiral 3D pseudo-continuous arterial spin labeling (pCASL) magnetic resonance imaging (MRI)
+C3828438||pulse sequence
+C0428714||cerebral blood flow
+C0428714||cerebral blood flow
+C0042402||acetazolamide (ACZ) vasodilator
+C0024485||MRI exams
+C2346499||institutional review board approval
+C3891302||3D spiral-based pCASL technique
+C0412675||brain MRI exam
+C3469597||administered
+C0000981||acetazolamide
+C2985739||clinically indicated
+C0005776||whole-brain CBF measurements
+C0000981||acetazolamide
+C0007818||cerebrovascular reserve
+C3891302||3D spiral pCASL
+C0150093||cases
+C0428714||cerebral blood flow
+C3469597||administration of
+C0000981||acetazolamide
+C0428714||cerebral blood flow
+C0000981||acetazolamide
+C0428714||cerebral blood flow
+C0000981||acetazolamide
+C0871472||t-test analysis
+C0428714||cerebral blood flow
+C1636167||MR angiography
+C0455712||clinical findings
+C3891302||3D cylindrically-distributed spiral pCASL MRI
+C0428714||cerebral blood flow

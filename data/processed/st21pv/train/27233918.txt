@@ -1,0 +1,30 @@
+C0678121||Basal
+C0005595||avian
+C1705920||species
+C0005595||birds
+C0000934||acclimation
+C0000934||acclimatization
+C0678121||basal
+C0678121||BMR
+C1705920||species
+C0449774||pattern
+C0678121||BMR
+C0000934||acclimation
+C1093387||white-throated sparrows
+C1093387||Zonotrichia albicollis
+C0326488||black-capped chickadees
+C0326488||Poecile atricapillus
+C0326923||snow buntings
+C0326923||Plectrophenax nivalis
+C0000934||acclimation
+C0000934||acclimation
+C0005595||Birds
+C0449774||patterns
+C1705920||species
+C1093387||Sparrows
+C0326488||chickadees
+C0326923||buntings
+C0449774||patterns
+C0678121||BMR
+C0017446||northern latitudes
+C0005595||birds

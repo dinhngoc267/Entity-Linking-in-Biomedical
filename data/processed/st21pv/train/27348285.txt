@@ -1,0 +1,111 @@
+C0221423||Illness
+C0581126||Severe Asthma
+C0013216||pharmacotherapy
+C0581126||severe asthma
+C0012634||disease
+C0581126||severe asthma
+C0596545||experience
+C0349790||exacerbations
+C0581126||severe asthma
+C0596545||experienced
+C0349790||exacerbations
+C0004096||asthma
+C0936012||analysis
+C0242356||national administrative claims database
+C0004096||asthma
+C0011900||diagnosis
+C0680536||commercial
+C0599755||cohorts
+C3266628||persistent asthma
+C3266628||persistent asthma
+C0581126||severe asthma
+C0581126||severe asthma
+C0002045||algorithm
+C0004096||asthma
+C0013227||controller medication
+C0581126||severe asthma
+C3266628||persistent asthma
+C0349790||asthma exacerbations
+C0004096||Asthma
+C0004096||asthma
+C2081612||medication
+C0004096||asthma
+C0011900||diagnosis
+C0444508||primary position
+C3266628||persistent asthma
+C0581126||severe asthma
+C0599755||cohorts
+C0936012||analyzed
+C0871472||t-test
+C0008041||chi-square test
+C0004096||Asthma
+C0936012||analyzed
+C0026348||log link
+C0017446||region
+C3266628||persistent asthma
+C0581126||severe asthma
+C3266628||persistent asthma
+C0599755||cohort
+C0581126||severe asthma
+C0599755||cohort
+C0004096||asthma
+C2081612||medications
+C0581126||severe asthma
+C0599755||cohort,
+C3266628||persistent asthma
+C0599755||cohort
+C1272919||oral
+C0004048||inhaled
+C0087111||controller therapy
+C0581126||severe asthma
+C0599755||cohort
+C3266628||persistent asthma
+C0599755||cohort
+C0581126||severe asthma
+C0004096||asthma
+C0019993||hospitalizations
+C0586082||emergency room visits
+C0004096||asthma
+C0581126||severe asthma
+C3266628||persistent asthma
+C0599755||cohorts
+C0004096||asthma
+C0004096||asthma
+C2081612||medication
+C0004096||asthma
+C0581126||severe asthma
+C0599755||cohort
+C0004096||asthma
+C2081612||medication
+C0581126||severe asthma
+C0599755||cohort
+C0581126||severe asthma
+C0596545||experienced
+C0349790||exacerbations
+C0087111||controller medications
+C3266628||persistent asthma
+C0013216||pharmacotherapy
+C0581126||severe asthma
+C0004096||asthma
+C0004096||asthma
+C2081612||medication
+C3266628||persistent asthma
+C0581126||severe asthma
+C0086388||health care
+C2603343||study
+C1552903||GlaxoSmithKline
+C1552903||GlaxoSmithKline
+C3812881||authors
+C0599987||employees
+C1552903||GlaxoSmithKline
+C1552903||GlaxoSmithKline
+C0599987||employees
+C1552903||GlaxoSmithKline
+C0035168||research
+C0599987||employees
+C1552903||GlaxoSmithKline
+C0035168||research
+C2603343||study
+C0010995||data collection
+C0600659||manuscript
+C3812881||authors

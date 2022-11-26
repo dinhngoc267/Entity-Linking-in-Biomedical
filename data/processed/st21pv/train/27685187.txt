@@ -1,0 +1,60 @@
+C0242481||translation
+C0003048||animal research
+C0038951||survey
+C0683971||general public
+C0038495||medical students
+C0003062||animal
+C0035173||researchers
+C0028405||North America
+C0038137||standards
+C0003048||animal research
+C0003048||animal research
+C0086418||humans
+C0038951||survey
+C0683971||general public
+C1552679||Sampling Survey International
+C1552679||Sampling Survey International
+C0006823||Canada
+C1552679||Amazon Mechanical Turk
+C1552679||Amazon Mechanical Turk
+C0041703||USA
+C0006823||Canadian city
+C0006823||Canadian
+C0020017||children's hospital
+C0020017||children's hospital
+C0038495||medical students
+C0402112||scientists
+C3812881||authors
+C1510747||academic
+C0237433||paediatricians
+C0683971||general public
+C1552679||Sampling Survey International
+C1552679||Amazon Mechanical Turk
+C0020017||children's hospital
+C0038495||medical student
+C0402112||scientist
+C0683971||general public
+C0038495||medical student
+C0282122||respondents
+C0003048||animal research
+C0002903||anaesthesia
+C0002766||analgesia
+C0015187||euthanasia
+C0282441||literature review
+C0034656||randomisation
+C0150108||blinding
+C0009818||consultation
+C0025106||laboratory staff
+C0242481||translation
+C0086418||humans
+C0600688||toxicity
+C0858970||carcinogenicity
+C0232910||teratogenicity
+C0242481||translation
+C0242481||translation
+C0026192||minority
+C0003048||animal research
+C0038495||Medical students
+C0003048||animal research
+C0242481||translation
+C0003048||animal research

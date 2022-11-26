@@ -1,0 +1,20 @@
+C0237401||Individual
+C0224456||Leg Muscle
+C2603343||study
+C0332128||examined
+C0237401||individual
+C0026845||muscles
+C0001792||elderly subjects
+C0679646||participants
+C1999167||old aged
+C0030055||mean oxygen consumption
+C0013839||Electromyography
+C0224456||leg muscles
+C0026845||muscle
+C1999167||old group
+C0026845||muscles
+C0242694||Soleus
+C0001811||aging
+C0001792||older
+C0237401||individuals
+C2362789||lower limb muscles

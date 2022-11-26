@@ -1,0 +1,23 @@
+C2609414||Acute kidney injury
+C0546817||fluid overload
+C0018821||cardiac surgery
+C2609414||Acute kidney injury
+C0009566||complication
+C0879626||adverse outcomes
+C2609414||acute kidney injury
+C0035648||risk factors
+C0746919||no single medication
+C0746919||therapy
+C0087111||treatment
+C0546817||fluid overload
+C0018821||cardiac surgery
+C0184661||intervention
+C2609414||acute kidney injury
+C0546817||fluid overload
+C0206074||renal replacement therapy
+C0031139||peritoneal dialysis
+C0028961||oliguria
+C0018821||heart surgery
+C2609414||acute kidney injury
+C0011900||diagnose
+C0808232||therapeutic interventions

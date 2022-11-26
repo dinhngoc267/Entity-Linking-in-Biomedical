@@ -1,0 +1,82 @@
+C3714787||CNS
+C1621980||Axon Regeneration
+C4236548||Action potential initiation
+C4236672||propagation
+C1660767||ion channel clustering
+C1179989||axon initial segments
+C1179989||(AIS
+C0034667||nodes of Ranvier
+C3263723||injury
+C0027767||nervous system function
+C3714787||CNS
+C0004461||axons
+C0034954||refractory
+C1621980||regeneration
+C1621980||regeneration
+C0334220||remyelination
+C1179989||axon initial segments
+C0034667||nodes of Ranvier
+C0025929||mouse
+C0029130||optic nerve
+C0332679||crush
+C0012644||model
+C3714787||CNS
+C3263723||traumatic injury
+C0936012||analysis
+C1179989||axon initial segments
+C0034667||node
+C0161479||nerve crush
+C1179989||axon initial segments
+C0034667||nodes
+C0332679||crush
+C0034667||nodes
+C3263723||injury
+C0017260||Genetic deletion
+C0694888||tumor suppressor phosphatase and tensin homolog
+C0694888||phosphatase and tensin homolog
+C0035316||retinal ganglion cells
+C0035316||retinal ganglion cells
+C0007613||stimulation
+C0035316||retinal ganglion cells
+C0021368||inflammation
+C0001455||cAMP
+C1621980||regeneration
+C3161471||treatmen
+C0035316||RGC
+C1179989||axon initial segments
+C0334220||remyelination
+C0034667||nodes
+C0205107||regions proximal
+C0332285||within
+C0205108||distal
+C0332679||crush
+C1515974||site
+C0334220||Remyelination
+C0459620||near the retina
+C0205108||distally
+C0026019||electron microscopy
+C0004461||axons
+C0007595||grew
+C0334220||remyelination
+C1660767||nodal ion channel clustering
+C0017260||genetic deletion
+C1384562||ankyrinG
+C0035316||retinal ganglion cells
+C1179989||axon initial segments
+C1621980||axon regeneration
+C0085304||neuronal polarity
+C0243095||not required
+C1621980||axon regeneration
+C1621980||regenerating
+C3714787||CNS
+C0004461||axons
+C0334220||remyelinated
+C1179989||axon initial segments
+C0034667||nodes of Ranvier
+C1621980||regenerated
+C3714787||CNS
+C0004461||axons
+C0334220||remyelinate
+C1179989||axon initial segments
+C0034667||nodes of Ranvier
+C4236672||action potential propagation

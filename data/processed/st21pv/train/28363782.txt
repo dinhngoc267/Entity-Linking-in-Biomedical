@@ -1,0 +1,36 @@
+C1442788||Fyn
+C0443156||bipolar
+C1753129||neurite morphogenesis
+C1326504||migrating neurons
+C1818475||developing neocortex
+C1442788||Fyn
+C0243095||non-receptor
+C0033681||protein tyrosine kinase
+C0282625||Src family kinases
+C1442788||Fyn
+C1326504||neuronal migration
+C0038855||suppression
+C1442788||Fyn
+C1171362||expression
+C1522579||mouse cerebral cortex
+C2750249||migration defects
+C0027882||neurons
+C0543482||Morphological
+C0936012||analysis
+C1442788||Fyn
+C0443156||bipolar
+C0027882||neurons
+C1753129||neurite formation
+C1326504||migration
+C1442788||Fyn
+C1519619||inhibition
+C0007613||leading process
+C0205384||branching
+C1326504||migrating cortical neurons
+C1442788||Fyn
+C1326504||neuronal migration
+C1327622||regulating
+C0010853||cytoskeletal
+C0443156||bipolar
+C0027882||neurons
+C1818475||cortical development

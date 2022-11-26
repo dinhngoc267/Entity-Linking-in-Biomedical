@@ -1,0 +1,76 @@
+C0681814||Studying
+C0286651||Atorvastatin
+C1328819||small molecule
+C1254351||drug
+C0860803||high glucose
+C0235032||neurotoxicity
+C0085262||PC12 cells
+C0068355||NADPH oxidase
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0068355||NADPH oxidase
+C0068355||NADPH oxidase
+C0014429||activation
+C0020456||hyperglycemia
+C0040300||tissues
+C0681814||study
+C0068355||NOXs
+C0860803||high glucose
+C0860803||high glucose
+C0600688||toxic effect
+C0027757||neural tissues
+C0030664||pathologies
+C0068355||NOX enzymes
+C1328819||small molecules
+C0360714||Statins
+C0242606||oxidative stress
+C0068355||NADPH oxidase
+C1524081||inhibition
+C0040300||tissues
+C0027757||neural
+C0068355||NOXs
+C0860803||high glucose
+C0286651||Atorvastatin
+C1328819||small molecule
+C0443264||modulate
+C1151146||NOXs activity
+C0027882||neural cells
+C0085262||PC12 cells
+C0332293||treated with
+C0860803||high glucose
+C0150312||presence
+C0286651||Atorvastatin
+C0007620||cell viability
+C2986858||MTT assay
+C3463810||protein expressions profile
+C0068355||NADPH oxidase
+C0599161||RT-PCR
+C0005863||western blotting
+C0162772||reactive oxygen species
+C0024643||malondialdehyde
+C0024643||malondialdehyde
+C0017262||Gene
+C1171362||protein expression
+C0068355||NADPH oxidase
+C0162772||reactive oxygen species
+C0024643||malondialdehyde
+C0860803||high glucose
+C0085262||PC12 cells
+C0286651||Atorvastatin
+C0860803||high glucose
+C0068355||NOXs
+C0162772||reactive oxygen species
+C0024643||malondialdehyde
+C0702240||elevation
+C0184511||improve
+C0007620||cell viability
+C0860803||high glucose
+C1151146||NOXs activity
+C0162772||reactive oxygen species
+C0024643||malondialdehyde
+C0027757||neural tissues
+C0286651||Atorvastatin
+C1328819||small molecule
+C1254351||NOX inhibitor drug
+C0342257||diabetic complications
+C0442874||neuropathy

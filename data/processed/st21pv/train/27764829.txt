@@ -1,0 +1,39 @@
+C1273380||Mutant Prevention Concentration
+C1136255||Topical Antimicrobial Agents
+C0033477||Propionibacterium acnes
+C1273380||mutant prevention concentration
+C1273380||mutant prevention concentration
+C1136254||antimicrobial agents
+C0004611||bacteria
+C1136254||antimicrobial
+C0087111||therapies
+C1273380||MPCs
+C1136255||topical antimicrobial agents
+C0033477||Propionibacterium acnes
+C0038172||Staphylococcus aureus
+C0162627||skin infections
+C1273380||MPCs
+C0286402||nadifloxacin
+C0008947||clindamycin
+C0008947||clindamycin
+C1273380||mutant prevention concentration
+C0033477||P. acnes
+C0286402||nadifloxacin
+C1273380||mutant prevention concentration
+C0038172||S. aureus
+C1304747||minimum inhibitory concentrations
+C1273380||MPCs
+C0008947||clindamycin
+C0033477||P. acnes
+C0038172||S. aureus
+C0286402||Nadifloxacin
+C0033477||P. acnes
+C0038172||S. aureus
+C0033477||P. acnes
+C0013203||resistance
+C0949665||fluoroquinolones
+C0038172||S. aureus
+C0008947||clindamycin
+C0013203||resistant
+C0033477||P. acnes
+C0038172||S. aureus

@@ -1,0 +1,18 @@
+C0018810||Heart rate
+C0005516||biomarker
+C0235195||sedation depth
+C0021708||ICU
+C0021708||ICU
+C0018810||heart rate
+C0282420||paper
+C0013798||ECG
+C0199470||mechanically ventilated
+C0036557||sedatives
+C0021708||ICU setting
+C0235195||sedation depth
+C1283169||monitoring
+C0018810||heart rate
+C0681935||leave-one-subject-out cross validation
+C0220825||evaluations
+C0851286||staff
+C0021708||ICUs

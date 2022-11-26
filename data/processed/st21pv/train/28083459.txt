@@ -1,0 +1,26 @@
+C0041330||Koch's Spine
+C0010468||Transpedicular Vertebral Curettage
+C0205095||Posterior
+C0185023||Fixation
+C0041296||Tuberculosis
+C0041296||Tuberculosis
+C1610637||granulomatous infection
+C0026926||acid-fast mycobacterium tuberculosis bacilli
+C0444534||Spinal involvement
+C0041296||Tuberculosis
+C0041330||Spinal TB
+C0041330||Pott's disease
+C0224591||thoracolumbar junction
+C0037949||spine
+C0011900||diagnosis
+C0087111||treatment
+C0235029||neurological complications
+C0575157||spinal deformity
+C0684224||report
+C0041330||tuberculosis
+C0507384||D12-L1
+C0205095||posterior
+C1829459||decompression
+C0010468||transpedicular approach
+C0205095||posterior
+C0356967||instrumentation

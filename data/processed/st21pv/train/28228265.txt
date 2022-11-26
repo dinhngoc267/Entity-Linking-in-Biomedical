@@ -1,0 +1,37 @@
+C0077678||E3 Ligase
+C3657865||RNF126
+C1519751||Ubiquitinates
+C0387678||Frataxin
+C0016719||Friedreich Ataxia
+C0016719||Friedreich ataxia
+C0016719||Friedreich ataxia
+C0524851||neurodegenerative disease
+C1171362||expression
+C0949610||mitochondrial protein
+C0387678||frataxin
+C0087111||treat
+C0387678||frataxin
+C0012634||disease
+C0387678||frataxin
+C0387678||Frataxin
+C1523807||ubiquitin-proteasome system
+C0387678||frataxin
+C0077678||E3 ligase
+C0035171||strategy
+C0387678||frataxin
+C0077678||RING E3 ligase
+C3657865||RNF126
+C0014442||enzyme
+C0387678||frataxin
+C1519751||ubiquitination
+C3657865||RNF126
+C0387678||frataxin
+C1519751||ubiquitination
+C1515655||in vivo
+C3657865||RNF126
+C0387678||frataxin
+C4055506||accumulation
+C0007634||cells
+C0016719||Friedreich ataxia
+C3657865||RNF126
+C0016719||Friedreich ataxia

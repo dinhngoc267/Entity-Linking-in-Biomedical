@@ -1,0 +1,24 @@
+C0754011||Abiraterone
+C0035410||rhabdomyolysis
+C2609414||acute kidney injury
+C0007320||case report
+C0282441||review of the literature
+C0754011||Abiraterone
+C3160096||CYP17 inhibitor
+C1157302||androgen biosynthesis
+C0040300||tissue
+C0032952||prednisone
+C1708063||first-line treatment
+C2939420||metastatic
+C1328504||castration-resistant prostate cancer
+C0035410||rhabdomyolysis
+C0754011||abiraterone
+C0087111||therapy
+C2609414||acute
+C0160420||kidney injury
+C2939420||metastatic
+C1328504||castration-resistant prostate cancer
+C1516647||monitoring
+C0754011||abiraterone
+C0035648||risk factors
+C0035410||rhabdomyolysis

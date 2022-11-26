@@ -1,0 +1,57 @@
+C1854293||Iterative
+C0220825||Evaluation
+C1138555||Pharmacogenomic
+C0525070||Clinical Decision Support System
+C1138555||Pharmacogenomic
+C0805586||challenges
+C0220825||evaluate
+C0525070||clinical decision support system
+C0525070||clinical decision support system
+C1138555||pharmacogenomic
+C0031831||physicians
+C0031323||pharmacists
+C0031831||physicians
+C0031323||pharmacists
+C1854293||iterations
+C1519941||validation
+C1138555||pharmacogenomic
+C0525070||clinical decision support system
+C0034869||recorded
+C0679646||participants
+C0030971||perceived
+C0242428||satisfaction
+C0282574||Kruskal-Wallis and Mann Whitney U tests
+C0022885||qualitatively analyzed
+C1854293||iteration
+C0525070||clinical decision support system
+C1519941||validation
+C1854293||iteration
+C0525070||clinical decision support system
+C1519941||validation
+C1854293||iteration
+C0679646||participants
+C0549183||median
+C1854293||iteration
+C0525070||clinical decision support system
+C0031323||pharmacists
+C0031831||physicians
+C1854293||iteration
+C1519941||validation
+C1854293||iteration
+C0525070||clinical decision support system
+C0525070||clinical decision support system
+C1519941||validation
+C1854293||iteration
+C1854293||iteration
+C1854293||iteration
+C0242428||satisfaction
+C1854293||iterations
+C0022885||qualitative analysis
+C1138555||pharmacogenomic
+C0525070||clinical decision support system
+C0043031||warfarin
+C1254351||drug
+C0525070||clinical decision support system
+C1138555||pharmacogenomics
+C0525070||clinical decision support system
+C1516634||clinical testing

@@ -1,0 +1,43 @@
+C0870883||metabolites
+C0032699||sponge
+C0016832||fungus
+C1085656||Aspergillus sydowii J05B-7F-4
+C0870883||metabolites
+C0870883||diorcinolic acid
+C3253665||β-d-glucopyranosyl aspergillusene A
+C0870883||diphenylethers
+C0058171||diketopiperazine
+C0008594||chromone
+C0078604||xanthone
+C0016832||fungus
+C1085656||Aspergillus sydowii
+C0032699||marine sponge
+C2800556||Stelletta sp
+C0026377||configurations
+C0201742||HRESIMS
+C1706082||Compound
+C0017977||glycoside
+C0359916||phenolic
+C0036847||bisabolane sesquiterpenes
+C1254351||Compounds 1 and 8
+C0596402||cytotoxicity
+C0022539||KB
+C0022539||human nasopharyngeal carcinoma cells
+C2717940||HepG2
+C2717940||human liver cancer cells
+C1258005||HCT 116
+C1258005||human colon cancer cells
+C1254351||compounds
+C0220825||evaluated
+C0023810||LPS
+C0028128||nitric oxide
+C0028128||nitric oxide
+C1254351||Compounds 2 and 4-7
+C0243095||antibacterial activity
+C0086418||human
+C0038172||Staphylococcus aureus
+C0016163||fish
+C0318186||Streptococcus iniae
+C1265314||Vibrio ichthyoenteri
+C1706082||compounds 4 and 7
+C0028128||nitric oxide

@@ -1,0 +1,45 @@
+C1096534||magnesium supplementation
+C0011570||depression
+C0449437||status
+C0011570||depressed
+C0024473||magnesium deficiency
+C0034656||randomized
+C0013072||double-blind
+C1706408||placebo-controlled trial
+C1096534||magnesium supplementation
+C0011570||depression
+C0449437||status
+C0011570||depressed
+C0231303||suffering
+C0024473||magnesium deficiency
+C0243095||Sixty depressed people
+C0231303||suffering
+C0151723||hypomagnesemia
+C0008976||this trial
+C0237401||individuals
+C0034656||randomly categorized
+C0024477||tablets of magnesium oxide
+C0024477||magnesium oxide
+C1696465||placebo
+C1696465||PG
+C4273959||Beck Depression Inventory-II
+C0202125||serum magnesium was measured
+C0024477||magnesium oxide
+C1696465||PG
+C1442943||normal level of magnesium
+C1826990||changes of serum magnesium
+C2960571||mean Beck score
+C0024477||magnesium oxide
+C1696465||PG
+C1696465||PG
+C0024477||magnesium oxide tablets
+C0011570||depressed
+C0231303||suffering
+C0024473||magnesium deficiency
+C0011570||depression
+C0449437||status
+C1442943||magnesium levels
+C0202125||assessment of the magnesium serum
+C0024473||deficiency
+C0087111||treatment
+C0011570||depressed

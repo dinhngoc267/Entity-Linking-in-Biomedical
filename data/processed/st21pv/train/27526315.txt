@@ -1,0 +1,38 @@
+C0017262||Expression
+C0376452||methylation
+C0038436||posttraumatic stress disorder
+C0164313||odorant receptors
+C0038436||Post-traumatic stress disorder
+C0038436||Post-traumatic stress disorder
+C0027361||people
+C3714660||trauma
+C1096782||Twin studies
+C0038436||Post-traumatic stress disorder
+C0699748||pathogenesis
+C0038436||Post-traumatic stress disorder
+C2350277||genome-wide
+C0017262||gene expression
+C0376452||DNA methylation
+C0679646||participants
+C0038436||Post-traumatic stress disorder
+C0679646||participants
+C3714660||trauma
+C0017337||genes
+C0017262||expressed
+C0041904||upregulated
+C0038436||Post-traumatic stress disorder
+C0164313||odorant/olfactory receptor
+C0017337||genes
+C0041904||up-regulated
+C0038436||Post-traumatic stress disorder
+C0017337||genes
+C1155000||immune activation
+C0206518||Gamma-Aminobutyric Acid A (GABAA) receptor
+C1157731||vitamin D synthesis
+C0376452||DNA methylation
+C0017262||gene expression
+C0038436||Post-traumatic stress disorder
+C0017262||expression
+C0376452||DNA methylation
+C0164313||odorant receptor
+C0598312||replication

@@ -1,0 +1,83 @@
+C4307325||WDR26
+C1820119||mitophagy
+C0225828||cardiomyocytes
+C0242184||hypoxia
+C1570554||Parkin
+C0599893||translocation
+C0151744||Myocardial ischemia
+C0018787||heart
+C0232338||blood flow
+C0018787||heart
+C0018787||heart
+C0030054||oxygen
+C0151744||Myocardial ischemia
+C0007465||cause of death
+C0205246||globally
+C0018787||Heart
+C0376466||ischemic preconditioning
+C0376466||ischemic preconditioning
+C0225828||myocardial cell
+C0007587||death
+C0022116||ischemia
+C0035126||ischemia-reperfusion injury
+C4307325||WDR26
+C0033684||protein
+C0034693||rat
+C0018787||cardiac
+C0376466||ischemic preconditioning
+C4307325||WDR26
+C0596290||proliferation
+C0007634||H9c2 cells
+C0225828||cardiomyocytes
+C0242606||oxidative stress
+C0162638||apoptosis
+C0151744||myocardial ischemia
+C2603343||study
+C4307325||WDR26
+C0151744||myocardial ischemia
+C0007634||H9c2 cell
+C0242184||hypoxia
+C4307325||WDR26
+C0151744||myocardial ischemia
+C0007634||H9c2 cell
+C0242184||hypoxia
+C4307325||WDR26
+C0007634||H9c2 cells
+C0242184||hypoxia
+C3263722||injury
+C0022917||LDH
+C0007620||cell viability
+C4307325||WDR26
+C0242184||hypoxia
+C0004391||autophagy
+C0242184||hypoxia
+C0007634||H9c2 cells
+C0007634||H9c2 cell
+C0242184||hypoxia
+C4307325||WDR26
+C1720920||mitochondrial membrane potential
+C1570554||Parkin
+C0599893||translocation
+C0026237||mitochondria
+C1570554||Parkin
+C0599893||translocated
+C0026237||mitochondria
+C4307325||WDR26
+C0026237||mitochondria
+C1816438||protein ubiquitination
+C0242184||hypoxia
+C0007634||H9c2 cells
+C4307325||WDR26
+C0242184||hypoxia
+C4307325||WDR26
+C0242184||hypoxia
+C0004391||autophagy
+C1820119||mitophagy
+C2603343||study
+C4307325||WDR26
+C0225828||cardiomyocyte
+C3263722||injury
+C0242184||hypoxia
+C4307325||WDR26
+C0087111||treatment
+C0151744||myocardial ischemia

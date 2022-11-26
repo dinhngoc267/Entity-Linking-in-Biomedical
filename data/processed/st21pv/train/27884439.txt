@@ -1,0 +1,77 @@
+C0449381||parameters
+C0242386||udder
+C0680536||commercial
+C0037712||South Africa
+C0040196||tick infestation
+C0036945||sheep
+C0242386||udder
+C0449604||site-specific
+C1260875||mating
+C0035150||reproduction
+C0034869||records
+C1269178||Namaqua Afrikaner
+C1269178||Namaqua Afrikaner
+C1704650||fat-tailed breed
+C0680536||commercial
+C1296152||Dorper
+C1269346||SA Mutton Merino (SAMM) breeds
+C0242386||Udder
+C0242386||udder
+C0242386||udder
+C0010957||damaged severely
+C0040196||ticks
+C1545955||three locations
+C1545955||body sites
+C0229962||head and thoracic limb
+C0229962||HTLTC
+C1268092||udder-pelvic limb
+C1268092||UPLTC
+C0039259||perineum-breech-tail
+C0039259||PBTTC
+C0035150||Reproduction
+C1123019||lambs
+C0043084||weaned
+C0243095||ewe lambed
+C0043084||lamb weaned
+C0243095||ewe lambed
+C0242386||Udder
+C1269178||Namaqua Afrikaner
+C1296152||Dorpers
+C1269346||SA Mutton Merino
+C1269178||Namaqua Afrikaner
+C0229962||HTLTC
+C1268092||UPLTC
+C0680536||commercial
+C1704650||breeds
+C0039259||PBTTC
+C1296152||Dorpers
+C0229962||HTLTC
+C1268092||UPLTC
+C0039259||PBTTC
+C0242386||udder
+C0871648||Animal permanent environment
+C0039259||PBTTC
+C0229962||HTLTC
+C1268092||UPLTC
+C1268092||UPLTC
+C0242386||udder
+C0229962||HTLTC
+C1268092||UPLTC
+C1268092||UPLTC
+C0039259||PBTTC
+C1268092||UPLTC
+C0242386||udder
+C0242386||Udder
+C0035150||reproduction
+C1269178||Namaqua Afrikaner
+C1704650||breed
+C0680536||commercial
+C1704650||breeds
+C0229962||HTLTC
+C1268092||UPLTC
+C0242386||udder
+C1269178||Namaqua Afrikaner
+C1704650||breed
+C0030643||pastoral conditions
+C0040196||tick
+C1704650||breeds

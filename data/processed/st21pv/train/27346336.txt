@@ -1,0 +1,40 @@
+C0022877||Laboratory
+C0449381||Parameters
+C0694549||Community-Acquired
+C1443237||Healthcare-Associated Pneumonia
+C0011900||diagnosis
+C1443237||healthcare-associated pneumonia
+C1443237||healthcare-associated pneumonia
+C0694549||community-acquired pneumonia
+C1136254||antimicrobial
+C0087111||antimicrobial therapies
+C1443237||healthcare-associated pneumonia
+C1708733||long-term care facility
+C3714514||acquired infections
+C0262926||medical history
+C0184666||admission
+C0220825||assessment
+C0679006||decision
+C0025663||method
+C0694549||community-acquired
+C1443237||healthcare-associated pneumonias
+C0034869||records
+C0184666||admitted
+C0011900||diagnosis
+C0032285||pneumonia
+C0237607||common practice
+C0022885||laboratory work
+C0184666||admittance
+C0936012||analyzed
+C0206031||logistical regression
+C0427460||red blood cell distribution width
+C0027950||neutrophil
+C0024264||lymphocyte
+C0449381||routine parameters
+C0005771||blood count
+C0694549||community-acquired
+C1443237||healthcare-associated pneumonias
+C0262926||medical history
+C0039985||chest radiography
+C0449381||other parameters
+C0032285||pneumonia

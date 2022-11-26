@@ -1,0 +1,60 @@
+C4235370||Myofibroblast Contractility
+C0015350||Extracellular Matrix
+C0458827||Airway
+C0016059||Fibrosis
+C0016059||Fibrosis
+C0029216||solid organ transplantation
+C1167870||graft dysfunction
+C0011065||death
+C0087111||therapies
+C4055506||accumulation
+C0225360||contractile myofibroblasts
+C0015350||extracellular matrix
+C0015350||extracellular matrix
+C2603343||Studies
+C0427008||stiff
+C0015350||extracellular matrix
+C0016030||fibroblast
+C0225360||myofibroblast
+C0007589||differentiation
+C0015350||extracellular matrix
+C0016059||fibrosis
+C4235370||myofibroblast contractility
+C0035031||relaxin
+C0015350||extracellular matrix
+C0427008||stiffness
+C0024375||lysyl oxidase
+C0014432||inhibitors
+C0678663||feedback loop
+C0016059||fibrosis
+C0040732||orthotopic tracheal transplantation
+C0040732||orthotopic tracheal transplantation
+C2986594||mouse model
+C0458827||airway
+C0025929||Mice
+C0016059||fibrosis
+C0520016||mono-
+C0013218||combination therapies
+C0520016||monotherapies
+C0013162||combining these agents
+C0009325||collagen
+C0334221||re-epithelialization
+C2717792||remodeled airways
+C0035031||Relaxin
+C0225360||myofibroblast
+C0007589||differentiation
+C1140999||contraction
+C0015350||matrix
+C0427008||stiffness
+C3813211||prostaglandin E2
+C3813211||prostaglandin E2
+C0013218||combination therapy
+C0034835||PGE2 receptor
+C0206745||knockout
+C3813211||prostaglandin E2
+C0040732||orthotopic tracheal transplantation
+C0025929||mice
+C2603343||study
+C1140999||cellular contractility
+C0040300||tissue
+C0016059||fibrosis

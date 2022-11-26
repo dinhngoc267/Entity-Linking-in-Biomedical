@@ -1,0 +1,106 @@
+C0574031||Fuzheng Qingjie Granules
+C0220844||Growth
+C0026237||Mitochondria
+C0162638||Apoptosis
+C1817756||Immune Function
+C0574031||Fuzheng Qingjie
+C0574031||(FZQJ) granules
+C1706082||compound
+C0677850||adjuvant therapy
+C0017189||alimentary tract
+C0006826||cancers
+C0243095||anticancer
+C2603343||study
+C2717940||HepG2 cells
+C0574031||Fuzheng Qingjie
+C0229671||serum
+C0596290||Cell proliferation
+C0220825||evaluated
+C2986858||MTT assay
+C0162638||Apoptosis
+C0936012||analyzed
+C0180279||flow cytometer
+C0262880||transmission electron microscope
+C1720920||mitochondrial membrane potential
+C1720920||Δψ
+C0332128||examined
+C0013343||JC-1 dye
+C1512411||H22 tumor-bearing mice
+C0039215||CD4(+) T cells
+C0242629||CD8(+) T cells
+C1267816||CD3(+) T cells
+C0022688||natural killer cells
+C0022688||natural killer cells
+C0229664||peripheral blood
+C0180279||cytometrically
+C0021756||Interleukin (IL)-2
+C0041368||tumor necrosis factor
+C0041368||(TNF)-α
+C0034580||radioimmunoassay
+C0035696||mRNA
+C0812198||Bax
+C0376515||Bcl-2
+C0332128||examined
+C0599161||reverse transcription-polymerase chain reaction
+C0033684||protein
+C0219474||Bax
+C0210955||Bcl-2
+C0010749||cytochrome C
+C0291573||caspase 3
+C0910167||9
+C0032405||PARP
+C0108800||CD69
+C0332128||examined
+C0005863||Western blotting
+C0007634||cells
+C0040300||tissues
+C0001899||Alanine transaminase
+C0001899||Alanine transaminase
+C0004002||aspartate transaminase
+C0004002||aspartate transaminase
+C0600137||blood urea nitrogen
+C0600137||blood urea nitrogen
+C0010294||creatinine
+C0010294||creatinine
+C0442726||detected
+C0179038||analyzer
+C0574031||Fuzheng Qingjie
+C0229671||serum
+C0596290||proliferation
+C2717940||HepG2 cells
+C2717940||HepG2 cell
+C0162638||apoptosis
+C1720920||Δψ
+C0936012||Analysis
+C0475358||tumor tissue
+C0574031||Fuzheng Qingjie
+C0162638||apoptosis
+C0013081||downregulation
+C0210955||Bcl-2
+C0041904||upregulation
+C0219474||Bax
+C0010749||cytochrome c
+C0014429||activation
+C0291573||caspase 3
+C0910167||9
+C0597304||cleavage
+C0032405||PARP
+C0574031||Fuzheng Qingjie
+C0039215||CD4(+) T
+C0022688||NK cells
+C0039215||CD4(+)
+C0242629||CD8(+) T cells
+C0229671||serum
+C0041368||TNF-α
+C0574031||Fuzheng Qingjie
+C0108800||CD69
+C1171362||expression
+C0475358||tumor tissue
+C0243095||No hepatorenal toxicity
+C1512411||H22 tumor-bearing mice
+C1444656||indicated
+C0574031||Fuzheng Qingjie
+C0220844||growth
+C1817756||immune function
+C0026237||mitochondria
+C0162638||apoptosis

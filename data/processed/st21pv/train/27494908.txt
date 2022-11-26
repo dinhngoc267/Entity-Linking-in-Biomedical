@@ -1,0 +1,43 @@
+C0376636||Management
+C0852000||skin and soft-tissue infections
+C0020027||teaching hospital
+C0852000||Skin and soft-tissue infections
+C0852000||Skin and soft-tissue infections
+C3714514||infections
+C0162791||Clinical Resource Efficiency Support Team (CREST) scoring system
+C0008902||stratifies
+C0008902||classes
+C2919819||Standardized Early Warning Score
+C2919819||Standardized Early Warning Score
+C2603343||study
+C0162791||Clinical Resource Efficiency Support Team
+C0852000||Skin and soft-tissue infections
+C0220825||evaluate
+C0003232||antibiotic
+C0035363||retrospective
+C0220825||evaluation
+C0852000||Skin and soft-tissue infections
+C0184666||admitted
+C0162791||Clinical Resource Efficiency Support Team
+C1136254||antimicrobial
+C4046039||over-treatment
+C0087111||under-treatment
+C0008902||classified
+C0162791||Clinical Resource Efficiency Support Team
+C4046039||Over-treatment
+C0008902||classes
+C4046039||over-treated
+C0003232||antibiotic
+C0559681||oral therapy
+C0003232||broad-spectrum antibiotics
+C4046039||over-treated
+C0003232||broad-spectrum antibiotics
+C3640841||clinical failure
+C0521982||response
+C0185125||application
+C0162791||Clinical Resource Efficiency Support Team
+C0376636||management
+C0852000||Skin and soft-tissue infections
+C0162791||Clinical Resource Efficiency Support Team
+C0852000||Skin and soft-tissue infections
+C0087111||treated

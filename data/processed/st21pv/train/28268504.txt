@@ -1,0 +1,37 @@
+C0019552||Hip
+C0024485||Magnetic Resonance Imaging
+C0019555||Developmental Dysplasia of the Hip
+C0011900||diagnosis
+C0599880||treatment planning
+C0011900||Diagnosis
+C1515089||surgical management
+C0019555||Developmental Dysplasia of the Hip
+C0019555||Developmental Dysplasia of the Hip
+C0031809||physical examination
+C0041618||ultrasound scanning
+C0024485||Magnetic Resonance Imaging
+C0024485||Magnetic Resonance Imaging
+C0599880||treatment planning
+C0025663||method
+C3161035||segment surface models
+C0000962||acetabulum
+C0024485||Magnetic Resonance Imaging
+C0025663||method
+C0376554||knowledge
+C0876936||intensity priors
+C0002045||Random Walker (RW) formulation
+C0002045||Random Walker
+C2828371||boundaries
+C0031928||pilot study
+C0220825||evaluate
+C0019552||hip
+C0024485||Magnetic Resonance Imaging
+C0183115||MR scanner
+C0876954||Contours
+C0019552||hip
+C0876954||contours
+C0025663||method
+C0834313||right
+C0834314||left acetabular contours
+C0002045||Random Walker
+C0002045||algorithm

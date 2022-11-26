@@ -1,0 +1,33 @@
+C0030662||Gambling disorders
+C0337910||Thai general population
+C0030662||pathological gambling
+C0004936||psychiatric disorders
+C0337910||Thai general population
+C0679646||participants
+C0039725||Thailand's
+C0038951||multistage stratified cluster survey
+C0451085||Composite International Diagnostic Interview
+C0011900||Diagnoses
+C0030662||pathological gambling
+C0004936||psychiatric disorders
+C0220952||DSM-IV-TR criteria
+C0030662||pathological
+C0001792||older age groups
+C0004936||psychiatric disorders
+C0030662||pathological gamblers
+C0085762||alcohol abuse
+C0028043||nicotine dependence
+C0013222||drug use disorder
+C0030662||Pathological gambling
+C0024517||major depressive episodes
+C1510472||drug dependence
+C0021776||intermittent explosive disorder
+C0030662||pathological gambling
+C0024517||major depressive episode
+C0524637||recognition
+C0030662||gambling disorders
+C3244304||public health
+C0039725||Thailand
+C0030662||pathological gamblers
+C0038586||substance use disorders
+C1269683||major depression

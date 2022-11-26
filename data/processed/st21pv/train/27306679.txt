@@ -1,0 +1,48 @@
+C0670514||melanopsin
+C2603343||study
+C1517335||G protein signaling
+C0007776||cortical
+C0027882||neurons
+C0162340||understanding
+C0682972||G protein-coupled receptors
+C0682972||G protein-coupled receptors
+C3714787||central nervous system
+C3714787||central nervous system
+C2603343||study
+C3537152||signaling
+C0024660||mammalian
+C2355587||opsin
+C0670514||melanopsin
+C1517335||G protein signaling
+C3714787||central nervous system
+C0027882||neurons
+C0376638||biolistic
+C0670514||transfect melanopsin
+C0007776||cortical
+C0206441||pyramidal cells
+C0040284||organotypic slice culture
+C0242624||Whole cell recordings
+C0027882||transfected neurons
+C0670514||transfected melanopsin
+C0596901||membrane
+C0235169||excitability
+C0682972||G protein-coupled receptors
+C1333650||Gαq-11
+C2987634||agonist
+C0670514||melanopsin
+C0670514||melanopsin
+C2350527||electrophysiological
+C0178719||intracellular
+C0445022||loops
+C0670514||melanopsin
+C0289174||5-HT2A receptor
+C0682972||GPCR
+C0289174||5-HT2A receptor
+C0033684||proteins
+C0162768||chimera
+C1519941||validated
+C0670514||melanopsin
+C2603343||study
+C1517335||G protein signaling
+C3714787||central nervous system
+C0027882||neurons

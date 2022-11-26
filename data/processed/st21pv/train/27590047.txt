@@ -1,0 +1,27 @@
+C2603343||literature study
+C0038492||students'
+C4279941||critical thinking
+C0449379||connections
+C0012634||diseases
+C2603343||study
+C0332128||examined
+C0000872||medical university
+C0038492||students
+C4279941||critical thinking
+C0002045||cluster algorithms
+C2603343||literature study
+C0184661||intervention
+C0349674||Empathy Scale
+C0017313||Patient Care
+C0349674||ES
+C0017313||PC
+C0220825||critical thinking disposition assessment
+C0220825||CTDA-R
+C0349674||empathy scale
+C4279941||critical thinking
+C0936012||analyticity
+C0042939||voice
+C4279941||critical thinking
+C0025361||depth of reflection
+C2603343||study
+C0496675||medical care

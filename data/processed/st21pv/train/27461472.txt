@@ -1,0 +1,80 @@
+C1882864||rat spinal cord
+C0241863||diabetic
+C3714625||neuropathic pain
+C0241863||Diabetic
+C3714625||neuropathic pain
+C3714625||Diabetic neuropathic pain
+C0442592||clinic
+C0007613||cellular
+C1148560||molecular
+C3714625||Diabetic neuropathic pain
+C0907648||EphB1 receptor
+C3714625||Diabetic neuropathic pain
+C0241863||Diabetic
+C3714625||neuropathic pain
+C0034715||Sprague-Dawley rats
+C0038432||streptozotocin
+C0038432||streptozotocin
+C0002151||alloxan
+C0949466||Western blot analysis
+C0021044||immunohistochemistry
+C1171362||expression
+C0907648||EphB1 receptor
+C0027836||glial cells
+C0079189||pro-inflammatory cytokines
+C0037925||spinal cord
+C3714625||Diabetic neuropathic pain
+C2936719||mechanical allodynia
+C0016504||foot
+C0332467||mechanical indentation
+C2983612||hind
+C0687080||paw
+C0241863||Diabetic
+C3714625||neuropathic pain
+C2919432||high blood glucose
+C0003062||animals
+C0038432||streptozotocin
+C0002151||alloxan
+C0031715||Phosphorylation
+C0907648||EphB1
+C0004112||astrocytes
+C0206116||microglial cells
+C1456820||tumour necrosis factor
+C1456820||(TNF)-α
+C0021753||interleukin (IL)-1β
+C0037925||spinal cord
+C0034721||rats
+C3714625||Diabetic neuropathic pain
+C0521329||Spinal
+C0907648||EphB1 receptor
+C0038432||streptozotocin
+C1533685||injection
+C2936719||mechanical allodynia
+C0004112||astrocytes
+C0206116||microglial cells
+C1456820||TNF-α
+C0021753||IL-1β
+C0521329||spinal
+C0907648||EphB1
+C0034805||Fc
+C0038432||streptozotocin
+C1533685||injection
+C3714625||Diabetic neuropathic pain
+C0907648||EphB1 receptor
+C0037925||spinal cord
+C0241863||diabetic
+C0030193||pain
+C0907648||EphB1 receptor
+C0002766||relieving
+C0241863||diabetic
+C0030193||pain
+C0907648||EphB1 receptor
+C0037925||spinal cord
+C0241863||diabetic
+C3714625||neuropathic pain
+C0241863||diabetic
+C0030193||pain
+C0521329||Spinal
+C0907648||EphB1 receptor
+C0241863||diabetic
+C3714625||neuropathic pain

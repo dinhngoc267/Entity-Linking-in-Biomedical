@@ -1,0 +1,32 @@
+C3494274||molecular docking
+C0279516||anti-Proteus mirabilis
+C0041945||urease
+C1524081||inhibition
+C1254351||fluoroquinolone carboxylic acid derivatives
+C0020314||hydroxamic acid
+C0682951||hydrazide
+C0002482||amide derivatives
+C0008809||ciprofloxacin
+C0243071||analogues
+C0282386||levofloxacin
+C1254351||compounds
+C2248397||activity
+C0041945||urease
+C0004611||bacteria
+C0033701||Proteus mirabilis
+C0041945||urease
+C2248397||inhibitory activity
+C1318795||indophenol method
+C0392366||tested
+C1254351||compounds
+C2248397||activity
+C0050451||acetohydroxamic acid
+C0050451||acetohydroxamic acid
+C1254351||ciprofloxacin hydrazide derivative 3a
+C1254351||levofloxacin hydroxamic acid 7
+C2248397||activity
+C3494274||Molecular docking study
+C1167622||binding ability
+C0392366||tested
+C1254351||compounds
+C0041945||urease

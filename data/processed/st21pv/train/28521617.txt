@@ -1,0 +1,29 @@
+C0243095||background checks
+C1522486||personal care workers
+C0027361||Stakeholder
+C0242456||policy
+C1257890||Decision makers
+C0516529||protecting
+C0001792||elderly
+C1562367||vulnerable adults
+C0031928||pilot project
+C2607966||criminal
+C0243095||background checks
+C1522486||personal care workers
+C0031928||pilot project
+C1522486||stakeholder
+C0936012||analysis
+C1257890||decision makers
+C0027361||stakeholder
+C0030971||perceptions
+C0242456||policy
+C0038951||web-based survey
+C0010995||collect
+C0027361||stakeholders
+C0027361||stakeholders
+C0243095||background checks
+C1522486||personal care workers
+C0425101||difficulties
+C0018104||government
+C0936012||preliminary analysis
+C1257890||decision makers

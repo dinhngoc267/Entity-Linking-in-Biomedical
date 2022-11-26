@@ -1,0 +1,52 @@
+C1831808||Apixaban
+C0004238||Atrial Fibrillation
+C0010294||Creatinine
+C0206034||Randomized Clinical Trial
+C1831808||Apixaban
+C0038454||Stroke
+C0040038||Thromboembolic Complications
+C0004238||Atrial Fibrillation
+C0008976||ARISTOTLE
+C0008976||trial
+C1831808||apixaban
+C0428279||creatinine level
+C1831808||apixaban
+C1831808||apixaban
+C1831808||apixaban
+C0038454||stroke
+C0019080||bleeding
+C0008976||ARISTOTLE trial
+C0936012||analysis
+C0038454||stroke
+C0019080||bleeding
+C0220825||evaluated
+C1831808||apixaban
+C0043031||warfarin
+C0008976||ARISTOTLE trial
+C1522577||follow-up
+C0936012||Analysis
+C0019080||bleeding
+C2603343||study
+C0013216||drug treatment
+C0936012||Analysis
+C0038454||stroke
+C1831808||apixaban
+C0043031||warfarin
+C0038454||stroke
+C0019080||bleeding
+C1831808||apixaban
+C0043031||warfarin
+C0038454||stroke
+C1831808||apixaban
+C0043031||warfarin
+C0019080||bleeding
+C0428279||creatinine level
+C0010294||creatinine
+C1382187||clearance
+C0004238||atrial fibrillation
+C3279454||renal dysfunction
+C0038454||stroke
+C0019080||bleeding
+C1831808||apixaban
+C0043031||warfarin
+C1831808||apixaban

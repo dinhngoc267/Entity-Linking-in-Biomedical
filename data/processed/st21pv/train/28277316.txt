@@ -1,0 +1,54 @@
+C1335988||CXCL14
+C2352110||CXCR4
+C1528383||CXCL12
+C2352110||CXCR4
+C1269955||Invasion
+C0206687||Endometrioid Carcinoma
+C0449774||MELF-Pattern
+C1269955||Myoinvasion
+C0449774||MELF-pattern
+C0521387||myometrial
+C1269955||invasion
+C0449774||MELF pattern
+C0521387||myometrial
+C1269955||invasion
+C0206687||endometrioid carcinomas
+C1708790||lymphovascular invasion
+C0024232||lymph node metastasis
+C0334227||tumor cells
+C0449774||MELF pattern
+C1113652||laser microdissection
+C1449575||microarray analysis
+C0017337||genes
+C1171362||expression
+C2352110||metastasis progression gene, CXCR4
+C1749457||ligands
+C1335988||CXCL14
+C1528383||CXCL12
+C0206687||endometrioid carcinoma
+C0085983||cell lines
+C1269955||invasion
+C1335988||CXCL14
+C2352110||CXCR4
+C1528383||CXCL12
+C2352110||CXCR4
+C2352110||CXCR4
+C1171362||expressed
+C0206687||endometrioid carcinomas
+C1335988||CXCL14
+C1528383||CXCL12
+C1171362||expression
+C0007634||cells
+C1446409||positive
+C0205145||sites
+C0449774||MELF pattern
+C0243095||no significant difference
+C0007634||cells
+C0205145||sites
+C0449774||MELF pattern
+C0027626||invasiveness
+C0031843||function
+C1335988||CXCL14
+C2352110||CXCR4
+C1528383||CXCL12
+C2352110||CXCR4

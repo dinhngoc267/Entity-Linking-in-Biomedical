@@ -1,0 +1,40 @@
+C3494213||Metal-on-Metal Bearings
+C0040508||Total Hip Arthroplasty
+C1719285||Hip Resurfacing
+C0282443||Review Article
+C3494213||metal-on-metal (MoM) bearings
+C0186193||hip arthroplasty
+C3494213||MoM bearings
+C3880938||metal-on-polyethylene
+C0012691||dislocation
+C0376495||re-introduction
+C3494213||MoM bearing
+C3494213||MoM bearing
+C3494213||MoM bearings
+C0376495||reintroduction
+C3494213||metal-on-metal bearings
+C0040508||total hip arthroplasty
+C3494213||metal-on-metal bearings
+C0040508||stemmed total hip arthroplasty
+C1955625||metal-on-metal hip resurfacing
+C0029355||orthopaedics
+C1955625||metal-on-metal hip resurfacing
+C0040508||total hip arthroplasty
+C0023866||literature
+C0025141||MEDLINE
+C0242356||Embase
+C1706852||quality articles
+C0282443||review
+C3494213||metal-on-metal
+C0040508||total hip arthroplasty
+C1719285||hip resurfacing
+C1706852||articles
+C1706852||articles
+C0282443||review
+C3881498||Metal-on-metal hip resurfacing
+C0087111||treatment
+C0021107||implant design
+C3881498||metal-on-metal total hip arthroplasty
+C1522577||follow-up
+C1955625||metal-on-metal hip resurfacing
+C0009566||complications

@@ -1,0 +1,64 @@
+C0018704||Hospital clowning
+C0237433||paediatrician's
+C0030971||view
+C0681814||study
+C0335094||hospital clowns
+C0030971||perspective
+C0237433||paediatricians
+C0237433||attending paediatricians
+C0936012||analysed
+C0037585||Atlas.ti 5.0
+C0205246||general
+C0031831||physicians
+C0684224||reported
+C1446409||positive
+C0596545||experiences
+C0037420||interaction
+C0335094||hospital clowns
+C1305702||ward
+C0031831||Physicians
+C0543488||interested
+C0035168||research
+C0335094||hospital clowns
+C0035168||research
+C0018704||hospital clowning
+C0031831||physicians
+C0335094||hospital clowns
+C0684224||reported
+C0031831||physicians
+C0335094||hospital clowns
+C0335094||hospital clown
+C1512346||visits
+C0184661||medical interventions
+C0237433||paediatricians
+C0030971||view
+C1446409||positive
+C0335094||hospital clown
+C1512346||visits
+C0018704||hospital clowning
+C0335094||hospital clowns
+C2700280||worldwide
+C1706852||article
+C0237433||paediatricians
+C0086388||health care
+C0681814||studies
+C0030193||pain
+C0003467||anxiety
+C0018704||hospital clowning
+C0184666||admitted to hospitals
+C0199171||medical procedures
+C0237433||paediatricians
+C1446409||positive
+C0335094||hospital clowns
+C0681814||study
+C0233820||insight
+C0037420||interaction
+C0237433||paediatricians
+C0335094||hospital clowns
+C1305702||ward
+C0681814||study
+C0282451||clinical practice
+C0031831||physicians
+C0335094||hospital clowns
+C0335094||hospital clown
+C1512346||visits

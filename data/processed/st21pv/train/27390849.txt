@@ -1,0 +1,41 @@
+C0231921||Pulmonary function
+C1522577||follow up
+C0018821||cardiac surgery
+C0231921||Pulmonary function
+C0018821||cardiac surgery
+C0684336||impairments
+C0220825||Evaluation
+C0231921||pulmonary function
+C0033522||prospective study
+C0231921||pulmonary function
+C0018821||cardiac surgery
+C0231921||Pulmonary function
+C1519136||SF-36
+C0013404||dyspnoea
+C0035203||breathing
+C0010200||coughing
+C0030193||pain
+C0220825||evaluated
+C0010055||coronary artery bypass grafting
+C0543467||valve surgery
+C0543467||surgery
+C0231958||forced vital capacity
+C0016529||forced expiratory volume
+C2317096||Saturation of peripheral oxygen
+C0442739||unchanged
+C0184511||improved
+C1519136||SF-36
+C0185792||Sternotomy
+C0030193||pain
+C1321587||deep breath
+C0010200||coughing
+C0231921||pulmonary function
+C0013404||dyspnoea
+C0684336||impaired
+C0035203||breathing
+C0010200||coughing
+C0018821||cardiac surgery
+C0024119||lung function measurements
+C0184511||improved
+C0030193||pain
+C2317096||saturation of peripheral oxygen

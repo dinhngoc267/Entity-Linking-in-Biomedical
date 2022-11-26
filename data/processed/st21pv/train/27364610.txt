@@ -1,0 +1,35 @@
+C0048808||Doxifluridine
+C0522529||conjugated
+C0045143||2',5'-oligoadenylates
+C0243071||analog
+C0071795||RNase L
+C1519692||tumor suppressive
+C0071795||RNase L
+C0045143||2',5'-oligoadenylates
+C0045143||2',5'-oligoadenylates
+C0205242||cleave
+C3272452||single-stranded RNA
+C0684224||reported
+C0100309||8-methyladenosine
+C1705315||terminus
+C0092311||2-5A tetramer
+C0045143||2',5'-oligoadenylates
+C0005456||binding site
+C0071795||RNase L
+C2603343||study
+C0045143||2',5'-oligoadenylates
+C0243071||analog
+C0100309||8-methyladenosine
+C1705315||terminus
+C0048808||doxifluridine
+C0522529||conjugated
+C0100309||8-methyladenosine
+C0045143||2',5'-oligoadenylates
+C0243071||analog
+C0071795||RNase L
+C1327237||monophophorylated
+C0092311||2-5A tetramer
+C1519692||tumor suppressive
+C0086418||human
+C4048328||cervical cancer
+C0007634||cells

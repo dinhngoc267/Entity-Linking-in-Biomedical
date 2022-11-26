@@ -1,0 +1,34 @@
+C0583239||ICU admission
+C0442711||protocol
+C0583239||admission to intensive care units
+C0021708||intensive care units
+C0518766||vital sign
+C0002045||algorithms
+C0021708||ICU
+C0586969||outreach team
+C0184511||improve
+C0002045||algorithms
+C0583239||ICU admission
+C0442711||protocol
+C0583239||ICU admission
+C0242356||MEDLINE
+C0242356||EMBASE
+C0242356||CINAHL
+C0242356||Cochrane Library
+C0242356||Cochrane Database of Systematic Reviews
+C0282574||Cochrane Central Register of Controlled Trials
+C0282574||(CENTRAL)
+C2603343||studies
+C0034869||recorded
+C0583239||ICU admission
+C2603343||studies
+C0184666||admitted to
+C0205246||general
+C0021708||intensive care units
+C0010101||statistical association
+C0583239||ICU admission
+C2603343||studies
+C0205246||generalisability
+C0243095||findings
+C3161035||models
+C0583239||ICU admission

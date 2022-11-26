@@ -1,0 +1,27 @@
+C0028694||nursing intensity data
+C0008902||classification
+C2603343||study
+C0008902||Oulu Patient Classification
+C0008902||Oulu Patient Classification
+C0282574||RAFAELA(®) System
+C0454680||nursing managers
+C0028682||nursing
+C0019993||inpatient care
+C0008902||classification
+C0038208||statistical study
+C0028661||nurses
+C0008902||classified
+C0038136||standardization
+C0008902||parallel classifications
+C0037778||specialties
+C0020028||university hospital
+C0016132||Finland
+C0008902||Parallel classification
+C0008902||classification
+C0028682||nursing
+C0683312||category
+C0442726||detectable
+C0009853||Continued Care
+C0600015||Emotional Support
+C0678257||descriptions
+C0184600||nursing documentation

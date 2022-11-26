@@ -1,0 +1,74 @@
+C2603343||studies
+C0002712||amylase
+C0023764||lipase
+C0030940||protease
+C1024702||Callosobruchus maculatus
+C0009276||Coleoptera
+C1001499||Chrysomelidae
+C1257890||populations
+C0996865||Vigna unguiculata
+C0007757||grain
+C0242481||cultivated
+C0004611||diazotrophic bacteria strains
+C2603343||study
+C0243102||enzymatic activity
+C0021585||insects
+C0007757||grain
+C0996865||cowpea
+C0996865||Vigna unguiculata (L.)
+C0032098||cultivars
+C0028158||nitrogen
+C0021585||insects
+C0007757||grain
+C0996865||cowpea
+C0032098||cultivars
+C0032098||BRS Acauã
+C0032098||BRS Carijó
+C0032098||BRS Pujante
+C0032098||BRS Tapaihum
+C0028158||nitrogen
+C0026162||mineral
+C0015919||fertilizer
+C0022885||inoculation
+C0004611||strains of diazotrophs
+C3917457||BR 3267
+C3917456||BR 3262
+C0004611||BR 3299
+C0004611||INPA 03-11B
+C0004611||03-84 UFLA
+C0028158||nitrogen
+C0243102||enzymatic activities
+C0021585||insect
+C0030940||protease
+C0002712||amylase
+C0023764||lipase
+C0038179||starch
+C0007757||grains
+C0243102||enzymatic activity
+C0002712||amylase
+C0023764||lipase
+C0030940||protease
+C0021585||insect
+C0016452||food
+C0243102||activity of the enzyme
+C0002712||amylase
+C1024702||C. maculatus
+C0021585||insects
+C0007757||grain
+C0032098||cultivar BRS Carijó
+C1149836||activity of lipase enzyme
+C1024702||C. maculatus
+C0021585||insects
+C0007757||grain
+C0032098||cultivar Tapaihum
+C3917456||BR 3262 diazotrophs
+C0597304||proteolytic activity
+C0021585||insects
+C0032098||BRS Carijó
+C3917456||BR 3262 diazotroph
+C0038179||Starch
+C1150038||amylase activity
+C1024702||C. maculatus
+C0032098||cultivar BRS Carijó
+C0032098||cultivars
+C0009085||cluster analysis

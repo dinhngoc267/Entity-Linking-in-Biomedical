@@ -1,0 +1,58 @@
+C0392615||adverse radiation effects
+C2960266||Gamma Knife surgery
+C0027859||vestibular schwannomas
+C0027859||Vestibular schwannomas
+C0027859||Vestibular schwannomas
+C2960266||Gamma Knife surgery
+C2960266||Gamma Knife surgery
+C2603343||studies
+C0392615||adverse radiation effects
+C0392615||adverse radiation effects
+C0392615||adverse radiation effects
+C0086750||outcomes
+C0684224||reported
+C1522577||follow-up
+C1457887||symptom
+C2960266||Gamma Knife surgery
+C1457887||symptom
+C0086750||outcome
+C0392615||adverse radiation effects
+C1522577||followup
+C1457887||symptoms
+C1457887||symptoms
+C0042571||vertigo
+C0575081||gait disturbance
+C0235874||exacerbation
+C1457887||symptom
+C3887873||hearing loss
+C0575081||gait disturbance
+C0042571||vertigo
+C0451213||Gardner-Robertson
+C0451213||Gardner-Robertson
+C0349674||Koos grade
+C0349674||Koos Grade I
+C0349674||Koos Grade II
+C0349674||Koos Grade III
+C1881275||isocenters
+C0009197||cochlea
+C0034980||Fractional polynomial regression analysis
+C0086750||outcome
+C0042606||vestibular
+C0936012||analysis
+C0392615||adverse radiation effects
+C0581883||complete hearing loss
+C0451213||GR Class I
+C0451213||V
+C0278152||hemifacial spasm
+C0013378||dysgeusia
+C0085203||radiosurgery
+C0027859||VS
+C0042571||vertigo
+C0575081||gait disturbance
+C0235874||exacerbation
+C3887873||hearing loss
+C0042606||vestibular
+C1457887||symptom
+C0042606||vestibular
+C0149783||steroid therapy
+C0392615||adverse radiation effects

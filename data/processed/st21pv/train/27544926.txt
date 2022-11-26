@@ -1,0 +1,70 @@
+C0178638||Folate
+C0522529||conjugated
+C0017337||gene
+C0872177||carrying
+C1258018||microbubbles
+C1517281||focused ultrasound
+C0005854||blood-brain barrier
+C0205276||local
+C0872177||gene delivery
+C2603343||studies
+C0012854||DNA
+C1258018||microbubbles
+C1258018||microbubbles
+C1517281||focused ultrasound
+C1517281||focused ultrasound
+C0205276||local
+C0005854||blood-brain barrier
+C0005854||blood-brain barrier
+C0872177||gene delivery
+C2603343||studies
+C0872177||gene delivery
+C0006118||brain tumors
+C0017337||gene
+C0005854||blood-brain barrier
+C0178638||folate
+C1258018||cationic MBs
+C1258018||FCMBs
+C1517281||focused ultrasound
+C0005854||blood-brain barrier
+C1258018||FCMBs
+C0456389||sized
+C1622418||vesicles
+C0005528||transported
+C0006104||brain
+C0933845||parenchyma
+C1258018||FCMBs
+C0597032||tumor cells
+C1514559||overexpressed
+C2955669||folate receptor
+C0872177||gene delivery
+C2955669||folate
+C0014139||endocytosis
+C1258018||FCMBs
+C0872177||carry
+C0012854||DNA
+C0205148||surface
+C1258018||MB
+C0007634||C6 glioma cells
+C1517281||focused ultrasound
+C1258018||FCMBs
+C0872177||gene delivery
+C0007634||cell
+C0681814||experiments
+C1258018||FCMBs
+C1515655||In vivo
+C1444656||indicated
+C1258018||FCMBs
+C0017337||gene
+C0314641||transfection
+C1258018||microbubbles
+C2955669||folate
+C1160466||conjugation
+C0449445||approach
+C1533685||injecting
+C0017337||gene
+C2603343||study
+C1258018||microbubbles
+C1517281||focused ultrasound
+C0872177||gene delivery
+C0087111||therapy

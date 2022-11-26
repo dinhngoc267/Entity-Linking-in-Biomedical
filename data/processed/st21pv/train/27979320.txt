@@ -1,0 +1,32 @@
+C0223178||Seventh Cervical Spinous Process
+C0026348||Multivariate Model
+C0030247||Palpation
+C0026348||multivariate prediction model
+C0030247||palpation
+C0223178||seventh cervical spinous process
+C0223178||C7SP
+C0010362||single-blinded, cross-sectional study
+C1552443||primary to tertiary health care center
+C1519941||temporal validation
+C0679646||participants
+C0223178||C7SP
+C0030247||thorax-rib static method
+C0030247||thorax-rib static method
+C0679646||Participants
+C0039985||chest radiography
+C0205102||inner
+C0460148||body structure
+C0030247||thorax-rib static method
+C0181741||radio-opaque markers
+C1123023||skin
+C1305855||body mass index
+C0223178||C7SP
+C0230003||vertex
+C0034980||Multivariate linear regression modeling
+C1706074||confusion tables
+C0026348||multivariate linear prediction model
+C0223178||C7SP
+C0030247||thorax-rib static method
+C0223178||C7SP
+C0026348||multivariate model
+C0030247||palpation

@@ -1,0 +1,80 @@
+C0026237||Mitochondrial
+C1622453||Glucose Signaling Pathways
+C0290730||Kv1.3 Ion Channel
+C0242613||Gene-targeted
+C0017260||deletion
+C0290730||potassium channel Kv1.3
+C0456984||Kv1.3(-∕-)) results i
+C0025929||uper-smeller" mice
+C0439826||olfactory
+C0439826||olfactory
+C0230758||olfactory cilia
+C0164313||odorant receptors
+C0033684||G-protein, Golf
+C0025929||Kv1.3(-∕-) mice a
+C0429629||creased total energy expenditure
+C0429629||total energy expenditure
+C0023946||locomotor activity
+C0237834||resistance
+C0012155||diet
+C0017391||genetic-induced
+C0028754||obesity
+C0290730||Kv1.3 channel
+C0028936||olfactory bulb
+C0028936||olfactory bulb
+C1148560||glucose utilization
+C0162788||in situ hybridization
+C0290730||Kv1.3
+C0021641||insulin
+C0166441||glucose transporter type 4
+C0166441||glucose transporter type 4
+C0026264||mitral
+C0007634||cell layer
+C0028936||olfactory bulb
+C0290730||Kv1.3
+C0026882||pore mutation
+C0026882||W386F Kv1.3
+C0599893||translocate
+C0166441||glucose transporter type 4
+C0007603||plasma membrane
+C2936239||HEK 293 cells
+C0037361||olfactory sensory perception
+C0001272||action potential (AP)
+C0026264||mitral
+C0007634||cells
+C0028936||olfactory bulb
+C0290730||Kv1.3
+C0026237||mitochondria
+C0029219||organelle
+C0026264||mitral
+C0007634||cells
+C1520150||wildtype
+C1520150||wildtype
+C0025929||Kv1.3(-∕-) male mice
+C0521974||oderately high-fat diet (
+C0521974||HF,
+C0028936||olfactory bulb
+C0678118||transmission electron microscopy
+C1520150||WT mice
+C0026237||mitochondria
+C0028754||diet-induced obesity
+C0028754||diet-induced obesity
+C0026237||mitochondria
+C1820119||mitophagy
+C0026237||mitochondria
+C0025929||Kv1.3(-∕-) mice c
+C1520150||T mice.
+C0028754||IO,
+C0025929||v1.3(-∕-) mice ha
+C0026237||ochondria in
+C0552389||s sectional
+C0205146||area
+C0521974||modified diet
+C0290730||Kv1.3 channel
+C0028936||olfactory bulb
+C0429629||total energy expenditure
+C0290730||Kv1.3
+C0026237||mitochondrial structure
+C1148560||glucose utilization
+C0025519||metabolism
+C0028936||olfactory bulb

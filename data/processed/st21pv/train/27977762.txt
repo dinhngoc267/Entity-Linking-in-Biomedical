@@ -1,0 +1,35 @@
+C0517965||Pupil Sizes
+C0349674||Scale
+C0589051||Attentional Load
+C0596545||Experience
+C0546881||Tracking
+C0589051||attentional load
+C0517965||pupil size
+C0443264||modulations
+C0589051||attentional load
+C0596545||experience
+C0349674||scale
+C0517965||pupil size
+C0443264||modulations
+C0001721||affect
+C0517965||pupil sizes
+C0589051||attentional load
+C0679646||participants
+C0546881||tracked
+C0596545||experience
+C0517965||pupil sizes
+C0589051||attentional load
+C0517965||pupil size
+C0517965||pupil size
+C0443264||modulations
+C0589051||attentional load
+C0596545||experience
+C0039333||task performance
+C3161035||model
+C0589051||attentional load
+C0596545||experience
+C0039333||performance
+C3161035||model
+C0260180||pupillometry
+C0589051||attentional load
+C0596545||experience

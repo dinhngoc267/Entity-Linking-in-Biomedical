@@ -1,0 +1,41 @@
+C1721358||Systemic matrix metalloproteinase-8
+C3714634||response
+C0149517||chronic tonsillitis
+C0012634||diseases
+C0010068||coronary heart disease
+C0021368||inflammation
+C0149517||chronic tonsillitis
+C0021368||inflammatory
+C1721358||systemic matrix metalloproteinase
+C1721358||(MMP)-8
+C3714634||response
+C0278996||head and neck cancer
+C0032105||plasma
+C0145947||tissue inhibitor of metalloproteinase
+C0145947||(TIMP)-1
+C0278252||poor prognosis
+C1721358||S-MMP-8
+C0016350||immunofluorometric assay
+C0145947||S-TIMP-1
+C1532280||immunosorbent assay
+C0040423||tonsillectomy
+C0153936||benign tonsillar disease
+C0280317||tonsillar squamous cell carcinoma
+C0040421||Tonsillar
+C0021344||human papillomavirus
+C0021344||human papillomavirus
+C0032520||PCR
+C0153936||benign tonsillar disease
+C0149517||chronic tonsillitis
+C0020564||hypertrophy
+C1721358||systemic MMP-8
+C3714634||response
+C0153936||benign tonsillar disease
+C0280317||tonsillar squamous cell carcinoma
+C1721358||S-MMP-8
+C0145947||S-TIMP-1
+C1721358||S-MMP-8
+C0145947||S-TIMP-1
+C0040421||tonsillar
+C0021344||human papillomavirus
+C1514241||positivity

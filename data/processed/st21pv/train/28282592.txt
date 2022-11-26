@@ -1,0 +1,51 @@
+C0243107||Development
+C0004238||atrial fibrillation
+C0004238||Atrial fibrillation
+C0004238||Atrial fibrillation
+C0087111||treat
+C0087130||uncertainty
+C0162563||ablate
+C0085611||arrhythmogenic
+C0162559||catheter ablation strategy
+C1705052||two-dimensional
+C0018792||atrial
+C0450429||locations
+C0016059||Fibrosis
+C0232217||conduction
+C0018794||block
+C0205146||areas
+C0028778||block
+C0221198||ablation lesions
+C1720744||electrical impulse
+C0025080||rotors
+C0025080||rotors
+C0456389||size
+C0225860||left atrial
+C0025080||Rotors
+C0243095||wavefront arrival was delayed
+C1304649||fiber
+C0456389||size
+C1304649||fiber
+C0232217||conduction
+C0456389||size
+C0025080||nascent rotors
+C0184512||stabilized
+C1624581||anchoring
+C1304649||fiber
+C0025080||rotors
+C0205147||region
+C0232217||conduction
+C0243095||delay wavefront arrival
+C0025080||rotors
+C0025080||rotor
+C1148560||activation pathway
+C1293132||anchors
+C0015252||removal
+C0162563||ablation
+C0205147||region
+C0025080||rotor
+C1515974||location
+C0232217||conduction
+C0243095||spatial differences
+C0679083||simulation
+C0018792||atrial

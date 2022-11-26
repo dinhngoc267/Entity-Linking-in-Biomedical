@@ -1,0 +1,62 @@
+C0409959||Knee Osteoarthritis
+C0022742||knee
+C0409959||knee osteoarthritis
+C0409959||osteoarthritis
+C0409959||knee OA
+C0679646||participants
+C1709323||open-label clinical trial
+C0585373||intraarticular steroid therapy
+C0038136||standardization
+C0022885||clinical test procedures
+C0871685||clinicians
+C0220825||assessed
+C1512346||visit
+C0871685||clinician
+C0220825||assessed
+C0149783||steroid
+C0184661||intervention
+C0220825||assessment
+C0277964||crepitus
+C0555751||quadriceps wasting
+C0343166||knee effusion
+C0446569||joint-line
+C0224834||anserine
+C0240094||tenderness
+C0576094||knee range of movement
+C0576094||range of movement
+C0447801||patellofemoral joint
+C0224834||anserine
+C0240094||tenderness
+C0555751||quadriceps wasting
+C0277964||crepitus
+C0205098||medial
+C0447795||tibiofemoral joint
+C0240094||tenderness
+C0343166||effusion
+C0231756||ballottement
+C3696902||bulge sign
+C0205093||lateral
+C0447795||tibiofemoral joint
+C0240094||tenderness
+C0231452||flexion
+C0576094||range of movement
+C0205093||lateral
+C0447795||tibiofemoral joint
+C0234233||tenderness
+C0343166||effusion
+C0231756||ballottement test
+C0447801||patellofemoral joint
+C0205098||medial
+C0447795||tibiofemoral joint
+C0224834||anserine
+C0234233||tenderness
+C0343166||effusion
+C3696902||bulge sign
+C0555751||quadriceps wasting
+C0231452||flexion
+C0576094||range of movement
+C0237401||individuals
+C0409959||knee OA
+C0022742||knee
+C3540840||clinical signs
+C0409959||knee OA

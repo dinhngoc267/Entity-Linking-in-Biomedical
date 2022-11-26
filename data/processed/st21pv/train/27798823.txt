@@ -1,0 +1,25 @@
+C0212353||1,2-Dioxetanes
+C1522485||Thermochemiluminescent Labels
+C0005507||Ultrasensitive Bioassays
+C0002068||Olefin
+C0022885||Chemometric Approach
+C0005507||bioanalytical assays
+C0023621||library
+C0002068||olefins
+C0212353||1,2-dioxetane-based
+C1522485||TCL labels
+C0016330||Fluorine
+C0283001||acridan
+C0212353||1,2-dioxetanes
+C0029224||2,7-difluorinated acridan dioxetane
+C0029224||unsubstituted dioxetane
+C0002068||olefins
+C0029224||TCL dioxetanes
+C0022885||chemometric approach
+C0936012||principal component analysis
+C0936012||linear discriminant analysis
+C0678594||structural
+C0282354||electronic molecular descriptors
+C0002068||olefins
+C0449445||approach
+C0029224||dioxetane

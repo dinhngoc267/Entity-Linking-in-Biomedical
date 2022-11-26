@@ -1,0 +1,46 @@
+C0022885||Matrix solid-phase dispersion
+C4049918||liquid chromatography-tandem mass spectrometry
+C1148554||determination
+C0030398||paraben
+C0033086||preservatives
+C0026391||mollusks
+C0449341||method for the extraction
+C1148554||determination
+C0030398||parabens
+C0014898||esters
+C0048323||4-hydroxybenzoic acid
+C0033086||preservatives
+C1254351||pharmaceuticals
+C0020247||chlorinated derivatives
+C0066415||mono-
+C0066415||di-chloro methyl paraben
+C0026391||mollusk
+C0022885||matrix solid-phase dispersion
+C0022885||matrix solid-phase dispersion
+C4049918||liquid chromatography-tandem mass spectrometry
+C2825207||MSPD parameters
+C0037638||solvent
+C0030398||parabens
+C0016698||freeze-dried
+C0026391||mollusk
+C0332624||dispersed
+C0037098||silica
+C1553461||cartridge
+C0029224||C18
+C1553461||cartridge
+C0050456||acetonitrile
+C0001963||methanol
+C0936012||analysis
+C1519941||validation
+C1519941||LOQ
+C0969625||methodology
+C0026871||mussel
+C0008894||clam
+C0453050||cockle
+C0066415||Methyl paraben
+C0008894||clam
+C0059788||Ethyl paraben
+C0026871||mussel
+C0453050||cockle
+C0072238||n-Propyl paraben
+C0026871||mussel

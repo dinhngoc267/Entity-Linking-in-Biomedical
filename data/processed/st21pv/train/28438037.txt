@@ -1,0 +1,37 @@
+C0220825||Evaluation
+C0036152||San Francisco
+C0019863||Homeless
+C0684224||Surgeon General's Report
+C0949366||vulnerable populations
+C0019863||homeless
+C0678367||public
+C0237401||individuals
+C0237154||homelessness
+C0019863||homeless
+C0949415||qualitative study
+C0019863||homeless
+C0036152||San Francisco
+C0085751||Administrators
+C0586395||homeless service agencies
+C0242456||policies
+C0030971||perceived
+C0040329||tobacco
+C0184661||interventions
+C0282122||Respondents
+C1444656||indicated
+C0037366||smoke
+C0851286||staff
+C1444648||offered
+C0184661||interventions
+C0085751||administrators
+C0242456||policies
+C0040329||tobacco
+C0037455||culture
+C0805586||challenges
+C0019863||Homeless
+C0036152||San Francisco
+C0040329||tobacco
+C0037455||culture
+C0242456||policies
+C0205101||external
+C1442085||mandates

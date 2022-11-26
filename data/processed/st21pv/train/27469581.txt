@@ -1,0 +1,76 @@
+C1257890||Canadians
+C0596070||Americans
+C0023185||learn
+C0018696||health care systems
+C0282420||papers
+C1257890||Canadian
+C0041703||US
+C0018696||healthcare systems
+C0018735||health policy
+C0009817||experts
+C0596070||Americans
+C0282487||single-payer system
+C0282420||paper
+C0454664||country
+C0678594||structural
+C0018696||healthcare system
+C0023185||learned
+C0006823||model
+C0006823||Canada
+C0043129||Western Europe
+C0041703||USA
+C0021682||health insurance
+C0596070||Americans
+C0087134||uninsured
+C0041703||USA
+C0013893||evaluate eligibility
+C0041703||US
+C0034379||quality of care
+C0019994||hospitals
+C0031834||physician offices
+C0006823||Canada
+C2348942||multi-payer
+C0035002||reimbursement system
+C0015737||federal
+C1514578||provincial
+C1514578||provinces
+C0019994||hospital
+C0587569||physician services
+C2347958||residents
+C0021682||health insurance
+C0031321||pharmaceuticals
+C0011365||dental
+C0018747||healthcare services
+C0041703||USA
+C0043129||Western European countries
+C1257890||Canadians
+C0015737||federal
+C1514578||provincial
+C0679727||private
+C0019994||hospital
+C0587569||physician
+C0031321||pharmaceutical
+C0011365||dental
+C0018747||healthcare services
+C0033176||private sector
+C1611835||specialists
+C0025106||medical staffs
+C0184666||admissions
+C0745036||elective cases
+C0033173||private
+C0019994||wings of hospitals
+C0243095||undercapitalized
+C3842079||sluggish
+C0025663||two-tier approach
+C0041703||USA
+C0006823||Canada
+C0043129||western European countries
+C0006823||Canada
+C0678367||public
+C0542301||rancor
+C1257890||Canadians
+C0011211||delivery of care
+C3641827||agree
+C0018696||healthcare system
+C0596070||Americans
+C1254351||pharmaceuticals

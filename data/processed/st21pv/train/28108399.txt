@@ -1,0 +1,56 @@
+C0678594||Fine structure
+C0015392||anterior median eyes
+C0332495||funnel
+C0037913||web spider
+C1905695||Agelena labyrinthica
+C0037913||Araneae
+C0998353||Agelenidae
+C0026019||electron microscopic studies
+C0678594||structure
+C0015392||eyes
+C0015392||anterior median eyes
+C0015392||AME
+C0037913||web spiders
+C0700276||anatomy
+C0015392||AME
+C0037913||spider
+C1905695||Agelena labyrinthica
+C0035298||retina
+C0205147||regions
+C0031760||photoreceptor cells
+C0205099||central part
+C0034837||sensory cells
+C1167266||rhabdomeres
+C1704448||ventral
+C0035298||retina
+C1167266||rhabdomeres
+C1167266||rhabdomeres
+C1704448||ventral
+C0035298||retina
+C1704448||ventral
+C0454236||long tangential rows
+C0205099||center
+C0034837||sensory cells
+C0243095||unpigmented
+C1179009||pigment cell
+C0007613||processes
+C0998353||agelenid
+C0037913||spiders
+C0004461||axons
+C0034837||sensory cells
+C2752549||cell body
+C0678594||fine structure
+C0180233||eye cup
+C0205099||central part
+C0035298||retina
+C0027749||nerve fibres
+C0039062||synapses
+C0205147||distal region
+C0034837||receptor cells
+C0026845||muscle
+C0180233||eye cup
+C0445237||rotational
+C0015413||movements
+C0015392||eyes
+C0015392||eyes
+C0007634||visual cells

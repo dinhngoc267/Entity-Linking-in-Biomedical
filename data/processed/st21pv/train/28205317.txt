@@ -1,0 +1,71 @@
+C0242606||Oxidative stress
+C0596761||immunosenescence
+C0037993||spleen
+C0025933||obese mice
+C1436659||2-hydroxyoleic acid
+C0028754||obesity
+C0242606||oxidative stress
+C0023516||leukocyte
+C0007613||function
+C0037993||spleen
+C0025929||mice
+C0242297||supplementation
+C1436659||2-hydroxyoleic acid
+C1436659||2-OHOA
+C0015689||n-3 polyunsaturated fatty acids
+C0015689||polyunsaturated fatty acids
+C2697641||ICR/CD1 mice
+C0012155||obesogenic diet
+C0012171||fat
+C0012171||fat
+C0025929||mice
+C0000545||EPA
+C0556150||DHA
+C0025929||mice
+C0012155||diet
+C2603343||study
+C0681814||experiment
+C0037993||spleens
+C0017817||reduced
+C0017817||GSH
+C0061516||oxidized (GSSG) glutathione
+C0017817||GSH
+C0061516||GSSG
+C1151293||xanthine oxidase (XO) activity
+C0023775||lipid peroxidation
+C0312862||lymphocyte chemotaxis
+C1317556||natural killer (NK) activity
+C0026249||mitogen
+C0009630||ConA
+C0023810||LPS
+C0596873||lymphocyte proliferation
+C0003062||animals
+C0061516||GSSG
+C0061516||GSSG
+C0017817||GSH
+C0023775||lipid peroxidation
+C1151293||XO activity
+C0312862||lymphocyte chemotaxis
+C1317556||NK activity
+C0009630||ConA
+C1436659||2-OHOA
+C0061516||GSSG
+C0017817||GSH
+C0061516||GSSG
+C0023775||lipid peroxidation
+C0008018||chemotaxis
+C0596290||proliferation
+C0015689||n-3 PUFA
+C1151293||XO activity
+C1436659||2-OHOA
+C0015689||n-3 PUFA
+C0242606||oxidative stress
+C0023516||leukocyte
+C0007613||function
+C0037993||spleen
+C0025933||obese mice
+C0243095||findings
+C0028754||obesity
+C0596761||immunosenescence
+C0028754||obesity
+C0021053||immune dysfunction

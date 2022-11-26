@@ -1,0 +1,50 @@
+C0596402||Cytotoxic
+C0220825||Evaluation
+C0034424||7-Chloro-4-(piperazin-1-yl)quinoline
+C0243072||Derivatives
+C0378796||VEGFR-II
+C0243077||Inhibitors
+C0037080||Signaling pathway
+C0378796||VEGFR-II
+C0006826||cancer
+C0376636||management
+C2603343||current study
+C0034424||1-4-(7-chloroquinolin-4-yl)piperazin-1-yl)-2-(N-substituted-amino)-ethanone
+C0243072||derivatives
+C0034424||4a-t
+C0034424||2-chloro-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone (3)
+C0002508||secondary amines.
+C0026383||structures
+C1706082||compounds
+C0037807||IR
+C3850001||(1) H-NMR
+C3850003||(13) C-NMR
+C0037813||HRMS
+C0013844||microanalysis
+C1706082||Compounds
+C0034424||4a-t
+C0920425||anticancer
+C1710032||screening
+C0678222||human breast cancer
+C0596890||MCF-7
+C0600139||prostate cancer
+C0007634||PC3
+C0007600||cell lines
+C0596402||cytotoxicty
+C0007600||cell lines
+C0034424||2-(4-(4-bromobenzyl)piperazin-1-yl)-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone (4q)
+C0596890||MCF-7
+C0007634||PC3 cells
+C0013089||doxorubicin
+C0596890||MCF-7
+C0007634||PC3
+C0596890||MCF-7 cells
+C0034424||2-(4-(4-bromobenzyl)piperazin-1-yl)-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone
+C0378796||VEGFR-II
+C0243077||inhibitor
+C1516119||sorafenib
+C1522290||docking
+C0034424||2-(4-(4-bromobenzyl)piperazin-1-yl)-1-(4-(7-chloroquinolin-4-yl)piperazin-1-yl)ethanone
+C1167622||binding mode
+C0378796||VEGFR-II
+C0243077||inhibitors

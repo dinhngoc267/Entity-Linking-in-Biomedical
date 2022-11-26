@@ -1,0 +1,72 @@
+C0242896||Anticholinergic
+C0033045||premedication
+C0428977||bradycardia
+C0002928||spinal anesthesia
+C0113293||dexmedetomidine
+C0344106||sedation
+C0206034||randomized
+C0013072||double-blind
+C0113293||dexmedetomidine
+C0002928||spinal anesthesia
+C0428977||bradycardia
+C0030510||parasympathetic
+C0004259||atropine
+C0033045||premedication
+C0428977||bradycardia
+C0019010||hemodynamic effect
+C0002928||spinal anesthesia
+C0344106||sedation
+C0113293||dexmedetomidine
+C0206034||Randomized
+C0013072||double-blind
+C0029064||Operating room
+C0113293||patients
+C0037459||American Society of Anesthesiology class I-II
+C2603343||study
+C0002928||spinal anesthesia
+C0113293||patients
+C0002928||spinal anesthesia
+C0113293||dexmedetomidine
+C0574032||infused
+C0574032||infusion
+C0113293||dexmedetomidine
+C0113293||patients
+C0004259||atropine
+C0113293||patients
+C1511237||bolus
+C1533734||administration
+C0004259||atropine
+C0014479||ephedrine
+C4281788||Hemodynamic
+C0018810||heart rate
+C0871470||systolic blood pressure
+C0428883||diastolic blood pressure
+C0428883||diastolic blood pressure
+C0428886||mean blood pressure
+C0428886||mean blood pressure
+C0428977||bradycardia
+C0004259||atropine
+C0087111||treatment
+C0020649||hypotension
+C0014479||ephedrine
+C0087111||treatment
+C0871470||Systolic blood pressure
+C0018810||heart rate
+C0428883||diastolic blood pressure
+C0428886||mean blood pressure
+C0199176||Prophylactic
+C0004259||atropine
+C0428977||bradycardia
+C0113293||patients
+C0002928||spinal anesthesia
+C0113293||dexmedetomidine
+C0344106||sedation
+C0428883||diastolic blood pressure
+C0428886||mean blood pressure
+C0113293||patients
+C0199176||prophylactic
+C0004259||atropine
+C1533734||administrated
+C0004259||atropine
+C0033045||premedication
+C1533734||administered

@@ -1,0 +1,49 @@
+C1710191||Difference-in-Differences Method
+C2718022||Comparative Effectiveness Research
+C2718022||Comparative effectiveness research
+C2718022||Comparative effectiveness research
+C3658316||observational studies
+C1320722||administrative data
+C2718022||Comparative effectiveness research
+C1710191||difference-in-differences (DiD) estimation
+C1710191||differences, including difference-in-differences
+C0025663||method
+C2718022||Comparative effectiveness research
+C0242356||MarketScan® Databases
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0087111||therapies
+C2348484||Test Cohort
+C0289884||glatiramer acetate
+C0289884||glatiramer acetate
+C2936279||switched
+C1699926||fingolimod
+C1699926||FTY
+C0289884||glatiramer acetate
+C0243095||no switch
+C0242356||US administrative claims database
+C0034980||regression
+C2348484||treatment cohorts
+C1710191||DiD analysis
+C2348484||Test
+C0206031||Logistic regression
+C2936279||switching
+C0289884||glatiramer acetate
+C1699926||FTY
+C1710191||DiD analysis
+C2348484||Test Cohort
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C2348484||Test Cohort
+C1273937||no significant
+C1710191||differences, including difference-in-differences
+C0026769||multiple sclerosis
+C2348484||Test Cohort
+C0026769||multiple sclerosis
+C1257890||population
+C1710191||differences, including difference-in-differences
+C1518681||treatment effects
+C1257890||population
+C2348484||Test
+C1710191||differences, including difference-in-differences
+C0599755||cohorts

@@ -1,0 +1,36 @@
+C0040683||transformation
+C0040683||transformation of bacteria
+C0022877||laboratory
+C0009015||cloning
+C0681814||experiments
+C0040683||transformation
+C0440471||genetic material
+C1282914||surroundings
+C0012854||DNA
+C0017428||genome
+C0040683||transformation
+C0040683||transformation
+C0887912||horizontal gene transfer
+C0887912||horizontal gene transfer
+C0009757||conjugation
+C0007634||cell
+C0007634||cell
+C0012854||DNA
+C0242435||conjugal pilus
+C0004651||phage
+C0040667||transduction
+C0012854||DNA
+C0042776||viruses
+C0887912||horizontal gene transfer
+C0015219||evolution
+C0035168||research
+C0887912||horizontal gene transfer
+C0040683||transformation
+C1136170||virulence factors
+C0040683||transformation
+C1749881||exchange
+C3816499||pathogenic
+C0038410||pneumococci
+C4076168||multidrug-resistant microbes
+C0035168||research
+C0887912||horizontal gene transfer

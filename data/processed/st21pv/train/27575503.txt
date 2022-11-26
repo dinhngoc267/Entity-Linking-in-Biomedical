@@ -1,0 +1,59 @@
+C0022646||renal
+C0221198||lesions
+C0022646||renal
+C3714660||trauma
+C1704656||diagnosis
+C0022646||renal
+C0221198||lesions
+C0221198||Pre-existing renal lesions
+C3714660||trauma
+C0457276||radiographic imaging
+C0087111||therapeutic
+C2603343||study
+C0221198||Pre-existing renal lesions
+C0022646||renal
+C3714660||trauma
+C0459914||conservative management
+C0025102||medical records
+C0221198||Pre-existing renal lesions
+C0022646||renal
+C3714660||trauma
+C0022646||renal
+C1457887||symptoms
+C0040405||CT scan
+C2603343||study
+C0243095||findings
+C3263723||injuries
+C0087111||therapeutic
+C0025266||men
+C0043210||women
+C0022646||Renal
+C3714660||trauma
+C0000932||traffic accident
+C0022646||Renal
+C3714660||trauma
+C3714660||trauma
+C3714660||trauma
+C0446633||abdominal organs
+C0042018||Urinary stones
+C0521619||pelvi-ureteric junction obstruction
+C0221353||horseshoe kidny
+C0238207||ectopic kidney
+C0027695||nephrectomy
+C0948268||hemodynamic instability
+C0183518||Ureteral stenting
+C0543467||operated
+C0022646||renal
+C0919386||pathology
+C0459914||conservative treatment
+C0022646||renal
+C3714660||trauma
+C0221198||Pre-existing renal lesions
+C0022646||renal
+C3714660||trauma
+C0243095||findings
+C0087111||therapeutic
+C0221198||Pre-existing renal lesions
+C0578150||hemo-dynamically stable
+C0221198||Pre-existing renal lesions
+C0160420||renal injuries

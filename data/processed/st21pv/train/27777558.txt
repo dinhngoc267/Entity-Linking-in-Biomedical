@@ -1,0 +1,16 @@
+C0243095||Pre-Activation Negativity
+C0243095||Pre-Activation Negativity
+C0006104||Brain
+C0025361||Unfolding Words
+C0282171||event-related potential
+C0282171||event-related potential
+C0243095||pre-activation negativity
+C0243095||Pre-Activation Negativity
+C0918012||index
+C0205102||internal
+C0037817||speech
+C0282171||event-related potential
+C0681814||experiments
+C0243095||Pre-Activation Negativity
+C0205160||negativity
+C1257890||competitors

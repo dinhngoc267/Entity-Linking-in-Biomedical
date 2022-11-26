@@ -1,0 +1,35 @@
+C0030016||ene-reductase
+C0004611||iron oxidizer
+C0030016||Ene-reductases
+C0017428||genome
+C0004611||iron-oxidizing bacterium
+C3908921||Ferrovum" sp. JA12
+C0030016||ene-reductase
+C0030016||FOYE-1
+C0017337||foye-1 gene
+C0032136||pET16bp
+C0017262||expression
+C0017397||vector system
+C0014442||enzyme
+C0014834||Escherichia coli
+C0007634||BL21 (DE3; pLysS) cells
+C0030016||FOYE-1
+C0243102||activity
+C0068268||N-phenylmaleimide
+C0029224||N-phenyl-2-methylmaleimide
+C0009235||nicotinamide cofactors
+C0027303||NADPH
+C0027289||NADH
+C0027303||NADPH
+C0027289||NADH
+C0243102||activity
+C0243095||findings
+C0030016||FOYE-1
+C0038623||succinimides
+C0030016||ene-reductase
+C0871648||acidic habitat
+C0017428||genomic
+C0014406||neighborhood
+C0017337||gene
+C0030016||FOYE-1
+C1154599||quorum-sensing

@@ -1,0 +1,48 @@
+C0005516||biomarkers
+C0701807||acute anterior uveitis
+C0027950||neutrophil
+C0024264||lymphocyte
+C0005821||platelet
+C0024264||lymphocyte
+C0027950||neutrophil
+C0024264||lymphocyte
+C0027950||N
+C0024264||L
+C0005821||platelet
+C0024264||lymphocyte
+C0005821||P
+C0024264||L
+C0701807||acute anterior uveitis
+C0701807||acute anterior uveitis
+C0025266||male
+C0701807||acute anterior uveitis
+C0025266||male
+C2349001||subjects
+C0035363||retrospective study
+C0200149||ophthalmological examination
+C1879889||blood count measurements
+C2349001||subjects
+C0220825||evaluated
+C0027950||N
+C0024264||L
+C0005821||P
+C0024264||L
+C0701807||acute anterior uveitis
+C0010101||correlation analysis
+C0006560||C-reactive protein
+C0006560||C-reactive protein
+C0027950||N
+C0024264||L
+C0008972||study
+C0027950||N
+C0024264||L
+C0005821||P
+C0024264||L
+C0005516||biomarkers
+C0701807||acute anterior uveitis
+C0027950||N
+C0024264||L
+C0006560||C-reactive protein
+C0005516||biomarker
+C0033325||prognosis
+C0701807||acute anterior uveitis

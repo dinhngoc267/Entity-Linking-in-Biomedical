@@ -1,0 +1,65 @@
+C0003392||antineoplastic drug
+C0728747||trastuzumab
+C0243095||dysregulates
+C0025519||metabolism
+C2717959||iPSC
+C0225828||cardiomyocytes
+C2985566||targeted ERBB2 therapy
+C0728747||trastuzumab
+C0376636||management
+C1960398||HER2+ breast cancer
+C0069515||HER2
+C2985566||targeted therapies
+C0879626||side effect
+C0876994||cardiotoxicity
+C0017262||gene expression
+C0026343||models
+C0018801||heart failure
+C1519516||differential gene expression
+C2717959||iPSC
+C0225828||cardiomyocytes
+C1702024||ERBB2
+C0003250||monoclonal antibody
+C0728747||trastuzumab
+C1268567||small molecule tyrosine kinase inhibitor
+C0034802||EGFR
+C1702024||ERBB2
+C4086963||Transcriptome sequencing
+C0728747||trastuzumab
+C1506770||lapatinib
+C1519516||differential gene expression
+C0936012||analyses
+C0225828||cardiomyocytes
+C0017337||genes
+C0017262||differentially expressed
+C0225828||cardiomyocytes
+C0728747||trastuzumab
+C1506770||lapatinib
+C1138831||Gene ontology
+C0936012||analyses
+C0225828||cardiomyocytes
+C0728747||trastuzumab
+C0013081||down-regulation
+C0017337||genes
+C2752534||small molecule metabolism
+C0008377||cholesterol
+C0038323||sterol
+C1159527||glucose uptake
+C0376261||lactate
+C2717959||iPSC
+C0225828||cardiomyocytes
+C0728747||trastuzumab
+C1159527||glucose uptake
+C0010454||media
+C2717959||iPSC
+C0225828||cardiomyocytes
+C0728747||trastuzumab
+C2603343||study
+C0243095||dysregulation
+C0018787||cardiac
+C0017262||gene expression
+C0025519||metabolism
+C0242957||ERBB2
+C0037080||signaling
+C0005516||biomarkers
+C0876994||cardiotoxicity

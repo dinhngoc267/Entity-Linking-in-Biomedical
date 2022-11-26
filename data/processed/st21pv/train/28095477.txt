@@ -1,0 +1,34 @@
+C0004936||Mental Disorders
+C0282645||Eastern Mediterranean Region
+C0282645||Eastern Mediterranean Region
+C0282645||Eastern Mediterranean Region
+C0008679||chronic disorders
+C0004936||mental illness
+C0008972||study
+C0004936||mental disorders
+C0282645||Eastern Mediterranean Region
+C4277729||Global Burden of Disease study
+C4277729||Global Burden of Disease study
+C0220825||assessment
+C1855073||premature mortality
+C0004936||mental disorders
+C0282645||Eastern Mediterranean Region
+C1257890||population
+C0454664||high-income countries
+C0454664||countries
+C1331016||low-income
+C0454664||countries
+C0004936||mental disorders
+C0004936||mental disorders
+C0282645||Eastern Mediterranean Region
+C1257890||mental disorders group
+C0282645||Eastern Mediterranean Region
+C0011581||depressive disorders
+C0003469||anxiety disorders
+C0282645||Eastern Mediterranean Region
+C0004936||mental disorders
+C0454664||EMR countries
+C0025355||mental health services
+C1444783||instability
+C1446377||mental health problems
+C0017446||region

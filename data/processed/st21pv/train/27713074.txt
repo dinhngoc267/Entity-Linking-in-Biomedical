@@ -1,0 +1,56 @@
+C3658219||influenza A virus (H7N9)
+C0243095||anti-neuraminidase
+C0003250||monoclonal antibody
+C0199176||prophylactic and therapeutic activity
+C1515655||in vivo
+C0043528||Zoonotic
+C3658219||A(H7N9) avian influenza viruses
+C0008115||China
+C0086418||human
+C0699943||public health
+C0439663||infected
+C0237401||individuals
+C0683525||Treatment options
+C0439663||infected
+C3658219||A(H7N9)
+C1443650||neuraminidase (NA) inhibitors
+C0029341||influenza viruses
+C3658219||A(H7N9)
+C0013227||drugs
+C0003250||monoclonal antibodies
+C0029341||influenza virus
+C3714514||infection
+C0026809||murine
+C0003250||monoclonal antibody
+C3849272||3c10-3
+C3658219||A(H7N9)
+C3849272||3c10-3
+C1883559||wild-type
+C0029347||A/Anhui/1/2013
+C3658219||H7N9
+C3714514||infection
+C0087111||treatment
+C3849272||3c10-3
+C3658219||A(H7N9)
+C0026809||mice
+C3849272||3c10-3
+C0242831||Epitope mapping
+C3849272||3c10-3
+C1167622||binds
+C0014442||enzyme
+C3849272||3c10-3
+C0243102||enzyme activity
+C0042776||virus
+C0007635||cultured cells
+C0936012||analysis
+C3849272||3c10-3
+C1167622||binds
+C0034861||recombinant
+C1883559||wild-type
+C0029347||A/Anhui/1/2013
+C0026882||mutation
+C1443650||NAI
+C3849272||3c10-3
+C3658219||A(H7N9)
+C3714514||infections
+C0003451||antiviral inhibitors

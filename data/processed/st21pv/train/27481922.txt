@@ -1,0 +1,57 @@
+C0752046||Polymorphisms
+C0017337||Mediator Genes
+C0032914||Preeclampsia
+C0008115||China
+C1858460||maternal
+C1155266||inflammatory response
+C0699748||pathogenesis
+C0032914||preeclampsia
+C0002783||epidemiologic studies
+C0017337||mediator genes
+C0032914||preeclampsia
+C0002783||studies
+C0752046||single-nucleotide polymorphisms
+C1708430||IL-1A
+C1334112||IL-1B
+C0391754||IL-1R1
+C1101536||IL-2RA
+C1704269||IL-5RA
+C1334122||IL-6
+C0063717||IL-6R
+C1367028||TNFSF11
+C1420805||TNFRSF11A
+C1425622||IL-28RA
+C1334137||IRAK4
+C1416655||KIT genes
+C0032914||preeclampsia
+C0449560||subtypes
+C0027775||nested case-control study
+C0032914||preeclampsia
+C0391754||IL-1R1
+C1704269||IL-5RA
+C0063717||IL-6R
+C1367028||TNFSF11
+C0032914||preeclampsia
+C0032914||preeclampsia
+C0032914||preeclampsia
+C0032914||preeclampsia
+C0063717||IL-6R
+C0282574||rs2229238
+C1367028||TNFSF11
+C0282574||rs9525643
+C0752046||polymorphisms
+C0032914||preeclampsia
+C1367028||TNFSF11
+C0282574||rs2200287
+C0282574||rs2148072
+C0752046||polymorphisms
+C0032914||preeclampsia
+C2603343||study
+C0017337||mediator genes
+C0391754||IL-1R1
+C0063717||IL-6R
+C1367028||TNFSF11
+C1704269||IL-5RA
+C0032914||preeclampsia
+C0032914||preeclampsia
+C0449560||subtypes

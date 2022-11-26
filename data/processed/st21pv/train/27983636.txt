@@ -1,0 +1,43 @@
+C0074191||Scoparone
+C0023810||lipopolysaccharide
+C1155266||Inflammatory Response
+C1510506||IRF3
+C0600388||ERK
+C0206116||BV-2 Microglial Cells
+C0206116||Microglia
+C1326120||activation
+C0079189||cytokines
+C0030567||Parkinson's
+C0002395||Alzheimer's
+C0006111||brain diseases
+C0206116||microglial cells
+C0574031||bioactive compounds
+C0074191||Scoparone
+C0074191||6,7-dimethoxycoumarin
+C0574031||bioactive compound
+C0150312||found
+C2698828||plant parts
+C0349771||chestnut
+C1047769||Castanea crenata
+C0023810||lipopolysaccharide
+C0023810||lipopolysaccharide
+C0206116||BV-2 microglia cells
+C1444656||indicated
+C0074191||scoparone
+C0023810||lipopolysaccharide
+C1155266||neuroinflammatory responses
+C0079189||cytokine
+C0206116||BV-2 microglial cells
+C0074191||scoparone
+C0023810||lipopolysaccharide
+C1326120||activation
+C1327622||regulation
+C1510506||IRF-3
+C1327622||regulation
+C0600388||ERK
+C0031715||phosphorylation
+C0206116||BV-2 microglial cells
+C0074191||scoparone
+C0023810||lipopolysaccharide
+C0206116||BV-2 microglial cells
+C0013227||drugs

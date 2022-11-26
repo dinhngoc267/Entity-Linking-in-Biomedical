@@ -1,0 +1,38 @@
+C0003320||Antigen
+C0085254||Fixation
+C1707903||Embedding
+C0003320||Antigen
+C0040300||tissue
+C3714634||antigenicity
+C0016741||frozen sections
+C0040300||whole tissue
+C0003320||antigen
+C0085254||fixation
+C0003320||antigens
+C0085254||fixation
+C0442726||detection
+C0003320||antigen
+C1514918||retrieval
+C1514918||antigen retrieval
+C0208804||Ki-67
+C0001975||graded alcohol
+C1704680||staining effect
+C0016741||sections
+C0011740||detergents
+C0032521||polymeric
+C0442726||detection
+C0040300||tissue
+C0678594||structures
+C4055226||clearing agent
+C0030415||paraffin
+C1707903||embedding
+C0043047||water
+C1514918||antigen retrieval
+C0085254||fixation
+C0030415||paraffin
+C1707903||embedding
+C1514918||antigen retrieval
+C0003316||epitopes
+C0016741||frozen sections
+C0085254||fixation
+C0003320||antigens

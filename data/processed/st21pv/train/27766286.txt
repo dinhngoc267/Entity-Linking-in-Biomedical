@@ -1,0 +1,32 @@
+C0150098||Dataset
+C0030956||amyloidogenic peptide
+C0002518||VDSWNVLVAG
+C0014442||Bgl2p-glucantransferase
+C0036025||S. cerevisiae
+C0007623||cell wall
+C0030956||amyloidogenic peptide
+C0002518||VDSWNVLVAG
+C0014442||Bgl2p-glucantransferase
+C0036025||Saccharomyces cerevisiae
+C0007623||cell wall
+C0243071||analog
+C0002518||VESWNVLVAG
+C1704322||orientation
+C0030956||peptides
+C3161035||models
+C0596957||molecular dynamics
+C0596957||molecular dynamics
+C0162807||secondary structure
+C0679083||simulations
+C1706852||article
+C3161035||models
+C0600383||β-strands
+C0678594||structure
+C1706852||research article
+C1449651||amyloid fibrils
+C0030956||amyloidogenic peptide
+C0014442||Bgl2p-glucantransferase
+C0036025||S. cerevisiae
+C0007623||cell wall
+C0243071||analog
+C1449651||amyloid fibrils

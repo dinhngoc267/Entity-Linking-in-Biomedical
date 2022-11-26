@@ -1,0 +1,50 @@
+C1483717||Ocimum americanum
+C0028910||essential oil
+C0085491||Aeromonas hydrophila
+C1211435||Gyrodactylus sp.
+C1939719||silver catfish
+C1194855||Rhamdia quelen
+C1271650||bactericidal activity
+C0427978||MIC-test
+C1483717||Ocimum americanum
+C2697680||inflorescences
+C0028910||essential oil
+C0028910||OAEO
+C0085491||Aeromonas hydrophila
+C0028910||OAEO
+C0028908||oil
+C0064997||linalool
+C0243077||inhibitors
+C0019054||hemolysis
+C0085491||Aer. hydrophila
+C1939719||fish
+C0014792||erythrocytes
+C0016163||fish
+C1194855||Rhamdia quelen
+C0681814||experimentally
+C0439663||infected
+C0085491||Aer. hydrophila
+C0028910||OAEO
+C0681814||experiment
+C0028910||OAEO
+C2697680||inflorescences
+C0242724||leaves
+C1211435||parasite Gyrodactylus sp.
+C0028910||OAEO
+C0085491||Aer. hydrophila
+C0028910||OAEO
+C0019054||hemolysis
+C0085491||Aer. hydrophila
+C1939719||fish
+C0014792||erythrocytes
+C0064997||linalool
+C0019054||hemolysis
+C0043047||water
+C0028910||OAEO
+C0439663||infected
+C1939719||fish
+C0085491||Aer. hydrophila
+C0028910||OAEO
+C1211435||Gyrodactylus sp.
+C0030498||parasites
+C1939719||fish

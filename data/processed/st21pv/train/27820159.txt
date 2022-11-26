@@ -1,0 +1,62 @@
+C0243095||willingness to take
+C0149931||migraine
+C0199176||prophylactic
+C0013227||medications
+C0149931||migraine
+C0199176||prophylactic therapy
+C0018681||headache
+C0041714||Food and Drug Administration
+C0013227||medications
+C0149931||migraine
+C0199176||prophylaxis
+C0087111||treatments
+C0879626||side effect
+C1979963||profiles
+C0018681||headache
+C0205276||local
+C0018681||headache
+C0442592||clinics
+C0679646||Participants
+C0018681||headache
+C0018681||headache
+C0010362||cross-sectional, single-site, study
+C0679646||Participants
+C0879626||side effects
+C0150108||blinded
+C0013227||medication
+C1979963||profiles
+C0886883||divalproex sodium
+C0078569||venlafaxine
+C0060926||gabapentin
+C0033497||propranolol
+C0076829||topiramate
+C0879626||side effect
+C1979963||profiles
+C0013227||medication
+C0679646||participants
+C0243095||willing to take
+C0013227||medication
+C0018681||headache
+C0879626||side effect
+C1979963||profile
+C0886883||divalproex sodium
+C0243095||smallest willingness to take
+C0060926||gabapentin
+C0033497||propranolol
+C0076829||topiramate
+C0679646||participants
+C0243095||willingness to take
+C0013227||medications
+C0018681||headache
+C0243095||willingness to take
+C0018681||headache
+C0231170||disability
+C0086132||depressive symptoms
+C0002771||pain medication
+C0015726||fear
+C0220929||tolerance
+C0243095||findings
+C0879626||side effect
+C1979963||profiles
+C0013227||medications
+C0087111||treatments

@@ -1,0 +1,49 @@
+C0643681||RhoA
+C1457868||Worse
+C0015252||Surgical Resection
+C3829311||Lauren
+C0279635||Diffuse-Type Gastric Adenocarcinoma
+C0812234||RHOA
+C0596611||mutations
+C3829311||Lauren
+C0279635||diffuse-type gastric adenocarcinoma
+C0278701||gastric adenocarcinoma
+C0279633||intestinal-type GA
+C0643681||RhoA
+C1514474||prognostic
+C0278701||gastric adenocarcinoma
+C0035363||Retrospective review
+C0278701||gastric adenocarcinoma
+C1511562||curative resection
+C2607850||single institution
+C0040300||Tissue
+C1519061||phosphorylated
+C0643681||RhoA
+C0005516||marker
+C0643681||RhoA
+C2611812||signaling
+C2827659||Kaplan-Meier method
+C0010235||Cox proportional hazards regression modeling
+C0279635||diffuse-type GA
+C0279633||intestinal-type GA
+C0279633||intestinal-type GA
+C0279635||diffuse-type GA
+C0027651||tumors
+C0475440||tumor size
+C1515169||advanced tumor, node, metastasis (TNM) classification system stage
+C0279635||diffuse-type GA
+C0643681||RhoA
+C1457868||worse
+C0643681||RhoA
+C0279633||intestinal-type GA
+C0279635||diffuse-type GA
+C0643681||RhoA
+C1514474||prognostic factor
+C0643681||RhoA
+C1457868||worse
+C0279635||diffuse-type GA
+C1511562||curative surgical resection
+C0887950||genomic studies
+C0643681||RhoA
+C0087111||therapeutic
+C0279635||diffuse-type GA

@@ -1,0 +1,35 @@
+C0021853||Intestinal
+C0991556||micropatches
+C0442027||oral
+C0011849||Diabetes mellitus
+C0376636||management
+C0008679||chronic disease
+C0376405||lack of patient compliance
+C0086466||injectable
+C0442027||oral
+C0021641||insulin
+C1533734||delivery
+C0805586||challenges
+C0021853||intestinal
+C0991556||patches
+C0991556||micropatches
+C0805586||challenges
+C0442027||oral
+C0991556||micropatches
+C0021839||intestinal mucosa
+C1254351||drug
+C0595883||lowering blood glucose levels
+C1515655||in vivo
+C0021641||insulin
+C0991556||micropatches
+C1533734||administered
+C1254351||permeation enhancer
+C0033607||protease inhibitor
+C0595883||drop in blood glucose levels
+C0991556||micropatches
+C1533734||administered
+C1960418||multiple doses
+C0991556||micropatches
+C0442027||oral
+C0021641||insulin
+C1515655||in vivo

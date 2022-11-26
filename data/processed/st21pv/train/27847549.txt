@@ -1,0 +1,44 @@
+C1096776||Multicenter
+C0034656||Randomized
+C0936233||Controlled Trial
+C0020281||Hydrogen Peroxide
+C0812225||Kit
+C0005088||Benzoyl Peroxide
+C0812225||Kit
+C0702166||Acne
+C0220825||evaluate
+C3274448||tolerability
+C0020281||hydrogen peroxide
+C0040808||regimen
+C0005088||benzoyl peroxide
+C0040808||regimen
+C0702166||acne
+C0025663||Methods
+C1096776||multicenter study
+C0034656||randomized
+C0020281||hydrogen peroxide
+C0005088||benzoyl peroxide
+C0040808||regimen
+C4055223||clinical response
+C1273712||Global Acne Grading System
+C1273712||Global Acne Grading System
+C0034394||self-satisfaction questionnaire
+C0035173||Investigators
+C1522634||queried
+C0220825||assessment
+C3274448||tolerability
+C3274448||Tolerability
+C1512346||visit
+C0040808||treatment regimens
+C0040808||regimens
+C1963761||No significant adverse events
+C0700287||reported
+C1522541||treatment arm
+C0035173||investigators
+C0040808||regimens
+C0020281||hydrogen peroxide
+C0040808||regimen
+C0005088||benzoyl peroxide
+C0040808||regimen
+C0087111||treatment
+C0702166||acne

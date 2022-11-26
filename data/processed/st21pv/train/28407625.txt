@@ -1,0 +1,48 @@
+C0175566||Open
+C0008976||Psoriasis Plaque Test Design
+C3252363||Mapracorat
+C0028912||Ointment
+C0042444||Vehicle
+C0013227||Drugs
+C0008976||Psoriasis plaque tests
+C0008976||Psoriasis plaque tests
+C1874314||antipsoriatic
+C0872152||drug development
+C0008976||PPT design
+C1874314||antipsoriatic
+C3252363||mapracorat
+C0028912||ointment
+C0013227||drugs
+C2603343||studies
+C0008976||open
+C0008976||occluded PPT designs
+C0041618||sonography
+C0022885||chromametry
+C1874314||Antipsoriatic
+C2603343||study
+C0013227||drugs
+C0008976||occluded
+C0008976||open PPTs
+C1874314||antipsoriatic drugs
+C0042444||vehicle
+C1874314||antipsoriatic
+C0008976||occluded PPT
+C0008976||open PPT
+C2603343||study
+C0013227||drugs
+C0008976||open PPT
+C0008976||occluded PPT
+C0008976||open PPT
+C0008976||occluded PPT
+C0013206||screening
+C0872152||drug development
+C0013227||drug
+C2603343||study
+C0008976||open PPT
+C0008976||PPT
+C0008902||classification
+C0920321||phase I studies
+C2603343||study
+C1706082||compounds
+C0521982||treatment response
+C1512068||clinical development

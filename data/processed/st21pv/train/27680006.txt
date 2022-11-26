@@ -1,0 +1,49 @@
+C0243095||Hematological
+C0243095||biochemical
+C0243095||toxicopathic effects
+C1142891||acetamiprid
+C0600688||toxicity
+C0034716||Wistar rats
+C1142891||Acetamiprid
+C1997222||neonicotinoids
+C0600688||toxic effects
+C1142891||acetamiprid
+C0034716||Wistar rats
+C0243095||Hematological
+C0243095||biochemical
+C0243095||toxicopathic effects
+C1142891||acetamiprid
+C0220825||evaluated
+C0043094||body weight gain
+C1142891||acetamiprid
+C0023884||liver
+C0014792||RBC
+C0019046||HGB
+C0518014||HCT
+C0034716||rats
+C1142891||acetamiprid
+C0023516||WBC
+C0005821||PLT
+C1142891||acetamiprid
+C4279912||induced liver toxicity
+C0243102||activities
+C0004002||aspartate aminotransferase
+C0004002||aspartate aminotransferase
+C0001899||alanine aminotransferase
+C0001899||alanine aminotransferase
+C0002059||alkaline phosphates
+C0002059||alkaline phosphates
+C0022917||lactate dehydrogenase
+C0022917||lactate dehydrogenase
+C2331083||hepatic membrane architecture
+C0151763||hepatocellular damage
+C1142891||acetamiprid
+C0038838||superoxide dismutase
+C0007367||catalase
+C0243102||activities
+C0023775||lipid peroxidation
+C0034716||rat
+C0023884||liver
+C0243095||findings
+C0235378||hepatotoxicity
+C1142891||acetamiprid

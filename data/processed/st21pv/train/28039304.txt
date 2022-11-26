@@ -1,0 +1,62 @@
+C0002092||Allergen
+C0162825||FcεRI
+C1327439||Secretory Responses
+C0531911||Pen a 1
+C0002092||Hypoallergens
+C0037125||Ag
+C0020846||IgE
+C0162825||FcεRI
+C0003313||complexes
+C0024880||mast cells
+C0004827||basophils
+C1527304||allergic response
+C0681906||self-reported
+C1628514||shrimp allergy
+C1270759||shrimp-specific IgE
+C0229671||serum
+C0004827||basophil
+C1327616||secretory
+C0003261||responses
+C0037017||shrimp
+C0041197||tropomyosin
+C0162825||FcεRI
+C0443736||allergen-specific IgE
+C0531911||Pen a 1
+C4277689||clustered regularly interspaced palindromic repeat-based gene editing
+C0162825||FcεRIα
+C0531911||Pen a 1
+C0443736||specific IgE
+C0037017||shrimp
+C1514241||positive
+C0032105||plasma
+C0531911||Pen a 1
+C0443736||specific IgE
+C0531911||Pen a 1
+C3155125||response for secretion
+C0531911||Pen a 1
+C0876936||Mathematical modeling
+C0034780||receptor aggregation
+C0162825||FcεRI
+C0020846||IgE
+C0002092||allergen
+C1270759||gE
+C0162825||FcεRI
+C0003313||complexes
+C1270759||specific IgE
+C0531911||Pen a 1
+C1270759||IgE
+C0003316||epitope
+C0162825||FcεRI
+C0030909||pepsin
+C0531911||Pen a 1
+C0597304||proteolysis
+C0012238||digestion
+C1327439||secretory responses
+C0041197||tropomyosin
+C1323329||dimerization
+C0531911||Pen a 1
+C1270759||IgE
+C0162825||FcεRI
+C0003313||complexes
+C0002092||hypoallergens
+C0021083||immunotherapy

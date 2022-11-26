@@ -1,0 +1,20 @@
+C0016658||bone fractures
+C2603343||study
+C0016664||stress fractures
+C1522577||follow-up
+C1257890||sample
+C1257890||groups
+C0016664||stress fracture
+C0679646||participants
+C0876909||coaches
+C0872279||resistance training
+C0016658||fractures
+C0005938||Bone mineral density
+C0016664||stress fracture
+C0032893||practice
+C0016658||fracture
+C0243095||findings
+C2603343||study
+C0016664||stress fracture
+C0005938||bone mass
+C0016658||fractures

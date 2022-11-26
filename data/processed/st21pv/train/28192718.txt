@@ -1,0 +1,94 @@
+C1148554||determination
+C0870883||metabolites
+C0004057||aspirin
+C4053724||UHPLC-MS
+C0037813||MS
+C1511131||enzymatic reaction
+C0004057||aspirin
+C3853758||metabolic profile
+C0004057||Acetylsalicylic acid
+C0004057||Aspirin
+C0004057||ASA
+C0013227||drug
+C0007222||cardiovascular diseases
+C0004057||ASA
+C3853758||metabolic profile
+C2603343||study
+C0022885||method
+C0004057||ASA
+C0870883||metabolites
+C1706515||biological matrices
+C0812407||glucuronide
+C0870883||metabolites
+C0022885||method
+C0004057||ASA
+C3853758||metabolic
+C0221102||excretion
+C0004057||ASA
+C0870883||metabolites
+C0034721||rat
+C0042036||urine
+C0036079||Salicylic acid
+C0036079||Salicylic acid
+C0045555||gentisic acid
+C0045555||gentisic acid
+C0073984||salicyluric acid
+C0073984||salicyluric acid
+C4053724||UHPLC-MS
+C0037813||MS
+C0044622||salicyl phenolic glucuronide
+C0044622||salicyl phenolic glucuronide
+C0752086||salicyluric acid phenolic glucuronide
+C0752086||salicyluric acid phenolic glucuronide
+C0036079||Salicylic acid
+C0073984||salicyluric acid
+C0044622||salicyl phenolic glucuronide
+C0752086||salicyluric acid phenolic glucuronide
+C0017776||β-glucuronidase
+C0012238||digestion
+C0073984||salicyluric acid
+C0752086||salicyluric acid phenolic glucuronide
+C0870883||metabolites
+C0004057||ASA
+C0034721||rat
+C0042036||urine
+C0004057||ASA
+C0073984||salicyluric acid
+C0752086||salicyluric acid phenolic glucuronide
+C0004057||ASA
+C0221102||excretion
+C0870883||metabolites
+C0045555||gentisic acid
+C0036079||Salicylic acid
+C0044622||salicyl phenolic glucuronide
+C0073984||salicyluric acid
+C0752086||salicyluric acid phenolic glucuronide
+C0221102||excreted
+C0045555||gentisic acid
+C0221102||excreted
+C0036079||Salicylic acid
+C0221102||excreted
+C0221102||excretion
+C0044622||salicyl phenolic glucuronide
+C0221102||excretion
+C0870883||metabolites
+C0034721||rat
+C0042036||urine
+C0004057||ASA
+C0022885||method
+C0004057||ASA
+C0870883||metabolites
+C0036079||Salicylic acid
+C0045555||gentisic acid
+C0073984||salicyluric acid
+C0044622||salicyl phenolic glucuronide
+C0752086||salicyluric acid phenolic glucuronide
+C0034721||rat
+C0042036||urine
+C0004057||ASA
+C3853758||metabolic
+C0221102||excretion
+C0004057||ASA
+C0870883||metabolites
+C0034721||rat
+C0042036||urine

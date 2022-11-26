@@ -1,0 +1,40 @@
+C0225897||Left ventricular
+C0445237||rotational
+C0752304||hypoxic ischemic encephalopathy
+C0225897||left ventricle
+C0225897||left ventricle
+C0031842||rotational physiology
+C0445237||rotational
+C0752304||hypoxic ischemic encephalopathy
+C0752304||hypoxic ischemic encephalopathy
+C1257890||preterm group
+C0746102||chronic lung disease
+C0746102||chronic lung disease
+C0013516||Echocardiography
+C0005615||birth
+C0225897||left ventricle
+C0205112||basal
+C0231467||twist
+C0231467||twist
+C0032961||gestation
+C0752304||hypoxic ischemic encephalopathy
+C1257890||group
+C1257890||preterm group
+C0032961||gestation
+C0752304||hypoxic ischemic encephalopathy
+C0231467||twist
+C1257890||preterm group
+C0205112||basal
+C1257890||term group
+C0205111||apical
+C0746102||chronic lung disease
+C0205111||apical
+C0231467||twist
+C0746102||chronic lung disease
+C0752304||hypoxic ischemic encephalopathy
+C0445237||rotational
+C0231467||twist
+C0205112||basal
+C0205111||apical
+C0746102||chronic lung disease
+C0205111||apical

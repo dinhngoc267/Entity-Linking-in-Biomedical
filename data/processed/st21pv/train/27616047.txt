@@ -1,0 +1,45 @@
+C0032150||Plasmodium falciparum
+C0008415||Choline Kinase
+C1450468||Phosphatidylethanolamine
+C0030498||Parasite
+C0011065||Death
+C0024530||Malaria
+C2826244||life-threatening
+C0012634||disease
+C1705920||species
+C0585171||protozoan parasite
+C0032148||Plasmodium
+C0032150||P. falciparum
+C0003374||antimalarials
+C0087111||treat
+C0012634||disease
+C0014442||enzymes
+C1959616||phosphatidylcholine
+C1450468||phosphatidylethanolamine
+C0087111||treat
+C0024530||malaria
+C0030498||parasite's
+C0018270||growth
+C0024530||malaria
+C2986594||mouse model
+C2603343||study
+C0032150||P. falciparum
+C0008415||choline kinase
+C0243077||inhibitors
+C1515655||in vivo
+C1167622||binding
+C0008405||choline
+C0059696||ethanolamine
+C0005456||binding site
+C0032150||P. falciparum
+C0008415||choline kinase
+C1150468||ethanolamine kinase activity
+C0032150||P. falciparum
+C0008415||choline kinase
+C1450468||phosphatidylethanolamine
+C0032150||P. falciparum
+C0030498||parasites
+C0011065||death
+C0243107||antimalarial development
+C0032150||P. falciparum
+C0008415||choline kinase

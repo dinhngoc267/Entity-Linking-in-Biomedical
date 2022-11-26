@@ -1,0 +1,48 @@
+C3494217||Low-Volume
+C3494218||High-Volume Centers
+C0376636||Management of Fournier's Gangrene
+C0043038||Washington State
+C0238419||Fournier's gangrene
+C0238419||Fournier's gangrene
+C1859430||life-threatening infection
+C0031066||perineum
+C0017420||genitals
+C1610129||patient management
+C0587437||tertiary centers
+C0449774||patterns
+C0238419||Fournier's gangrene
+C0043038||Washington State
+C0043038||Washington State
+C0043038||Washington
+C0238419||Fournier's gangrene
+C0282574||diagnosis and treatment codes
+C3494217||low-volume centers
+C3494217||low-volume centers
+C3494218||high-volume centers
+C3494218||high-volume centers
+C0586512||transfer status
+C0011079||debridements
+C0036983||septic shock
+C0022660||acute renal failure
+C0264490||acute respiratory failure
+C1306577||death
+C0238419||Fournier's gangrene
+C3494218||HVC
+C0238419||Fournier's gangrene
+C3494217||low-volume centers
+C3494218||HVC
+C3494217||LVC
+C3494218||High-volume center
+C0036983||septic shock
+C1145670||respiratory failure
+C3494217||LVC
+C3494218||HVC
+C0030704||transferred patients
+C0011079||debridements
+C0036983||septic shock
+C0022660||acute renal failure
+C3494218||HVC
+C3494217||low-volume centers
+C0238419||Fournier's gangrene
+C0012634||disease
+C0586512||transfer status

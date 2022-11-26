@@ -1,0 +1,30 @@
+C0314932||Dichelobacter nodosus
+C0449555||serogroup H
+C1123019||ovine
+C0016513||footrot
+C0021201||India
+C0230506||inter digital spaces
+C0036945||sheep
+C0016513||footrot
+C0221198||lesions
+C1710031||screened
+C0035701||rRNA
+C0314932||Dichelobacter nodosus
+C0032520||PCR
+C1514241||positive
+C1514241||positive
+C3179032||multiplex PCR
+C0242613||targeting fimA gene
+C0449543||serogroups
+C0314932||D. nodosus
+C0449555||Serogroup H
+C0456771||serogroup B
+C0449543||serogroup I
+C0449555||serogroup H
+C0454693||Indian subcontinent
+C1519068||phylogenetic analysis
+C0004793||sequence
+C0449555||serogroup H
+C0004793||sequences
+C0598211||GenBank
+C0449943||serotype H1

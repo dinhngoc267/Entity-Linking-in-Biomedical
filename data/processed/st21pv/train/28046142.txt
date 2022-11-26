@@ -1,0 +1,92 @@
+C1158469||Nitrogen utilization
+C0028158||nitrogen
+C0221102||excretion
+C0036945||sheep
+C1444648||offered
+C0331558||fresh perennial ryegrass
+C0028158||Nitrogen
+C0221102||excretion
+C0036945||sheep
+C0557759||production systems
+C0699857||nitrate
+C0002607||ammonia
+C0028215||nitrous oxide
+C0596631||groundwater
+C2603343||study
+C1158469||N utilization
+C0028158||N
+C0015733||feces
+C0028158||N
+C0042036||urine
+C0028158||N
+C0036945||sheep
+C0036945||sheep
+C1444648||offered
+C0331558||fresh perennial ryegrass
+C0012155||sole diet
+C0025519||metabolism
+C0681814||experiments
+C0012155||non-grass-only diets
+C0036945||Sheep
+C1704650||breeds
+C0027361||Highlander
+C1297013||Texel
+C0324108||Scottish Blackface
+C1296242||Swaledale
+C0242775||Herbage
+C2700402||swards
+C1444648||offering
+C1444648||offered
+C0557759||farm situations
+C2603343||study
+C2700402||sward
+C0018270||grow
+C2700402||sward
+C0036945||Sheep
+C0557759||housed
+C4049693||transferred to
+C0025519||metabolism
+C0015733||feces
+C0042036||urine
+C0936012||analyzed
+C0015733||feces
+C0042036||urine
+C0028158||N
+C0556048||N intake
+C0242775||herbage
+C1704650||breed
+C0028158||Nitrogen
+C0028158||N
+C0015733||feces
+C0042036||urine
+C0028158||N
+C0015733||feces
+C0028158||N
+C0042036||urine
+C0028158||N
+C0003062||Animal
+C0242775||herbage
+C0012173||NDF
+C0012173||ADF
+C0201929||water soluble carbohydrate
+C0028158||N
+C0028158||N
+C0028158||N
+C1158469||N utilizatio
+C0456228||N concentration
+C0184511||improve
+C1158469||N utilization
+C0028158||N
+C0221102||excretion
+C0015733||feces
+C3897775||rather than
+C0042036||urine
+C2603343||study
+C0449445||approach
+C0036945||sheep
+C1709696||producers
+C0028158||N
+C0221102||excretion
+C0035171||mitigation strategies
+C0036945||sheep
+C0557759||production systems

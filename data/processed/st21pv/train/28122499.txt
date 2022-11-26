@@ -1,0 +1,90 @@
+C0041984||Uridine
+C0282090||laxative
+C0023992||loperamide
+C0009806||constipation
+C2699239||SD rats
+C1327386||regulation
+C0034826||mAChRs
+C0037080||signaling pathway
+C0026682||mucin
+C0036536||secretion
+C0041984||Uridine
+C0041984||Uridine
+C0700287||reported
+C0035668||RNA
+C3714634||biological process
+C0598958||neuroprotection
+C0017952||glycolysis
+C0009806||constipation
+C2603343||study
+C0282090||laxative
+C0041984||Uridine
+C0009806||constipation
+C0009806||constipation
+C0227386||transverse colons
+C2699239||SD rats
+C0023992||loperamide
+C0023992||loperamide
+C0009806||constipation
+C0087111||treatment
+C0041984||Uridine
+C0043047||water
+C0015733||stools
+C0023992||loperamide
+C0041984||Uridine
+C0332154||treated
+C0023992||loperamide
+C0042444||Vehicle
+C0332154||treated
+C0013470||food intake
+C0013123||water consumption
+C0026724||mucosa layer
+C0026845||muscle
+C1180160||flat luminal surface
+C0506994||goblet cells
+C0227276||paneth cells
+C0230704||lipid droplets
+C0023992||loperamide
+C0041984||Uridine
+C0332154||treated
+C1171362||expression
+C0384752||muscarinic acetylcholine receptors M2
+C0289799||M3
+C0384752||mAChR M2
+C0289799||M3
+C1158770||transcriptional
+C3537096||translational
+C0023992||loperamide
+C0041984||Uridine
+C0332154||treated
+C0005516||markers
+C0887847||Gα
+C0522506||downstream
+C0037080||signaling pathway
+C0041984||Uridine
+C0087111||treatment
+C0026682||mucin
+C0036536||secretion
+C1171362||expression
+C0599635||membrane water channel
+C1743716||aquaporine 8
+C1743716||AQP8
+C0023992||loperamide
+C0041984||Uridine
+C0332154||treated
+C0023992||loperamide
+C0042444||Vehicle
+C0332154||treated
+C0041984||Uridine
+C1267092||primary smooth muscle
+C0086893||rat
+C0814997||intestine cells
+C1135918||pRISMC
+C0887847||Gα
+C1171362||expression
+C2603343||study
+C0041984||Uridine
+C0009806||constipation
+C0023992||loperamide
+C0087111||treatment
+C0599779||animal models

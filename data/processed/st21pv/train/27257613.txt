@@ -1,0 +1,37 @@
+C0150098||Data set
+C0872079||interactomes
+C0033684||proteins
+C1171362||expressed
+C0006104||brains
+C0002395||Alzheimer׳s disease
+C0002395||Alzheimer׳s disease
+C0497327||dementia
+C0001792||elderly
+C2700280||worldwide
+C0033684||molecular players
+C0002395||disease
+C1706852||article
+C1171362||protein expression
+C0033684||protein
+C0458324||cortex regions of brains
+C0002395||Alzheimer׳s disease
+C0006104||normal brain
+C2986808||iTRAQ-labeled
+C1305923||polypeptides
+C0936012||analyzed
+C0033684||proteins
+C1325653||mitochondrial complexes of the electron transport chain
+C0949692||ATP synthase
+C0936012||analyzed
+C1305923||over- and sub-expressed polypeptides
+C0037585||IPA software
+C0037589||Core I and Biomarkers I modules
+C1706852||article
+C0035168||research
+C1706852||article
+C0033684||proteins
+C1171362||expressed
+C0006104||brains
+C0002395||Alzheimer's disease
+C0022885||iTRAQ labeling
+C0599748||tandem mass spectrometry

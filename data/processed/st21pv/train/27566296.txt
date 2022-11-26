@@ -1,0 +1,53 @@
+C4042905||haemodynamic coupling
+C3178781||vascular stiffening
+C2973725||pulmonary arterial hypertension
+C0225883||right ventricular
+C0225883||right ventricular
+C0034052||pulmonary arterial
+C0034052||pulmonary arterial
+C2973725||pulmonary arterial hypertension
+C2973725||pulmonary arterial hypertension
+C2603343||study
+C0007430||catheterisation
+C0013516||echocardiography
+C0225883||right ventricular
+C0080311||RV function
+C0018827||ventricular
+C0005847||vascular
+C0080105||subjects
+C2973725||pulmonary arterial hypertension
+C0080105||subjects
+C2973725||pulmonary arterial hypertension
+C0225808||right heart
+C0007430||catheterisation
+C0013520||Doppler echocardiography
+C0412692||cardiac MRI
+C0019010||haemodynamics
+C0080311||RV function
+C0456261||pulmonary vascular resistance
+C0456261||Z0
+C0007185||characteristic impedance
+C0007185||ZC
+C0205107||proximal
+C0034052||pulmonary arterial
+C0599949||stiffness
+C0205107||proximal
+C0205108||distal
+C2973725||pulmonary arterial hypertension
+C0205107||proximal
+C0034052||PAs
+C0205400||stiffer
+C0007185||ZC
+C0456261||Z0
+C0205400||stiffer
+C0205107||proximal
+C0034052||PAs
+C2973725||pulmonary arterial hypertension
+C0205107||proximal
+C0205108||distal
+C0034052||pulmonary arterial
+C0599949||stiffening
+C0456261||Z0
+C0034052||Stiff PAs
+C4042905||haemodynamic coupling
+C0459963||pulmonary vascular

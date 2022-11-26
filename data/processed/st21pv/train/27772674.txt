@@ -1,0 +1,62 @@
+C0017446||Geolocalization
+C0021400||Influenza
+C0679878||Acute Care
+C1257890||Population
+C0449445||Approach
+C0449445||approach
+C0392752||localize
+C0021400||influenza
+C0679878||acute care
+C1257890||population
+C0039082||syndromic
+C1444548||surveillance screen
+C0017446||geolocalization
+C0009085||cluster analysis
+C0242444||at-risk populations
+C0033522||prospective observational surveillance study
+C0220908||screened
+C0282451||clinical decision guideline
+C0021400||influenza
+C0037088||signs and symptoms
+C0010200||cough
+C0018681||headache
+C0015967||documented fever
+C0040861||triage
+C1444656||indicated
+C0021400||influenza
+C1510438||Xpert Flu
+C0683757||Cepheid
+C0017446||Sunnyvale
+C0006754||CA
+C1446409||Positive
+C0815319||ArcGIS
+C0683757||ESRI
+C0017446||Redlands
+C0006754||CA
+C0936012||analyzed
+C4279908||kernel density estimation
+C1510438||Xpert Flu
+C1442065||addresses
+C2748182||positive for influenza A
+C2748175||positive for influenza B
+C0029347||influenza A virus
+C0449774||pattern
+C1257890||population
+C0450429||located
+C0017446||region
+C1711190||southeast
+C0019994||hospital
+C0449445||approach
+C0392752||localizing
+C0017446||region
+C1257890||population
+C0699943||public health intervention
+C0019994||hospital
+C3829199||Maricopa County
+C3897811||Department of Public Health
+C0042196||vaccination
+C0021400||influenza
+C0012634||disease
+C1257890||population
+C0220825||investigations
+C0242444||at-risk populations

@@ -1,0 +1,34 @@
+C3178894||Genotyping
+C3178894||TaqMan Allelic Discrimination
+C3178894||Allele-Specific Genotyping Assays
+C1709846||Real-time PCR
+C3178894||genotyping methods
+C3178894||TaqMan allelic discrimination assays
+C3178894||allele-specific genotyping
+C0813145||screening
+C0752046||single nucleotide polymorphisms
+C0027361||individuals
+C0040300||tissues
+C0683230||amplified DNA
+C1709846||real-time PCR
+C0025663||methods
+C3178894||TaqMan
+C0025663||methods
+C3178894||allele-specific genotyping
+C3178894||genotyping
+C1519302||short tandem repeat
+C1519302||(STR)
+C0032529||polymorphisms
+C1510438||assay
+C0752046||SNP
+C1519302||short tandem repeat
+C3178894||TaqMan
+C3178894||allele-specific genotyping
+C0206416||primer
+C0012893||probe
+C3178894||experimental procedure for typing
+C0220825||evaluation
+C0018017||goal
+C0162791||guideline
+C3178894||genotyping assays
+C3178894||genotype calls

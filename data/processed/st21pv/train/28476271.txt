@@ -1,0 +1,50 @@
+C3494740||Alcohol brief intervention
+C0033137||primary care
+C0005823||Blood pressure
+C0020538||hypertensive
+C0008976||clinical trials
+C3494740||alcohol brief intervention
+C3494740||brief intervention
+C0033137||primary care
+C0020538||Hypertension
+C4315615||chronic condition
+C0041703||U.S.
+C0020538||hypertension
+C0035648||risk factor
+C3494740||brief intervention
+C1753303||blood pressure (BP) control
+C0020538||hypertensive
+C0009085||clustered
+C0206035||randomized controlled trial
+C0420032||alcohol screening
+C0033131||primary care physicians
+C0033131||PCP intervention arm
+C0027363||non-physician providers
+C0334914||medical assistants
+C0027363||NPP
+C0334914||MA intervention arm
+C0282599||integrated health care delivery system
+C1518527||Observational
+C1709709||prospective cohort study
+C0020538||hypertensive
+C1710032||screening
+C2362543||electronic health record
+C0005823||blood pressure
+C1522577||follow-up
+C1268766||Change in BP
+C1753303||controlled BP
+C3494740||alcohol BI
+C1268766||BP change
+C1522577||follow-up
+C0080105||subjects
+C0027363||intervention arms
+C3494740||brief intervention
+C1753303||BP control
+C0033131||PCP intervention arm
+C1753303||BP control
+C1710032||index screening
+C0020538||hypertensive
+C0031831||physician
+C0033137||primary care
+C3494740||alcohol BI
+C0033137||primary care

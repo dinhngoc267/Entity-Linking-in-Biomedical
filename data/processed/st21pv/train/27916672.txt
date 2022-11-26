@@ -1,0 +1,80 @@
+C0449774||profiles
+C0228232||right
+C0228233||left
+C0338462||semantic dementia
+C0002395||Alzheimer's disease
+C0338462||semantic dementia
+C0338462||semantic dementia
+C0002395||Alzheimer's Disease
+C0002395||Alzheimer's Disease
+C0002395||Alzheimer's Disease
+C0030971||perceptual
+C0025361||processing
+C0338462||semantic dementia
+C0012634||disorders
+C0333641||atrophy
+C0228232||right temporal lobe
+C0228232||right temporal lobe
+C2603343||study
+C0338462||semantic dementia
+C0002395||Alzheimer's Disease
+C0012634||diseases
+C0449774||pattern
+C0009240||cognitive
+C0012634||disorders
+C0333641||atrophy
+C0228232||right temporal lobe
+C0030971||perceptual
+C0033213||problems
+C0338462||semantic dementia
+C0002395||Alzheimer's Disease
+C2081632||tests
+C0030971||perception
+C0338462||semantic dementia
+C0228232||right
+C0228233||left temporal
+C0333641||atrophy
+C0030971||perceptual
+C1555716||battery
+C0392366||naming
+C0338462||semantic dementia
+C0006104||cerebral
+C0032743||PET imaging
+C0228232||right
+C0228233||left
+C0338462||semantic dementia
+C0046056||FDG uptake
+C0228232||right
+C0228233||left temporal lobe
+C0032743||PET imaging
+C0449774||profile
+C0012634||diseases
+C0002395||Alzheimer's Disease
+C0392366||naming tests
+C0524637||recognition
+C0338462||semantic dementia
+C0392366||naming
+C0012634||disorders
+C0338462||semantic dementia
+C0228232||right temporal lobe
+C0333641||atrophy
+C0451399||Pyramids and Palm Trees test
+C0338462||semantic dementia
+C0032743||PET
+C0046056||FDG uptake
+C0228232||right
+C0228233||left temporal lobe
+C0009240||cognitive
+C0338462||dementias
+C0449774||pattern
+C0338462||semantic dementia
+C0392366||naming
+C0524637||preserved recognition
+C0002395||Alzheimer's Disease
+C0012634||disorders
+C0228232||right temporal lobe
+C0178314||damage
+C0228232||right temporal lobe
+C0027361||person
+C0376554||knowledge
+C0681317||non-verbal representations

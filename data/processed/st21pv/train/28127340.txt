@@ -1,0 +1,68 @@
+C0243095||Non-zoonotic
+C0030498||Parasites
+C0445392||Wild
+C0035804||Rodents
+C0022065||Turkman Sahra, Northeastern Iran
+C2603343||study
+C0010995||collect informative data
+C0747256||parasitic infection
+C0445392||wild
+C0035804||rodents
+C0243095||finding
+C0030498||parasites
+C0086418||human
+C0445392||wild
+C0035804||rodents
+C0022065||Turkmen Sahra, Golestan Province
+C0003062||Animals
+C1720436||anesthetized
+C0038951||surveyed
+C0562634||ectoparasite
+C0229961||carcasses
+C0332128||examination
+C0320225||endoparsites
+C1705920||species
+C0035804||rodents
+C0025914||Mus musculus
+C0034693||Rattus norvegicus
+C1646173||Rhombomys opimus
+C1681293||Meriones libycus
+C1384353||Parasitic infestation
+C0442726||detected
+C0035804||rodents
+C1384353||Parasite infestation
+C0035804||rodents
+C0322197||Hymenolepis diminuta
+C1744526||Cryptosporidium spp
+C0684063||Trichuris spp
+C0322189||Cysticercus fasciolaris
+C1641848||Angiostrongylus spp
+C0006896||Capillaria sp
+C0323464||Rhipicephalus spp
+C0323233||Nosopsyllus fasciatus
+C3012304||Laelaps nuttalli
+C1708235||genera
+C1705920||species
+C0030498||parasites
+C3244304||public health
+C3012304||L. nuttalli
+C0323233||N. fasciatus
+C0243095||non-zoonotic
+C0442726||detected
+C0030498||parasites
+C0038951||survey
+C0332464||wide
+C0030498||parasites
+C0445392||wild
+C0035804||rodents
+C0562518||villages
+C0079891||native inhabitants
+C0035804||rodents
+C1257890||population
+C0442506||residential regions
+C0184511||improving
+C0004448||awareness
+C0205276||local
+C0027361||people
+C0242781||disease transmission
+C0035804||rodents

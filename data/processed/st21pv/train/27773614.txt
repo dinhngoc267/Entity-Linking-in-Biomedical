@@ -1,0 +1,62 @@
+C0376636||management
+C2239176||hepatocellular carcinoma
+C0454664||Western country
+C0376636||management
+C0033325||prognosis
+C2239176||hepatocellular carcinoma
+C2239176||hepatocellular carcinoma
+C2348150||population samples
+C0205147||regional
+C0034975||registries
+C0220825||evaluations
+C0454664||country
+C2603343||study
+C0205147||regional
+C2239176||hepatocellular carcinoma
+C0016674||France
+C1518527||observational study
+C1556084||French
+C0242356||administrative databases
+C2239176||hepatocellular carcinoma
+C0011900||diagnosed
+C2239176||hepatocellular carcinoma
+C0444454||access
+C0543467||surgery
+C0454828||French regions
+C1556084||French
+C1704729||departments
+C0016674||France
+C2919030||divided administratively
+C0019994||hospital
+C2239176||hepatocellular carcinoma
+C1273390||curative treatment
+C0017446||regions
+C1704729||departments
+C0444454||access
+C1273390||curative treatment
+C2239176||hepatocellular carcinoma
+C0019994||hospital
+C0184666||admitted
+C0087111||treatment
+C0682134||citizens
+C0376636||management
+C2239176||hepatocellular carcinoma
+C0038842||surveillance
+C0376636||management
+C1273390||curative treatment
+C0421454||postcode
+C0019994||hospital
+C1709599||Population-based studies
+C0454664||countries
+C4282132||malignancy
+C0006826||cancer
+C1514821||registration
+C0454664||country
+C0454664||countries
+C2603343||study
+C0454664||country
+C1273390||curative treatment
+C2239176||hepatocellular carcinoma
+C0454664||country
+C0018104||government
+C0871685||clinicians

@@ -1,0 +1,38 @@
+C0220862||Isolation
+C2717875||prebiotic
+C0032594||polysaccharides
+C4040751||bamboo shoots
+C1639319||Phyllostachys praecox
+C0032594||polysaccharides
+C4040751||bamboo shoots
+C1639319||Phyllostachys praecox
+C0032594||WBP
+C0243175||characterizations
+C2717875||prebiotic
+C0032594||WBP
+C0337023||hot-water
+C0684295||extraction
+C0032594||WBP-1
+C0032594||WBP-2
+C0008550||chromatography
+C0032594||polysaccharides
+C1704241||heteropolysaccharides-protein complexes
+C0002520||amino acids
+C0033684||protein
+C0035417||rhamnose
+C0003682||arabinose
+C0043375||xylose
+C0024742||mannose
+C0017725||glucose
+C0016945||galactose
+C0032594||polysaccharide
+C0007004||sugar
+C0206055||FTIR
+C0877853||NMR spectra
+C0032594||WBP-1
+C0032594||WBP-2
+C0314972||Bifidobacterium adolescentis
+C0314974||Bifidobacterium bifidum
+C0369760||organic acids
+C0032594||polysaccharides
+C2717875||prebiotic

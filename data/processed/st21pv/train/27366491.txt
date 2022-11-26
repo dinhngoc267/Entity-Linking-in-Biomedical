@@ -1,0 +1,70 @@
+C1579762||Comparative Study
+C0348016||IV
+C0772505||Dexketoprofen
+C0055477||Lornoxicam
+C1254351||Diclophenac Sodium
+C0853389||Postoperative Analgesia
+C0040610||Tramadol
+C0078944||Patient-Controlled
+C0040610||Tramadol
+C2603343||study
+C0772505||dexketoprofen
+C0055477||lornoxicam
+C1254351||diclophenac sodium
+C0853389||postoperative analgesia
+C0040610||tramadol
+C0078944||patient-controlled
+C0040610||tramadol
+C0198482||abdominal surgery
+C3815594||randomized
+C2603343||study
+C1254351||drugs
+C0772505||dexketoprofen
+C0772505||dexketoprofen
+C0348016||IV
+C0772505||dexketoprofen
+C0055477||lornoxicam
+C0055477||lornoxicam
+C0348016||IV
+C0055477||lornoxicam
+C1254351||diclophenac sodium
+C1254351||diclophenac sodium
+C0348016||IV
+C1254351||diclophenac sodium
+C0039142||syringes
+C0002903||anaesthesia
+C0040610||tramadol
+C0543467||surgery
+C0040610||tramadol
+C3266095||patient-controlled analgesia device
+C1511237||bolus dose
+C0040610||tramadol
+C0030193||Pain
+C0231218||discomfort
+C0235195||sedation
+C0040610||tramadol
+C0025376||meperidine
+C0879626||side effects
+C0231218||discomfort
+C0772505||dexketoprofen
+C0055477||lornoxicam
+C1254351||diclophenac sodium
+C0040610||tramadol
+C3536840||non-steroidal anti-inflammatory drug
+C3536840||non-steroidal anti-inflammatory drug
+C2347804||study period
+C0025376||meperidine
+C2347804||study period
+C3536840||non-steroidal anti-inflammatory drug
+C0198482||abdominal surgery
+C0348016||IV
+C0012091||diclophenac
+C0055477||lornoxicam
+C0772505||dexketoprofen
+C0078944||patient-controlled
+C0040610||tramadol
+C0030193||pain
+C0040610||tramadol
+C0002771||analgesic
+C0879626||side effects
+C0040610||tramadol

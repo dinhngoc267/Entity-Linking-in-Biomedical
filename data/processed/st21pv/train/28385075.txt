@@ -1,0 +1,57 @@
+C0033572||Gland
+C3544233||Cryotherapy
+C3640764||Intermediate-Risk
+C0376358||Prostate Cancer
+C0936012||analysis
+C0282574||COLD registry data
+C0027651||oncological
+C0033572||gland
+C3544233||cryotherapy
+C0025266||men
+C3640764||intermediate-risk
+C0376358||prostate cancer
+C0025266||Men
+C3640764||intermediate-risk
+C0376358||prostate cancer
+C0332293||treated with
+C3544233||prostate cryotherapy
+C0282574||Cryo On-Line Data Registry
+C0150103||matched
+C0033572||gland
+C3544233||prostate cryotherapy
+C0547070||targeted-ablation
+C0547070||unilateral/bilateral nerve-sparing ablations
+C0229671||pre-biopsy serum
+C0138741||PSA
+C1515985||neoadjuvant androgen deprivation
+C0543467||surgery
+C3897727||biochemical
+C0542565||continence
+C0278092||sexual function
+C0009253||sexual intercourse
+C0150103||matching
+C0008041||chi-square tests
+C0025266||men
+C0033572||gland
+C0025266||men
+C0936012||analysed
+C1522577||follow-up
+C0033572||gland
+C0547070||ablation
+C0033572||gland
+C0547070||ablation
+C0542565||continence
+C0009253||intercourse
+C0033572||gland
+C0547070||ablation
+C0080274||urinary retention
+C0033572||gland
+C0547070||ablation
+C0268875||rectourethral fistula
+C0547070||ablation
+C0278092||sexual function
+C0033572||gland
+C0547070||ablation
+C0025266||men
+C3640764||intermediate-risk
+C0376358||prostate cancer

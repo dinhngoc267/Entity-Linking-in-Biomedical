@@ -1,0 +1,51 @@
+C2700446||Self-reported
+C0521168||occupational injuries
+C0175923||beef
+C1527116||workers
+C0026081||Midwestern United States
+C1527116||workers
+C0025019||meatpacking facilities
+C0041703||United States
+C0521168||occupational injury
+C3263723||injury
+C0035168||research
+C0242481||research indicates
+C0700287||underreporting
+C0521168||occupational injury
+C0025019||meatpacking
+C1527116||workers
+C0010362||cross-sectional study
+C1527116||workers
+C0025019||industrial beefpacking plant
+C0027523||Nebraska
+C0041703||United States
+C1527116||workers
+C3263723||injury
+C2700446||self-reported
+C3263723||injury
+C2700446||self-reported
+C3263723||injuries
+C0041731||OSHA
+C0489829||formula
+C0231303||distress
+C0521168||occupational injury
+C1527116||workers
+C0521168||occupational injuries
+C3263723||injuries
+C1527116||workers
+C3263723||injuries
+C3263723||injuries
+C3263723||injuries
+C0181807||metal mesh
+C0183336||sleeves
+C0181807||metal mesh
+C3263723||injury
+C0007009||carbon
+C0038239||steel
+C3263723||injury
+C2700446||self-reported
+C0521168||occupational injury
+C2700446||Self-reported
+C3263723||injury
+C2700446||self-reports
+C0150638||injury prevention

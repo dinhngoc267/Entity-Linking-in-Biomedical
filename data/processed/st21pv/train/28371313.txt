@@ -1,0 +1,35 @@
+C0028754||Obesogenic
+C0848067||psychological problems
+C1305855||BMI
+C0848067||psychological problems
+C0028754||obesogenic
+C0010362||cross-sectional secondary analysis
+C0206035||NOURISH randomized controlled trial
+C0848067||psychological problems
+C0010995||data were collected
+C1709490||Pearson's correlations
+C0848067||psychological problems
+C1305855||BMI
+C0848067||psychological problems
+C1305855||BMI
+C0028754||obesogenic
+C0679739||Peer
+C0848067||problems
+C0016452||food
+C0556019||emotional overeating
+C1305855||BMI
+C0556019||emotional overeating
+C0556019||emotional overeating
+C0016452||food
+C0677660||emotional problems
+C1305855||BMI
+C0016452||food
+C0149654||conduct problems
+C1305855||BMI
+C0848067||psychological problems
+C0028754||obesogenic
+C1305855||BMI
+C1516615||clinical management
+C0497406||overweight
+C0028754||obesity
+C0848067||psychological problems

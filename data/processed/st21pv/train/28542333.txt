@@ -1,0 +1,26 @@
+C0023185||learn
+C0184511||improves
+C0023185||learning
+C0557074||second language
+C2603343||studies
+C0023185||learning
+C0557074||L2
+C0042926||vocabulary
+C0023185||learning
+C2603343||study
+C0332149||possible
+C1446409||positive
+C0557074||L2
+C0023185||learning
+C0557074||L2
+C0042926||vocabulary
+C0242481||Word-Picture Verification task
+C0876929||sentence
+C0242481||Sentence Semantic Judgment Task
+C0152035||Chinese speakers
+C0023185||learning
+C0042926||words
+C0876929||sentential
+C0242481||Semantic Judgment task
+C0876929||sentential
+C0876929||sentential

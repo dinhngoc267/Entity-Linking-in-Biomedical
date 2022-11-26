@@ -1,0 +1,52 @@
+C1513748||Multiparametric estimation
+C4042806||brain hemodynamics
+C3891302||MR fingerprinting ASL
+C0220825||Assessment
+C4042806||brain hemodynamics
+C0009924||contrast agents
+C4287652||MR perfusion technique
+C2825493||noncontrast
+C1513748||multiparametric estimation
+C0019010||hemodynamic
+C2745888||markers
+C3891302||arterial spin labeling
+C3891302||arterial spin labeling
+C0024485||MR fingerprinting
+C0024485||MR fingerprinting
+C3891302||MRF-ASL
+C0024485||MRF sequence
+C0019010||hemodynamic
+C0449381||parameters
+C0015730||Feasibility demonstration
+C3891302||Look-Locker ASL
+C0020440||hypercapnia challenge
+C0394264||intracranial steno-occlusive process
+C0026654||Moyamoya disease
+C3891302||Magnetic resonance fingerprinting ASL
+C0449381||parameters
+C0459385||tissue
+C0428714||cerebral blood flow
+C0428714||cerebral blood flow
+C0040300||tissue
+C0243095||bolus arrival time
+C0243095||bolus arrival time
+C0003842||arterial
+C0243095||bolus arrival time
+C0005850||blood volume
+C0919393||blood travel time
+C0449381||parameters
+C0020440||Hypercapnia
+C0428714||cerebral blood flow
+C0243095||bolus arrival time
+C0040300||tissue
+C0005847||vessels
+C0026654||Moyamoya disease
+C0428714||cerebral blood flow
+C0243095||bolus arrival time
+C0442737||could not be detected
+C3891302||arterial spin labeling
+C3891302||Magnetic resonance fingerprinting ASL
+C2825493||noncontrast
+C1513748||multiparametric
+C4038600||perfusion assessment
+C0018720||International Society for Magnetic Resonance in Medicine

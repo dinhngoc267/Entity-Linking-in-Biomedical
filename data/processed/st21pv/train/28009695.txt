@@ -1,0 +1,58 @@
+C0013765||Elastin
+C2755857||Differentially Regulated
+C1956078||Pressure Therapy
+C3665571||Porcine
+C0599779||Model
+C0162810||Hypertrophic Scar
+C1956078||pressure therapy
+C0162810||hypertrophic scars
+C2603343||study
+C0013765||elastin
+C0162810||scar
+C0349674||Vancouver Scar Scale
+C0349674||Vancouver Scar Scale
+C1956078||pressure-treated
+C0162810||scars
+C0013765||elastin
+C0162810||Hypertrophic scars
+C0349674||Vancouver Scar Scale
+C0005558||biopsy
+C0243095||procurement
+C1956078||Pressure treatment
+C0087111||Treated
+C0162810||scars
+C0032042||shams
+C0087111||Treatment
+C0162810||scars
+C1519595||Transcript
+C0428479||protein levels
+C0013765||elastin
+C1956078||Pressure treatment
+C0349674||Vancouver Scar Scale
+C0032042||sham-treated
+C0162810||scars
+C0032042||Without treatment
+C0032042||sham-treated
+C0162810||scars
+C1956078||pressure-treated
+C0162810||scars
+C0013765||elastin
+C0162810||scars
+C1123023||uninjured skin
+C0087111||treatment
+C0013765||elastin
+C0032042||sham
+C0162810||scars
+C1294321||Verhoeff-Van Gieson staining
+C0243095||findings
+C0079603||immunofluorescence
+C0013765||elastin fibers
+C1956078||Pressure treatment
+C1171362||protein level expression
+C0013765||elastin
+C0032042||sham
+C0162810||scars
+C0243095||findings
+C0015350||extracellular matrix's
+C0162810||scar
+C0087111||treatment

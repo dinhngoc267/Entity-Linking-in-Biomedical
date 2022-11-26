@@ -1,0 +1,49 @@
+C0015411||Ophthalmic Manifestations
+C0015450||Facial
+C0259797||Dog Bites
+C0015411||ophthalmic manifestations
+C4290297||periocular injuries
+C0015450||facial
+C0259797||dog bites
+C0282443||review
+C0004268||attention
+C0259797||dog bite
+C0015450||face
+C0020017||pediatric hospital
+C0552513||location of injury
+C0549433||surgical intervention
+C1264516||complications
+C0259797||dog bite s
+C0259797||Dog bite s
+C0015450||face
+C0015450||facial
+C0259797||dog bite injuries
+C0683278||suffered
+C0015411||ophthalmic manifestations
+C0339089||Eyelid injuries
+C0460002||canalicular system
+C0005658||injuries
+C0683278||suffered
+C0010032||corneal abrasions
+C0015450||facial
+C0161479||nerve injury
+C0152226||lagophthalmos
+C0683278||suffered
+C0456909||vision loss
+C1264516||Complications
+C1024522||epiphora
+C0445275||secondary procedure
+C1264516||complications
+C3812881||authors
+C0684224||report
+C0015408||ophthalmic
+C4290297||periocular injuries
+C0015450||facial
+C0259797||dog bite s
+C0005658||injuries
+C0259797||dog bite s
+C0015450||face
+C0229243||ocular adnexa
+C1515089||surgical management
+C1264516||complications
+C0035110||revision surgery

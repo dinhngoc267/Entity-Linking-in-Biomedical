@@ -1,0 +1,73 @@
+C2938912||White Matter Hyperintensities
+C0009240||Cognition
+C0442592||Memory Clinic
+C2733158||Small Vessel Disease
+C2733158||small vessel disease
+C2733158||small vessel disease
+C0009240||cognition
+C0205234||focus
+C2938912||white matter hyperintensity
+C2938912||white matter hyperintensity
+C0439792||extent
+C2938912||white matter hyperintensity
+C1515974||location
+C0392335||cognitive performance
+C0004268||attention
+C2938912||white matter hyperintensity
+C1515974||location
+C0009240||cognition
+C0442592||memory clinic
+C0599755||cohort
+C2733158||small vessel disease
+C2733158||small vessel disease
+C0442592||memory clinics
+C0936012||Assumption-free region of interest-based analyses
+C0682708||white matter
+C1185740||tracts
+C0936012||analyses
+C2938912||white matter hyperintensity
+C1515974||location
+C0935584||executive functioning
+C0025361||visuomotor speed
+C0025260||memory
+C0936012||Region of interest-based analyses
+C2938912||WMHs
+C1515974||located
+C0332285||within
+C2338170||anterior thalamic radiation
+C0152325||forceps minor
+C0935584||executive functioning
+C0025361||visuomotor speed
+C2938912||white matter hyperintensity
+C0025260||Memory
+C2938912||white matter hyperintensity
+C0152325||forceps minor
+C2938912||white matter hyperintensity
+C0936012||independent assumption-free voxel-wise analysis
+C1185740||tracts
+C0936012||Region of interest-based analyses
+C2938912||white matter hyperintensity
+C0332285||within
+C2338170||anterior thalamic radiation
+C0935584||executive functioning
+C2938912||white matter hyperintensity
+C2938912||white matter hyperintensity
+C0332285||within
+C0152325||forceps minor
+C0025361||visuomotor speed
+C0025260||memory
+C2938912||white matter hyperintensity
+C0243095||findings
+C2338170||anterior thalamic radiation
+C0152325||forceps minor
+C0682708||white matter
+C1185740||tracts
+C2938912||WMHs
+C0338656||cognitive impairment
+C0442592||memory clinic
+C2733158||small vessel disease
+C2938912||white matter hyperintensity
+C1185740||tracts
+C0009240||cognition
+C2938912||white matter hyperintensity
+C2938912||WMHs

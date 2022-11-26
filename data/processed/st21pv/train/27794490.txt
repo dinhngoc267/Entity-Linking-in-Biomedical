@@ -1,0 +1,69 @@
+C0006938||captopril
+C0023810||lipopolysaccharide
+C0023186||learning
+C0233794||memory impairments
+C0006104||brain
+C0079189||cytokine
+C0010957||damage
+C0034721||rats
+C0035096||Renin-angiotensin system
+C0021368||inflammation
+C0023185||learning
+C0025260||memory
+C0006938||captopril
+C0023810||lipopolysaccharide
+C0023810||lipopolysaccharide
+C0023186||learning
+C0233794||memory impairments
+C0019564||hippocampal
+C0079189||cytokine
+C0459385||brain tissues
+C0010957||damage
+C0034721||rats
+C0023810||lipopolysaccharide
+C0006938||captopril
+C0023810||lipopolysaccharide
+C0087111||treatment
+C0683444||behavioral experiments
+C0683444||behavioral tests
+C0023810||lipopolysaccharide
+C1533685||injection
+C0683444||behavioral experiment
+C1533734||Administration
+C0023810||lipopolysaccharide
+C0683444||Morris water maze (MWM) test
+C0683444||test
+C0006938||captopril
+C0034721||rats
+C0683444||Morris water maze
+C0683444||test
+C0023810||lipopolysaccharide
+C0021760||IL-6
+C1456820||TNF-α
+C0024643||malondialdehyde
+C0024643||malondialdehyde
+C0028128||nitric oxide
+C0028128||nitric oxide
+C0870883||metabolites
+C0019564||hippocampal
+C0459385||tissues
+C0199176||prevented
+C0006938||captopril
+C0574031||thiol
+C0038838||superoxide dismutase
+C0038838||superoxide dismutase
+C0007367||catalase
+C0007367||catalase
+C0019564||hippocampus
+C0023810||lipopolysaccharide
+C0003062||aniamls
+C0006938||captopril
+C0006938||captopril
+C0023810||lipopolysaccharide
+C0023186||learning
+C0233794||memory impairments
+C0034721||rats
+C0019564||hippocampal
+C0079189||cytokine
+C0459385||brain tissues
+C0010957||damage

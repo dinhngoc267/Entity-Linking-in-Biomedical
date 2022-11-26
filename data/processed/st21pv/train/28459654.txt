@@ -1,0 +1,48 @@
+C0242184||Hypoxia
+C0242184||Hypoxia
+C0282636||Aerobic Metabolism
+C0327949||Atlantic Salmon
+C0327949||Salmo salar
+C0242184||hypoxia
+C0031845||physiological
+C0016163||fish
+C0445392||Wild
+C0243095||captive-reared
+C0327949||Atlantic salmon
+C0327949||Salmo salar
+C0242184||hypoxic
+C0030054||oxygen
+C0332128||examine
+C0242184||hypoxia
+C0242184||hypoxia
+C0327949||Atlantic salmon
+C0016163||Individuals
+C0242184||hypoxia
+C0369768||dissolved oxygen (DO) saturation
+C0030054||dissolved oxygen
+C0242184||hypoxia
+C0030054||dissolved oxygen
+C0030055||oxygen consumption
+C0242184||Hypoxia
+C0030054||dissolved oxygen
+C0278126||loss of equilibrium
+C0278126||loss of equilibrium
+C0442797||decreasing
+C0030054||dissolved oxygen
+C0016163||fish
+C0242184||hypoxia
+C0242184||hypoxia
+C0030054||dissolved oxygen
+C0278126||loss of equilibrium
+C0242184||hypoxia
+C0016163||fish
+C0030054||dissolved oxygen
+C0030054||dissolved oxygen
+C0278126||loss of equilibrium
+C0242184||hypoxia
+C0442739||unchanged
+C0242184||hypoxia
+C0016163||individual
+C0030054||dissolved oxygen
+C0278126||loss of equilibrium
+C0242184||hypoxia

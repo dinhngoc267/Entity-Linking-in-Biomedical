@@ -1,0 +1,11 @@
+C0030230||Pd
+C0030011||oxidative reaction
+C1720912||quinazolinones
+C0002078||alkynes
+C0044607||tetrahydropyridine
+C0029224||dihydrofuran rings
+C0044607||tetrahydropyridine
+C0030054||oxygen radical
+C0029224||dihydrofuran ring
+C0567415||atom
+C0008003||pharmaceutical interest.

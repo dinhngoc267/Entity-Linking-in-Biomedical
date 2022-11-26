@@ -1,0 +1,33 @@
+C0010362||cross-sectional
+C0877248||adverse
+C1709709||prospective cohort study
+C0041700||UK
+C0043144||wheeze
+C0013595||eczema
+C0221423||long-standing illness
+C0043144||wheeze
+C0013595||eczema
+C3263723||injury
+C0013985||socioemotional difficulties
+C3472494||Strengths and Difficulties Questionnaire
+C0041667||thin
+C0497406||overweight
+C0028754||obese
+C0877248||adverse
+C0936012||Latent class analysis
+C0456387||classes
+C0392707||atopic
+C0013985||socioemotional burdened
+C3263723||injury
+C0013595||eczema
+C3263723||injury
+C0013595||eczema
+C0456387||class
+C0013658||educational attainment
+C0013985||socioemotional burdened
+C0456387||class
+C0013658||educational attainment
+C0013595||eczema
+C0456387||classes
+C0877248||adverse
+C0877248||adverse

@@ -1,0 +1,44 @@
+C1428691||C9orf72
+C0004793||Repeats
+C0002395||Alzheimer's Disease
+C0002736||Amyotrophic Lateral Sclerosis
+C0920317||Meta-Analysis
+C1428691||C9orf72
+C0002736||amyotrophic lateral sclerosis
+C0002736||amyotrophic lateral sclerosis
+C0338451||frontotemporal dementia
+C0338451||frontotemporal dementia
+C0043157||Caucasian populations
+C1428691||C9orf72
+C0004793||repeats
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0282420||articles
+C1428691||C9orf72
+C0002736||amyotrophic lateral sclerosis
+C0920317||meta-analysis
+C1428691||C9orf72
+C1257790||repeat expansions
+C0004793||repeats
+C0205103||intermediate
+C0004793||repeat copies
+C0004793||repeats
+C0002395||Alzheimer's disease
+C0002736||amyotrophic lateral sclerosis
+C1446409||positive
+C1428691||C9orf72
+C1257790||repeat expansions
+C0002395||Alzheimer's disease
+C0205103||intermediate
+C0004793||repeat copies
+C1428691||C9orf72 gene
+C0012634||disease
+C1428691||C9orf72
+C1257790||repeat expansions
+C1446409||positively
+C1862939||familial
+C1862941||sporadic ALS
+C1446409||positive
+C0002736||amyotrophic lateral sclerosis
+C0043157||Caucasians
+C0078988||Asians

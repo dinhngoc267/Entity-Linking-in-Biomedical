@@ -1,0 +1,44 @@
+C0038186||Acoustic startle response
+C0034693||rats
+C0237401||inter-individual
+C0015726||fear
+C0015347||extinction
+C1257890||population
+C1257890||population
+C0038436||post-traumatic stress disorder
+C0038436||post-traumatic stress disorder
+C0205161||Abnormal
+C0038186||acoustic startle response
+C0038186||acoustic startle response
+C0038436||post-traumatic stress disorder
+C0243107||development
+C0038436||post-traumatic stress disorder
+C0015347||extinction
+C0237613||extinction learning
+C0038436||post-traumatic stress disorder
+C0205161||abnormal
+C0038186||acoustic startle response
+C0243107||development
+C0038186||acoustic startle response
+C0243107||development
+C0038436||post-traumatic stress disorder
+C0038186||acoustic startle response
+C0034715||Sprague-Dawley rats
+C0038186||acoustic startle response
+C0038186||acoustic startle response
+C0015347||extinction
+C0015347||extinction
+C0038186||acoustic startle response
+C0015726||fear
+C0025260||memory
+C0034715||rats
+C0038186||acoustic startle response
+C0035280||retention
+C0015347||extinction
+C0025260||memory
+C0034715||rats
+C0038186||acoustic startle response
+C0038186||acoustic startle response
+C0918012||index
+C0243107||development
+C0038436||post-traumatic stress disorder

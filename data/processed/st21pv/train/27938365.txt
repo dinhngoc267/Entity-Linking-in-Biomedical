@@ -1,0 +1,71 @@
+C0454281||dynamic sitting strategies
+C0438917||wheelchair seating
+C0024090||lumbar-pelvic angle
+C4270719||static sitting
+C0043143||wheelchair
+C0024031||lower back pain
+C0438917||wheelchair seating system
+C0521329||spinal
+C0277814||sitting position
+C2603343||study
+C0454281||dynamic sitting strategies
+C0454281||dynamic sitting strategies
+C0332128||examined
+C0454281||lumbar prominent dynamic sitting
+C0454281||lumbar prominent dynamic sitting
+C0454281||back reclined dynamic sitting
+C0454281||back reclined dynamic sitting
+C0454281||femur upward dynamic sitting
+C0454281||femur upward dynamic sitting
+C0454281||lumbar prominent with back reclined dynamic sitting
+C0454281||LBDS
+C0454281||lumbar prominent with femur upward dynamic sitting
+C0454281||LFDS
+C0454281||back reclined with femur upward dynamic sitting
+C0454281||BFDS
+C0454281||lumbar prominent with back reclined with femur upward dynamic sitting
+C0454281||LBFDS
+C0018017||objective
+C2603343||study
+C0936012||analyze
+C0454281||sitting strategies
+C0024090||lumbar-pelvic angles
+C0424576||able-bodied
+C0679646||participants
+C2603343||study
+C0679646||participants
+C0454281||lumbar prominent dynamic sitting
+C0454281||back reclined dynamic sitting
+C0454281||femur upward dynamic sitting
+C0454281||LBDS
+C0454281||LFDS
+C0454281||BFDS
+C0454281||LBFDS
+C0024090||lumbar-pelvic angle
+C0024090||lumbar angle
+C0030797||pelvic angle
+C0575375||lumbar range of motion
+C0243095||pelvic range of motion
+C0454281||LBDS
+C0454281||LBFDS
+C1171285||enabled
+C1286136||lumbar movements
+C1273937||nonsignificant
+C0454281||back reclined dynamic sitting
+C0454281||BFDS
+C1171285||enabled
+C0454470||pelvic movements
+C1273937||nonsignificant
+C0454281||dynamic sitting strategies
+C0454281||lumbar prominent dynamic sitting
+C0454281||LFDS
+C1171285||enabled
+C1286136||lumbar
+C0454470||pelvic movements
+C1273937||no significant
+C0454281||dynamic sitting strategies
+C0024090||lumbar-pelvic angles
+C0454281||DSS
+C0243095||findings
+C0017319||practicing physicians
+C0438917||wheelchair seating

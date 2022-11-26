@@ -1,0 +1,38 @@
+C1514578||Henan Province
+C0008115||China
+C0008115||China
+C0150098||dataset
+C0001869||pollutants
+C0007018||CO
+C0038777||SO2
+C0028160||NO2
+C0030106||O3
+C1514578||Henan province
+C1514578||Henan province
+C1709269||northern part
+C0008848||Zhengzhou
+C0008848||city
+C0599786||pollutant
+C0030106||ozone
+C0918012||air quality index
+C0918012||air quality index
+C0599786||pollutants
+C0918012||aggregate air quality index
+C0918012||aggregate air quality index
+C0918012||health-risk based air quality index
+C0918012||health-risk based air quality index
+C0918012||health-risk based air quality index
+C0918012||air quality index
+C0683971||general public
+C0918012||health-risk based air quality index
+C0008848||cities
+C1514578||Henan province
+C0243095||unhealthy
+C0027361||people
+C0027361||people
+C0027361||people
+C0918012||health-risk based air quality index
+C0002045||algorithm
+C1516606||clinical
+C0150098||data
+C0918012||health-risk based air quality index

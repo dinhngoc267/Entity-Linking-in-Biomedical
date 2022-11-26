@@ -1,0 +1,52 @@
+C0817096||thoracic
+C0277809||configuration
+C0934569||hemithoraces
+C1280451||upright sitting
+C0035204||respiratory disease
+C2603343||study
+C0817096||thoracic
+C0277809||configuration
+C0231961||thoracic volume
+C0025266||men
+C1280451||upright sitting
+C0205094||anterior
+C0205095||posterior
+C0460005||trunk
+C0231961||thoracic volume
+C0042950||volitional
+C1328799||deep breathing
+C0025080||three-dimensional motion analyzer
+C1282910||upper
+C0441994||lower
+C0934569||hemithoraces
+C0231961||thoracic volume
+C2348964||imaginary hexahedra
+C1282910||upper
+C0441994||lower
+C0817096||thorax
+C0205094||anterior
+C0205095||posterior
+C0817096||thorax
+C2348964||hexahedron
+C0442335||vectors
+C2348964||hexahedra
+C0231961||thoracic volumes
+C0205091||left
+C1282910||upper
+C0205090||right
+C0441994||lower
+C0934569||hemithorax
+C0231961||thoracic volumes
+C0205091||left
+C1282910||upper
+C0205090||right
+C0441994||lower
+C0934569||hemithoraces
+C0205229||expand
+C0441987||sides
+C0817096||thoracic
+C0232086||excursion
+C0042950||volitional
+C1328799||deep breathing
+C0220825||assessment
+C1442085||instruction

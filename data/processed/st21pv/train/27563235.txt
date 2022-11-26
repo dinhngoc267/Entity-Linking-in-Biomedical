@@ -1,0 +1,47 @@
+C0079349||fibroblast growth factor 1
+C1254351||conjugate
+C0060369||fibroblast growth factor receptor
+C3854476||targeted cancer therapy
+C0060369||Fibroblast growth factor receptors
+C0060369||Fibroblast growth factor receptors
+C0920425||cancer therapy
+C1514559||overexpressed
+C0027651||tumors
+C1458155||breast
+C0033578||prostate
+C0005695||bladder
+C0242379||lung cancer
+C1749457||natural ligand
+C0060369||FGFR
+C0034861||engineered variant
+C0079349||fibroblast growth factor 1
+C0079349||FGF1V
+C0522529||conjugated
+C0304497||potent cytotoxic drug
+C1565020||monomethyl auristatin E
+C1565020||monomethyl auristatin E
+C0599894||targeting agent
+C0334227||cancer cells
+C1514559||overexpressing
+C0060369||Fibroblast growth factor receptors
+C0003241||antibodies
+C2346828||antibody-drug conjugates
+C1254351||FGF1V-valine-citrulline-MMAE conjugate
+C1327386||stability profile
+C1167622||bound
+C0060369||Fibroblast growth factor receptors
+C0699040||cell surface
+C1565020||drug (MMAE)
+C0597304||cleavage
+C0699919||lysosomal protease cathepsin B
+C1254351||conjugate
+C0596402||cytotoxic effect
+C0334227||cell lines
+C0060369||FGFR
+C1254351||FGF1V-vcMMAE
+C1565020||monomethyl auristatin E
+C0060369||FGFR
+C0334227||cells
+C0060369||FGFR
+C1513916||did not show
+C0007587||mortality

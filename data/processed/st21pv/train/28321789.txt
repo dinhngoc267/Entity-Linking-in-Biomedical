@@ -1,0 +1,59 @@
+C0023981||Longitudinal study
+C0007452||bovine
+C1002306||rotavirus group A
+C0003065||newborn
+C3668829||calves
+C1519885||vaccinated
+C0243095||unvaccinated
+C0035870||rotavirus
+C0504085||excretion
+C3668829||calves
+C0010362||cross-sectional studies
+C0150259||protection
+C3668829||calves
+C0005615||born
+C1519885||vaccinated
+C0007452||dams
+C0011991||diarrhea
+C0035870||rotavirus
+C0504085||excretion
+C3668829||dairy calves
+C1519885||vaccinated
+C0243095||unvaccinated
+C0007452||dams
+C0007452||bovine
+C1002306||rotavirus group A
+C1002306||rotavirus group A
+C3668829||animals
+C0012634||disease
+C3278912||first month of life
+C0475362||fecal samples
+C3668829||calves
+C0557759||farm
+C1519885||vaccinated
+C0475362||samples
+C3668829||calves
+C1514241||tested positive
+C1002306||rotavirus group A
+C0243095||unvaccinated
+C0475362||samples
+C3668829||calves
+C1514241||tested positive
+C0017337||VP7 genes
+C0004793||nucleotide sequence
+C0017337||VP4 gene
+C1519885||vaccinated
+C0243095||unvaccinated
+C1519885||vaccinated
+C0243095||unvaccinated
+C3668829||calves
+C0439663||infected
+C0035870||rotavirus
+C0011991||diarrhea
+C0042210||commercial vaccine
+C0035870||rotavirus
+C1519885||vaccinated
+C0243095||unvaccinated
+C0038842||surveillance
+C0042196||vaccination
+C0162643||failure

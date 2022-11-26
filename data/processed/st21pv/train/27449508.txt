@@ -1,0 +1,49 @@
+C0443264||Modulation
+C0021764||Interleukins
+C0036690||Sepsis
+C0005779||Clotting Disorders
+C0005779||Hemostatic Derangement
+C0021764||Interleukins
+C0205099||central
+C0020962||immune system
+C0021053||immunological
+C1290884||inflammatory
+C0009450||infectious disease
+C0036690||sepsis syndrome
+C0021764||interleukins
+C0001721||affect
+C0005525||regulators
+C0005778||coagulation
+C0016017||fibrinolysis
+C0019116||hemostasis
+C0040053||thrombosis
+C0005779||sepsis-associated coagulopathies
+C0005779||sepsis-associated coagulopathies
+C0021764||interleukins
+C0041904||upregulated
+C0005779||hemostatic imbalance
+C0574031||thrombogenic mediators
+C0021764||interleukins
+C0600251||IL-1α
+C0021753||IL-1β
+C0021756||IL-2
+C0021758||IL-4
+C0021760||IL-6
+C0079633||IL-8
+C0085295||IL-10
+C0060323||d-dimer
+C0060323||d-dimer
+C0005779||SAC
+C0005795||donors
+C0021764||interleukins
+C0021760||IL-6
+C0079633||IL-8
+C0085295||IL-10
+C0060323||d-dimer
+C0021764||interleukins
+C0021760||IL-6
+C0085295||IL-10
+C0005779||coagulopathy
+C0036690||sepsis
+C0021764||candidates
+C0005779||SAC

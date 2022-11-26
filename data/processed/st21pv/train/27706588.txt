@@ -1,0 +1,20 @@
+C0330429||Rhododendron
+C1955927||amplified fragment length polymorphism
+C0012872||markers
+C0330429||Rhododendron
+C0008115||China
+C1955927||amplified fragment length polymorphism
+C1955927||amplified fragment length polymorphism
+C0012872||markers
+C0206416||primers
+C1955927||amplified fragment length polymorphism
+C0206416||primer pairs
+C0009085||cluster analysis
+C1955927||amplified fragment length polymorphism
+C0543482||morphological
+C1820370||flowering
+C2603343||study
+C0008902||classification
+C0330429||Rhododendron
+C1820370||flowering
+C0006159||breeding

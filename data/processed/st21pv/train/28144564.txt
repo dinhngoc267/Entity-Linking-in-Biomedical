@@ -1,0 +1,39 @@
+C0021585||insect
+C3495389||chemical analyses
+C0021585||insect
+C0014020||emulsions
+C0243095||polar/non-polar principle
+C0678594||microscopical structure
+C4082130||prepared
+C0014020||emulsions
+C0035918||rubber-like
+C0456389||droplet sizes
+C0014020||emulsions
+C0014020||macroemulsions
+C0014020||emulsions
+C0456389||droplet-size
+C0031262||petrolatum
+C0043076||waxes
+C0014020||emulsions
+C4082130||prepared
+C0014020||emulsions
+C0243095||yield point
+C0022885||Tribometric adhesion
+C0022885||probe tack tests
+C0014020||emulsions
+C0243095||more adhesive
+C0043076||wax
+C0031262||petrolatum
+C0017237||gelatin
+C0029224||poly(vinyl alcohol)
+C0014020||emulsions
+C0014020||emulsions
+C0001924||albumin
+C0033684||protein component
+C0033684||protein
+C0022885||Tribometric shear tests
+C0014020||emulsions
+C0014020||emulsion
+C0678594||structure
+C0014020||emulsions
+C0021585||insect

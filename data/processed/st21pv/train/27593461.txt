@@ -1,0 +1,26 @@
+C0043047||water
+C0032098||intra cultivar
+C0330100||grapevines
+C0242775||crop
+C0043047||Water
+C0043047||water
+C0330100||grapevines
+C0205146||areas
+C0032098||cultivars
+C1707496||consumer
+C0043188||wine
+C1522642||Clones
+C0032098||cultivars
+C0032098||intra-cultivar
+C0043047||water
+C0032098||cultivars
+C1522642||clones
+C0032098||Tempranillo cultivar
+C0032098||inter-cultivar
+C0242767||stem
+C0043047||water
+C1326524||stomatal conductance
+C0332149||possible
+C0032098||cultivars
+C1522642||clones
+C0330100||grapevine

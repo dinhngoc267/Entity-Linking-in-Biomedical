@@ -1,0 +1,74 @@
+C0074554||Simvastatin
+C0018944||Hematoma
+C0020255||Hydrocephalus
+C0240059||Intraventricular Hemorrhage
+C0041904||Upregulating
+C1366645||CD36
+C0018944||hematoma
+C1457868||worsens
+C0020255||hydrocephalus
+C0240059||intraventricular hemorrhage
+C0240059||intraventricular hemorrhage
+C0333596||iron deposition
+C0014472||ependymal
+C0008778||cilia
+C3263723||injury
+C0018944||hematoma
+C0240059||intraventricular hemorrhage
+C0074554||simvastatin
+C0018944||hematoma
+C0074554||simvastatin
+C0240059||intraventricular hemorrhage
+C0086893||rats
+C0475526||Intracerebral hemorrhage
+C0034715||Sprague-Dawley rats
+C0074554||Simvastatin
+C0042444||vehicle
+C0001563||administered orally
+C0240059||intraventricular hemorrhage
+C3515983||MRI studies
+C2700258||volumes
+C0524466||intracranial
+C0018944||hematoma
+C0152279||lateral ventricle
+C0240059||intraventricular hemorrhage
+C0234130||Motor
+C3714634||neurocognitive functions
+C0333596||Iron deposition
+C0302583||iron
+C1171362||protein expression
+C0442726||detected
+C0017262||Expression
+C1366645||CD36
+C0074129||scavenger receptor
+C0031308||phagocytosis
+C0332128||examined
+C0240059||intraventricular hemorrhage
+C0005863||western blotting
+C0079603||immunofluorescence
+C0074554||Simvastatin
+C0018944||hematoma
+C1709219||attenuated neurological dysfunction
+C0240059||intraventricular hemorrhage
+C4021076||less iron accumulation
+C0008778||cilia
+C0074554||simvastatin
+C0017262||expression
+C1366645||CD36
+C0442726||detected
+C0018944||hematoma
+C0074554||simvastatin
+C1533734||administration
+C0074554||Simvastatin
+C0006104||brain
+C0018944||hematoma
+C0020255||alleviated hydrocephalus
+C0184511||improved
+C2004454||recovery
+C0240059||intraventricular hemorrhage
+C0041904||upregulating
+C1366645||CD36
+C0017262||expression
+C0074554||simvastatin
+C0087111||therapy
+C0240059||intraventricular hemorrhage

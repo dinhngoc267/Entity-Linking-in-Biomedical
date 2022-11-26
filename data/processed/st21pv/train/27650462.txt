@@ -1,0 +1,28 @@
+C0282624||Minimally invasive treatment
+C0019080||bleeding
+C0221198||lesions
+C0021852||small bowel
+C0019080||Bleeding
+C0221198||lesions
+C0021852||small bowel
+C1457887||symptomatology
+C0392752||Localizing
+C0221198||lesions
+C2936452||Double-balloon enteroscopy
+C2936452||Double-balloon enteroscopy
+C0392752||localize
+C0221198||lesions
+C0282624||minimally invasive surgical treatment
+C3865550||small bowel procedures
+C2936452||Double-balloon enteroscopy
+C0392752||localization
+C4038855||robotic resection
+C3163616||blood loss
+C3494226||conversion-to-open
+C0009566||complications
+C0807321||pathology
+C4282132||malignancy
+C2936452||double-balloon enteroscopy
+C4038855||robotic technology
+C0221198||lesions
+C0282624||minimally invasive fashion

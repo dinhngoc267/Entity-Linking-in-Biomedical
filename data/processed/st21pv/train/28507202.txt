@@ -1,0 +1,68 @@
+C2350439||volatile organic compounds
+C0231800||exhaled
+C0682523||cell lines
+C0376545||hematological malignancies
+C0017110||gas
+C0086418||human
+C0231800||exhaled
+C2350439||volatile organic compounds
+C2350439||volatile organic compounds
+C0242821||body
+C0936012||Analysis
+C2350439||volatile organic compounds
+C2986496||noninvasive
+C0430022||diagnostic tool
+C0027651||cancers
+C2350439||volatile organic compounds
+C0017110||gas
+C0231800||exhaled
+C0007634||cell
+C0449475||cell type
+C0870883||metabolites
+C0041366||cancer markers
+C1720881||Solid phase microextraction
+C0008555||gas chromatography
+C0037813||mass spectrometry
+C2350439||volatile organic compounds
+C0024305||non-Hodgkin's lymphoma
+C0085983||cell line JEKO
+C0085669||acute mononuclear leukemia
+C0085983||cell line SHI-1
+C0017110||gaseous
+C0041366||biomarkers
+C0376545||hematological malignancies
+C0024432||macrophage cells
+C0024264||lymphocytic cells
+C0010454||RPMI 1640 medium
+C3812213||fetal calf serum
+C0007634||cells
+C0574031||dimethyl sulphide
+C0574031||2,4-dimethyl-heptane
+C0040383||methylbenzene
+C0046596||o-xylene
+C0067942||dodecane
+C0574031||1,3-ditert-butylbenzene
+C0085983||JEKO cells
+C0001962||ethanol
+C0068007||hexanal
+C0005023||benzaldehyde
+C0085983||SHI-1 cells
+C0574031||2,4-dimethyl-heptane
+C0005036||benzene
+C0574031||4-methyldecane
+C0008238||chloroform
+C0574031||3,7-dimethyl dodecane
+C0068005||hexadecane
+C0001978||hexanol
+C0010569||cyclohexanol
+C0031928||pilot study
+C0376545||malignant hematological
+C0007634||cells
+C2350439||volatile organic compounds
+C3830103||cell culture flask
+C0449475||cell type
+C2350439||volatile organic compounds
+C0376545||hematological malignancies
+C0041366||biomarkers
+C0011900||diagnosis
+C0018939||hematological diseases

@@ -1,0 +1,48 @@
+C0678257||Description
+C0004611||Ancylomarina subtilis gen. nov., sp. nov.
+C0557760||coastal sediment
+C0004611||Marinilabiliales ord. nov.
+C3557298||Marinilabiliaceae
+C3800560||Prolixibacteraceae
+C3986640||Marinifilaceae
+C1705177||order
+C0004611||Marinilabiliales
+C0018150||Gram-stain-negative
+C1532741||facultatively anaerobic
+C1301466||non-motile bacterium
+C0018149||FA102T
+C0442544||coast
+C0008115||Weihai, China
+C1519068||Phylogenetic analysis
+C3537372||16S rRNA gene sequences
+C0018149||FA102T
+C0015219||evolutionary
+C3986640||Marinifilaceae
+C1821461||closest relative
+C2990363||Marinifilum fragile JCM 15579T
+C0012854||DNA
+C0007634||cellular
+C0015684||fatty acids
+C0034435||quinone
+C0044840||iso-C15:0
+C0754432||iso-C15:0 3-OH
+C0078382||MK-7
+C0018149||FA102T
+C1708235||genus
+C1705920||species
+C0004611||Ancylomarina subtilis gen. nov., sp. nov.
+C0018149||Ancylomarina subtilis
+C0018149||FA102T
+C0004611||KCTC 42257T
+C0004611||DSM 28825T
+C0004611||CICC 10902T
+C1705177||order
+C0004611||Marinilabiliales
+C1832072||accommodate
+C0008902||classified
+C1705177||order
+C1080663||Bacteroidales
+C0004611||Marinilabiliales ord. nov.
+C3557298||Marinilabiliaceae
+C3800560||Prolixibacteraceae
+C3986640||Marinifilaceae

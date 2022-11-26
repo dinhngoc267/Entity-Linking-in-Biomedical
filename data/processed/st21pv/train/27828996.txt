@@ -1,0 +1,35 @@
+C0282688||Evolution
+C0008781||Ciliate
+C1708235||Genus
+C0085343||Euplotes
+C1004715||Spirotrichea
+C0085343||Euplotia
+C0678257||Description
+C0085343||Euplotes curdsi sp. nov
+C0008781||Ciliates
+C1709533||phylum
+C1708235||genera
+C0085343||Euplotes
+C1705920||morphospecies
+C0085343||Euplotes
+C0543482||morphological
+C0302523||observations
+C0005516||molecular markers
+C0023866||literature
+C0085343||Euplotes curdsi sp. nov
+C0596901||conspicuous paroral membrane
+C1705920||species
+C0337056||brackish
+C0017446||marine samples
+C0025138||Mediterranean
+C0017446||White Sea
+C0017337||SSU rRNA gene
+C1517495||sequences
+C1708235||genus
+C0085343||Euplotes
+C1708235||genus
+C0282688||evolution
+C0678257||descriptions
+C0543482||morphological
+C0282688||evolution
+C0085343||Euplotes

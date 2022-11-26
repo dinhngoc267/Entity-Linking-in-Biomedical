@@ -1,0 +1,52 @@
+C0028841||Ocular hypotensive
+C1449580||EP3
+C0662784||FP
+C2987634||agonist
+C4277062||ONO-9054
+C0593887||Xalatan
+C0013072||double-masked
+C2603343||study
+C4277062||ONO-9054
+C0021888||intraocular pressure
+C0021888||intraocular pressure
+C0028841||ocular hypertension
+C0028841||ocular hypertension
+C0017612||open-angle glaucoma
+C0017612||open-angle glaucoma
+C2603343||study
+C1449580||EP3
+C0662784||FP
+C2987634||agonist
+C4277062||ONO-9054
+C0662784||FP
+C2987634||agonist
+C0593887||Xalatan
+C0017612||open-angle glaucoma
+C0028841||ocular hypertension
+C0021888||intraocular pressure
+C4277062||ONO-9054
+C0593887||Xalatan
+C0021888||intraocular pressure
+C4277062||ONO-9054
+C0593887||Xalatan
+C0021888||IOPs
+C0021888||intraocular pressure
+C4277062||ONO-9054
+C0021888||intraocular pressure
+C4277062||ONO-9054
+C0593887||Xalatan
+C0936012||post hoc analyses
+C0021888||IOPs
+C4277062||ONO-9054
+C0593887||Xalatan
+C0021888||intraocular pressure
+C4277062||ONO-9054
+C0593887||Xalatan
+C0936012||post hoc analysis
+C4277062||ONO-9054
+C0021888||intraocular pressure
+C0021888||IOPs
+C0593887||Xalatan
+C4277062||ONO-9054
+C0021888||intraocular pressure
+C0593887||Xalatan

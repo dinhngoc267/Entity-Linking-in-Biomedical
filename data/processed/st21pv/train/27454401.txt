@@ -1,0 +1,35 @@
+C0870071||modelling
+C0205148||fractal
+C0205148||biomimetic
+C0205148||micro
+C0205148||nano-topographical surfaces
+C0596171||tissue engineering
+C0005479||biomaterial
+C0242821||human body
+C0005898||fractal topographical cues
+C0007634||cell
+C0870781||biomimetic
+C0870781||fractal topographies
+C0025663||method
+C0870781||micro
+C0870781||nanoscale topography
+C0086418||human
+C0457457||biological tissue
+C0440257||synthetic polymer
+C0457457||biological tissue
+C0205148||surface
+C0242849||atomic force microscopy
+C0242849||atomic force microscopy
+C0870781||fractal topography
+C3494272||acellular dermal matrix
+C3494272||acellular dermal matrix
+C0137758||polydimethylsiloxane
+C0137758||polydimethylsiloxane
+C0242849||atomic force microscopy
+C0870781||nano
+C0870781||micro-topographical
+C3494272||acellular dermal matrix
+C0137758||polydimethylsiloxane
+C0870781||fractal topography
+C0205148||biological surfaces
+C0025080||medical device

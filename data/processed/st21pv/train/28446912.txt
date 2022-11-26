@@ -1,0 +1,78 @@
+C2717804||Fungal Structures
+C0301872||Host Responses
+C1155325||Incompatible Rust-Wheat Interaction
+C2717804||fungal structures
+C0301872||host responses
+C2603343||studies
+C1752856||host-pathogen interactions
+C2603343||study
+C1883559||wild type
+C0678941||mutant
+C1764827||isolates
+C1001443||Puccinia striiformis
+C0043137||wheat
+C1001443||yellow rust
+C1001443||Yr2
+C4087433||resistance
+C2603343||study
+C0018270||growth
+C1947989||colonies
+C0301872||host cell responses
+C0018270||growth
+C1883559||wild type
+C1764827||isolates
+C0020517||hypersensitive response
+C0020517||hypersensitive response
+C0032098||plant
+C0007587||cell death
+C1444656||indicated
+C0544711||autofluorescence
+C0332479||shape
+C3178867||plant cells
+C0301872||host response
+C2717804||haustorial
+C0333951||arrest
+C0237401||individual
+C1947989||colonies
+C0205103||between
+C1511790||detection
+C1947989||colonies
+C0948192||primary infection
+C0521057||hyphae
+C2700384||branched
+C0949695||mycelia
+C0020517||hypersensitive response
+C1819995||host cells
+C2717804||fungal structures
+C1154988||defense responses
+C0205117||adjacent
+C1819995||host cells
+C1947989||colony
+C0007634||cells
+C0020517||hypersensitive response
+C2717804||haustoria
+C0007634||cells
+C0456389||sized
+C2717804||haustoria
+C0037088||signs
+C0020517||hypersensitivity
+C0018270||growth
+C0678941||mutants
+C0032098||plants
+C0018270||growth
+C0032098||plants
+C1001443||Yr2
+C4087433||resistance
+C1001443||Yr2
+C0205103||between
+C1001443||P. striiformis
+C0043137||wheat
+C1001443||Yr2
+C4087433||resistance
+C0019638||histological
+C2603343||studies
+C0162340||deeper understanding
+C1752856||host-pathogen interactions
+C0032098||plant
+C0520990||defense
+C0205246||general

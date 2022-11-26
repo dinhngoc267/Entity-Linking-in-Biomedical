@@ -1,0 +1,69 @@
+C0577943||Reduced Chest
+C0836916||Abdominal Wall
+C0035245||Lung Function
+C0517349||Muscle Strength
+C0162521||Exercise Tolerance
+C0024117||COPD
+C0231999||air-flow
+C0024117||COPD
+C0042834||vital capacity
+C0517349||muscle strength
+C0162521||exercise capacity
+C0817096||chest
+C0836916||abdominal wall
+C0024117||COPD
+C0577943||reduced chest
+C0836916||abdominal wall
+C0577943||reduced chest
+C0836916||abdominal wall
+C0035245||pulmonary function
+C0517349||muscle strength
+C0162521||exercise capacity
+C0001792||elderly
+C0024117||COPD
+C0817096||chest
+C0836916||abdominal wall
+C3714541||FVC
+C0849974||FEV1
+C3815113||FEV1/FVC
+C4083126||maximal inspiratory pressure
+C4083126||PImax
+C4082175||maximal expiratory pressure
+C4082175||PEmax
+C0430515||6-min walk distance
+C0430515||6-min walk distance
+C0205076||Chest
+C0836916||abdominal wall
+C0004048||breathing
+C0022885||movement scale
+C0005898||regions
+C0446469||upper chest
+C0446470||lower chest
+C0000726||abdomen
+C0700572||Reduced mobility
+C1710574||unpaired t test
+C1708930||Mann-Whitney test
+C0700572||reduced mobility
+C0446469||upper chest
+C0446470||lower chest
+C0000726||abdomen
+C0700572||reduced mobility
+C3714541||FVC
+C0849974||FEV1
+C0430515||6-min walk distance
+C0005898||region
+C3815113||FEV1/FVC
+C4083126||PImax
+C4082175||PEmax
+C1720043||abdominal region
+C3714541||FVC
+C0430515||6-min walk distance
+C0005898||region
+C0000726||abdominal
+C0024117||COPD
+C0577943||reduced chest
+C0836916||abdominal wall
+C3714541||FVC
+C0836916||abdominal wall
+C0205076||chest wall
+C0430515||6-min walk distance

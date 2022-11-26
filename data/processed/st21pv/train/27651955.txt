@@ -1,0 +1,41 @@
+C0600169||Kinematic
+C0013839||EMG
+C0030797||Pelvis
+C1140621||Leg
+C0007789||Cerebral Palsy
+C2107089||Treadmill training
+C0023946||locomotor function
+C0007789||cerebral palsy
+C0007789||cerebral palsy
+C0600169||kinematic
+C0013839||EMG
+C1268086||body
+C0018017||objective
+C2603343||study
+C0600169||kinematic
+C0013839||EMG
+C0030797||pelvis
+C1140621||leg
+C0338596||spastic CP
+C0030699||participate
+C2603343||study
+C0030797||pelvis
+C1140621||legs
+C0026845||Muscle
+C0016928||gait parameters
+C0016928||spatial-temporal gait parameters
+C2107089||treadmill training
+C0030797||pelvis
+C0184511||improved
+C0427127||step height
+C1140621||leg
+C0184511||improved
+C0427126||step length
+C1140621||leg
+C0026845||muscle
+C0581542||ankle flexor
+C0427126||step length
+C0184511||improved
+C2107089||treadmill training
+C0030797||pelvis
+C1140621||leg

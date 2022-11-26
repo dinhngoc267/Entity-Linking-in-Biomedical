@@ -1,0 +1,44 @@
+C0678594||architectures
+C0257097||p7 protein
+C0220847||hepatitis C virus
+C0014406||environments
+C3820740||viroporin
+C0257097||p7
+C0220847||hepatitis C virus
+C0022009||multimeric channels
+C0162585||ion transport
+C0230770||endoplasmic reticulum membrane
+C2603343||studies
+C0022009||ion channel
+C0678594||structural
+C0257097||p7
+C0596973||monomer
+C0678594||Structural
+C0257097||p7
+C0011740||detergent
+C0014406||environments
+C0936012||analyze
+C0678594||structure
+C0257097||p7
+C0596973||monomer
+C0002518||sequence
+C0026377||conformation
+C0014406||environment
+C0257097||p7
+C0022009||ion channel
+C0162585||ion translocation
+C0023768||lipid bilayer
+C0007447||cations
+C1550045||position
+C1704322||orientation
+C0022023||ion
+C0022009||channel
+C1148560||packing
+C0596973||monomers
+C0022009||channel
+C1325742||pore
+C0162585||ion translocation
+C0257097||p7
+C0022009||ion channel
+C0678594||multimeric structures
+C0014406||environments

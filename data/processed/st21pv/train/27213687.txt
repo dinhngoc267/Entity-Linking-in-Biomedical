@@ -1,0 +1,23 @@
+C0010042||corneal transplantations
+C0022578||keratoconus
+C0022578||Keratoconus
+C0155135||corneal ectasia
+C0152194||irregular astigmatism
+C0042798||diminished vision
+C0349702||corneal scarring
+C0022578||keratoconus
+C0010042||corneal transplant
+C0087111||treatment
+C0010042||corneal transplantation
+C0010042||corneal transplants
+C0040732||transplantation procedures
+C0034975||Dutch National Organ Transplant Registry
+C0010042||corneal transplants
+C0010042||keratoplasties
+C0010042||corneal transplants
+C0010042||transplants
+C0042812||visual acuity
+C0010042||corneal transplants
+C0010042||corneal transplants
+C0022578||keratoconus
+C0010042||corneal transplantation

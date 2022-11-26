@@ -1,0 +1,41 @@
+C0036576||Selection
+C0009221||Codon
+C0449774||Contrasting Patterns
+C0015219||Evolution
+C0013138||Drosophila
+C0079941||coding sites
+C0017428||genome
+C0036576||selection
+C0015219||evolution
+C0079941||sites
+C0013138||Drosophila
+C0033213||issue
+C0998507||D. simulans
+C0936012||analyzed
+C0444241||samples
+C0998507||D. simulans
+C0013139||D. melanogaster
+C0998511||D. yakuba
+C0036576||selection
+C0079941||sites
+C0036576||selection
+C0015219||evolution
+C0449774||substitution pattern
+C0036576||selection
+C0456984||result
+C0026882||mutational
+C0796451||polymorphism-based methods
+C0036576||selection
+C0036576||selection
+C0009221||codon
+C0998507||D. simulans
+C0013139||D. melanogaster
+C0036576||selection
+C0439792||extent
+C0036576||selection
+C0017428||genome
+C0449774||evolutionary patterns
+C0021920||neutral short introns
+C0017259||gene conversion
+C0456984||results
+C0015219||evolution

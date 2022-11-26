@@ -1,0 +1,69 @@
+C1182610||Corneal Epithelial
+C1182610||Corneal Epithelial
+C1182611||Conjunctival Cells
+C0459875||corneal epithelium
+C0459875||corneal epithelium
+C0009758||conjunctiva
+C1515087||surface ectoderm
+C0332128||examined
+C0007634||cells
+C0014609||Epithelia
+C0003151||anterior eyes
+C0008046||chicken embryos
+C1522485||labeled
+C0016320||fluorescent
+C0013343||lipophilic dye
+C2350183||1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+C2350183||1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+C2350183||1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+C2327105||epithelial surface
+C0003151||anterior eye
+C0026022||fluorescence microscopy
+C2327105||surface cells of these epithelial
+C0332128||examined
+C0026020||scanning electron microscopy
+C0079604||Immunofluorescence
+C1171362||expression
+C1313613||cytokeratin K3
+C3503764||ZO-1
+C0027215||N-cadherin
+C0110613||Connexin-43
+C0031843||function
+C0206117||gap junctions
+C0936012||analyzed
+C0016320||fluorescent dye
+C0073196||rhodamine-dextran
+C0013936||embryonic
+C0013936||E
+C2350183||1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+C0205148||surface
+C0459875||corneal epithelium
+C0014597||epithelial cells
+C0003151||anterior eye
+C0015392||older eyes
+C1522485||labeled
+C0013343||dye
+C0459875||corneal epithelium
+C2350183||1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+C0009758||conjunctival
+C0205148||surface
+C0013936||E
+C0009758||conjunctiva
+C0026020||Scanning electron microscopy
+C1182610||cells
+C0459875||corneal epithelium
+C0009758||conjunctiva
+C0013936||E
+C0229119||ring
+C0010031||cornea
+C0206117||gap junctions
+C0014609||tissues
+C0013936||E
+C1517080||ocular development
+C2350183||1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+C0205283||contiguous
+C0459875||corneal epithelium
+C0009758||conjunctiva
+C1171362||expression
+C0206117||gap junctions
+C0014609||tissues

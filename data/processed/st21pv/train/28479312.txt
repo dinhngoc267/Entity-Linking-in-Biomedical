@@ -1,0 +1,11 @@
+C0022885||ESBL Nordmann/Dortet/Poirel-based protocol
+C0243026||sepsis
+C0376636||management
+C1531834||colorimetric test
+C1511790||detection
+C0486433||ESBL
+C0014346||Enterobacteriaceae
+C1446409||positive
+C0200949||blood cultures
+C0022885||manipulation
+C0022885||protocol

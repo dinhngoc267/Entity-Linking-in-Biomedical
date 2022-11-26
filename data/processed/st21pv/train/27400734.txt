@@ -1,0 +1,59 @@
+C1135135||Erlotinib
+C0045093||gemcitabine
+C0045093||gemcitabine
+C0235974||pancreatic cancer
+C2700280||world
+C0936012||analysis
+C0022771||Korean
+C0015737||national
+C0242356||database
+C0206034||randomized clinical trial
+C1135135||erlotinib
+C0045093||gemcitabine
+C0045093||GEM
+C1135135||E
+C0235974||pancreatic cancer
+C1257890||population
+C0035363||retrospective study
+C0045093||GEM
+C1135135||E
+C0045093||GEM
+C0235974||pancreatic cancer
+C0235974||pancreatic cancer
+C1137110||(ICD-10
+C1521941||prescription
+C0045093||gemcitabine
+C1135135||erlotinib
+C0022771||Korean
+C0027452||Health Insurance
+C0242356||database
+C2603343||study
+C1257890||population
+C1298647||cytological diagnosis
+C3665472||chemotherapy
+C0332154||treated with
+C1522449||radiotherapy
+C2081627||surgery
+C3665472||chemotherapy
+C0441610||reduce
+C0087111||therapy
+C0045093||GEM
+C1135135||E
+C0045093||GEM
+C0936012||analysis
+C0332154||treated
+C0045093||GEM
+C1135135||E
+C0045093||GEM
+C1135135||E
+C0045093||GEM
+C0045093||GEM
+C0045093||GEM
+C1135135||E
+C0045093||GEM
+C1135135||E
+C0235974||pancreatic cancer
+C0045093||GEM
+C2700280||world
+C0566251||reasonable
+C0045093||GEM

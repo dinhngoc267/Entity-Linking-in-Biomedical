@@ -1,0 +1,39 @@
+C0205148||Surface
+C0687133||interactions of drugs
+C0003232||antibiotic
+C0860044||resistant to multiple antibiotics
+C0441516||demand
+C1254351||drugs
+C0151521||Bacterial resistance
+C0262496||molecular changes
+C0201029||bacterial surface
+C0687133||drug-target interactions
+C0687133||drug-target interactions
+C1444090||resistant bacteria
+C0205148||surface
+C0003232||antibiotics
+C0042313||vancomycin
+C0917879||ristomycin
+C0674648||chloroeremomycin
+C1144403||oritavancin
+C4076168||drug-resistant targets
+C4076168||drug-resistant targets
+C0003232||antibiotics
+C0678749||binding affinity
+C1144403||oritavancin
+C4076168||drug-resistant targets
+C0042313||vancomycin
+C0003232||antibiotic
+C0087111||resort treatment
+C0038402||streptococcal
+C0038170||staphylococcal bacteria
+C1265292||methicillin-resistant Staphylococcus aureus
+C1265292||methicillin-resistant Staphylococcus aureus
+C0282574||exactly solvable model
+C0037638||solvent
+C0596901||membrane
+C0687133||drug-target interactions
+C0687133||pronounced polyvalent interactions
+C0205148||surface
+C0162340||understanding
+C0087111||therapies

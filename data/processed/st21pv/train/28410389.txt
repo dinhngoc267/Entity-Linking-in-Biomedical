@@ -1,0 +1,32 @@
+C1294399||Molecular subtyping
+C0040840||Treponema pallidum
+C0348148||early syphilis
+C0079189||cytokine
+C0005516||marker
+C0521982||response
+C0348148||early syphilis
+C2945704||conventional treatment
+C0871685||clinicians
+C0348148||syphilis
+C0040808||treatment strategy
+C0699748||pathogenesis
+C2603343||study
+C0348148||early syphilis
+C1516879||enrolled
+C0087111||treatment
+C1999167||older age
+C0040840||T. pallidum
+C0449560||molecular subtypes
+C0348148||early syphilis
+C0449560||subtype, 14i/a
+C0449560||14i/a type
+C1312957||chemerin
+C0229671||serum
+C0079189||cytokine
+C0005516||marker
+C0348148||early syphilis
+C0087111||therapy
+C0184511||improve
+C0162791||guidelines
+C0376636||management
+C0348148||syphilis

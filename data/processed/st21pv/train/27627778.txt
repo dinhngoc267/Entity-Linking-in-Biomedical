@@ -1,0 +1,71 @@
+C0061187||Gelsolin
+C1001576||Onychophora
+C1010027||Tardigrada
+C3578917||Ecdysozoa
+C1180307||filamentous actin network
+C0001239||actin binding proteins
+C0061187||gelsolin proteins
+C0025979||actin filaments
+C4086299||fast growing
+C1155976||nucleate
+C2610250||actin assembly
+C0006675||calcium
+C0061187||gelsolin
+C1001576||onychophoran
+C1083155||Peripatoides novaezealandiae
+C1010027||eutardigrade
+C1465325||Hypsibius dujardini
+C0006556||cDNA
+C1083155||P. novaezealandiae
+C0079941||coding sequence
+C0079941||open reading frame
+C0600436||bp
+C0033684||protein
+C0002520||amino acids
+C0002518||sequence
+C0441635||segments
+C0936012||analysis
+C0242356||TardiBase
+C0061187||gelsolin
+C1010027||eutardigrade
+C1465325||Hypsibius dujardini
+C0441635||segments
+C0079941||coding sequence
+C0600436||bp
+C0002520||amino acids
+C1014425||Peripatoides
+C1481832||Hypsibius
+C0061187||gelsolin
+C0009802||conserved
+C1956035||binding motifs
+C0016890||G-actin
+C1180307||F-actin
+C0070798||phosphatidylinositol 4,5-bisphosphate
+C0070798||PIP2
+C0005456||type-1
+C0005456||type-2
+C0596235||Ca(2+)
+C0005456||binding sites
+C1167622||binding
+C0596235||calcium ions
+C0061187||gelsolin proteins
+C1514562||C-terminal
+C1704821||latch-helix
+C0201925||Ca(2+) range
+C0061187||gelsolin
+C0441635||segments
+C0150312||present
+C3578917||ecdysozoan
+C1039396||Panarthropoda
+C1001576||Onychophora
+C1010027||Tardigrada
+C0003903||Arthropoda
+C0061187||gelsolin
+C2603343||studied
+C0920312||Chordata
+C0441635||segments
+C0030944||Mapping
+C0026382||molecular data
+C0061187||gelsolin
+C0441635||segments
+C1155982||actin polymerization

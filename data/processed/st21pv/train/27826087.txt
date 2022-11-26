@@ -1,0 +1,39 @@
+C0024485||Phase-contrast MRI
+C0270718||arrested hydrocephalus
+C0024485||phase-contrast magnetic resonance imaging
+C0024485||phase-contrast magnetic resonance imaging
+C0270718||arrested hydrocephalus
+C0033522||Prospective study
+C0270718||arrested hydrocephalus
+C0024485||phase-contrast magnetic resonance imaging
+C0220825||assessment
+C0228168||aqueduct
+C0205131||Axial
+C0205129||sagittal
+C0024485||phase-contrast magnetic resonance imaging
+C0205129||sagittal
+C0007769||cerebral aqueduct
+C0228168||Aqueductal
+C0175566||patency
+C0441800||graded
+C0024485||phase-contrast magnetic resonance imaging
+C0200767||Quantitative analysis
+C0228168||aqueduct
+C0024485||phase-contrast magnetic resonance imaging
+C0028778||obstruction
+C0228168||aqueductal
+C0028778||obstruction
+C0042512||ventricular obstruction
+C0042512||ventricular obstruction
+C0020255||hydrocephalus
+C0844212||endoscopic third ventriculostomy
+C3874496||ventriculo-peritoneal shunt
+C0442726||detected
+C1446409||positive
+C0441800||grading
+C0024485||phase-contrast magnetic resonance imaging
+C0007806||CSF
+C0038455||stroke volume
+C0024485||phase-contrast magnetic resonance imaging
+C0011900||diagnosis
+C0270718||arrested hydrocephalus

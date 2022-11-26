@@ -1,0 +1,66 @@
+C2832047||Diffuse traumatic brain injury
+C0010124||corticosterone
+C0034721||rat
+C0332119||history
+C0876926||traumatic brain injury
+C0876926||traumatic brain injury
+C1504437||lowered life expectancy
+C0876926||traumatic brain injury
+C0006104||brain
+C2951888||skull
+C0020663||hypothalamic
+C0032005||pituitary
+C1540677||neuropathology
+C0014136||hypothalamic -pituitary endocrine
+C0014136||hypothalamic -pituitary endocrine
+C0277785||dysfunction
+C0681814||experiments
+C2832047||diffuse TBI
+C0277785||dysfunction
+C0010124||corticosterone
+C0010124||corticosterone
+C0017710||glucocorticoid
+C0449430||stress
+C0039601||testosterone
+C1519106||rodent model
+C2832047||diffuse TBI
+C3714660||midline fluid percussion injury
+C3714660||midline fluid percussion injury
+C1511501||uninjured control animals
+C0010124||corticosterone
+C0449430||restraint stress
+C0011777||dexamethasone
+C0017711||synthetic glucocorticoid
+C0014136||hypothalamic -pituitary endocrine
+C1522496||axis
+C1327622||regulation
+C0039601||Testosterone
+C3714660||injury
+C0027882||neuron
+C0487602||Golgi stain
+C1540677||neuropathology
+C0487602||silver stain
+C1326120||activated
+C0004112||astrocytes
+C0487602||GFAP
+C0030532||paraventricular nucleus
+C0030532||paraventricular nucleus
+C0020663||hypothalamus
+C0032105||plasma
+C0010124||corticosterone
+C0010124||corticosterone
+C0449430||restraint induced stress
+C0442739||No changes
+C0039601||testosterone
+C0010124||corticosterone
+C0027882||neuron
+C0007613||processes
+C0030532||paraventricular nucleus
+C1540677||neuropathology
+C3887640||astrocytosis
+C2832047||diffuse TBI
+C0010124||corticosterone
+C0681814||experiments
+C0019932||HP-related hormones
+C0014136||endocrine
+C2832047||diffuse TBI

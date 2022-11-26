@@ -1,0 +1,70 @@
+C0017262||Expressed
+C1101610||microRNA
+C0029965||egg production
+C0008051||chicken
+C0018120||ovarian follicles
+C1101610||MicroRNA
+C1101610||MicroRNA
+C0887909||noncoding RNA
+C0028630||nucleotides
+C1514248||post-transcriptionally regulate
+C0017262||gene expression
+C0040300||Tissue
+C1101610||MicroRNA
+C0017262||expression
+C2603343||studies
+C1101610||miRNAs
+C1101610||miRNAs
+C0008051||chicken
+C1518744||ovarian tissue
+C1101610||MicroRNA
+C0936012||analysis
+C1518744||ovarian tissues
+C0008051||chickens
+C0029965||egg production
+C2936623||high-throughput sequencing
+C0029965||egg production
+C0008051||chickens
+C0029965||egg production
+C0008051||chickens
+C0017262||expressed
+C1101610||miRNAs
+C1101610||miRNAs
+C1101610||miRNAs
+C0037080||pathways
+C0035150||reproduction
+C0017263||regulation
+C0597517||steroid hormone biosynthesis
+C0039062||dopaminergic synapse
+C0017262||expression
+C0017263||regulated
+C1101610||miRNAs
+C3179034||quantitative real-time polymerase chain reaction
+C3179034||RT-qPCR
+C1101610||miRNAs
+C1537746||gga-miR-34b
+C1537747||gga-miR-34c
+C2239687||gga-miR-216b
+C0017263||regulate
+C0596290||proliferation
+C0007586||cell cycle
+C0162638||apoptosis
+C4255448||metastasis
+C0017262||expressed
+C0029939||ovaries
+C0008051||chickens
+C0029965||egg production
+C1101610||miRNAs
+C0029939||ovary
+C0242290||development
+C0035150||reproductive management
+C0008051||chicken
+C0041904||up-regulated
+C1101610||MicroRNA
+C1537838||gga-miR-200a-3p
+C0035150||reproduction
+C0017263||regulation
+C0037080||pathways
+C1101610||MicroRNA
+C0035150||reproductive management
+C0008051||chicken

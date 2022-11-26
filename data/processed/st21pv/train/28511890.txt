@@ -1,0 +1,46 @@
+C0038317||steroid
+C0007439||indwelling catheter
+C4275242||refractory severe sudden sensorineural hearing loss
+C0149783||steroid treatment
+C0085405||salvage treatment
+C1515119||systemic therapy
+C1515119||systemic therapy
+C4275242||sensorineural hearing loss
+C1515119||systemic therapy
+C0574032||infusion mode
+C1254351||drug
+C0524811||fractionation
+C0087111||treatment
+C0011777||dexamethasone
+C0011777||dexamethasone
+C0007439||indwelling catheter
+C0007328||prospective case-control study
+C0020028||tertiary referral university hospital
+C0080105||subjects
+C1515119||systemic therapy
+C0011777||dexamethasone
+C0085590||4 Fr catheter
+C0441587||inserted
+C0087123||tympanotomy
+C0444470||endocanalar approach
+C0002921||local anesthesia
+C0011777||dexamethasone
+C0200273||bone and air-conducted pure tone
+C0004293||speech audiometry
+C0087111||treatment
+C1515119||systemic therapy
+C0175841||HL
+C0011777||dexamethasone
+C0175841||HL
+C1515119||systemic therapy
+C0879626||side effects
+C1148477||sudden deafness
+C1515119||systemic therapy
+C0031001||perfusion
+C0011777||dexamethasone
+C0085590||catheter
+C1254351||drug
+C0013455||middle ear
+C0087111||repeatable
+C1710261||sustained form
+C3661486||discomfort and a partial rescue

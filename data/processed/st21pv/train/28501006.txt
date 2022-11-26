@@ -1,0 +1,75 @@
+C0872318||Liquid chromatography-mass spectrometry
+C0022885||quantitative proteomics analysis
+C0243095||chondroprotective effects
+C0378018||astragaloside IV
+C0021753||interleukin-1β
+C1516497||SW1353 chondrocyte-like cells
+C0225369||Chondrocyte
+C0162638||apoptosis
+C0242656||progression
+C0029408||Osteoarthritis
+C0029408||Osteoarthritis
+C3687832||drugs
+C0029408||Osteoarthritis
+C0378018||Astragaloside IV
+C0378018||Astragaloside IV
+C0225369||chondrocyte
+C0378018||Astragaloside IV
+C0225369||chondrocyte
+C0162638||apoptosis
+C0022885||Isobaric Tags For Relative And Absolute Quantitation (iTRAQ)-based quantitative proteomics
+C0442726||detect
+C0033684||proteins
+C1516497||SW1353 chondrocyte-like cells
+C0378018||Astragaloside IV
+C0021753||interleukin-1β
+C0021753||interleukin-1β
+C0378018||Astragaloside IV
+C0021753||interleukin-1β
+C0030956||iTRAQ-labeled peptides
+C0872318||high-accuracy liquid chromatography-mass spectrometry
+C0872318||liquid chromatography-mass spectrometry
+C0162638||Cell apoptosis
+C0033684||differentially expressed proteins
+C0442726||detected
+C0016263||flow cytometry
+C0016263||flow cytometry
+C3179034||quantitative real-time polymerase chain reaction
+C3179034||quantitative real-time polymerase chain reaction
+C0005863||western blotting
+C0162638||apoptosis
+C0021753||interleukin-1β
+C1516497||SW1353 cells
+C0378018||Astragaloside IV
+C0022885||Bioinformatics analysis
+C3884655||gamma actin 1
+C3884655||ACTG1
+C1318127||Yes Associated Protein 1
+C1318127||Yes Associated Protein 1
+C3158583||Hippo signaling pathway
+C4281807||Vitronectin
+C4281807||Vitronectin
+C0972255||Collagen Type I Alpha 1 Chain
+C0972255||COL1A1
+C0041904||up-regulated
+C0021753||interleukin-1β
+C1516497||SW1353 cells
+C0378018||Astragaloside IV
+C3179034||quantitative real-time polymerase chain reaction
+C0005863||Western blotting
+C0041904||up-regulation
+C0017337||genes
+C0378018||Astragaloside IV
+C1446409||positive role
+C0086418||human
+C0162638||osteoarthritic chondrocyte apoptosis
+C3158583||Hippo signaling pathway
+C0041904||up-regulating
+C1318127||Yes Associated Protein 1
+C3884655||ACTG1
+C0017262||expression
+C0041904||up-regulating
+C4281807||Vitronectin
+C0972255||COL1A1
+C0378018||Astragaloside IV
+C0029408||Osteoarthritis

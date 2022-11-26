@@ -1,0 +1,42 @@
+C0078483||whitlockite
+C0444498||in situ
+C0085268||remodeling
+C0005972||bone regeneration
+C0085268||Bone remodeling
+C0037080||signaling pathway
+C0029418||osteoblasts
+C0029431||osteoclasts
+C0019868||homeostasis
+C0007595||growth
+C0007589||differentiation
+C0037080||signaling pathways
+C0007634||cells
+C0262950||bone
+C0015350||extracellular matrices
+C0085268||bone remodeling
+C0022023||ionic
+C0078483||whitlockite
+C0078483||WH: Ca18Mg2(HPO4)2(PO4)12)
+C0005972||bone regeneration
+C0007589||osteogenic differentiation
+C0029431||osteoclastic
+C0040682||transforming
+C0020326||hydroxyapatite
+C0020326||hydroxyapatite
+C0391978||neo bone tissues
+C1601799||PO4(3-)
+C2346927||Mg(2+)
+C0242481||structural analysis
+C0040682||transformation
+C0078483||WH
+C0020326||hydroxyapatite
+C0005972||bone regeneration
+C0262950||neo-bone
+C0678594||structure
+C0243095||findings
+C0262950||bone
+C0026162||minerals
+C0007582||communicate
+C0262950||bone
+C0026162||minerals
+C0007634||cellular

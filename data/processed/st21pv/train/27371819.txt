@@ -1,0 +1,32 @@
+C0038496||nursing students
+C0038496||nursing undergraduates
+C2603343||study
+C0038496||nursing students'
+C0596545||experiences
+C0679646||participants
+C0682177||second-year undergraduates
+C0682177||first-year master's students
+C0449445||approach
+C0038492||students
+C0582166||conversation contents
+C0582166||content of the conversations
+C0038492||students
+C0243095||self-reflection
+C0019994||hospital settings
+C0038492||students'
+C0019994||hospitals
+C0184511||improve
+C0038492||students'
+C0259853||educators
+C0851286||clinical staff
+C0038492||students
+C0038492||students'
+C1704726||confidence
+C0162340||understanding
+C0038492||students'
+C0596545||experience
+C0259853||educators
+C0184511||improve
+C2603343||study
+C0038492||students'
+C0184511||improved

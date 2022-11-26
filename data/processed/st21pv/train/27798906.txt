@@ -1,0 +1,21 @@
+C0341045||Parotid Gland Atrophy
+C0278996||Head and Neck Cancer
+C3494442||Carbon-ion Radiotherapy
+C0008972||study
+C0034603||dosimetric
+C0341045||parotid gland (PG) atrophy
+C3494442||carbon ion radiotherapy
+C3494442||carbon ion radiotherapy
+C0018671||head and neck tumours
+C0030580||PGs
+C0332293||treated with
+C0030580||parotid gland
+C2700258||measured
+C3494442||carbon ion radiotherapy
+C1522577||follow-up
+C0030580||parotid gland
+C0341045||PG atrophy
+C0341045||atrophy
+C0035648||risk factor
+C0341045||PG atrophy
+C3494442||carbon ion radiotherapy

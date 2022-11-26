@@ -1,0 +1,55 @@
+C0087111||methods
+C1456868||diabetic foot ulcers
+C0011847||diabetes
+C1955832||systematic review
+C0085119||foot ulceration
+C0011847||diabetes
+C0150240||foot care
+C0679924||professionals
+C1456868||diabetic foot ulcers
+C1456868||diabetic foot ulcers
+C0455069||padding
+C0029365||orthotic devices
+C0085119||ulceration
+C0011847||diabetes
+C0087111||methods
+C0085119||foot ulceration
+C0011847||diabetes
+C0376649||addressed
+C0282443||review
+C0087111||methods
+C1456868||diabetic foot ulcers
+C0011847||diabetes
+C0011849||diabetes mellitus
+C0011847||diabetes
+C1287400||history
+C1456868||diabetic foot ulcers
+C0184661||Interventions
+C0087111||methods
+C2603343||Studies
+C0184661||interventions
+C0087111||practice
+C1456868||diabetic foot ulcers
+C0085119||foot ulceration
+C0230463||plantar
+C0282443||review
+C0035171||study designs
+C0023866||literature
+C0242356||databases
+C2603343||studies
+C0037589||JBI-MAStARI extraction tool
+C1706074||tables
+C2603343||studies
+C0184661||interventions
+C1123023||skin
+C0029365||orthotic devices
+C0457978||calluses
+C0230463||plantar
+C0085119||skin ulceration
+C1257890||population
+C0011847||diabetes
+C1287400||history
+C1456868||DFU
+C0029365||orthotic devices
+C0230463||plantar
+C1456868||DFU

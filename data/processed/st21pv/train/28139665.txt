@@ -1,0 +1,31 @@
+C0574031||Vitamin D Receptor Activator
+C0011946||dialysis
+C0026348||Coarsened Exact Matching
+C0574031||Vitamin D receptor activators
+C0574031||Vitamin D receptor activators
+C2936488||pleiotropic effects
+C0007222||cardiovascular disease
+C4282132||malignancy
+C3714514||infections
+C0011946||dialysis
+C0679250||cardiovascular outcomes
+C0011946||dialysis
+C0920631||Renal Data Registry
+C1708333||Japanese Society
+C0011946||Dialysis Therapy
+C0574031||Vitamin D receptor activators
+C0026348||coarsened exact matching procedure
+C0376297||cardiovascular deaths
+C1306577||infection-related deaths
+C0038953||Multivariable survival analyses
+C0574031||Vitamin D receptor activators
+C3714514||infection
+C4282132||malignancy
+C0376297||cardiovascular death
+C0206034||randomized clinical trials
+C1522577||follow-up
+C0574031||Vitamin D receptor activators
+C3714514||infection
+C4282132||malignancy
+C0007222||cardiovascular disease
+C0011946||dialysis

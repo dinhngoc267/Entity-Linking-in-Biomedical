@@ -1,0 +1,49 @@
+C1514892||resistance
+C3714514||Plasmodium falciparum infections
+C0017395||custom dual indexing
+C0017395||Illumina next generation sequencing-technology
+C0032529||Genetic polymorphisms
+C0032150||P. falciparum
+C0030498||parasite's
+C0243095||susceptibility
+C0003374||antimalarial drugs
+C0565935||geographical origin
+C1283169||monitoring
+C0013203||antimalarial drug resistance
+C2732533||multiplex PCR
+C0017395||custom designed dual indexing
+C3898361||Miseq
+C1294197||sequencing
+C0752046||SNP
+C0024530||malaria
+C3714514||infections
+C0018387||Guinea-Bissau
+C0017256||amplifying
+C1294197||sequencing
+C1514892||resistance
+C0752046||SNPs
+C0017337||pfcrt
+C0017337||pfmdr1
+C0017337||pfdhfr
+C0017337||pfdhps
+C0017337||pfK13
+C0026237||mitochondrial
+C0004738||barcode
+C0030498||parasite
+C0584985||origin
+C0752046||SNPs
+C0752046||SNP
+C0733755||positions
+C0752046||SNP
+C0013203||artemisinin resistance
+C0752046||SNPs
+C0017337||pfK13
+C0018387||Guinea-Bissau
+C0017337||pfmdr1
+C0026237||mitochondrial
+C0004738||barcodes
+C0584985||West African origin
+C0030498||parasites
+C0025663||method
+C0038842||surveillance
+C0013203||antimalarial drug resistance

@@ -1,0 +1,34 @@
+C0026779||anatomical mummies
+C0442726||detection
+C0009170||cocaine
+C0028040||nicotine
+C0006644||caffeine
+C0018494||hair
+C0020021||Mombello Psychiatric Hospital
+C0019994||Senavra Hospital
+C0020021||Psychiatric Hospital
+C0242821||bodies
+C0033085||preserved
+C0086418||Giuseppe Paravicini
+C0334865||anatomist
+C0008972||study
+C0010995||assemblage
+C1261040||head hair
+C0936012||analysis
+C0008562||high performance liquid chromatography
+C0009170||cocaine
+C0870883||metabolite
+C0053258||benzoylecgonine
+C0442726||detected
+C0009170||cocaine
+C0053258||benzoylecgonine
+C0009170||cocaine
+C0013227||medicine
+C0020021||patients
+C0232478||ingested
+C0013227||drug
+C0442726||detection
+C0009170||cocaine
+C0936012||analyses
+C0028040||nicotine
+C0006644||caffeine

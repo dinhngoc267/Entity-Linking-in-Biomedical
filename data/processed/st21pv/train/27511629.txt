@@ -1,0 +1,32 @@
+C1875843||Bindex(®) ultrasound device
+C0222652||cortical bone
+C0205147||regional
+C0005938||bone mineral density
+C1875843||Bindex(®) quantitative ultrasound (QUS) device
+C2603343||study
+C0936012||analyzed
+C1875843||Bindex(®)-QUS
+C0005938||bone mineral density
+C0005938||bone mineral density
+C1510486||dual-energy x-ray absorptiometry
+C1282387||skeletal sites
+C0080105||young
+C1708335||healthy subjects
+C1875843||Bindex(®)-QUS
+C0005938||density index
+C0222652||cortical bone
+C0588207||distal radius
+C0588200||distal
+C0588198||proximal tibia
+C0005938||density index
+C1446409||positive
+C0222652||cortical
+C0005938||bone mineral density
+C0588207||distal radius
+C0588200||distal tibia
+C1875843||Bindex(®)-QUS
+C0449381||parameters
+C0005938||bone mineral density
+C1282387||skeletal sites
+C1875843||Bindex(®)-QUS
+C2248552||skeletal adaptations

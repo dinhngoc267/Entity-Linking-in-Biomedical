@@ -1,0 +1,82 @@
+C0072460||ErbB3 receptor tyrosine kinase
+C1327622||regulates
+C0227276||Paneth cells
+C0044602||PI3K
+C0038855||suppression
+C1412626||Atoh1
+C0227276||Paneth cells
+C0227276||Paneth cells
+C1519221||secretory population
+C0021853||intestinal
+C0038250||stem cells
+C0038250||intestinal stem cells
+C0018284||growth factors
+C4084937||antimicrobial peptides
+C3541379||lysozyme
+C0057256||defensins
+C0227276||PC
+C0012634||disorders
+C0010346||Crohn's disease
+C0520459||necrotizing enterocolitis
+C1148560||pathways
+C1327622||regulating
+C0227276||PC
+C0815089||development
+C0007613||function
+C0072460||neuregulin receptor ErbB3
+C0227276||PC
+C0007589||differentiation
+C2350292||ISC niche
+C0021853||Intestinal
+C0812265||ErbB3
+C0599772||knockout
+C0227276||Paneth cells
+C0227276||Paneth cells
+C0025929||adult mouse
+C0020885||ileum
+C0072460||ErbB3
+C1171362||expression
+C0038250||intestinal stem cells
+C0762578||Lgr5
+C0072460||ErbB3
+C0021853||intestines
+C1412626||Atoh1
+C0040648||transcription factor
+C1567779||Atoh1(+)
+C0007634||cells
+C0812265||ErbB3
+C0205160||negative
+C1327622||regulation
+C0072460||ErbB3
+C0814997||intestinal progenitor cells
+C1148560||ERK MAPK pathways
+C1148560||pathways
+C0007634||HT29 cells
+C1412626||ATOH1
+C0227276||PC
+C1416945||LYZ
+C0072460||ErbB3
+C0038855||suppressed
+C1416945||LYZ
+C1412626||ATOH1
+C0044602||PI3K
+C0227276||PC
+C0072460||ErbB3
+C0021853||intestines
+C3178870||ER stress
+C0021368||inflammation
+C0005516||markers
+C0205160||negative
+C1327622||regulation
+C0227276||Paneth cells
+C0072460||ErbB3
+C0019868||homeostasis
+C0072460||ErbB3
+C0227276||PC
+C0044602||PI3K
+C0038855||suppression
+C1412626||Atoh1
+C0227276||PC
+C0007589||differentiation
+C0007613||regulation
+C2350292||ISC niche

@@ -1,0 +1,46 @@
+C0019994||hospital
+C4041524||geriatrics services
+C0001737||Africa
+C0019994||University of Benin Teaching Hospital
+C0017469||geriatrics
+C0086388||healthcare
+C0001792||elderly
+C0028075||Nigerian
+C0019994||hospitals
+C0001792||older adults
+C0086388||healthcare
+C0557829||health services
+C0001792||elderly
+C0001737||Africa
+C0028075||Nigeria
+C1257890||population
+C0018704||healthcare facility
+C1704289||services
+C0001792||elderly
+C0019994||University of Benin Teaching Hospital
+C0019994||University of Benin Teaching Hospital
+C0028075||Nigeria
+C0017469||geriatrics
+C0086390||trained interdisciplinary teams
+C0557829||healthcare services
+C0001792||elderly
+C0019994||University of Benin Teaching Hospital
+C0017469||geriatrics
+C0018747||health services
+C0001792||older adults
+C0017469||geriatrics
+C0557570||healthcare staff
+C1704289||services
+C0017469||geriatrics unit
+C0086390||interdisciplinary team
+C0086343||practice
+C2347958||residents
+C0401975||house officers
+C0013227||internal medicine
+C0013216||pharmacotherapy
+C2585718||geriatric assessment tools
+C4041524||geriatric services
+C0086343||practices
+C1514880||infrastructure
+C0557829||services
+C0001737||Africa

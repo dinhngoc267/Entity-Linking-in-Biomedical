@@ -1,0 +1,47 @@
+C0086024||Cobalamin
+C0242606||Oxidative Stress
+C0004611||Iron-oxidizing Bacterium
+C2758310||Leptospirillum Group II CF-1
+C0995279||Leptospirillum
+C0004611||iron-oxidizing bacteria
+C0995591||phylum Nitrospira
+C0567321||sulfidic ores
+C0022023||metal ions
+C0025552||metal
+C0014406||environments
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0086024||Cobalamin
+C0042845||vitamin B12
+C0009148||cobalt
+C0076335||tetrapyrrole
+C0178555||cofactor
+C0178719||intracellular
+C0003402||antioxidant
+C0086024||cobalamin
+C0242606||oxidative stress
+C2758310||Leptospirillum group II strain CF-1
+C0681579||external supplementation
+C0086024||cobalamin
+C0178719||intracellular
+C0162772||ROSs
+C0574031||biomolecules
+C0018270||growth
+C0007620||survival of cells
+C0242606||oxidative stress
+C2346593||ferric ion
+C0020281||hydrogen peroxide
+C0008543||chromate
+C0011953||diamide
+C0995279||strain CF-1
+C0242606||oxidative stress
+C0162493||transcriptional activation
+C0017337||cbiA gene
+C0033684||CbiA
+C0086024||cobalamin
+C1721101||biosynthetic pathway
+C0086024||cobalamin
+C0030012||redox
+C0995279||Leptospirillum strain CF-1
+C0086024||cobalamin
+C0242606||oxidative stress

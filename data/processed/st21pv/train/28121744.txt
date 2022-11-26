@@ -1,0 +1,21 @@
+C0541315||Everolimus
+C0087111||Treatment
+C0018915||Pseudomyogenic Hemangioendothelioma
+C0018915||Pseudomyogenic hemangioendothelioma
+C0018915||Pseudomyogenic hemangioendothelioma
+C0282607||vascular neoplasm
+C0225317||soft tissue
+C0018915||Pseudomyogenic hemangioendothelioma
+C0013227||medications
+C0018915||Pseudomyogenic hemangioendothelioma
+C0521982||responded to treatment
+C0541315||everolimus
+C2746052||mammalian target of rapamycin inhibitor
+C0021044||Immunohistochemistry
+C1307407||mammalian target of rapamycin
+C1171362||expressed
+C0018915||Pseudomyogenic hemangioendothelioma
+C0677862||biopsy specimens
+C0018915||Pseudomyogenic hemangioendothelioma
+C0475440||tumor size
+C0087111||treatment

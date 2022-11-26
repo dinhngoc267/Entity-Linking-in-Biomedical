@@ -1,0 +1,34 @@
+C0543482||morphological
+C0599456||hawkmoth
+C0032098||plant
+C0449774||patterns
+C1705920||species
+C1522786||Pollination
+C0330090||flowers
+C2699452||long corolla tubes
+C0599456||long-tongued hawkmoths
+C0015219||co-evolution
+C2699452||corolla
+C0205125||depth
+C0330090||flowers
+C0599456||hawkmoths
+C0032098||pollinate plants
+C2698828||floral tube
+C3463932||proboscis
+C0543482||morphological
+C0678594||structure
+C0599456||hawkmoth
+C0032098||plant
+C0017446||biogeographical regions
+C0037713||South America
+C0543482||morphological
+C0543482||morphological
+C0599456||hawkmoths
+C0032098||plants
+C0543482||morphological
+C0017446||biogeographical areas
+C0015219||co-evolution
+C0015219||evolution
+C3463932||long proboscises
+C0330090||flower tubes
+C0543482||morphological

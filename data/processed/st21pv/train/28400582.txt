@@ -1,0 +1,48 @@
+C1511790||Detection
+C0312621||AMA-M2
+C0086418||human
+C0036087||saliva
+C0011900||diagnosis
+C1283169||monitoring
+C0008312||primary biliary cholangitis
+C0229671||Serum
+C0312621||anti-mitochondrial antibody type 2
+C0312621||AMA-M2
+C0005516||biomarker
+C0011900||diagnosis
+C0008312||primary biliary cholangitis
+C0008312||primary biliary cholangitis
+C0036743||serological tests
+C0582147||infection risks
+C0449445||approach
+C0442726||detect
+C1446191||AMA-M2 titer
+C0036087||salivary
+C0312621||AMA-M2
+C0008312||primary biliary cholangitis
+C0312621||AMA-M2
+C0442726||detected
+C0036087||saliva
+C0229671||serum
+C4021051||AMA-M2-positive
+C0008312||primary biliary cholangitis
+C0036087||saliva
+C0229671||serum
+C0853205||AMA-M2-negative
+C0008312||primary biliary cholangitis
+C0206139||oral lichen planus
+C0206139||oral lichen planus patients
+C0036087||salivary
+C0312621||AMA-M2
+C0229671||serum
+C0312621||AMA-M2
+C0036087||salivary
+C0079189||inflammatory cytokines
+C0008312||primary biliary cholangitis
+C0229671||serum
+C0022885||test
+C0036087||saliva
+C2825862||AMA-M2 levels
+C0011900||diagnosis
+C1283169||monitoring
+C0008312||primary biliary cholangitis

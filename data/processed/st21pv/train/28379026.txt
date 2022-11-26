@@ -1,0 +1,36 @@
+C0005437||Bilirubin
+C0004153||atherosclerotic
+C0012634||diseases
+C0005437||Bilirubin
+C1157876||heme catabolism
+C0229671||serum
+C0032105||plasma
+C0005437||bilirubin
+C0311392||sign
+C0023895||liver disease
+C0005437||bilirubin
+C0242606||oxidative stress
+C0012634||diseases
+C0004153||atherosclerotic
+C0005437||bilirubin
+C0008972||clinical study
+C0010068||coronary heart disease
+C0229671||serum
+C0005437||bilirubin
+C0005437||bilirubin
+C0035648||risk factor
+C0004153||atherosclerotic
+C0012634||diseases
+C0035648||risk factors
+C2603343||studies
+C0020433||hyperbilirubinemia
+C0017551||Gilbert syndrome
+C0010068||coronary heart
+C0085096||peripheral vascular disease
+C0229671||serum
+C0005437||bilirubin
+C0005516||biomarker
+C0012634||diseases
+C0004153||atherosclerosis
+C1704259||biological pathways
+C0005437||bilirubin

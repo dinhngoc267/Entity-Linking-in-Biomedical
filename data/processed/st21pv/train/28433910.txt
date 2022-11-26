@@ -1,0 +1,43 @@
+C0075429||Succinic acid
+C0282542||immobilized
+C0007585||cultures
+C0015852||fermentation
+C0010454||Spent sulphite liquor
+C0010454||Spent sulphite liquor
+C0007009||carbon
+C0449416||source
+C0075429||succinic acid
+C0282542||immobilized
+C0007585||cultures
+C1026661||Actinobacillus succinogenes
+C3716734||Basfia succiniciproducens
+C0102137||alginate
+C3179109||Fed-batch immobilized cultures
+C1026661||A. succinogenes
+C0102137||alginates
+C0242209||sugar
+C0075429||succinic acid
+C0282542||immobilized
+C0007585||cultures
+C0075429||succinic acid
+C3179109||fed-batch
+C0282542||immobilized
+C0007585||cultures
+C3716734||B. succiniciproducens
+C0102137||alginates
+C1026661||A. succinogenes
+C0282542||immobilized
+C0007585||cultures
+C0015852||fermentation
+C0282542||Immobilized
+C0007585||cultures
+C3716734||B. succiniciproducens
+C0102137||alginate
+C3179109||sequential fed-batch
+C0015852||fermentations
+C0010454||filtrated SSL
+C0075429||succinic acid
+C0282542||immobilized
+C0007585||cultures
+C0075429||succinic acid
+C0007585||free cell cultures

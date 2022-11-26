@@ -1,0 +1,70 @@
+C0004611||Endofungal Bacterium
+C0085472||Rhizobium radiobacter
+C0085472||Agrobacterium tumefaciens
+C1025512||Piriformospora indica
+C1665458||Sebacinalean
+C1562025||Higher Plants
+C0085472||Rhizobium radiobacter
+C0085472||Agrobacterium tumefaciens
+C3560206||Agrobacterium fabrum
+C0004611||endofungal bacterium
+C1025512||Piriformospora
+C1916017||Serendipita
+C1025512||indica
+C0004810||Basidiomycota
+C1665458||Sebacinalean
+C0032098||plants
+C0085472||R. radiobacter
+C1025512||P. indica DSM 11827
+C0018270||growth
+C1155264||systemic resistance
+C0007757||cereal
+C0242775||crops
+C0004755||barley
+C0087114||wheat
+C0085472||R. radiobacter
+C0004611||endobacteria
+C1025512||P. indica
+C0032098||plants
+C0004611||endobacteria
+C0442726||detected
+C0598869||axenically grown
+C1025512||P. indica
+C0430400||lab-cultured
+C1025512||lcPiri
+C0949695||mycelia
+C4289767||colonizing
+C0242726||plant root
+C0004611||bacteria
+C0004611||endobacteria
+C0598869||axenic cultures
+C1025512||P. indica
+C1025512||riPiri
+C0242726||plant roots
+C0598869||axenic re-cultivation
+C0087111||treatments
+C1025512||P. indica
+C0200954||cultures
+C0003232||antibiotics
+C0004611||bacterium
+C3830527||detectable
+C0004611||endobacteria
+C0243095||partial-cured
+C1025512||P. indica
+C1025512||pcPiri
+C1025512||pcPiri
+C0018270||growth
+C0598869||axenic cultures
+C2613267||sporulation
+C1025512||pcPiri
+C0597252||plant growth
+C1155264||systemic resistanc
+C0319635||powdery mildew
+C3714514||infection
+C1025512||riPiri
+C1025512||lcPiri
+C0004611||endobacterium
+C0085472||R. radiobacter
+C0184511||improves
+C1025512||P. indica's
+C1665458||Sebacinalean

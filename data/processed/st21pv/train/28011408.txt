@@ -1,0 +1,34 @@
+C0424235||fidgeting
+C0003125||anorexia nervosa
+C0596972||monitor
+C4042775||seated
+C0003125||anorexia nervosa
+C0003125||anorexia nervosa
+C0013473||eating disorder
+C0677042||pathology
+C0003467||anxiety
+C0011570||depression
+C0003125||anorexia nervosa
+C0178951||accelerometer
+C0178951||SmartShoe
+C0003125||anorexia nervosa
+C3887611||restless
+C0424235||fidgeting
+C1514241||positively correlated
+C0013473||eating disorder
+C0033927||psychopathology
+C0003125||anorexia nervosa
+C1514241||positive association
+C0011570||depression
+C0003467||anxiety
+C0237401||individuals
+C0003125||anorexia nervosa
+C1513916||not
+C1305855||BMI
+C0184666||hospital admission
+C0596972||monitor
+C0003125||anorexia nervosa
+C0424235||fidgeting
+C4042775||seated
+C0677042||pathology
+C0424235||fidgeting

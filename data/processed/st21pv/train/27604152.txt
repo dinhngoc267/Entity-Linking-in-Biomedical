@@ -1,0 +1,83 @@
+C1265292||methicillin-resistant Staphylococcus aureus
+C1764827||isolates
+C0003062||animals
+C0027978||New Zealand
+C2242741||colonisation
+C0012984||dogs
+C0007450||cats
+C1265292||methicillin-resistant Staphylococcus aureus
+C1265292||methicillin-resistant Staphylococcus aureus
+C1764827||isolates
+C0578491||infection sites
+C0003062||animals
+C0027978||New Zealand
+C2242741||MRSA colonisation
+C0012984||dogs
+C0007450||cats
+C2936717||veterinary clinics
+C1265292||methicillin-resistant Staphylococcus aureus
+C1764827||isolates
+C0027978||New Zealand
+C0022877||veterinary diagnostic laboratories
+C1522053||DNA microarray hybridisation analysis
+C0038164||spa
+C0087124||typing
+C0222095||nasal
+C0222176||perineal skin
+C0012984||dogs
+C0007450||cats
+C2936717||veterinary clinics
+C0936012||analysed
+C1265292||methicillin-resistant Staphylococcus aureus
+C2242979||culture
+C1265292||methicillin-resistant Staphylococcus aureus
+C1764827||isolates
+C0022877||laboratories
+C1764827||isolates
+C0012984||dogs
+C1764827||isolates
+C0012984||dog
+C1764827||isolate
+C0449416||source
+C1265292||AK3 (ST-5 SCCmecIV
+C1265292||USA500 (ST8 SCCmecIV
+C1265292||WSPP (ST30 SCCmecIV
+C1265292||Rhine Hesse (ST5 SCCmecII
+C1265292||EMRSA-15 (ST22 SCCmecIV
+C1265292||methicillin-resistant Staphylococcus aureus
+C1265292||Methicillin-susceptible S. aureus
+C0442726||detected
+C0038170||non-aureus staphylococci
+C1265292||methicillin-resistant Staphylococcus aureus
+C2242741||colonisation
+C0007450||cats
+C0012984||dogs
+C1265292||methicillin-resistant Staphylococcus aureus
+C1764827||isolates
+C0085973||study
+C0022877||laboratories
+C0343401||MRSA infection
+C0003062||animals
+C0027978||New Zealand
+C0086418||humans
+C0150105||non-random sampling
+C0012984||dogs
+C0007450||cats
+C4289767||colonisation
+C2242741||colonisation
+C0086418||humans
+C0027978||New Zealand
+C0014507||epidemiology
+C0003062||animal
+C0086418||human
+C0343401||MRSA infections
+C0086418||human
+C0343401||MRSA infections
+C0027978||New Zealand
+C0085973||study
+C1265292||methicillin-resistant Staphylococcus aureus
+C0003062||animals
+C0027978||New Zealand
+C0343401||MRSA infection
+C0003062||animals
+C0242856||veterinarians

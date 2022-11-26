@@ -1,0 +1,33 @@
+C3463807||patient -simulated videos
+C0282574||tutorials
+C3463807||patient -simulated videos
+C0023185||learning
+C0243095||rate of psychosocial issues
+C0243095||recall rate
+C0023185||experienced learning
+C0038492||students
+C3463807||video
+C3463807||patient -simulated videos
+C0243095||achievement rates
+C0034394||questionnaires
+C0871608||Wilcoxon signed-rank test
+C0016441||follow-up
+C0038951||survey
+C0008041||chi-square test
+C0038492||students
+C0683312||categories
+C3463807||video
+C3463807||Video
+C0243095||achievement rates
+C0243095||rate of psychological codes
+C0016441||follow-up
+C0038951||survey
+C3463807||video
+C3463807||video
+C3463807||video
+C3463807||Patient -simulated videos
+C0025260||memory
+C3463807||patient -simulated video
+C0282574||problem-based tutorials
+C3463807||patient -simulated videos
+C1457887||symptom

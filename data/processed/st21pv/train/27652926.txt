@@ -1,0 +1,49 @@
+C1286385||performance
+C0679924||professional profile
+C0018747||Hearing Health Network
+C1561577||reference
+C0242428||satisfaction
+C0936012||analyze
+C0022397||satisfaction
+C0679924||professionals
+C0018747||Hearing Health Care network
+C0205147||regions
+C1286385||work performance
+C0018747||health service
+C0010362||cross-sectional
+C1518527||observational
+C4288587||non-probabilistic sample
+C0679924||professionals
+C0018747||Hearing Health Care services
+C0010995||Data collection
+C0237401||individual
+C0600182||municipality
+C0022397||Professional Satisfaction
+C0681841||explanatory
+C0679924||Professionals
+C4084799||satisfied
+C0162791||human resources policy
+C0086388||health
+C0401892||civil servants
+C0242428||satisfaction
+C0242456||policy
+C0010101||correlation analysis
+C0022397||satisfaction
+C1514241||positive
+C0018738||Health Promotion
+C0022397||Satisfaction
+C0524922||Diagnostic Equipment
+C0022397||Satisfaction
+C2603343||study
+C0022397||satisfaction
+C0162791||human resources policy
+C0401892||civil servants
+C0242456||policy
+C2603343||study
+C1704312||health professionals
+C0018747||Health Care Network
+C2603343||study
+C0022397||satisfaction
+C4084799||satisfied
+C0184511||improve
+C1286385||performance

@@ -1,0 +1,52 @@
+C2350567||Knocking down
+C1420645||TCF8
+C0860803||high glucose
+C0003009||angiotensin II
+C1523298||epithelial to mesenchymal transition
+C1328818||podocytes
+C1523298||Epithelial to mesenchymal transition
+C1523298||Epithelial to mesenchymal transition
+C2350828||physiological phenomenon
+C0024660||mammalian
+C0013936||embryogenesis
+C0014597||epithelial cells
+C1257975||mesenchymal stem cells
+C1523298||Epithelial to mesenchymal transition
+C3816499||pathogenic
+C0013936||embryonic development
+C0027627||tumor metastasis
+C1523298||Epithelial to mesenchymal transition
+C0151650||renal fibrosis
+C0017725||glucose
+C0003009||angiotensin II
+C1523298||Epithelial to mesenchymal transition
+C1328818||podocytes
+C1521816||cellular morphology
+C1328818||podocytes
+C0017725||glucose
+C0003009||angiotensin II
+C1328818||podocyte
+C1621968||movement
+C1622501||migration
+C0017725||glucose
+C0003009||angiotensin II
+C1420645||TCF8
+C0017262||expression
+C1420645||TCF8
+C0017262||expression
+C1099354||siRNA
+C1523298||Epithelial to mesenchymal transition
+C1328818||podocytes
+C0017725||glucose
+C0003018||angiotensin
+C1420645||TCF8
+C0017262||expression
+C1521816||cellular morphology
+C1328818||podocyte
+C1621968||movement
+C1622501||migration
+C0017725||glucose
+C0003009||angiotensin II
+C1523298||Epithelial to mesenchymal transition
+C1328818||podocytes
+C1420645||TCF8

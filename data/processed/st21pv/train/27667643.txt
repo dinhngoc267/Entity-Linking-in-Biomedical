@@ -1,0 +1,28 @@
+C1512347||Yarn
+C1512347||clinical yarning
+C0871685||clinician
+C0086388||health care
+C0009818||clinical consultation
+C0017319||practitioners
+C0031831||doctors
+C0028661||nurses
+C0002122||allied health professionals
+C0033213||problematic
+C0086388||health care
+C0282574||overarching framework
+C0017319||practitioners
+C1512347||clinical yarning
+C1512347||Clinical yarning
+C1879848||biomedical
+C1512347||Clinical yarning
+C1512347||yarn
+C0017319||practitioner
+C1512347||yarn
+C0017319||practitioner
+C1879848||biomedical
+C0947630||scientific lens
+C1512347||yarn
+C0243095||health issue
+C0242481||research
+C1512347||Clinical yarning
+C0017319||practitioners

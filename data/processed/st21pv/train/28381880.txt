@@ -1,0 +1,49 @@
+C0014442||20S immunoproteasomes
+C0016564||formaldehyde
+C1333198||cytoplasmic proteins
+C3820502||caspase-independent cell death
+C0014442||Immunoproteasomes
+C0206431||antigen presentation
+C0332464||broad
+C0040300||tissue
+C0150312||presence
+C0031843||nonimmune functions
+C0014442||immunoproteasomes
+C1817908||cellular responses
+C0007091||environmental carcinogen
+C0016564||formaldehyde
+C0016564||formaldehyde
+C1383501||cytosolic
+C0028589||nuclear proteins
+C0449430||proteotoxic stress
+C0012854||DNA
+C0019652||histone
+C0014442||immunoproteasomes
+C3820502||caspase-independent cell death
+C0007634||FA-treated cells
+C0016564||formaldehyde
+C1511692||replication inhibition
+C0080055||transcription factor p53
+C0205111||apical
+C3711796||ATM
+C3711837||ATR kinases
+C0014442||immunoproteasome
+C1383501||cytosolic
+C0033684||protein
+C0121235||sensor HSF1
+C3820607||K48-polyubiquitinated
+C1333198||cytoplasmic proteins
+C0041538||ubiquitin
+C0016564||formaldehyde
+C0014442||26S immunoproteasomes
+C0286330||26S proteasomes
+C0014442||20S catalytic immunoproteasome
+C0007634||FA-treated cells
+C0753808||activators PA28αβ
+C0893173||PA28γ
+C0014442||20S particles
+C0016564||formaldehyde
+C0014442||immunoproteasomes
+C1333198||cytoplasmic proteins
+C0041538||ubiquitin
+C0597304||proteolysis

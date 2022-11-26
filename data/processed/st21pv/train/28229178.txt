@@ -1,0 +1,58 @@
+C0026605||motivational
+C0035397||rewards
+C1707825||withdrawal
+C0026549||morphine
+C0178417||anhedonia
+C0562443||maladaptive behaviors
+C0035397||rewards
+C0178417||anhedonia
+C0086190||abused drugs
+C0026605||motivational
+C0556446||drug craving
+C0178417||anhedonia
+C0178417||anhedonia
+C1707825||withdrawal
+C0035397||rewards
+C1707825||withdrawal
+C0026549||morphine
+C0034693||rats
+C0026549||morphine
+C0199797||saline injection
+C0026605||motivational
+C0035397||rewards
+C0038636||sucrose solutions
+C0034693||rat
+C0014948||estrous
+C0034693||rat
+C0026549||morphine
+C1707825||withdrawn
+C0034693||rats
+C0038636||sucrose solution
+C0009651||operant responding
+C0038636||sucrose solution
+C0016504||foot
+C0013870||shock
+C0035008||PR-punishment schedule
+C0026549||morphine
+C1707825||withdrawn
+C0034693||rats
+C0038636||sucrose solution
+C0026549||morphine
+C1707825||withdrawn
+C0034693||rats
+C0026605||motivation
+C0683444||conflict-based approach test
+C0035397||reward
+C1513916||No
+C0178417||anhedonia
+C0035397||rewards
+C0026549||morphine
+C1707825||withdrawal
+C0026549||morphine
+C1707825||withdrawn
+C0034693||rats
+C0026605||motivated
+C0035397||rewards
+C0038636||sucrose
+C0026549||morphine
+C0034693||rats

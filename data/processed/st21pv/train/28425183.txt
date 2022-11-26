@@ -1,0 +1,41 @@
+C3267174||glycemic control,
+C1521910||teens
+C0011854||type 1 diabetes
+C0010362||cross-sectional study
+C1521910||teens
+C0011854||type 1 diabetes
+C0948092||diabetes management
+C1521910||teens
+C1707357||Checklist
+C1521910||teens
+C1521910||Teens
+C0011847||diabetes
+C0600564||self-efficacy
+C0011847||diabetes
+C0233542||family conflict
+C0541653||chart review
+C0011287||demographics
+C0948092||diabetes management
+C1521910||teen
+C0019993||Hospitalization
+C0243095||Getting a bad report card
+C0221423||Serious illness
+C3263722||injury
+C1521910||teens
+C1521910||teens
+C0542560||college degree
+C1521910||Teen
+C1521910||teen
+C0600564||self-efficacy
+C1521910||teen
+C1521910||teen
+C0233542||conflict
+C1521910||teen
+C1521910||teens
+C3161035||multivariate model
+C0948092||diabetes management
+C0019018||A1c
+C3274787||diabetes care
+C0019018||A1c
+C1521910||teens
+C0011854||type 1 diabetes

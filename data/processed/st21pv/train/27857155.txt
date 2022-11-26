@@ -1,0 +1,57 @@
+C0079366||Fluorescence-
+C0599662||magnetic-activated cell sorting
+C0037868||spermatozoa
+C1257890||contributors
+C0242954||human identification
+C0037868||sperm cells
+C0025266||men
+C0237236||sexual assault
+C0599662||MACS
+C0079366||FACS
+C0220862||isolate
+C0013018||donor
+C0037868||sperm cells
+C0043210||female
+C0042232||vaginal
+C0014597||epithelial cells
+C0037868||sperm cells
+C1257890||contributors
+C0037868||Sperms
+C0599662||MACS
+C0085216||FITC
+C1309095||A kinase anchor protein 3
+C1309095||A kinase anchor protein 3
+C0003241||antibody
+C0237401||target individual
+C0037868||sperm cells
+C0013018||donors
+C0079366||FACS
+C0085216||FITC
+C0302043||blood group A/B antigen
+C0003241||antibody
+C0562577||mock
+C0237236||sexual assault
+C0179660||practical casework
+C0013018||donor
+C1519302||STR profiles
+C0037868||sperm
+C0014597||epithelial cell
+C0037868||sperm
+C1257890||contributors
+C0037868||sperm
+C0014597||epithelial cells
+C0037868||sperm cells
+C2939170||target cells
+C0442726||detected
+C0007584||cell number
+C1383165||blood types
+C0237401||individuals
+C0200898||forensic DNA analysis
+C0237236||sexual assault
+C0079366||FACS
+C0599662||MACS
+C0037868||sperm
+C1309095||A kinase anchor protein 3
+C0003320||antigen
+C0086418||human
+C0701817||blood type antigen

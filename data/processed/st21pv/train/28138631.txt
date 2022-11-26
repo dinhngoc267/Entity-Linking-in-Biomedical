@@ -1,0 +1,11 @@
+C0030274||Pancreatic
+C0494165||liver metastases
+C0346989||multiple peritoneal metastases
+C0030274||Pancreatic
+C0030297||pancreatic tumor
+C0150312||found
+C0023884||liver
+C0494165||liver metastasis
+C0854198||multiple abdominal metastases
+C0376636||management
+C0027651||tumor

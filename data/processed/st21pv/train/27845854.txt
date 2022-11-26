@@ -1,0 +1,42 @@
+C0205145||On-Site
+C1171194||Fertility Preservation Services
+C1708333||Comprehensive Cancer Center
+C0920425||cancer treatments
+C0021359||impair fertility
+C0010210||counseling
+C1171162||risk of infertility
+C1171194||fertility preservation
+C1171194||fertility preservation
+C0087111||treatment
+C0018017||objective
+C1257890||population
+C0009818||on-site fertility consultation service
+C1708333||comprehensive cancer center
+C3839343||FP treatment
+C0035363||retrospective chart review
+C0043210||women
+C0009818||consultation
+C0018747||MD Anderson Fertility Preservation and Family Building Service
+C0025102||Records
+C0015031||ethnicity
+C0600457||gravidity
+C0030563||parity
+C3839343||FP treatment
+C0043157||Caucasian
+C0086409||Hispanic
+C0085756||African American
+C0043210||women
+C1171194||fertility preservation
+C0920425||cancer treatment
+C0009861||family building
+C0376545||hematologic
+C0678222||breast
+C0699889||gynecologic
+C0009818||on-site fertility consultation service
+C0087111||treatment
+C0920425||pre- and postcancer treatment
+C0034927||referral
+C0043157||Caucasian
+C0043210||women
+C3839343||FP treatment
+C0043210||women

@@ -1,0 +1,39 @@
+C0396819||Coronary Ligation
+C0027054||Reperfusion
+C0035126||Reperfusion Injury
+C2603343||Study
+C0034721||Rat
+C0035126||Reperfusion injury
+C0035126||Reperfusion injury
+C3854082||prognosis
+C1522318||coronary
+C0232338||blood flow
+C2603343||studies
+C0151814||coronary occlusion
+C0027054||reperfusion
+C0035126||Reperfusion injury
+C0034721||rats
+C0396819||coronary ligation
+C0027054||reperfusion
+C0003062||animals
+C0542547||protocols
+C0023690||ligation
+C0027054||reperfusion
+C0015205||Evans blue
+C0146883||2,3,5-triphenyltetrazolium chloride
+C0205146||areas
+C0205146||area
+C0205146||area at risk
+C1442837||myocardial necrosis
+C0027540||necrotic
+C0205146||area
+C0205146||area at risk
+C0018787||heart
+C0035126||Reperfusion injury
+C0027054||reperfusion
+C0023690||ligation
+C0035126||Reperfusion injury
+C0035126||Reperfusion injury
+C0035126||Reperfusion injury
+C0035124||RI therapies
+C0012644||experimental rat model

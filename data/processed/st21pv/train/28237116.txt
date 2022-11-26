@@ -1,0 +1,38 @@
+C0025663||Methods
+C2603343||Study
+C0004391||Autophagy
+C0043457||Zebrafish
+C0004391||Autophagy
+C0004391||cellular self-eating
+C0314674||degradation process
+C0015161||eukaryotic cell
+C0010834||cytoplasm
+C0221102||elimination
+C0243092||cellular constituents
+C1148560||macromolecular
+C2244223||cellular homeostasis
+C0004391||autophagy
+C1325880||cellular
+C0678723||developmental processes
+C0314674||degrading
+C0815047||regulatory proteins
+C0178719||intracellular
+C0004391||autophagy
+C0684063||eukaryotic
+C0043393||yeast
+C0026809||mice
+C0599779||animal model
+C0004391||autophagy
+C0043457||zebrafish
+C0043457||Danio rerio
+C0936012||analysis
+C3714634||biological processes
+C1623047||tissue regeneration
+C0243092||autophagic structures
+C0005507||assay
+C0007613||autophagic responses
+C0042567||vertebrate organism
+C0017395||genetic (functional) approaches
+C1325880||cellular
+C0678723||developmental roles
+C0004391||autophagic process

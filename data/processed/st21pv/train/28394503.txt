@@ -1,0 +1,37 @@
+C0036576||selection
+C0036449||local score approach
+C0282579||Detecting genomic footprints
+C0036576||selection
+C0015219||evolution
+C1511790||detection
+C1509144||pool-sequenced samples
+C0036449||local score approach
+C0036576||selection
+C0037080||signals
+C0017393||markers
+C0036576||selection
+C0037080||signal
+C0442726||detects
+C0036576||selection
+C0017393||single-marker
+C0150098||data sets
+C0036449||local score
+C0036449||local score approach
+C0282574||Pool-Seq data
+C0036576||selection
+C0681814||experiment
+C0034374||quail
+C0036576||selection
+C0037080||signals
+C0036576||selection
+C0442726||detects
+C0017337||genes
+C4314654||autistic traits
+C0442726||detection
+C1446409||positive
+C0036576||selection
+C0282574||multiple population data
+C0036449||local score approach
+C0036576||selection
+C2350277||genomewide analyses
+C2350277||GWAS

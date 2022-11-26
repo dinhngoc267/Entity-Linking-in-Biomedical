@@ -1,0 +1,53 @@
+C1858460||maternal
+C0020295||hydronephrosis
+C0016199||flank pain
+C0032961||pregnancy
+C0033522||prospective
+C0031928||pilot-study
+C1858460||Maternal
+C0020295||hydronephrosis
+C0016199||flank pain
+C0032961||pregnancy
+C1858460||maternal
+C0020295||hydronephrosis
+C0016199||flank pain
+C1320357||intensity
+C0043210||women
+C0032961||singleton pregnancies
+C0016199||flank pain
+C0033522||prospectively
+C0220825||evaluated
+C0022646||renal
+C0041618||ultrasonography
+C0030193||pain
+C0034394||questionnaires
+C0042815||visual analogue scale
+C1320357||pain intensity
+C2603343||study
+C0020295||hydronephrosis
+C0016199||flank pain
+C1710141||Spearman's test
+C0043210||women
+C0443246||left-sided
+C0444532||right-sided
+C0238767||bilateral
+C0030193||pain
+C0043210||women
+C0030193||pain
+C0009818||consultation
+C0043210||women
+C0020295||hydronephrosis
+C0022646||renal
+C0020295||hydronephrosis
+C1320357||pain intensity
+C0043210||Women
+C0020295||Hydronephrosis
+C0243095||finding
+C0033011||pregnant women
+C0016199||flank pain
+C0020295||hydronephrosis
+C1320357||pain intensity
+C2603343||study
+C0232989||normal pregnancy
+C0032972||outcomes
+C0043210||women

@@ -1,0 +1,46 @@
+C0021107||insertion
+C1299426||sheath
+C0179695||introducer
+C0221799||sheathless guiding catheter
+C0441587||inserts
+C0179724||catheter
+C0003842||artery
+C0230992||site
+C0274317||complications
+C4086674||outer diameter
+C3887622||gap
+C0180431||dilator
+C0221799||guiding catheter
+C3887622||gap
+C0180431||dilator
+C1299426||sheath
+C0179695||introducer system
+C0021107||insertion
+C0025080||device
+C0021107||insertion
+C0021107||insertion
+C3887622||gap
+C0456389||size
+C0021107||insertion
+C0021107||insertion
+C0183309||simulator
+C0021107||insertion
+C1299426||5-Fr sheath
+C0179695||introducer
+C0021107||insertion
+C0183309||simulator
+C1299426||sheath
+C0179695||introducer
+C0562577||mock
+C0003842||artery
+C0021107||Insertion
+C1706378||tension meter
+C0021107||insertion
+C1299426||5-Fr sheath
+C0179695||introducer
+C0179724||sheathed
+C0179724||sheathless catheters
+C0021107||insertion
+C0221799||sheathless guiding catheter
+C0230992||site
+C0274317||complications

@@ -1,0 +1,40 @@
+C0033684||Heteroprotein
+C1704241||Complex
+C1440867||Bovine Lactoferrin
+C1875400||Isolate
+C0022942||lactoferrin
+C0022942||lactoferrin
+C1875400||isolate
+C0078228||vicilin
+C0064738||legumin
+C0056265||convicilin
+C2603343||studied
+C0022942||lactoferrin
+C1822393||room temperature
+C0678594||Structural
+C1704241||complexes
+C1882368||dynamic light scattering
+C2700094||turbidity measurements
+C0242849||atomic force microscopy
+C0242849||atomic force microscopy
+C0456984||results
+C1704241||complexation
+C0022942||lactoferrin
+C1304698||liquid
+C1704241||complex
+C0007703||centrifugation
+C0022942||lactoferrin
+C0332501||spherical
+C0456389||size
+C0037775||distribution
+C0242849||atomic force microscopy
+C0200765||image analysis
+C0456389||size
+C0037775||distributions
+C0456389||sizes
+C0332501||spherical
+C1947977||elliptical shapes
+C0678594||structures
+C1704241||complexes
+C0022942||lactoferrin
+C1704241||complexes

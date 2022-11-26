@@ -1,0 +1,42 @@
+C0085532||coronary angiography
+C0040405||third-generation dual-source CT
+C1634617||coronary CT angiography
+C1634617||CT angiography
+C0522051||acute
+C1740831||chronic chest pain
+C0018810||heart rate
+C0003811||arrhythmia
+C0028756||severe obesity
+C0040405||third-generation dual-source CT
+C0040405||dual-source CT
+C1634617||CT angiography
+C1305855||BMI
+C0025266||male
+C1634617||CT angiography
+C0040405||dual-source CT
+C0936012||retrospective single-center analysis
+C0150098||contrast-enhanced volume dataset
+C0441633||sequential
+C0441633||SSM
+C0441633||helical scan mode
+C0441633||helical scan mode
+C1283333||Coronary segments
+C0002971||invasive angiography
+C1634617||CT angiography
+C0441633||SSM
+C0441633||helical scan mode
+C0441633||SSM
+C0441633||helical scan mode
+C0441633||SSM
+C0441633||SSM
+C0441633||helical scan mode
+C0441633||SSM
+C0441633||helical scan mode
+C0599755||age
+C1305855||BMI
+C0599755||cohorts
+C0441633||SSM
+C0040405||third-generation DSCT
+C0018810||heart rate
+C0232187||heart rhythm
+C0028754||obesity

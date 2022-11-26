@@ -1,0 +1,13 @@
+C0017526||Giant
+C0008298||Antrochoanal Polyp
+C0008298||Antrochoanal polyp
+C0008298||Antrochoanal polyp
+C0008298||Killian polyp
+C0221198||benign lesion
+C0024947||maxillary
+C0008298||antrochoanal polyp
+C0456482||lateral nasal wall
+C0225401||middle meatus
+C1549092||antrum
+C0686912||dumbbell
+C0033213||problem

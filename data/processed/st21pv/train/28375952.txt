@@ -1,0 +1,11 @@
+C0243095||Interprofessional Barriers
+C0028661||Nurses
+C0031831||Physicians
+C0243095||interprofessional barriers
+C0028661||nurses
+C0031831||physicians
+C0028661||nurses
+C0031831||physicians
+C0018260||interviewed
+C0019994||hospitals
+C0038995||Sweden

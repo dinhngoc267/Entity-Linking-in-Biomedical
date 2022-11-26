@@ -1,0 +1,49 @@
+C0019682||HIV
+C2986593||tailored
+C0010210||counselling
+C0031928||pilot
+C0184661||intervention
+C0086132||depressive symptoms
+C1278444||Nicotine Replacement Therapy
+C0007222||Cardiovascular disease
+C0007222||Cardiovascular disease
+C0027361||people
+C0007222||Cardiovascular disease
+C0683971||general population
+C0011570||depression
+C0035648||risk factor
+C0031928||pilot study
+C0332128||examined
+C2986593||tailored
+C0010210||counselling programme
+C0011570||depression
+C1278444||Nicotine Replacement Therapy
+C1278444||Nicotine Replacement Therapy
+C0599755||cohort
+C0337664||smokers
+C1522577||follow-up
+C0679646||participants
+C2825142||result
+C0184661||intervention
+C0008972||studies
+C0019699||HIV+
+C0337664||smokers
+C0011570||depression
+C0008972||study
+C0019699||HIV+
+C0337664||smokers
+C0011570||depression
+C0679604||Centre for Epidemiological Studies - Depression (CES-D) scale
+C0019699||HIV+
+C0337664||smokers
+C0011570||depression
+C0008972||study
+C0011570||depression
+C1522577||follow-up
+C0011570||depression
+C0011570||depression
+C0010210||counselling programme
+C0031928||pilot study
+C2986593||tailored programmes
+C0086132||depressive symptoms
+C2986593||tailored counselling programmes

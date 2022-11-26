@@ -1,0 +1,36 @@
+C2611271||Assembly of the outermost spore layer
+C0014248||endospore-forming soil dwelling bacteria
+C0086418||human
+C0003062||animal
+C0021585||insect
+C0243092||outer layer
+C1623474||exosporium
+C1623474||exosporium
+C0014406||environment
+C0439663||infected
+C3714514||infection
+C0486616||composition
+C2611271||assembly process of the exosporium
+C1623474||exosporium
+C0678594||structure
+C0449719||parts
+C0004627||proteins
+C1623474||exosporium
+C0033684||proteins
+C2611271||assembled to create the exosporium
+C0025952||Molecular Microbiology
+C0022877||laboratory
+C0033684||ExsY protein
+C0582263||structural protein
+C1623474||exosporium basal layer
+C0004590||B. cereus family
+C0678594||structures
+C0678594||structural
+C1623474||exosporium basal layer
+C3812881||authors
+C3161035||model
+C2611271||exosporium assembly
+C0243095||findings
+C1623474||exosporium
+C0014248||spore forming bacteria
+C1264830||Clostridium species

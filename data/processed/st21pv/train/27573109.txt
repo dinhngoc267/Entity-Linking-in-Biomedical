@@ -1,0 +1,30 @@
+C1705920||species
+C4042839||seed bank
+C0871648||habitat
+C4289767||colonize
+C0017446||geographically
+C0443203||distant
+C0014406||environments
+C3537372||16S rRNA
+C0162326||gene sequences
+C0004167||Atlantic
+C0936012||Analysing
+C0162326||sequences
+C3537372||16S rRNA
+C0017337||genes
+C1708235||genera
+C0243095||exclusiveness
+C0243095||artefact
+C1294197||sequencing
+C0243095||findings
+C1704326||role
+C4042839||seed bank
+C0243095||predicament
+C1705920||species
+C1517001||expected
+C1299581||able
+C4289767||colonize
+C0017446||geographically
+C0443203||distant
+C0871648||habitats
+C0162340||understanding

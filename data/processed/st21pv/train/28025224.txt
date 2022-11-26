@@ -1,0 +1,47 @@
+C0004611||Bacteria
+C1005241||Hoverflies
+C0012578||Diptera
+C1005241||Syrphidae
+C0927234||Tree Hollows
+C0021585||Saproxylic insect communities
+C0337646||inhabiting
+C0927234||tree hollows
+C1705920||community member species
+C0021585||saproxylic insects
+C0871648||microhabitats
+C0927234||tree hollows
+C3457247||Quercus rotundifolia Lamark
+C0242724||dead leaves
+C0023047||larvae
+C3900907||Mallota dusmeti
+C0012578||Diptera
+C1005241||Syrphidae
+C1705920||vulnerable species
+C0683312||IUCN category
+C0027361||Marcos-García
+C0027361||Quinto
+C0337646||living inside
+C0699819||gut
+C0023047||larvae
+C3900907||M. dusmeti
+C0332484||hollow
+C0023047||larvae
+C0243107||develop
+C0004611||Bacteria
+C0004793||nucleotide sequence
+C3537372||16S rRNA genes
+C0004611||species of bacteria
+C0337646||living in
+C0927234||tree hollows
+C1705920||species
+C0699819||in the gut
+C3900907||M. dusmeti
+C0023047||larvae
+C0004590||Bacillus cereus
+C3715367||Bacillus toyonensis
+C0314884||Lysinibacillus sphaericus
+C0243095||filter-feeding mechanism characteristic
+C3900907||M. dusmeti
+C0023047||larvae
+C0232478||ingestion
+C0004611||bacteria

@@ -1,0 +1,30 @@
+C0019638||histology
+C0005684||bladder cancer
+C0194401||radical cystectomy
+C0194401||radical cystectomy
+C0194401||radical cystectomy
+C0005684||bladder cancer
+C0005684||bladder cancer
+C0220825||evaluated
+C0005684||bladder cancer
+C0194401||radical cystectomy
+C0587437||single tertiary care referral center
+C0220825||evaluated
+C1522486||uropathologists
+C0034980||Univariable and multivariable Cox regression analyses
+C0751571||pure urothelial BCa
+C0205697||sarcomatoid
+C0334254||lymphoepitelial
+C0262584||small cell
+C0007137||squamous
+C3472608||micropapillary
+C0205854||glandular
+C1522577||follow-up
+C0034980||multivariable Cox regression analyses
+C0262584||small cell variant
+C0751571||urothelial cancer
+C0194401||radical cystectomy
+C1708333||single-center series
+C0262584||small cell variant
+C0205160||negative
+C0194401||radical cystectomy

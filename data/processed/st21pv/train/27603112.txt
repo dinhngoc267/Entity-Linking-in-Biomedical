@@ -1,0 +1,56 @@
+C0599786||Pollutants
+C0574031||Biomolecules
+C0679083||Simulation Study
+C2700280||world
+C0003062||animals
+C0476463||found dead
+C0184532||dying
+C1457887||symptoms
+C0039841||thiamine
+C0042850||(vitamin B) deficiency
+C0599786||pollutants
+C0220825||investigate
+C0574031||biomolecules
+C1523455||thiamin binding
+C1159805||transport
+C0599786||pollutants
+C1522290||docking
+C0574031||compound
+C0456387||classes
+C0574031||compounds
+C4082486||prion protein
+C3158987||ECF-type ABC transporter
+C2936590||thi-box riboswitch receptor
+C0039850||thiamin pyrophosphokinase
+C0033684||YKoF protein
+C1704241||complexes
+C0574031||compound
+C0456387||classes
+C0039840||thiamin
+C0002776||analogues
+C0031253||pesticides
+C0013227||medicines
+C0032447||polychlorinated biphenyls
+C0012503||dioxins
+C0014406||environment
+C0574031||compounds
+C1167622||bind
+C3158987||ECF-type ABC transporter
+C0243095||none binds stably
+C4082486||prion protein
+C2936590||riboswitch
+C0574031||compounds
+C0035668||RNA
+C0005456||binding site
+C0033684||YKoF
+C0039850||thiamin pyrophosphokinase
+C0039850||thiamin pyrophosphokinase
+C0574031||compounds
+C0039850||thiamin pyrophosphokinase
+C0574031||biomolecules
+C0599786||pollutant
+C0301641||conformational changes
+C0574031||compounds
+C2603343||study
+C0574031||biological entities
+C0599786||pollutant molecules

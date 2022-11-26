@@ -1,0 +1,41 @@
+C0019704||HIV-1
+C0439784||backward
+C0013203||transmitted drug-resistant
+C1963724||antiretroviral therapy
+C0019704||human immunodeficiency virus
+C0019704||HIV-1
+C2363741||infected
+C0013203||transmitted drug resistance
+C0019704||HIV-1
+C0013203||drug-resistant
+C1883559||wild-type
+C0013203||drug-resistant
+C2363741||HIV-1 infection
+C1883559||wild-type
+C1836231||HIV-1 resistant
+C0026882||mutations
+C1883559||wild-type
+C0439784||backward
+C0026882||mutation
+C0019704||HIV-1
+C0026882||mutation
+C0439784||backward
+C0026882||mutational
+C0019704||HIV-1
+C0013203||drug resistance
+C0237401||individuals
+C0439663||infected
+C0019704||HIV-1
+C0013203||drug resistance
+C0026882||mutations
+C0679083||simulations
+C1516606||clinical data
+C0026882||mutation
+C0026882||mutations
+C0439784||backward
+C0456387||classes
+C0033607||protease inhibitors
+C0026882||mutations
+C0439784||backward
+C0026882||mutation
+C0456387||classes

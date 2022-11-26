@@ -1,0 +1,12 @@
+C2985290||fetal alcohol spectrum disorder
+C0001967||Alcohol
+C0032961||pregnancy
+C0008073||developmental disabilities
+C0220810||birth defects
+C0005615||born
+C3146244||alcohol-related damage
+C0043237||World Health Organization
+C2985290||Fetal alcohol spectrum disorders
+C2985290||Fetal alcohol spectrum disorders
+C0004352||autism
+C0011900||diagnosed

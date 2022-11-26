@@ -1,0 +1,59 @@
+C0004358||agonistic autoantibodies
+C0529330||type-1 angiotensin II receptor
+C0699748||pathogenesis
+C0035309||retinopathy
+C0032914||preeclampsia
+C0021054||AT1-AA
+C0035309||retinopathy
+C0032914||preeclampsia
+C0021054||AT1-AA
+C0032105||plasma
+C0043210||women
+C0341950||severe preeclampsia
+C0033011||pregnant women
+C0021054||AT1-AA
+C0035309||retinopathy
+C0032914||preeclampsia
+C0034721||rat
+C0887965||model
+C0021054||AT1-AA
+C0032105||plasma
+C0341950||severe preeclampsia
+C0032105||plasma
+C0021054||AT1-AA
+C0043210||women
+C0341950||severe preeclampsia
+C0033011||pregnant women
+C0003241||antibody
+C0032914||preeclampsia
+C0035309||retinopathy
+C1456820||TNF-α
+C1256770||VEGF
+C0205664||animal experiment
+C0034721||modeled rats
+C1457887||symptoms
+C1457887||symptoms
+C0086418||human
+C0032914||preeclampsia
+C0035309||retinopathy
+C0582103||examination
+C0035300||retinal microvascular abnormalities
+C0019080||hemorrhaging
+C4281748||leakage
+C0341950||severe preeclampsia
+C0013604||edema
+C0205400||thickening
+C1512784||INL
+C0507777||ONL
+C0243095||pigment atrophy
+C1456820||TNF-α
+C1256770||VEGF
+C0229096||vitreous humor
+C0035298||retina
+C0034721||model rats
+C2603343||studies
+C0017262||abnormal expression
+C0021054||AT1-AA
+C0225336||retinal capillary endothelial cells
+C0162337||vascular permeability
+C0035309||retinopathy

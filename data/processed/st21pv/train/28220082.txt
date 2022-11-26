@@ -1,0 +1,61 @@
+C0039062||Synaptic
+C0027882||Neuronal
+C0004358||Autoantibody
+C0004936||Psychiatric Syndromes
+C0393639||Autoimmune encephalitis
+C0393639||Autoimmune encephalitis
+C0003241||antibodies
+C0039062||synaptic
+C0027882||neuronal
+C0205148||surface
+C0150312||presents
+C0004936||psychiatric syndrome
+C0015252||removal of
+C0004358||autoantibodies
+C0012634||disease
+C0184661||intervention
+C0004358||autoantibodies
+C0004936||psychiatric syndromes
+C0021083||immunotherapy
+C0449445||approach
+C0004936||mental illness
+C3640652||open-label case series
+C0004358||autoantibodies
+C0679228||diagnostic criteria
+C0393639||Autoimmune encephalitis
+C2826293||clinical significance
+C0039082||syndromes
+C0039082||syndrome
+C0393639||Autoimmune encephalitis
+C0039062||synaptic
+C0027882||neuronal
+C0004358||autoantibody
+C0004936||psychiatric syndromes
+C0004936||SNAps
+C0393639||Autoimmune encephalitis
+C0597916||act heuristically
+C0220825||investigation
+C0033927||psychopathology
+C1704788||defined
+C0004358||autoantibody
+C0039082||syndromes
+C0036572||seizure
+C0026650||movement disorders
+C0033213||issues
+C0033522||prospectively
+C0004358||autoantibody
+C1511790||detection
+C0004358||autoantibody
+C0376636||management
+C0004936||mental illness
+C0011900||diagnose
+C0393639||Autoimmune encephalitis
+C0035168||research
+C0424013||orientated
+C0013227||medicine
+C0004936||SNAps
+C0702057||equipoise
+C0004936||SNAps
+C0027910||neuroscience
+C0033873||psychiatry
+C0008972||clinical research

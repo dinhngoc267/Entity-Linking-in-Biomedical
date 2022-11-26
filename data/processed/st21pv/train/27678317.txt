@@ -1,0 +1,44 @@
+C0007115||Thyroid cancer
+C0007674||Central
+C0037713||South America
+C0007115||thyroid cancer
+C0007115||thyroid cancer
+C0007115||thyroid cancer
+C0007674||Central
+C0037713||South America
+C0002454||Central and South America
+C0442527||geographic patterns
+C0007115||thyroid cancer
+C0002454||Central and South America
+C1514227||population-based cancer registries
+C0454664||countries
+C0043237||WHO
+C0242356||database
+C0454664||countries
+C2700280||world
+C0027361||person
+C0449574||histological subtype
+C0002454||Central and South America
+C0454664||countries
+C0007115||thyroid cancer
+C0007115||thyroid cancer
+C0013593||Ecuador
+C0006137||Brazil
+C0010182||Costa Rica
+C3245499||Colombia
+C0013593||Ecuador
+C3245499||Colombia
+C0025885||Mexico
+C0031238||Peru
+C0030266||Panama
+C0238463||Papillary TC
+C0011900||diagnosed
+C0449574||histological subtype
+C0007115||thyroid cancer
+C0007115||thyroid cancer
+C0238463||papillary TC
+C0007115||thyroid cancer
+C0007115||thyroid cancer
+C0007115||thyroid cancer
+C0277544||subclinical disease
+C0449335||detection methods

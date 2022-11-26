@@ -1,0 +1,33 @@
+C1513743||Multimodal brain imaging
+C0024489||magnetoencephalography
+C0430022||method
+C0005823||blood pressure
+C0871665||cardiorespiratory oscillations
+C2603343||Studies
+C0024489||magnetoencephalography
+C0024489||magnetoencephalography
+C0430022||methods
+C0024489||magnetoencephalography
+C0220825||investigation
+C3826646||blood pressure measurements
+C0024489||magnetoencephalography
+C0430022||methods
+C1828265||neurovascular status
+C0231239||fluctuations
+C2951780||brain networks
+C1513743||multimodal brain imaging
+C0006104||cerebral
+C0019010||hemodynamic
+C0005823||blood pressure
+C0871665||oscillations
+C0024489||magnetoencephalography
+C0430022||methods
+C0024489||magnetoencephalography
+C0430022||method
+C0005823||blood pressure
+C0871665||cardiorespiratory oscillations
+C0024489||magnetoencephalography
+C1513743||multimodal
+C0035168||brain research
+C0086418||human
+C0020440||mild hypercapnia

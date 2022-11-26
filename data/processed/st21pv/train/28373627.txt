@@ -1,0 +1,75 @@
+C0935850||Transplanted
+C0086418||Human
+C0162371||Cord Blood
+C0020542||Pulmonary Hypertension
+C0220825||investigate
+C0086418||human
+C0162371||umbilical cord blood
+C0162371||hUCB
+C0935850||transplantation
+C0020542||pulmonary hypertension
+C0020542||pulmonary hypertension
+C0085241||monocrotaline
+C0085241||monocrotaline
+C0085241||monocrotaline
+C0025919||BALB/c Slc-nu/nu mice
+C0020542||pulmonary hypertension
+C0025919||mice
+C0162371||hUCB
+C0411265||harvested
+C0086418||human
+C0013018||donor
+C0020542||pulmonary hypertension
+C0025919||mice
+C0205098||medial
+C4243802||pulmonary arterioles
+C0225883||right ventricular
+C0018819||septum
+C0225897||left ventricular
+C0225883||RV
+C0018819||S
+C0225897||LV
+C0812388||ejection time
+C0812388||ET
+C0162371||hUCB
+C0935850||transplantation
+C0024109||lung
+C0761898||CMTMR
+C1522485||labeled
+C0162371||hUCB
+C0024109||lung
+C0026022||fluorescent microscopy
+C0034551||DiR-labeled
+C0162371||hUCB
+C0442726||detected
+C0024109||lung
+C0178784||organs
+C0205098||Medial
+C0225883||RV
+C0018819||S
+C0225897||LV
+C0812388||ET
+C0184511||improved
+C0162371||hUCB
+C0935850||transplantation
+C0025919||mice
+C0162371||hUCB
+C0935850||transplantation
+C0761898||CMTMR
+C1446409||positive
+C0162371||hUCB
+C0024109||lung
+C0935850||transplantation
+C0162404||Bioluminescence
+C0442726||detected
+C0024109||lung
+C0178784||organs
+C0935850||transplantation
+C1444656||indicate
+C0162371||hUCB
+C0024109||lung
+C0162371||hUCB
+C0935850||transplantation
+C0184511||improve
+C0085241||monocrotaline
+C0020542||pulmonary hypertension

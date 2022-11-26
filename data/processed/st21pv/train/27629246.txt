@@ -1,0 +1,58 @@
+C0042896||vitellogenin
+C1171362||expression
+C0036887||sexual maturation
+C1533574||migration
+C0205160||negatively
+C0022439||juvenile hormone
+C1477488||Mythimna separata
+C1533574||migration
+C0871648||habitats
+C0242775||crop
+C0035150||Reproductive
+C1533574||migratory process
+C0029047||oogenesis
+C0039082||flight syndrome
+C1533574||migration
+C0562453||unpredictably
+C0017337||vitellogenin gene
+C0017337||MsVg
+C0017362||regulatory enzyme genes
+C0017337||MsJhamt
+C0017337||MsJheh
+C0017337||MsJhe
+C0022439||juvenile hormone
+C0022439||juvenile hormone
+C0314674||degradation
+C1477488||Mythimna separata
+C0017262||relative expression
+C0017337||MsVg
+C1160267||ovarian development
+C0022439||juvenile hormone
+C0026593||moths
+C0043210||female adults
+C1533574||migratory season
+C0035696||mRNA
+C0017337||MsJhamt
+C0017337||MsJheh
+C0017337||MsJhe
+C0022439||juvenile hormone
+C0205160||negatively
+C0042896||vitellogenin
+C0035696||mRNA
+C1519595||transcripts
+C1160267||ovarian development
+C1533574||migrating
+C1477488||M. separata
+C0017262||MsVg expression
+C0036887||sexual maturation
+C0017337||MsVg
+C1519595||transcript
+C0918012||index
+C0035150||reproductive
+C0022439||juvenile hormone
+C0036887||sexual maturity
+C0022439||juvenile hormone
+C1327622||regulating
+C0017262||MsVg expression
+C0035150||reproduction
+C1533574||northern and southern migration

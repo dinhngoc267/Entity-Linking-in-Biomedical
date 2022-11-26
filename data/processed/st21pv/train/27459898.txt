@@ -1,0 +1,11 @@
+C0018026||Gold
+C0441126||Nanosponge
+C0042444||Multistimuli-Responsive Drug Vehicles
+C0087111||Chemo-Photothermal Therapy
+C0018026||Gold
+C0441126||nanosponge
+C0042444||multistimuli-responsive drug vehicles
+C0087111||chemo-photothermal therapy
+C1254351||drug
+C0013227||drugs
+C0041755||side effects

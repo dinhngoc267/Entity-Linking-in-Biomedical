@@ -1,0 +1,31 @@
+C3889687||Clinical Observation
+C0749095||Chronic Subdural Hematoma
+C0025080||Novel Double Needle Minimally Invasive Aspiration Technology
+C2603343||study
+C0009566||complications
+C0749095||chronic subdural hematoma
+C0025080||double needle aspiration
+C1516606||clinical data
+C0749095||chronic subdural hematoma
+C0025080||double YL-1 needle
+C0185154||skull drilling
+C0185154||drilling
+C0013103||drainage
+C0025080||YL-1 needle
+C0018944||hematoma
+C2825055||recurrence
+C0238376||intracranial pneumocephalus
+C3640840||clinical cure
+C0185154||traditional drilling
+C0013103||drainage
+C0018944||hematoma
+C2825055||recurrence
+C0543467||operation
+C0238376||intracranial pneumocephalus
+C0025663||method
+C0025080||double YL-1 needle
+C0185154||traditional drilling
+C0013103||drainage method
+C0749095||chronic subdural hematoma
+C2825055||recurrence
+C0009566||complications

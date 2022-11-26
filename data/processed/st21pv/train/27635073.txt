@@ -1,0 +1,57 @@
+C0152021||Congenital Heart Disease
+C0085298||Sudden cardiac death
+C0152021||congenital heart disease
+C0443315||subcutaneous
+C0162589||implantable cardioverter-defibrillator
+C0162589||implantable cardioverter-defibrillator
+C0085298||sudden cardiac death
+C3266594||clinical performance
+C0152021||congenital heart disease
+C0035363||retrospective study
+C0011900||diagnosis
+C0152424||single ventricle
+C0031843||physiology
+C1274136||palliated
+C0190010||Fontan operation
+C0397538||aortopulmonary shunts
+C1275836||d-transposition of the great arteries
+C1306542||Mustard
+C0339890||Senning
+C0039685||tetralogy of Fallot
+C1260873||aortic valve disease
+C0543467||surgery
+C0018825||cardiac device
+C0948629||implanted
+C0162589||implantable cardioverter-defibrillator
+C0033144||primary prevention
+C0679699||secondary
+C0443315||subcutaneous
+C0162589||implantable cardioverter-defibrillator
+C0441587||placement
+C0522521||transvenous access
+C2825199||ventricular lead
+C0441587||placement
+C0489644||intracardiac right-to-left shunt
+C0085612||Ventricular arrhythmia
+C0085073||implant complication related to infection
+C0752250||device removal
+C1522577||follow-up
+C0340944||inappropriate
+C0036984||appropriate shocks
+C0018790||asystole
+C0152424||single ventricle
+C0443315||Subcutaneous
+C0162589||implantable cardioverter-defibrillator
+C0021107||implantation
+C0152021||congenital heart disease
+C0152424||single ventricle
+C0018799||heart disease
+C0522521||transvenous options
+C0162589||implantable cardioverter-defibrillator
+C0441587||placement
+C2603343||study
+C0085612||ventricular arrhythmia
+C0184784||reasonable
+C0232187||rhythm
+C0234412||discrimination
+C1522577||follow-up

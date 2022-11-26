@@ -1,0 +1,48 @@
+C0332167||Higher risk of
+C3714514||infection
+C0008947||clindamycin
+C0282638||prophylaxis
+C0009077||cloxacillin
+C0008947||Clindamycin
+C0003232||antibiotics
+C0282638||prophylaxis
+C0003893||arthroplasty
+C0034975||Swedish Knee Arthroplasty Register
+C0034975||Swedish Knee Arthroplasty Register
+C0282638||prophylactic antibiotic regime
+C0237401||individual
+C0038995||Sweden
+C0020517||allergy
+C0220892||penicillin
+C0008947||clindamycin
+C3714514||infection
+C0003232||antibiotic
+C0282638||prophylaxis
+C0086511||total knee arthroplasty
+C0086511||total knee arthroplasty
+C0029408||osteoarthritis
+C0029408||osteoarthritis
+C0003232||antibiotic
+C0600673||Survival statistics
+C3714514||infection
+C0009077||cloxacillin
+C0008947||clindamycin
+C0282638||prophylaxis
+C0009077||Cloxacillin
+C0008947||clindamycin
+C3536856||cephalosporins
+C3714514||infection
+C0008947||clindamycin
+C0009077||cloxacillin
+C0459471||Interpretation
+C1527304||allergic reaction
+C0220892||penicillin
+C1527304||type-I allergic reaction
+C0042109||urticaria
+C0850803||anaphylaxis
+C0006266||bronchospasm
+C0304320||third-generation cephalosporin
+C0008947||clindamycin
+C0282638||prophylaxis
+C0086511||TKR
+C0020517||type-1 allergy

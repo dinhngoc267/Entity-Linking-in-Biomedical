@@ -1,0 +1,43 @@
+C3272563||Lots
+C0592503||Brands
+C0600091||Designations
+C0891703||Dental Composite Resins
+C2603343||study
+C3272563||lots
+C0891703||enamel dental composite resin
+C0592503||brand
+C0600091||designation
+C0592503||brand
+C0891703||dental composite resins
+C0936012||analyses
+C3272563||lots
+C0008902||A1
+C0008902||B2
+C0008902||D3
+C0683757||company
+C3272563||lot
+C0008902||EA1
+C0034603||spectroradiometry
+C3272563||lot
+C2603343||studied
+C3272563||lots
+C0936012||analyzed
+C0021212||indicators
+C3272563||lots
+C3272563||lots
+C0600091||designations
+C0592503||brand
+C0891703||enamel composite resin
+C0008902||A1
+C0891703||composite resin
+C0008902||EA1
+C3272563||lots
+C2603343||studied
+C0936012||analyses
+C3272563||lots
+C0600091||designations
+C0592503||brands
+C0600091||designations
+C0891703||dental composite resins
+C0204217||restorative
+C0543467||operative dental procedures

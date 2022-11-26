@@ -1,0 +1,49 @@
+C1290886||inflammatory chronic disease
+C0666743||infliximab
+C0666743||Infliximab
+C1562242||anti-tumor necrosis factor
+C0003250||monoclonal antibody
+C1290886||chronic inflammatory diseases
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0003872||psoriatic arthritis
+C0003872||psoriatic arthritis
+C0038013||ankylosing spondylitis
+C0038013||ankylosing spondylitis
+C0010346||Crohn's disease
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0009324||ulcerative colitis
+C0666743||Infliximab
+C0012634||underlying disease
+C0599755||cohort
+C0030695||patients monitored
+C1510438||assay
+C0666743||Infliximab
+C0200345||samples collected
+C0003873||rheumatoid arthritis
+C0003872||psoriatic arthritis
+C0038013||ankylosing spondylitis
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0666743||Infliximab
+C0936012||analyzed
+C1257890||population
+C2735304||elimination
+C0038013||ankylosing spondylitis
+C2735304||elimination
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0038013||ankylosing spondylitis
+C0038013||ankylosing spondylitis
+C0003873||rheumatoid arthritis
+C0038013||ankylosing spondylitis
+C0679083||Simulations
+C0025677||methotrexate
+C0040808||regimen
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0025677||methotrexate
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0040808||regimens

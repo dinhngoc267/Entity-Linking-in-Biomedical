@@ -1,0 +1,31 @@
+C0006826||cancer
+C0949415||qualitative study
+C0679924||professional
+C0006826||cancer
+C0879626||adversely affects
+C0518214||quality of life
+C0006826||cancer
+C0006826||cancer
+C1446409||positive
+C0687744||social groups
+C0184661||interventions
+C0027361||individuals
+C0949415||qualitative study
+C1704312||health professionals
+C0596545||experiences
+C0006826||cancer
+C0184661||interventions
+C1704312||health professionals
+C0027462||National Health Service
+C0027462||National Health Service
+C0018747||services
+C0557050||discussion
+C0871685||clinicians
+C0871685||Clinicians
+C0557050||discussion
+C0679646||Participants
+C0038435||stress
+C0920688||diagnosis
+C0006826||cancer
+C0871685||clinicians
+C0184661||Interventions

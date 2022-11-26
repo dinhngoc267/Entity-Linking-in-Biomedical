@@ -1,0 +1,48 @@
+C0314787||Acinetobacter Baumannii
+C0019994||Ladoke Akintola University Teaching Hospital
+C0028075||Osogbo, Nigeria
+C0314787||Acinetobacter baumannii
+C0010356||healthcare-associated infections
+C0019994||Ladoke Akintola University Teaching Hospital
+C3494793||Isolates
+C1510438||assayed
+C0442711||standard protocol
+C3494793||isolates
+C1513384||molecular techniques
+C1442492||blaOXA, blaTEM, blaCTX-M, and blaSHV genes
+C0314787||strains
+C0314787||A. baumannii
+C3494793||isolates
+C0314787||A. baumannii
+C0439663||infected
+C0021708||intensive care unit
+C0021708||intensive care unit
+C0439663||infected
+C3494793||isolates
+C0002499||amikacin
+C0008809||ciprofloxacin
+C0007561||ceftriaxone
+C0007559||ceftazidime
+C0003232||antibiotics
+C2603343||study
+C0031955||piperacillin
+C0066005||imipenem
+C3854019||gentamycin
+C0066005||meropenem
+C3494793||isolates
+C0002499||colistin
+C0032520||PCR
+C0456984||results
+C1442492||blaOXA, blaTEM, and blaCTX-M genes
+C1446409||positive
+C3494793||isolates
+C1442492||blaSHV
+C0442737||not detected
+C3494793||isolates
+C2603343||study
+C0314787||strains
+C0314787||A. baumannii
+C1283169||monitoring
+C0033080||prescription
+C1511790||detection
+C0003232||antibiotics

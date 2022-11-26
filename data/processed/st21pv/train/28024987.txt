@@ -1,0 +1,77 @@
+C0279752||premenopausal
+C0232970||postmenopausal
+C0043210||women
+C0025320||Menopause
+C0007222||cardiovascular disease
+C0014939||estrogen
+C0019932||hormonal milieu
+C0232970||postmenopausal
+C0043210||women
+C0025320||menopausal
+C0392673||adaptations
+C0232970||postmenopausal
+C0043210||women
+C0877248||adverse
+C0220825||evaluate
+C0035648||risk factors
+C0011860||type 2 diabetes
+C0007222||cardiovascular disease
+C0279752||premenopausal
+C0232970||postmenopausal
+C0043210||women
+C0184661||intervention
+C0243095||nonobese
+C0279752||premenopausal
+C0232970||postmenopausal
+C0043210||women
+C2598145||anthropometrics
+C0005823||blood pressure
+C0030055||maximal oxygen consumption
+C0184661||intervention
+C1257890||groups
+C2598145||anthropometrics
+C0025344||menstrual period
+C0232970||postmenopausal
+C0043210||women
+C1287355||Hormonal levels
+C0014939||estrogen
+C0016774||follicle stimulation hormone
+C0023607||luteinizing hormone
+C1513126||menopausal status
+C0232970||postmenopausal
+C0043210||women
+C0543421||total cholesterol
+C0023824||low-density lipoprotein-cholesterol
+C0023822||high-density lipoprotein-cholesterol
+C0279752||premenopausal
+C0043210||women
+C0184661||intervention
+C0455829||waist circumference
+C0184511||improved
+C0424678||lean body mass
+C0442797||decreasing
+C1257890||groups
+C0277890||lower diastolic blood pressure
+C1821417||resting heart rate
+C0543421||total cholesterol
+C0023824||low-density lipoprotein-cholesterol
+C0543421||total cholesterol
+C0023822||high-density lipoprotein-cholesterol
+C0184511||improved
+C1276042||plasma insulin concentration
+C0029161||oral glucose tolerance test
+C1257890||groups
+C0279752||premenopausal
+C0232970||postmenopausal
+C0043210||women
+C0232970||postmenopausal
+C0043210||women
+C0392885||high-
+C0202117||low-density lipoprotein-cholesterol levels
+C0184661||intervention
+C0035648||risk factors
+C0011860||type 2 .diabetes
+C0007222||cardiovascular disease
+C0279752||premenopausal
+C0232970||postmenopausal
+C0043210||women

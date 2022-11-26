@@ -1,0 +1,20 @@
+C0073347||5-pivaloyloxymethyluridine
+C0150312||present
+C0035668||RNA
+C0243072||derivatives
+C0073347||5-methyluridine
+C0073347||5-pivaloyloxymethyluridine
+C0150312||present
+C0035668||RNA
+C0034760||nucleophilic reagents
+C1817367||tRNA wobble
+C0073347||5-methyluridines
+C0073347||mnm(5)U
+C0073347||cmnm(5)U
+C0073347||τm(5)U
+C0073347||nm(5)U
+C0073347||inm(5)U
+C0073347||cnm(5)U
+C0028956||oligoribonucleotides
+C0073347||inm(5)U
+C0073347||cnm(5)U

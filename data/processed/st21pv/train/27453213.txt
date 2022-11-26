@@ -1,0 +1,51 @@
+C1207105||Aurantimonas endophytica sp. nov.
+C1265415||endophytic bacterium
+C0242726||roots
+C3012678||Anabasis elatior (C. A. Mey.) Schischk
+C0004611||short-rods bacterial strain
+C0004611||EGI 6500337T
+C0242726||root
+C2350261||halophyte
+C3012678||Anabasis elatior (C. A. Mey.) Schischk
+C0017446||Urumqi
+C0017446||Xinjiang province
+C0008115||north-west China
+C0018270||Growth
+C0037494||NaCl
+C3537372||16S rRNA
+C0162327||gene sequences
+C0004611||strain EGI 6500337T
+C1207105||genera Aurantimonas
+C1894985||Aureimonas
+C1494877||family Aurantimonadaceae
+C3537372||16S rRNA
+C0162327||gene sequence
+C0004611||strain EGI 6500337T
+C1207106||Aurantimonas coralicida DSM 14790T
+C2783928||Aurantimonas manganoxydans DSM 21871T
+C0004611||Strain EGI 6500337T
+C0034435||Q-10
+C0034435||isoprenoid quinone
+C0015684||fatty acids
+C0015684||C19:0 8c cyclo
+C0023779||lipid profile
+C0004611||strain EGI 6500337T
+C0023779||diphosphatidylglycerol
+C0031619||phosphatidylglycerol
+C1959616||phosphatidylcholine
+C0031618||phosphatidylethanolamine
+C1207105||genus Aurantimonas
+C0012854||DNA
+C0004611||strain EGI 6500337T
+C0012854||DNA
+C0012854||DNA
+C0004611||strain EGI 6500337T
+C1207106||Aurantimonas coralicida DSM 14790T
+C1519068||phylogenetic analysis
+C0004611||strain EGI 6500337T
+C1207105||genus Aurantimonas
+C1207105||Aurantimonas endophytica sp. nov.
+C0004611||strain
+C0004611||EGI 6500337T
+C0004611||KCTC 52296T
+C0004611||CPCC 100904T

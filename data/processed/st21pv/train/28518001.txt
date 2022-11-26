@@ -1,0 +1,40 @@
+C0033497||Propranolol
+C0011119||Decompression Sickness
+C1135183||Swine
+C0020440||elevated CO2 levels
+C0007012||CO2
+C0011119||decompression sickness
+C0011119||decompression sickness
+C0033497||Propranolol
+C0201930||reduce CO2 production
+C0086418||humans
+C0011119||decompression sickness
+C0035203||oxygen prebreathe
+C0035203||oxygen prebreathe
+C0011119||decompression sickness
+C1135183||swine model
+C0033497||propranolol
+C0011119||decompression sickness
+C0035203||oxygen prebreathe
+C0324292||Yorkshire Swine
+C0033497||Propranolol
+C0003062||animal
+C0011119||decompression sickness
+C0003062||animals
+C0033497||PROP1.0
+C0033497||PROP1.0
+C0035203||OPB45
+C0035203||oxygen prebreathe
+C1135183||swine
+C0033497||PROP0.5
+C0033497||propranolol
+C1511501||Control animals
+C0445115||normal saline
+C0035203||oxygen prebreathe
+C0033497||PROP1.0
+C0035203||OBP45
+C0033497||PROP1.0
+C0033497||PROP0.5
+C0001645||beta blockers
+C0011119||decompression sickness
+C1135183||swine

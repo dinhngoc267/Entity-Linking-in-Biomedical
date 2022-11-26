@@ -1,0 +1,35 @@
+C1963758||immunomodulatory regimen
+C0281206||cancer prevention
+C0085973||case report
+C0150312||present
+C0085973||case study
+C1963758||immunomodulatory regimen
+C0281206||cancer prevention
+C0700287||reported
+C0041365||tumor markers
+C0248054||carbohydrate antigen-724
+C0248054||carbohydrate antigen-724
+C0006613||CA19-9
+C0007082||carcinoembryonic antigen
+C0007082||carcinoembryonic antigen
+C3830527||detectable
+C0027651||tumor
+C0332293||treated with
+C1963758||immunomodulatory therapy
+C0574032||infusion
+C2348032||cytokine-induced autologous killer cells
+C2348032||cytokine-induced autologous killer cells
+C0087111||therapy
+C0041365||tumor markers
+C0150369||monitored
+C0150312||present
+C3809765||no abnormality
+C0087111||therapy
+C0281206||cancer prevention
+C0087111||regimen
+C0281206||prevention of malignancies
+C0087111||treatment
+C0006826||cancer
+C0199176||prophylactic regimen
+C0332167||high risk of
+C0006826||cancer

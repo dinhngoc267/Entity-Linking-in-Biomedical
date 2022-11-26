@@ -1,0 +1,35 @@
+C0242481||Variation analysis
+C1335259||PRIM1 gene
+C0152035||Chinese
+C0085215||primary ovarian insufficiency
+C0085215||primary ovarian insufficiency
+C0085215||primary ovarian insufficiency
+C0856856||natural
+C0025322||early menopause
+C0085215||primary ovarian insufficiency
+C1335259||PRIM1
+C0598312||DNA replication
+C0073429||RNA primers
+C0069390||Okazaki fragments
+C0856856||natural menopause
+C0025322||early menopause
+C0085215||primary ovarian insufficiency
+C0239307||European
+C0043210||women
+C2603343||study
+C0026882||mutations
+C1335259||PRIM1
+C0085215||primary ovarian insufficiency
+C0152035||Chinese
+C0043210||women
+C0015295||exons
+C0028606||exon-intron boundaries
+C1335259||PRIM1 gene
+C1294197||sequenced
+C0043210||women
+C0085215||primary ovarian insufficiency
+C0026882||mutations
+C1335259||PRIM1 gene
+C0085215||primary ovarian insufficiency
+C0152035||Chinese
+C0043210||women

@@ -1,0 +1,57 @@
+C1710378||Thaw
+C0221284||target cells
+C0016320||calcein AM
+C0201624||antibody-dependent cell-mediated cytotoxicity assays
+C0201624||antibody-dependent cell-mediated cytotoxicity (ADCC) assays
+C0003241||therapeutic antibodies
+C0201624||ADCC assays
+C0221284||target cells
+C0003241||antibodies
+C0024348||lysed
+C0312740||effector cells
+C0021032||Fc region
+C0003241||antibody
+C0034805||Fcγ receptors
+C0312740||effector cells
+C0221284||Target cell
+C0024348||lysis
+C0014442||enzymes
+C0022917||lactate dehydrogenase
+C1522485||labels
+C0303212||(51)Cr
+C0015180||europium
+C0060549||calcein
+C0201624||ADCC assays
+C1522485||labels
+C0024348||lysed
+C0221284||target cells
+C1320226||incubation times
+C0221284||target cells
+C1510438||assay
+C1510438||assay
+C0221284||target cell
+C2347885||labeling
+C0037793||handling processes
+C1710378||thaw
+C0221284||target cells
+C0201624||ADCC assays
+C1710378||Thaw
+C0221284||target cells
+C0016320||fluorescent dye calcein AM
+C0010405||cryopreserved
+C1510438||assays
+C1710378||thaw
+C0007634||cells
+C0007620||viability
+C1522485||label
+C0007634||cells
+C0003272||antibody-dependent cell-mediated cytotoxicity
+C1321301||peripheral blood mononuclear cells
+C0022688||engineered natural killer cells
+C0201624||ADCC assays
+C1710378||thaw
+C0221284||target cells
+C0201624||ADCC assays
+C0007585||cell culture
+C0886517||dye labeling
+C1510438||assay

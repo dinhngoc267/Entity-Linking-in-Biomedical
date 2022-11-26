@@ -1,0 +1,42 @@
+C0014507||Epidemiology
+C0035648||risk factors
+C0038941||surgical site infection
+C1319408||hepatobiliary and pancreatic surgery
+C0038941||Surgical site infection
+C0038941||Surgical site infection
+C0010356||healthcare-associated infections
+C0010356||healthcare-associated infections
+C0038941||Surgical site infection
+C1319408||hepatobiliary and pancreatic surgery
+C1319408||hepatobiliary and pancreatic surgery
+C0599755||cohort
+C0038941||Surgical site infection
+C1319408||hepatobiliary and pancreatic surgery
+C0022341||Japan
+C0242356||Japanese national database
+C1319408||hepatobiliary and pancreatic surgery
+C1707635||extracted
+C0282574||national monitoring system
+C0010356||HAI
+C0419786||Japan Nosocomial Infections Surveillance
+C0206031||multivariate logistic regression
+C0038941||Surgical site infection
+C0038941||Surgical site infection
+C1319408||hepatobiliary and pancreatic surgery
+C0038941||Surgical site infection
+C0085162||pancreatoduodenectomy
+C0019144||liver resection
+C1319408||hepatobiliary and pancreatic surgery
+C0035648||risk factors
+C2346733||American Society of Anesthesiologists
+C0038941||Surgical site infection
+C3161035||model
+C0543467||surgery
+C0035648||risk factors
+C0038941||Surgical site infection
+C1319408||hepatobiliary and pancreatic surgery
+C0019994||hospital
+C0038941||Surgical site infection
+C1319408||hepatobiliary and pancreatic surgery
+C0543467||operative procedure
+C0683312||category

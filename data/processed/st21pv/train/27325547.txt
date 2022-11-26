@@ -1,0 +1,32 @@
+C2603343||study
+C0086418||human
+C0282335||respiratory tract
+C1510837||PM
+C0597177||UltraFine Particles
+C0597177||UltraFine Particles
+C0035831||Rome
+C1510837||PM2.5
+C1510837||PM10
+C1510837||PM2.5
+C0597177||submicron particles
+C0597177||submicron particles
+C0028167||NOx
+C0032458||PAH
+C0597177||UltraFine Particles
+C0597177||submicron particles
+C0035237||respiratory system
+C0018670||head
+C0458580||tracheobronchial
+C1440080||alveolar regions
+C0225752||lung lobes
+C0180488||Dosimeter
+C3161035||Multiple-Path Particle Dosimetry model
+C3161035||MPPD v.2.1
+C0035237||respiratory system
+C0237401||individuals
+C0597177||particles
+C0035237||respiratory system
+C0597177||UltraFine Particles
+C0446959||right lung lobes
+C0677042||pathologies
+C0446960||left lobes

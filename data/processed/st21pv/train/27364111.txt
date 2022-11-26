@@ -1,0 +1,48 @@
+C0031831||Physicians'
+C0024117||chronic obstructive pulmonary disease
+C0024117||Chronic obstructive pulmonary disease
+C0024117||Chronic obstructive pulmonary disease
+C0162579||work environment
+C0024117||Chronic obstructive pulmonary disease
+C0028798||occupational exposure
+C0022108||irritant
+C0017110||gases
+C0024117||Chronic obstructive pulmonary disease
+C0032356||Poland
+C2603343||study
+C0936012||analyze
+C0024117||Chronic obstructive pulmonary disease
+C0586859||pulmonologists
+C0035648||risk factors
+C0700287||reporting
+C0277540||suspected
+C0028797||occupational diseases
+C0038951||survey
+C0586859||pulmonologists
+C1708333||Local Physicians Chamber
+C2603343||study
+C0034394||questionnaire
+C0038951||surveyed
+C0586859||pulmonologists
+C0014406||environmental
+C0035648||risk factors
+C0024117||Chronic obstructive pulmonary disease
+C0035648||risk factors
+C0024117||Chronic obstructive pulmonary disease
+C0586859||pulmonologists
+C0231303||suffering
+C0024117||Chronic obstructive pulmonary disease
+C0700287||reporting
+C0277540||suspected
+C0028797||occupational diseases
+C0031831||physicians
+C0231303||suffering
+C0024117||Chronic obstructive pulmonary disease
+C0221423||ailments
+C0028798||occupational exposure
+C0034927||referral of a patient
+C0277540||suspected
+C0028797||occupational disease
+C2603343||study
+C0586859||pulmonologists
+C0024117||Chronic obstructive pulmonary disease

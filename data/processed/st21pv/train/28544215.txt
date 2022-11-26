@@ -1,0 +1,25 @@
+C0376511||Anterior single implants
+C0206034||randomized clinical trial
+C0376511||implant neck
+C1514402||preservation
+C0205284||marginal
+C0005931||bone
+C0376511||single anterior implants
+C0205094||anterior
+C0040426||tooth
+C0024947||maxilla
+C0376511||implant
+C0376511||Implants
+C1515974||healed sites
+C0589121||Follow-up visits
+C0376511||implants
+C0205284||marginal
+C0005974||bone resorption
+C0005974||bone loss
+C0376511||implants
+C0205125||deeper pocket depths
+C0019080||bleeding
+C0205094||anterior
+C3893426||tooth replacements
+C0376511||implants
+C0376511||implants

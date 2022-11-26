@@ -1,0 +1,74 @@
+C0026559||Morphogenetic
+C0320062||Alternaria alternata
+C0392419||Dicarboximide Fungicide
+C0123904||Iprodione
+C0320062||Alternaria alternata
+C0026946||Alternaria diseases
+C0242775||crop
+C0392419||fungicide
+C1514892||resistance
+C0320062||A. alternata
+C0392419||dicarboximide fungicide
+C0123904||iprodione
+C0320062||A. alternata
+C0330340||cactus
+C0200954||cultured
+C0123904||iprodione
+C0200954||fungal cultures
+C0018270||growth
+C0018270||growth
+C0430389||light
+C0026019||electron microscopy
+C0949695||Mycelia
+C0018270||grow
+C0018270||growth
+C0018270||control-growth
+C0018270||Con-G
+C0392419||fungicide
+C0123904||iprodione
+C0018270||growth
+C0018270||iprodione-initial growth
+C0018270||Ipr-I
+C1947989||colonies
+C0205229||expanded
+C0018270||growth
+C0018270||iprodione-growth
+C0018270||Ipr-G
+C0018270||Ipr-I
+C0026559||morphogenetic
+C1514892||resisting
+C1321381||fungicidal
+C0018270||Con-G
+C0038029||multicellular conidia
+C0243092||septa
+C0010834||cytoplasm
+C0016832||fungal
+C2613267||sporulation
+C0243095||undeveloped
+C0038029||unicellular conidia
+C0243095||degraded
+C0027540||necrotic
+C0010834||cytoplasm
+C0018270||Ipr-I
+C1265925||conspicuous cellular changes
+C2613267||sporulation
+C0038029||multicellular conidia
+C0205400||double layered
+C0205400||thickened
+C4055506||accumulation
+C0230704||lipid bodies
+C0038029||conidial
+C0010834||cytoplasm
+C0392419||fungicide
+C0038029||conidial
+C0007634||cells
+C0392419||fungicide
+C0449416||sources
+C0016832||fungal
+C0018270||growth
+C1947989||colonies
+C0018270||Ipr-G
+C0038029||multicellular conidia
+C0010834||cytoplasm
+C0230704||lipid bodies
+C0018270||Con-G

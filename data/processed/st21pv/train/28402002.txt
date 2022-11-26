@@ -1,0 +1,42 @@
+C0025353||Mental health
+C0699726||offenders
+C0008107||Chile
+C0010362||cross-sectional study
+C0023122||Latin America
+C0004936||mental disorder
+C0699726||offenders
+C0004936||psychiatric disorders
+C0699726||offenders
+C0699726||offenders
+C0699726||offenders'
+C0004936||Psychiatric disorders
+C0021819||Mini International Neuropsychiatric Interview
+C0033908||trained psychologists
+C0037467||trained sociologist
+C3836557||parenting
+C3714660||trauma
+C0013622||education
+C0206031||Multivariable logistic regressions
+C0004936||psychiatric disorders
+C0679646||participants
+C0006870||marijuana dependence disorder
+C1269683||major depressive disorder
+C0003469||anxiety disorders
+C0038586||Substance use disorders
+C0699726||offenders
+C0392751||sentence
+C0699726||offenders'
+C0024809||use marijuana
+C0008060||childhood maltreatment
+C1269683||major depressive disorder
+C3494405||maternal death
+C0003469||anxiety disorders
+C0013658||educational status
+C0011581||depressive
+C0003469||anxiety disorders
+C0243095||findings
+C0027361||people
+C0699726||offenders
+C0025353||mental health
+C0033213||problems
+C0013622||education

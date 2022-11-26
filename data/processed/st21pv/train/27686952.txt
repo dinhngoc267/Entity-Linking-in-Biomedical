@@ -1,0 +1,26 @@
+C0042693||violence
+C2603343||study
+C0022037||Iowa
+C0042693||Violence
+C0038951||Instrument
+C0022037||Iowa
+C0425147||released from prison
+C2603343||study
+C0022037||Iowa
+C0042693||Violence
+C0038951||Instrument
+C0936012||analyses
+C0022037||Iowa
+C0042693||Violence
+C0038951||Instrument
+C0042693||violence
+C0038951||instrument
+C1522577||follow-up
+C0022037||Iowa
+C0042693||Violence
+C0038951||Instrument
+C0042693||violence
+C0042693||Violence
+C0205229||expand
+C0680647||jurisdictions
+C1257890||populations

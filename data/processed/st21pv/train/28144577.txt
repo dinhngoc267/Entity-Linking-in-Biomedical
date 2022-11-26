@@ -1,0 +1,62 @@
+C0029396||Heterotopic ossification
+C1445625||recombinant human bone morphogenetic protein-7
+C0029396||heterotopic ossification
+C1445625||recombinant human bone morphogenetic protein-7
+C1445625||recombinant human bone morphogenetic protein-7
+C0087111||treatment
+C3897107||nonunions
+C0053932||Bone morphogenetic proteins
+C0053932||Bone morphogenetic proteins
+C0029433||bone formation
+C1148560||auto-induction
+C1445625||Recombinant human BMP-7
+C0181075||bone grafts
+C0087111||treatment
+C3897107||long bone nonunions
+C0220825||evaluated
+C0029396||heterotopic ossification
+C0220825||assessment
+C3897107||nonunion
+C0043240||healing
+C0037088||signs
+C0029396||heterotopic ossification
+C0040405||CT scan
+C3897107||Nonunion
+C0205145||site
+C0030247||palpation
+C1562926||ROM evaluation
+C0205117||adjacent
+C0022417||joints
+C3897107||nonunion
+C0450429||location
+C0456389||size
+C3714514||infection
+C1282914||surrounding
+C0040300||tissues
+C0543467||surgical procedure
+C0181074||graft
+C0185023||fixation
+C1445625||recombinant human bone morphogenetic protein-7
+C0029396||heterotopic ossification
+C0237913||Pearsons χ (2) test
+C3897107||nonunions
+C1445625||recombinant human bone morphogenetic protein-7
+C0029396||Heterotopic bone formation
+C0220825||radiological evaluation
+C3897107||nonunion
+C1445625||recombinant human bone morphogenetic protein-7
+C0029396||heterotopic ossification
+C0015811||femur
+C1279118||tibia
+C0020164||humerus
+C0746412||palpable mass
+C3897107||para-articular knee nonunion
+C1445625||recombinant human bone morphogenetic protein-7
+C0456389||size
+C0029396||heterotopic ossification
+C0576094||knee range of motion
+C0029396||heterotopic ossification
+C0029396||heterotopic ossification
+C0029396||Heterotopic ossification
+C1445625||recombinant human bone morphogenetic protein-7
+C3897107||nonunions

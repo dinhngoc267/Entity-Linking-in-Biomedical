@@ -1,0 +1,26 @@
+C0516638||Adherence Behavior
+C0019699||HIV-Positive
+C1963724||Antiretroviral Therapy
+C0017446||Selangor
+C0024552||Malaysia
+C2364172||Medication adherence
+C1963724||ART
+C0040808||regimen
+C0516638||adherence behavior
+C0010362||cross-sectional study
+C0516638||adherence behavior
+C0599755||cohort
+C0240293||Malaysian
+C1963724||antiretroviral therapy
+C0019994||Hospital Sungai Buloh
+C0024552||Malaysia
+C0242570||single-blinded
+C0206035||randomized controlled trial
+C0516638||adherence behavior
+C0243095||mean age
+C0432600||achieved
+C0034980||Multivariate binary logistic regression analysis
+C0516638||adherence behavior
+C0184661||programmatic interventions
+C0521982||successful treatment
+C0039309||target population

@@ -1,0 +1,76 @@
+C1420679||Tead1
+C0017262||expression
+C1418677||Peripheral Myelin Protein 22
+C1817645||Schwann cell development
+C0036387||Schwann cells
+C0027836||myelinating glia
+C0206417||peripheral nervous system
+C0026973||myelin sheath
+C0031117||peripheral neuropathy
+C1511518||copy number variant
+C1418677||Peripheral Myelin Protein 22 (PMP22) gene
+C0017261||duplication
+C0008659||chromosome 17
+C0007959||Charcot-Marie-Tooth Disease
+C0007959||CMT1A
+C1519106||Rodent models
+C0007959||CMT1A
+C1418677||Pmp22
+C0017262||overexpression
+C0007959||CMT1A
+C2603343||studies
+C1418677||Pmp22
+C0017263||regulation
+C0014290||enhancers
+C1571654||sex determining region Y-box 10
+C1571654||SRY sex determining region Y-box 10
+C0064419||Egr2
+C0064419||Krox20
+C0064419||Early growth response protein 2
+C0040648||transcription factors
+C0027750||myelinated nerves
+C0040648||transcription factors
+C1418677||Pmp22
+C0017262||expression
+C1817645||Schwann cell development
+C0596991||myelination
+C1418677||Pmp22
+C0014290||enhancers
+C1148560||cell type-specificity
+C0161479||nerve injury
+C1418677||Pmp22
+C0014290||enhancers
+C1156199||histone modifications
+C3263723||injury
+C0014290||enhancers
+C1418677||Pmp22
+C0041904||upregulation
+C1418677||Pmp22
+C0014290||enhancers
+C1956035||binding motifs
+C0220134||TEA domain
+C0220134||TEA domain
+C0040648||transcription factors
+C3158583||Hippo signaling pathway
+C1420679||Tead1
+C1424135||Yap
+C1336578||Taz
+C1418677||Pmp22
+C0017262||expression
+C0017262||expression
+C1414315||Egr2
+C1420679||Tead1
+C1418677||Pmp22
+C1414315||Egr2
+C0014290||enhancers
+C1420679||Tead1
+C1167622||binding
+C0596991||myelination
+C1418677||Pmp22
+C0017262||expression
+C1420679||Tead1
+C0017362||regulator
+C1418677||Pmp22
+C0017262||expression
+C1420317||sex determining region Y-box 10
+C1414315||Egr2

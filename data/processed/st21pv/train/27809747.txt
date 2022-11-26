@@ -1,0 +1,54 @@
+C1537859||MiR 221
+C1537860||222
+C0039286||tamoxifen
+C0013203||resistance
+C0007104||Breast cancer
+C0006826||cancer
+C0043210||women
+C0596473||early detection
+C0087111||treatment
+C0242379||lung cancer
+C0678222||breast carcinomas
+C1971473||ER+
+C0014930||antiestrogens
+C0039286||tamoxifen
+C0039286||tamoxifen
+C1320680||respond poorly
+C0087111||therapy
+C0039286||tamoxifen
+C0013203||resistance
+C0013203||Drug resistance
+C0521982||successful treatment
+C0007104||breast cancer
+C0438286||unsuccessful treatments
+C0013203||resistance
+C1101610||MicroRNAs
+C0887909||noncoding RNAs
+C0017262||gene expression
+C1101610||miRNAs
+C0006826||cancer
+C1513403||therapeutic targets
+C0005516||biomarkers
+C1101610||miRNA
+C0007104||breast cancer
+C0684224||reports
+C1101610||miRNAs
+C2603343||studies
+C1101610||miRNAs
+C0854638||antiestrogen therapy
+C0039286||tamoxifen
+C0013203||drug resistance
+C0035668||RNA molecules
+C1101610||miRNAs
+C0007104||breast cancer
+C0699748||pathogenesis
+C0006826||cancer
+C0013203||drug resistance
+C1101610||oncomirs
+C1537859||miR 221
+C1537860||222
+C1516331||cell cycle deregulation
+C0007104||breast cancer
+C1101610||oncomiRs
+C0013203||resistance
+C0039286||tamoxifen

@@ -1,0 +1,84 @@
+C0024400||Rhesus
+C0010823||Cytomegalovirus Infection
+C0024399||Cynomolgus Macaques
+C0010825||Cytomegaloviruses
+C0010825||Cytomegaloviruses
+C0015219||co-evolution
+C0392673||adaptation
+C1705920||species
+C3714514||infection
+C0033147||primates
+C0017428||genome
+C1519068||phylogenetic analysis
+C0010825||Cytomegaloviruses
+C1764827||isolates
+C0237798||nonhuman primate
+C1705920||species
+C0425361||Indian-origin
+C0024400||rhesus macaques
+C0024400||rhesus macaques
+C0024944||Mauritian
+C0024399||cynomolgus macaques
+C0024399||Mauritian -origin cynomolgus macaques
+C0449420||species of origin
+C0024399||Mauritian -origin cynomolgus macaques
+C0010825||Cytomegaloviruses
+C1764827||isolates
+C0033147||primate
+C0024400||Rhesus
+C0010825||Cytomegaloviruses
+C0010825||Rhesus CMV
+C0007635||laboratory strain
+C0024399||Mauritian -origin cynomolgus macaques
+C0016030||fibroblasts
+C2250749||inhibit antigen presentation
+C0024399||Mauritian -origin cynomolgus macaques
+C0039194||T cells
+C0010825||Rhesus CMV
+C3714514||infect
+C0024399||Mauritian -origin cynomolgus macaques
+C1515655||in vivo
+C0242629||CD8+ T
+C0022688||NK cells
+C0010825||Rhesus CMV
+C1522642||clone
+C1705181||repaired
+C0017262||express
+C1334043||homologues
+C0010825||HCMV
+C1512772||anti-apoptosis
+C0210337||gene UL36
+C4277517||epithelial cell tropism
+C2605215||genes UL128
+C1608605||UL130
+C3714514||infected
+C1257890||Mauritian -origin cynomolgus macaques
+C0017391||induction
+C0282641||transgene
+C0039194||T cells
+C0162633||virus shedding
+C0034861||Recombinant variants
+C0010825||Rhesus CMV
+C0017262||expression
+C0210337||UL36
+C2605215||UL128
+C1608605||UL130
+C1257890||Mauritian -origin cynomolgus macaques
+C3714514||infection
+C1705920||species
+C4277517||cell tropism
+C0162638||apoptosis
+C0010825||Cytomegaloviruses
+C1160716||transmission
+C0033147||primate
+C1705920||species
+C0024398||macaque
+C3161035||model
+C0086418||human
+C0010825||Cytomegaloviruses
+C3714514||infection
+C0152036||immunology
+C1257890||Mauritian -origin cynomolgus macaques
+C0237798||nonhuman primate
+C1705920||species
+C0021005||immunogenetics

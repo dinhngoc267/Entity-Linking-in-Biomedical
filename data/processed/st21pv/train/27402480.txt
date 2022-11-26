@@ -1,0 +1,47 @@
+C0282574||EpiDerm™
+C1511123||3D human reconstructed skin micronucleus (RSMN) assay
+C3850080||Historical control
+C0565962||proof
+C2603343||principle studies
+C1510438||mechanistic assay
+C1511123||in vitro human reconstructed skin micronucleus (RSMN) assay
+C0282574||EpiDerm™
+C0003059||animal alternative
+C0220806||chemicals
+C0456611||cosmetic ingredients
+C1515655||in vivo
+C1510438||assays
+C0392366||test
+C0220905||regulatory
+C0011109||decision-making
+C1511123||RSMN assay
+C0022877||laboratory
+C2983608||Good Laboratory Practice
+C3850013||OECD
+C0162791||test guideline 487
+C1512977||mammalian cell
+C0026006||micronucleus test
+C1510438||assay
+C0026879||direct-acting genotoxins
+C0026879||genotoxins
+C0025519||metabolism
+C0243095||non-genotoxic
+C0243095||non-carcinogenic
+C0220806||chemicals
+C0684224||report
+C0936012||analysis
+C3850080||historical control
+C4048301||micronuclei
+C0333909||binucleated cells
+C0037638||solvents
+C0040808||treatment regimens
+C2698671||mechanistic studies
+C0242481||CREST analysis
+C1510438||RSMN assay
+C0949641||aneugens
+C0008904||clastogens
+C1510438||assay
+C0079189||cytokines
+C0334094||proliferative
+C0600688||toxic effects
+C0220806||chemicals

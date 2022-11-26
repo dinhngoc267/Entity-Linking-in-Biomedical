@@ -1,0 +1,41 @@
+C0004936||Disorder
+C0231170||Disability
+C1275743||Comorbid
+C0011570||Depression
+C0028768||obsessive compulsive disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C0003467||Anxiety
+C2603343||study
+C0376554||knowledge
+C0004936||Internet Gaming Disorder
+C0004936||Internet Gaming Disorder
+C0004936||mental disorders
+C0003467||anxiety
+C0011570||depression
+C1263846||Attention Deficit Hyperactivity Disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C0028768||obsessive compulsive disorder
+C0028768||obsessive compulsive disorder
+C0004936||Internet Gaming Disorder
+C0231303||distress
+C0231170||disability
+C0038951||online survey
+C0150095||convenience sample
+C0679646||Participants
+C0004936||Internet Gaming Disorder
+C0242481||Personal Internet Gaming Disorder Evaluation-9
+C0242481||Personal Internet Gaming Disorder Evaluation-9
+C0011570||depression
+C0028768||obsessive compulsive disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C0003467||anxiety
+C0004936||Internet Gaming Disorder
+C0004936||Internet Gaming Disorder
+C0231303||distress
+C0231170||disability
+C0004936||Internet Gaming Disorder
+C0231170||disability
+C0003467||anxiety
+C1263846||Attention Deficit Hyperactivity Disorder
+C0011570||depression
+C2349001||clinical samples

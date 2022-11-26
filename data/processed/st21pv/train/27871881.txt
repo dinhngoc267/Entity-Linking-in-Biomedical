@@ -1,0 +1,79 @@
+C0006104||brain
+C0027880||peripheral plasticity
+C0023779||lipidome
+C0022471||kainic acid
+C0014544||epileptic seizures
+C0025929||mice
+C3525763||quantitative mass spectrometry
+C0014544||Epilepsy
+C1290882||chronic neurological disorder
+C0086418||human
+C1257890||population
+C1148560||molecular mechanisms
+C0014544||epileptogenesis
+C0014544||epilepsy
+C0086388||care
+C0023779||lipid
+C0037080||signalling pathways
+C0014544||epileptogenesis
+C0023779||lipid
+C0037080||signals
+C0005516||biomarkers
+C0014544||epileptic disorder
+C1611640||therapeutic agents
+C0023779||lipidomic
+C0035171||strategy
+C0023779||lipid
+C1273723||brain regions
+C0040300||periphery tissues
+C0032105||plasma
+C0014544||epileptic seizures
+C0025929||mice
+C0014544||seizure
+C3494163||systemic
+C0022471||kainic acid
+C3494163||injection
+C0031676||phospholipids
+C0037906||sphingomyelins
+C1172779||endocannabinoids
+C0211726||anandamide
+C0211726||AEA
+C0299477||2-arachidonoyl glycerol
+C0299477||2-arachidonoyl glycerol
+C1172779||endocannabinoid
+C1706082||compounds
+C1454896||oleoylethanolamide
+C1454896||oleoylethanolamide
+C0069964||palmitoylethanolamide
+C0069964||palmitoylethanolamide
+C0003695||arachidonic acid
+C0003695||arachidonic acid
+C0013725||eicosanoids
+C0574031||fatty acyl
+C0023779||lipidome
+C3494163||pulverized
+C0459385||tissues
+C1273723||brain regions
+C0022471||kainic acid
+C0014544||epileptic seizure
+C0020663||hypothalamus
+C0019564||hippocampus
+C0039729||thalamus
+C0010097||striatum
+C0007765||cerebellum
+C0007776||cerebral cortex
+C0205100||peripheral
+C0178784||organs
+C0018787||heart
+C0024109||lungs
+C0032105||plasma
+C0023779||lipid
+C0014544||epileptic seizures
+C1273723||brain region
+C0040300||periphery tissue
+C0032105||plasma
+C0023779||lipid
+C0005516||marker candidates
+C0681814||research studies
+C0920472||drug discovery
+C0085421||response monitoring

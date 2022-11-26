@@ -1,0 +1,76 @@
+C2661017||vernal pool fairy shrimp
+C2661017||Branchinecta lynchi
+C0998204||Anostraca
+C1007142||Branchinectidae
+C1705920||species
+C0220806||chemicals
+C2661017||Vernal pool fairy shrimp
+C2661017||Branchinecta lynchi
+C0596222||Branchiopoda
+C0998204||Anostraca
+C0998204||fairy shrimp
+C1705920||species
+C2717883||threatened
+C2717882||endangered
+C1007143||Branchinecta
+C1705920||spp.
+C0600688||toxic effects
+C1031756||adequately protected
+C0022885||acute (24-h) lethality/immobilization tests
+C1705920||species
+C0998204||fairy shrimp
+C2661017||B. lynchi
+C1187775||Branchinecta lindahli
+C1041123||Thamnocephalus platyurus
+C0220806||chemicals
+C1256754||toxic action
+C0002607||ammonia
+C0032821||potassium
+C0008203||chloride
+C0038720||sulfate
+C0008574||chromium(VI)
+C0009968||copper
+C0028013||nickel
+C0043481||zinc
+C0051051||alachlor
+C0066468||metolachlor
+C0220806||chemicals
+C0022885||tests
+C0596222||branchiopods
+C0446344||cladocerans
+C1081963||Daphnia magna
+C1089376||Ceriodaphnia dubia
+C0598804||amphipod
+C1676520||Hyalella azteca
+C0022885||tests
+C0037378||snails
+C0323946||Physa gyrina
+C0323913||Lymnaea stagnalis
+C2661017||B. lynchi
+C0998204||fairy shrimp
+C1705920||species
+C1041123||T. platyurus
+C0220806||chemicals
+C0998204||fairy shrimp
+C0021948||invertebrate taxa
+C0600688||toxicity
+C0998204||fairy shrimp
+C0032821||potassium
+C0723796||trace metals
+C0021948||invertebrate taxa
+C0446344||cladocerans
+C0598804||amphipods
+C0026871||mussels
+C3161035||Interspecies correlation estimation models
+C0600688||toxicity
+C0998204||fairy shrimp
+C1705920||species
+C3161035||models
+C0446344||cladocerans
+C0026871||freshwater mussels
+C0998204||fairy shrimp
+C2603343||studies
+C0998204||fairy shrimp
+C0998204||fairy shrimp
+C1007143||genus Branchinecta
+C0998204||fairy shrimp taxa

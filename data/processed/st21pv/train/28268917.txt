@@ -1,0 +1,21 @@
+C0007117||basal cell carcinoma
+C0920367||high-definition optical coherence tomography
+C0007117||Basal cell carcinoma
+C0007117||Basal cell carcinoma
+C0699893||non-melanoma skin cancer
+C0007117||Basal cell carcinoma
+C0005558||biopsies
+C0920367||high-definition optical coherence tomography
+C0920367||high-definition optical coherence tomography
+C1708481||in vivo imaging method
+C1123023||skin
+C0007117||Basal cell carcinoma
+C0920367||high-definition optical coherence tomography
+C0007117||Basal cell carcinoma
+C0920367||high-definition optical coherence tomography
+C0007117||Basal cell carcinoma
+C0430022||detection method
+C1180212||skin surface
+C0700381||segmentation
+C0007117||Basal cell carcinoma
+C0007117||Basal cell carcinoma

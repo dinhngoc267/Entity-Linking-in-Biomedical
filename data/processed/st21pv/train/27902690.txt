@@ -1,0 +1,31 @@
+C1373094||Interactions
+C0684063||Eukaryotic
+C0033640||Protein Kinases
+C0684063||Eukaryotic
+C0033640||protein kinases
+C0007613||cellular functions
+C1158886||phosphorylating
+C0033684||protein
+C0243092||catalytic core
+C0243092||catalytic core
+C0175566||open
+C0205103||intermediate
+C0677512||closed
+C0033625||conformations
+C1373094||intramolecular interactions
+C0010531||cAMP-dependent protein kinase
+C1511162||biophysical
+C1516769||computational techniques
+C0678607||hydrophobic interactions
+C0023745||salt bridge
+C0024337||lysine
+C0600383||β3-strand
+C0220839||glutamate
+C0162805||αC-helix
+C0031715||phosphorylated
+C0445022||loop
+C0162805||αC-helix
+C0024337||β3 -lysine
+C1148560||phosphoryl transfer
+C0024337||β3 -lysine
+C1148560||phosphoryl transfer

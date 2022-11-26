@@ -1,0 +1,64 @@
+C0056193||C4b binding protein
+C0013081||negatively regulates
+C0971363||TLR1
+C0754728||2
+C0754728||TLR2
+C0971363||TLR1
+C0023820||lipoproteins
+C1698795||Pam3CSK4
+C0023820||triacylated lipoprotein
+C1624581||anchored
+C1517050||extracellular domain
+C0971363||TLR1
+C0754728||TLR2
+C0021368||pro-inflammatory
+C3537152||signals
+C0056193||C4b binding protein
+C0056193||C4b binding protein
+C1305430||complement pathway
+C0754728||TLR2
+C0021069||Immunoprecipitation assay
+C0021054||anti-TLR2 mAb
+C0056193||C4b binding protein
+C1167622||binds to
+C0754728||TLR2
+C1413001||C4BP-deficient
+C0206745||mice
+C1698795||Pam3CSK4
+C0021760||IL-6
+C0025929||wild type mice
+C0056193||C4b binding protein
+C1171362||expressing
+C0007634||cells
+C1698795||Pam3CSK4
+C1819461||IL-8 production
+C0056193||C4b binding protein
+C0056193||C4b binding protein
+C0013081||negative regulation
+C0971363||TLR1
+C0754728||2
+C0079189||dependent
+C0021368||pro-inflammatory
+C1327413||cytokine production
+C0016321||fluorescent conjugated
+C1698795||Pam3CSK4
+C0056193||C4b binding protein
+C1167622||binding of
+C1698795||Pam3CSK4
+C0971363||TLR1
+C0754728||2
+C0056193||C4b binding protein
+C1698795||Pam3CSK4
+C1511122||induced signaling
+C1819461||IL-8 production
+C0056193||C4b binding protein
+C1167622||binding to
+C0754728||TLR2
+C1152633||activity
+C0021368||pro-inflammatory
+C1327413||cytokine production
+C0056193||C4b binding protein
+C0013081||negative regulator
+C0971363||TLR1
+C0754728||2
+C1152633||activity

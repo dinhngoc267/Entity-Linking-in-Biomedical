@@ -1,0 +1,45 @@
+C2936352||cognitive reserve
+C0220825||evaluated
+C1257890||population
+C0001792||older adults
+C1516602||tools
+C0027361||individual's
+C2936352||cognitive reserve
+C2936352||cognitive reserve
+C2936352||cognitive reserve
+C2936352||cognitive reserve
+C0220825||assessment
+C2936352||cognitive reserve
+C0023866||literature
+C0918012||index
+C0449381||parameters
+C0680844||estimation
+C2936352||cognitive reserve
+C2936352||cognitive reserve
+C0001792||older adults
+C0034980||Regression analyses
+C0918012||indices
+C2936352||cognitive reserve
+C0918012||ICR-standard
+C0918012||ICR-detailed
+C0918012||index
+C2936352||cognitive reserve
+C0918012||ICR-standard
+C2936352||reserve
+C0023866||literature
+C0918012||ICR-detailed
+C0449381||parameters
+C0936012||analyses
+C2936352||cognitive reserve
+C0918012||indices
+C0918012||ICR-standard
+C0918012||ICR-detailed
+C0009240||cognition
+C0918012||ICR-detailed
+C0918012||ICR-standard
+C0918012||ICR-detailed
+C2936352||cognitive reserve
+C2936352||cognitive reserve
+C1516602||clinical tool
+C0680844||estimation
+C2936352||cognitive reserve

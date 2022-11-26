@@ -1,0 +1,44 @@
+C0242210||poly(C) binding proteins
+C0282572||programmed ribosomal frameshifting
+C1519614||Translational
+C0282572||programmed ribosomal frameshifting
+C0282572||programmed ribosomal frameshifting
+C0042776||viruses
+C0007634||cellular
+C0017337||genes
+C0282572||Frameshifting
+C0035696||mRNA secondary structures
+C0035553||ribosome
+C0007613||fidelity
+C0004793||heptanucleotide 'slippery' sequence
+C0033684||nsp2
+C0282572||programmed ribosomal frameshifting
+C0037080||signal
+C0376536||porcine reproductive and respiratory syndrome virus
+C0282572||-2
+C0282572||-1 PRF
+C0033684||trans-acting protein factor
+C0042776||viral
+C0033684||replicase subunit nsp1β
+C0040624||trans-activation
+C0282572||frameshifting
+C1180347||protein complex
+C0033684||nsp1β
+C0007634||cellular
+C0242210||poly(C) binding protein
+C0242210||poly(C) binding protein
+C1519614||translation
+C0949632||electrophoretic mobility shift assays
+C0242210||poly(C) binding protein
+C0033684||nsp1β
+C1180347||complex
+C0004793||C-rich sequence
+C0522506||downstream
+C0004793||slippery sequence
+C0035696||mRNA
+C0574031||stimulator
+C0282572||programmed ribosomal frameshifting
+C0033684||trans-acting cellular protein
+C0282572||programmed ribosomal frameshifting
+C0242210||poly(C) binding proteins
+C0042776||virus

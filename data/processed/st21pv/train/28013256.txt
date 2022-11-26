@@ -1,0 +1,38 @@
+C1708333||ENGAGE
+C0022067||Ireland's
+C0022067||Ireland's
+C0027458||National Men's Health Policy
+C2986593||tailored
+C1704312||health
+C0002122||allied health professionals
+C1708333||ENGAGE
+C2603343||study
+C0220825||evaluated
+C1708333||ENGAGE
+C1948177||self-reported knowledge
+C1708333||ENGAGE
+C0679646||participants
+C2603343||study
+C1515021||subset
+C0679646||participants
+C0038949||methodologies
+C0034394||questionnaire
+C0679646||participants
+C4084799||satisfied
+C0589120||follow up
+C0679646||Participants'
+C1948177||self-reported level of knowledge
+C0025266||men
+C0025266||men
+C0700287||reported
+C1708333||ENGAGE
+C0243095||findings
+C1708333||ENGAGE
+C0243095||succeeded
+C0025266||men
+C0018747||health related services
+C0042155||utilisation
+C0018747||services
+C0025266||men
+C0184511||improve
+C0025266||men

@@ -1,0 +1,42 @@
+C0003232||antibiotic
+C0031529||Philippines
+C0003232||antibiotic
+C2717766||misconceptions
+C0449416||sources
+C0003232||antibiotics
+C0376554||knowledge
+C0004271||attitudinal
+C0003232||antibiotic
+C1331016||low-income setting
+C0031529||Philippines
+C0243095||informal
+C0003232||antibiotic
+C0679646||Participants
+C0038951||surveys
+C0003232||antibiotic
+C0206031||logistic regression
+C0282574||Firth's bias-adjusted estimate
+C0851286||staff
+C4019276||collected data
+C0003232||antibiotics
+C0003232||antibiotics
+C0003232||antibiotic
+C0003232||antibiotic
+C0003232||Antibiotic
+C0003232||antibiotic
+C0376554||knowledge
+C0003232||Antibiotics
+C0003232||antibiotics
+C2609381||missing expiration dates
+C0002645||Amoxicillin
+C0007716||cephalexin
+C0003232||antibiotics
+C0003232||Antibiotic
+C2717766||misconceptions
+C0003232||antibiotic
+C0003232||Antibiotics
+C3669020||expiration information
+C0243095||informal
+C0003232||antibiotic
+C0031529||Philippines
+C0454709||Southeast-Asian countries

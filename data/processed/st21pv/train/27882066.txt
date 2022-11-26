@@ -1,0 +1,37 @@
+C1140694||Bioinformatic
+C0936012||Analysis
+C0009221||Codon
+C0220847||Hepatitis C Virus
+C0220847||hepatitis C virus
+C0220847||hepatitis C virus
+C2603343||study
+C1519068||phylogenetically investigate
+C0220847||hepatitis C virus
+C0002520||amino acid
+C0009221||codon
+C2717802||structure of the virus
+C0418956||treatment regimes
+C0009221||codon
+C0220847||hepatitis C virus
+C0004793||nucleotide sequence
+C2349146||website Gene Infinity
+C1519068||phylogenetic analysis
+C0220847||hepatitis C virus
+C0936012||analyzed
+C0037585||MEGA 7 software
+C0220847||hepatitis C virus
+C0009221||codon
+C0009221||codon
+C0009221||codon
+C1519068||phylogenetic analysis
+C0220847||hepatitis C virus
+C0028630||guanine - cytosine
+C0028630||guanine - cytosine
+C0017428||genome structure
+C0009221||codons
+C0033684||proteins
+C0009221||codons
+C0017262||gene expression
+C2603343||studies
+C0449445||approach
+C0009221||codon

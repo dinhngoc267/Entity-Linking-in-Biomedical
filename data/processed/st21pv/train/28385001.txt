@@ -1,0 +1,44 @@
+C0558820||kinematic gait analysis
+C1296765||Beagle dogs
+C0333953||involution
+C1296765||dogs
+C1837108||loss of muscle mass
+C0009780||connective tissue
+C0007303||articular cartilage
+C0332128||examine
+C0442726||detected
+C0012634||diseases
+C1296765||sound Beagle dogs
+C0023946||locomotion
+C0558820||gait analysis
+C0205143||Angles
+C0037009||shoulder
+C0013770||elbow
+C1262468||carpal
+C0019558||hip
+C1456798||stifle
+C1527245||tarsal joints
+C0936012||analyzed
+C0022417||joint
+C0205143||angles
+C2607871||range of motion
+C2607871||range of motion
+C0022417||joint
+C0205143||angle
+C2607871||range of motion
+C1262468||carpal joint
+C0037009||shoulder
+C0013770||elbow
+C1262468||carpal joint
+C0678257||descriptive analysis
+C0231455||less flexion
+C0022417||joints
+C0016555||forelimb
+C0016555||forelimb
+C1262468||carpal joint
+C0022417||joints
+C1522391||hindlimb
+C0150312||found
+C0224640||distal joints
+C0589098||particular attention
+C1296765||elderly dogs

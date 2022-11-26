@@ -1,0 +1,33 @@
+C0064971||Lignans
+C0016767||fruits
+C0696946||Schisandra chinensis (Turcz.) Baill
+C1426592||proprotein convertase subtilisin/kexin type 9
+C0017262||expression
+C0016640||Bioactivity-guided fractionation
+C0016767||fruits
+C0696946||Schisandra chinensis
+C1426592||proprotein convertase subtilisin-kexin type 9
+C1426592||proprotein convertase subtilisin-kexin type 9
+C1515670||mRNA expression
+C1510438||screening assay
+C0064971||lignans
+C0064971||14-tigloylschinlignan D
+C0064971||rel-(7R, 8R, 7'R, 8'R)-manglisin E
+C0220807||structures
+C0877853||NMR spectroscopic
+C0008813||CD
+C0037813||MS
+C0936012||analysis
+C1515670||mRNA expression
+C1426592||proprotein convertase subtilisin-kexin type 9
+C0064971||rel-(7R, 8R, 7'R, 8'R)-manglisin E
+C0074176||(-)-schisandrin C
+C0064971||schinlignan D
+C0074177||(+)-schisandrol B
+C1426592||proprotein convertase subtilisin-kexin type 9
+C1515670||mRNA expression
+C0074177||(+)-schisandrol B
+C4255394||proprotein convertase subtilisin-kexin type 9
+C1171362||protein expressions
+C0064971||schinlignan D
+C0034821||low density lipoprotein receptor

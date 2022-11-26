@@ -1,0 +1,23 @@
+C0040226||Time Perception
+C0026549||Morphine
+C0013227||Drugs
+C2603343||study
+C0040226||time perception
+C0700285||drug addicts
+C0700285||drug addicts
+C0237401||non-addict individuals
+C0392366||tests
+C0035150||reproduction
+C0012632||discrimination
+C0035150||reproduction
+C0035150||reproduction
+C0035150||reproduction
+C0680844||estimation
+C0680844||estimation
+C0012632||discrimination
+C1704922||images
+C1704922||images
+C1704922||images
+C0040226||Time perception
+C0026549||morphine
+C0013227||drugs

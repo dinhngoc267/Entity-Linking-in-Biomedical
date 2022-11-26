@@ -1,0 +1,45 @@
+C0013470||eating
+C1556095||Korean
+C0035168||research
+C0013470||eating
+C0588012||poor diet
+C0205160||negative
+C0085973||study
+C0013470||eating
+C0013470||eating
+C1556095||Korean
+C0085973||study
+C0242481||dietary recall
+C0011296||demographic survey
+C1556095||Korean
+C0022771||Korea
+C0376344||National Health and Nutrition Examination Survey
+C0013470||eating
+C0080105||Subjects
+C1257890||eaters
+C1257890||non-night eaters
+C0013470||eating
+C0013470||eating
+C1305855||BMI
+C0013470||eating
+C1556095||Korean
+C1257890||eaters
+C1257890||eaters
+C0560435||skipping
+C0453863||snacks
+C1257890||non-night eaters
+C1257890||eaters
+C1257890||eaters
+C1257890||eaters
+C0013470||eating
+C1305855||BMI
+C0013470||eating
+C0497406||overweight
+C0028754||obese
+C0013470||eating
+C1556095||Korean
+C4019289||undesirable dietary behaviours
+C1305855||BMI
+C0013470||eating
+C0013470||eating
+C0013470||eating

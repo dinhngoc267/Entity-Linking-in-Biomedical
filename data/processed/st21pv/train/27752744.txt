@@ -1,0 +1,65 @@
+C0016658||fracture
+C0424594||frailty
+C0001792||elderly
+C1556094||Japanese
+C0025266||men
+C0871754||Frail
+C0001792||elderly
+C0237401||individuals
+C0016658||fracture
+C0016658||fractures
+C1306577||death
+C0016658||pre-fracture
+C0424594||frailty
+C0679543||physical performance tests
+C0022885||laboratory tests
+C0012634||diseases
+C0001792||elderly
+C1556094||Japanese
+C0025266||men
+C0016658||fractures
+C0424594||frailty
+C1112254||false-positive result
+C0220825||evaluated
+C0016658||pre-fracture
+C0424594||frailty
+C0332128||examined
+C0025266||men
+C0424594||frailty
+C0679543||physical performance tests
+C2315460||timed 10-m walk
+C0022885||laboratory sera tests
+C0679646||Participants
+C0016658||fractures
+C1306577||death
+C0016658||fracture
+C1306577||death
+C0033489||Cox proportional hazards model
+C0016658||fracture
+C1522577||follow-up
+C4075886||frailty status indices
+C0016658||fractures
+C0025266||men
+C1306577||deaths
+C1522577||follow-up
+C2939193||median
+C1522577||follow-up
+C0679646||Participants
+C0016658||fractures
+C0243095||not have significantly worse
+C0424594||frailty
+C0016658||fractures
+C1306577||death
+C0016658||fracture
+C0442739||no significant change
+C1306577||deaths
+C1522577||follow-up
+C0243095||not alter
+C0456984||results
+C0016658||fracture
+C1306577||death
+C1299583||independently
+C0016658||pre-fracture
+C0424594||frailty
+C0001792||elderly
+C0025266||men

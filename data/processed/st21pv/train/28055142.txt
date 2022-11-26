@@ -1,0 +1,55 @@
+C0935584||Executive functions
+C0015347||extinction
+C0017324||generalization
+C0015726||fear
+C0017324||Generalization
+C0015726||fear
+C0026649||movements
+C1327613||fear responses
+C0026649||movements
+C0030193||pain
+C0026649||movements
+C1327613||fear responses
+C1960719||pain-provoking
+C0026649||movement
+C0234404||CS+
+C0234404||CS+
+C0017324||generalize
+C0237613||extinction learning
+C0026649||movements
+C0030193||pain
+C0935584||executive function capacity
+C0237401||individuals
+C3894332||inhibit fear responses
+C0332128||examined
+C0935584||executive function capacity
+C0017324||generalization
+C0015347||extinction
+C0017324||generalization
+C1708335||Healthy participants
+C0009647||fear conditioning task
+C0935584||Executive function tests
+C0021467||inhibition
+C0015347||extinction
+C0015726||fear
+C0030193||pain
+C0017324||generalization
+C0021467||Low inhibitory capacity
+C0015347||extinction
+C0015726||generalized fear
+C0030193||pain
+C1327613||conditioned fear response
+C0679646||Participants
+C0021467||inhibitory capacity
+C1327613||fear responses
+C0015726||generalized fear
+C0243095||findings
+C0021467||Low inhibitory capacity
+C0017324||generalization
+C0015347||extinction
+C0015726||fear
+C0017324||generalization
+C0015726||Fear
+C0026649||movement
+C0234404||CS+/-
+C0234404||CS+

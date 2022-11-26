@@ -1,0 +1,28 @@
+C1520113||Wnt Pathway
+C3659232||Activator
+C1326205||Induces Apoptosis
+C0007587||Cell Death
+C1521831||Mouse Monocytic Leukemia
+C0007634||Cells
+C3659232||Wnt agonist,
+C3659232||2-amino-4-[3,4-(methylenedioxy)benzylamino]-6-(3-methoxyphenyl) pyrimidine
+C0007605||cell-permeable
+C3659232||pyrimidine compound
+C0753137||Wnt
+C1517806||leukemic mouse cell lines
+C4042840||RAW 264.7
+C1517806||J774.1
+C3659232||Wnt agonist
+C3659232||Wnt agonist
+C0007587||cell death
+C3659232||Wnt agonist
+C0244988||GSK-3β
+C0243102||activity
+C1511110||β-catenin accumulation
+C0007610||nucleus
+C3659232||Wnt agonist
+C3820502||caspase-independent cell death
+C2610698||cell death ER stress signaling
+C3659232||Wnt agonist
+C1326205||induced apoptotic cell death
+C4042840||RAW 264.7 cells

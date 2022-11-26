@@ -1,0 +1,57 @@
+C0936012||Assessment
+C0025794||methylmercury
+C0326833||zebra finches
+C0326833||Taeniopygia guttata
+C0025794||Methylmercury
+C0025794||MeHg
+C0005854||blood brain barrier
+C0025794||MeHg
+C4055506||accumulation
+C0006104||brain
+C0234130||motor functions
+C0024660||mammalian
+C0012644||models
+C0005595||birds
+C0235032||neurotoxic effects
+C0025794||MeHg
+C0598016||hatching
+C0006104||brain
+C0005595||birds
+C0004268||attention
+C0600537||passerine birds
+C0025794||MeHg
+C2603343||studies
+C0005595||avian
+C2603343||study
+C0013710||egg
+C0456651||injection method
+C0025794||MeHg
+C0006104||brain
+C0012644||model
+C0600538||songbird
+C1705920||species
+C0326833||zebra finch
+C0326833||Taeniopygia guttata
+C0013710||Egg
+C0025794||MeHg
+C0025424||Hg
+C0013710||egg
+C0025794||MeHg
+C0025424||Hg
+C0013710||egg
+C0042444||vehicle control
+C0043047||water
+C0853204||No adverse effects
+C0025794||MeHg
+C0442726||detected
+C1154349||mating behavior
+C0233891||sexually maturity
+C1285601||observable
+C0025794||MeHg
+C0243107||development
+C0936012||analysis
+C1444656||indicated
+C0039452||telencephalon
+C0025794||MeHg
+C1155266||inflammatory response
+C1273723||region of the brain

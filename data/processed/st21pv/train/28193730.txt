@@ -1,0 +1,57 @@
+C1155661||Mismatch Repair
+C0036025||Yeast
+C0007634||cells
+C0449416||source
+C0026882||mutations
+C0014406||environments
+C0205160||negative
+C0014589||epistatic interaction
+C0879389||MLH1
+C0879390||PMS1
+C1155661||mismatch repair
+C1155661||mismatch repair
+C0017337||genes
+C0036025||Saccharomyces cerevisiae
+C1155661||mismatch repair
+C1260875||mating
+C0036025||S. cerevisiae
+C0936012||analyzed
+C0879389||MLH1
+C0879390||PMS1 genes
+C0036025||S. cerevisiae
+C1764827||isolates
+C0449416||sources
+C0040811||tree
+C0015388||exudates
+C0013138||Drosophila
+C0016767||fruits
+C0015852||fermentation
+C1764827||isolates
+C0565935||geographical
+C0449416||sources
+C0015176||Europe
+C0002454||America
+C0001737||Africa
+C0003980||Asia
+C1764827||isolate
+C1764827||isolates
+C1155661||mismatch repair
+C0879389||MLH1
+C0879390||PMS1 gene
+C1764827||isolate
+C0017262||expressed
+C0022877||laboratory
+C1522485||reporter
+C0038859||suppressor mutations
+C1764827||isolate
+C0302523||observation
+C1764827||isolates
+C1155661||mismatch repair
+C0392673||adaptation
+C2717776||fitness
+C0006353||buffered
+C1260875||mating
+C0038859||suppressors
+C0302523||observations
+C0684063||eukaryotes
+C2717776||fitness

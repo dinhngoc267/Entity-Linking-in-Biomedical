@@ -1,0 +1,37 @@
+C0036186||Straight configuration saphenous vein
+C1293442||transposition
+C0032649||popliteal artery
+C0036186||saphenous vein
+C0740038||vascular graft
+C0543467||surgery
+C0023866||literature
+C0036186||straight configuration saphenous vein
+C1293442||transposition
+C0032649||popliteal artery
+C0036186||straight configuration saphenous vein
+C1293442||transposition
+C0032649||popliteal artery
+C0011918||surgical technique
+C1522577||follow-up
+C0025266||men
+C0457913||lower-limb vascular access
+C0019004||hemodialysis
+C0030486||paraplegic
+C0439663||infected
+C0003855||AVFs
+C0042449||arm veins
+C0036186||straight configuration saphenous vein
+C1293442||transpositions
+C0032649||popliteal artery
+C0002928||spinal anesthesia
+C0917707||Cannulation
+C0080304||fistula
+C0231243||no early complications
+C0038999||Slight swelling
+C1140621||leg
+C0080304||fistulas
+C0036186||straight configuration saphenous vein
+C1293442||transposition
+C0032649||popliteal artery
+C0441635||long and straight segment
+C0917707||cannulation

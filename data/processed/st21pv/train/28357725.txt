@@ -1,0 +1,48 @@
+C0199648||Ventricular pacing
+C1522601||cardiac
+C0040405||computed tomography
+C1519941||validation
+C4055223||clinical response
+C1167956||cardiac resynchronization therapy
+C1167956||Cardiac Resynchronization Therapy
+C1167956||Cardiac Resynchronization Therapy
+C0199648||ventricular pacing
+C0442031||lead sites
+C0184511||improve
+C0202850||Cardiac CT
+C0450363||3-dimensional
+C1167956||Cardiac Resynchronization Therapy
+C0018017||objective
+C2603343||study
+C0202850||cardiac CT
+C0013516||echocardiographic
+C1167956||Cardiac Resynchronization Therapy
+C1167956||Cardiac Resynchronization Therapy
+C4084924||clinical
+C0013516||echocardiographic
+C0220825||evaluations
+C1522601||cardiac
+C0040405||CT
+C0150108||blinded
+C0205113||circumferential
+C0027061||myocardium
+C4055223||Clinical response
+C1167956||Cardiac Resynchronization Therapy
+C0456984||primary clinical outcome
+C0080308||LVESV
+C0013516||echocardiography
+C2700378||ejection fraction
+C0205113||circumferential
+C0040405||CT
+C0936012||analysis
+C0205113||Circumferential
+C0040405||CT
+C0205113||Circumferential
+C0202850||cardiac CT
+C4055223||clinical response
+C1167956||Cardiac Resynchronization Therapy
+C0199640||pacing
+C0040405||CT
+C3495141||coronary vein
+C0011923||imaging
+C0220825||investigation

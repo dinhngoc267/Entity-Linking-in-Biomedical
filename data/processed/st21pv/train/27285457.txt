@@ -1,0 +1,42 @@
+C1827106||DIPEPTIDYL PEPTIDASE-4 INHIBITORS
+C0242656||PROGRESSION
+C0011884||DIABETIC RETINOPATHY
+C0011860||TYPE 2 DIABETES
+C1827106||dipeptidyl peptidase-4 inhibitors
+C1827106||dipeptidyl peptidase-4 inhibitors
+C0242656||progression
+C0011884||diabetic retinopathy
+C0011884||diabetic retinopathy
+C0011860||Type 2 diabetes
+C0011884||diabetic retinopathy
+C0025102||medical records
+C0011860||Type 2 diabetes
+C0200189||Fundus photographs
+C0441800||graded
+C3899277||Early Treatment Diabetic Retinopathy Study methods
+C0035648||risk factors
+C0242656||progression
+C0011884||diabetic retinopathy
+C1827106||DPP4 inhibitors
+C0020616||hypoglycemic agents
+C0242656||progression
+C0011884||retinopathy
+C1827106||DPP4 inhibitors
+C0242656||progression
+C0011884||diabetic retinopathy
+C1827106||DPP4 inhibitors
+C0011884||diabetic retinopathy
+C0242656||progression
+C1827106||DPP4 inhibitors
+C0242656||progression
+C0011884||diabetic retinopathy
+C0243095||improving glycemic control
+C1827106||DPP4 inhibitors
+C0011884||diabetic retinopathy
+C0242656||progression
+C0220825||evaluation
+C1827106||DPP4 inhibitors
+C0242656||progression
+C0011884||diabetic retinopathy
+C0034656||randomized
+C0013072||double-blind

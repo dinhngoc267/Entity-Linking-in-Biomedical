@@ -1,0 +1,39 @@
+C1285650||Recognition
+C0563273||Deterioration
+C0086418||Human
+C1283169||Monitoring
+C0583239||ICU Admissions
+C0583239||ICU admission
+C1519255||serious adverse event
+C1519255||serious adverse event
+C0583239||ICU-admissions
+C0018724||healthcare worker
+C0402239||technical
+C0012634||disease
+C0583239||ICU admissions
+C0199168||PRISMA-medical
+C0019994||hospital
+C0008971||protocol
+C0563273||deterioration
+C0021708||ICU
+C1518527||Retrospective observational study
+C0184666||admitted
+C0021708||Intensive Care Unit
+C0204637||general nursing ward
+C0936012||PRISMA-analysis
+C0583239||ICU admissions
+C0008971||protocol
+C2919393||early warning score system
+C0018724||healthcare worker
+C1283169||monitoring
+C0012634||disease
+C0031831||doctor
+C0583239||ICU admission
+C1301725||documented
+C0936012||in-depth analysis
+C0583239||ICU admissions
+C0018724||healthcare worker
+C1283169||monitoring
+C0563273||clinically deteriorating
+C0583239||ICU admissions
+C1283169||monitoring

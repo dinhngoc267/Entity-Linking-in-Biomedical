@@ -1,0 +1,25 @@
+C0001339||Acute Pancreatitis
+C2985542||PEG Tube
+C0549474||Migration
+C0176751||Percutaneous gastrostomy
+C0014327||enteral nutrition
+C0030548||total parenteral nutrition
+C0086225||enteral feeding
+C0699819||gut
+C0026724||mucosal
+C0282583||bacterial translocation
+C0017189||gastrointestinal tract
+C0009566||Complications
+C0019080||bleeding
+C0700198||aspiration
+C0332675||internal organ injury
+C0151664||perforation
+C0341600||periostomal leaks
+C1608950||tube dislodgement
+C0028778||occlusion
+C0001339||Acute pancreatitis
+C2985542||percutaneous gastrostomy tube
+C0549474||migration
+C0030305||pancreatitis
+C2985542||percutaneous gastrostomy tube
+C0549474||migration

@@ -1,0 +1,37 @@
+C1564874||AAV9
+C1417776||NPC1
+C0243095||ameliorates
+C0034143||Purkinje cell
+C0007587||death
+C0233514||behavioral abnormalities
+C0025929||mouse
+C0220756||NPC disease
+C0220756||Niemann-Pick type C (NPC) disease
+C0524851||neurodegenerative disorder
+C0243095||loss-of-function
+C0026882||mutations
+C1417776||NPC1
+C1422736||NPC2 gene
+C0220756||NPC disease
+C1564874||adeno-associated virus
+C1564874||adeno-associated virus
+C0449943||serotype 9
+C1564874||AAV9
+C1417776||NPC1 gene
+C1417776||NPC1(-/-)
+C0206745||mice
+C0419611||postnatal day 4
+C0021485||AAV9-NPC1 injection
+C1417776||NPC1
+C0017262||expression
+C0040300||tissues
+C0006104||brain
+C0018787||heart
+C0024109||lung
+C0034143||Purkinje cell
+C0023946||locomotor activity
+C0237543||coordination
+C1417776||NPC1(-/-)
+C0206745||mice
+C0860404||AAV-based gene therapy
+C0220756||NPC disease

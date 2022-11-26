@@ -1,0 +1,31 @@
+C0026882||Recessive mutations
+C1957185||MSTO1
+C3494415||mitochondrial dynamics
+C0026848||myopathy
+C0004134||ataxia
+C1826310||MSTO1 gene
+C0026882||mutations
+C0445356||unrelated
+C0026848||myopathy
+C0007758||cerebellar ataxia
+C1957185||Human MSTO1
+C1657244||mitochondrial localization
+C1327622||regulate
+C1522855||distribution of mitochondria
+C0026882||mutations
+C0017337||genes
+C3494415||mitochondrial dynamics
+C0751651||mitochondrial disorders
+C0700287||reported
+C0016030||fibroblasts
+C1957185||MSTO1 protein
+C3809602||mitochondrial network was fragmented
+C0026237||mitochondria
+C2985436||deleterious effect
+C1957185||MSTO1
+C0443264||modulating
+C3494415||mitochondrial dynamics
+C0033684||cytosolic protein
+C0026882||recessive mutations
+C1957185||MSTO1
+C0027868||neuromuscular disorders

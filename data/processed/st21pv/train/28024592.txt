@@ -1,0 +1,50 @@
+C0005479||Bi-layered constructs
+C1173093||poly(glycerol-sebacate)
+C0106141||β-tricalcium phosphate
+C2603343||study
+C2348563||protocol
+C1173093||poly(glycerol-sebacate)
+C1173093||poly(glycerol-sebacate)
+C0106141||β-tricalcium phosphate
+C0106141||β-TCP
+C0005479||construct
+C0596171||engineering
+C0678594||layered structure
+C0597177||particles
+C0597177||prepolymer
+C0005479||construct
+C0013766||elastomer
+C1704458||top
+C1511276||bottom
+C0106141||β-TCP
+C0597177||particles
+C0013766||elastomer matrix
+C1173093||poly(glycerol-sebacate)
+C1173093||poly(glycerol-sebacate)
+C0106141||β-TCP
+C0005479||bi-layered constructs
+C0678594||Morphology
+C0026020||Scanning Electron Microscopy
+C0026020||Scanning Electron Microscopy
+C2350281||micro-computed tomography
+C2350281||μ-CT
+C2350281||Tomography
+C0005479||construct
+C0013766||elastomer
+C0441987||side
+C0106141||β-TCP
+C0678594||elastomeric structure
+C0013766||elastomer
+C0441987||side
+C0391978||bone
+C0441987||side
+C0887869||cell attachment
+C0391978||osteogenic
+C0005479||construct
+C0527443||BMP-2
+C1704256||TGF-β1
+C1173093||poly(glycerol-sebacate)
+C0106141||β-TCP
+C0005479||bi-layered constructs
+C0225317||soft tissue
+C0033213||problem

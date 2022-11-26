@@ -1,0 +1,23 @@
+C0064566||Laccase
+C0009206||Cochliobolus sp.
+C0032624||Low Molecular Weight PVC
+C0016832||fungi
+C0014442||enzymes
+C0016832||fungi
+C0032624||low molecular weight polyvinyl chloride
+C0032624||polyvinyl chloride
+C0064566||enzyme laccase
+C0016832||fungal
+C1705920||species
+C0009206||Cochliobolus sp.
+C0200954||cultured
+C0010454||Czapek Dox Agar slants
+C0016832||fungal
+C1705920||species
+C0032624||low molecular weight polyvinyl chloride
+C0032624||polyvinyl chloride
+C0206055||FTIR
+C0024868||GC-MS
+C0026020||SEM
+C0009206||Cochliobolus sp.
+C0032624||polyvinyl chloride

@@ -1,0 +1,49 @@
+C0006675||calcium
+C0596957||dynamics
+C0162638||apoptosis
+C1820193||Intracellular calcium release
+C0596286||regulating
+C0007613||cellular functions
+C3494293||spatio-temporal
+C0449774||patterns
+C1383501||cytosolic
+C0006675||calcium
+C0007634||cellular
+C1159821||apoptotic program
+C0006675||calcium
+C0596957||dynamics
+C0162340||understanding
+C0006675||calcium
+C0162638||apoptotic cell death
+C0006675||calcium
+C0013343||dyes
+C1383501||cytosolic
+C0006675||calcium
+C0006675||calcium
+C0596957||dynamics
+C0007634||living cells
+C0087111||treatment
+C0162638||apoptosis
+C0013227||drugs
+C0006675||calcium
+C0013343||dyes
+C0006675||calcium
+C0021212||indicators
+C0016320||ratiometric dye
+C0079389||Fura-2
+C0079389||Fura-2
+C2987634||agonist
+C0006675||calcium
+C0201925||calcium release
+C0087111||treatment
+C0075193||staurosporine
+C0201925||calcium release
+C0201925||calcium release
+C0596957||dynamics
+C0007634||cells
+C0075193||staurosporine
+C0021212||indicator
+C1283169||monitoring
+C1383501||cytosolic
+C0006675||calcium
+C0162638||apoptosis

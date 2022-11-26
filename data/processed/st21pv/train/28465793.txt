@@ -1,0 +1,40 @@
+C2735310||care management
+C0035168||research
+C0011860||type 2 diabetes
+C1273869||interventions
+C3698325||self-management education
+C0683474||motivational interviewing
+C0011860||type 2 diabetes
+C0023866||scientific literature
+C0011847||diabetes
+C2735310||care and management
+C0035168||research
+C1706852||article
+C0220825||investigation
+C0026605||motivation
+C0026605||M
+C0004271||attitude
+C0004271||A
+C0237607||practice
+C0237607||practice
+C0011847||diabetes
+C0518889||care outcomes
+C0518889||outcomes
+C2735310||Care management
+C1273869||intervention
+C0026605||M
+C0004271||A
+C0237607||practice
+C0518889||care outcomes
+C0011860||type 2 diabetes
+C0282443||review
+C2735310||care management
+C0011860||type 2 diabetes
+C1273869||interventions
+C0520939||increased motivation
+C0004271||attitudinal
+C0184511||improved
+C1516623||preventive practice
+C0242656||progression
+C0011860||type 2 diabetes
+C0018738||health promotion

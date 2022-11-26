@@ -1,0 +1,28 @@
+C1519068||Phylogenic Approaches
+C0996956||Table Olive Cultivars
+C0996956||table olive tree
+C0936012||analysis
+C0996956||table olive cultivars
+C0996956||Olea europaea L.
+C0017393||physicochemical markers
+C0037589||bioinformatic
+C0037589||biostatistic tools
+C0037589||bioinformatic
+C0936012||analysis
+C1880593||matrix of Euclidean distances
+C1881045||unweighted pair group method
+C0936012||principal coordinate analysis
+C0936012||principal coordinate analysis
+C1517526||geographic
+C0584985||origin
+C0016767||fruit
+C1522786||pollinization
+C3161035||model
+C1522786||pollinization
+C1706232||directed acyclic graph
+C0442726||detected
+C0016767||fruit
+C0028908||oil
+C0996956||table olive cultivars
+C0996956||olive
+C0006159||breeding

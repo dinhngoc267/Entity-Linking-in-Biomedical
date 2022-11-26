@@ -1,0 +1,45 @@
+C0242606||Oxidative Stress
+C0011881||Diabetic Kidney Disease
+C0011881||Diabetic nephropathy
+C0011881||Diabetic nephropathy
+C0009566||complication
+C0011849||diabetes mellitus
+C0011881||Diabetic nephropathy
+C0022661||end-stage renal disease
+C2700280||worldwide
+C0242606||Oxidative stress
+C0021368||inflammation
+C0342257||diabetes complications
+C0342300||Chronic hyperglycemia
+C0242606||oxidative stress
+C0678594||structure
+C0031843||function
+C0033684||proteins
+C0023779||lipids
+C0020456||hyperglycemia
+C0017725||glucose
+C0033684||proteins
+C0178719||intracellular
+C0162772||reactive oxygen species
+C0009566||complications
+C0011881||Diabetic nephropathy
+C0162772||reactive oxygen species
+C0443264||modulates
+C2611812||signaling cascade
+C0021054||immune factors
+C0162772||reactive oxygen species
+C0079189||cytokines
+C0079189||cytokines
+C0016693||free radicals
+C0681814||studies
+C0027697||kidney inflammation
+C0011881||Diabetic nephropathy
+C0019010||hemodynamic
+C0011881||diabetic kidney
+C0282443||review
+C0242606||oxidative stress
+C0011881||Diabetic nephropathy
+C0007634||immune
+C0440752||inflammatory cells
+C0079189||cytokines
+C0242606||stress oxidative

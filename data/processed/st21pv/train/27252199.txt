@@ -1,0 +1,47 @@
+C0543482||Morphological
+C0227948||phallic glans
+C0020452||engorgement
+C0327167||American alligator
+C0205108||distal part
+C0327160||crocodilian
+C0030851||phallus
+C0227948||bulbous glans
+C1511228||vascular tissues
+C0008987||cloaca
+C0332479||shape
+C0700038||her reproductive tract
+C0021586||insemination
+C0015914||fertilization
+C0007613||cellular-level properties
+C0040300||inflatable phallic tissues
+C0037868||sperm
+C1184482||sulcus
+C0037855||spermaticus
+C0327167||American alligator
+C0327167||Alligator mississippiensis
+C0200825||histochemical staining
+C0009325||collagen
+C0230899||elastin fiber
+C1704322||orientations
+C0040300||tissues
+C0015350||Extracellular matrix
+C0227948||phallic glans
+C0040300||tissue
+C0002123||alligator
+C0030851||phalli
+C0022885||serial sectioning
+C0022885||three-dimensional reconstruction
+C0501402||supracrucal plexus vascular
+C1995017||bodies
+C0002123||alligator
+C0030851||phallus
+C0040300||ventro-medial sulcus tissues
+C0449575||histological examination
+C0327167||American alligator
+C0227948||phallic glans
+C0040300||tissues
+C0005847||vascular
+C0332479||shape
+C0243092||secretory products
+C0700038||female reproductive tract
+C1517151||affecting female reproductive physiology

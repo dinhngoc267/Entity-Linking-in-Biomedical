@@ -1,0 +1,33 @@
+C0037253||Orthopaedic
+C3714660||Trauma
+C3263723||Associated Injuries
+C0040786||Trauma Center
+C2603343||study
+C0597457||orthopaedic
+C3714660||snowmobile
+C3714660||ATV-related
+C3714660||dirtbike (n=363)-related trauma
+C2607850||institution
+C0016658||axial
+C0016658||appendicular fractures
+C0016658||fractures
+C1257890||ATV group
+C0080179||spinal
+C1542178||lower extremity fractures
+C0599755||Snowmobile
+C0599755||dirtbike cohorts
+C0015802||femur fractures
+C0599755||ATV cohort
+C1140618||upper extremity
+C0018563||hand
+C0036277||scapula
+C0016662||open fractures
+C0018674||Head trauma
+C1257890||ATV group
+C0021504||Injury Severity Score
+C0597457||orthopaedic
+C3263723||injury
+C0449774||patterns
+C0150638||Injury prevention
+C0150755||safety mechanisms
+C0023150||strict laws

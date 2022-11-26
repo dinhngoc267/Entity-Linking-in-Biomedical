@@ -1,0 +1,62 @@
+C0043167||Pertussis
+C0454714||Central
+C0015177||Eastern European Countries
+C0376688||epidemiological survey
+C0043167||pertussis
+C0700287||reported
+C0454714||Central
+C0015177||Eastern European countries
+C0043167||pertussis
+C0025102||reports
+C0454664||countries
+C0454664||country
+C0043167||pertussis
+C0454664||countries
+C2607850||government institutions
+C1708333||national surveillance systems
+C0043167||pertussis
+C0454664||country
+C0454664||countries
+C0043167||pertussis
+C0442726||detection
+C0043167||pertussis
+C0043167||pertussis
+C1257890||population
+C0043167||pertussis
+C0020972||immunization schedule
+C0031237||whole-cell pertussis vaccines
+C0031237||whole-cell pertussis vaccines
+C0982332||acellular pertussis vaccines
+C0982332||acellular pertussis vaccines
+C0700287||reported
+C0454664||countries
+C0700287||Reported
+C0043167||pertussis
+C1257890||population
+C0700287||reported
+C0014908||Estonia
+C0020174||Hungary
+C0036708||Serbia
+C0006368||Bulgaria
+C0020174||Hungary
+C0023128||Latvia
+C0035826||Romania
+C0036708||Serbia
+C0454664||countries
+C0031237||whole-cell pertussis vaccines
+C0982332||aP vaccines
+C0700287||reported
+C0043167||pertussis
+C0700287||reported
+C0043167||pertussis
+C0022885||confirmation tests
+C0678367||public
+C0043167||disease
+C0043167||disease
+C0043167||pertussis
+C0442726||detection
+C1515095||surveillance programs
+C0015176||Europe
+C0600367||seroprevalence studies
+C0442711||protocols
+C0086912||methodologies

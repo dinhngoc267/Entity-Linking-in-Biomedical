@@ -1,0 +1,47 @@
+C0003876||Arthrobacter ginkgonis sp. nov.
+C0600148||actinomycete
+C0330206||Ginkgo biloba L
+C0855278||Gram-stain-positive
+C0600148||actinobacterial strain
+C0003876||SYP-A7299T
+C0562679||rod-coccus growth lifecycle
+C0330206||Ginkgo biloba L
+C1519068||Phylogenetic analyses
+C0035899||16S rRNA gene sequences
+C0003876||strain SYP-A7299T
+C1708235||genus
+C0003876||Arthrobacter
+C2762206||Arthrobacter halodurans JSM 078085T
+C0035899||16S rRNA gene sequence
+C0012854||DNA
+C0012854||DNA
+C0003876||strain SYP-A7299T
+C2762206||A. halodurans JSM 078085T
+C0007623||cell-wall
+C0030958||peptidoglycan
+C0030958||A4α
+C0017725||glucose
+C0016945||galactose
+C0242209||whole-cell sugars
+C0023779||polar lipids
+C0574031||diphosphatidylglycerol
+C0031614||phosphatidylglycerol
+C0031621||phosphatidylinositol
+C0017950||glycolipids
+C0023779||polar lipid
+C0086605||menaquinone
+C0084980||MK-8(H2)
+C0127520||MK-9(H2)
+C0015684||cellular fatty acids
+C0646611||anteiso-C15: 0
+C0044840||iso-C15: 0
+C0044862||anteiso-C17: 0
+C0012854||DNA
+C0543482||morphological
+C0003876||strain SYP-A7299T
+C1705920||species
+C1708235||genus
+C0003876||Arthrobacter
+C0003876||Arthrobacter ginkgonis sp. nov.
+C0003876||SYP-A7299T
+C0003876||=DSM 100491T=KCTC 39 592T

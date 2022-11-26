@@ -1,0 +1,17 @@
+C0061626||guanidinoacetic acid
+C0025266||men
+C0043210||women
+C0220825||evaluated
+C0061626||guanidinoacetic acid
+C0061626||guanidinoacetic acid
+C0010286||creatine
+C3661466||healthy volunteers
+C0392674||exhaustion
+C0005767||Blood
+C0229671||serum
+C0061626||guanidinoacetic acid
+C0061626||guanidinoacetic acid
+C0229671||serum
+C0061626||guanidinoacetic acid
+C0005516||biomarker
+C0392674||exhaustion

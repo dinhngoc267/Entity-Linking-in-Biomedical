@@ -1,0 +1,30 @@
+C0149700||gastric obstruction
+C0011167||swallowing
+C0520753||swallowed foreign bodies
+C0009566||complications
+C0012240||digestive system
+C0016542||foreign bodies
+C0011167||swallowed
+C0009566||complication
+C0016542||objects
+C0034196||pylorus
+C0028778||obstruction
+C3887532||ulceration
+C0019080||bleeding
+C0549099||perforation
+C0014245||Endoscopy
+C0085704||exploratory laparatomy
+C0442418||endoscopic
+C0016542||foreign object
+C0015252||removal
+C0036341||schizophrenic
+C0162651||gastric outlet obstruction
+C0011167||swallowing
+C0038351||stomach
+C0192401||gastrotomy
+C0227389||descending colon
+C0185115||milking
+C0003461||anus
+C0033213||difficulties
+C0543467||surgery
+C0016542||foreign bodies

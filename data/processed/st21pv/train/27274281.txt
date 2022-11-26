@@ -1,0 +1,66 @@
+C0220825||Evaluation
+C1700874||axitinib
+C1709926||Response Evaluation Criteria in Solid Tumors
+C0332154||treated
+C0278678||metastatic renal cell carcinoma
+C1700874||Axitinib
+C1268567||tyrosine kinase inhibitor
+C0148199||vascular endothelial growth factor receptors
+C0006823||Canada
+C0004340||Australia
+C2346845||approval
+C1700874||axitinib
+C0454664||countries
+C0087111||treatment
+C2931852||clear-cell metastatic renal cell carcinoma
+C2931852||metastatic renal cell carcinoma
+C0040808||regimen
+C2826346||single-arm
+C1709323||open-label study
+C1700874||axitinib
+C1707887||efficacy
+C1705187||safety
+C2931852||metastatic renal cell carcinoma
+C0012634||disease
+C0242656||progressed
+C1708063||first-line regimen
+C0220825||evaluated
+C1709926||Response Evaluation Criteria in Solid Tumors
+C1709926||Response Evaluation Criteria in Solid Tumors
+C1705187||safety
+C2603343||study
+C2717898||statistics
+C0006823||Canada
+C0004340||Australia
+C1176020||sunitinib
+C0087111||therapy
+C0206681||clear-cell carcinoma
+C0027695||nephrectomy
+C0023884||Liver
+C0024109||lung
+C0024204||lymph nodes
+C0027627||metastases
+C0220650||brain metastasis
+C1700874||axitinib
+C1709926||Response Evaluation Criteria in Solid Tumors
+C0242656||progressive
+C0012634||disease
+C1709926||Response Evaluation Criteria in Solid Tumors
+C0242656||progression
+C0011065||death
+C2603343||study
+C2603343||study
+C1254351||drug
+C0015672||Fatigue
+C0011991||diarrhea
+C0087111||treatment
+C0877248||adverse events
+C0015176||European
+C0087111||treatment
+C1705187||safety
+C1707887||efficacy
+C1700874||axitinib
+C2603343||studies
+C2931852||metastatic renal cell carcinoma
+C1709926||Response Evaluation Criteria in Solid Tumors
+C0008972||research

@@ -1,0 +1,49 @@
+C0213238||Aquaporin-2
+C1373187||excretion
+C1623038||cirrhosis
+C1565489||renal insufficiency
+C0213238||aquaporin-2
+C0213238||aquaporin-2
+C1159571||water transport
+C0007634||principal cells
+C0005898||distal part
+C0027713||nephron
+C2584327||water retention
+C1623038||cirrhosis
+C0005516||marker
+C0232804||renal function
+C2603343||study
+C0213238||aquaporin-2
+C0683956||predictor
+C1565489||renal insufficiency
+C0011065||death
+C1623038||cirrhosis
+C1610733||Urine samples
+C0349410||organ failure
+C0349410||organ failure
+C0035078||renal failure
+C0349410||organ failure
+C0035078||renal failure
+C2603343||CANONIC study
+C0042036||urine
+C0213238||aquaporin-2
+C0086741||urine osmolality
+C0213238||aquaporin-2
+C0086741||Urine osmolality
+C1513916||No relation
+C0213238||aquaporin-2
+C0017654||glomerular filtration rate
+C0010294||creatinine
+C0213238||aquaporin-2
+C0683956||predictor
+C1565489||renal insufficiency
+C0213238||aquaporin-2
+C0683956||predictor
+C0213238||Aquaporin-2
+C0232804||renal function
+C0683956||predictor
+C1565489||renal insufficiency
+C0011065||death
+C0005516||marker
+C1565489||renal insufficiency
+C0035168||research

@@ -1,0 +1,78 @@
+C0242643||P-glycoprotein
+C0007610||nucleus
+C0007603||plasma membrane
+C1882598||rat brain
+C0014257||endothelium
+C0234251||inflammatory pain
+C0242643||P-glycoprotein
+C0242643||P-glycoprotein
+C1254351||drug
+C3824504||efflux pump
+C0005854||blood-brain barrier
+C0225336||endothelial cells
+C3714787||central nervous system
+C0087111||drug delivery
+C0242643||P-glycoprotein
+C3714787||central nervous system
+C0087111||drug delivery
+C1753353||PgP activity
+C1882598||rat brain
+C2350570||microvessels
+C3714787||central nervous system
+C0087111||drug delivery
+C0205100||peripheral
+C0234251||inflammatory pain
+C0242643||P-glycoprotein
+C0524462||luminal
+C0007603||plasma membrane
+C2350570||microvessel
+C0225336||endothelial cells
+C0178719||intracellular
+C0205100||peripheral
+C0234251||inflammatory pain
+C0079604||immunofluorescence microscopy
+C0442726||detected
+C0242643||P-glycoprotein
+C0225336||endothelial cell
+C0007610||nuclei
+C0524462||luminal
+C0007603||plasma membrane
+C1511501||control animals
+C0205100||peripheral
+C0234251||inflammatory pain
+C0524462||luminal
+C0242643||P-glycoprotein
+C0487602||staining
+C0487602||staining
+C0007610||nucleus
+C3495389||Biochemical analysis
+C0007610||nuclear
+C0242643||P-glycoprotein
+C0205100||Peripheral
+C0234251||inflammatory pain
+C0225336||endothelial cell
+C0524462||luminal
+C0487602||staining
+C1419128||polymerase 1 and transcript release factor
+C1419128||cavin1
+C1419916||serum deprivation response protein
+C1419916||cavin2
+C0033684||caveolar scaffold proteins
+C0033684||caveolin1
+C1418917||protein kinase C delta binding protein
+C1418917||cavin3
+C0450429||location
+C0242643||P-glycoprotein
+C0007610||nucleus
+C0225336||endothelial cell
+C0205100||peripheral
+C0234251||inflammatory pain
+C0302523||observation
+C0205100||peripheral
+C0234251||inflammatory pain
+C3714787||central nervous system
+C1254351||drug
+C0243144||uptake
+C0243095||regulatory mechanism
+C1753353||PgP activity
+C1882598||rat brain

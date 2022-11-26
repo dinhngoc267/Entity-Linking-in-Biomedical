@@ -1,0 +1,70 @@
+C0085504||Chlamydia pneumoniae
+C3714514||infection
+C1257792||vascular endothelial cell
+C0302600||angiogenesis
+C0529338||IQGAP1
+C0037080||signaling pathway
+C0085504||Chlamydia pneumoniae
+C0085504||C. pneumoniae
+C3714514||infection
+C0302600||angiogenesis
+C0085504||C. pneumoniae
+C0085504||C. pneumoniae
+C3714514||infection
+C0302600||angiogenesis
+C0529338||IQGAP1
+C0037080||signaling
+C0085504||C. pneumoniae
+C3714514||infection
+C0302600||angiogenesis
+C0085504||C. pneumoniae
+C3714514||infection
+C0302600||angiogenesis
+C1510438||tube formation assay
+C0332149||possibly
+C1257792||vascular endothelial cell
+C1257792||vascular endothelial cell
+C0043240||wound healing
+C1510438||Transwell migration assays
+C0021069||immunoprecipitation
+C0949466||Western blot
+C1510438||tube formation assay
+C1158886||phosphorylation
+C0529338||IQGAP1
+C0531254||N-WASP
+C0302600||angiogenesis
+C0085504||C. pneumoniae
+C3714514||infection
+C1449705||co-immunoprecipitation
+C0681827||study
+C0529338||IQGAP1
+C0531254||N-WASP
+C0085504||C. pneumoniae
+C3714514||infection
+C1257792||VECs
+C1155982||Actin polymerization
+C1510438||assay
+C0085504||C. pneumoniae
+C0439663||infected
+C1257792||VECs
+C0529338||IQGAP1
+C0531254||N-WASP
+C1180307||filamentous actin
+C0392752||localized
+C1621433||leading edge
+C0230628||lamellipodia
+C0529338||IQGAP1
+C1099354||small interference RNA
+C2350567||knockdown
+C1416471||IQGAP1
+C0531254||N-WASP
+C1158886||phosphorylation
+C0041485||Tyr256
+C0085504||C. pneumoniae
+C3714514||infection
+C0085504||C. pneumoniae
+C3714514||infection
+C1257792||vascular endothelial cell
+C0302600||angiogenesis
+C0529338||IQGAP1
+C0037080||signaling pathway

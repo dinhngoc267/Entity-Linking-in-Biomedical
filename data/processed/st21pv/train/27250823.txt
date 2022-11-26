@@ -1,0 +1,58 @@
+C0430022||techniques
+C2959489||endobronchial ultrasonography
+C0150600||guidance
+C0863477||transbronchial biopsy
+C2959489||Endobronchial ultrasonography
+C0025080||guide sheath
+C0863477||transbronchial biopsy
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0011900||diagnose
+C0577916||peripheral pulmonary lesions
+C0577916||peripheral pulmonary lesions
+C2603343||study
+C0863477||TBB
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0035363||retrospective analysis
+C0863477||TBB
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0577916||PPL
+C2959489||EBUS
+C0182400||probe
+C0205146||area
+C0011900||diagnosed
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0011900||diagnosed
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0011900||diagnosed
+C0863477||TBB
+C3827002||Ground glass opacity
+C3827002||Ground glass opacity
+C0863477||TBB
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0577916||PPL
+C2959489||EBUS
+C0182400||probe
+C0863477||TBB
+C0863477||TBB
+C2959489||EBUS
+C0025080||GS
+C0863477||TBB
+C0430022||procedure
+C0011900||diagnosis
+C3827002||ground glass opacity
+C0577916||peripheral pulmonary lesions
+C2959489||EBUS
+C0182400||probe
+C0577916||lesion

@@ -1,0 +1,40 @@
+C0038317||Brassinosteroid
+C0023779||lipid
+C0242724||leaves
+C1262903||Pisum sativum L.
+C1326530||senescence
+C0038317||steroid
+C0032082||phytohormone
+C0243833||24-epibrassinolide
+C0243833||24-epibrassinolide
+C0023779||lipid
+C0456387||classes
+C0015688||free fatty acids
+C0041004||triacylglycerols
+C0060960||galactolipids
+C1262903||pea
+C0242724||leaves
+C0243833||24-epibrassinolide
+C1326530||senescence
+C0015688||free fatty acids
+C0041004||triacylglycerols
+C0242724||leaves
+C0242724||mock-treated leaves
+C0015684||fatty acids
+C0060960||galactolipids
+C0242724||leaves
+C0243833||24-epibrassinolide
+C0242724||mock-treated leaves
+C0015688||free fatty acids
+C0023779||lipids
+C2612539||esterification
+C0023779||neutral lipids
+C0242724||leaves
+C0243833||24-epibrassinolide
+C0038317||steroid
+C0032082||phytohormones
+C1327622||regulation
+C0242724||leaf
+C1326530||senescence
+C0007634||cell
+C0023779||lipid

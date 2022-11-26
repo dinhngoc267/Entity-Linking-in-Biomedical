@@ -1,0 +1,7 @@
+C0242402||Opioids
+C0150055||chronic pain
+C0007670||CDC's
+C0007670||Centers for Disease Control and Prevention
+C0871685||clinicians
+C0033080||prescribe
+C0087111||treatment

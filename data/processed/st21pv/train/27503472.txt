@@ -1,0 +1,32 @@
+C0017976||GH32 family
+C0243102||activity
+C0026377||topological
+C0682969||domains to substrate binding
+C0017976||Glycoside hydrolases
+C0017976||Glycoside hydrolases
+C0014442||enzymes
+C0007004||carbohydrates
+C0007004||carbohydrate
+C0014442||enzymes
+C3714634||biological processes
+C0032098||plants
+C0017976||GH32 family
+C0014442||enzymes
+C0002518||sequence
+C1510464||Structural
+C0026377||topological
+C0033684||proteins
+C0017976||GH32 family
+C0026377||3D structures
+C0002518||amino-acid residues
+C1514562||domains
+C1510464||structural
+C0017976||GH32 enzymes
+C0014429||activation
+C1517880||binding of the border (cleft) region
+C1514562||domains
+C0243102||enzymatic activity
+C0017976||GH32 family
+C0430027||biochemical studies
+C0026377||topological signature
+C0017976||enzymes

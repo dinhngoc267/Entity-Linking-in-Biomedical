@@ -1,0 +1,43 @@
+C0449774||patterns
+C0025260||memory function
+C0679058||encoding
+C0242406||Neural networks
+C0039485||medial temporal lobe
+C0039485||medial temporal lobe
+C0162783||prefrontal cortex
+C4252868||posterior cortical regions
+C0561843||episodic memory function
+C0086418||humans
+C0679058||Encoding
+C0027792||neural pathways
+C0007776||cortex
+C0678594||structures
+C0039485||medial temporal lobes
+C1285654||memory performance
+C0679058||encoding
+C0025260||memory function
+C0524850||neurosurgical
+C0021107||implanted
+C0038541||subdural
+C0933845||intraparenchymal
+C0491577||depth electrodes
+C0282574||multivariate classifiers
+C0449774||patterns
+C0006104||brain
+C0679058||episodic encoding
+C0679058||encoding
+C0449774||patterns
+C0162783||prefrontal
+C0039485||medial temporal lobe
+C0030560||inferior parietal cortices
+C0006104||brain
+C0025260||memory function
+C0025260||memory function
+C0282574||classifiers
+C0679058||encoding
+C3161035||task-independent models
+C0025260||memory network
+C0679058||encoding
+C0332479||shapes
+C4303539||ability to remember the past
+C0679058||encoding

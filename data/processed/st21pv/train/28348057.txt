@@ -1,0 +1,57 @@
+C0301872||IMMUNE RECOGNITION
+C0010674||CYSTIC FIBROSIS
+C1482113||BURKHOLDERIA DOLOSA
+C1482113||Burkholderia dolosa
+C0010674||cystic fibrosis
+C0010674||cystic fibrosis
+C0020017||Boston Children's Hospital
+C3714514||infection
+C0011065||died
+C0009566||complications
+C3714514||infection
+C1482113||organism
+C1482113||B. dolosa
+C0012634||disease
+C0301872||immune response
+C0026809||mice
+C0439663||infected
+C1482113||B. dolosa strain
+C1482113||AU0158
+C0010674||cystic fibrosis
+C0033809||Pseudomonas aeruginosa
+C0026809||mice
+C0439663||infected
+C0016192||flagellin
+C0596988||mutant
+C1482113||B. dolosa
+C0016192||flagella
+C1482113||B. dolosa
+C0024109||lung
+C4289767||colonization
+C0546816||persistence
+C1482113||B. dolosa strains
+C0027950||neutrophil
+C0079189||cytokine
+C0033809||P. aeruginosa
+C0007634||immune cells
+C1482113||B. dolosa
+C1482113||B. dolosa
+C0079189||cytokine
+C0007635||cultured cells
+C0016192||flagella
+C0004611||bacteria
+C0011065||dead
+C1482113||B. dolosa
+C1819995||host cells
+C0301872||immune response
+C1515655||in vivo
+C1482113||B. dolosa
+C1264855||Burkholderia species
+C0079189||cytokine
+C0024432||macrophages
+C1187839||B. cenocepacia strains
+C1482113||B. dolosa AU0158
+C1819995||host cells
+C0020962||immune systems
+C0282676||Burkholderia strains
+C1705920||species

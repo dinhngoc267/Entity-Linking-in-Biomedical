@@ -1,0 +1,52 @@
+C4048328||cervical cancer
+C1710032||screening
+C0021201||India
+C4048328||Cervical cancer
+C0043210||women
+C0021201||India
+C2603343||study
+C4048328||cervical cancer
+C0021201||India
+C4048328||cervical cancer
+C1710032||screening
+C2717746||screening test
+C0025141||MEDLINE
+C1708608||keywords
+C4048328||cervical cancer
+C2717746||screening
+C0596473||early detection
+C0856201||cervical cytology
+C3669138||visual inspection
+C1135584||MeSH terms
+C3812881||authors
+C2603343||studies
+C1704324||published
+C0021201||India
+C2603343||studies
+C0150312||found
+C0150312||present
+C2603343||study
+C0021201||India
+C4048328||cervical cancer
+C0006826||cancers
+C0043210||women
+C4048328||cervical cancer
+C0034975||registries
+C0430022||visual inspection with acetic acid
+C0430022||visual inspection with acetic acid
+C0430022||magnified VIA
+C1519194||visual inspection with Lugol's iodine
+C1519194||visual inspection with Lugol's iodine
+C1305671||cytology
+C0079104||Pap smear
+C2985459||human papillomavirus DNA
+C1998546||infrastructure
+C0199230||cytology screening
+C4048328||cervical cancer
+C1710032||screening
+C2717746||visual screening test
+C0430022||visual inspection with acetic acid
+C1519194||visual inspection with Lugol's iodine
+C0086388||health-care setup
+C0454664||countries
+C0021201||India

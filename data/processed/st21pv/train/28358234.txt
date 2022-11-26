@@ -1,0 +1,85 @@
+C2348268||Iodine Storage
+C0025519||Metabolism
+C0342927||Iodine-Deficient
+C0032961||Pregnant
+C0034693||Rats
+C0342927||Severe iodine deficiency
+C1535926||neurodevelopmental disorders
+C0342927||mild to moderate iodine deficiency
+C0342927||mild to moderate iodine deficiency
+C0087130||uncertain
+C0523726||concentration of iodine
+C0040132||thyroid
+C2348268||iodine nutrition
+C2348268||iodine stores
+C0040132||thyroid cover
+C0021968||iodine
+C0342927||mild to moderate iodine deficiency
+C1553183||inductively coupled plasma-mass spectrometry
+C0034716||female Wistar rats
+C0342927||mild to moderate iodine deficiency
+C3714384||low iodine intake
+C3840145||normal
+C3840145||normal iodine intake
+C0034693||rats
+C1515021||divided into two subgroups
+C2745994||low iodine
+C0032961||pregnancy
+C2745994||low iodine pregnancy
+C2745994||low iodine
+C0032961||pregnancy
+C3661599||iodine supplement
+C3661599||LP+
+C3840145||normal iodine intake
+C0032961||pregnancy
+C0032961||NP
+C3840145||normal iodine intake
+C0032961||pregnancy
+C3661599||iodine supplement
+C3661599||NP+
+C0032961||pregnant
+C0034693||rats
+C3661599||NP+
+C3661599||LP+ groups
+C3840145||NP
+C2745994||LP groups
+C0034693||rats
+C0523726||iodine concentration
+C0040132||thyroid
+C1858460||maternal
+C2239178||newborn
+C0034693||rats
+C0032043||placenta
+C0002638||amniotic fluid
+C1553183||inductively coupled plasma-mass spectrometry
+C0523726||concentration of iodine
+C0040132||thyroid
+C3840145||N group
+C2745994||L group
+C0523726||concentration of iodine
+C2228489||maternal thyroids
+C2745994||LP group
+C3840145||NP group
+C0523726||iodine concentration
+C0040132||thyroid
+C3840145||NP
+C3661599||NP+ groups
+C0032961||low iodine pregnancy
+C3661599||LP+ groups
+C0523726||concentration of iodine
+C0002638||amniotic fluid
+C2348268||iodine storage
+C0040132||thyroid
+C1858460||maternal
+C0034693||rats
+C3661575||iodine supplementation
+C2348268||iodine stores
+C0034693||rats
+C0342927||mild to moderate iodine deficiency
+C3661575||Iodine supplementation
+C0523726||iodine concentration
+C0040132||thyroid
+C1858460||maternal
+C0034693||rats
+C0342927||mild to moderate iodine deficiency
+C0002638||amniotic fluid

@@ -1,0 +1,32 @@
+C0679646||players'
+C0004271||attitudes
+C0004271||match tackle attitudes
+C0679646||players
+C0679646||player's
+C0679646||players'
+C0004271||training attitudes
+C0004271||match attitudes
+C0034394||questionnaire
+C0004271||attitude
+C0679646||players
+C0451267||5-point Likert Scale
+C0034394||Questionnaires
+C0679646||players
+C0036375||schools
+C0036375||schools
+C0936012||analysis
+C0004083||Associations
+C0004271||training attitudes
+C0392366||χ(2) test, Cramer's V and τ-b
+C0004161||injuries
+C0679646||players
+C0184511||improve
+C0679646||players
+C0733755||position
+C2603343||study
+C0679646||players
+C0004271||training attitudes
+C0004271||match attitudes
+C0004161||injury
+C0004161||injuries
+C0582456||risk of injury

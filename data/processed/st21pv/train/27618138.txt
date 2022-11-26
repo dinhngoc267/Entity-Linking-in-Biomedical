@@ -1,0 +1,33 @@
+C0149512||Acute Complicated Sinusitis
+C0596545||Experience
+C0020028||University Hospital
+C0043122||West Indies
+C0149512||Complicated sinusitis
+C0678236||rare
+C0012634||condition
+C0043122||Caribbean
+C2603343||study
+C0184666||admitted
+C0012634||condition
+C0184666||admitted
+C0020028||University Hospital of the West Indies
+C0020028||University Hospital of the West Indies
+C0149512||complicated sinusitis
+C0936012||analysed
+C0600673||SPSS statistics 22 software
+C0029180||orbital
+C0009566||complications
+C0524466||intracranial
+C0009566||complications
+C0038402||streptococcus
+C0002645||amoxicillin
+C0055860||clavulinic acid
+C0205101||external
+C0442418||endoscopic approach
+C0205160||no
+C0237726||treated medically
+C0149512||Acute complicated sinusitis
+C0009566||complication
+C0029180||orbital
+C0543467||Surgical treatment
+C0442418||endoscopic approach

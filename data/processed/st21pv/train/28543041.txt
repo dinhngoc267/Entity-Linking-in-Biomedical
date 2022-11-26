@@ -1,0 +1,47 @@
+C0428776||cardiac index
+C0949236||pulse pressure
+C1283169||monitoring
+C0428886||mean arterial pressure
+C0087111||guided volume therapy
+C0087111||COGUIDE
+C3658312||pragmatic
+C0206012||multicentre
+C0206035||randomised controlled trial
+C1271494||goal-directed therapy
+C0392366||tested
+C0428776||cardiac index
+C0949236||pulse pressure
+C1283169||monitoring
+C0428886||mean arterial pressure
+C1271494||goal-directed therapy
+C0032787||postoperative complications
+C3658312||pragmatic
+C0206012||multicentre
+C0206035||randomised controlled trial
+C0034656||randomly allocated
+C0013113||envelope drawing
+C0428886||mean arterial pressure
+C0428776||cardiac index
+C0949236||pulse pressure
+C0018724||healthcare professionals
+C0150108||blinded
+C0428776||cardiac index
+C0949236||pulse pressure
+C0087111||haemodynamic therapy
+C0428886||mean arterial pressure
+C0428776||cardiac index
+C0949236||pulse pressure
+C0002045||pre-defined algorithm
+C2986535||primary endpoint
+C0032787||postoperative complications
+C0936012||analysis
+C0009566||complication rates
+C0949236||pulse pressure
+C0428776||cardiac indices
+C0439062||additional value
+C0428776||cardiac index
+C0949236||pulse pressure
+C0087111||guided haemodynamic therapy
+C0428886||mean arterial pressure
+C0087111||guided volume therapy
+C0032787||postoperative complications

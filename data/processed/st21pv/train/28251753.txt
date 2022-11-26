@@ -1,0 +1,7 @@
+C0035331||Retinal
+C0376451||transduction of light energy into chemical energy
+C0031760||photoreceptors
+C0014406||molecular environment
+C0035331||retinal
+C0035499||rhodopsin proteins
+C0035331||retinal

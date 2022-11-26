@@ -1,0 +1,28 @@
+C2584297||Sitting
+C1556095||South Korean
+C1556095||Korean
+C0376344||National Health and Nutrition Examination Survey
+C2584297||sitting
+C2584297||sitting
+C1556095||South Korean
+C2700446||self-report data
+C0679646||participants
+C0022771||Korea
+C0376344||National Health and Nutrition Examination Survey
+C2584297||sitting
+C0027361||individuals
+C0019532||higher income groups
+C0024045||lowest income group
+C3850150||Seoul
+C3850150||Seoul
+C0497406||overweight
+C0162791||guidelines
+C0679646||Participants
+C0019532||highest income group
+C0024045||lowest income group
+C3850150||Seoul
+C3850150||Seoul
+C2584297||sitting
+C2584297||sitting
+C3244304||public health
+C0022773||South Korea

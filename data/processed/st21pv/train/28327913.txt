@@ -1,0 +1,45 @@
+C1561598||Oxford Nanopore
+C2936547||barcoding
+C2348746||genome assembly
+C1561598||Oxford Nanopore Technologies
+C0025080||MinION(TM)
+C0162326||long read sequences
+C0684224||report
+C2348746||single contig genome assembly
+C1561598||Oxford Nanopore
+C2936547||barcoding
+C0017430||multiplexed library
+C0950138||short-read data
+C1521802||closure
+C0085238||bacterial genomes
+C0025080||MinION(TM)
+C0950138||short-read data
+C0038172||Staphylococcus aureus
+C2348746||assembly
+C0162326||barcoded long read sequences
+C0017428||genome
+C0038172||S. aureus
+C0950138||long-read data
+C0025080||MinION(TM)
+C0017428||genomic
+C0037589||tools
+C0035639||circular chromosome
+C0038172||S. aureus
+C0032136||plasmids
+C0017428||genome
+C0085238||USA300_FPR3757
+C0282583||translocation
+C1257903||mobile genetic elements
+C0025080||MinION(TM)
+C2936547||barcoding
+C0950138||short-read data
+C0085238||bacterial genome
+C0017428||genomes
+C0950138||short-read data
+C0243095||available
+C0025080||MinION(TM)
+C0162340||understanding
+C0017428||genome content
+C0032136||plasmid
+C0017428||genome
+C0017287||rearrangements

@@ -1,0 +1,37 @@
+C0012155||dietary
+C0035648||risk factors
+C0009324||ulcerative colitis
+C0442418||endoscopic
+C0009324||ulcerative colitis
+C0009324||ulcerative colitis
+C0442418||endoscopic
+C1522577||follow up
+C0009324||ulcerative colitis
+C0442418||endoscopic
+C0009324||ulcerative colitis
+C0442418||endoscopic
+C1522577||followed up
+C0012155||dietary
+C0035648||factors
+C3714514||infection
+C0003232||antibiotic
+C0003211||NSAIDs
+C2081612||medications
+C0025266||males
+C1522577||followed up
+C0003211||NSAIDs
+C0035243||respiratory tract infection
+C0038317||steroids
+C1947907||consumption
+C0006675||calcium
+C0035527||riboflavin
+C0042839||vitamin A
+C1947907||consumption
+C0242209||sugars
+C0003211||NSAIDs
+C0042839||Vitamin A
+C1522577||follow up
+C0009324||ulcerative colitis
+C0442418||endoscopic
+C0003211||NSAIDs
+C0042839||Vitamin A

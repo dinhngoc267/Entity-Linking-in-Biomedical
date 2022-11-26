@@ -1,0 +1,25 @@
+C0005329||sugar-sweetened beverages
+C0005329||sugar-sweetened beverages
+C0005329||sugar-sweetened beverages
+C0004340||Australia
+C0023682||multi-state lifetable Markov model
+C0332128||examine
+C0005329||sugar-sweetened beverages
+C2348561||study population
+C0238711||Australians
+C0001792||older
+C0870071||modelled
+C0005329||sugar-sweetened beverages
+C0027361||people
+C0028754||obesity
+C1257890||population
+C0027361||persons
+C0028754||obesity
+C0599987||employees
+C0028754||obesity
+C0027361||persons
+C1257890||population
+C0449445||approach
+C0025663||replacement cost method
+C0005329||sugar-sweetened beverages
+C0184511||improves

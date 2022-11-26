@@ -1,0 +1,69 @@
+C0677043||Histopathology
+C0016109||filum terminale
+C0080218||tethered cord syndrome
+C0013762||elastic tissue
+C0016109||filum
+C0016109||fila
+C0080218||tethered cord syndrome
+C0080218||tethered cord syndrome
+C1548802||low
+C0149601||conus
+C0225333||collagenous
+C0013762||elastic tissue
+C0016109||fila
+C0080218||tethered cord syndrome
+C0007471||cautery
+C0016109||filum
+C0700320||section
+C0016109||fila
+C0006629||cadavers
+C0080218||tethered cord syndrome
+C0016109||fila
+C0487602||stained
+C0523207||H&E
+C1294297||Masson trichrome
+C1294321||Verhoeff von Gieson elastic stains
+C1293950||Gordon and Sweet's reticulin stain
+C0016109||Fila
+C1184823||fibrous connective tissue
+C1184823||fibrous connective tissue
+C0230899||elastic fibers
+C0230899||elastic fibers
+C0035285||Reticulin fibers
+C0035285||Reticulin fibers
+C1180033||blood vessel walls
+C0027740||nerve
+C0015677||Fat
+C0016109||fila
+C0016109||fila
+C0080218||tethered cord syndrome
+C0225333||dense FCT
+C0230899||elastic fibers
+C0205234||focally
+C0016109||fila
+C0007471||cauterized
+C0728940||resection
+C1880179||coiled
+C0230899||elastic fibers
+C0444764||Coiling
+C0007471||cautery
+C0035285||Reticulin fibers
+C1180033||blood vessel walls
+C0015677||Fat
+C0243095||Findings
+C0149601||conus
+C0441994||low
+C0016109||fila
+C0080218||tethered cord syndrome
+C0149601||conus
+C0441994||low
+C0205161||abnormal
+C1184823||fibrous connective tissue
+C0230899||elastic fibers
+C1880179||coiled
+C0230899||elastic fibers
+C0444764||Coiling
+C0230899||elastic fibers
+C1704258||abnormality
+C0007471||cautery
+C0444764||coiling

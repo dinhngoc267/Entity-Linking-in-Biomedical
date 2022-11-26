@@ -57,7 +57,7 @@ def main(args):
         data = []
         for cui, list_synonyms in umls_synonym.items():
             semantic_type = umls_semantic[cui]
-            data.append(cui + '||' + semantic_type + '||' + '|'.join(list_synonyms))
+            data.append(cui + '||' + semantic_type + '|' + '|'.join(list_synonyms))
         
         f.write('\n'.join(data))
 

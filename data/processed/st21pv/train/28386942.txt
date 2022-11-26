@@ -1,0 +1,52 @@
+C0003289||antidepressants
+C0040615||antipsychotics
+C0043210||women
+C0004936||mental illness
+C0033978||Psychotropic medication
+C0032961||pregnancies
+C0013227||medications
+C2603343||study
+C0033978||psychotropic medication
+C0599755||cohort
+C0043210||women
+C0004936||mental illness
+C0204795||special care nursery
+C0184666||admission
+C0025102||reports
+C0003289||antidepressant
+C0040615||antipsychotic medication
+C0013162||combination
+C2985505||retrospective database analysis from a cohort
+C0004936||mental illness
+C0032961||pregnancy
+C0033011||pregnant women
+C0008902||grouped
+C0013227||medication
+C0936012||analysed
+C0871472||t-tests
+C0936012||analysis
+C0204795||special care nursery
+C0184666||admission
+C0043210||women
+C0204795||special care nursery
+C0184666||admission
+C0043210||women
+C0033978||psychotropic medication
+C0683971||general population
+C0150312||found
+C0204795||special care nursery
+C0237457||psychiatric admission
+C0032961||pregnancy
+C0033978||psychotropic medication
+C0204795||special care nursery
+C0184666||admission
+C0043210||women
+C0004936||mental illness
+C0033978||psychotropic medication
+C0013218||polytherapy
+C0003289||antidepressants
+C0040615||antipsychotic medication
+C0043210||women
+C0004936||mental illness
+C0237433||paediatric
+C0005615||delivery

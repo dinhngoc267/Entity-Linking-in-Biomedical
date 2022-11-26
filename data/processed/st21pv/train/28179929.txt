@@ -1,0 +1,35 @@
+C0040434||Tooth Discoloration
+C0043492||Zinc Oxide-Eugenol
+C0676273||Sealer
+C0676273||endodontic sealer
+C0475833||tooth color
+C2603343||study
+C0040434||tooth discoloration
+C0043492||zinc oxide-eugenol
+C0043492||nano zinc oxide-eugenol
+C0676273||sealer
+C0040434||tooth discoloration
+C0034099||pulp chamber
+C0086418||human
+C0021156||maxillary central
+C0021156||lateral incisors
+C0676273||sealers
+C0051001||AH-26
+C0051001||resin-based sealer
+C0072601||Pulpdent
+C0676273||sealer
+C0043492||ZOE
+C0043492||nano zinc oxide-eugenol
+C0676273||sealer
+C0676273||sealers
+C0676273||sealers
+C0183400||Easy Shade spectrophotometer
+C0936012||analyzed
+C0037585||SPSS software
+C0282574||paired comparison test
+C0043492||nano zinc oxide-eugenol
+C0676273||sealer
+C0040434||tooth discoloration
+C0051001||AH-26
+C0043492||ZOE
+C0676273||sealer

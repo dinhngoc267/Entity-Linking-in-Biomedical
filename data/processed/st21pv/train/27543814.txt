@@ -1,0 +1,42 @@
+C1101398||aureocin A70
+C0450442||promising agent
+C1101398||Aureocin A70
+C0004641||bacteriocin
+C2249823||inhibits the growth
+C0018154||Gram-positive bacteria
+C0023861||Listeria monocytogenes
+C0016452||food
+C1101398||Aureocin A70
+C0004635||bactericidal
+C0023861||listerial
+C1101398||aureocin A70
+C3179136||UHT-treated
+C0349375||skimmed milk
+C1439852||inoculated
+C0016452||food
+C0023861||L. monocytogenes L12 strain
+C1101398||Aureocin A70
+C0023861||listerial
+C0007584||viable cell counts
+C1439852||incubation
+C1101398||Aureocin A70
+C0042542||Vero
+C0007634||L-929 cell lines
+C0302110||hemolytic activity
+C0036945||sheep
+C0014792||red blood cells
+C1101398||Aureocin A70
+C1101398||Aureocin A70
+C0017133||gastric juice
+C0005404||bile salts
+C2825784||entrapment
+C1101398||aureocin A70
+C0102137||alginate
+C1533434||gelatin matrix
+C0004641||bacteriocin
+C0752344||low-density polyethylene plastic
+C1101398||aureocin A70
+C2249823||control the growth
+C0004611||bacteria
+C1101398||aureocin A70
+C0450442||promising alternative

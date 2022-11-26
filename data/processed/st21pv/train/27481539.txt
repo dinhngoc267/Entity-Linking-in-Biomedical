@@ -1,0 +1,29 @@
+C1457887||symptoms
+C0009244||cognitive-behavioral therapy
+C0030319||panic disorder
+C0022341||Japan
+C2603343||study
+C0332128||examined
+C1457887||symptoms
+C0009244||cognitive-behavioral therapy
+C0009244||cognitive-behavioral therapy
+C0030319||panic disorder
+C0030319||panic disorder
+C0030319||panic disorder
+C0009244||cognitive-behavioral therapy
+C0022341||Japan
+C0034980||multiple regression analysis
+C0332128||examined
+C0030319||panic disorder
+C1457887||symptoms
+C0233397||comorbid psychological symptoms
+C0009244||cognitive-behavioral therapy
+C0231397||anticipatory anxiety
+C0233702||agoraphobic fear
+C0870186||avoidance
+C0149779||somatization
+C0149779||somatization
+C0231397||anticipatory anxiety
+C0233702||agoraphobic fear
+C0009244||cognitive-behavioral therapy
+C0030319||panic disorder

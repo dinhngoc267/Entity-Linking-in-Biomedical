@@ -1,0 +1,20 @@
+C0033684||fluorescent proteins
+C0033684||fluorescent proteins
+C0033684||fluorescent proteins
+C1513384||genetic labeling
+C0007634||cells
+C0026022||fluorescence microscopy
+C0033684||fluorescent proteins
+C0544711||autofluorescent
+C0033684||fluorescent proteins
+C0220806||chemical
+C0014406||environment
+C0026383||structure
+C0033684||FP
+C0033684||FP
+C0033684||FP
+C0033684||FP
+C0243095||photostability
+C0596973||monomeric
+C0033684||fluorescent proteins
+C0033684||fluorescent proteins

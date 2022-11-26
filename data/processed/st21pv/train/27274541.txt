@@ -1,0 +1,42 @@
+C4307379||AtFAR2
+C0060094||fatty acid reductase
+C0162740||Arabidopsis thaliana
+C0001374||fatty acyl-CoA
+C0001369||ACP substrates
+C0015694||fatty alcohols
+C0015694||Fatty alcohols
+C0243072||derivatives
+C1820005||pollen wall
+C0596611||Mutations
+C0017337||genes
+C0060094||fatty acid reductases
+C0060094||fatty acid reductases
+C0015694||fatty alcohol
+C0205161||abnormal
+C0032385||pollen
+C1428496||AtFAR2 (MS2) gene
+C0162740||Arabidopsis thaliana
+C0032385||pollen
+C0205161||abnormal
+C1820006||exine layer
+C0243095||reduced fertility
+C4307379||AtFAR2
+C0008266||chloroplasts
+C0001369||acyl-ACP substrates
+C0032098||planta
+C4307379||AtFAR2
+C0162740||A. thaliana
+C0014442||enzyme
+C0001369||C16:0-ACP
+C0030239||C16:0-CoA
+C0055152||C16:0-alcohol
+C4307379||AtFAR2
+C0060094||AtFAR6
+C0008266||chloroplast
+C0392752||localized
+C0014442||enzyme
+C4307379||AtFAR2
+C0014442||enzyme
+C1820006||exine layer
+C0060094||AtFAR6
+C4307379||AtFAR2

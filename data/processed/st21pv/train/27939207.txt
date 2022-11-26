@@ -1,0 +1,43 @@
+C0347988||heavy metal
+C0449416||sources
+C1710133||southern
+C0008848||city
+C0008115||China
+C0037585||Multilinear Engine 2
+C0347988||Heavy metals
+C0008574||Cr
+C0009148||Co
+C0028013||Ni
+C0003818||As
+C0006632||Cd
+C0023175||Pb
+C0879626||adversely affecting
+C0086418||human
+C0449416||source
+C0347988||heavy metals
+C0449416||source
+C0347988||heavy metal
+C0347988||heavy metals
+C0037585||Multilinear Engine 2
+C0037585||Multilinear Engine 2
+C0086930||risk assessment
+C0449416||source
+C0347988||heavy metal
+C1513916||non-cancer risk
+C1513916||non-HMCR
+C0449416||source
+C0347988||heavy metals
+C0037585||Multilinear Engine 2
+C0449416||source
+C0086930||risk assessment
+C0449416||source
+C0008115||Huzou
+C0008115||China
+C0449416||sources
+C0449416||source
+C1513916||non-HMCR
+C0449416||source
+C0009131||coal
+C0004380||vehicle
+C0449416||sources
+C0347988||heavy metals

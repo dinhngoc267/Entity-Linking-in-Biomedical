@@ -1,0 +1,26 @@
+C1514562||Loop 2 Region
+C0073335||Ribosomal Protein uS5
+C0001268||Spectinomycin
+C0427965||Sensitivity
+C3824282||Translational Fidelity
+C1156140||Ribosome Biogenesis
+C0073335||Ribosomal protein uS5
+C1167012||small ribosomal subunit
+C1156143||subunit assembly
+C3824282||maintenance of translational fidelity
+C0035553||ribosome's
+C0001268||antibiotic spectinomycin
+C0026882||uS5 mutations
+C1148560||decoding
+C1148560||interface
+C0073333||uS4
+C1148560||uS4-uS5 interface
+C1514562||loop 2 region
+C0079866||mutagenesis
+C0014834||Escherichia. coli
+C0596988||unique mutants
+C1514562||loop 2
+C0001268||spectinomycin
+C3824282||fidelity of translation
+C0035701||rRNA
+C1156140||ribosome biogenesis

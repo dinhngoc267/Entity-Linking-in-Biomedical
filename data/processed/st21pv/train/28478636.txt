@@ -1,0 +1,38 @@
+C1999167||Advanced age
+C1541850||arteriovenous fistula
+C0035363||retrospective study
+C1541850||Arteriovenous fistulas
+C1541850||Arteriovenous fistulas
+C0019004||hemodialysis
+C1541850||Arteriovenous fistulas
+C0001792||elderly
+C0035363||Single-center retrospective review
+C1541850||AVF
+C1541850||AVF
+C1541850||AVF
+C1541850||AVF
+C0042377||patency
+C1541850||AVF
+C0009566||complications
+C1541850||AVF
+C0599755||cohort
+C0025266||male
+C0043157||Caucasian
+C0011847||diabetes
+C0007222||cardiovascular disease
+C0042377||patency
+C0009566||complications
+C0184661||intervention
+C0042377||patency
+C0042377||patency
+C0035648||risk factor
+C0042377||patency
+C0042377||patency
+C1541850||AVF
+C1254042||maturation
+C0042377||patency
+C0009566||complications
+C0184661||interventions
+C0042377||patency
+C1999167||advanced age
+C1541850||AVF

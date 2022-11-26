@@ -1,0 +1,52 @@
+C0006933||Capsids
+C0024432||Macrophage
+C1520007||rAAV
+C0282641||Transgene
+C0017262||Expression
+C0022417||Joints
+C0003864||Arthritic
+C0025929||Mice
+C0017296||Gene therapy
+C0087111||treat
+C0035435||rheumatic diseases
+C0150312||presence
+C0024432||macrophages
+C0022417||joint
+C0001417||adeno-associated viral
+C1520007||vector
+C0003864||arthritic
+C0025929||mice
+C2348003||administration of agents
+C0024432||macrophage
+C0006933||decoy capsids
+C0184511||improve
+C0001417||adeno-associated viral
+C1520007||vector
+C0282641||transgene
+C0017262||expression
+C0022417||joint
+C0040864||triamcinolone
+C0162357||clodronate
+C0023828||liposomes
+C0184511||improved
+C0024075||luciferase
+C0017262||expression
+C0006933||decoy capsids
+C0017428||genome
+C0006933||capsids
+C0008972||study
+C0017262||expression
+C0017262||gene expression
+C0017262||gene expression
+C0040864||triamcinolone
+C0442108||intra-articular
+C0442117||intramuscular
+C0025929||mice
+C0184511||improved
+C0017262||expression
+C0282641||transgene
+C0449943||serotype
+C0017296||gene therapy
+C0022417||joint
+C0040300||tissues
+C0024432||macrophages

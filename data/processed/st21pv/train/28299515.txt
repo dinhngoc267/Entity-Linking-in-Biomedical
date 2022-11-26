@@ -1,0 +1,34 @@
+C1014924||Spartium junceum
+C0242726||root system
+C0392673||adaptation
+C0242726||Root systems
+C0032098||plant
+C0242726||root system
+C1014924||Spartium junceum L.
+C0502371||anatomical features
+C0242726||root
+C0205093||lateral
+C0242726||roots
+C0205125||depth
+C0205093||lateral
+C0242726||roots
+C0032098||plants
+C0332514||asymmetric
+C0332514||asymmetric
+C0032098||plants
+C0205093||lateral
+C0242726||roots
+C0242481||Anatomical investigations
+C0242726||roots
+C0205146||area
+C1720877||xylem fibers
+C1720877||xylem
+C1720878||phloem fibers
+C0242726||root
+C1720877||xylem fiber
+C0007623||cell wall
+C0242726||Roots
+C1260603||fibers
+C1720877||xylematic
+C1514137||tissues
+C0242726||root

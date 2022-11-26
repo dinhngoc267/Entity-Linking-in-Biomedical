@@ -1,0 +1,61 @@
+C0023884||Liver
+C0041618||Ultrasound
+C1704922||Images
+C0162586||Fuzzy
+C0025663||Techniques
+C0023884||Liver
+C0041618||ultrasound
+C1704922||images
+C0011900||diagnose
+C0023895||diffuse liver diseases
+C0015695||fatty liver
+C1704922||images
+C0936012||analyze
+C0011900||diagnose
+C0012634||diseases
+C2603343||study
+C0023884||liver
+C0041618||ultrasound
+C1704922||images
+C2603343||study
+C1704922||image
+C0002045||enhancement algorithms
+C0162586||fuzzy logic
+C0023884||liver
+C0041618||ultrasound
+C1704922||images
+C0022646||kidney
+C0037585||Matlab2013b
+C1704922||image
+C0162586||fuzzy
+C1704788||definition
+C1704922||image
+C0002045||algorithms
+C0162586||fuzzy
+C0002045||algorithms
+C0162586||fuzzy
+C1704922||image
+C0025663||histogram hyperbolization
+C0002045||algorithms
+C0162586||fuzzy
+C0870077||IF-THEN rules
+C1704922||images
+C0162586||fuzzy
+C0025663||methods
+C0025663||histogram equalization method
+C0422976||visual quality
+C1704922||images
+C0023884||liver
+C0002045||segmentation algorithms
+C1704922||images
+C0002045||algorithms
+C0162586||fuzzy logic
+C1704922||image
+C0002045||algorithms
+C0162586||fuzzy
+C0002045||algorithm
+C0025663||method
+C2603343||studies
+C0041618||ultrasound
+C1704922||images
+C0936012||analysis

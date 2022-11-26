@@ -1,0 +1,53 @@
+C0035139||Multiple-level
+C0035139||Single-level Cervical Disk Replacement
+C1384641||Cervical Spondylosis
+C1955832||Systematic Review
+C0282458||Meta-analysis
+C1955832||systematic review
+C0282458||meta-analysis
+C2603343||study
+C0035139||multiple-level cervical disk replacement
+C0035139||cervical disk replacement
+C0035139||single-level CDR
+C0087111||treatment
+C1384641||cervical spondylosis
+C0035139||multiple-level CDR
+C0205094||anterior
+C1829459||decompression
+C1293131||fusion
+C1384641||cervical multiple-level spondylosis
+C0035139||multi-level CDR
+C0035139||single-level CDR
+C0025141||MEDLINE
+C0242356||EMBASE
+C0242356||Cochrane library databases
+C0681867||controlled studies
+C0035139||single-level
+C0035139||multiple-level CDR
+C0087111||treatment
+C1384641||cervical spondylosis
+C0936012||analyzed
+C0029396||heterotopic ossification
+C0035110||reoperation
+C2959538||Neck Disability Index scores
+C2960751||Visual Analog Scale scores
+C0008902||Odom grading system
+C2603343||studies
+C0206035||randomized controlled trials
+C0033522||prospective studies
+C0035363||retrospective studies
+C0035139||single-level
+C0035139||multiple-level
+C0029396||heterotopic ossification
+C0035110||reoperation
+C2959538||Neck Disability Index score
+C2960751||Visual Analog Scale score
+C0008902||Odom grading system
+C0282458||meta-analysis
+C0035139||multiple-level CDR
+C0035139||single-level CDR
+C1384641||cervical spondylosis
+C0035139||multiple-level CDR
+C0035139||single-level CDR
+C2603343||studies
+C0015195||evaluation

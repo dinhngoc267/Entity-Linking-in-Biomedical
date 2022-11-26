@@ -1,0 +1,47 @@
+C0282574||"Childhood Obesity Risk Evaluation" (CORE)-index
+C0028754||obesity
+C0018226||Greece
+C0150323||identification
+C0332167||high risk
+C0028754||obese
+C0028754||obesity
+C1287154||initiative
+C0282574||"Childhood Obesity Risk Evaluation (CORE)" index
+C1710032||screening
+C0028754||obesity
+C0282574||CORE-index score
+C0282574||CORE-index score
+C0028754||obesity
+C0242481||cut-off point analysis
+C0282574||CORE-index score
+C0028754||obese
+C0282574||Mean CORE-index score
+C0282574||CORE-index score
+C0028754||obesity
+C0282574||CORE-index score
+C0028754||obesity
+C0282574||CORE-index
+C1710032||screening
+C0150323||identification
+C0332167||higher risk
+C0028754||obese
+C1704312||health professionals
+C0332167||high risk
+C0010210||counselling
+C0085537||caregivers
+C0028754||obesity
+C1287154||initiatives
+C0028754||obesity
+C0243095||perinatal
+C0243095||socio-demographic indices
+C0028754||obesity
+C0282574||CORE-index
+C1710032||screening
+C0028754||obesity
+C0282574||CORE-index
+C1710032||screening
+C0282574||CORE-index
+C1710032||screening
+C1704312||health professionals
+C0028754||obesity
+C0033107||preventive measures

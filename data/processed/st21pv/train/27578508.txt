@@ -1,0 +1,52 @@
+C0220825||Evaluation
+C0005507||VIDAS Anti-HCV Assay
+C1511790||Detection
+C4288963||Hepatitis C Virus Infection
+C0166049||Anti-hepatitis C virus antibody
+C0166049||Anti-hepatitis C virus antibody
+C0005507||assays
+C1710032||screening
+C0027361||HCV -infected persons
+C0005507||VIDAS Anti-HCV Assay
+C0016674||France
+C0022885||enzyme-linked fluorescence test
+C0022771||Korea
+C0005507||VIDAS assay
+C1112419||HCV-positive
+C1619717||HCV-negative
+C0178913||blood samples
+C0005507||Architect anti-HCV
+C0041703||USA
+C1709846||COBAS TaqMan HCV real-time PCR
+C3828314||Roche Diagnostics
+C0041703||USA
+C0005507||Procleix Ultrio Plus Assay
+C0041703||USA
+C1290905||discrepant results
+C2987205||recombinant immunoblot assay
+C2987205||recombinant immunoblot assay
+C1112419||HCV-positive
+C1619717||HCV-negative
+C0178913||samples
+C0005507||VIDAS assay
+C1290905||discrepant
+C0178913||samples
+C1446409||positive
+C0019166||Core 2+
+C0021054||NS3-2 2+
+C0178913||samples
+C0205160||negative
+C0021054||NS4 2+
+C2987205||recombinant immunoblot assay
+C0005507||Architect assays
+C0005507||VIDAS anti-HCV assay
+C0020980||automated immunoassay platform
+C0022877||laboratories
+C0005507||Architect anti-HCV
+C1709846||COBAS PCR assays
+C4288963||HCV infection
+C0456984||Weakly test-positive (ambiguous)
+C0178913||samples
+C0166049||Anti-hepatitis C virus antibody
+C2987205||recombinant immunoblot assay
+C1272251||HCV RNA assay

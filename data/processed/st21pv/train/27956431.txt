@@ -1,0 +1,19 @@
+C0085405||Salvage Therapy
+C3656593||Ceftolozane-Tazobactam
+C4039743||Multidrug-Resistant Pseudomonas aeruginosa
+C0854135||Infections
+C0854135||Infections
+C4039743||multidrug-resistant Pseudomonas aeruginosa
+C4039743||multidrug-resistant Pseudomonas aeruginosa
+C0086388||therapeutic management
+C4039743||multidrug-resistant Pseudomonas aeruginosa
+C0854135||infection
+C0032285||pneumonia
+C0085405||salvage therapy
+C3656593||ceftolozane-tazobactam
+C1299597||empirical treatment
+C0087111||treatment
+C0036983||septic shock
+C0011065||died
+C1522577||follow-up
+C0025951||Microbiological

@@ -1,0 +1,61 @@
+C0026078||Midodrine
+C1176308||tolvaptan
+C0023890||cirrhosis
+C3532188||refractory
+C0034656||randomised
+C0031928||pilot study
+C1372887||Splanchnic arterial vasodilatation
+C0020488||sodium
+C0542203||water retention
+C0401037||cirrhotic ascites
+C0026078||Midodrine
+C1176308||tolvaptan
+C0013218||combination
+C0026078||midodrine
+C1176308||tolvaptan
+C0401037||ascites
+C0220825||evaluate
+C0026078||midodrine
+C1176308||tolvaptan
+C0013218||combination
+C3532188||refractory
+C0023890||cirrhotics
+C3532188||refractory
+C0034656||randomised
+C0026078||midodrine
+C1176308||tolvaptan
+C0418981||medical therapy
+C0418981||standard medical therapy
+C0418981||standard medical therapy
+C1287298||significant increase in urinary volume
+C3671887||urinary sodium
+C1257890||groups
+C0418981||standard medical therapy
+C0232805||renal
+C0232741||hepatic function
+C1257890||group
+C3826979||model for end-stage liver disease
+C3826979||model for end-stage liver disease
+C0026078||Midodrine
+C0013218||combination
+C0026078||midodrine
+C1176308||tolvaptan
+C1176308||tolvaptan
+C0418981||standard medical therapy
+C0401037||ascites
+C0013218||combination therapy
+C0026078||midodrine
+C0401037||ascites
+C1257890||groups
+C0418981||standard medical therapy
+C0031928||pilot study
+C0026078||midodrine
+C0013218||combination
+C1176308||tolvaptan
+C0401037||ascites
+C1565489||renal
+C0086565||hepatic dysfunction
+C0013218||combination therapy
+C0401037||ascites
+C0026078||midodrine
+C1176308||tolvaptan

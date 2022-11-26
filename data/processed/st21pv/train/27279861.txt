@@ -1,0 +1,24 @@
+C0025149||Medulloblastoma
+C1704259||molecular pathways
+C0008902||classification
+C0153633||Malignant brain tumors
+C0006826||cancer
+C1306577||death
+C0025149||medulloblastoma
+C0087111||treatment
+C0015252||surgical resection
+C3665472||chemotherapy
+C3714787||neuroaxis
+C1522449||radiotherapy
+C0087111||treatment
+C0879626||side effects
+C0600688||toxic effects
+C2699893||molecular-targeted treatment
+C0025149||Medulloblastoma
+C0035168||research
+C1706852||articles
+C0282443||review
+C0027651||neoplasm
+C0008902||classification
+C1519672||tumor biology
+C1301121||histological picture

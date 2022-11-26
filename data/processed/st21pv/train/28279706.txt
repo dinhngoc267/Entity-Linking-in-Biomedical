@@ -1,0 +1,18 @@
+C0006107||concussion
+C0006107||concussions
+C0270611||brain damage
+C2603343||studies
+C0011065||deceased
+C0238703||athletes
+C1511790||detected
+C0037817||speech
+C0682177||collegiate student
+C0238703||athletes
+C0006107||concussion
+C0038492||student
+C0238703||athletes
+C0037817||speech
+C0733755||position
+C0679739||peers
+C0006107||concussions
+C3830527||detectable

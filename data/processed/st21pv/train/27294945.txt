@@ -1,0 +1,52 @@
+C0055114||Cerium
+C0145999||Titanium Oxide
+C0678695||Nutrient
+C0486616||Composition
+C0331554||Barley
+C0331554||Hordeum vulgare L
+C0453143||Kernels
+C0242775||food crops
+C2603343||study
+C0055114||cerium oxide
+C0055114||nCeO₂
+C0145999||titanium oxide
+C0145999||nTiO₂
+C0331554||barley
+C0331554||Hordeum vulgare L.
+C0453143||kernels
+C0002732||amylose
+C1134651||β-glucans
+C0002520||amino acid
+C0033684||crude protein
+C0033684||crude protein
+C0453143||kernels
+C0016260||flour
+C2930679||ICP-AES/MS
+C0008562||HPLC
+C0007828||Ce
+C0040302||Ti
+C4055506||accumulation
+C0055114||nCeO₂
+C0145999||nTiO₂
+C0486616||composition
+C0331554||barley
+C0453143||kernels
+C1134651||β-glucans
+C0002732||amylose
+C0002520||amino acids
+C0033684||crude protein
+C0002520||amino acids
+C0024337||lysine
+C0033382||proline
+C0032821||Potassium
+C0038774||S
+C0055114||nCeO₂
+C0373748||Zn
+C0373677||Mn concentrations
+C0145999||nTiO₂
+C0145999||nTiO₂
+C0453143||kernels
+C1513916||negatively affected
+C0055114||nCeO₂
+C0145999||nTiO₂
+C0024651||malt

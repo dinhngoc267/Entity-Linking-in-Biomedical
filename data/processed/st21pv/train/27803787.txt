@@ -1,0 +1,89 @@
+C1676720||Yu-Ping-Feng-San
+C1704256||transforming growth factor beta 1
+C3158357||signaling suppression
+C0034721||rat
+C0012644||model
+C0024117||chronic obstructive pulmonary disease
+C1676720||Yu-Ping-Feng-San
+C1676720||Yu-Ping-Feng-San
+C0013227||Chinese medicine
+C0012634||diseases
+C0035237||respiratory systems
+C0024117||chronic obstructive pulmonary disease
+C0024117||chronic obstructive pulmonary disease
+C1290886||chronic inflammatory disease
+C3537153||molecular mechanism
+C1704256||transforming growth factor beta 1
+C1704256||transforming growth factor beta 1
+C1566792||Smad2
+C0037080||signaling pathway
+C0079189||inflammatory cytokines
+C1676720||Yu-Ping-Feng-San
+C1155266||inflammatory response
+C1704256||transforming growth factor beta 1
+C1566792||Smad2
+C3537152||signaling
+C0024117||chronic obstructive pulmonary disease
+C0034721||rats
+C0239059||cigarette smoke extract
+C0239059||cigarette smoke extract
+C0086418||human
+C1711178||bronchial epithelial (Beas-2B) cells
+C0024117||chronic obstructive pulmonary disease
+C0034721||rat
+C0012644||model
+C0239059||cigarette smoke
+C0023810||lipopolysaccharide
+C1676720||Yu-Ping-Feng-San
+C0003062||animals
+C1676720||Yu-Ping-Feng-San
+C0030660||pulmonary pathological damage
+C0079189||pro-inflammation cytokines
+C0017337||collagen related genes
+C1704256||transforming growth factor beta 1
+C1566792||Smad2
+C0037080||signaling pathway
+C0239059||cigarette smoke extract
+C0007634||cells
+C1676720||Yu-Ping-Feng-San
+C1704256||transforming growth factor beta 1
+C1566792||Smad2
+C3537152||signaling
+C2350567||knockdown
+C1334468||Smad2
+C1099354||Si-RNA
+C1704256||transforming growth factor beta 1
+C1676720||Yu-Ping-Feng-San
+C0273115||injury of lung
+C0079189||pro-inflammatory cytokines
+C0333584||collagen deposition
+C0024117||chronic obstructive pulmonary disease
+C0003062||animals
+C1704256||exogenous TGF-β1
+C0021753||IL-1β
+C0021760||IL-6
+C1456820||TNFα
+C1676720||Yu-Ping-Feng-San
+C1155266||inflammatory response
+C0013081||down-regulated
+C1704256||transforming growth factor beta 1
+C1566792||Smad2
+C3537152||signaling
+C1515655||in vivo
+C2350567||knockdown
+C1334468||Smad2
+C1704256||transforming growth factor beta 1
+C1676720||Yu-Ping-Feng-San
+C0239059||cigarette smoke extract
+C0007634||cells
+C1676720||Yu-Ping-Feng-San
+C0031715||phosphorylation
+C1566792||Smad2
+C1704256||transforming growth factor beta 1
+C1566792||Smad2
+C0037080||signaling pathway
+C1676720||Yu-Ping-Feng-San
+C0024117||chronic obstructive pulmonary disease
+C0034721||rats
+C0239059||cigarette smoke extract
+C1711178||Beas-2B cells

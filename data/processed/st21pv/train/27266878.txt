@@ -1,0 +1,43 @@
+C0678236||rare diseases
+C0008115||China
+C0008115||China
+C0678236||rare diseases
+C0678236||rare disease
+C0013232||orphan drugs
+C2603343||studies
+C0678236||rare disease
+C0008115||China
+C0242456||policy
+C0282574||social security mechanism
+C0678236||rare diseases
+C0008115||China
+C0012634||diseases
+C0678236||rare diseases
+C0011216||Delphi method
+C0087111||treatment
+C0678236||rare diseases
+C1257890||urban
+C1257890||rural residents
+C0008115||China
+C0678236||rare diseases
+C1257890||urban resident
+C1257890||rural residents
+C1257890||population
+C0678236||rare diseases
+C0221423||ill
+C4284232||medications
+C1257890||urban
+C1257890||rural residents
+C0678236||rare diseases
+C1257890||people
+C0087111||treatment
+C0678236||rare disease
+C0013232||orphan drugs
+C2347958||Residents
+C0087111||treatment
+C0678236||rare diseases
+C0678236||rare diseases
+C0205391||widespread
+C0282574||social security mechanism
+C0678236||rare disease
+C0013232||orphan drugs

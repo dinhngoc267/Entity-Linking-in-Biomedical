@@ -1,0 +1,33 @@
+C0872232||Nucleic acid detection
+C3658200||clustered regularly interspaced short palindromic repeats
+C0872232||nucleic acid detection
+C1511790||detection
+C1285573||genotyping
+C0012634||disease
+C1283169||monitoring
+C0035668||RNA
+C0035668||RNA
+C3658200||clustered regularly interspaced short palindromic repeats
+C3658200||clustered regularly interspaced short palindromic repeats
+C1948058||collateral
+C1148840||ribonuclease activity
+C1948058||collateral
+C3539922||isothermal amplification
+C3658200||clustered regularly interspaced short palindromic repeats
+C3658200||clustered regularly interspaced short palindromic repeats
+C0012854||DNA
+C0035668||RNA
+C1511790||detection
+C1704464||single-base
+C1511790||detection
+C0442726||detect
+C0318793||Zika
+C0011315||Dengue virus
+C0004611||bacteria
+C0086418||human
+C0012854||DNA
+C0026882||mutations
+C0007625||cell-free
+C0012930||tumor DNA
+C0034760||reagents
+C0016698||lyophilized

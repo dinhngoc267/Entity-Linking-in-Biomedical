@@ -1,0 +1,36 @@
+C1283169||Monitoring
+C1514570||proteolytic processing
+C3525763||quantitative mass spectrometry
+C1150095||Protease activity
+C3714634||biological processes
+C0017262||gene expression
+C0597297||protein turnover
+C0678723||development
+C0243095||misregulation
+C0033684||proteins
+C0376358||prostate
+C0006142||breast
+C0007114||skin cancer
+C0030940||protease
+C0162340||understand
+C0597304||proteolysis
+C0030664||pathologies
+C0872252||Proteomics
+C0025663||methods
+C0597304||proteolysis activity,
+C0030940||protease
+C0441485||applications
+C1450477||systems biology
+C0805586||challenges
+C0030940||protease
+C0243095||Dysregulated
+C1150095||protease activity
+C0012634||disease
+C0030664||pathologies
+C0006826||cancer
+C0456984||results
+C0037813||Mass spectrometry
+C0872252||proteomics
+C1150095||protease activity
+C0030944||mapping
+C0002518||cleavage sites

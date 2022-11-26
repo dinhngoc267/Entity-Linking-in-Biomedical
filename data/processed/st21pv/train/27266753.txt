@@ -1,0 +1,64 @@
+C0019080||bleeding
+C0396565||lung resection surgery
+C2985505||retrospective matched cohort analysis
+C2700280||world
+C0035363||retrospective study
+C0019080||bleeding
+C0396565||lung resection surgery
+C0041703||US
+C2603343||study
+C0242356||Premier Perspective Database(TM)
+C0189497||primary pulmonary lobectomy
+C0189488||segmentectomy procedures
+C0752151||VATS
+C4283938||open
+C0920688||primary
+C0920688||metastatic lung cancer
+C0430022||non-lung cancer
+C0456388||blood products
+C2316467||PRBCs
+C0019080||bleeding
+C0599755||cohort
+C1273937||non-significant
+C0019080||bleeding
+C0599755||cohort
+C0456388||blood products
+C0019080||bleeding
+C0599755||cohort
+C0086027||cohort analysis
+C0019080||bleeding
+C0019080||bleeding
+C0599755||cohort
+C0019994||hospital
+C0920688||lung cancer diagnosis
+C0944777||procedure type
+C0599755||cohort
+C0019080||bleeding
+C1273937||non-significant
+C0019080||bleeding
+C0019080||bleeding
+C0817096||chest
+C0019080||bleeding
+C0019080||bleeding
+C0599755||cohort
+C1273937||non-significant
+C0019080||bleeding
+C0599755||cohort
+C0019994||hospital
+C0019080||bleeding
+C0599755||cohort
+C0019080||bleeding
+C0599755||cohort
+C0019080||bleeding
+C0599755||cohort
+C2987624||segmentectomy
+C0019080||bleeding
+C0599755||cohort
+C1273937||non-significant
+C0019080||bleeding
+C0019080||bleeding
+C0599755||cohort
+C0019080||bleeding
+C0396565||lung resection surgery
+C0009566||complication
+C0019994||hospital

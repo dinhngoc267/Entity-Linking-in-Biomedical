@@ -1,0 +1,38 @@
+C0037812||Spectral fingerprints
+C0007776||cortical
+C0026598||motion perception
+C0027882||neuronal
+C0234421||consciousness
+C0234421||conscious
+C0030971||perception
+C0007776||cortical areas
+C4042905||phase coupling
+C0007776||cortical
+C4042905||coupling modes
+C0234393||cortical functions
+C4042905||coupling modes
+C4042905||phase and envelope coupling
+C0013819||EEG
+C0679646||participants
+C0025365||bistable motion task
+C0936012||analysis
+C4042905||coupling modes
+C0007776||cortical
+C4042905||gamma-band phase coupling
+C0042817||visual cortex
+C0031734||visual tokens
+C0560560||moving
+C0031734||visual stimulation
+C4042905||envelope coupling
+C0026598||motion perception
+C1518897||local parieto-occipital
+C4042905||alpha-band phase coupling
+C0205139||hemispheric
+C0443158||brain activity
+C1327511||processing of sensory
+C0679019||information integration
+C3494293||spatiotemporal scales
+C0007776||cortical
+C3494293||spatiotemporal correlation
+C0006104||structure of the brain
+C0007776||cortical

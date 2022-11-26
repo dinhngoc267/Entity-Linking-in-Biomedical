@@ -1,0 +1,53 @@
+C0205157||Remote
+C0376466||Ischemic Conditioning
+C0022646||Renal
+C0205157||remote
+C0376466||ischemic conditioning
+C0376466||remote ischemic conditioning
+C0035168||research
+C0543488||interest
+C0376466||remote ischemic conditioning
+C0040300||tissues
+C0010957||damage
+C0199171||procedures
+C2609414||Acute kidney injury
+C2609414||Acute kidney injury
+C0199171||medical procedures
+C0376466||remote ischemic conditioning
+C0232804||kidney function
+C0079816||studies
+C0376466||remote ischemic conditioning
+C0018821||cardiac surgery
+C0184661||interventions
+C0013125||intravenous administration
+C0009924||contrast media
+C0079816||studies
+C0376466||remote ischemic conditioning
+C0232804||kidney function
+C0206035||randomized controlled trials
+C0376442||Remote Ischemic Preconditioning
+C0018821||Cardiac Surgery
+C0376442||Remote Ischaemic Preconditioning
+C0018821||Heart Surgery
+C0010055||E RIC CA
+C1513916||negative
+C2609414||Acute kidney injury
+C0232804||renal function
+C0008976||trials
+C0920317||meta-analyses
+C0679646||participants
+C0376466||remote ischemic conditioning
+C1704324||published
+C0079816||studies
+C0150098||available data
+C0282443||review
+C0035168||research
+C3812881||authors
+C0282443||review
+C0008976||clinical trial
+C0376466||ischemic conditioning
+C0079816||studies
+C1704788||definitions
+C0679840||goals persists
+C0376466||ischemic conditioning
+C0008971||clinical utility

@@ -1,0 +1,25 @@
+C1271941||Consumption of fruits and vegetables
+C0006137||Northeast Brazil
+C1271941||consumption of fruits and vegetables
+C3489624||soft drinks
+C0497406||overweight
+C0028754||obesity
+C0010362||cross-sectional school-based study
+C0038492||students
+C1301808||state of Sergipe
+C0006137||Brazil
+C1271941||consumption of fruits and vegetables
+C3489624||soft drinks
+C0497406||overweight
+C0028754||obesity
+C0034394||Global Student Health Survey questionnaire
+C3698309||body mass
+C0008041||chi-square test
+C0206031||crude and adjusted binary logistic regression
+C0814896||significance level
+C1271941||consumption of fruits and vegetables
+C1271941||consumption of fruits and vegetables
+C3489624||soft drinks
+C3489624||soft drinks
+C0497406||overweight
+C0028754||obesity

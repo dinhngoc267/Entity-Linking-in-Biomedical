@@ -1,0 +1,55 @@
+C0344104||breast magnetic resonance imaging
+C0279563||lobular carcinoma in situ
+C0728940||excision
+C0344104||Breast magnetic resonance (MR) imaging
+C0199230||screening
+C1511790||detecting
+C4050405||suspicious
+C0221198||lesions
+C0262926||history
+C0279563||lobular carcinoma in situ
+C0279563||lobular carcinoma in situ
+C2603343||study
+C0220825||evaluate
+C0344104||breast MR imaging
+C1511790||detecting
+C3272697||remnant
+C0279563||lobular carcinoma in situ
+C0221198||lesions
+C0728940||excision
+C0279563||lobular carcinoma in situ
+C2586066||underwent
+C0728940||excision
+C0080264||Breast ultrasonography
+C0344104||breast MR imaging
+C0728940||excision
+C1287399||Imaging findings
+C0030660||pathologic
+C1709603||positive margins
+C0728940||excision
+C0279563||lobular carcinoma in situ
+C1368920||atypical lobular hyperplasia
+C0221198||lesions
+C0279565||invasive lobular carcinoma
+C0279563||lobular carcinoma in situ
+C1368920||atypical lobular hyperplasia
+C0334242||papillary carcinoma in situ
+C0543467||operation
+C0221198||lesions
+C0080264||ultrasonography
+C0344104||breast MR imaging
+C0344104||Breast MR imaging
+C0080264||breast ultrasonography
+C1511790||detecting
+C3272697||remnant
+C0279563||lobular carcinoma in situ
+C0221198||lesions
+C4050405||suspicious
+C0221198||lesion
+C0344104||breast MR imaging
+C0543467||operation
+C0332149||possibility
+C2986663||multifocality
+C0279563||lobular carcinoma in situ
+C0750484||confirmed
+C0543467||operation

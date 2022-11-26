@@ -1,0 +1,29 @@
+C0037585||Software
+C0025663||Method
+C0232991||Term
+C0024485||Magnetic Resonance Imaging
+C2603343||study
+C0025663||method
+C0015965||fetal
+C0005615||delivery
+C0220825||evaluate
+C0025663||method
+C0032961||gestation
+C0182281||picture archiving and communication system
+C0182281||picture archiving and communication system
+C3887622||intersection gap
+C2939193||median
+C0025663||method
+C0182281||picture archiving and communication system
+C0025663||methods
+C2939193||median
+C2939193||median
+C0025663||method
+C0182281||picture archiving and communication system
+C0025663||method
+C0025663||method
+C0182281||picture archiving and communication system
+C3887622||gap
+C0025663||method
+C0182281||picture archiving and communication system
+C0025663||method

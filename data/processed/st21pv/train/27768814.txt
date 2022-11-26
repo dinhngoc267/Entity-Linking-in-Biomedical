@@ -1,0 +1,63 @@
+C0321773||plant parasitic nematode
+C0997987||Bursaphelenchus xylophilus
+C0004611||bacterium
+C0445754||Serratia quinivorans BXF1
+C0597252||plant-growth
+C0330186||pine
+C1265415||endophyte
+C0243076||antagonistic
+C2603343||study
+C0445754||Serratia quinivorans BXF1
+C0004611||bacterium
+C0997987||Bursaphelenchus xylophilus
+C0321773||plant parasitic nematode
+C0330186||pine
+C0032080||wilt disease
+C0445754||strain BXF1
+C0330186||pine
+C0032080||wilt disease
+C0445754||strain BXF1
+C1704319||nematode
+C0035150||reproduction
+C0004611||bacteria
+C1704319||nematode
+C0017337||chitinase gene (Bxcht-1)
+C0017262||expression
+C0004611||bacterial
+C0008145||chitinase
+C1704319||nematode
+C0035150||reproduction
+C0445754||strain BXF1
+C4289767||colonize
+C1704319||nematode
+C1704319||nematode
+C0043335||xenobiotic
+C0449430||stress
+C0445754||strain BXF1
+C0032098||tomato
+C0330186||pine
+C0597252||plant-growth
+C4289767||colonize
+C0597252||plant-growth
+C1265415||endophyte
+C0445754||strain BXF1
+C1457887||wilting symptoms
+C0330186||pine
+C2700376||shoot
+C0004611||bacterium
+C0243076||antagonistic
+C0016832||fungi
+C0004611||bacteria
+C1028819||Pinus pinaster
+C0997987||B. xylophilus
+C0330186||pine
+C0032080||wilt disease
+C1457887||symptoms
+C0004611||bacteria
+C0445754||BXF1
+C0597252||plant-growth
+C0243076||antagonistic
+C0997987||B. xylophilus
+C0004611||bacterial
+C1265415||endophytic community
+C0330186||pine

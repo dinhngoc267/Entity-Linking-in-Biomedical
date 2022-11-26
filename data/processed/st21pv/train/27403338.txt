@@ -1,0 +1,42 @@
+C0220825||Evaluation
+C0008520||Choroidal
+C0206368||Pseudoexfoliation Syndrome
+C0206368||Pseudoexfoliation Glaucoma
+C0442163||peripapillary
+C0008520||choroidal
+C0015392||eyes
+C0206368||pseudoexfoliation (PEX) syndrome
+C0206368||PEX glaucoma
+C0015392||eyes
+C0033522||prospective study
+C0015392||eyes
+C0206368||PEX syndrome
+C0015392||eyes
+C0206368||PEX glaucoma
+C0015392||eyes
+C0008520||Choroidal
+C0442163||peripapillary
+C0205146||areas
+C3876157||spectral domain optical coherence tomography
+C1273937||not significantly
+C0008520||choroidal
+C0442163||peripapillary
+C0205146||areas
+C1282910||superior
+C1631280||quadrant
+C0206368||PEX syndrome
+C0206368||PEX glaucoma
+C0442163||peripapillary
+C0008520||choroidal
+C0206368||PEX glaucoma
+C0206368||PEX syndrome
+C1273937||not significant
+C0243095||findings
+C2603343||study
+C0442163||peripapillary
+C0008520||choroidal
+C0206368||PEX syndrome
+C0206368||PEX glaucoma
+C0008520||choroid
+C0017601||glaucomatous
+C0206368||PEX syndrome

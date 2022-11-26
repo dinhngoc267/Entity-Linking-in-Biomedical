@@ -1,0 +1,53 @@
+C0376452||Methylation
+C0033413||promoter region
+C0086418||human
+C1333589||frizzled 9 gene
+C0023465||acute myeloid leukemia
+C1333589||FZD9 gene
+C0079427||tumor suppressor gene
+C2603343||study
+C0332128||examined
+C1333589||FZD9
+C0086860||promoter
+C0376452||methylation
+C0013081||downregulation
+C1333589||FZD9
+C0017262||expression
+C0023418||leukemia
+C0007634||cells
+C0017262||expression
+C1333589||FZD9 gene
+C0023418||leukemic
+C0085983||cell lines
+C0029224||DNA demethylating agent
+C0029224||5-aza-2'-deoxycytidine
+C3831347||Bisulfite sequencing analysis
+C1333589||FZD9
+C0033413||promoter region
+C0376452||methylated
+C0085983||cell lines
+C1333589||FZD9 gene
+C0017262||expressed
+C0025723||DNA methylation
+C0033413||promoter region
+C1333589||FZD9 gene
+C0023418||leukemia
+C0012854||DNA
+C0376452||methylated
+C1321301||peripheral blood mononuclear cells
+C0376452||Methylation
+C0032520||polymerase chain reaction analysis
+C0033413||promoter region
+C1333589||FZD9 gene
+C0376452||methylated
+C0023465||acute myeloid leukemia
+C0023487||acute promyelocytic leukemia
+C0376452||methylation
+C0004561||B-cell
+C0023449||acute lymphocytic leukemia
+C2603343||study
+C0376452||methylation
+C1979963||profile
+C1333589||FZD9 gene
+C0079427||tumor-suppressor gene
+C0023465||acute myeloid leukemia

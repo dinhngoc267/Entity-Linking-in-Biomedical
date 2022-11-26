@@ -1,0 +1,45 @@
+C0030279||Laparoscopic Pancreatectomy
+C0030279||Laparoscopic pancreatectomy
+C1298805||routine procedure
+C0017480||Germany
+C0454664||countries
+C1883562||working group
+C0475309||centers
+C0475309||centers
+C0030279||laparoscopic pancreatectomy
+C0087111||Procedures
+C1883297||laparoscopy
+C4283938||open surgery
+C0034975||registry
+C0086692||benign disease
+C0006826||malignancies
+C0027651||borderline tumors
+C0087111||procedure
+C0030279||laparoscopic left pancreatectomy
+C0015252||resection
+C0227579||head of the pancreas
+C0027651||tumor
+C1283063||enucleation
+C0021890||intraoperative complication
+C0019080||hemorrhage
+C4283938||open surgery
+C0026168||minilaparotomies
+C0030290||pancreatic fistula
+C0543467||surgery
+C0035110||reoperation
+C0032788||postoperative hemorrhage
+C0277599||procedure-related mortality
+C0030201||postoperative pain
+C0011849||diabetes mellitus
+C0087111||procedure
+C0599755||cohort
+C0034975||registry
+C0027361||persons
+C0030279||laparoscopic pancreatectomy
+C0019994||hospital
+C0543467||operative procedures
+C0030279||laparoscopic pancreatectomy
+C0017480||Germany
+C0009566||complication
+C4283938||open surgery
+C0206034||randomized trial

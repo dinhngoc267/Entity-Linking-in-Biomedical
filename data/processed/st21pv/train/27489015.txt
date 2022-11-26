@@ -1,0 +1,31 @@
+C0442366||Trans-oral
+C0223098||cervical (C1 and C2) vertebral
+C0221198||lesions
+C0430022||diagnostic approach
+C0011900||diagnosing
+C1336528||superficial
+C0027651||deep-seated neoplastic
+C0221198||non-neoplastic lesions
+C0442366||trans-oral
+C0223098||cervical (C1 and C2) vertebral
+C0446501||paravertebral
+C0221198||lesions
+C0223098||cervical vertebral
+C0446501||paravertebral
+C0221198||lesions
+C0442366||trans-oral route
+C0010819||cytology
+C1704729||department
+C0035172||PGIMER
+C0011900||diagnosis
+C0011900||diagnosis
+C0553697||granulomatous inflammation
+C0041296||tuberculosis
+C0442366||Trans-oral
+C1299353||outpatient procedure
+C0223098||C1 and C2 vertebral
+C0446501||paravertebral
+C0221198||lesions
+C0039431||radiologically
+C0596473||early diagnosis
+C1610129||management of these patients

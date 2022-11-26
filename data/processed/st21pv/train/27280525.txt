@@ -1,0 +1,24 @@
+C0036341||schizophrenia
+C0013987||emotion
+C0025361||processing
+C0036341||schizophrenia
+C0033920||Psychometric Evaluation (SCOPE) Study
+C0033920||psychometrically
+C0430022||sound measures
+C2603343||study
+C0332128||examine
+C0036341||schizophrenia
+C0033920||psychometrically
+C0430022||sound measures
+C0332128||examine
+C2603343||study
+C0036341||schizophrenia
+C0332128||examine
+C1457887||symptoms
+C0282574||one-factor model
+C1512346||visits
+C1457887||negative symptoms
+C0036341||schizophrenia
+C1257890||groups
+C2603343||study
+C1512346||visits

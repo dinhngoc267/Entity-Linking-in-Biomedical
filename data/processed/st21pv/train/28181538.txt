@@ -1,0 +1,64 @@
+C4277689||Epigenetic Editing
+C1332009||Ascl1 Gene
+C1113654||Neural Stem Cells
+C3494301||Optogenetics
+C0014442||Enzymes
+C1516924||epigenetic processes
+C0025831||methyltransferases
+C0014442||demethylases
+C0012854||persistent DNA
+C1156199||histone modifying
+C3494301||optogenetic
+C0282574||toolbox
+C0600499||catalytic domain
+C0600499||catalytic domain
+C2348048||DNA-methyltransferase3A
+C2348048||DNMT3A
+C0600499||catalytic domain
+C2987138||Ten-Eleven Dioxygenase-1
+C2987138||TET1
+C0600499||catalytic domain
+C1708726||loci
+C0026882||alteration
+C0376452||methylation
+C0086860||promoter
+C1332009||Ascl1
+C1332009||Mash1
+C0017337||candidate proneuron gene
+C0033684||Optogenetical protein pairs
+C3813555||CRY2
+C2348048||DNMT3A
+C0600499||catalytic domain
+C2987138||TET1
+C0600499||catalytic domain
+C1447592||CIB1
+C0033684||Transcription Activator-Like Element
+C0033684||Transcription Activator-Like Element
+C1332009||Ascl1
+C0033413||promoter region
+C0449604||site specific
+C4277689||epigenetic editing
+C1332009||Ascl1
+C0086860||promoter
+C0035804||murine
+C0017070||dorsal root ganglion
+C0376452||hypermethylated
+C0007634||cells
+C0376452||hypomethylated
+C0033684||optogenetic-epigenetic constructs
+C0684292||illumination
+C0033684||TALE constructs
+C2348048||DNMT3A
+C0600499||catalytic domain
+C2987138||TET1
+C0600499||catalytic domain
+C0162768||fusion proteins
+C1332009||Ascl1
+C0086860||promoter
+C0162768||fusion proteins
+C0376452||methylation
+C0017263||regulates
+C0017255||gene activity
+C1148560||regulate
+C0017255||gene activity
+C4277689||epigenetic modulation

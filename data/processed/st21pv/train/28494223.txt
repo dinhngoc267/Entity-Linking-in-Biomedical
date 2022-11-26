@@ -1,0 +1,28 @@
+C0679019||integration
+C0015450||face
+C1547383||name
+C0025260||memory formation
+C0596545||experience
+C0014406||environment
+C0025260||memories
+C2603343||study
+C0679019||integration
+C0025260||memory formation
+C0024485||magnetic resonance imaging
+C0027882||neural
+C0679019||integration
+C0025260||memory
+C1281074||superior temporal sulcus
+C0679019||integration
+C0015450||face
+C1547383||name
+C0025260||memory system
+C0025260||memory formation
+C0015450||face
+C1547383||name
+C0228243||fusiform gyrus
+C0679646||participants
+C0034770||remembered
+C0015450||face
+C1547383||name
+C0025260||memories

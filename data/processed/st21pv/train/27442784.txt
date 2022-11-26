@@ -1,0 +1,54 @@
+C0032043||Placental
+C0405107||Morbidly Adherent Placenta
+C0699748||Pathogenesis
+C0405107||morbidly adherent placenta
+C0405107||morbidly adherent placenta
+C0032043||placental
+C0230992||implantation site
+C0405107||morbidly adherent placenta
+C2607850||institution
+C0035363||retrospective case-control study
+C0032043||placentas
+C0566687||delivered
+C0405107||morbidly adherent placenta
+C1273869||intervention
+C0011209||delivery
+C0404381||placental delivery
+C0391874||manual extraction
+C0032043||placenta
+C0032043||placentas
+C0582103||examination
+C0032967||history
+C0006826||malignancy
+C1513916||no
+C0032044||accreta
+C0032043||Placental
+C0012634||maternal vascular underperfusion
+C0012634||maternal vascular underperfusion
+C0333361||acute inflammation
+C0021376||chronic inflammation
+C0015965||fetal
+C1096458||vascular obstruction
+C0019080||hemorrhage
+C0683312||categories
+C0405107||morbidly adherent placenta
+C0032043||placentas
+C0032043||placentas
+C0021376||chronic basal inflammation
+C0012634||maternal vascular underperfusion
+C0019080||retromembranous
+C0269801||intervillous hemorrhage
+C1300128||chronic basal villitis
+C3899627||plasma cell deciduitis
+C3898771||increased syncytial knots
+C0243095||increased perivillous fibrin
+C0087086||subchorionic
+C3898711||intervillous thrombi
+C0405107||morbidly adherent placenta
+C0405107||morbidly adherent placenta
+C0542014||intraparenchymal placental hemorrhage
+C0012634||maternal vascular underperfusion
+C1334467||lymphoplasmacytic infiltrate
+C0230992||implantation site
+C1333036||basal chronic inflammatory infiltrate
+C0405107||morbidly adherent placenta

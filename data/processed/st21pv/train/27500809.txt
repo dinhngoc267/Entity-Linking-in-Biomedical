@@ -1,0 +1,20 @@
+C0262950||bone
+C0277764||human bone
+C0026162||mineral
+C0003522||apatite
+C0026162||mineral
+C0678118||transmission electron microscopy
+C0006711||calcium phosphate
+C0005898||regions
+C0222660||trabecular bone
+C0681814||Nanomechanical experiments
+C0946010||cylindrical
+C0262950||bone's
+C0575133||deformation
+C3810845||brittle
+C0016658||failure
+C0225328||extrafibrillar
+C0205013||shearing
+C0243095||findings
+C0262950||bone
+C0006660||biomineralization

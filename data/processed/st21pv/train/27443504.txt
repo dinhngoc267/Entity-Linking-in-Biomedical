@@ -1,0 +1,12 @@
+C0009968||copper
+C0205242||cleaving
+C0540193||DNAzyme
+C0009968||Cu(2+)
+C0205242||cleaving
+C0540193||DNAzyme
+C0032485||PET
+C0005479||conical multinanochannels
+C0162585||ion transport
+C1327622||regulating
+C0205148||surface
+C0005479||channels

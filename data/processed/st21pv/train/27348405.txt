@@ -1,0 +1,73 @@
+C1325907||Differential regulation
+C2255939||inhibitory synaptic transmission
+C0037658||somatosensory cortex
+C0040845||retinoic acid
+C0040845||Retinoic acid
+C0040845||Retinoic acid
+C1254351||morphogen
+C4236609||synaptic
+C1519315||signaling molecule
+C0019564||hippocampal
+C0027882||neurons
+C0234107||excitatory
+C2255939||inhibitory synaptic transmission
+C0019868||homeostatic
+C0027880||synaptic plasticity
+C0040845||Retinoic acid
+C0205101||outside
+C0019564||hippocampus
+C0039062||synapses
+C0332285||within
+C0019564||hippocampal
+C0040845||Retinoic acid
+C0027793||synaptic function
+C0205101||outside
+C0019564||hippocampus
+C0040845||all-trans retinoic acid
+C1512777||inhibitory synapses
+C0040845||Retinoic acid
+C2255939||inhibitory synaptic transmission
+C0206441||L2/3 pyramidal neurons
+C0037658||somatosensory cortex
+C0140279||RA's receptor
+C0140279||retinoic acid receptor
+C0027793||pre- and post-synaptically
+C0040845||Retinoic acid
+C2255939||inhibitory transmission
+C0521119||extracellular
+C4233793||activation of action potentials
+C0206181||presynaptic
+C0021792||interneurons
+C0021792||interneurons
+C0206441||pyramidal neurons
+C0040845||RA's
+C0039062||synapses
+C0027793||synaptic connection
+C0234107||excitatory
+C2255939||inhibitory
+C0019564||hippocampal
+C0007776||cortical)
+C4236609||synaptic signaling
+C0040845||Retinoic acid
+C1326639||regulation of synaptic plasticity
+C1160340||brain development
+C0040845||retinoic acid
+C0040845||Retinoic acid
+C1325907||regulate
+C0234107||excitatory
+C2255939||inhibitory transmission
+C0006104||brain
+C3812881||authors
+C0934502||layer 2/3
+C0934502||layer 2/3
+C0037658||somatosensory cortex
+C0037658||S1
+C0040845||Retinoic acid
+C0001272||action-potential
+C0027793||transmission
+C0140279||retinoic acid receptor
+C0140279||retinoic acid receptor
+C0206181||presynaptic
+C0030616||PV
+C0021792||interneurons
+C0206441||pyramidal (PN) neurons

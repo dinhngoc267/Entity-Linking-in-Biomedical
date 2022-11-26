@@ -1,0 +1,32 @@
+C4314692||Neurological Decline
+C0001792||Elderly
+C0025312||Myelomeningocele
+C0158288||Lumbar Canal Stenosis
+C0085973||case report
+C0080218||Tethered cord syndrome
+C0009566||complication
+C0025312||myelomeningocele
+C0025312||myelomeningocele
+C1705181||repair
+C0009566||complications
+C0025312||myelomeningocele
+C0575157||degenerative spinal deformity
+C1842369||tethered cord
+C0025312||myelomeningocele
+C0243095||progressive gait disturbance
+C0028643||numbness
+C0023216||lower limbs
+C1704922||Magnetic resonance images
+C1842369||tethered spinal cord
+C0158288||canal stenosis
+C1269871||entire lumbar spine
+C0578803||multi-level lumbar decompression
+C0543467||surgery
+C0025312||myelomeningocele
+C0158288||lumbar canal stenosis
+C4314692||neurological decline
+C0027765||neurological disorders
+C0012634||disorders
+C0037926||compressive myelopathy
+C0376530||surgical decompression
+C0012634||spinal cord dysfunction

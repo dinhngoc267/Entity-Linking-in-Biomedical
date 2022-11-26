@@ -1,0 +1,21 @@
+C0683312||categories
+C0243095||findings
+C0162801||next-generation sequencing
+C0162801||Next-generation sequencing
+C0011900||diagnosis
+C1285355||Mendelian diseases
+C0243095||findings
+C0588446||informing patients
+C0243095||findings
+C0035168||research
+C0243095||findings
+C0459471||interpretation
+C0679924||professionals
+C0679006||life-plan decisions
+C0026882||mutation
+C0017337||gene
+C0243095||findings
+C0031831||physician
+C0678941||variants
+C2826293||clinical significance
+C0017337||genes

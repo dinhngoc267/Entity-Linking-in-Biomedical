@@ -1,0 +1,47 @@
+C0187606||Metacarpophalangeal Joint Arthrodesis
+C0040067||Thumb
+C1522577||Follow-up
+C0012634||Disorders
+C0224627||thumb metacarpophalangeal (MCP) joint
+C0030193||pain
+C0224627||Thumb MCP
+C0003881||arthrodesis
+C3263723||traumatic injuries
+C2603343||studies
+C0087111||treatment
+C2603343||study
+C0700287||report
+C0231170||disability
+C0224627||thumb MCP joint
+C0003881||arthrodesis
+C0087111||treatment
+C0409364||chronic instability
+C3263723||traumatic injuries
+C0451610||review
+C0543467||operated
+C0224627||MCP joint
+C0003881||arthrodesis
+C1522577||follow-up
+C0030193||pain
+C0427008||stiffness
+C3536884||Visual Analogue Scale
+C3536884||Visual Analogue Scale
+C0035110||re-operation
+C3897107||nonunion
+C1096445||hardware removal
+C0237401||individuals
+C3536884||Visual Analogue Scale
+C0030193||pain
+C0278138||mild
+C0278139||moderate
+C0278140||severe pain
+C0262649||thumb injuries
+C0224627||thumb MCP joint
+C0003881||arthrodesis
+C0237401||individuals
+C0030193||pain
+C0451125||disability scale
+C1948070||National Board of Industrial Injuries
+C0543467||operated
+C0224627||thumb MCP
+C0003881||arthrodesis

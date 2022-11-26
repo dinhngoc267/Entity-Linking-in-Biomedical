@@ -1,0 +1,36 @@
+C0032520||polymerase chain reaction
+C0032520||four-station polymerase chain reaction
+C0032520||polymerase chain reaction
+C0032520||polymerase chain reaction
+C0920681||annealing
+C0920681||annealing
+C0920681||annealing
+C0332464||wide
+C0032520||polymerase chain reaction
+C0920681||annealing
+C0205114||cylindrical
+C0032611||polytetrafluoroethylene
+C0376432||capillary reactor
+C0231467||wound helically
+C1282911||up
+C0301642||denaturation
+C0920681||annealing
+C0332479||shape
+C1333134||compact
+C1880194||cube
+C0032520||polymerase chain reaction
+C0683230||amplification
+C0683230||DNA amplification
+C0220825||evaluated
+C0444245||DNA samples
+C0920681||annealing
+C0456389||sizes
+C0032520||polymerase chain reaction
+C0442059||segmented
+C0442059||segments
+C0032520||polymerase chain reaction
+C0007634||cell
+C0024348||lysis
+C3839098||DNA extraction
+C0032520||polymerase chain reaction
+C0936012||analysis

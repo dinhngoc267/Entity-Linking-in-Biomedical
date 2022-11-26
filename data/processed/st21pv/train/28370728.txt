@@ -1,0 +1,26 @@
+C3850087||culturally competent paediatric oncology care
+C0949415||qualitative study
+C0018724||care providers
+C0680174||ethnic
+C0030755||paediatric
+C0018724||care providers
+C0279158||paediatric oncologists
+C0028661||nurses
+C0587485||paediatric oncology wards
+C0936012||analysed
+C0025663||framework method
+C0018724||care providers
+C0549217||Turkish
+C1257890||Moroccan
+C0237167||language barriers
+C0018724||care provider
+C0018724||care provider
+C0011900||diagnosis
+C0018724||Care providers
+C0150646||interpreter
+C0376554||cultural knowledge
+C0150646||interpreters
+C0474408||eliciting
+C0018724||care providers
+C0018724||care providers
+C0018724||Care providers

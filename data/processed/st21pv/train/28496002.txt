@@ -1,0 +1,53 @@
+C0018801||heart failure
+C0012265||digoxin
+C0016441||follow-up study
+C0007634||cell
+C0018801||Heart failure
+C0018801||Heart failure
+C0007465||cause of death
+C2700280||world
+C0012265||digoxin
+C0087111||therapies
+C0018801||Heart failure
+C0087130||uncertainty
+C0556030||repositioning
+C0007158||cardiac glycosides
+C0920425||anti-tumor activity
+C0012265||digoxin
+C0085983||cell lines
+C1955348||patient information
+C0242356||National Health Insurance Research database
+C0039260||Taiwan
+C0035363||retrospective study
+C0599755||cohort
+C0599755||cohort
+C0012265||digoxin
+C0006142||breast
+C0345904||liver
+C0684249||lung cancers
+C1522577||follow-up period
+C0920425||anti-tumor function
+C0012265||digoxin
+C0012265||digoxin
+C0007634||cell
+C0678222||breast cancer
+C0085983||cell lines
+C0596890||MCF-7
+C0085983||BT-474
+C0085983||MAD-MB-231
+C0085983||ZR-75-1
+C0012265||Digoxin
+C0596402||cytotoxicity
+C0085983||cell lines
+C0085983||ZR-75-1 cells
+C0085983||cell lines
+C0012265||digoxin
+C0012265||digoxin
+C1419994||SRSF3
+C0012265||digoxin
+C0449475||cell-type
+C0012265||digoxin
+C0087111||treatment
+C0018801||Heart failure
+C0007634||cell
+C2718059||personalized medicine

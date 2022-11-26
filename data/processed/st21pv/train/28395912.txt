@@ -1,0 +1,53 @@
+C0949700||Dobutamine Stress Echocardiography
+C0205161||Abnormal
+C1261540||Blood Potassium Levels
+C0003811||Cardiac Arrhythmias
+C0162791||Guidelines
+C0205161||abnormal
+C1261540||blood potassium level
+C0949700||dobutamine stress echocardiography
+C0949700||dobutamine stress echocardiography
+C2985408||consecutive series of patients
+C0032821||potassium
+C0949700||dobutamine stress echocardiography
+C0220825||evaluation
+C0151744||myocardial ischemia
+C0032821||potassium
+C0022877||laboratory
+C0475880||Hemolyzed samples
+C0428289||potassium levels
+C0428974||supraventricular
+C0085612||ventricular arrhythmias
+C0003811||arrhythmias
+C0039240||supraventricular tachycardia
+C0004238||atrial fibrillation
+C2919575||nonsustained ventricular tachycardia
+C0750197||sustained ventricular tachycardia
+C0042510||ventricular fibrillation
+C0949700||dobutamine stress echocardiography
+C0003811||arrhythmias
+C0428289||potassium levels
+C0003811||arrhythmia
+C0032821||potassium
+C1704258||abnormalities
+C0020461||hyperkalemia
+C0428974||supraventricular arrhythmias
+C0085612||ventricular arrhythmias
+C0020621||hypokalemia
+C0428289||potassium levels
+C0428974||supraventricular arrhythmia
+C0012634||ventricular ectopy
+C0949700||dobutamine stress echocardiography
+C1704258||abnormalities
+C1261540||blood potassium concentrations
+C0949700||dobutamine stress echocardiography
+C0032821||potassium
+C1704258||abnormalities
+C0428289||potassium levels
+C0428974||supraventricular
+C0085612||ventricular arrhythmias
+C0428289||potassium levels
+C0949700||dobutamine stress echocardiography
+C0003811||arrhythmia
+C0020621||hypokalemia
+C0949700||dobutamine stress echocardiography

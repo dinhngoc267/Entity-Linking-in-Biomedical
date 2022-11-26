@@ -1,0 +1,15 @@
+C0406586||Wiedemann-Rautenstrauch Syndrome
+C0238767||Bilateral
+C1303000||Tarsal Kink
+C0038968||Sutures
+C0406586||Wiedemann-Rautenstrauch syndrome
+C0012634||condition
+C1303000||tarsal kink
+C0585636||upper eyelids
+C0229118||both eyes
+C0238767||bilateral
+C1303000||tarsal kink
+C0455231||everting
+C0038968||suture
+C0442347||transconjunctival approach
+C0002921||local anesthesia

@@ -1,0 +1,37 @@
+C0015730||Feasibility
+C0184661||intervention
+C0008679||chronic illness
+C0162791||guidelines
+C0043113||programmes
+C0008679||chronic illness
+C0421179||poor disease control
+C0589125||outpatient follow-up
+C0015730||feasibility
+C0184661||intervention
+C0008679||chronic illness
+C0589098||focusing
+C0030686||drop-outs
+C3495559||juvenile idiopathic arthritis
+C3495559||juvenile idiopathic arthritis
+C0206035||randomised controlled trial
+C0206035||randomised controlled trial
+C0184661||intervention
+C0030686||drop-outs
+C0596545||experiences
+C0021823||telephone interviews
+C0936012||analysed
+C0949415||thematic
+C0936012||analysis
+C0184661||intervention
+C0030686||dropped out
+C0184661||intervention
+C0033213||practical issues
+C0030686||drop-out
+C2603343||study
+C3495559||juvenile idiopathic arthritis
+C0033213||issues
+C1299586||difficulties
+C0162340||understanding
+C0184661||intervention
+C0043113||programmes
+C0018724||health care providers

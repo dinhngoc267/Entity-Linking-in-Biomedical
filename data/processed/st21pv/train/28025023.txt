@@ -1,0 +1,32 @@
+C0311392||physical signs
+C1535956||laminoplasty
+C0206366||ossification of the posterior longitudinal ligament
+C0206366||Ossification of the posterior longitudinal ligament
+C0206366||of the posterior longitudinal ligament
+C0005956||myelopathy
+C0543467||surgically
+C0162340||Knowledge
+C0543467||surgical
+C0582175||surgeons
+C0681814||study
+C0311392||physical signs
+C0206366||of the posterior longitudinal ligament
+C0311392||physical signs
+C0206366||of the posterior longitudinal ligament
+C2026796||cervical laminoplasty
+C0681814||study
+C0311392||physical signs
+C0151889||hyperreflexia
+C0034935||Babinski sign
+C0152027||sensory disturbance
+C0232841||bladder dysfunction
+C0555305||minor trauma
+C1514474||prognostic factors
+C0205160||negatively
+C0034935||Babinski sign
+C1446409||positively
+C0034980||Multiple logistic regression analyses
+C0034935||Babinski sign
+C1517001||expected
+C0034935||Babinski sign
+C0034935||Babinski sign

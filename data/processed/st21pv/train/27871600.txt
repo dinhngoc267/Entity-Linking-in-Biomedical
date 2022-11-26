@@ -1,0 +1,49 @@
+C0543467||visual stylet (Discopo)-guided
+C0396618||laryngeal mask airway placement
+C0442775||conventional blind technique
+C0034656||randomized
+C0396618||laryngeal mask airway (LMA) insertion
+C0449911||fiberoptic view
+C0162645||laryngeal mask airway
+C0543467||Discopo visual stylet-guided insertion
+C0442775||conventional blind technique
+C0034656||randomized
+C0681867||controlled study
+C0029064||Operating room
+C0020028||university hospital
+C0206058||elective surgery
+C0162645||laryngeal mask airway
+C0002915||general anesthesia
+C0034656||randomly
+C0543467||visual stylet-guided technique
+C0442775||blind technique
+C0162645||laryngeal mask airway
+C0220825||assessment
+C0021107||insertion
+C0162645||laryngeal mask airway
+C1550045||position
+C0449911||fiberoptic view
+C0162645||laryngeal mask airway
+C0277809||anatomical position
+C4042806||hemodynamic responses
+C0021107||insertion
+C0852885||bucking
+C0235744||breathholding
+C0920061||laryngospasm
+C1301933||airway morbidity
+C0005835||blood staining
+C0162645||laryngeal mask airway
+C0242429||sore throat
+C0019825||hoarseness
+C0021107||Insertion
+C0021107||reinsertion
+C0449911||fiberoptic view
+C0149784||hemodynamic stress responses
+C0021107||insertion
+C1301933||airway morbidity
+C0162645||laryngeal mask airway
+C0021107||insertion
+C0543467||Discopo visual stylet
+C0162645||laryngeal mask airway
+C0149784||hemodynamic stress response
+C0877248||adverse events

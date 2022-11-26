@@ -1,0 +1,42 @@
+C0332464||Worldwide
+C0026955||Mycotoxins
+C0007757||Cereals
+C0007757||Cereal
+C0681562||Food Products
+C0678367||Public
+C0007757||Cereal grains
+C0681562||food products
+C0026955||mycotoxins
+C0026955||mycotoxins
+C0001734||aflatoxins
+C0028816||ochratoxins
+C0304082||fumonisins
+C0057445||deoxynivalenol
+C0043454||zearalenone
+C0678367||public
+C0879626||adverse effects
+C0086418||humans
+C0016832||mycotoxigenic fungi
+C0332464||worldwide
+C0026955||mycotoxins
+C0700287||reported
+C0007757||cereal grains
+C0001734||aflatoxins
+C0069299||ochratoxin A
+C0304082||fumonisins
+C0057445||deoxynivalenol
+C0043454||zearalenone
+C0026955||mycotoxins
+C0681562||food products
+C0026955||mycotoxins
+C0026955||mycotoxins
+C0026955||mycotoxin
+C0016832||fungal
+C1705920||species
+C0016452||food
+C2603343||studies
+C0700287||reported
+C0678367||public
+C0026955||mycotoxins
+C0600688||toxicity
+C0242482||summarized

@@ -1,0 +1,72 @@
+C2347610||Chemosensitivity
+C1321070||Ventilatory Response
+C0024117||COPD
+C0024117||COPD
+C1321070||ventilatory response
+C0008010||chemoreceptor
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0234208||sensitivity
+C0039044||sympathetic
+C1456863||vasoconstrictor outflow
+C1306577||mortality
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0234208||sensitivity
+C0024117||COPD
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0234208||sensitivity
+C0024117||COPD
+C0005516||marker
+C1321070||ventilatory response
+C0024117||COPD
+C0332128||examined
+C0679646||Participants
+C2959886||cardiopulmonary exercise
+C0024119||pulmonary function testing
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0220825||evaluated
+C0085639||drop in
+C0035203||ventilation
+C0035203||breathing
+C0030054||O2
+C0008010||carotid chemoreceptor
+C0234208||sensitivity
+C0199505||ventilatory response to hypoxia
+C1283004||pO2
+C0205100||Peripheral
+C0599949||arterial stiffness
+C0220825||evaluated
+C0430862||applanation tonometry
+C0035203||breathing
+C0008010||chemoreceptor
+C0035203||breathing
+C0030054||O2
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0008010||carotid chemoreceptor
+C0234208||sensitivity
+C1321070||ventilatory response
+C0024117||COPD
+C0008010||carotid chemoreceptor
+C0234208||sensitivity
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0008010||carotid chemoreceptor
+C0234208||sensitivity
+C1321070||ventilatory response
+C0024117||COPD
+C0008010||carotid chemoreceptor
+C0035203||breathing
+C0030054||O2
+C0024117||COPD
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0234208||sensitivity
+C0024117||COPD
+C0008010||carotid chemoreceptor
+C0234208||activity
+C0234208||sensitivity
+C1321070||ventilatory response

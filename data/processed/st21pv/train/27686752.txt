@@ -1,0 +1,37 @@
+C0031323||Pharmacist
+C3899107||Follow-Up Care
+C3812871||Rheumatology Clinic
+C0031323||pharmacist
+C0184661||intervention
+C0029916||general outpatient clinics
+C0086584||nurse-led care
+C3812871||rheumatology clinics
+C0017313||care
+C0031323||pharmacist
+C0031831||physician
+C3812871||rheumatology clinic
+C0010362||cross-sectional survey
+C0003864||inflammatory arthritis
+C0589121||follow-up visit
+C0006823||Canada
+C2347804||ten-week period
+C4039173||Leeds Satisfaction Questionnaire
+C0451267||Likert scale
+C0454192||six dimensions
+C0086388||collaborative care
+C1879301||questionnaire
+C0086388||collaborative care
+C0282122||respondents
+C0451370||mean score for satisfaction
+C0454192||six dimensions
+C1273804||collaborative care group
+C0031831||traditional physician group
+C1273804||collaborative care group
+C0679646||participants
+C0031323||pharmacist
+C0030677||care of patients
+C0003864||inflammatory arthritis
+C0031323||pharmacists
+C0086388||collaborative care
+C0030677||care for patients
+C3812871||rheumatology clinics

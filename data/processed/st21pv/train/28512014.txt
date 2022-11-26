@@ -1,0 +1,57 @@
+C0017262||Expressional
+C0443204||divergence
+C0021585||insect
+C1415468||GOX genes
+C0017735||glucose oxidase
+C0021585||Insect herbivores
+C1327616||secrete
+C0017735||glucose oxidase
+C0017735||glucose oxidase
+C0032098||plants
+C0032098||plant
+C0021585||herbivores
+C0017735||glucose oxidase
+C0023047||larvae
+C1705920||species
+C1002429||Helicoverpa armigera
+C1093556||Helicoverpa assulta
+C0033684||protein
+C0012238||digestible
+C0453802||carbohydrate
+C1135843||allelochemical
+C1415468||glucose oxidase
+C1519595||transcripts
+C0226928||labial glands
+C1415468||glucose oxidase
+C1519595||transcripts
+C0041904||upregulated
+C0016452||food
+C0232478||ingestion
+C0231256||body growth
+C0013081||downregulated
+C0232478||ingestion
+C1326578||pupation
+C1705920||species
+C0041904||upregulated
+C1415468||glucose oxidase
+C1519595||transcripts
+C1415468||glucose oxidase
+C1705920||species
+C1415468||glucose oxidase
+C1519595||transcripts
+C1135843||allelochemicals
+C1415468||glucose oxidase
+C1519595||transcripts
+C1705920||species
+C0017735||glucose oxidase
+C1002429||H. armigera
+C1093556||H. assulta
+C1415468||glucose oxidase
+C1519595||transcripts
+C1135843||allelochemicals
+C0017735||glucose oxidase
+C0021585||herbivores
+C0040649||transcription
+C1519595||transcript
+C1519614||translation
+C0014439||better enzyme stability

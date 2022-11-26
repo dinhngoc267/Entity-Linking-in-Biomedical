@@ -1,0 +1,62 @@
+C2945680||Genital
+C0018081||Extragenital Gonorrhea
+C0008149||Chlamydia
+C0220825||Evaluated
+C0282350||Sexual Abuse
+C2603343||study
+C0200932||nucleic acid amplification test
+C1511790||detecting
+C1993250||genital
+C1993250||extragenital Neisseria gonorrhoeae
+C1993250||Neisseria gonorrhoeae
+C0008151||Chlamydia trachomatis
+C0008151||Chlamydia trachomatis
+C0282350||sexual abuse
+C0237236||assault
+C0220825||evaluated
+C0562508||emergency department
+C0013966||outpatient settings
+C0243095||findings
+C2348811||toxicology results
+C0205145||sites
+C0022885||tested
+C1993250||Neisseria gonorrhoeae
+C0008151||Chlamydia trachomatis
+C0022885||tested
+C0022885||tested
+C0205145||site
+C0439663||infected
+C0205145||site
+C0008151||Chlamydia trachomatis
+C1993250||Neisseria gonorrhoeae
+C0560637||genital injury
+C0582103||examination
+C1514241||positive
+C0003461||anal
+C0022885||tests
+C1514241||positive
+C0442027||oral
+C0022885||tests
+C1514241||positive
+C0022885||extragenital tests
+C1514241||positive
+C0022885||tests
+C0178314||injury
+C1514241||positive
+C0003461||anal
+C0442027||oral
+C0022885||test
+C0017420||genitals
+C0205145||site
+C1514241||Positive
+C0022885||tests
+C1993250||Neisseria gonorrhoeae
+C0008151||Chlamydia trachomatis
+C0220825||evaluated
+C3714514||infection
+C3714514||infection
+C0036537||infected assailant secretions
+C1457887||symptoms
+C0948747||Neisseria gonorrhoeae
+C0518948||CT infections
+C0220825||evaluated

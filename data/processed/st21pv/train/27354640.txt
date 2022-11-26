@@ -1,0 +1,68 @@
+C0520484||Xenotransplantation
+C0205145||Site
+C1101610||MicroRNA
+C0017262||Expression
+C0086418||Human
+C0699790||Colon Cancer
+C0038250||Stem Cells
+C1956422||Cancer stem cells
+C1956422||Cancer stem cells
+C0007621||tumorigenic
+C4050317||patient-derived tumor xenografts
+C4050317||patient-derived tumor xenografts
+C4050317||patient-derived tumor xenografts
+C1514292||pre-clinical model
+C0017262||gene expression
+C0334227||cancer cells
+C0027651||tumor
+C4050317||patient-derived tumor xenografts
+C0086418||Human
+C0699790||colon cancer
+C4050317||PDX
+C1709474||passaged
+C0443315||subcutaneously
+C0574893||orthotopically
+C0025929||murine
+C0021853||intestine
+C0019638||Histology
+C0016263||flow cytometric
+C1979963||profile
+C0543467||surgical
+C4050317||PDX
+C0936012||analyzed
+C1956422||Cancer stem cells
+C0027651||tumors
+C1101610||microRNA
+C1101610||microRNA
+C0017262||expression
+C0936012||analyzed
+C2733022||semi-quantitative polymerase chain reaction
+C0543467||surgical
+C4050317||patient-derived tumor xenografts
+C0019638||histologically
+C0456389||size
+C1956422||CSC
+C1257890||population
+C0017262||expression
+C1101610||microRNA
+C1956422||Cancer stem cells
+C1709474||passaged
+C4050317||patient-derived tumor xenografts
+C0017262||Expression
+C0007090||oncogenic
+C1101610||miRNAs
+C0041904||up-regulated
+C1956422||Cancer stem cells
+C0574893||orthotopically
+C1709474||passaged
+C4050317||patient-derived tumor xenografts
+C0520484||xenotransplantation
+C0205145||site
+C0027651||tumor
+C1709474||passages
+C0001721||affect
+C1101610||microRNA
+C0017262||expression
+C0086418||human
+C0009368||colon
+C1956422||Cancer stem cells

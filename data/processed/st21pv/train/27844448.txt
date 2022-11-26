@@ -1,0 +1,51 @@
+C1537730||miR-27b
+C0699791||gastric cancer
+C0027627||metastasis
+C1506576||NR2F2
+C0004268||attention
+C0013081||down-regulation
+C1101610||miRNAs
+C0007097||cancer process
+C1506576||Nuclear receptor subfamily 2
+C1506576||NR2F2
+C1506576||COUP-TFII
+C0007097||cancers
+C0699791||gastric cancer
+C0681814||experiment
+C0242356||oncomine
+C0242356||Kaplan-meier database
+C1506576||NR2F2
+C0041904||up-regulated
+C0699791||gastric cancer
+C1506576||NR2F2
+C1171362||expression
+C1537730||MicroRNA-27b
+C0013081||down-regulated
+C1506576||NR2F2
+C0086418||human
+C0699791||gastric cancer
+C0040300||tissues
+C1518174||cells
+C1512167||ectopic expression
+C1537730||miR-27b
+C0699791||gastric cancer
+C0596290||cell proliferation
+C1515655||in vivo
+C0005507||Assays
+C0017262||overexpression
+C1537730||miR-27b
+C0007634||MGC-803 cells
+C1622501||migration
+C2699153||invasion
+C0027627||metastasis
+C0023884||liver
+C0013081||down-regulation
+C1537730||miR-27b
+C0007634||GES-1 cells
+C0596290||proliferation
+C0027627||metastasis
+C0243095||findings
+C1537730||miR-27b
+C0079427||tumor suppressor
+C0699791||gastric cancer
+C0005516||biomarker

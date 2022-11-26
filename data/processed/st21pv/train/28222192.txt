@@ -1,0 +1,64 @@
+C3106936||Blastocystis subtyping
+C0021832||intestinal parasites
+C3245499||geographical regions of Colombia
+C0005707||Blastocystis
+C4289767||enteric protist colonizing
+C0027361||people
+C1708235||subdivision of the genus
+C0449560||multiple subtypes
+C0449560||subtypes
+C3106936||Blastocystis STs
+C0002085||18S alleles
+C0000737||abdominal pain
+C0033775||anal pruritus
+C0011991||diarrhea
+C0018681||headache
+C0027497||nauseas
+C0042963||vomit
+C0231221||asymptomatic
+C3245499||geographical regions of Colombia
+C0455051||fecal samples
+C0021832||intestinal parasites
+C0005707||Blastocystis positive
+C3839098||DNA extraction
+C1709846||Real Time PCR
+C1294197||sequencing
+C0206415||primers
+C1167012||small subunit
+C0035899||rRNA gene
+C1261145||ST identification
+C0012854||DNA
+C0003955||Ascaris lumbricoides
+C0040913||Trichuris trichiura
+C1265425||hookworms
+C0002826||Necator americanus
+C0162314||Ancylostoma duodenale
+C0017535||Giardia duodenalis
+C1285568||Entamoeba complex
+C0320420||Entamoeba coli
+C0322196||Hymenolepis nana
+C0320452||Endolimax nana
+C0004694||Neobalantidium coli
+C0005707||Blastocystis
+C1514241||positive samples
+C3106801||ST1
+C3106925||ST2
+C3106933||ST3
+C3961358||ST4
+C3106938||ST6
+C3106936||ST7
+C0002085||alleles
+C3106801||ST1
+C0002085||alleles
+C3106925||ST2
+C0002085||alleles
+C3106933||ST3
+C0002085||allele
+C3961358||ST4
+C0002085||allele
+C3106938||ST6
+C0002085||allele
+C3106936||ST7
+C0005516||molecular markers
+C0005707||Blastocystis
+C1004618||Stramenopila

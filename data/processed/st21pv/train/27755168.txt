@@ -1,0 +1,25 @@
+C3178844||Mesenchymal stromal cells
+C0022671||kidney transplantation
+C0022671||kidney transplantation
+C0021081||immunosuppressive drugs
+C0302189||cell therapy
+C3178844||mesenchymal stromal cells
+C0087111||therapy
+C0087111||therapies
+C0441640||tapering
+C0021081||immunosuppressive medication
+C0013018||donor
+C1327458||immune regulation
+C0020963||tolerance
+C0002131||alloantigen
+C0013018||donor
+C1327458||immune regulation
+C3178844||mesenchymal stromal cells
+C0007582||interaction
+C0003315||antigen presenting cells
+C0011306||dendritic cells
+C0008976||clinical trials
+C3178844||mesenchymal stromal cells
+C0022671||kidney transplantation
+C0087111||therapeutic strategies
+C0029216||organ transplantation

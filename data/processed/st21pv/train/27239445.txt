@@ -1,0 +1,54 @@
+C4308198||SNAI1
+C2239176||hepatocellular carcinoma
+C1512772||inhibition of apoptosis
+C4308198||SNAI1
+C0040648||zinc-finger transcription factor
+C1523298||epithelial-mesenchymal transition
+C1523298||epithelial-mesenchymal transition
+C0006826||cancers
+C4308198||SNAI1
+C0162638||apoptosis
+C2239176||hepatocellular carcinoma
+C2603343||study
+C4308198||SNAI1
+C0162638||apoptosis
+C2239176||hepatocellular carcinoma
+C0085983||cell lines
+C4308198||SNAI1
+C1171362||expressed
+C0040300||tissues
+C2239176||liver cancer
+C0040300||nontumor tissues
+C4308198||SNAI1
+C1171362||expressed
+C2717940||hepatoma cell lines HepG2
+C0085983||SMMC-7721
+C0085983||BEL-7402
+C0682523||human normal liver cell line L02
+C4308198||SNAI1
+C1171362||expression
+C4255448||distal metastasis
+C0027671||tumor capsule formation
+C1511938||histological differentiation
+C2239176||hepatocellular carcinoma
+C2239176||hepatocellular carcinoma
+C2350567||knockdown
+C1420267||SNAI1
+C0079679||lentiviral
+C1520007||vectors
+C1136031||RNAi
+C4308198||SNAI
+C3178834||G1 arrest
+C0013081||downregulation
+C0174680||cyclin D1
+C0079184||cyclin A
+C2350567||knockdown
+C1420267||SNAI1
+C0162638||apoptosis
+C1171362||expression
+C4042483||Bcl-2
+C4308198||SNAI1
+C2239176||hepatocellular carcinoma
+C1160191||regulating the growth
+C0162638||apoptosis
+C0597032||tumor cells

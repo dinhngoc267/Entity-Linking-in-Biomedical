@@ -1,0 +1,39 @@
+C1510438||assay
+C0578399||quaternary amines
+C0012431||N-nitrosodimethylamine
+C0947630||study
+C0332128||examined
+C1510438||bulk amine assay
+C0578399||quaternary amine
+C0205148||surface
+C1550678||water samples
+C0012431||N-nitrosodimethylamine
+C0012431||N-nitrosodimethylamine
+C0008164||chloramines
+C0009407||colorimetric method
+C0332128||examined
+C0442726||detection
+C0002508||amines
+C0014406||environmental
+C1550678||water samples
+C0871511||method
+C3178840||liquid-liquid extraction
+C0578399||quaternary amine
+C0578399||quaternary compounds
+C0012431||N-nitrosodimethylamine
+C0012431||N-nitrosodimethylamine
+C0012431||N-nitrosodimethylamine
+C0028158||nitrogen
+C0002508||dissolved organic nitrogen originates
+C0002508||bulk amines
+C1882115||normalization
+C0012431||N-nitrosodimethylamine
+C0002508||amine
+C0030106||ozone
+C0578399||quaternary amine
+C0678594||structures
+C0012431||N-nitrosodimethylamine
+C1510438||bulk amine assay
+C0578399||quaternary amines
+C0012431||N-nitrosodimethylamine
+C0012431||N-nitrosodimethylamine

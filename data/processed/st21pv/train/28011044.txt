@@ -1,0 +1,40 @@
+C1621958||Glioblastoma Multiforme
+C0220825||investigation
+C0011923||imaging
+C0011923||imaging
+C1328813||metabolomic
+C0024485||magnetic resonance imaging
+C0024485||magnetic resonance imaging
+C1522706||magnetic resonance spectroscopic imaging
+C1621958||glioblastoma multiforme
+C1621958||glioblastoma multiforme
+C1621958||glioblastoma multiforme
+C0067684||N-acetyl aspartate
+C0067684||N-acetyl aspartate
+C0008405||choline
+C0008405||choline
+C1707501||contrast-enhanced T1-weighted
+C1707501||contrast-enhanced T1-weighted
+C3897397||T2-weighted (T2w)/fluid-attenuated inversion recovery MRI
+C1334928||Necrotic portions
+C3830314||enhancing lesion
+C0013604||edema
+C1704254||contrast-enhanced T1-weighted
+C1704254||T2w images
+C1621958||glioblastoma multiforme
+C0067684||N-acetyl aspartate
+C0008405||choline
+C0011923||Imaging
+C1864620||metabolic features
+C0456389||size
+C0332479||shape
+C0027651||Tumors
+C2985415||neuroradiologist
+C1704254||imaging
+C1710141||Spearman correlation
+C0024485||magnetic resonance imaging
+C1522706||magnetic resonance spectroscopic imaging
+C0067684||N-acetyl aspartate
+C0024485||magnetic resonance imaging
+C0008405||choline
+C0011923||imaging

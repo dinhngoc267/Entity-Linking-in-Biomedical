@@ -1,0 +1,50 @@
+C0949083||Nosocomial pneumonia
+C1265292||methicillin-resistant Staphylococcus aureus
+C0332293||treated with
+C0663241||linezolid
+C0042313||vancomycin
+C0037747||Spanish
+C0037747||Spanish
+C2603343||study
+C0949083||nosocomial pneumonia
+C0949083||nosocomial pneumonia
+C1265292||methicillin-resistant Staphylococcus aureus
+C1265292||methicillin-resistant Staphylococcus aureus
+C0701159||hospitalized adults
+C0663241||linezolid
+C0042313||vancomycin
+C0035078||renal failure
+C2986910||randomized
+C0013072||double-blind
+C0282462||multicenter phase 4 study
+C0949083||Nosocomial pneumonia
+C1265292||methicillin-resistant Staphylococcus aureus
+C0701159||hospitalized adults
+C1257890||population
+C0663241||linezolid
+C0042313||vancomycin
+C0332293||treated
+C0663241||linezolid
+C0042313||vancomycin
+C0035078||renal failure
+C0663241||linezolid
+C0042313||vancomycin
+C0332293||treated
+C0035078||renal failure
+C0663241||linezolid
+C0332293||treated
+C0035078||renal failure
+C0035078||renal failure
+C0199470||mechanical ventilation
+C0663241||linezolid
+C0042313||vancomycin
+C0332293||treated
+C0599755||cohorts
+C0037747||Spanish
+C0663241||linezolid
+C0042313||vancomycin
+C0032285||pneumonia
+C0599755||cohorts
+C0663241||linezolid
+C0035078||renal failure
+C0877248||adverse events

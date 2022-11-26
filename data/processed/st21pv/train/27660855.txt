@@ -1,0 +1,20 @@
+C0226896||Orally
+C1450115||Phosphoinositide-3-Kinase delta
+C0014432||Inhibitors
+C0184511||Improved
+C3537152||Aberrant signaling
+C1450115||phosphoinositide-3-kinase delta
+C1450115||phosphoinositide-3-kinase delta
+C0677042||pathologies
+C0376545||hematological malignancies
+C0003873||rheumatoid arthritis
+C1515655||in vivo
+C0220825||evaluation
+C0576798||pyridine-containing
+C1450115||phosphoinositide-3-kinase delta
+C0014432||inhibitors
+C1254351||35
+C0014432||inhibitor
+C1450115||phosphoinositide-3-kinase delta
+C1519106||rodent model
+C0003873||rheumatoid arthritis

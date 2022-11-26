@@ -1,0 +1,45 @@
+C0429299||Delta-frequency
+C0007765||cerebellar
+C0348018||projections
+C0036341||schizophrenia
+C0036341||Schizophrenia
+C1704258||abnormalities
+C0016733||medial frontal cortex
+C0009241||cognitive deficits
+C1882115||normalize
+C2951740||medial frontal brain
+C0443158||activity
+C0007765||cerebellar
+C0348018||projections
+C2603343||study
+C0025361||cognitive processing
+C0016733||frontal
+C2953133||cerebellar networks
+C0036341||schizophrenia
+C0243095||findings
+C0036341||schizophrenia
+C0011227||delta rhythms
+C0016733||medial frontal cortex
+C0007765||cerebellar
+C0016733||frontal
+C0599779||animal models
+C0016733||frontal
+C0682702||cerebellar neurons
+C0443264||modulated
+C0429299||delta-frequency
+C0429299||delta-frequency
+C3494301||optogenetic
+C0039729||thalamic
+C0206181||synaptic terminals
+C0205093||lateral
+C0007765||cerebellar
+C0348018||projection
+C0027882||neurons
+C2951740||medial frontal
+C0443158||activity
+C1519106||rodent model
+C0036341||schizophrenia-related
+C0007765||cerebellum
+C4248854||medial frontal networks
+C0007765||cerebellum
+C0025361||cognitive processing

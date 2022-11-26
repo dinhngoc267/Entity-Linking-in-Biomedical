@@ -1,0 +1,48 @@
+C0030971||perception
+C0042826||visual field
+C0027092||myopia
+C0234622||emmetropia
+C0220825||evaluated
+C0234622||emmetropic
+C0027092||myopic
+C0442726||detect
+C0035298||retina
+C0042797||monocular
+C0042794||binocular viewing
+C0686750||healthy adults
+C0027092||myopes
+C0042812||visual acuity
+C0007963||LogMAR (20/20)
+C0015392||eye
+C0243095||no binocular
+C0042790||accommodative dysfunction
+C0042797||Monocular
+C0042794||binocular
+C1705273||function
+C0430872||adaptive 4AFC procedure
+C1631280||one quadrant
+C1704922||image
+C0430872||adaptive procedure
+C0243095||dipper shaped
+C1705273||function
+C0205102||intrinsic
+C0205102||intrinsic
+C0042794||binocular
+C0042797||monocular
+C0042794||binocular
+C0027092||Myopes
+C1457868||worse
+C0234622||emmetropes
+C0042797||monocularly
+C0042794||binocularly
+C0030971||perception
+C1457868||worsens
+C0234628||visual periphery
+C0042794||binocular
+C0234108||summation
+C0027092||myopes
+C0042797||monocular
+C0184511||improves
+C0042794||binocular
+C0679201||Implications
+C0027092||myopia

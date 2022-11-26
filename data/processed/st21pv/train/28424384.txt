@@ -1,0 +1,30 @@
+C0000768||Minor physical anomalies
+C0221916||dermatoglyphic
+C0525045||affective disorders
+C1955832||systematic review
+C0000768||minor physical anomalies
+C0000768||minor physical anomalies
+C0432333||abnormalities of dermatoglyphic patterns
+C0525045||affective disorders
+C1955832||review
+C0000768||minor physical anomalies
+C0432333||dermatoglyphic abnormalities
+C0525045||mood disorders
+C0025141||MEDLINE
+C0242356||PsychInfo
+C0242356||Web of Science search
+C0034036||publications
+C0000768||minor physical anomalies
+C4025116||dermatoglyphic traits
+C0005586||bipolar disorder
+C0041696||unipolar depression
+C2603343||studies
+C0000768||minor physical anomalies
+C0011624||dermatoglyphics
+C1290905||discrepant
+C0525045||affective disorders
+C0035168||research
+C0524637||recognition
+C0525045||affective disorders
+C0184661||intervention
+C0199176||prevention

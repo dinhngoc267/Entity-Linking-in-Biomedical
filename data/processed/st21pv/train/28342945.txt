@@ -1,0 +1,34 @@
+C0338656||Cognitive impairment
+C0036341||schizophrenia
+C0107103||brain-derived neurotrophic factor
+C0207072||glial cell line-derived neurotrophic factor
+C0107103||brain-derived neurotrophic factor
+C0107103||brain-derived neurotrophic factor
+C0207072||glial cell line -derived neurotrophic factor
+C0207072||GDNF
+C1326639||regulation of synaptic plasticity
+C0004936||psychiatric disorders
+C0229671||serum
+C0107103||brain-derived neurotrophic factor
+C0207072||GDNF
+C0392335||cognitive functions
+C0036341||schizophrenia
+C0107103||brain-derived neurotrophic factor
+C0207072||GDNF
+C0033905||verbal fluency test
+C0033905||verbal fluency test
+C0040604||trail making test
+C0040604||trail making test
+C0451577||digit span test
+C0451577||digit span test
+C2718024||Stroop test
+C0451577||digit span test
+C0107103||brain-derived neurotrophic factor
+C0033905||VFT-action
+C0207072||GDNF
+C0338656||cognitive dysfunction
+C0036341||schizophrenia
+C0107103||brain-derived neurotrophic factor
+C0207072||GDNF
+C0338656||cognitive impairment
+C0036341||schizophrenia

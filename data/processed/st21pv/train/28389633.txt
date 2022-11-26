@@ -1,0 +1,70 @@
+C0064761||Leonurine
+C0020429||Hyperalgesia
+C0026809||Mice
+C0341858||Adenomyosis
+C0341858||Adenomyosis
+C2699153||invasion
+C0227848||endometrial glands
+C0927195||stroma
+C0027088||myometrium
+C0017411||gynecological disorder
+C0684224||report
+C0064761||leonurine
+C0025925||ICR mice
+C0341858||adenomyosis
+C0039286||tamoxifen
+C0039286||tamoxifen
+C0030193||pain
+C0026809||mice
+C0022885||tests
+C0026809||mice
+C0064761||leonurine
+C0087111||treatment
+C0064761||leonurine
+C0087111||treatment
+C0042291||valproic acid
+C0042291||valproic acid
+C0087111||treatment
+C0042444||vehicle
+C0087111||treatment
+C0220825||evaluated
+C0022885||tests
+C0205125||depth
+C0521387||myometrial
+C0332448||infiltration
+C0487602||staining
+C0034833||progesterone receptor
+C0034833||progesterone receptor
+C1567061||nuclear factor-κB phosphorylated-p65
+C1567061||phosphorylated-p65
+C1447194||cyclooxygenase-2
+C1447194||cyclooxygenase-2
+C3849099||oxytocin receptor
+C3849099||oxytocin receptor
+C0220825||evaluated
+C0021044||immunohistochemistry
+C0521387||myometrial
+C0332448||infiltration
+C0039286||tamoxifen
+C0087111||treatment
+C0341858||adenomyosis
+C0064761||Leonurine
+C0087111||treatment
+C0020429||hyperalgesia
+C0521387||myometrial
+C0332448||infiltration
+C0487602||staining
+C1567061||phosphorylated-p65
+C1447194||cyclooxygenase-2
+C3849099||oxytocin receptor
+C1171362||protein expressions
+C0064761||leonurine
+C0020429||hyperalgesia
+C0026809||mice
+C0341858||adenomyosis
+C0013081||down-regulating
+C1171362||expressions
+C1567061||p-P65
+C1447194||cyclooxygenase-2
+C3849099||oxytocin receptor
+C0341858||adenomyosis

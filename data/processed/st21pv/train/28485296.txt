@@ -1,0 +1,36 @@
+C0038951||survey SNOT-20
+C0027429||nasal obstruction
+C0027423||nasal cavities
+C0038951||survey SNOT-20
+C0243095||results of the objective tests
+C0027429||nasal obstruction
+C0430615||rhinomanometry
+C0430619||acoustic rhinometry
+C0543467||surgical treatment
+C0844334||septoplasty
+C0430022||septoconchoplasty
+C0189149||ethmoidectomy
+C0430022||septoethmoidectomy
+C0011900||diagnosed
+C0430615||Rhinomanometry
+C0022877||Laboratory
+C4047590||Department of Otolaryngology
+C0000872||Medical University
+C0029896||rhinological problems
+C0043210||women
+C0025266||men
+C0025080||RhinoMetrics SRE 2100
+C3881541||Acoustic Rhinometer
+C3881541||RhinoScan
+C0025080||Interacoustics AS
+C0011318||Denmark
+C0038951||Survey SNOT-20
+C0038951||Sino-Nasal Outcome Test-20
+C0449381||objective parameter
+C0429203||flow of air through the nasal cavity
+C0243095||subjective feelings of respondents
+C0038951||survey SNOT-20
+C0038949||first question survey
+C0027429||severity of the nose obstruction
+C0027429||nasal obstruction
+C0029896||rhinological problems

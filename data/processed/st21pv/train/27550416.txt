@@ -1,0 +1,75 @@
+C0443264||Modulation
+C0021760||IL-6
+C0666364||RANKL
+C1171362||expression
+C0003864||arthritic
+C0039099||synovium
+C2350546||transcription factor SOX5
+C0666364||Receptor activator of nuclear factor κB ligand
+C0666364||RANKL
+C0587240||bone erosion
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0666364||RANKL
+C0752046||SNP
+C2350546||transcription factor SOX5
+C2603343||study
+C1157519||regulation
+C2350546||SOX5
+C0666364||RANKL
+C1171362||expression
+C0003873||rheumatoid arthritis
+C0039099||synovial
+C0016030||fibroblasts
+C0016030||synovial fibroblasts
+C0587240||bone erosion
+C0971858||collagen-induced arthritis
+C0971858||collagen-induced arthritis
+C0026809||mouse
+C0150098||data
+C1444656||indicated
+C2350546||SOX5
+C0039099||synovium
+C0039097||synovial fluid
+C0003873||rheumatoid arthritis
+C0029408||osteoarthritis
+C0079189||cytokines
+C0041904||upregulated
+C2350546||SOX5
+C0666364||RANKL
+C1171362||expression
+C0003873||rheumatoid arthritis
+C0016030||synovial fibroblasts
+C0007634||MH7A
+C1514559||Overexpression
+C2350546||SOX5
+C0666364||RANKL
+C2350567||knockdown
+C1420328||SOX5
+C0021760||IL-6
+C0666364||RANKL
+C0041904||upregulation
+C0007634||MH7A cells
+C1328856||Chromatin immunoprecipitation
+C1328856||Chromatin immunoprecipitation
+C0012854||RANKL-specific DNA
+C0301871||anti-SOX5 immunoprecipitate
+C0021760||IL-6
+C0007634||MH7A cells
+C0243095||untreated cells
+C0598496||silencing
+C1420328||SOX5 gene
+C0666364||RANKL
+C1514241||positive
+C0007634||cells
+C0587240||bone erosion
+C0971858||collagen-induced arthritis
+C0026809||mice
+C0243095||findings
+C2350546||SOX5
+C0021760||IL-6
+C0666364||RANKL
+C1171362||expression
+C0003873||rheumatoid arthritis
+C0016030||synovial fibroblasts

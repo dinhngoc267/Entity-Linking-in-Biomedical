@@ -1,0 +1,27 @@
+C3658200||clustered regularly interspaced short palindromic repeats
+C0082774||RNA-guided
+C4279981||genome editing
+C0597094||programmable nuclease
+C4279981||genome editing
+C0017337||gene
+C1720855||correction
+C1515655||in vivo
+C4279981||genome editing
+C1880951||genomic sites
+C0314627||gene function
+C0003062||animals
+C0032098||plants
+C0597094||programmable nucleases
+C3658200||type II clustered regularly interspaced short palindromic repeats
+C3658200||clustered regularly interspaced short palindromic repeats
+C3658355||CRISPR-associated nuclease 9 (Cas9) system
+C0035168||research
+C0025118||medicine
+C0005574||biotechnology
+C3658355||CRISPR-Cas9
+C4279981||gene editing
+C0038250||stem cells
+C0599779||animal models
+C0565867||delivery methods
+C1879848||biomedical
+C3658355||CRISPR-Cas9 system

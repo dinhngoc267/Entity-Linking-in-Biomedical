@@ -1,0 +1,60 @@
+C0005423||Biliary
+C0031676||Phospholipids
+C0682610||Enterocyte
+C0596290||Proliferation
+C0021841||Intestinal Tumor
+C0178874||Progression
+C0206588||Nuclear Receptor
+C1448055||Liver Receptor Homolog-1
+C0025929||mice
+C0226890||intestinal epithelium
+C0031676||phospholipids
+C4055506||accumulation
+C0031676||phospholipids
+C0009404||colorectal tumors
+C0005423||biliary
+C0031676||phospholipid
+C0682610||normal
+C1512101||dysplastic enterocytes
+C1412071||Abcb4
+C0025929||mice
+C0005423||biliary
+C0031676||phospholipid
+C0036536||secretion
+C1412071||Abcb4
+C0025929||mice
+C0021853||intestinal
+C0007621||tumorigenesis
+C1148759||transcriptional activity
+C0206588||nuclear receptor
+C1448055||Liver Receptor Homolog-1
+C1448055||Liver Receptor Homolog-1
+C1412071||Abcb4
+C0025929||mice
+C0027651||tumor
+C0025929||mice
+C1412071||Abcb4
+C0025929||mice
+C0242295||diet supplemented
+C0031676||phospholipids
+C0021841||intestinal tumor
+C0005423||biliary
+C0031676||phospholipids
+C1412071||Abcb4 gene
+C0031676||phospholipids
+C0021853||intestinal
+C0007621||tumorigenesis
+C1412071||Abcb4
+C0025929||mice
+C0025929||mice
+C0021853||intestinal
+C0547070||ablation
+C1448055||Liver Receptor Homolog-1
+C0887829||nuclear hormone receptor
+C0031676||phospholipids
+C0005423||biliary
+C0031676||phospholipids
+C0021839||intestinal mucosa
+C0178874||tumor progression
+C0206588||nuclear receptor
+C1448055||Liver Receptor Homolog-1

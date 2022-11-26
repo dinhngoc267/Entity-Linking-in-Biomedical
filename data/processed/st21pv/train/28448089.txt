@@ -1,0 +1,52 @@
+C1419366||SMP30/GNL
+C0206745||Knockout Mice
+C1451963||Senescence marker protein-30
+C1451963||Senescence marker protein-30
+C0002844||androgen
+C0001811||aging
+C0022947||lactone
+C0014442||hydrolyzing enzyme
+C0051129||gluconolactonase
+C0051129||gluconolactonase
+C0003968||vitamin C
+C2603343||study
+C0262950||bone
+C1419366||SMP30/GNL
+C0206745||knockout (KO) mice
+C0003968||vitamin C
+C1451963||SMP30/GNL
+C0003968||vitamin C
+C0302837||supplementation
+C0029433||bone formation
+C0005938||mineral density
+C0005938||BMD
+C0024687||mandible
+C0015811||femur
+C1419366||SMP30/GNL
+C0206745||knockout
+C1520150||wild-type mice
+C0003968||vitamin C
+C0302837||supplementation
+C1510486||dual-energy X-ray absorptiometry
+C0262950||bone
+C1520150||wild-type mice
+C0262950||bones
+C1419366||SMP30/GNL
+C0206745||KO mice
+C0005938||BMD
+C1520150||wild-type
+C0226896||Oral
+C0302837||supplementation
+C0003968||vitamin C
+C0262950||bone
+C0005938||BMD
+C1419366||SMP30/GNL
+C0206745||knockout
+C1520150||wild-type mice
+C1419366||SMP30/GNL
+C0206745||KO mice
+C0003968||vitamin C
+C0025930||mouse strain
+C0599779||model
+C0086418||humans
+C0003968||vitamin C

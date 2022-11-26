@@ -1,0 +1,26 @@
+C0235974||Pancreatic Cancer
+C0038953||Survival Analysis
+C2603343||Study
+C0028914||Oklahoma
+C0235974||Pancreatic cancer
+C0006826||deadly cancers
+C0035648||Risk factors
+C0012634||disease
+C0034510||race
+C1519386||smoking status
+C0033522||prospective analysis
+C0035648||risk factors
+C0028914||Oklahoma
+C2919552||survival time
+C0033489||Cox proportional hazard regression models
+C0599755||cohort
+C0035648||risk factors
+C2919552||survival times
+C1514952||stage at diagnosis
+C0456984||Results
+C0243095||research findings
+C2919552||survival times
+C0028914||Oklahoma
+C2347804||study period
+C0035648||risk factors
+C1514952||stage of diagnosis

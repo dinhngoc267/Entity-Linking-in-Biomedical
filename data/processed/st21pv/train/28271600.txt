@@ -1,0 +1,13 @@
+C2936208||Natural orifice transluminal endoscopic surgery
+C1709769||movable pulley
+C2936208||Natural orifice transluminal endoscopic surgery
+C2936206||natural orifice surgery
+C0439799||channels
+C0179535||endoscopic camera
+C0543467||surgical
+C1709769||movable pulleys
+C3161035||prototypes
+C0681814||experiments
+C2936206||natural orifice surgery
+C1709769||movable pulleys
+C2936206||natural orifice surgery

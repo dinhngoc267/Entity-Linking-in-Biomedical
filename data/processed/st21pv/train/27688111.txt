@@ -1,0 +1,49 @@
+C1514474||Prognostic significance
+C0280313||oropharyngeal squamous cell carcinoma
+C0280313||oropharyngeal squamous cell carcinoma
+C0280313||oropharyngeal squamous cell carcinoma
+C4288937||positive
+C3872681||HPV16 genotype
+C1171362||expression
+C0249880||p16 tumor suppressor protein
+C0280313||oropharyngeal squamous cell carcinoma
+C1516225||Carolina Head and Neck Cancer Study
+C1516225||Carolina Head and Neck Cancer Study
+C1709599||population based case-control study
+C0027651||Tumors
+C4288937||positive solely
+C3872681||HPV16 genotype
+C0032520||PCR
+C0008902||classified
+C4288937||HPV16-positive
+C0027651||Tumors
+C4288937||positive for
+C0332167||high-risk
+C3872595||HPV genotype
+C0008902||classified
+C4288937||non-HPV16-positive
+C1171362||Expression
+C0249880||p16
+C0027651||tumor
+C0021044||immunohistochemistry
+C0034510||race
+C0010235||Cox proportional hazard regression
+C4288937||HPV16-positive
+C0280313||oropharyngeal squamous cell carcinoma
+C4288937||non-HPV16-positive
+C0280313||oropharyngeal squamous cell carcinoma
+C0280313||oropharyngeal squamous cell carcinoma
+C1446409||positive
+C1171362||p16 expression
+C4288937||non-HPV16-positive
+C0280313||oropharyngeal squamous cell carcinoma
+C0332167||greater risk of
+C1306577||death
+C4288937||HPV16-positive
+C0027651||tumors
+C0243095||finding
+C1444656||indicates
+C0021344||HPV
+C1514474||valuable prognostic significance
+C0249880||p16
+C0280313||oropharyngeal squamous cell carcinoma

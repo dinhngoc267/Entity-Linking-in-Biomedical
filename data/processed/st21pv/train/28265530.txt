@@ -1,0 +1,38 @@
+C1444662||Discontinued
+C0266636||Splenogonadal Fusion
+C1261504||Bilateral Empty Scrotum
+C0266636||Splenogonadal fusion
+C0000768||congenital anomaly
+C0771377||splenic tissue
+C0018067||gonads
+C0086418||Bostroem
+C1556085||German
+C0334866||pathologist
+C1261504||bilateral empty scrotum
+C0521291||laparoscopic
+C1280903||exploration
+C0228039||right vas deferens
+C0932530||right internal inguinal ring
+C0230318||right inguinal
+C1280903||exploration
+C0243095||blind ending
+C0042360||vas deferens
+C0227998||left testis
+C1512910||intra-abdominally
+C1512866||internal ring
+C0577573||mass
+C0227991||upper pole
+C0192152||Wedge biopsy
+C0227991||upper pole of the testicle
+C1515974||site
+C0577573||mass
+C0194907||orchidopexy
+C0344441||Histology
+C0771377||splenic tissue
+C0266636||splenogonadal fusion
+C0012634||condition
+C0582175||surgeons
+C0678236||rare disease
+C0376708||unnecessary
+C0808232||interventions
+C0029189||orchiectomy

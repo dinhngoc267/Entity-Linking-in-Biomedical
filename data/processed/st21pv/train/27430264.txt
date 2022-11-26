@@ -1,0 +1,47 @@
+C1707496||Consumer
+C0376554||Knowledge
+C0004271||Attitude
+C0013227||Medicinal
+C0038951||Survey
+C0184511||improve
+C0027361||people's
+C0025361||mental
+C0023866||literature
+C0013227||medicines
+C2936336||counterfeit medicines
+C0678367||public
+C0549649||misuse
+C0376554||knowledge
+C0596545||experiences
+C2603343||study
+C0010995||collection of data
+C0029038||online
+C0034394||questionnaire
+C0679646||Participants
+C0332464||worldwide
+C0013849||email
+C3179065||social media
+C0029038||online
+C0034394||questionnaire
+C0679646||participants
+C0034394||questionnaire
+C0034394||questionnaire
+C0679646||participants
+C0679646||participants
+C0013227||medicinal products
+C0679646||participants
+C0004448||aware
+C0150312||presence
+C0596545||experienced
+C0700287||reported
+C1708333||authorities
+C0679646||participants
+C0596545||experienced
+C0879626||adverse effects
+C0596545||experienced
+C0879626||adverse effects
+C0879626||adverse effects
+C0700287||reported
+C2603343||study
+C0700287||underreported
+C1708333||authorities

@@ -1,0 +1,8 @@
+C0034079||Lung nodule
+C0016703||French Guiana
+C1512656||immunocompetent
+C1512656||immunocompetent
+C1556084||French
+C0524647||soldier
+C0016703||French Guiana
+C1306038||pulmonary histoplasmosis

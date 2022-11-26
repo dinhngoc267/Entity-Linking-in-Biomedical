@@ -1,0 +1,33 @@
+C1956110||cone beam CT
+C0817096||thorax
+C3179062||image guided radiation therapy
+C0025663||method
+C1956110||cone beam CT
+C1956110||cone beam CT
+C3179062||image guided radiation therapy
+C3179062||image guided radiation therapy
+C0025663||method
+C0040405||CT
+C1956110||cone beam CT
+C0242379||lung cancer
+C2828112||beam hardening
+C1956110||cone beam CT
+C0242379||lung cancer
+C0220825||evaluated
+C0040405||CT
+C0040405||CT
+C1956110||cone beam CT
+C3669138||Visual inspection
+C0750484||confirms
+C0025663||method
+C1956110||CBCTs
+C0040405||CT
+C1956110||cone beam CT
+C0025663||method
+C1956110||cone beam CT
+C3179062||image guided radiation therapy
+C1956110||cone beam CT
+C0025663||method
+C0449935||post processing
+C0037589||tool
+C1956110||cone beam CT

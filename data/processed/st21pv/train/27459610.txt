@@ -1,0 +1,66 @@
+C4289946||Acute Ph-negative lymphoblastic leukemias
+C0035648||Risk factors
+C2348563||ALL-2009 protocol
+C0035648||risk factors
+C0035648||risk factors
+C0079611||immunophenotype
+C0023518||leukocytosis
+C0022917||lactate dehydrogenase
+C0022917||lactate dehydrogenase
+C0243102||activity
+C0544452||remission
+C0008625||cytogenetic abnormalities
+C0023449||acute lymphoblastic leukemia
+C0023449||acute lymphoblastic leukemia
+C2348563||ALL-2009 protocol
+C2348563||protocol
+C0043210||women
+C0033011||pregnant women
+C0025266||men
+C4289946||Ph-negative ALL
+C0279593||B-cell ALL
+C0279593||pre-B ALL
+C0023449||acute lymphoblastic leukemia
+C0279593||pre-B ALL
+C0279592||T-cell ALL
+C0279592||T-ALL
+C0040113||thymic
+C0279592||T-ALL
+C0279592||T-ALL
+C0022877||laboratory
+C0449381||parameters
+C0023518||leukocytosis
+C0279593||B-ALL
+C0279592||T-ALL
+C0279593||B-ALL
+C0279592||T-ALL
+C0022917||lactate dehydrogenase
+C0243102||activity
+C0150312||presence
+C0040715||translocation t(4;11)
+C0279593||B-ALL
+C0279592||T-ALL
+C0279592||T-ALL
+C0194037||autologous bone marrow transplantation
+C0005961||bone marrow transplantation
+C0149615||Allogeneic BMT
+C4049995||induction phase
+C0220825||investigation
+C0679867||relapse-free
+C0279593||B-ALL
+C0279592||T-ALL
+C0035648||risk factors
+C0279592||T-ALL
+C0279593||B-ALL
+C0729502||chemotherapeutic
+C0149615||allogeneic BMTs
+C0087111||treatment
+C0456984||results
+C0023449||acute lymphoblastic leukemia
+C0010858||cytostatic
+C0010858||cytostatic
+C0456984||results
+C0035970||Russian
+C0220825||investigation
+C0149615||allogeneic BMTs
+C0023449||acute lymphoblastic leukemia

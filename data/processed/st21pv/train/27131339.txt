@@ -1,0 +1,54 @@
+C1566128||HERG1
+C0032824||potassium channel
+C1171362||expression
+C0006826||malignant disorders
+C0026639||oral mucosa
+C0220901||prognostic
+C0585362||oral squamous cell carcinoma
+C1566128||HERG1
+C0032824||potassium channel
+C0596290||cell proliferation
+C1566128||HERG1 protein
+C1171362||expression
+C0936012||analyzed
+C0021044||immunohistochemistry
+C0021044||immunohistochemistry
+C0023532||oral leukoplakias
+C0585362||oral squamous cell carcinomas
+C0585362||oral squamous cell carcinomas
+C1416571||HERG1
+C0035696||mRNA
+C0599161||real-time reverse transcriptase-polymerase chain reaction
+C0599161||reverse transcriptase-polymerase chain reaction
+C1168401||head and neck squamous cell carcinoma
+C1168401||head and neck squamous cell carcinoma
+C1566128||HERG1
+C1171362||expression
+C0027651||tumor
+C0007589||differentiation
+C0521158||tumor recurrence
+C1566128||HERG1
+C1171362||expression
+C0178874||progression
+C0023532||oral leukoplakia
+C0585362||oral squamous cell carcinomas
+C0027651||tumors
+C1416571||HERG1
+C0035696||mRNA
+C0026724||normal mucosa
+C1566128||HERG1
+C1171362||expression
+C0178874||tumorigenesis progresses
+C0585362||oral squamous cell carcinomas
+C1416571||HERG1
+C0035696||mRNA
+C0442726||detected
+C0585362||oral squamous cell carcinomas
+C1168401||head and neck squamous cell carcinoma
+C1710234||subsites
+C1566128||HERG1
+C1171362||expression
+C0178874||tumor progression
+C0220901||prognostic
+C0005516||biomarker
+C0585362||oral squamous cell carcinomas

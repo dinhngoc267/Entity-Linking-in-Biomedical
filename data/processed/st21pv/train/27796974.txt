@@ -1,0 +1,40 @@
+C0220825||assessment
+C0282574||Water Framework Directive
+C0205148||surface
+C0596631||ground water bodies
+C0220825||evaluation
+C0043047||waters
+C0043047||water
+C0282574||Water Framework Directive
+C0043047||water
+C0220825||assessment
+C0025663||method
+C0205148||surface
+C0043047||waters
+C0043047||water
+C0456387||classes
+C0043047||water
+C0752073||legal limit values
+C0043047||water
+C1443182||calculated
+C0043047||water
+C1882115||normalized
+C1704640||matrix
+C0043047||water
+C0282574||aquatic environment index
+C0282574||aquatic environment index
+C1443182||calculated
+C0332118||general information
+C0043047||water
+C0043047||water
+C0025663||method
+C0337049||Lake
+C0017446||Balaton
+C0020174||Hungary
+C0043047||water
+C0017446||Balatonfüred City
+C0337049||lake
+C0017446||area
+C0936012||analyzed
+C0220825||evaluated
+C0025663||method

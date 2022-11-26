@@ -1,0 +1,49 @@
+C2700462||bud
+C2339480||cambium
+C0996604||black spruce
+C1720877||xylem
+C2700462||Bud
+C2339480||cambial
+C0392673||adaptation
+C1705920||species
+C0205276||local
+C0014406||environment
+C0020746||frost
+C1514137||tissues
+C0205111||apical
+C0242728||meristems
+C0040811||tree
+C0018270||growth
+C2603343||study
+C2339480||cambial
+C0996604||black spruce
+C0996604||Picea mariana
+C0008902||classified
+C2700462||bud
+C2339480||cambial
+C0444669||microcores
+C0040811||trees
+C0018270||growing
+C0034390||Quebec
+C0006823||Canada
+C0040811||Trees
+C2700462||bud
+C1720877||xylem
+C0007589||differentiation
+C2700462||buds
+C1720877||xylem
+C2700462||bud
+C2700462||bud
+C1720877||xylem
+C2700462||bud
+C1273937||No significant
+C1720877||xylem
+C0018270||growth
+C2825142||results
+C0007589||differentiation
+C0996604||black spruce
+C0392673||adaptation
+C2700462||buds
+C0205276||local
+C0018270||growth
+C1720877||xylem

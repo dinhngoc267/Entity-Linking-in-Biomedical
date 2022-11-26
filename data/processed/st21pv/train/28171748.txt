@@ -1,0 +1,41 @@
+C1148560||Antagonistic
+C0376678||Self-Organizing Patterning
+C0034963||Regeneration
+C0442212||Anteroposterior
+C1522496||Axis
+C0032068||Planarians
+C0032068||Planarian
+C0032211||flatworms
+C1268086||body
+C0040300||tissue
+C0486805||fragments
+C0376678||self-organizing patterning
+C1152630||morphogenic
+C3178960||canonical Wnt signaling
+C0017262||gene expression
+C0032068||planarian
+C0442212||anteroposterior
+C0442212||anteroposterior
+C1522496||axis
+C0039259||tail
+C0019868||autoregulatory
+C0753137||Wnt
+C0935995||Wnt
+C1171362||expression
+C0034963||regeneration
+C1148560||antagonism
+C0039259||tail
+C0753137||Wnt
+C0018670||head
+C0376678||patterning
+C0037775||spatial
+C0032068||planarian
+C0442212||anteroposterior
+C1522496||axis
+C1148560||molecular fate
+C0034963||regeneration
+C0032068||planarian
+C0442212||anteroposterior
+C1522496||axis
+C0376678||self-organizing patterning
+C1148560||antagonism

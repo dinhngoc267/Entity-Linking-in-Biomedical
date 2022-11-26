@@ -1,0 +1,93 @@
+C0205112||Basal
+C1753335||ryanodine receptor activity
+C0333781||autophagic
+C0063592||inositol 1,4,5-trisphosphate receptors
+C0063592||IP3Rs
+C3158759||intracellular Ca(2+) signaling
+C1327622||regulating
+C0004391||autophagy
+C0024369||lysosomal
+C0917729||ryanodine receptors
+C0917729||ryanodine receptors
+C1153434||intracellular Ca(2+)-release channels
+C1171362||expressed
+C1562285||excitable
+C0449475||cell types
+C0026845||muscle
+C0027882||neurons
+C2603343||studied
+C0004391||autophagy
+C1171362||expression
+C0917729||RyRs
+C0040300||tissues
+C0012634||diseases
+C0002395||Alzheimer's disease
+C0004391||autophagy
+C1327622||regulation
+C2603343||study
+C1148554||determined
+C0007992||pharmacological
+C0917729||ryanodine receptors
+C0443264||modulate
+C0333781||autophagic
+C0574895||ectopic
+C0917729||ryanodine receptors
+C1171362||expressing
+C3161035||models
+C2936239||HEK293 cells
+C0449475||cell types
+C1171362||express
+C0917729||ryanodine receptors
+C0596995||C2C12 myoblasts
+C0019564||hippocampal
+C0027882||neurons
+C0524964||RyR3
+C1171362||overexpression
+C2936239||HEK293 cells
+C0333781||autophagic
+C0007634||cell
+C3161035||models
+C0007992||pharmacological
+C0574895||ectopically
+C1171362||expressed
+C0917729||RyRs
+C0010976||dantrolene
+C0035983||ryanodine
+C0333781||autophagic
+C0024369||lysosomal
+C0597297||turn-over
+C3887595||autophagosomes
+C0230822||autolysosomes
+C3489546||mCherry
+C3540600||LC3 punctae
+C0007634||cell
+C0007634||HEK RyR3 cells
+C0010976||dantrolene
+C0035983||ryanodine
+C1533734||treatments
+C1159966||differentiated
+C0596995||C2C12 cells
+C0678118||transmission electron microscopy
+C0010976||dantrolene
+C1533734||treatment
+C0333781||autophagic
+C0042219||vacuoles
+C0007634||cellular
+C0552389||cross section
+C0333781||autophagic
+C0054493||RyR channels
+C0917729||ryanodine receptors
+C0243077||inhibitors
+C0007634||cells
+C0524964||RyR3
+C2936239||HEK293 cell
+C3161035||model
+C0007634||cells
+C0010976||dantrolene
+C0035983||ryanodine
+C1533734||treatments
+C0205112||basal
+C0917729||ryanodine receptors
+C1820193||Ca(2+)-release events
+C0333781||autophagic
+C0024369||lysosomes

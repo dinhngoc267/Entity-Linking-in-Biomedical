@@ -1,0 +1,48 @@
+C0086388||healthcare
+C0019993||hospitalization
+C0948008||ischemic stroke
+C0034510||Race
+C0086388||healthcare
+C0948008||stroke
+C0034510||race
+C0948008||stroke
+C0751956||acute stroke
+C0086388||healthcare
+C0019993||hospitalization
+C0948008||ischemic stroke
+C0041703||US
+C1257890||population
+C0332128||examined
+C0019993||hospitalization
+C0948008||ischemic stroke
+C0001792||older
+C0948008||Stroke
+C0948008||REasons for Geographic And Racial Differences in Stroke
+C0332128||examined
+C0679878||acute healthcare
+C0948008||stroke
+C0034510||race
+C0085756||African-American
+C0007457||White
+C0237096||residence
+C3714916||Charlson comorbidity index
+C0027361||person
+C0085537||caregiver
+C0043210||women
+C0025266||men
+C0374899||emergency department services
+C0679878||acute care
+C1517331||further
+C0751956||acute stroke
+C0085756||African-Americans
+C1512346||visits
+C0007457||Whites
+C0085537||caregiver
+C0019993||acute hospitalization
+C0586082||acute emergency department
+C0948008||stroke
+C0948008||stroke
+C0043210||women
+C0085756||African-Americans
+C0085537||Caregiver
+C0679878||acute

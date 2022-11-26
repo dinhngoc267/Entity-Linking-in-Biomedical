@@ -1,0 +1,16 @@
+C0009407||Colorimetric
+C0005567||Biosensing
+C1449576||Microfluidic Platforms
+C0015194||methodologies
+C0009407||colorimetric
+C0007012||CO2
+C0348007||laser ablation
+C0037098||silica
+C0025663||methods
+C0033213||problem
+C0009407||colorimetric detection
+C1710706||detection zones
+C0205148||surface
+C0014442||enzymes
+C0936012||analysis
+C1706082||compounds

@@ -1,0 +1,39 @@
+C0282574||TANGO
+C0220908||screening tool
+C0282654||causal pathway
+C0028734||nocturia
+C1710032||robust screening metric
+C0042027||urinary tract
+C0729737||multidisciplinary assessment
+C0028734||nocturia
+C0028734||nocturia
+C0220908||tools
+C0034394||questionnaire
+C1707357||checklist
+C3266594||clinical measures
+C0220908||screening tool
+C0220908||tool
+C0237401||individuals
+C0028734||nocturia
+C0037313||Sleep
+C0442964||Continence
+C0085639||Falls
+C0587660||Rehabilitation service
+C0262500||routine care
+C4019276||Data collected
+C0678257||descriptive analysis
+C0028734||nocturia
+C1710032||screening metric
+C0282574||TANGO
+C0282574||TANGO
+C0028734||Nocturia
+C0282574||TANGO
+C0282574||TANGO
+C0028734||nocturia
+C0220908||screening tool
+C0028734||nocturia
+C0237070||disciplines
+C0037778||medical specialties
+C0282574||TANGO
+C0220825||assessment
+C0028734||nocturia

@@ -1,0 +1,11 @@
+C0205127||Longitudinal
+C0016667||Fragile X Syndrome
+C2603343||studies
+C0016667||fragile X syndrome
+C0016667||fragile X syndrome
+C0332128||examined
+C0016667||fragile X syndrome
+C0442513||homes
+C0936012||analyses
+C4314700||autism symptoms
+C0008071||developmental level

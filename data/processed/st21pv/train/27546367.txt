@@ -1,0 +1,53 @@
+C0682551||argyrophilic
+C0028609||nucleolar organizing region
+C0035126||Ischemia/reperfusion (I/R) injury
+C0042381||vascular surgery
+C0007613||functional
+C0243092||structural
+C0028609||Nucleolar-organizing regions
+C0028609||Nucleolar-organizing regions
+C0205145||sites
+C0035899||ribosomal genes
+C0008633||chromosomes
+C0487602||stained
+C0037125||silver
+C0033684||proteins
+C1571148||argyrophilic-NOR (AgNOR)-associated proteins
+C0022646||renal
+C0035126||I/R injury
+C1571149||NOR protein
+C0597295||synthesis
+C1571148||AgNOR proteins
+C2825141||histopathological injuring score
+C0086893||wistar-albino rats
+C0003062||animals
+C0035126||Ischemia/reperfusion
+C0035126||Ischemia/reperfusion
+C0086893||rats
+C0733948||renal pedicle
+C0028778||occlusion
+C0684253||reperfusion
+C0392877||drug injections
+C0035126||ischemia reperfusion
+C0003062||animals
+C2825141||histopathological injury score
+C0243095||mean AgNOR number
+C0243095||total AgNOR area
+C0243095||nuclear area
+C0243095||TAA
+C0243095||NA
+C0442726||detected
+C0086893||rat
+C0035126||Ischemia/reperfusion
+C2825141||histopathological injury scores
+C0035126||Ischemia/reperfusion
+C0243095||mean AgNOR number
+C2825141||histopathological injury score
+C0243095||mean AgNOR number
+C2825141||histopathological injury score
+C1511790||detection
+C1571148||AgNOR proteins
+C0007613||cellular behaviour
+C0524828||self-protective
+C1266872||tubular epithelial cells
+C0035126||I/R injury

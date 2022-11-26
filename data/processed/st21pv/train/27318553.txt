@@ -1,0 +1,35 @@
+C0042594||Vestibular disorders
+C0027497||nausea
+C0751177||head
+C0746787||neck
+C1512814||intensity-modulated radiation therapy
+C0027497||nausea
+C0042594||vestibular disorders
+C0332293||treated with
+C1512814||intensity modulated radiation therapy
+C1512814||intensity modulated radiation therapy
+C0751177||head
+C0746787||neck cancer
+C0033522||prospective single-centre study
+C1516879||enrolled
+C0087111||videonystagmography
+C1522449||radiation therapy
+C0027497||Nausea
+C1522449||post-radiotherapy
+C0087111||videonystagmography
+C0087111||videonystagmography
+C0235928||vestibular damage
+C0011900||diagnosed
+C1522449||post-radiotherapy
+C0027497||nauseous
+C0012833||dizziness
+C0042606||vestibules
+C0042594||vestibular disorder
+C0087111||videonystagmography
+C1513916||no
+C0042594||vestibular disorder
+C0087111||videonystagmography
+C0027497||nausea
+C0682674||vestibular system
+C1512814||intensity modulated radiation therapy
+C0027497||nausea

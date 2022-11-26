@@ -1,0 +1,53 @@
+C1333368||EZH2
+C1421578||ZFX
+C0029016||oncogenes
+C0030521||parathyroid neoplasms
+C0008972||studies
+C0544886||somatic mutations
+C0017337||genes
+C0694884||MEN1
+C1332803||CTNNB1
+C0919539||CDKIs
+C0262587||parathyroid adenoma
+C0026882||mutations
+C1333368||EZH2
+C1421578||ZFX
+C0029016||oncogenes
+C0262587||parathyroid adenoma
+C3640077||whole exome sequencing
+C0026882||mutations
+C0005767||blood
+C0029939||ovary
+C0006826||malignant tumours
+C0029016||oncogenes
+C0030521||parathyroid tumour
+C0030521||parathyroid neoplasm
+C0026882||mutations
+C1333368||EZH2
+C1421578||ZFX genes
+C0337810||Italian
+C0599755||cohort
+C0687150||parathyroid carcinomas
+C0001430||adenomas
+C0012854||DNA
+C0185115||extracted
+C1519524||paraffin-embedded tissues
+C0032520||PCR
+C0205160||No
+C0026882||mutations
+C0442726||detected
+C0015295||coding sequence
+C1136191||boundaries
+C0017337||genes
+C1333368||EZH2 gene
+C0678941||rs2072407 variant
+C0150312||present
+C0678941||rs78589034 variant
+C0015295||exon 16
+C0442726||detected
+C0020502||hyperparathyroidism
+C0035687||splicing process
+C1333368||EZH2
+C1421578||ZFX genes
+C0030521||parathyroid tumours
+C0599755||cohorts

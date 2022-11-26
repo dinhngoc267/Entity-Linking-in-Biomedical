@@ -1,0 +1,25 @@
+C0017526||Giant
+C0152244||Aneurysmal Bone Cyst
+C0024688||Mandibular Condyle
+C0152244||Aneurysmal bone cyst
+C0152244||Aneurysmal bone cyst
+C0205229||expanding
+C1517927||locally
+C0332219||easily
+C0679838||misdiagnosed
+C0221198||lesion
+C0152244||Aneurysmal bone cyst
+C0024688||condyle
+C0017526||giant
+C0152244||Aneurysmal bone cyst
+C0205091||left mandibular condyle
+C0332293||treated with
+C0015252||surgical resection
+C0262950||bone
+C2242551||mandibular reconstruction
+C0262950||bone
+C0311392||signs
+C1287399||imaging finding
+C0699748||pathogenesis
+C0087111||treatment methods
+C0152244||ABCs

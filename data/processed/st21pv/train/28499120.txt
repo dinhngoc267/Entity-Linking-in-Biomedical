@@ -1,0 +1,36 @@
+C0936012||analysis
+C0597916||heuristics
+C0752189||health technology
+C0220806||chemicals
+C3244304||public health domains
+C0597916||heuristic methods
+C0033213||problem structures
+C0679006||decisions
+C0449416||source
+C0087130||uncertainty
+C3161035||model
+C0087130||uncertainty
+C0870077||inference rules
+C0597916||heuristics
+C3161035||models
+C0150098||datasets
+C0242456||policy
+C0597916||heuristics
+C0008976||clinical trials
+C0597916||heuristics
+C0597916||Heuristic
+C0870077||decision rules
+C0870077||feasibility rules
+C0033213||problem
+C0087130||uncertainty
+C0597916||heuristics
+C0936012||analysis
+C0679083||simulations
+C0242481||multiple bias analysis
+C0282574||deductive systems of inference
+C1706232||directed acyclic graphs
+C0870077||rule
+C0087130||uncertainty
+C0597916||heuristics
+C1519193||recovery schemes
+C0870077||decision rules

@@ -1,0 +1,55 @@
+C0184511||Improved
+C0442711||protocol
+C0220862||isolation
+C0242245||follicular dendritic cells
+C0242245||Follicular dendritic cells
+C0242245||Follicular dendritic cells
+C0502330||lymphoid organs
+C1155229||humoral immune response
+C0204727||isolation
+C0242245||Follicular dendritic cells
+C0302113||fragility
+C0242245||Follicular dendritic cells
+C0242245||Follicular dendritic cells
+C0063695||ICAM-1(+)
+C0007634||cells
+C0054961||CD45
+C0205160||(-)
+C0805525||non-hematopoietic cell fraction
+C1519474||mouse spleen
+C0007616||cell separation
+C0014442||enzymes
+C0014442||enzymes
+C0242245||Follicular dendritic cells
+C0054961||CD45
+C0205160||(-)
+C0063695||ICAM-1(+)
+C0056184||CD21
+C0009552||35(+)
+C0805525||cell fraction
+C0054961||CD45
+C0205160||(-)
+C0063695||ICAM-1(+)
+C0056184||CD21
+C0009552||35(+)
+C0007634||cells
+C1519474||mouse spleen
+C0003320||antigen
+C1515655||in vivo
+C0054961||CD45
+C0205160||(-)
+C0063695||ICAM-1(+)
+C0056184||CD21
+C0009552||35(+)
+C0007634||cells
+C1519474||spleen of mice
+C0003320||cognate antigen
+C0007620||survival
+C0007634||antigen-specific B cells
+C0184511||improved
+C0442711||protocol
+C0220862||isolation
+C0242245||Follicular dendritic cells
+C0936012||analysis
+C0242245||Follicular dendritic cells
+C1515655||in vivo

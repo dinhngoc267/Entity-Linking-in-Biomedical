@@ -1,0 +1,75 @@
+C0028215||nitrous oxide
+C0013819||electroencephalographically
+C0474710||depth of anesthesia
+C0007776||cortical
+C0918012||state
+C0007776||cortical
+C0918012||input
+C0013819||electroencephalography
+C0013819||electroencephalography
+C0474710||depth of anesthesia
+C0036557||sedative
+C0002932||anesthetic
+C3536824||n-methyl-D-aspartate (NMDA) receptor antagonist
+C0002903||anesthesia
+C0022614||ketamine
+C0028215||nitrous oxide
+C0028215||N2O
+C0474710||depth of anesthesia
+C1283169||monitoring
+C0002045||algorithm
+C3161035||autoregressive-moving-average (ARMA) modeling
+C0007776||Cortical
+C0918012||State
+C0918012||Cortical State
+C0007776||Cortical
+C0918012||Input
+C0918012||Cortical Input
+C0035363||retrospectively
+C3536824||NMDA receptor antagonist
+C0028215||N2O
+C0002904||adjuvant anesthetic gas
+C0918012||Composite Cortical State
+C0918012||Composite Cortical State
+C0918012||Composite Cortical State distance
+C0918012||Composite Cortical State distance
+C3840684||modifications
+C0918012||Cortical State
+C0918012||Cortical State
+C0918012||Cortical Input
+C0220825||evaluated
+C0013819||electroencephalographic
+C0013819||electroencephalography
+C0028215||N2O
+C0004048||inhalation
+C0028215||N2O
+C0030054||O2
+C0918012||Composite Cortical State distance
+C0474704||anesthetic concentration
+C0002932||anesthetic's
+C0028215||N2O
+C0033487||propofol
+C1257890||group
+C0237401||individuals
+C0441610||reductions
+C1257890||group
+C0918012||Cortical State
+C0918012||Composite Cortical State
+C0918012||Composite Cortical State distance
+C0918012||Cortical Input
+C1521805||contrary
+C0474710||depth of anesthesia
+C1283169||monitoring
+C0918012||Cortical State
+C0918012||Composite Cortical State
+C0918012||Composite Cortical State distance
+C0205123||frontal
+C0013819||electroencephalography
+C0027361||people
+C0028215||N2O
+C0918012||Cortical Input
+C0918012||Cortical State
+C0918012||Cortical Input
+C0002932||anesthetics
+C0442592||clinical
+C0014406||environment

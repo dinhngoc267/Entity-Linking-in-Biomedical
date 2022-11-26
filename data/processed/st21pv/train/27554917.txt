@@ -1,0 +1,35 @@
+C1261322||assessment
+C0087111||treatment
+C3495676||anorectal malformation
+C3495676||anorectal malformation
+C0000768||congenital birth defects
+C0555952||colorectal
+C0430022||diagnoses
+C3495676||anorectal malformation
+C3495676||anorectal malformation
+C0035110||reoperation
+C0009566||complications
+C3495676||anorectal malformation
+C0543467||surgery
+C0087111||treatment
+C0002045||algorithms
+C0455458||past medical
+C0425382||adopted
+C1257890||population
+C1261322||investigations
+C0035110||reoperation
+C3495676||anorectal malformation
+C0035110||reoperative surgery
+C0003461||anus
+C0205101||outside
+C1409894||sphincter
+C0266229||Anal stricture
+C0034888||rectal prolapse
+C0431649||vaginal septum
+C1261287||strictured
+C0458952||vaginal introitus
+C0035110||reoperative surgery
+C3495676||anorectal malformation
+C0009566||complications
+C1705181||repair
+C0520254||surgical care

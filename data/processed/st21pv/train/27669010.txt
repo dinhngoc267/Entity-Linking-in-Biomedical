@@ -1,0 +1,18 @@
+C0242906||Neospora caninum
+C0999597||Axis Deer
+C0325211||Axis axis
+C0325214||Fallow Deer
+C0325214||Dama dama
+C1709269||Northern
+C0025885||Mexico
+C1550100||Serum samples
+C0999597||axis deer
+C0325211||Axis axis
+C0325214||fallow deer
+C0325214||Dama dama
+C0014441||enzyme-linked immunosorbent assay
+C0807090||Neospora caninum antibodies
+C0325211||axis
+C0325214||fallow deer
+C1514241||positive
+C0807090||N. caninum antibodies

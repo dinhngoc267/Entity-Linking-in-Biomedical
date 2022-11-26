@@ -1,0 +1,43 @@
+C0030956||peptide
+C1999611||human β thymosin
+C1254351||anti-biofilm agents
+C4275190||Staphylococcus spp.
+C0033809||Pseudomonas aeruginosa
+C0003232||antibiotics
+C0081786||biofilm
+C3714514||infections
+C3714514||infection
+C2825055||recurrence
+C4084937||antimicrobial peptides
+C0003204||anti-infective agents
+C0032071||planktonic
+C0081786||biofilm
+C1335533||fragment
+C1999611||human thymosin β4
+C2603343||studied
+C1518960||conformations of the peptide
+C0205099||central hydrophobic core
+C0205100||peripheral
+C3161035||models
+C0684063||eukaryotic
+C0030956||peptide
+C1271650||antimicrobial activity
+C0032071||planktonic
+C0081786||biofilm
+C4275190||Staphylococcus spp.
+C0033809||P. aeruginosa
+C1999611||human thymosin β4
+C1335533||fragment
+C0002518||EIEKFDKSKLK
+C1149575||antibacterial activity
+C0038170||staphylococcal
+C0033809||Pseudomonas aeruginosa
+C1325881||biofilm formation
+C1335533||fragment
+C1325881||biofilm formation
+C1518960||conformations
+C1999611||Human thymosin β4
+C1335533||fragment
+C1254351||lead compound
+C0034861||recombinant derivatives
+C0008003||pharmaceutical

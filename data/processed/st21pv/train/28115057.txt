@@ -1,0 +1,76 @@
+C3494301||Optogenetic
+C0021516||Innervation
+C0025929||Mouse
+C0009368||Colon
+C0027882||Neurons
+C0027882||Neural Cells
+C0302189||Cell therapy
+C0854121||gastrointestinal motility disorders
+C0027882||diseased
+C1304890||enteric
+C0027882||neurons
+C0027882||neurons
+C1304890||enteric
+C0027882||neural cells
+C0021516||innervation
+C0021853||bowel
+C1267092||smooth muscle
+C0025929||mice
+C1304890||Enteric
+C0027882||neural cells
+C0022009||light-sensitive ion channel
+C0033684||channelrhodopsin
+C0025929||mouse
+C0021853||bowel
+C1517729||distal colon
+C1883559||wild-type
+C0025929||recipient mice
+C0178719||Intracellular
+C0022885||electrophysiological recordings
+C0027882||cells
+C0009368||colonic
+C1135918||smooth muscle cells
+C0025929||recipient mice
+C1304890||enteric
+C0027882||neurons
+C0004461||axons
+C0332835||graft
+C0027882||neurons
+C1184808||plexus
+C0734812||circular muscle layer
+C0332835||graft
+C0027882||cells
+C0234121||excitatory
+C0234122||inhibitory junction potentials
+C0026820||contraction
+C0026836||relaxation
+C0009368||colonic
+C1135918||muscle cells
+C0332835||Graft
+C0026609||excitatory
+C0026609||inhibitory motor neurons
+C0027908||neurotransmitters
+C0026609||motor neurons
+C0001041||acetylcholine
+C0001480||adenosine triphosphate
+C0028128||nitric oxide
+C0332835||Graft
+C0027882||neurons
+C0021792||interneurons
+C0027882||neurons
+C0021792||interneurons
+C0013018||donors
+C1304890||enteric
+C0027882||neural cells
+C1304890||Enteric
+C0027882||neural cells
+C0021853||bowel
+C0027882||neurons
+C0021516||innervation
+C1267092||smooth muscle
+C1283694||bowel wall
+C0026609||motor neurons
+C0021792||interneurons
+C0027882||cells
+C0027908||neurotransmitter
+C0021792||interneurons

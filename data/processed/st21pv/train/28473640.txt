@@ -1,0 +1,71 @@
+C0332194||Anterolateral
+C0175196||entorhinal cortex
+C0449335||intra-item configural processing
+C1881134||imaging studies
+C0086418||human
+C0175196||entorhinal cortex
+C0332194||anterolateral
+C0175196||anterolateral entorhinal cortex
+C0175196||pmERC
+C0005898||subregions
+C0175196||anterolateral entorhinal cortex
+C0002395||Alzheimer's disease
+C0677042||pathology
+C0392335||cognitive function
+C0086418||human
+C0376335||fMRI studies
+C0025260||memory
+C0035804||rodent
+C0683949||studies
+C0175196||entorhinal cortex
+C0012727||spatial properties
+C0086418||human
+C0175196||anterolateral entorhinal cortex
+C0220825||evaluate
+C0449335||intra-item configural processing
+C0449830||arrangement
+C0700381||manual segmentation
+C2348563||developed protocol
+C0175196||anterolateral entorhinal cortex
+C0175196||pmERC
+C0039485||medial temporal lobe
+C0039485||medial temporal lobe
+C0005898||subregions
+C0025266||men
+C0043210||women
+C0235946||brain atrophy
+C0234985||cognitive decline
+C0449335||intra-item configural processing
+C0175196||anterolateral entorhinal cortex
+C0039485||MTL subregion
+C0086418||human
+C0175196||anterolateral entorhinal cortex
+C0449830||arrangement
+C0002395||Alzheimer's disease
+C0677042||pathology
+C1273723||brain regions
+C0332194||anterolateral
+C0175196||entorhinal cortex
+C0175196||anterolateral entorhinal cortex
+C0009240||cognitive role
+C0175196||anterolateral entorhinal cortex
+C0178693||human studies
+C0087111||treat
+C0175196||anterolateral entorhinal cortex
+C2326929||perirhinal cortex
+C0025260||memory
+C0683949||Animal studies
+C0175196||anterolateral entorhinal cortex
+C0012727||spatial properties
+C0086418||humans
+C0234985||cognitive decline
+C0175196||anterolateral entorhinal cortex
+C0449335||configural processing
+C0004268||attention
+C0449830||spatial arrangement
+C0009240||cognitive role
+C0175196||anterolateral entorhinal cortex
+C0086418||humans
+C0449335||early detection method
+C0002395||Alzheimer's disease
+C0677042||pathology

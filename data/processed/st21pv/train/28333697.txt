@@ -1,0 +1,57 @@
+C2317067||Medication Reconciliation
+C0019993||Hospitalization
+C0035363||Observational Retrospective Study
+C2317067||Medication reconciliation
+C4019071||care transition
+C2317067||medication reconciliation
+C0019994||Fondazione Toscana Gabriele Monasterio hospitals
+C2317067||medication reconciliation
+C0936012||analyzing
+C0184666||admission
+C0019993||hospitalization
+C0030685||discharge
+C0007222||cardiovascular diseases
+C0035363||retrospective observational study
+C0587505||Cardiothoracic Department
+C0019994||Fondazione Toscana Gabriele Monasterio hospitals
+C1553893||Medication history
+C0184666||admitted
+C0030685||discharged
+C3687832||drugs
+C3687832||drugs
+C0007226||cardiovascular system
+C3533331||prescription list
+C0184666||admission
+C1522577||follow-up
+C0025102||clinical charts
+C0033081||drug prescriptions
+C0019993||hospitalization
+C0936012||analyzed
+C3533331||list of prescriptions
+C0184666||admission
+C0030685||discharge
+C0282574||regional prescription registry
+C0033081||prescriptions
+C0936012||analyzed
+C1290905||discrepancies
+C2603343||study
+C0033081||prescriptions
+C0936012||analyzed
+C1290905||discrepancies
+C1290905||discrepancies
+C1290905||discrepancies
+C1290905||discrepancies
+C1290905||discrepancies
+C0019993||hospitalization
+C1290905||discrepancies
+C0033081||prescription
+C0030685||discharge
+C0442519||home
+C1113679||patient safety
+C0282574||regional prescription registry
+C0019993||hospitalization
+C2317067||medication reconciliation
+C2317067||medication reconciliation
+C0019994||hospitals
+C0018747||primary care services
+C1113679||patient safety

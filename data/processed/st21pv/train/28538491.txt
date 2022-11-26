@@ -1,0 +1,40 @@
+C0449444||Route
+C0020699||Hysterectomy
+C0012634||Disease
+C0020699||Hysterectomy
+C0543467||surgical procedures
+C0041703||United States
+C0449444||route
+C0020699||hysterectomy
+C0456389||size
+C0332479||shape
+C0042232||vagina
+C0042149||uterus
+C0042149||uterus
+C0012634||extrauterine disease
+C0582175||surgeon
+C0596545||experience
+C0019994||hospital
+C0752189||technology
+C0025080||devices
+C0195117||Vaginal
+C0751429||laparoscopic procedures
+C0198488||abdominal incision
+C0019993||hospitalization
+C0404077||abdominal hysterectomy
+C0020699||hysterectomy
+C0404077||abdominal hysterectomy
+C0175672||vaginal approach
+C0404089||Laparoscopic hysterectomy
+C0404077||abdominal hysterectomy
+C0020700||vaginal hysterectomy
+C0020699||hysterectomy
+C0449444||route
+C4283938||open
+C0404077||abdominal hysterectomy
+C0334897||obstetrician
+C0237419||gynecologist
+C0449444||route
+C0020699||hysterectomy
+C0020699||hysterectomy
+C0018724||health care provider

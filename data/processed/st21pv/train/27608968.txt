@@ -1,0 +1,22 @@
+C0000768||Congenital anomalies
+C0022265||isotretinoin
+C0000772||multiple abnormalities
+C0022265||isotretinoin
+C0376554||knowledge
+C0031809||physical examination
+C0011209||delivery
+C0332907||congenital absence
+C0229118||both eyes
+C0928075||auricles
+C0003466||anal atresia
+C0008925||cleft palate
+C0476273||respiratory distress
+C0243066||atresia
+C0003461||anus
+C0021708||intensive care unit
+C0524865||reconstructive surgery
+C1254351||drug
+C0032961||pregnancy
+C1254351||drug
+C0032961||pregnancy
+C0041755||side effects

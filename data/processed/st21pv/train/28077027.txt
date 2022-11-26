@@ -1,0 +1,55 @@
+C0086930||risk assessment
+C0360429||organophosphorus
+C0360422||carbamate pesticides
+C0042440||dietary vegetables
+C0016767||fruits
+C1257890||populations
+C0360429||Organophosphorus pesticides
+C0360429||Organophosphorus pesticides
+C0360422||carbamate pesticides
+C0360422||carbamate pesticides
+C0031253||pesticides
+C0008115||China
+C0242775||agricultural commodities
+C0360429||Organophosphorus pesticides
+C0360422||carbamate pesticides
+C2347958||residents
+C0042440||vegetables
+C0016767||fruits
+C0016452||vegetables and fruits
+C0038951||Shanghai Food Consumption Survey
+C0038951||Shanghai Food Consumption Survey
+C0679646||participants
+C0031251||pesticide residue
+C1283169||monitoring
+C0360429||organophosphates
+C0360422||carbamates
+C0016452||vegetables and fruits
+C0282574||EFSA
+C3161035||optimistic model
+C3161035||pessimistic model
+C0025663||relative potency factor (RPF) method
+C0031253||pesticides
+C1706082||index compound
+C1706082||index compound
+C0066080||methamidophos
+C0013328||chlorpyrifos
+C3161035||pessimistic model
+C0066080||methamidophos
+C1706082||index compound
+C1257890||populations
+C0066080||methamidophos
+C3161035||optimistic model
+C0013328||chlorpyrifos
+C0564470||optimistic
+C3161035||pessimistic models
+C1257890||populations
+C2242848||Chinese habits
+C0013470||eating
+C0344355||processed food
+C0042440||vegetables
+C0016767||fruits
+C0016452||VF
+C0449416||sourced
+C0360429||Organophosphorus pesticides
+C0360422||carbamate pesticides

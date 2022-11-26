@@ -1,0 +1,56 @@
+C1334815||Multicentric Castleman disease
+C0020191||hyaline
+C0005847||vascular
+C0007320||case report
+C1334815||Castleman disease
+C0024314||lymphoproliferative disorder
+C0392752||localized
+C0205221||disseminated
+C0497156||lymphadenopathy
+C0008902||categorized
+C0017531||unicentric
+C1334815||multicentric
+C0020191||hyaline
+C0005847||vascular
+C0032112||plasma cell
+C0449411||causative
+C0042769||viral infections
+C0019682||human immunodeficiency virus
+C0376526||human herpesvirus-8
+C0376526||Kaposi sarcoma herpesvirus
+C0231221||asymptomatic
+C1457887||symptoms
+C0178784||organs
+C0699748||pathogenesis
+C0021760||interleukin-6
+C0054946||cluster of differentiation 20
+C1553327||Sri Lankan
+C0043210||woman
+C0577596||body swelling
+C0582103||Examination
+C0030232||pallor
+C1850534||generalized edema
+C0004454||axillary
+C0205064||cervical
+C0578736||inguinal lymphadenopathy
+C0020538||hypertension
+C0019209||hepatomegaly
+C1261322||Investigations
+C1142446||bicytopenia
+C0445118||nephrotic range proteinuria
+C0239981||hypoalbuminemia
+C0086438||hypogammaglobulinemia
+C0020191||hyaline
+C0005847||vascular
+C1334815||Castleman disease
+C0193842||lymph node biopsy
+C0086583||managed
+C0393022||rituximab
+C1334815||Castleman disease
+C0332464||broad
+C0012634||disease
+C0699748||pathogeneses
+C0009566||complications
+C1704312||professionals
+C0011900||diagnosis
+C2985566||aggressive targeted therapy

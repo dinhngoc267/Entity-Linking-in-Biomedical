@@ -1,0 +1,31 @@
+C0006948||Carbamate
+C0002776||Derivatives
+C0566267||2-Furoyl-1-piperazine
+C1611640||Therapeutic Agents
+C0242481||research work
+C0566267||biologically active
+C0006948||carbamate
+C0002776||derivatives
+C0566267||2-furoyl-1-piperazine
+C0600688||toxicity
+C0678594||structural
+C0750484||confirmation
+C4054904||EI-MS
+C0037807||IR
+C3850001||1H-NMR
+C1524081||enzyme inhibition
+C0243095||antibacterial potential
+C0566267||synthesized compounds
+C0220825||evaluated
+C0566267||compounds
+C1611640||therapeutic agents
+C0596402||cytotoxicity
+C0566267||compounds
+C0001044||acetylcholinesterase enzyme
+C0566267||12
+C0566267||14
+C0234122||inhibitory potential
+C1314787||Eserine
+C0566267||compounds
+C0018154||Gram-positive
+C0018150||Gram-negative bacterial strains

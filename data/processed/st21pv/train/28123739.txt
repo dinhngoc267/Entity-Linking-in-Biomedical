@@ -1,0 +1,28 @@
+C2931202||Urachal carcinoma
+C0684224||Report
+C0023866||literature
+C2931202||Urachal carcinoma
+C0027651||tumor
+C0029939||ovaries
+C0001575||adnexal
+C0005898||region
+C1508753||urinary system
+C2931202||urachal carcinoma
+C0025266||male
+C0473235||painless hematuria
+C0302148||blood clots
+C0043210||woman
+C0473237||gross hematuria
+C0013428||dysuria
+C0085606||urgency and frequent urination
+C0728940||surgical resection
+C0011900||diagnosed
+C2931201||urachal adenocarcinoma
+C2931201||urachal mucinous adenocarcinoma
+C0582103||examination
+C0023866||literature
+C0150312||present
+C0008972||study
+C0162340||understand
+C0027651||disease
+C0679838||misdiagnosis

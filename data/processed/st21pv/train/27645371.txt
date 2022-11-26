@@ -1,0 +1,35 @@
+C0023449||acute lymphoblastic leukemia
+C0087111||therapy
+C0596545||Experience
+C0805586||challenges
+C0449911||perspectives
+C0087111||treatment
+C0038574||subsidies
+C0010210||intensified counseling
+C0087111||therapy
+C0452129||abandonment
+C0023449||acute lymphoblastic leukemia
+C0023449||acute lymphoblastic leukemia
+C0454664||countries
+C2603343||study
+C0023449||acute lymphoblastic leukemia
+C0087111||treatment
+C0087111||therapy
+C0452129||abandonment
+C0023449||acute lymphoblastic leukemia
+C0452129||abandonment
+C0087111||treatment
+C0038574||subsidies
+C0010210||intensified multistage counseling
+C0087111||therapy
+C3665472||chemotherapy
+C0549106||Financial problems
+C1962923||dependents
+C0442519||home
+C0030971||perceptions
+C0006826||cancer
+C0452129||abandonment
+C0243095||Children abandoning treatment
+C0857127||induction
+C0010210||Intensified preabandonment counseling
+C0087111||treatment

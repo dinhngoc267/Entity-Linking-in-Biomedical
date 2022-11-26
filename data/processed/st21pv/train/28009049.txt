@@ -1,0 +1,41 @@
+C0043457||Zebrafish
+C1171322||adult pigment stem cells
+C1136335||multipotent
+C0440745||form pigment cells
+C1160037||fate restriction process
+C0796368||Clonal analysis
+C0440745||pigment cell types
+C1269684||Skin pigment
+C1160421||pattern formation
+C1160421||pattern formation
+C0043457||zebrafish
+C0229962||body stripes
+C0007613||rearrangement
+C0440745||pigment cell-types
+C0025201||melanocytes
+C0007634||iridophores
+C0007634||xanthophores
+C0038250||stem cell origin
+C0025201||melanocytes
+C0007634||iridophores
+C0038250||stem cells
+C0007634||Xanthophores
+C0596290||proliferation
+C0013935||embryonic
+C0007634||xanthophores
+C0007634||cell-types
+C0038250||stem cells
+C0007634||cells
+C0205100||peripheral
+C1113654||neural cell-types
+C1522642||clonal
+C1160037||fate restriction model
+C0007634||cell-types
+C1171322||adult pigment stem cells
+C0017070||dorsal root ganglia
+C0243095||remain
+C0038250||progenitor
+C1160209||larval development
+C0277806||metamorphosis
+C0038250||progenitors
+C0037941||spinal nerves

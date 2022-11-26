@@ -1,0 +1,18 @@
+C0282662||bedside test
+C0282662||bedside tests
+C0456377||interpretation
+C0451306||MMSE
+C0001792||elderly
+C0451306||MMSE
+C3641827||agreed
+C0008902||classification
+C0451306||MMSE
+C0683312||categories
+C0333052||four-item version
+C0451306||MMSE
+C0683312||categories
+C0332219||easily
+C0282662||bedside test
+C0001792||elderly
+C0338656||neurocognitive impairment
+C0338656||cognitive impairment

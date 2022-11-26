@@ -1,0 +1,33 @@
+C0220825||Assessment
+C0008902||classification
+C1705236||protocol deviations
+C1705236||Deviations
+C2599718||trial protocol
+C0008976||clinical trials
+C0008902||classified
+C1705236||deviations
+C1709750||violations
+C0008976||trial
+C1705236||deviations
+C0008902||classified
+C0008902||grades from 1 to 5
+C1705236||deviation
+C0687695||Grade 1
+C1513916||no
+C2349001||subjects'
+C0424578||well-being
+C1705236||deviation
+C0441804||Grade 5
+C1306577||death
+C2349001||subject
+C0008902||classification
+C1705236||deviations
+C1705236||deviations
+C0008902||Grades 1 and 2
+C0008902||Grades 3 and 4
+C1705236||deviations
+C3897054||death of the subject
+C0008902||classification
+C0008976||trial
+C0335141||managers
+C1705236||deviations

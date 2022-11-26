@@ -1,0 +1,51 @@
+C0023828||liposome
+C0020944||immobilization
+C0025938||micelles
+C0025938||sterically stabilized micelles
+C0021730||bio-layer interferometry
+C2603343||studies
+C0021730||bio-layer interferometry
+C0021730||bio-layer interferometry
+C0022885||screening methods
+C0023828||liposomes
+C1706082||compounds
+C0020944||immobilization
+C0023828||liposomes
+C0020944||immobilizing
+C0023828||liposomes
+C2603343||studies
+C0020944||immobilization
+C0664515||DSPE-PEG(2000)
+C0005575||biotin
+C0025938||micelles
+C0025938||sterically stabilized micelles
+C0023828||liposome
+C0020944||immobilization
+C0023828||Liposomes
+C0486616||composition
+C0020944||immobilized
+C0205148||surface
+C0025938||sterically stabilized micelles
+C0010749||Cytochrome C
+C0033684||protein
+C0033618||binding
+C0010749||Cytochrome C
+C0020944||immobilized
+C0023828||liposomes
+C0023866||literature
+C0162340||understanding
+C0205148||surface
+C0023828||liposomes
+C0026022||confocal fluorescence microscopy
+C0020944||immobilized
+C0023828||liposomes
+C0060549||calcein
+C0444669||core
+C1444656||indicated
+C1622418||vesicles
+C0023828||liposome
+C0020944||immobilization
+C0021730||bio-layer interferometry
+C0005507||assay
+C0035168||research
+C2347934||regulatory applications

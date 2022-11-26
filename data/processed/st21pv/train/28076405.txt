@@ -1,0 +1,53 @@
+C1519941||Validation
+C0022885||Method
+C0011900||Diagnosis
+C0005595||Avian
+C0006057||Botulism
+C0023884||Liver
+C1706515||matrix
+C0022885||laboratory
+C0005595||avian
+C0006057||botulism
+C1709846||real-time PCR
+C1519941||validated
+C0936012||analytical
+C0032520||PCR
+C0442726||detection
+C4303900||Clostridium botulinum group III
+C0005595||avian
+C0023884||liver
+C0032520||PCR
+C0010454||enrichment
+C1439852||incubation
+C0023884||liver
+C0179876||anaerobic chamber
+C3839098||DNA extraction
+C0523169||enzymatic digestion
+C0936012||analysis
+C0442726||detection
+C4304189||group III C. botulinum strains
+C0936012||Analysis
+C0023884||livers
+C0040284||enrichment culturing
+C3839098||DNA extraction
+C0023884||livers
+C0010454||enrichment medium
+C0454877||Surrey
+C0041700||UK
+C0023884||Spiked liver
+C0442726||detection
+C0038028||spores
+C0023884||liver
+C4304189||types C
+C4304187||D
+C0038028||spores
+C4303900||type E
+C0022885||method
+C0936012||analysis
+C0032520||PCR
+C0022885||methods
+C4304189||mosaic type C
+C4304187||D
+C0027934||neurotoxin
+C0325328||wild
+C0324556||domestic birds

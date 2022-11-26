@@ -1,0 +1,90 @@
+C0015219||Evolution
+C0243095||Cost-Neutral
+C0596988||Mutant
+C0962247||PfCRT
+C0032150||P. falciparum
+C0048060||4-Aminoquinoline
+C0013203||Drug Resistance
+C0030498||Parasite
+C0025519||Metabolism
+C1167024||Digestive Vacuole
+C0031842||Physiology
+C0003983||Southeast Asia
+C0032150||Plasmodium falciparum strains
+C0002085||allelic
+C0678941||variants
+C0030498||parasite
+C0013203||drug resistance
+C0017337||genes
+C0017337||P. falciparum chloroquine resistance transporter
+C0017337||P. falciparum chloroquine resistance transporter
+C0441610||reductions
+C0048060||4-aminoquinoline
+C1254351||drug
+C0008269||chloroquine
+C0008269||chloroquine
+C0678941||mutant
+C0017337||P. falciparum chloroquine resistance transporter
+C0002085||alleles
+C0008269||chloroquine
+C0030498||parasite
+C0017337||P. falciparum chloroquine resistance transporter
+C1708726||locus
+C0026882||mutated
+C0002085||allele
+C0017337||Cam734 pfcrt
+C0030498||parasite
+C0008269||chloroquine
+C0013203||resistance
+C0017337||P. falciparum chloroquine resistance transporter
+C0597094||zinc-finger nucleases
+C0002085||allele
+C3816499||pathogenic
+C3714514||asexual blood-stage infection
+C0013203||drug resistance
+C0018270||growth
+C0030498||recombinant parasites
+C0017262||express
+C0017337||Cam734
+C0678941||variants
+C0017337||Dd2
+C0003983||Southeast Asian
+C0678941||variant
+C1883559||wild-type
+C0017337||P. falciparum chloroquine resistance transporter
+C0962247||PfCRT
+C0026882||mutations
+C0030498||parasite
+C0003374||antimalarial agents
+C0017337||GC03
+C0017337||P. falciparum chloroquine resistance transporter
+C2603343||studies
+C0002085||allele
+C0017337||Cam734
+C0008269||chloroquine
+C0013203||resistance
+C0026882||A144F
+C0026882||mutation
+C0003983||Southeast Asia
+C0017337||Cam734
+C0026882||mutations
+C0008269||chloroquine
+C0013203||resistance
+C0030498||parasite
+C0005507||Biochemical assays
+C0596988||mutant
+C0962247||PfCRT
+C0597298||isoforms
+C0030498||parasite
+C0025519||metabolism
+C1157963||hemoglobin catabolism
+C0018966||heme
+C1167024||digestive vacuole
+C4246449||complex molecular basis
+C0962247||PfCRT
+C0003374||antimalarial
+C0013203||drug resistance
+C0017337||P. falciparum chloroquine resistance transporter
+C0002085||alleles
+C0003374||antimalarial drug
+C0040808||regimens

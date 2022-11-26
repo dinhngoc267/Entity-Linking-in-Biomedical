@@ -1,0 +1,48 @@
+C0055023||vitronectin
+C0574031||migration-enhancing factor
+C0597032||cancer cells
+C0243041||chaperoned
+C0016006||fibrinogen
+C4255448||metastasis
+C0597032||cancer cells
+C0016006||fibrinogen
+C0024235||lymphatics
+C0333343||body cavities
+C0032105||plasma
+C1622501||migration
+C0334227||malignant cell lines
+C0032105||plasma
+C0059256||proteinase K
+C0032105||plasma
+C0033684||protein
+C0682972||GαI protein-coupled receptors
+C0752312||p42/44 MAPK
+C1623484||AKT signaling
+C0007634||cells
+C0032105||plasma
+C0229671||serum
+C0016006||fibrinogen
+C0243041||chaperone
+C0033684||protein(s)
+C0033684||pro-migratory protein(s)
+C0032105||plasma
+C0016006||fibrinogen
+C0229671||serum
+C0008559||gel filtration
+C0008550||hydrophobic interaction chromatography
+C0037813||mass spectrometry analysis
+C0033684||protein
+C0681814||experiments
+C0574031||pro-migratory factor
+C0243041||chaperoned
+C0016006||fibrinogen
+C0055023||vitronectin
+C0016006||fibrinogen
+C4255448||metastasis
+C0597032||cancer cells
+C0024235||lymphatics
+C0333343||body cavities
+C0016006||fibrinogen
+C0055023||vitronectin
+C1622501||migration
+C0597032||tumor cells

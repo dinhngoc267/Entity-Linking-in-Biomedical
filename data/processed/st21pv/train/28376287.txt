@@ -1,0 +1,24 @@
+C0001973||alcohol dependence
+C0001973||alcohol dependence
+C0947630||study
+C1522577||follow-up
+C0150543||detoxification
+C1708333||detoxification units
+C0020021||psychiatric hospitals
+C0017480||Germany
+C0033489||Cox regression model
+C0220825||evaluate
+C0035648||risk factors
+C0679646||participants
+C0936012||analysis
+C0459840||consumed cigarettes
+C0459840||cigarette
+C1276355||Smoking reduced
+C0459840||cigarettes smoked
+C0001973||alcohol-dependent
+C0740858||substance abuse
+C0184661||interventions
+C1515021||subgroups
+C0009566||complications
+C0243095||findings
+C0599880||treatment plans

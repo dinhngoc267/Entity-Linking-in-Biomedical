@@ -1,0 +1,45 @@
+C0045643||2,8-Dihydroxyadenine
+C0022658||Nephropathy
+C0022661||End-Stage Renal Disease
+C0022671||Renal Transplant
+C0268120||Adenine phosphoribosyltransferase deficiency
+C3899988||autosomal recessive disorder
+C0041980||uric acid
+C0025519||metabolism
+C0221102||excretion
+C0045643||2,8-dihydroxyadenine
+C0042036||urine
+C0045643||2,8-dihydroxyadenine
+C0151579||urinary crystals
+C0022650||renal stones
+C0012634||disorder
+C1737262||recurrent nephrolithiasis
+C4288763||nephropathy secondary
+C1533132||crystal
+C0227628||renal parenchyma
+C0012634||disease
+C0243095||underdiagnosed
+C0022671||renal transplant
+C1262018||graft failure
+C0006736||uric acid stones
+C0589402||lack of awareness
+C0871685||clinicians
+C0243095||underdiagnoses
+C0012634||disease
+C0002144||Allopurinol
+C0043316||xanthine dehydrogenase
+C0014432||inhibitor
+C0429791||fluid intake
+C0086153||dietary modifications
+C0268120||adenine phosphoribosyl transferase deficiency
+C0451641||urolithiasis
+C0451641||urolithiasis
+C0035078||renal failure
+C0022661||end-stage renal disease
+C0045643||2,8-dihydroxyadenine
+C0022658||nephropathy
+C0022661||end-stage renal disease
+C0027695||nephrectomy
+C0022671||renal transplant
+C2825055||recurrence
+C0022671||graft

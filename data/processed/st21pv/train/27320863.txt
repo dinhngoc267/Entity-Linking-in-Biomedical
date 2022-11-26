@@ -1,0 +1,88 @@
+C0205054||hepatic
+C0333574||fat accumulation
+C0005304||betaine
+C0019878||homocysteine
+C0041904||up-regulation
+C0053518||betaine-homocysteine methyltransferase
+C0053518||betaine-homocysteine methyltransferase
+C0005304||betaine
+C0086893||rats
+C0025646||methionine
+C0008405||choline
+C0012155||diet
+C0012155||methionine and choline - deficient diet
+C0012155||methionine and choline - deficient diet
+C0333574||accumulation
+C0205054||hepatic
+C0023779||lipids
+C0005304||betaine
+C0242297||supplementation
+C1158886||Phosphorylation
+C2350345||AMP-activated protein kinase
+C2350345||AMP-activated protein kinase
+C0001022||acetyl-CoA carboxylase
+C0001022||acetyl-CoA carboxylase
+C0537474||sterol regulatory element-binding protein 1c
+C0537474||sterol regulatory element-binding protein 1c
+C1431123||liver kinase B1
+C1431123||liver kinase B1
+C0012155||methionine and choline - deficient diet
+C0005304||betaine
+C3714845||feeding
+C0005304||betaine
+C0242297||supplementation
+C1325080||methionine and S-adenosylmethionine
+C1325080||S-adenosylmethionine
+C2242817||homocysteine levels
+C0023884||liver,
+C0014431||induction
+C0053518||betaine-homocysteine methyltransfease
+C0053518||betaine-homocysteine methyltransferase
+C0025647||methionine adenosyltransferase
+C0025647||methionine adenosyltransferase
+C0007634||cell lines
+C0019878||homocysteine
+C0014429||activation
+C2350345||AMP-activated protein kinase
+C0019878||Homocysteine
+C2350345||pAMPK
+C0001022||pACC
+C0537474||pSREBP-1c
+C1431123||pLKB1
+C2717940||HepG2 cells
+C0025598||Metformin
+C0014429||activation
+C2350345||AMP-activated protein kinase
+C0019878||homocysteine
+C0020362||hydroxylamine
+C0010641||cystathionine β-synthase
+C0014432||inhibitor
+C2350345||pAMPK
+C0001022||pACC
+C0537474||pSREBP-1c
+C0178719||intracellular
+C0019878||homocysteine
+C0005304||Betaine
+C0087111||treatment
+C0019878||homocysteine
+C2350345||pAMPK
+C0001022||pACC
+C0537474||pSREBP-1c
+C1431123||pLKB1
+C0007634||H4IIE cells
+C2717940||HepG2 cells
+C0019878||homocysteine
+C1171362||protein expression
+C0053518||betaine-homocysteine methyltransferase
+C0005304||betaine
+C0007634||H4IIE cells
+C1171362||express
+C0053518||betaine-homocysteine methyltransferase
+C0005304||betaine
+C0205054||hepatic
+C0023779||lipid
+C0333574||accumulation
+C0019878||homocysteine
+C0041904||up-regulation
+C0053518||betaine-homocysteine methyltransferase
+C0227525||hepatocytes

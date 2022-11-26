@@ -1,0 +1,66 @@
+C0017428||Genomic
+C0325328||wild-bird
+C0243095||origin
+C0325912||pigeon
+C0027984||paramyxovirus type 1
+C0027984||pigeon paramyxovirus type 1
+C0008115||northwest region of China
+C0325912||Pigeon
+C0027984||paramyxovirus type-1
+C0027984||pigeon paramyxovirus type 1
+C0325912||pigeon
+C0032850||poultry
+C0454664||countries
+C0027984||pigeon paramyxovirus type 1
+C1764827||isolate
+C0027984||PPMV-1/QL-01/CH/15
+C0326243||woodpecker
+C0008115||northwest region of China
+C0017428||genome
+C3854164||sequenced
+C0042776||virus
+C0017428||genome
+C0887940||gene arrangement 3'-NP-P-M-F-HN-L-5'
+C0002520||amino acid
+C0026882||mutations
+C1514562||functional domains
+C0162768||F
+C0019822||HN proteins
+C1764827||isolate
+C0220825||evaluated
+C1764827||isolate
+C1294197||Sequencing
+C0027984||Newcastle disease virus
+C0002518||cleavage motif (112)R-R-Q-K-R-F(117)
+C0162768||fusion protein
+C0002518||cleavage site
+C2987620||inoculation
+C0325912||pigeons
+C0042776||virus
+C0243095||nonpathogenic
+C0008051||chickens
+C0301872||immune responses
+C0325912||pigeons
+C0008051||chickens
+C1515655||in vivo
+C1519068||phylogenetic
+C0936012||evolutionary distance analysis
+C0027984||pigeon paramyxovirus type 1
+C0441756||sub-genotype VIa
+C0441886||class II
+C0599616||identification
+C0936012||analysis
+C0027984||pigeon paramyxovirus type 1
+C0237318||co-circulation
+C0325328||wild birds
+C0999232||domestic pigeon
+C0008115||China
+C2603343||study
+C0325328||wild birds
+C0205221||dissemination
+C0027984||pigeon paramyxovirus type 1
+C1514811||references
+C0037775||distribution
+C0015219||evolution
+C0027984||pigeon paramyxovirus type 1
+C0008115||China

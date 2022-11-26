@@ -1,0 +1,21 @@
+C3179495||Shared Decision Making
+C0018696||healthcare system
+C0031238||Peru
+C0031238||Peru
+C0034379||health
+C0017446||region
+C4277599||gaps
+C1257890||population
+C3161035||model
+C0017313||patient care
+C0018696||systems
+C0018696||system
+C0034927||referral of patients
+C1547668||basic level
+C1547668||complex level
+C0017313||care
+C0079816||medical act
+C0031831||doctors'
+C0027361||person
+C0086388||health care
+C3161035||model

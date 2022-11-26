@@ -1,0 +1,19 @@
+C0031831||Doctor
+C0441516||Demand
+C0086388||Healthcare
+C0008115||Rural China
+C0237463||agency
+C0033213||problem
+C0031831||doctors
+C0023866||health economics literature
+C0034379||quality care
+C0562518||village
+C0031831||doctors'
+C0008115||rural China
+C0031831||doctor
+C0086388||healthcare
+C0030971||perceptions
+C1299582||unable
+C0031831||doctors
+C0031831||doctor
+C0030971||perceptions

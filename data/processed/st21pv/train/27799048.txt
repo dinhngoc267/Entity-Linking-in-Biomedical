@@ -1,0 +1,73 @@
+C0454270||high-dose-rate brachytherapy
+C0449381||parameters
+C0002045||deformably-registered plans
+C0161819||gastrointestinal complications
+C0087111||multi-modal treatments
+C0022885||voxel-by-voxel dose accumulation
+C0018704||institution
+C0599755||cohort
+C1522577||follow-up
+C0205052||rectal
+C1142499||gastrointestinal toxicities
+C0454270||high-dose-rate (HDR) brachytherapy
+C0194790||prostate treatment
+C0454270||high-dose-rate
+C0002045||TG43 algorithm
+C0450973||Late Effects of Normal Tissues - Subjective, Objective, Management and Analytic toxicity assessments
+C1522577||follow-up
+C0454270||high-dose-rate
+C0040405||CT
+C0040405||CT
+C0524811||dose fractionation
+C0034896||Rectum
+C3827011||dose-volume histogram
+C3827011||dose-volume histogram
+C0449381||parameters
+C0025663||Distribution-adding
+C0449381||parameters
+C0454270||high-dose-rate
+C0025663||Parameter-adding
+C3827011||dose-volume histogram
+C0449381||parameters
+C0454270||high-dose-rate
+C3827011||dose-volume histogram
+C0449381||parameters
+C0206031||Logistic regressions
+C0449381||parameters
+C0441800||grade
+C0205147||regions
+C0025663||distribution-adding
+C0267596||rectal bleeding
+C0085606||urgency
+C0232726||tenesmus
+C0426642||stool frequency
+C0085606||urgency
+C0232726||tenesmus
+C0581362||anorectal pain
+C0205147||regions
+C0025663||distribution-adding
+C0025663||Parameter-adding
+C0444598||mid
+C0205147||region
+C0426642||stool frequency
+C0033246||proctitis
+C0681814||study
+C0750484||confirms
+C3827011||dose-histogram
+C1142499||gastrointestinal toxicities
+C0002045||deformable registration
+C0454270||high-dose-rate
+C0376358||prostate cancer
+C0087111||treatment
+C0243095||findings
+C0025663||distribution-adding
+C0025663||parameter-adding
+C0444598||mid
+C0267596||rectal bleeding
+C0025663||distribution-adding
+C0444598||mid
+C0426642||stool frequency
+C0085606||urgency
+C0232726||tenesmus
+C2603343||studies
+C0022885||dose accumulation methods

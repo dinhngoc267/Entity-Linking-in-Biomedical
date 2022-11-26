@@ -1,0 +1,43 @@
+C1416519||ITPR3 gene
+C0279671||cervical squamous cell carcinoma
+C1556096||Taiwanese
+C0043210||women
+C0021005||Host immunogenetic
+C0343641||human papillomavirus (HPV) infection
+C1516170||cervical cancer development
+C1416519||Inositol 1,4,5-triphosphate receptor type 3
+C1416519||Inositol 1,4,5-triphosphate receptor type 3
+C1155000||immune activation
+C0006826||cancer
+C0699748||pathogenesis
+C1416519||Inositol 1,4,5-triphosphate receptor type 3
+C0032529||genetic polymorphisms
+C1556096||Taiwanese
+C0043210||women
+C1416519||Inositol 1,4,5-triphosphate receptor type 3
+C0752046||rs3748079 A/G
+C0752046||rs2229634 C/T polymorphisms
+C2603343||hospital-based study
+C0043210||women
+C0279671||cervical squamous cell carcinoma
+C0279671||cervical squamous cell carcinoma
+C0043210||women
+C0021344||human papillomavirus
+C0279671||cervical squamous cell carcinoma
+C1416519||Inositol 1,4,5-triphosphate receptor type 3
+C0678941||variants
+C0279671||cervical squamous cell carcinoma
+C4288937||HPV-16 positive
+C0279671||cervical squamous cell carcinoma
+C0279671||cervical squamous cell carcinoma
+C0279671||cervical squamous cell carcinoma
+C0999806||HPV-16
+C1517888||linkage disequilibrium analysis
+C1416519||Inositol 1,4,5-triphosphate receptor type 3
+C2717881||association
+C0279671||cervical squamous cell carcinoma
+C1415576||HLA-DRB1
+C0002085||alleles
+C1416519||ITPR3 gene
+C0017393||potential marker
+C0279671||cervical squamous cell carcinoma

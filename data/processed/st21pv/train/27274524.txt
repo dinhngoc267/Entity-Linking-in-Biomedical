@@ -1,0 +1,21 @@
+C1262481||Eosinophilic Gastroenteritis
+C1262481||Eosinophilic gastroenteritis
+C1262481||Eosinophilic gastroenteritis
+C1290884||inflammatory disorder
+C0017189||gastrointestinal tract
+C0333390||eosinophilic infiltration
+C0021853||bowel wall
+C0017178||gastrointestinal disorders
+C0243095||wide spectrum of presentations
+C0011900||Diagnose
+C0012634||disorders
+C0242114||suspicion
+C0007320||report a case
+C0025266||man
+C0262926||history
+C0232493||sever epigastric pain
+C0027497||nausea
+C0042963||vomiting
+C0030673||admission
+C0011900||diagnosis
+C1262481||Eosinophilic gastroenteritis

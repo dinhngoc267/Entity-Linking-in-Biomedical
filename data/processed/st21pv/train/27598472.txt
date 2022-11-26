@@ -1,0 +1,54 @@
+C2242647||Endothermal venous ablation
+C0036186||saphenous vein
+C0003281||anticoagulation therapy
+C2603343||study
+C0019080||bleeding
+C0149871||deep venous thrombosis
+C0149871||deep venous thrombosis
+C0042487||endovenous heat induced thrombosis
+C0042487||endovenous heat induced thrombosis
+C0547070||ablation
+C0547070||ablation
+C0003281||oral anticoagulation
+C0441835||group A
+C2242647||endovenous ablation
+C0036186||saphenous veins
+C0003281||oral anticoagulation
+C0441836||group B
+C2242647||endovenous ablation
+C0003281||anticoagulation
+C0332119||history of
+C0149871||deep venous thrombosis
+C0008902||classification
+C0003281||anticoagulation
+C0003280||anticoagulants
+C0019080||bleeding
+C0149871||deep venous thrombosis
+C0042487||endovenous heat induced thrombosis
+C0547070||ablation
+C0441835||group A
+C0025266||men
+C0149871||deep venous thrombosis
+C0034065||PE
+C0441836||group B
+C0003281||anticoagulation
+C0043031||warfarin
+C1254351||direct oral inhibitors
+C1254351||direct oral inhibitors
+C0547070||ablation
+C0441835||Group A
+C0441836||Group B
+C0042487||endovenous heat induced thrombosis
+C0441835||group A
+C0441836||group B
+C0149871||deep venous thrombosis
+C0039240||SVT
+C0018944||hematoma
+C0043241||wound infection
+C0547070||Ablation
+C0036186||saphenous veins
+C0003281||oral anticoagulation
+C0019080||bleeding
+C0018944||hematoma
+C0042487||endovenous heat induced thrombosis
+C0547070||ablation

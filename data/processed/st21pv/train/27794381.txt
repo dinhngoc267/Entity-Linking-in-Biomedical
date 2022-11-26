@@ -1,0 +1,121 @@
+C0013982||emodin
+C0037083||mobility signal transduction system
+C0016976||gallbladder
+C1267092||smooth muscle
+C0085979||Guinea pig
+C0008350||cholelithiasis
+C2603343||study
+C0013982||emodin
+C1171362||protein
+C0017262||gene expressions
+C0037083||mobility signal transduction system
+C0016976||cholecyst
+C0596981||smooth muscle cells
+C0085979||guinea pig
+C0333018||cholesterol calculus
+C0085979||guinea pigs
+C0013982||emodin
+C0042105||ursodeoxycholic acid
+C0042105||ursodeoxycholic acid
+C0333018||Cholesterol calculus
+C0085979||guinea pigs
+C0013982||emodin
+C0042105||ursodeoxycholic acid
+C0012155||lithogenic diet
+C0013982||emodin
+C0042105||ursodeoxycholic acid
+C0016976||gallbladder
+C0442726||detected
+C0181839||microscope
+C0181845||electron microscope
+C0032105||plasma
+C0008328||cholecystokinin
+C0008328||cholecystokinin
+C0596235||[Ca(2+)]i
+C0936012||analyzed
+C0034580||radioimmunoassay
+C0016263||flow cytometry
+C0033684||protein
+C0035696||mRNA
+C0086903||Gsα
+C0086706||Giα
+C0073423||Cap
+C0016976||cholecyst
+C0596981||cells
+C0005863||western blotting
+C1709846||real time polymerase chain reaction
+C1709846||real time polymerase chain reaction
+C0013982||Emodin
+C0042105||ursodeoxycholic acid
+C3816499||pathogenic
+C0014597||epithelial cells
+C0596981||muscle cells
+C0016976||gallbladder
+C0085979||guinea pig
+C0333018||cholesterol calculus
+C0181839||microscope
+C0262880||transmission electron microscope
+C0016976||cholecyst
+C0596981||cells
+C0008328||cholecystokinin
+C0032105||plasma
+C0596235||[Ca(2+)]i
+C0033684||protein
+C0035696||mRNA
+C0013081||down-regulated
+C0033684||protein
+C0035696||mRNA
+C0086706||Gi
+C0073423||Cap
+C0041904||up-regulated
+C0013982||Emodin
+C3816499||pathogenic
+C0014597||epithelial cells
+C0596981||muscle cells
+C0008328||cholecystokinin
+C0032105||plasma
+C0596235||[Ca(2+)]i
+C0016976||cholecyst
+C0596981||cells
+C0033684||protein
+C0035696||mRNA
+C0086903||Gs
+C0016976||cholecyst
+C0596981||cells
+C0033684||protein
+C0035696||mRNA
+C0086706||Gi
+C0073423||Cap
+C0016976||cholecyst
+C0596981||cells
+C0085979||guinea pig
+C0333018||cholesterol calculus
+C0232772||gallbladder contraction
+C0012634||disorders
+C0037083||mobility signal transduction system
+C0016976||cholecyst
+C0596981||smooth muscle cells
+C0032105||plasma
+C0008328||cholecystokinin
+C0596235||[Ca(2+)]i
+C0016976||cholecyst
+C0596981||cells
+C0311448||abnormal protein
+C0035696||mRNA
+C0086903||Gs
+C0086706||Gi
+C0073423||Cap
+C0013982||Emodin
+C0232772||contractibility of gallbladder
+C0008370||cholestasis
+C1327622||regulating
+C0032105||plasma
+C0008328||cholecystokinin
+C0596235||[Ca(2+)]i
+C0016976||cholecyst
+C0596981||cells
+C0033684||protein
+C0035696||mRNA
+C0086903||Gs
+C0086706||Gi
+C0073423||Cap

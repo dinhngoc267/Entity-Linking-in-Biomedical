@@ -1,0 +1,46 @@
+C0004611||Bacteria
+C1123020||Wheat
+C0446254||Cucurbit
+C0242726||Plant Roots
+C0025519||Metabolize
+C0032458||PAHs
+C0020245||Aromatic
+C0242726||Root
+C0032098||plants
+C0004611||bacteria
+C0242726||root
+C1710706||zone
+C0004611||Bacteria
+C0032458||PAHs
+C0032098||plant
+C1705920||species
+C0577749||phytochemicals
+C0032098||monocot
+C0032098||dicotyledon plants
+C0597252||grown
+C0032458||PAH
+C0205145||site
+C0005507||phytotoxicity assay
+C0004611||Bacteria
+C0242726||plant roots
+C0004611||rhizobacteria
+C0018270||growth
+C0003162||anthracene
+C0055655||chrysene
+C0032458||PAH
+C1764827||isolates
+C0025519||metabolized
+C0032458||PAHs
+C0032458||PAH
+C1439852||liquid incubations
+C0020245||Aromatic
+C0242726||root
+C0596577||flavonoids
+C0031428||simple phenols
+C0004611||rhizobacteria
+C0031428||phenolic compounds
+C0066801||morin
+C0054433||caffeic acid
+C0072489||protocatechuic acid
+C0004611||bacterial
+C0032458||PAHs

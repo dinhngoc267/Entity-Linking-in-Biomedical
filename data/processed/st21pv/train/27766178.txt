@@ -1,0 +1,41 @@
+C0003818||Arsenic
+C0006632||Cadmium
+C0023175||Lead
+C1148554||Determination
+C0035567||Brazilian Rice
+C1553183||Inductively Coupled Plasma Mass Spectrometry
+C2603343||study
+C0025663||method
+C0035567||rice
+C1519941||validating
+C0025663||method
+C0003818||arsenic
+C0006632||cadmium
+C0023175||lead
+C0035567||rice
+C1553183||Inductively Coupled Plasma Mass Spectrometry
+C1553183||Inductively Coupled Plasma Mass Spectrometry
+C0035567||rice
+C1519941||validated
+C0449381||parameters
+C1519941||Validation
+C0449381||parameters
+C0025663||method
+C0003818||arsenic
+C0006632||cadmium
+C0023175||lead
+C0025663||method
+C0936012||analyzing
+C0035567||rice
+C0035567||polished
+C0452710||brown
+C0035567||parboiled
+C0003818||arsenic
+C0006632||cadmium
+C0023175||lead
+C0003818||arsenic
+C0452710||brown rice
+C2603343||study
+C2603343||study
+C0007757||cereal
+C3244304||Public Health

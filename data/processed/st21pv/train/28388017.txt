@@ -1,0 +1,49 @@
+C0193787||thyroid FNA
+C0220825||evaluated
+C0430022||ThinPrep slides
+C0193787||thyroid fine-needle aspiration
+C0193787||fine-needle aspiration
+C0022885||Bethesda System for Reporting Thyroid Cytopathology
+C0022885||TBS
+C0444186||smears
+C0430022||ThinPreps
+C0430022||ThinPreps
+C0220825||evaluated
+C0430022||ThinPreps
+C0193787||FNA procedures
+C0936012||analyzed
+C0007584||Cell counts
+C0220825||evaluated
+C0686919||nondiagnostic
+C0686919||nondiagnostic
+C0686919||nondiagnostic
+C0022885||TBS
+C0683312||categories
+C0334866||pathologists
+C0008902||classified
+C0686919||nondiagnostic
+C0007584||cell count
+C0008902||reclassification
+C0686919||nondiagnostic
+C0686919||nondiagnostic
+C0741302||atypia
+C1272585||undetermined significance
+C4050405||suspicious for malignancy
+C1571705||follicular
+C0007634||cells
+C0205558||false-negative
+C0007634||cells
+C0007634||cells
+C0333902||Nuclear enlargement
+C0030232||pallor
+C1184482||grooves
+C0150312||presence
+C1516945||histiocytoid cells
+C0686919||nondiagnostic
+C0193787||fine-needle aspiration
+C4282132||malignancy
+C0193787||thyroid FNA
+C0332128||examined
+C0430022||TP
+C0007634||cells
+C4282132||malignancy

@@ -1,0 +1,72 @@
+C0031843||Physiology
+C4314646||respiratory disturbances
+C0026850||muscular dystrophies
+C0026850||Muscular dystrophy
+C0026848||myopathies
+C0541794||skeletal muscle wasting
+C0035231||respiratory muscles
+C1145670||Respiratory failure
+C0035237||respiratory system
+C0026850||muscular dystrophy
+C1306577||death
+C0024109||lung
+C1145670||failure
+C1145670||pump failure
+C0700198||aspiration
+C1836141||weakness of respiratory muscles
+C0035203||breathing
+C0001883||airway obstruction
+C0205076||chest wall
+C0024109||lung
+C0427008||stiffening
+C4314646||respiratory disturbances
+C0026850||muscular dystrophy
+C3806472||restrictive pulmonary function
+C3203358||hypoventilation
+C0444467||thoracoabdominal
+C0020440||hypercapnia
+C0013404||dyspnoea
+C0455777||inefficient cough
+C0037315||sleep disordered breathing
+C0026850||muscular dystrophy
+C0242656||progression
+C1457887||symptom
+C0033325||prognosis
+C0243095||degree of respiratory involvement
+C0026850||muscular dystrophy
+C1145670||respiratory failure
+C0035237||respiratory system
+C0221102||carbon dioxide elimination
+C0024109||lung
+C1145670||respiratory failure
+C0700198||aspiration
+C0700292||hypoxaemia
+C0020440||hypercarbia
+C0398353||Ventilatory failure
+C0026850||muscular dystrophy
+C0243095||respiratory load
+C1836141||respiratory muscles weakness
+C0243095||Respiratory load
+C0026850||muscular dystrophy
+C0036439||scoliosis
+C0429679||chest wall compliance
+C0004144||atelectasis
+C0016059||fibrosis
+C0024112||lung compliance
+C0001883||airway obstruction
+C4048282||airway resistance
+C1145670||respiratory pump failure
+C3806472||restrictive pulmonary function
+C3203358||hypoventilation
+C0444467||thoracoabdominal
+C0020440||hypercapnia
+C0013404||dyspnoea
+C0455777||inefficient cough
+C0037315||sleep disordered breathing
+C0457994||mechanisms
+C4314646||respiratory disturbances
+C0026850||muscular dystrophy
+C4314646||respiratory disturbances
+C0026850||muscular dystrophy
+C0026850||muscular dystrophy
+C0243095||respiratory implications

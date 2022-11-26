@@ -1,0 +1,41 @@
+C0030667||Clinicopathological
+C1610793||kinesin family member 18A
+C1171362||expression
+C0853879||invasive breast cancer
+C0085139||kinesin
+C1720835||motor proteins
+C0920425||cancer therapy
+C0085139||Kinesins
+C0026042||microtubule
+C1720835||motor proteins
+C0007634||cell
+C0005528||transport
+C1622418||vesicles
+C0029219||organelles
+C0008633||chromosomes
+C1180347||protein complexes
+C1156033||movement of microtubules
+C1171362||expression
+C1610793||kinesin family member 18A
+C1610793||kinesin family member 18A
+C0085139||member of kinesin superfamily
+C0006142||breast cancer
+C0021044||immunohistochemistry
+C0006142||breast cancer
+C1610793||kinesin family member 18A
+C0686619||lymph node metastasis
+C1610793||kinesin family member 18A
+C1171362||expression
+C1610793||kinesin family member 18A
+C1171362||expression
+C1710625||venous invasion
+C1610793||kinesin family member 18A
+C1171362||expression
+C0683956||predictive factors
+C0686619||lymph node metastasis
+C1610793||kinesin family member 18A
+C0683956||predictive
+C0005516||marker
+C0686619||lymph node metastasis
+C0006142||breast cancer
+C0087111||treatment

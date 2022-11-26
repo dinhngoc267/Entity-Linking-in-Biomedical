@@ -1,0 +1,50 @@
+C1414151||Developmentally regulated GTP binding protein 1
+C0029016||oncogene
+C0152013||lung adenocarcinoma
+C0178874||tumor progression
+C3156402||spindle checkpoint signaling
+C1327622||regulation
+C1430718||GTP binding protein 1
+C0905573||Developmentally regulated GTP binding protein 1
+C1335532||DRG family
+C0596286||regulating cell growth
+C0905573||Developmentally regulated GTP binding protein 1
+C1156235||cell proliferation regulation
+C0905573||Developmentally regulated GTP binding protein 1
+C0178874||tumor progression
+C0905573||Developmentally regulated GTP binding protein 1
+C0152013||lung adenocarcinomas
+C1171362||expressed
+C0024109||lung
+C0040300||tissues
+C1414151||Developmentally regulated GTP binding protein 1
+C2350567||knockdown
+C2244509||growth inhibition
+C0597032||tumor cells
+C0007634||cells
+C0007591||M phase
+C1171362||Overexpression
+C0905573||Developmentally regulated GTP binding protein 1
+C0008633||chromosome
+C0314627||missegregation
+C0007621||tumorigenesis
+C1512167||ectopic
+C1414151||Developmentally regulated GTP binding protein 1
+C0678133||taxol
+C0162638||apoptosis
+C0152013||lung adenocarcinoma
+C0007634||cells
+C0936012||analyses
+C0905573||Developmentally regulated GTP binding protein 1
+C0392752||localizes
+C0026258||mitotic spindles
+C0230517||dividing cells
+C1167622||binds
+C3156402||spindle checkpoint signaling
+C1335962||proteins
+C1515655||in vivo
+C2603343||studies
+C1414151||Developmentally regulated GTP binding protein 1
+C0007621||tumorigenesis
+C1414151||Developmentally regulated GTP binding protein 1
+C0678133||taxol

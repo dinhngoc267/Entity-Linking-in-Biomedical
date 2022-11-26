@@ -1,0 +1,48 @@
+C1262036||Ocular toxicity
+C2348996||AUY922
+C0034700||pigmented
+C2348996||AUY922
+C0243044||heat shock protein 90
+C0015392||ocular
+C0877248||adverse events
+C0877248||adverse events
+C0015392||ocular
+C0877248||adverse events
+C2603343||investigative studies
+C0449445||step-wise approach
+C0035298||retinal structure
+C0034700||pigmented
+C0034700||Brown Norway
+C0034716||Wistar
+C0034721||rats
+C2348996||AUY922
+C2348996||AUY922
+C0034721||rats
+C0087111||treatment
+C0013867||Electroretinography
+C0013867||Electroretinography
+C0013867||Electroretinography
+C0031760||photoreceptors
+C0013867||Electroretinography
+C0034721||rats
+C2348996||AUY922
+C0574032||infusion
+C2348996||AUY922
+C1325525||outer segment photoreceptor
+C0034700||Brown Norway rats
+C1533734||administrations
+C0015392||ocular
+C0034700||Brown Norway
+C0034716||Wistar rats
+C0036810||serum iron levels
+C0035499||rhodopsin
+C1567350||PDE6α
+C0040665||β-transducin
+C1571376||retinal pigment epithelium-specific protein RPE65
+C0017262||expression
+C0574032||infusions
+C2348996||AUY922
+C2348996||AUY922
+C0877104||retinal toxicity
+C0034721||rats
+C1258062||molecular mechanism

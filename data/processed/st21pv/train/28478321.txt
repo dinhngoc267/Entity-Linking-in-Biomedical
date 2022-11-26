@@ -1,0 +1,35 @@
+C0599049||Siamese fighting fish
+C0014939||estrogen
+C0220806||chemicals
+C0016163||fish
+C0031843||physiology
+C0220806||EDC
+C0015011||17α-ethinylestradiol
+C0015011||EE2
+C1550600||ingredient
+C0009905||oral contraceptives
+C2717777||reproductive fitness
+C0015011||EE2
+C0599049||Siamese fighting fish
+C0599049||Betta splendens
+C3463807||video
+C1704922||images
+C2348484||exposed
+C2349018||unexposed
+C0015011||EE2
+C3463807||video
+C2348484||exposed
+C2348484||exposed
+C2349018||unexposed
+C2349018||unexposed
+C2349018||unexposed
+C2348484||exposed
+C2349018||unexposed
+C2348484||exposed
+C0015011||EE2
+C2348484||exposed
+C2348484||exposed
+C2349018||unexposed
+C0015011||EE2
+C1257890||population-level
+C2348484||exposed

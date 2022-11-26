@@ -1,0 +1,50 @@
+C1142430||Psychogenic non-epileptic seizure
+C3714756||intellectual disability
+C0808232||therapeutic intervention
+C2603343||studies
+C0087111||treatments
+C1142430||psychogenic non-epileptic seizure
+C1142430||psychogenic non-epileptic seizure
+C0243095||neglecting
+C1515021||subgroup
+C3714756||intellectual disability
+C3714756||intellectual disability
+C2603343||study
+C0808232||therapeutic intervention
+C1142430||psychogenic non-epileptic seizure
+C3714756||intellectual disability
+C1708333||Japanese municipal center
+C0034927||referral chain
+C0332128||examined
+C1142430||psychogenic non-epileptic seizure
+C3714756||intellectual disability
+C3714756||intellectual disability
+C1142430||psychogenic non-epileptic seizure
+C3714756||intellectual disability
+C0243095||non-ID
+C0332128||examining
+C1516606||clinical data
+C0808232||therapeutic intervention
+C0332128||examined
+C1142430||psychogenic non-epileptic seizure
+C3714756||intellectual disability
+C1512346||visit
+C1142430||psychogenic non-epileptic seizure
+C3714756||intellectual disability
+C0243095||non-ID
+C1142430||psychogenic non-epileptic seizure
+C1512346||visit
+C0243095||non-ID
+C0033975||Psychosis
+C3714756||intellectual disability
+C0009244||cognitive therapy
+C0013216||pharmaco-therapeutic
+C0014406||environmental
+C3714756||intellectual disability
+C0243095||non-ID
+C1512346||visit service
+C3714756||intellectual disability
+C3714756||intellectual disability
+C0087111||treatment
+C1515021||subgroup
+C0033522||prospective studies

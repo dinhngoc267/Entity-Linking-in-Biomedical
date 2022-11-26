@@ -1,0 +1,37 @@
+C0162791||International Liver Transplant Society Practice Guidelines
+C0011900||Diagnosis
+C0376636||Management
+C0600452||Hepatopulmonary Syndrome
+C1868851||Portopulmonary Hypertension
+C0854416||pulmonary vascular disorders
+C0600452||hepatopulmonary syndrome
+C0600452||hepatopulmonary syndrome
+C1868851||portopulmonary hypertension
+C1868851||portopulmonary hypertension
+C0736268||hepatic parenchymal
+C0241657||vascular abnormalities
+C0600452||hepatopulmonary syndrome
+C1868851||portopulmonary hypertension
+C0243095||implications
+C0023911||liver transplantation
+C0012634||Pulmonary-Hepatic Disorders
+C0011900||diagnosis
+C0162791||guide management
+C0012634||disorders
+C0162791||International Liver Transplant Society diagnostic and management guidelines
+C0600452||hepatopulmonary syndrome
+C1868851||portopulmonary hypertension
+C0242356||MEDLINE search
+C0282451||clinical guidelines
+C0700287||selected single care reports
+C0034975||registries
+C0242356||databases
+C0206035||randomized, controlled trials
+C0012634||disorders
+C0282451||Guidelines
+C0679228||Diagnostic criteria
+C0600452||Hepatopulmonary syndrome
+C1868851||Portopulmonary hypertension
+C0243095||Implications
+C0023911||liver transplantation
+C0008972||clinical research

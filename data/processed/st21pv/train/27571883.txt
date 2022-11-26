@@ -1,0 +1,46 @@
+C0006110||neurologic
+C1306577||nonneurologic death
+C0220650||brain metastasis
+C0085203||upfront stereotactic radiosurgery
+C1520143||whole-brain radiation therapy
+C2603343||study
+C0006110||neurologic death
+C0220650||brain metastasis
+C0085203||upfront stereotactic radiosurgery
+C0085203||stereotactic radiosurgery
+C1520143||whole brain radiation therapy
+C1520143||whole brain radiation therapy
+C1306577||nonneurologic death
+C2607850||single-institution
+C0936012||analysis
+C0220650||brain metastasis
+C0085203||stereotactic radiosurgery
+C1520143||whole brain radiation therapy
+C0006110||neurologic
+C1306577||nonneurologic death
+C0085203||upfront SRS
+C0006110||neurologic death
+C1306577||nonneurologic death
+C0006110||neurologic death
+C0282574||diagnosis-specific graded prognostic assessment
+C0282574||diagnosis-specific graded prognostic assessment
+C0025202||melanoma
+C0344441||histology
+C0220650||brain metastases
+C0085203||stereotactic radiosurgery
+C1254351||Targeted agents
+C0006110||neurologic death
+C1306577||nonneurologic death
+C0344441||nonmelanoma histology
+C0012634||extracranial disease
+C0442893||systemic disease
+C0025202||Melanoma
+C0282574||diagnosis-specific graded prognostic assessment
+C0220650||brain metastases
+C0085203||stereotactic radiosurgery
+C0006110||neurologic death
+C0344441||nonmelanoma histology
+C0442893||systemic disease
+C1306577||nonneurologic death
+C1254351||Targeted agents
+C0006110||neurologic death

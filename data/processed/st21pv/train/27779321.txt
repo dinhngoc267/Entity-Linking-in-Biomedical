@@ -1,0 +1,43 @@
+C0282574||Benthic injury dose-response models
+C0032447||polychlorinated biphenyl
+C0282574||equilibrium partitioning
+C2603343||study
+C0032447||polychlorinated biphenyl
+C0032447||polychlorinated biphenyl
+C0282574||dose-response model
+C0032447||PCBs
+C0282574||equilibrium partitioning (EqP) approach
+C0032447||polychlorinated biphenyl
+C0052391||Aroclor 1254
+C0600688||toxic effects
+C0600688||toxicity
+C2603343||studies
+C2603343||study
+C0282574||equilibrium partitioning
+C0032447||PCBs
+C0600688||toxicity
+C0023866||literature
+C0032447||polychlorinated biphenyl
+C0600688||toxic effect
+C2603343||studies
+C0007011||organic carbon
+C0032447||polychlorinated biphenyl
+C0007011||organic carbon
+C0032447||polychlorinated biphenyl
+C0600688||toxicity
+C0150098||data set
+C0282574||equilibrium partitioning
+C0041712||US Environmental Protection Agency's
+C0037585||EPIWEB 4.1
+C0282574||dose-response numerical model
+C0032447||polychlorinated biphenyl
+C0282574||models
+C1706074||tables
+C0052391||Aroclor
+C0282574||model
+C0037585||EPIWEB
+C0052391||Aroclor 1254
+C0007011||organic carbon
+C0282574||model
+C0449604||site-specific
+C1706074||tables

@@ -1,0 +1,48 @@
+C0030231||Palliative Care
+C1518931||Pediatric Oncology
+C0009586||Comprehensive
+C0030231||palliative care
+C0030231||palliative care
+C0920425||cancer treatment
+C0030231||palliative care
+C0030231||palliative care
+C0009586||comprehensive
+C1516604||cancer centers,
+C0020017||pediatric centers
+C0030231||palliative care
+C0008079||Quality of Life Service
+C0008079||Quality of Life Service
+C1519168||St. Jude Children's Research Hospital
+C0025102||records of patients
+C0008079||Quality of Life Service
+C0011928||diagnostic groups
+C0008079||Quality of Life Service
+C1512346||encounters
+C2930505||goals of care
+C2919551||duration of survival
+C2924451||location of death
+C0008079||Quality of Life Service
+C1512346||encounters
+C0009818||consults
+C1512346||encounters
+C2930505||Goal of care
+C1331418||comfort
+C3897861||goal of cure
+C1306577||death
+C2924451||location of death
+C1306577||deaths
+C0030231||palliative care
+C1306577||death
+C0008079||Quality of Life Service
+C0034927||referrals
+C1512346||encounters
+C1704289||clinical services
+C0009818||consultation
+C1522577||follow-up
+C2924451||location of death
+C0030231||palliative care
+C0039548||end-of-life
+C0030231||palliative care
+C0009586||comprehensive
+C1516604||cancer center
+C3161035||model

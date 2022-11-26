@@ -1,0 +1,26 @@
+C0031253||Pesticides
+C0242356||database
+C0037802||Total Excitation-Emission and Total Synchronous Fluorescence Matrices
+C0037802||TEEMs and TSFMs
+C0037802||optimal Synchronous Fluorescence Spectra
+C0037802||Synchronous Fluorescence Spectra
+C0031253||pesticides
+C0026544||Morocco
+C0436196||spectrometric multi-component fingerprinting
+C0430417||detection of pesticides
+C0037594||persisting in soil
+C0043053||water
+C0430417||detect four pesticide
+C0562975||agricultural soils
+C0037802||spectrometric fingerprinting
+C0021578||insecticide Axlera 5G
+C0021578||carbamate
+C0392419||fungicide Orsalis 5% SC
+C0392419||triazole
+C0597329||insecticide Force 0,5 G
+C0597329||pyrethrinoid
+C0021576||insecticide Proclaim 05 SG
+C0017446||great agricultural Doukkala region
+C0017446||western Atlantic side
+C0026544||Morocco
+C0220806||chemicals

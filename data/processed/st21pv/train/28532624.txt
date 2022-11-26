@@ -1,0 +1,62 @@
+C1254351||Tyrphostin AG-related compounds
+C0020281||H2O2
+C1505166||TRPM2
+C0007634||cellular
+C1505166||TRPM2
+C0006685||Ca(2+)-permeable channel
+C0020281||H2O2
+C1505166||TRPM2
+C0600431||Ca(2+) signaling
+C0541889||aggravation
+C1290884||inflammatory diseases
+C1505166||TRPM2
+C0033671||inhibitors
+C0541889||aggravation
+C0012634||diseases
+C1254351||Tyrphostin AG-related compounds
+C0020281||H2O2
+C1505166||TRPM2
+C3537124||scavenging the intracellular hydroxyl radical
+C1254351||AG-related compounds
+C0020281||H2O2
+C0007634||cellular
+C0086418||human
+C0026473||monocytic
+C0600531||U937 cells
+C1171362||express
+C1505166||TRPM2
+C1254351||AG-related compounds
+C0020281||H2O2
+C0178719||intracellular
+C0596235||Ca(2+)
+C0600388||extracellular signal-regulated kinase
+C0600388||extracellular signal-regulated kinase
+C1698756||CXCL8
+C1159339||secretion
+C0600531||U937 cells
+C3158761||Ca(2+) influxes
+C1505166||TRPM2
+C0020281||H2O2
+C0028778||blocked
+C1254351||AG-related compounds
+C1254351||AG-related compounds
+C0020281||H2O2
+C0600388||extracellular signal-regulated kinase
+C1159339||secretion
+C1698756||CXCL8
+C1505166||TRPM2
+C1254351||AG-related compounds
+C0020281||H2O2
+C1698756||CXCL8
+C1159339||secretion
+C0600388||extracellular signal-regulated kinase
+C1505166||TRPM2
+C0600531||U937 cells
+C1254351||AG-related compounds
+C0028778||blocked
+C0020281||H2O2
+C1505166||TRPM2
+C3537124||scavenging the hydroxyl radical
+C1254351||AG-related compounds
+C1505166||TRPM2
+C3537124||scavenging of the hydroxyl radical

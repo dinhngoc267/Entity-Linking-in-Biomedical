@@ -1,0 +1,54 @@
+C0870883||Metabolomics
+C0936012||analysis
+C0340865||anaphylactoid reaction
+C0034721||rat
+C0599779||model
+C0340865||Anaphylactoid reactions
+C0301918||immune-mediated immediate hypersensitivity reactions
+C0699943||public health
+C0086143||diagnostic tests
+C0870883||metabolite
+C0936012||analysis
+C0032105||Plasma
+C0034700||Brown Norway rats
+C0009574||compound 48/80
+C0029923||ovalbumin
+C2603343||study
+C0340865||anaphylactoid reactions
+C0870883||metabolomics
+C0599748||UPLC-qTOF-MS/MS
+C0870883||Metabolomics
+C0242356||proteomics data
+C0936012||analyze
+C1704259||pathways
+C0037589||MetaboAnalyst
+C0868995||pathway analysis
+C0870883||metabolites
+C0242356||METLIN database
+C0599748||MS/MS
+C0001443||adenosine
+C0019588||histamine
+C0067730||N-acetylhistamine
+C0061063||N(α)-γ-glutamylhistamine
+C0220873||malate
+C0043314||xanthine
+C0340865||anaphylactoid reactions
+C1156823||histidine metabolism
+C1158360||arachidonic acid metabolism
+C0014272||energy metabolism
+C0870883||metabolites
+C1444656||indicated
+C0019588||histamine
+C0061063||N(α)-γ-glutamylhistamine
+C0003695||arachidonic acid
+C1457887||symptoms
+C0003062||animals
+C1516586||citrate cycle
+C1156823||histidine metabolism
+C1158360||arachidonic acid metabolism
+C1704259||pathways
+C0340865||anaphylactoid reactions
+C0037589||MetaboAnalyst
+C1514811||reference
+C0184511||improve
+C0340865||anaphylactoid reactions

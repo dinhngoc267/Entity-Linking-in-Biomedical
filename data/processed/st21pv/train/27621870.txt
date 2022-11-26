@@ -1,0 +1,47 @@
+C2959886||cardiopulmonary exercise testing
+C0677946||stable
+C0024117||COPD
+C2959886||Cardio-pulmonary exercise testing
+C2959886||Cardio-pulmonary exercise testing
+C0436354||daily symptoms
+C0012634||disease
+C1514593||emotional impact
+C0024117||COPD
+C0436354||daily symptoms
+C0451500||St. George's Respiratory Questionnaire
+C0451500||St. George's Respiratory Questionnaire
+C0024117||COPD
+C4053940||severity index
+C4053940||BODE-index
+C2959886||Cardio-pulmonary exercise testing
+C1457887||Symptom
+C2959886||Cardio-pulmonary exercise testing
+C0024117||COPD
+C0740304||exacerbation
+C0451500||St. George's Respiratory Questionnaire
+C3472502||SGRQ-score
+C0205160||negatively
+C0849974||FEV1
+C0744679||maximal work-rate
+C0744679||%WR-max
+C0429627||V'O2
+C0018810||WR
+C0243095||did not correlate
+C0429693||Peak-V'O2
+C0429693||Peak-V'O2
+C0744679||%WR-max
+C4053940||BODE-index
+C0429627||∆VO2
+C0018810||∆WR
+C2959886||Cardio-pulmonary exercise testing
+C2936631||subjective complaints
+C0024117||COPD
+C2959886||Cardio-pulmonary exercise testing
+C0024117||COPD
+C0205160||negative
+C0429627||∆VO2
+C0018810||∆WR
+C4053940||BODE-index
+C0024117||COPD
+C0242656||progression
+C0026859||musculoskeletal problems

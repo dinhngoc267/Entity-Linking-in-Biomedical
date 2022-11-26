@@ -1,0 +1,26 @@
+C0015607||family medicine
+C0015024||Ethiopia
+C3161035||education model
+C0015607||Family Medicine
+C0015607||Family Medicine
+C0037778||specialty
+C0015024||Ethiopia
+C1704221||first seven family physicians
+C0588053||graduated
+C0010478||programme
+C0041740||Addis Ababa University
+C0239304||Ethiopian
+C0554244||decision-makers
+C0031831||physicians
+C0010478||programme
+C0239304||Ethiopian
+C1704221||family physicians
+C0162340||understanding
+C0015607||Family Medicine
+C0010478||programme
+C0010478||programme
+C1320928||resident physician
+C0015607||Family Medicine
+C0239304||Ethiopian
+C0239304||Ethiopian
+C0027567||African

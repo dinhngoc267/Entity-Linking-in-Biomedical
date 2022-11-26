@@ -1,0 +1,83 @@
+C0015895||Fertile
+C0206158||Premenopausal
+C0043210||Women
+C0032460||Polycystic ovary syndrome
+C1457887||Symptoms
+C1522577||Follow-up
+C0032460||Polycystic ovary syndrome
+C0032460||Polycystic ovary syndrome
+C0028754||obesity
+C0206081||hyperandrogenism
+C0003469||anxiety
+C0011581||depression
+C0043210||women
+C0032460||Polycystic ovary syndrome
+C0032460||Polycystic ovary syndrome
+C1457887||symptoms
+C0028754||obesity
+C0206081||hyperandrogenism
+C0004448||awareness
+C0032460||Polycystic ovary syndrome
+C1709599||Population based follow-up
+C0016132||Northern Finland
+C1522577||follow-up
+C1134635||questionnaire-based screening
+C0028949||oligoamenorrhea
+C0028949||oligoamenorrhea
+C0271610||hirsutism
+C0271610||H
+C0231221||asymptomatic
+C0028949||oligoamenorrhea
+C0271610||H
+C0028949||oligoamenorrhea
+C0271610||H
+C0032460||Polycystic ovary syndrome
+C1522577||follow-up
+C0028949||oligoamenorrhea
+C0271610||H
+C0032460||Polycystic ovary syndrome
+C1134635||Questionnaire-based screening
+C0003469||anxiety
+C0086132||depression symptoms
+C0451218||Hopkins Symptom Checklist-25
+C0011900||diagnosed
+C0332154||treated
+C0011581||depression
+C1305855||BMI
+C0428629||free androgen index
+C0428629||free androgen index
+C0004448||awareness
+C0032460||polycystic ovaries
+C0032460||Polycystic ovary syndrome
+C0003469||anxiety
+C0011581||depression
+C0043210||women
+C0032460||Polycystic ovary syndrome
+C0032460||Polycystic ovary syndrome
+C1457887||symptoms
+C0003469||Anxiety
+C0086132||depression symptoms
+C0011581||depression
+C0043210||women
+C0032460||Polycystic ovary syndrome
+C0271610||H
+C1305855||BMI
+C0206081||hyperandrogenism
+C0003469||anxiety
+C0086132||depression symptoms
+C0004448||awareness
+C0032460||Polycystic ovary syndrome
+C0003469||anxiety
+C0043210||Women
+C0032460||Polycystic ovary syndrome
+C0271610||H
+C0003469||anxiety
+C0086132||depression symptoms
+C1305855||BMI
+C0206081||hyperandrogenism
+C0032460||Polycystic ovary syndrome
+C0004448||awareness
+C0032460||Polycystic ovary syndrome
+C0003469||anxiety
+C0003469||anxiety
+C0011581||depression

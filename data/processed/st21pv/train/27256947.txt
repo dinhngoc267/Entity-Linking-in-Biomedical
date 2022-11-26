@@ -1,0 +1,23 @@
+C0596545||Experience
+C0043210||Women
+C0042610||Veterans
+C0043210||women
+C0042610||veterans
+C0022066||Iraq
+C0001732||Afghanistan
+C2603343||study
+C1301746||document
+C0282574||stories
+C0043210||women
+C0042610||veterans
+C0282574||stories
+C0242498||view of self
+C0243095||permeating aggravation
+C2321230||frequent deployments
+C0034770||remembering
+C0596545||experiences
+C0243095||seeking opportunity for what is possible
+C0282574||story
+C0025353||mental health
+C0042610||veterans
+C0042610||veterans

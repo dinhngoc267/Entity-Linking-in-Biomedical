@@ -1,0 +1,41 @@
+C0031928||pilot study
+C0022423||judgement
+C0871641||kindness
+C0031206||wellbeing
+C0041700||UK
+C0557521||community nurses
+C4042834||Compassion fatigue
+C0006433||burnout
+C0557521||nurses
+C0022423||judgement
+C0871641||kindness
+C0031206||wellbeing
+C0557521||community nurses
+C4042834||compassion fatigue
+C0031206||wellbeing
+C0006433||burnout
+C0557521||community nurses
+C0034394||psychometric questionnaires
+C0451401||Professional Quality of Life Scale
+C4075266||short Warwick Edinburgh Mental Wellbeing Scale
+C4042834||compassion fatigue
+C0031206||wellbeing
+C0006433||burnout
+C0010362||cross sectional
+C0687673||registered community nurses
+C0041740||University
+C0014282||North of England
+C0031928||study
+C0557521||community nurses
+C0031206||wellbeing
+C0006433||burnout
+C0242428||satisfaction
+C1446409||positively
+C0031206||wellbeing
+C0205160||negatively
+C0006433||burnout
+C0006433||burnout
+C0557521||community nurses
+C0242428||satisfaction
+C0031206||wellbeing
+C0006433||burnout

@@ -1,0 +1,33 @@
+C0872279||Heavy Resistance Training
+C0242184||Hypoxia
+C0241236||Squat
+C0872279||heavy resistance training
+C0242184||hypoxia
+C0872279||IHRT
+C0424581||power
+C0424678||lean mass
+C0872279||resistance-trained
+C0679646||participants
+C0872279||IHRT
+C2370852||FIO2
+C2370852||FIO2
+C0679646||Participants
+C0872279||training
+C0872279||IHRT
+C0679646||participants
+C0454374||sprint
+C0872279||training
+C0679201||inferences
+C0872279||Training
+C0184511||improved
+C0872279||IHRT
+C0872279||IHRT
+C0872279||IHRT
+C0872279||IHRT
+C0872279||IHRT
+C0872279||IHRT
+C0872279||IHRT
+C0424581||power
+C0872279||IHRT
+C0872279||Heavy resistance training
+C0242184||hypoxia

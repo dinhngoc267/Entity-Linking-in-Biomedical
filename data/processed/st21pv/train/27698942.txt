@@ -1,0 +1,96 @@
+C1822578||Response Monitoring
+C0006826||Cancer
+C0281318||Antiangiogenesis Therapy
+C2986496||Noninvasive
+C0032743||PET Molecular Imaging
+C1837655||Multifactorial
+C0281318||Antiangiogenesis therapy
+C0281318||Antiangiogenesis therapy
+C1527144||therapeutic effects
+C0006826||cancer
+C0281318||Antiangiogenesis therapy
+C1822578||response monitoring
+C0281318||Antiangiogenesis therapy
+C0596087||anti-angiogenic drug
+C1176020||sunitinib
+C0027651||U87MG tumors
+C2986496||noninvasive
+C1699633||positron emission computed tomography (PET) molecular imaging
+C1837655||multifactorial
+C0027651||U87MG tumor
+C0025929||mice
+C0442113||intragastric
+C0021485||injections
+C1176020||sunitinib
+C0042444||vehicle
+C0205127||Longitudinal
+C1699633||MicroPET/CT scans
+C0046056||(18)F-FDG
+C3661419||(18)F-FMISO,
+C2700345||(18)F-ML-10
+C3852643||(18)F-Alfatide II
+C0025519||metabolism
+C0242184||hypoxia
+C0162638||apoptosis
+C1519670||angiogenesis
+C0087111||therapy
+C0475358||Tumor tissues
+C0025929||mice
+C0041365||biomarkers
+C1527589||Glut-1
+C2351139||CA-IX
+C1138427||ανβ3
+C0081939||CD31
+C1699633||PET imaging
+C0475440||tumor sizes
+C0025929||mouse
+C0027651||tumor
+C0243144||uptake
+C0027651||tumor
+C0026845||muscle
+C0027651||T
+C0026845||M
+C1176020||Sunitinib
+C0475440||tumor size
+C1176020||sunitinib
+C1533734||treatment
+C0243144||uptakes
+C3661419||(18)F-FMISO
+C0242184||hypoxia
+C2700345||(18)F-ML-10
+C0162638||apoptosis
+C3852643||(18)F-Alfatide II
+C1519670||angiogenesis
+C0027651||tumor
+C0221198||lesions
+C1176020||sunitinib
+C1533734||treatment
+C0243144||uptake
+C0046056||(18)F-FDG
+C0596620||glucose metabolism
+C1699633||PET imaging
+C0041365||biomarkers
+C1699633||PET imaging
+C3852643||(18)F-Alfatide II
+C3661419||(18)F-FMISO
+C0046056||(18)F-FDG
+C2700345||(18)F-ML-10
+C0027651||tumor
+C0243144||uptake
+C1699633||positron emission computed tomography
+C3852643||(18)F-Alfatide II
+C1699633||positron emission computed tomography
+C1822578||response
+C0596087||anti-angiogenic drug
+C1176020||sunitinib
+C0027651||U87MG tumors
+C1822578||response monitoring
+C0006826||cancer
+C0281318||Antiangiogenesis therapy
+C2986496||noninvasive
+C0032743||PET molecular imaging
+C1837655||multifactorial
+C1519670||angiogenesis
+C0011923||imaging
+C3852643||(18)F-Alfatide II
+C0052350||RGD

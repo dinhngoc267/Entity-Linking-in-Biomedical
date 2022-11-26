@@ -1,0 +1,32 @@
+C1955832||systematic review
+C0041700||United Kingdom
+C0282443||review
+C0376554||knowledge
+C0029975||egg share donor
+C1709854||recipient
+C0596545||experiences
+C0004271||attitudes
+C0029975||egg sharers
+C0029975||donor
+C0243095||findings
+C0282451||guide clinical practice
+C2985503||peer-reviewed journals
+C2603343||studies
+C0282443||review
+C1446409||positive
+C0029975||egg share donor
+C1709854||recipient
+C1519193||scheme
+C0016770||frustration
+C0026192||minority
+C1998986||lack of knowledge
+C0015895||fertility
+C0442592||clinics
+C0041700||UK
+C0242813||oocyte donation
+C0441516||demand
+C0015915||IVF
+C3267027||donor oocytes
+C0004448||awareness
+C1709854||recipients
+C0043010||waiting lists

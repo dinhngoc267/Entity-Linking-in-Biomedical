@@ -1,0 +1,61 @@
+C0029925||Ovarian Cancer
+C0079722||Tumor-Infiltrating Lymphocyte
+C0301909||Response
+C0278348||Immunotherapy
+C0392920||chemotherapy
+C0020964||immunity
+C0007587||cell death
+C1155065||T-cell activation
+C0027651||tumors
+C0278348||immunotherapies
+C1155873||checkpoint blockade
+C0032207||platinum
+C0215136||taxane
+C0392920||chemotherapy
+C0029925||ovarian cancer
+C0015320||Experimental Design
+C0475358||tumor samples
+C3839280||high-grade serous carcinoma
+C3839280||high-grade serous carcinoma
+C0021044||immunohistochemistry
+C0021044||immunohistochemistry
+C0312740||immune cells
+C0392920||chemotherapy
+C0079722||TIL
+C0599755||cohort
+C0108779||CD3
+C0085358||CD8
+C0085358||CD8
+C1429678||TIA-1
+C2986635||PD-1
+C0054946||CD20
+C0079722||TIL
+C0286618||CD79a
+C1609943||CD138
+C0032112||plasma cells
+C0108799||CD68
+C0024432||macrophages
+C0019629||MHC class I
+C0597032||tumor cells
+C4048329||Immunosuppressive
+C0007634||cell
+C4282118||FoxP3
+C2986635||PD-1
+C0039198||cells
+C0039198||regulatory T cells
+C3529891||IDO-1
+C0024432||macrophages
+C0597032||tumor cells
+C1881045||Hierarchical clustering
+C0079722||TIL
+C0027651||tumors
+C0079722||TIL
+C0079722||TIL
+C0205160||negative
+C0205160||negative
+C0392920||chemotherapy
+C0079722||TIL
+C0079722||TIL
+C0301909||responses
+C1840264||immune-suppressive mechanisms
+C0278348||immunotherapy

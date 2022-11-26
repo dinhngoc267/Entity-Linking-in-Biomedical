@@ -1,0 +1,52 @@
+C1261322||Comparative evaluation
+C0879568||iodine-131 metaiodobenzylguanidine
+C0046056||18-fluorodeoxyglucose
+C0032743||positron emission tomography
+C2931189||neural crest tumors
+C0046056||18-Fluorodeoxyglucose
+C0032743||positron emission tomography
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C0006826||malignancies
+C2931189||neural crest cell tumors
+C0879568||iodine-131 metaiodobenzylguanidine
+C0879568||(131)I-MIBG
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C2931189||neural crest tumors
+C0422813||clinical utility
+C0243095||disease status evaluation
+C0376636||further management
+C0879568||(131)I-MIBG
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C0027819||neuroblastoma
+C0031511||pheochromocytoma
+C0238462||medullary carcinoma thyroid
+C0027819||neuroblastoma
+C0032743||FDG PET
+C0879568||(131)I-MIBG
+C4304945||patient-specific sensitivity
+C1402294||primary lesions
+C0223646||posterior superior iliac spine
+C0223646||posterior superior iliac spine
+C0223865||greater trochanter
+C0376152||marrow
+C0441988||contralateral normal sites
+C0427694||bone marrow results
+C1301128||biopsy site
+C0031511||pheochromocytoma
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C4304945||patient-specific sensitivity
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C0205234||metastatic foci
+C0879568||(131)I-MIBG
+C0238462||medullary carcinoma thyroid
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C0277556||recurrent
+C0027627||metastatic disease
+C0205234||metastatic foci
+C4304945||patient specific sensitivity
+C0879568||(131)I-MIBG
+C0863135||higher serum calcitonin levels
+C0032743||18-Fluorodeoxyglucose positron emission tomography
+C2931189||neural crest cell tumors
+C0879568||(131)I-MIBG
+C0027651||nonavid tumors

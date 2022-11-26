@@ -1,0 +1,60 @@
+C3853217||dark chocolate
+C2349001||subjects
+C0013072||double blind
+C0034656||randomized
+C1706408||placebo controlled
+C0008976||trial
+C0018801||heart failure
+C1947907||consumption
+C1881340||(-)-epicatechin
+C1881340||(-)-Epi
+C0009209||cocoa
+C0242692||skeletal muscle
+C0242692||skeletal muscle
+C0026237||mitochondrial
+C0678594||structure
+C0005516||biomarkers
+C0242606||oxidative stress
+C2349001||subjects
+C2349001||subjects
+C0034656||randomized
+C0032042||placebo
+C3853217||dark chocolate
+C3853217||dark chocolate
+C2349001||Subjects
+C0087111||treatment
+C0857787||bicycle ergometry
+C0429693||VO2 max
+C2315740||SkM biopsy
+C0026237||mitochondrial
+C0242606||oxidative stress
+C0005834||blood sampling
+C2349001||subjects
+C0008976||trial
+C3853217||dark chocolate
+C0429693||VO2 max
+C0032042||placebo
+C3853217||dark chocolate
+C0023821||HDL
+C0041004||triglycerides
+C3853217||dark chocolate
+C0242692||skeletal muscle
+C0033684||protein
+C1431123||LKB1
+C2350345||AMPK
+C1452082||PGC1α
+C0031715||phosphorylated
+C2350345||AMPK
+C1431123||LKB1
+C2258114||citrate synthase activity
+C0026237||mitochondrial
+C3853217||dark chocolate
+C0242692||skeletal muscle
+C0017817||glutathione
+C1563721||protein carbonylation
+C0429693||VO2 max
+C3853217||dark chocolate
+C0242692||skeletal muscle
+C0026237||mitochondria
+C0008972||clinical studies
+C0302523||observations

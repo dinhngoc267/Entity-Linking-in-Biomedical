@@ -1,0 +1,63 @@
+C0043041||social wasps
+C0032080||grape rot disease
+C0032080||Grape sour (bunch) rot
+C4279988||vineyards
+C0018208||grapes
+C0043188||resultant wine
+C0012634||disease
+C0005135||berries
+C0439663||infected
+C0018150||acetic acid bacteria
+C0043393||yeasts
+C0369241||filamentous fungi
+C0005135||berries
+C0001128||acidity
+C0021585||insect
+C1705920||species
+C0018208||grape
+C0005135||berry
+C0012634||disease
+C0681814||studies
+C0013138||fruit flies
+C1457887||symptoms
+C0021573||vectoring
+C0012634||disease
+C0013138||fruit flies
+C0043041||social wasps
+C4279988||vineyards
+C0005135||ripe berries
+C0332624||dispersing
+C0043393||yeasts
+C0043188||wine
+C0015852||fermentation
+C0012634||disease
+C0012634||dispersal of grape rots
+C0446349||paper wasp
+C0012634||grape sour rot
+C0021573||insect vectors
+C1294197||marker gene sequencing
+C0004611||bacterial
+C0016832||fungal
+C0205146||foraging arena
+C0043041||wasps
+C0043041||wasps
+C0079891||native
+C2987620||inoculated
+C0012634||sour rot
+C0012634||grape sour rot
+C0017446||laboratory foraging arena
+C0043041||wasps
+C0012634||sour rot
+C2987620||inoculated
+C0043041||uninoculated wasps
+C0032080||berry rot disease
+C1457887||symptom
+C0459422||results
+C0446349||paper wasps
+C0032080||sour rot diseases
+C0021573||other vectors
+C0012655||susceptibility
+C0018208||grapes
+C0043041||Social wasps
+C0012634||sour rot
+C4279988||vineyards

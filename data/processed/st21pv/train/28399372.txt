@@ -1,0 +1,51 @@
+C0040341||Tobramycin Vector
+C1318081||Synergy
+C1254351||Efflux Pump Inhibitors
+C0018150||Gram-Negative Bacteria
+C1512072||Drug efflux
+C0687133||interact
+C1167331||outer membrane
+C0007605||permeability
+C0028778||barrier
+C0018150||Gram-negative bacteria
+C0205102||intrinsic
+C0805586||challenge
+C0003232||antibiotic
+C1512068||drug development
+C1254351||Efflux pump inhibitors
+C1254351||Efflux pump inhibitors
+C1512072||efflux
+C0003232||antibiotics
+C0003232||antibiotics
+C1512068||clinical development
+C1254351||EPI
+C0003232||antibiotic
+C0013218||combination therapy
+C0087111||treat
+C0085423||Gram-negative infections
+C0805586||challenging
+C0231184||inefficiency
+C1254351||Efflux pump inhibitors
+C1167331||outer membrane
+C1512072||efflux
+C1160466||conjugation
+C0040341||tobramycin
+C0040341||tobramycin
+C1254351||Efflux pump inhibitors
+C0044097||NMP
+C0070122||paroxetine
+C0428883||DBP
+C1318081||synergy
+C1254351||Efflux pump inhibitors
+C1744619||tetracycline antibiotics
+C0018150||Gram-negative bacteria
+C0033809||Pseudomonas aeruginosa
+C2242637||potentiating
+C1744619||tetracycline antibiotics
+C0040341||tobramycin
+C1254351||EPI
+C1744619||tetracycline antibiotic
+C0026187||minocycline
+C0001552||adjuvants
+C1744619||tetracycline antibiotics
+C0018150||Gram-negative bacteria

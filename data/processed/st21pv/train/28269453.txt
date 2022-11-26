@@ -1,0 +1,19 @@
+C0518031||Endurance
+C0282574||personalized fitness planner
+C0518031||Endurance
+C2981722||cardiovascular fitness
+C0237401||individual
+C0518031||endurance
+C0237401||individual
+C1710191||statistical technique
+C3161035||model
+C0518031||endurance
+C0302523||observations
+C0237401||individuals
+C3161035||model
+C0025080||device
+C0518031||endurance
+C0454291||exercise regime
+C0282574||fitness planner
+C0454291||exercise regimes
+C0018017||goal

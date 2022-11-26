@@ -1,0 +1,45 @@
+C0812273||Snf5
+C1167093||SWI/SNF Complex
+C1167093||SWI/SNF
+C1167087||chromatin remodeling complex
+C0043393||yeast
+C0086418||human
+C1167093||SWI/SNF complexes
+C0086418||human
+C0012634||disease
+C0812273||Snf5/SMARCB1/INI1
+C1167093||SWI/SNF
+C0079427||tumor suppressor
+C0206743||rhabdoid cancers
+C0812273||Snf5
+C0243095||composition
+C1623159||nucleosome binding
+C0043393||yeast
+C1167093||SWI/SNF
+C0812273||Snf5
+C0037813||crosslinking-mass spectrometry
+C0037813||CX-MS
+C1294202||deletion analysis
+C1510701||ATPase domain
+C0246454||Snf2
+C1959595||submodule
+C0812273||Snf5
+C0017337||Swp82
+C0017337||Taf14
+C0812273||Snf5
+C1623159||binding
+C0246454||Snf2
+C1510701||ATPase domain
+C1623161||nucleosomal DNA
+C1167093||SWI/SNF
+C0812273||Snf5
+C1167093||SWI/SNF
+C0040648||acidic transcription factors
+C0162803||RNA-seq analysis
+C0812273||Snf5
+C1515655||in vivo
+C1167093||SWI/SNF
+C0017263||regulation of gene expression
+C0812273||SNF5
+C0678594||structure
+C1167093||SWI/SNF

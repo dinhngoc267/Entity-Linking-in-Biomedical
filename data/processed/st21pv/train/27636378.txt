@@ -1,0 +1,57 @@
+C1519941||validation
+C1331418||Comfort
+C0596545||Wearing Experience
+C0348000||Instrument
+C0348000||R-COMFI
+C0018724||health care personnel
+C1510837||airborne particles
+C0008972||clinical studies
+C0449719||part
+C2364135||discomfort
+C0231199||intolerance
+C0018017||objective
+C0681814||study
+C0348000||instrument
+C1331418||comfort
+C0348000||Instrument
+C0282441||literature reviews
+C1854293||iterations
+C0699794||ranking
+C0009817||experts
+C0033920||Psychometric evaluation
+C0348000||instrument
+C3161035||Rasch partial credit model
+C3161035||partial credit model
+C0936012||analysis
+C0282574||Pivot anchoring
+C0936012||analyses
+C0679646||participants
+C0348000||instrument
+C0018724||health care personnel
+C0042610||Veterans
+C2936317||Health Administration facilities
+C0936012||analyzed
+C3161035||Rasch PCM
+C0683312||Category
+C0936012||analysis
+C0683312||categories
+C2364135||Discomfort
+C0596545||Wearing Experience
+C0936012||analyses
+C0348000||instrument
+C0162340||knowledge
+C0348000||instrument
+C2364135||discomfort
+C0018724||health care personnel
+C1331418||comfort
+C1331418||Comfort
+C0596545||Wearing Experience
+C0348000||Instrument
+C0348000||R-COMFI
+C0348000||instrument
+C0032893||practice
+C0348000||R-COMFI
+C0332285||within
+C0018696||VA healthcare system
+C0348000||psychometrically sound instrument
+C1331418||comfort

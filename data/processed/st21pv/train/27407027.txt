@@ -1,0 +1,52 @@
+C0035648||Risk Factors
+C3714514||Infection
+C1304878||Knee Arthroscopy
+C0936012||Analysis
+C0041703||United States
+C0242356||Databases
+C0035648||patient-
+C0035648||procedure-related risk factors
+C0150098||dataset
+C0242356||administrative health care database
+C0021675||insurers
+C0150105||random sample
+C1304878||knee arthroscopies
+C1136322||Current Procedural Terminology (CPT) codes
+C1136322||CPT code
+C1292781||high-
+C1292781||low-complexity procedure
+C0184898||incisions
+C3714514||infections
+C1136322||CPT code
+C0184898||incision
+C0013103||drainage
+C3714514||Superficial infections
+C2346503||International Classification of Diseases, Ninth Revision infection codes
+C0034869||record
+C0184898||incision
+C0013103||drainage
+C1305855||body mass index
+C0011847||diabetes
+C1304878||arthroscopic knee procedures
+C0392618||postoperative infections
+C3714514||Superficial infections
+C0028756||morbid obesity
+C0035648||risk factors
+C3714514||deep
+C3714514||superficial infections
+C3714514||infection rates
+C1304878||high-complexity arthroscopies
+C0025266||men
+C0028754||obese
+C0011847||diabetic
+C3714514||superficial
+C3714514||total infections
+C0028756||morbidly obese
+C3853727||tobacco users
+C1292781||complex procedures
+C0025266||men
+C0920638||preoperative counseling
+C0582175||aid surgeons
+C0242802||patient selection
+C0237401||individuals
+C0010362||cross-sectional study

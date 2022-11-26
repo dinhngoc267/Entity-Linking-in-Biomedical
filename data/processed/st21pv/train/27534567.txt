@@ -1,0 +1,28 @@
+C0004930||Punch
+C0043251||injury
+C0424366||self-harm
+C0004930||Punch
+C0043251||injuries
+C0424366||self-harm
+C0043251||injuries
+C0004930||punch
+C0035363||retrospective review
+C0025102||medical records
+C1708333||Central London Emergency Department
+C1515021||subset of the total group
+C0004930||punch
+C0043251||injury
+C1515021||subgroup
+C0004930||punch
+C0043251||injury
+C1515021||subgroup
+C0016658||fracture
+C0004930||punch
+C0043251||injury
+C2711168||victim of violence
+C0243095||male preponderance
+C0332167||high-risk
+C1710032||screening
+C0025353||mental health
+C0035168||research
+C1273869||interventions

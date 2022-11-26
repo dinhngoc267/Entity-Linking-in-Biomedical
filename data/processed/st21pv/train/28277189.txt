@@ -1,0 +1,63 @@
+C1955899||CXCL5
+C0029463||Osteosarcoma
+C0027627||Cell Migration and Invasion
+C0596138||Autocrine
+C1955899||CXCL5
+C0282553||CXC-type chemokine
+C0018183||granulocytic immune cells
+C1149468||binding to its receptor CXCR2
+C1955899||CXCL5
+C0527994||CXCR2
+C0029005||oncogenic
+C0086418||human
+C0006826||cancers
+C1955899||CXCL5
+C0029463||osteosarcoma
+C0027627||cell migration and invasion
+C1171362||protein expression
+C1955899||CXCL5
+C0029463||osteosarcoma
+C0040300||tissues
+C0040300||matched adjacent nontumor tissues
+C1171362||expression
+C1435946||CXCL5
+C4255448||metastasis
+C1955899||CXCL5
+C0029463||osteosarcoma
+C0085983||cell lines
+C0085983||Saos-2
+C0085983||MG63
+C0085983||U2OS
+C0085983||SW1353
+C0029418||normal osteoblast
+C0029418||hFoB1.19 cells
+C0085983||U2OS cells
+C0314641||transfected
+C1332819||CXCL5
+C1099354||specific siRNA
+C1514559||overexpression
+C0032136||plasmid
+C2350567||Knockdown
+C1332819||CXCL5
+C0085983||U2OS
+C0027627||cell migration and invasion
+C1514559||overexpression
+C1955899||CXLC5
+C0027627||migration and invasion
+C0085983||U2OS cells
+C1955899||CXCL5
+C1955899||CXCL5
+C1514559||overexpressing
+C0029418||hFoB1.19 cells
+C0027627||migration and invasion
+C0085983||U2OS cells
+C1955899||CXCL5
+C0085983||U2OS
+C0027627||cell migration and invasion
+C1955899||CXCL5
+C0029463||osteosarcoma
+C0029005||oncogenic
+C0029463||osteosarcoma
+C4255448||metastasis
+C1955899||CXCL5
+C0029463||osteosarcoma

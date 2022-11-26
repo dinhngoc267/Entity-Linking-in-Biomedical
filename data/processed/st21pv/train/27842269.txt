@@ -1,0 +1,32 @@
+C0037420||social interaction
+C0349390||non-fluent aphasia
+C0008972||Clinical research
+C0034991||rehabilitation
+C0003537||aphasia
+C0037831||speech-language therapy
+C0027910||neuroscience
+C0037420||social interaction
+C3495412||left perisylvian eloquent areas
+C0233732||language function
+C0087111||intensive aphasia therapy
+C0237401||individuals
+C0349390||non-fluent aphasia
+C0023017||Intensive Language-Action Therapy
+C0023017||Intensive Language-Action Therapy
+C0087111||Constraint-Induced Aphasia Therapy
+C2202690||verbal utterances
+C0037420||social interaction
+C0037585||Naming Therapy
+C0037827||speech production per se
+C0087111||therapy
+C0243095||number of utterances
+C0087111||treatment groups
+C0003537||aphasia
+C0204458||test battery
+C0023017||Intensive Language-Action Therapy
+C0025663||method
+C0037585||Naming Therapy
+C0087111||treatment
+C0003537||aphasia
+C0037420||social interaction
+C0087111||intensive aphasia therapy

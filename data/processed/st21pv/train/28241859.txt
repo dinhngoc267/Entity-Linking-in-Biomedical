@@ -1,0 +1,106 @@
+C0086418||Human
+C1305379||amnion
+C0014597||epithelial cells
+C0007587||cell death
+C1963758||immunomodulation
+C0206116||microglia
+C2986594||mouse model
+C2347482||perinatal brain injury
+C0086418||Human
+C1305379||amnion
+C0014597||epithelial cells
+C0014597||Human amnion epithelial cells
+C0021368||inflammatory
+C0037578||tissue injury
+C0301872||immune response
+C0699748||pathogenesis
+C2347482||perinatal brain injury
+C0443264||modulating
+C0301872||response
+C0087111||therapy
+C2347482||injury
+C1963758||immunomodulatory
+C0014597||Human amnion epithelial cells
+C0599779||animal models
+C0220825||investigation
+C0006104||brain
+C0007634||cells
+C2347482||injury
+C0220825||investigate
+C0014597||Human amnion epithelial cells
+C0206116||microglia
+C0301872||immune responders
+C2347482||injury
+C0006104||brain
+C2986594||mouse model
+C0021368||inflammation
+C0242706||hyperoxia
+C0035648||risk factors
+C2347482||perinatal brain injury
+C0013936||embryonic
+C1533734||administered
+C0023810||lipopolysaccharide
+C0023810||lipopolysaccharide
+C1521751||C57Bl/6 J mouse pups
+C0023810||lipopolysaccharide
+C1521751||pups
+C0242706||hyperoxia
+C0030054||oxygen
+C1521751||Pups
+C0014597||Human amnion epithelial cells
+C1737200||intravenously
+C0023810||lipopolysaccharide
+C0242706||hyperoxia
+C1521751||pups
+C0007634||cells
+C1515232||TUNEL
+C0007776||cortex
+C0010097||striatum
+C0682708||white matter
+C0004112||astrocytes
+C0017626||GFAP
+C0682708||white matter
+C0206116||microglia
+C0215872||CD68
+C0007776||cortex
+C0010097||striatum
+C0206116||microglia
+C0312586||Iba1
+C0014597||hAEC
+C1533734||administration
+C0162638||apoptosis
+C0004112||astrocyte
+C0682708||white matter
+C0206116||microglia
+C0206116||microglia
+C1435882||CD45
+C1136310||CD11b
+C0023810||lipopolysaccharide
+C0282547||co-culture
+C0014597||hAEC
+C0162518||conditioned medium
+C0014597||hAEC
+C0162518||conditioned medium
+C0206116||microglial
+C0031308||phagocytic activity
+C0206116||microglia
+C0162638||apoptosis
+C0024426||M1 activation markers
+C1528561||CD86
+C0014597||Human amnion epithelial cells
+C0023810||lipopolysaccharide
+C1963578||release
+C0079189||cytokines
+C0443264||modulate
+C0206116||microglia
+C0014597||Human amnion epithelial cells
+C1963758||immunomodulate
+C0006104||brain
+C0206116||microglia
+C1963578||release
+C1579754||trophic factors
+C0302523||observation
+C0014597||Human amnion epithelial cells
+C0087111||therapeutic utility
+C0376636||management
+C2347482||perinatal brain injury

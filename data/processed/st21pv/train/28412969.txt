@@ -1,0 +1,117 @@
+C0074202||cellular prion protein
+C0243041||co-chaperone
+C0018850||Hsp70 / 90 organizing protein
+C0596290||proliferation
+C0007634||glioblastoma stem-like cells
+C0017636||Glioblastoma
+C0017636||Glioblastoma
+C0006118||brain tumor
+C0007634||glioblastoma stem-like cells
+C0007634||glioblastoma stem-like cells
+C0027651||tumor
+C0027626||invasion
+C0013203||therapeutic resistance
+C0007634||glioblastoma stem-like cells
+C0017636||Glioblastoma
+C0074202||cellular prion protein
+C0074202||PrP(C)
+C0243041||co-chaperone
+C0018850||Hsp70 / 90 organizing protein
+C0018850||HOP
+C0017636||Glioblastoma
+C0596263||tumorigenesis
+C1113654||neural stem cell
+C0007634||glioblastoma stem-like cells
+C0074202||PrP(C)
+C0007585||cultured
+C0007634||neurospheres
+C0018284||growth factors
+C0038250||stem cells
+C0012872||markers
+C0012872||adhesion molecules markers
+C0079603||immunofluorescence
+C0016263||flow cytometry
+C0007634||GSC
+C4042950||self-renewal
+C0596290||proliferation
+C0005507||clonal density assays
+C0022885||BrdU incorporation
+C0018850||HOP
+C0018850||HOP
+C0030956||peptide
+C0074202||PrP(C)
+C0005456||binding site
+C0598496||silencing
+C0018850||HOP
+C0074202||PrP(C)
+C0007634||cell populations
+C0596290||proliferation
+C1515655||in vivo
+C1513300||Migration assays
+C0908936||laminin-1
+C0017636||Glioblastoma
+C0007634||cells
+C0007585||cultured
+C0007634||neurospheres
+C0012872||stemness markers
+C0673026||CD133
+C0080188||CD15
+C0069304||Oct4
+C0300483||SOX2
+C0074202||PrP(C)
+C1510803||monolayer culture
+C0673026||CD133
+C0074202||PrP(C)
+C0598496||silencing
+C0017262||expression of molecules
+C1956422||cancer stem cells
+C0012872||markers
+C0007589||cell differentiation
+C0007634||GSC
+C4042950||self-renewal
+C0074202||PrP(C)
+C0007634||glioblastoma stem-like cells
+C0018850||HOP
+C0596290||proliferation
+C4042950||self-renewal
+C0007634||glioblastoma stem-like cells
+C0074202||PrP(C)
+C0018850||HOP
+C0596290||proliferation process
+C1515655||In vivo
+C0074202||PrP(C)
+C0018850||HOP
+C0007595||growth
+C0017636||glioblastoma
+C0007634||cells
+C1180347||PrP(C) - HOP complex
+C0018850||HOP
+C0030956||peptide
+C0074202||PrP(C)
+C0005456||binding site
+C0007634||GSC
+C4042950||self-renewal
+C0596290||proliferation
+C1180347||HOP - PrP(C) complex
+C0007634||GSC
+C0074202||PrP(C)
+C0007634||glioblastoma stem-like cells
+C0007634||cell
+C0033684||adhesion-related proteins
+C1622501||cell migration
+C0074202||PrP(C)
+C0243095||cell surface stability
+C0007578||cell adhesion molecules
+C0017636||Glioblastoma
+C0027626||invasiveness
+C0018850||HOP
+C0074202||PrP(C)
+C0074202||PrP(C)
+C0018850||HOP
+C0017262||expression
+C0808232||therapeutic intervention
+C0017636||Glioblastoma
+C0007634||glioblastoma stem-like cell
+C4042950||self-renewal
+C0596290||proliferation
+C1622501||migration

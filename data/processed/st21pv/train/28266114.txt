@@ -1,0 +1,79 @@
+C0442893||systemic diseases
+C0011334||dental caries
+C0031090||periodontal diseases
+C0086050||consensus report of group 2 of the joint EFP/ORCA workshop
+C0011334||caries
+C0031090||periodontal diseases
+C0031090||Periodontal diseases
+C0011334||dental caries
+C0012634||common diseases
+C0080233||tooth loss
+C0012634||diseases
+C0036597||self-esteem
+C0008679||complex chronic diseases
+C0035648||common risk factors
+C0277785||distinct pathophysiologies
+C0012655||susceptibility involves
+C0035648||risk factors
+C0081786||biofilm
+C0489461||carbohydrate intake
+C0376636||their management
+C0023866||scientific literature
+C0035648||potential risk factors
+C0011334||caries
+C0031090||periodontal diseases
+C1955832||systematic review
+C1511900||role of diet and nutrition
+C0586393||reference documentation
+C0035648||modifiable acquired risk factors
+C0243095||genetic contribution
+C0031090||periodontal diseases
+C0031090||periodontal disease
+C0011334||caries
+C0017337||genes
+C0266929||chronic periodontitis
+C0919430||vitamin D receptor
+C0919430||vitamin D receptor
+C1414553||Fc gamma receptor IIA
+C1414553||Fc gamma receptor IIA
+C1334098||Interleukin 10 (IL10) genes
+C0011334||caries
+C0017337||genes
+C1333380||enamel formation
+C1412382||AMELX
+C1412375||AMBN
+C1414397||ENAM
+C0059090||TUFT
+C1417208||MMP20
+C1416675||KLK4
+C1412495||AQP5
+C1327458||immune regulation
+C0012170||Fermentable carbohydrates
+C0011334||caries
+C0015852||fermentation process
+C1325881||generation of biofilm
+C0017696||Glucans
+C0031099||periodontitis
+C1320980||glycaemia drives
+C0242606||oxidative stress
+C0021368||hyper inflammatory
+C0342917||Micronutrient deficiencies
+C0003968||vitamin C
+C0042866||vitamin D
+C0042845||vitamin B12
+C0242656||progression of both diseases
+C2717755||Functional foods
+C0525033||probiotics
+C1960644||caries prevention
+C0031090||periodontal disease
+C0376636||management
+C0043352||Hyposalivation
+C0003873||rheumatoid arthritis
+C0425291||smoking/tobacco use
+C1408353||undiagnosed
+C2911690||sub-optimally controlled
+C0011847||diabetes
+C0028754||obesity
+C0035648||risk factors
+C0011334||caries
+C0031090||periodontal diseases

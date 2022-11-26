@@ -1,0 +1,61 @@
+C0348016||Intravenous
+C0008273||Chlorothiazide
+C1609524||Acute Decompensated Heart Failure
+C0025854||Metolazone
+C0348016||intravenous
+C0008273||chlorothiazide
+C1609524||acute decompensated heart failure
+C1609524||acute decompensated heart failure
+C0354100||loop diuretic
+C0025854||metolazone
+C2985505||Retrospective cohort study
+C1510747||academic
+C0337954||tertiary care hospital
+C1609524||acute decompensated heart failure
+C0354100||loop diuretics
+C0442027||oral
+C0025854||metolazone
+C0025854||metolazone
+C0348016||intravenous
+C0008273||chlorothiazide
+C0008273||chlorothiazide
+C0025854||metolazone
+C0442711||institutional protocol
+C0025854||metolazone
+C0806914||administered
+C0008273||chlorothiazide
+C0025854||metolazone
+C0806914||administered
+C0008273||chlorothiazide
+C0354100||diuretic
+C0025854||metolazone
+C0008273||chlorothiazide
+C0936012||analysis
+C0354100||loop diuretic
+C0348016||intravenous
+C0016860||furosemide
+C0025854||metolazone
+C0205160||net-negative
+C0232856||urine output
+C0008273||chlorothiazide
+C0025854||metolazone
+C0232856||urine output
+C0025854||metolazone
+C0008273||chlorothiazide
+C0025854||metolazone
+C0008273||chlorothiazide
+C0232856||urine output
+C0205160||net-negative
+C0232856||urine output
+C0008273||chlorothiazide
+C0025854||metolazone
+C0008273||chlorothiazide
+C0025854||metolazone
+C0348016||intravenous
+C0008273||chlorothiazide
+C0184511||improved
+C0012797||diuresis
+C1609524||acute decompensated heart failure
+C0354100||loop diuretic
+C0442027||oral
+C0025854||metolazone

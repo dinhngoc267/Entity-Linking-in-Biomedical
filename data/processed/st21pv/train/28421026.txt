@@ -1,0 +1,75 @@
+C0221457||Teachers'
+C0600015||Emotional Support
+C0025265||Working Memory
+C1285654||Performance
+C0025265||Working memory
+C0025265||temporarily store
+C0023185||learning
+C0025265||working memory
+C1285654||performance
+C0035168||research
+C1446409||positive
+C1446409||positive
+C0025265||working memory
+C1285654||performance
+C2603343||study
+C0221457||teachers
+C0025265||working memory
+C1285654||performance
+C2603343||study
+C0221457||teacher
+C0600015||emotional support
+C0025265||working memory
+C1285654||performance
+C0205160||negative
+C0871388||social stress
+C0034394||Questionnaires
+C0242481||experimental session
+C0034394||Questionnaires
+C0030971||perceptions
+C0242481||experimental session
+C0025265||working memory
+C0392366||tests
+C0038435||stress
+C0600015||Emotional support
+C3273156||audio
+C0470166||message
+C0684224||report
+C0600015||supportive
+C0470166||message
+C1257890||stranger
+C0600015||supportive
+C0470166||message
+C0600015||supportive
+C0470166||message
+C0221457||teacher
+C0038435||stress
+C0221457||teacher
+C0600015||support
+C1446409||positive
+C0600015||support
+C0221457||teachers
+C0025265||working memory
+C1285654||performance
+C0205160||negative
+C0600015||supportive
+C0470166||message
+C0025265||working memory
+C1285654||performance
+C0600015||supportive
+C0470166||message
+C0221457||teacher
+C1285654||performance
+C2603343||study
+C0221457||teachers
+C0600015||support
+C0025265||working memory
+C1285654||performance
+C0600015||supportive
+C0221457||Teacher
+C0600015||support
+C0205160||negative
+C3714811||resolving
+C0025265||working memory
+C0033213||problems
+C0033213||issues

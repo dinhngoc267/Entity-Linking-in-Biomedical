@@ -1,0 +1,41 @@
+C1093383||Muricea californica
+C1011258||M. fruticosa
+C0030168||Eastern Pacific
+C0997913||Octocorals
+C0997913||Octocorals
+C2603343||understudied
+C0997908||scleractinian
+C0332128||examined
+C1093383||Muricea californica
+C1011258||Muricea fruticosa
+C1705920||co-occurring species
+C0997913||gorgonian octocoral
+C0150312||abundantly found
+C0036500||kelp
+C0006754||southern California
+C0997913||octocoral
+C2348563||Illumina MiSeq amplicon sequencing
+C1705920||species
+C1093383||Muricea
+C1947989||inter-
+C1947989||intra-colony
+C0684063||zoanthids
+C0021948||benthic invertebrate
+C0936012||analysis
+C0997913||octocorals
+C0684224||first report
+C1705920||species
+C1093383||Muricea
+C0997913||octocoral
+C1705920||species
+C0486616||composition
+C1093383||Muricea
+C0026934||Mycoplasma
+C1093383||M. californica
+C1011258||M. fruticosa
+C1222582||Spirochaetes
+C1093383||M. californica
+C0751988||γ-Proteobacteria
+C1011258||M. fruticosa
+C0150312||presence
+C0021948||photosymbiont-containing invertebrate

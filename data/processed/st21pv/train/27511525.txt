@@ -1,0 +1,22 @@
+C0015133||pegylated liposomal etoposide nanoparticles
+C1512505||breast cancer cell lines
+C0015133||pegylated liposomal etoposide nanoparticles
+C3897399||T-47D
+C0596890||MCF-7 breast cancer cell lines
+C0015133||Pegylated liposomal etoposide NPs
+C0456389||size
+C0037775||size distribution
+C0015133||nanoparticles
+C0348000||Zetasizer instrument
+C0596402||cytotoxicity
+C0015133||nanoparticles
+C2986858||methyl thiazol tetrazolium assay
+C0456389||mean size
+C0037775||size distribution
+C0015133||pegylated liposomal etoposide NPs
+C0596402||cytotoxicity effect
+C0015133||etoposide NPs
+C3897399||T-47D
+C0596890||MCF-7 cell lines of breast cancer
+C0015133||Liposome-based NPs
+C0085104||drug delivery system

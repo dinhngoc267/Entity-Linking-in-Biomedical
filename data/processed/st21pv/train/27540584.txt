@@ -1,0 +1,42 @@
+C0183309||mechanical simulator
+C0917707||cannulation
+C0192444||Billroth II
+C0372024||Roux-en-Y reconstruction
+C0192444||Billroth II
+C0192444||Billroth II
+C0372024||Roux-en-Y
+C0700276||anatomy
+C0008310||endoscopic retrograde cholangiopancreatography
+C0008310||endoscopic retrograde cholangiopancreatography
+C0183309||simulator
+C0679083||simulated
+C0016356||fluoroscopy
+C0917707||cannulation
+C4075558||simulation system
+C0008310||endoscopic retrograde cholangiopancreatography
+C0183309||simulators
+C3714556||papilla
+C0348000||instruments
+C0005400||bile ducts
+C0183309||simulator
+C0016356||fluoroscopy
+C0008310||endoscopic retrograde cholangiopancreatography
+C0192444||Billroth II
+C0372024||Roux-en-Y
+C4075558||simulation system
+C0220825||evaluated
+C0008310||endoscopic retrograde cholangiopancreatography
+C0183309||simulator
+C3714556||papillae
+C0192444||Billroth II
+C0372024||Roux-en-Y
+C0183309||simulator
+C1522486||trainees
+C1611835||expert
+C1522486||endoscopists
+C0683312||categories
+C0192444||Billroth II
+C0372024||Roux-en-Y
+C0183309||mechanical simulator
+C0220825||evaluation
+C0008310||endoscopic retrograde cholangiopancreatography

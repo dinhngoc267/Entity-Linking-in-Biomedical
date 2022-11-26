@@ -1,0 +1,59 @@
+C0011847||Diabetes
+C0678222||breast cancer
+C0043210||Black women
+C0678222||Breast cancer
+C0043210||Black women
+C0043210||White women
+C0011860||type 2 diabetes mellitus
+C0011847||diabetes
+C0678222||breast cancer
+C1257890||population
+C0011847||diabetes
+C0678222||breast cancer
+C0011900||diagnosis
+C0678222||breast cancer
+C0043210||Black Women's
+C0086388||Health
+C2603343||Study
+C1709709||prospective cohort study
+C0043210||Black women
+C0678222||breast cancer
+C0011900||diagnosed
+C0034394||questionnaires
+C3889680||National Death Index
+C0034980||Multivariable Cox regression analysis
+C0011847||diabetes
+C0678222||breast cancer
+C1300072||stage
+C3527083||treatment modality
+C0034804||estrogen receptor
+C0034804||estrogen receptor
+C1305855||body mass index
+C1306577||deaths
+C1522577||follow-up
+C0678222||breast cancer
+C0678222||Breast cancer
+C0043210||women
+C0011900||diagnosed
+C0011847||diabetes
+C0678222||breast cancer
+C0702240||elevations
+C1719706||ER+
+C1719707||ER-
+C0678222||breast cancer
+C0241863||diabetics
+C0011847||diabetes
+C0241863||non-diabetics
+C0456984||results
+C0150312||present
+C1446409||positive
+C0011860||type 2 diabetes
+C0678222||breast cancer
+C0043210||Black women
+C1833334||earlier onset
+C0011860||type 2 diabetes
+C0043210||Black women
+C0011847||diabetes
+C0034510||racial
+C1171307||disparities
+C0678222||breast cancer

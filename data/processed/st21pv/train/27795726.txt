@@ -1,0 +1,61 @@
+C1277266||Serum C-Reactive Protein
+C0023895||Liver Disease
+C0003962||Ascites
+C1704656||diagnosis
+C0031154||peritonitis
+C0009566||complication
+C0023890||cirrhosis
+C2603343||study
+C1277266||serum C-reactive protein levels
+C1511876||diagnostic factor
+C0275551||spontaneous bacterial peritonitis
+C0275551||spontaneous bacterial peritonitis
+C0023895||liver disease
+C2603343||study
+C1704656||diagnosed
+C0023895||liver disease
+C0003962||ascites
+C0184666||admission
+C0020027||Nemazee Teaching Hospital
+C0017446||Shiraz
+C0022065||Iran
+C0332128||examined
+C0275551||spontaneous bacterial peritonitis
+C0682554||sterile ascetic fluid groups
+C0948762||PMN count
+C0682554||ascetic fluids
+C0022885||Routine laboratory tests
+C1277266||C-reactive protein (CRP) levels
+C1277266||C-reactive protein
+C1704656||diagnosis
+C0275551||spontaneous bacterial peritonitis
+C1623038||cirrhotic
+C0275551||spontaneous bacterial peritonitis
+C0025266||male
+C0275551||spontaneous bacterial peritonitis
+C0025266||male
+C0007584||Cell counts
+C0428479||protein levels
+C0428519||albumin levels
+C0428346||lactate dehydrogenize (LDH) levels
+C0682554||ascetic fluid
+C1550100||serum samples
+C0275551||spontaneous bacterial peritonitis
+C0275551||spontaneous bacterial peritonitis
+C1277266||C-reactive protein
+C0275551||spontaneous bacterial peritonitis
+C0275551||spontaneous bacterial peritonitis
+C1277266||C-reactive protein
+C1704656||diagnosis
+C0275551||spontaneous bacterial peritonitis
+C0948762||PMN count
+C0003962||cultured ascites
+C1277266||C-reactive protein
+C0275551||spontaneous bacterial peritonitis
+C0948762||PMN count
+C0003962||cultured ascites
+C2603343||study
+C1277266||C-reactive protein
+C1704656||diagnosis
+C0275551||spontaneous bacterial peritonitis
+C1623038||cirrhotic

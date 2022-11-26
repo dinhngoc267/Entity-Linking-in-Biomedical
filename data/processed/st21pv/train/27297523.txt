@@ -1,0 +1,52 @@
+C0238767||bilateral
+C0032326||pneumothoraces
+C0040590||tracheostomy
+C0007107||laryngeal cancer
+C0032326||Pneumothorax
+C0009566||complication
+C0040590||tracheostomy
+C0700287||report
+C0238767||bilateral
+C0032326||pneumothoraces
+C0040590||tracheostomy
+C0007107||laryngeal cancer
+C0442592||clinic
+C0220825||evaluation
+C0087111||treatment
+C0023055||laryngeal tumor
+C0023072||Laryngeal endoscopy
+C0243095||limited movement
+C0459363||bilateral vocal cords
+C0040405||computed tomography
+C0027651||tumor
+C0221198||lesion
+C0042930||vocal cords
+C0456475||subglottic area
+C4287881||first visit
+C0013404||respiratory difficulty
+C0498305||emergency tracheostomy
+C0150126||airway management
+C0543467||procedure
+C0020578||hyperventilating
+C0008031||chest pain
+C0025066||mediastinal
+C2242512||air leak
+C0032326||pneumothorax
+C0040590||tracheostomy
+C0039985||Chest X-ray
+C0238767||bilateral
+C0032326||pneumothoraces
+C0441587||inserted
+C0238767||bilateral
+C0817096||chest
+C0184114||drainage tubes
+C0184512||stabilized
+C0699748||pathogenesis
+C0238767||bilateral
+C0032326||pneumothoraces
+C0225695||alveolar walls
+C0428719||airway pressure
+C0231818||airway constriction
+C0577754||neck-extended position
+C0020578||hyperventilation
+C0040590||tracheostomy

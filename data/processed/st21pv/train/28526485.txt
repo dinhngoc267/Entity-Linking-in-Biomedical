@@ -1,0 +1,28 @@
+C0518456||Mobility Impairments
+C0805586||Challenges
+C0681814||mixed-method study
+C0805586||challenges
+C0018747||services
+C0518456||mobility impairments
+C0449911||perspective
+C0018724||health care providers
+C0009817||experts
+C0596545||experiences
+C0518456||mobility impairments
+C0681814||study
+C0518456||mobility impairments
+C0035171||exploratory sequential design
+C0936012||analyzed
+C0805586||Challenges
+C0233896||sexual development
+C0000934||adaptation
+C1442085||instruction
+C0038951||Survey
+C0518456||mobility impairments
+C0596545||experiences
+C0449416||sources
+C0018724||primary care providers
+C1273869||Interventions
+C0184511||improve
+C0009586||comprehensive care
+C0233896||sexual development

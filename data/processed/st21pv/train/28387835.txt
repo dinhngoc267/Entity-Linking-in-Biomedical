@@ -1,0 +1,67 @@
+C0010240||Coxiella burnetii
+C1764827||isolates
+C0007452||infected cattle
+C2247677||proinflammatory cytokine response
+C1764827||isolates
+C1510458||infected goats
+C0036945||sheep
+C0010240||Coxiella burnetii
+C0449411||causative agent
+C0034362||Q fever
+C0010240||C. burnetii
+C0007452||cattle
+C1510458||goats
+C0036945||sheep
+C0007452||infected cattle
+C0086418||human
+C0301872||immune response
+C0086418||humans
+C0010240||C. burnetii
+C1764827||isolates
+C1443925||multilocus variable number of tandem repeat analysis
+C1443925||MLVA
+C2247677||Cytokine responses
+C0086418||human
+C1321301||peripheral blood mononuclear cells
+C1321301||peripheral blood mononuclear cells
+C0010240||C. burnetii
+C1764827||isolates
+C1443925||MLVA
+C1510458||goats
+C0036945||sheep
+C0007452||cattle
+C0519066||acute
+C1443892||chronic Q fever
+C0010240||Coxiella burnetii
+C1764827||isolates
+C0007452||cattle
+C0021753||IL-1β
+C0041368||TNF-α
+C0961814||IL-22
+C1764827||isolates
+C1510458||goats
+C0036945||sheep
+C1443892||chronic Q fever
+C0079189||cytokine
+C1764827||isolates
+C1443925||MVLA
+C2247677||response
+C1443925||MLVA
+C2247677||proinflammatory cytokine response
+C0086418||human
+C1321301||peripheral blood mononuclear cells
+C0010240||C. burnetii
+C1764827||isolates
+C0007452||cattle
+C0086418||human
+C0034362||Q fever
+C0007452||cattle
+C0079189||cytokine
+C1321301||peripheral blood mononuclear cells
+C0010240||C. burnetii
+C1764827||isolates
+C1443892||chronic Q fever
+C1764827||isolates
+C1510458||goats
+C2247677||cytokine responses
+C1443925||MLVA

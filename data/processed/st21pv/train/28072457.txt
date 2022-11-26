@@ -1,0 +1,44 @@
+C0015967||Febrile
+C0034721||Rats
+C0582147||risk of infections
+C3714787||central nervous system
+C0034721||rats
+C0015967||febrile
+C0023810||lipopolysaccharide
+C0023810||lipopolysaccharide
+C0021753||interleukin-1β
+C0021753||interleukin-1β
+C0034721||rats
+C0015967||Fever
+C0023810||lipopolysaccharide
+C0442120||intraperitoneally
+C0021753||IL-β
+C0018943||Hematological
+C0206190||peritoneal macrophages
+C0032105||plasma
+C0021753||interleukin-1β
+C0231262||normal body temperature
+C0015967||febrile
+C0023810||lipopolysaccharide
+C0015967||febrile
+C0034721||animals
+C0015967||febrile
+C0595818||intracerebroventricular
+C0021753||interleukin-1β
+C0034721||animals
+C0001962||EtOH
+C0023810||lipopolysaccharide
+C1533734||administration
+C0015967||febrile
+C0023810||lipopolysaccharide
+C0018943||hematological
+C0007620||viability
+C0206190||peritoneal macrophages
+C0032105||plasma
+C0021753||interleukin-1β
+C0007806||cerebrospinal fluid
+C0079189||cytokine
+C3714787||central nervous system
+C0015967||febrile
+C0023810||lipopolysaccharide
+C0021753||interleukin-1β

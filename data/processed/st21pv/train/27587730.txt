@@ -1,0 +1,51 @@
+C1101610||Gga-miR-21
+C0008051||chicken
+C0206131||pre-adipocyte
+C0596290||proliferation
+C0013081||down-regulating
+C1416661||Kruppel-like factor 5
+C1101610||Gga-miR-21
+C0017262||expressed
+C0008051||chicken
+C0206131||pre-adipocytes
+C1101610||gga-miR-21
+C0008051||chicken
+C0206131||pre-adipocyte
+C0596290||proliferation
+C3899698||Cell proliferation assay
+C1880945||gene expression analysis
+C1366837||proliferating cell nuclear antigen
+C1366837||proliferating cell nuclear antigen
+C1101610||gga-miR-21
+C0206131||pre-adipocyte
+C0596290||proliferation
+C1101610||gga-miR-21
+C0206131||pre-adipocyte
+C0596290||proliferation
+C1416661||Kruppel-like factor 5
+C1416661||Kruppel-like factor 5
+C0035696||mRNA
+C1101610||gga-miR-21
+C1101610||gga-miR-21
+C1416661||Kruppel-like factor 5
+C0600600||3(')UTR
+C0206414||reporter
+C1416661||Kruppel-like factor 5
+C0017262||expression
+C0206131||pre-adipocytes
+C1416661||Kruppel-like factor 5
+C2350567||knockdown
+C1136031||RNAi
+C1101610||gga-miR-21
+C0596290||cell proliferation
+C1101610||gga-miR-21
+C0206131||pre-adipocyte
+C0596290||proliferation
+C1416661||Kruppel-like factor 5
+C2350567||knockdown
+C1101610||miR-21
+C0008051||chicken
+C0206131||pre-adipocyte
+C0596290||proliferation
+C0242613||targeting
+C1416661||Kruppel-like factor 5

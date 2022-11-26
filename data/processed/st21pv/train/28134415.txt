@@ -1,0 +1,29 @@
+C2004062||History
+C0427350||clinical considerations
+C0025080||current devices
+C0025663||method
+C0002458||American Heart Association
+C1708333||European Resuscitation Council
+C1254351||resuscitative drugs
+C0013125||intravenous (IV) access
+C0871685||clinicians
+C0376554||limited knowledge
+C0596545||experience
+C0282443||review
+C0282443||succinct review
+C2004062||history
+C0427350||clinical considerations
+C0025080||devices
+C0348016||intravenous
+C0233467||negatively affected
+C0444454||prompt circulatory access
+C0009566||serious complications
+C0025080||powered devices
+C1513749||several anatomic sites
+C0871685||clinicians
+C0679878||acute care
+C3887460||cardiovascular
+C2745965||emergencies
+C0025080||devices
+C1708333||resuscitation organizations
+C0013125||IV access

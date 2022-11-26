@@ -1,0 +1,30 @@
+C0596545||Experience
+C0009240||Cognition
+C0008902||Categorization
+C2584303||listening
+C0086418||human
+C0009240||cognition
+C2584303||listening
+C0086418||human
+C0008902||categorization
+C0444669||core
+C0449379||link
+C0332464||broad
+C0086418||humans
+C0237798||nonhuman primates
+C0008902||categorization
+C0086418||human
+C0008902||categorization
+C0332464||broad
+C1705920||species
+C2603343||studies
+C0596545||experience
+C0237798||nonhuman primate
+C1171285||enables
+C0008902||categorization
+C0037817||speech
+C0008902||categorization
+C0243095||findings
+C0596545||experience
+C0332464||broad
+C0009240||cognition

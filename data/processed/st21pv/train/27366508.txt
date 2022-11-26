@@ -1,0 +1,46 @@
+C0392823||Direct Laryngoscopy
+C0007203||Cardiopulmonary Resuscitation
+C0205160||negative
+C0034656||randomized
+C0150097||cross-over study
+C0936012||analyze
+C1531939||Macintosh
+C1532566||Miller
+C0563580||McCoy
+C0180453||McGrath laryngoscopes
+C0007203||cardiopulmonary resuscitation
+C0021932||tracheal intubation
+C3163850||number of attempts
+C1301685||dental trauma
+C0243095||recorded
+C0007203||cardiopulmonary resuscitation
+C0596545||experience
+C0679646||participants
+C0243095||recorded
+C0563580||McCoy laryngoscope
+C0021932||tracheal intubation
+C0150312||presence
+C0563580||McCoy laryngoscopes
+C0021932||tracheal intubation
+C1301685||dental trauma
+C2960751||visual analogue scale scores
+C0021925||intubation
+C0243095||recorded
+C0679646||Participants
+C0596545||experienced
+C1257890||players
+C1531939||Macintosh
+C0563580||McCoy
+C0180453||McGrath
+C0432600||achieved
+C0021932||tracheal intubation
+C0035273||resuscitation
+C1301685||Dental trauma
+C0021932||tracheal intubation
+C0180453||laryngoscopes
+C0392823||direct laryngoscopes
+C0021932||tracheal intubation
+C0563580||McCoy laryngoscope
+C0021932||tracheal intubation
+C0180453||laryngoscope
+C0035273||resuscitation

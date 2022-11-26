@@ -1,0 +1,51 @@
+C0243026||Sepsis
+C0562508||Emergency Department
+C0184666||Admitted
+C0021708||Intensive Care Unit
+C0681836||External Validation Study
+C3494459||Quick Sequential Organ Failure Assessment
+C3494459||Quick Sequential Organ Failure Assessment
+C3494459||Quick Sequential Organ Failure Assessment
+C0243026||sepsis
+C3494459||Quick Sequential Organ Failure Assessment
+C0242966||systemic inflammation response syndrome
+C0242966||systemic inflammation response syndrome
+C0562508||emergency department
+C0562508||emergency department
+C3714514||suspected infection
+C0184666||admitted
+C0021708||intensive care units
+C0021708||intensive care units
+C2985505||retrospective cohort chart review study
+C0562508||emergency department
+C0184666||admitted
+C0021708||ICU
+C3714514||suspected infection
+C1292527||body fluid cultures sampled
+C0562508||emergency department
+C0199779||antibiotic administration
+C0199779||antibiotics administered
+C0562508||emergency department
+C1522486||Trained chart abstractors
+C2603343||study
+C2362543||electronic medical record
+C0518766||vital signs
+C0681827||laboratory study results
+C0031809||physical examination
+C0243095||findings
+C3494459||Quick Sequential Organ Failure Assessment
+C0242966||systemic inflammation response syndrome
+C0184666||admitted
+C0021708||ICU
+C0243026||presumed sepsis
+C0242966||systemic inflammation response syndrome
+C3494459||Quick Sequential Organ Failure Assessment
+C3494459||Quick Sequential Organ Failure Assessment
+C0562508||emergency department
+C0184666||admitted
+C0021708||ICU
+C0242966||systemic inflammation response syndrome
+C3494459||Quick Sequential Organ Failure Assessment
+C0282451||Sepsis-3 guidelines
+C0021708||ICU
+C3889614||encounters

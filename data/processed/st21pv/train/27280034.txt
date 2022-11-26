@@ -1,0 +1,30 @@
+C0035648||risk factors
+C0038661||suicide
+C0017446||Newcastle upon Tyne
+C0025663||method
+C0038661||patterns of suicide
+C0025266||men
+C0038661||suicide
+C0038661||suicides
+C0025266||men
+C0282574||coroner's records
+C0017446||Newcastle upon Tyne
+C0936012||analysed
+C0037585||SPSS software
+C0025266||men
+C0260794||living alone
+C0041674||unemployment
+C0544691||hanging
+C0038663||suicide attempt
+C0004936||mental illness
+C2603343||study
+C0184661||interventions
+C0589098||focus
+C0038661||suicide
+C3244304||field of public health
+C0444454||access
+C0038661||suicide
+C3508152||engagement
+C0025355||mental health services
+C0376636||management
+C0008679||chronic illness

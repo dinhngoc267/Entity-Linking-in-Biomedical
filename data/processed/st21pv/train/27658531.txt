@@ -1,0 +1,46 @@
+C2717979||Tooth wear
+C0012155||diet
+C0024888||chewing
+C0026649||movements
+C0024660||mammals
+C0040426||tooth
+C0016452||food
+C0024888||chewing
+C2603343||studied
+C0450363||3D
+C1550246||dental
+C0205148||surface
+C0936012||analysis
+C0042947||field voles
+C1002449||Microtus agrestis
+C0016132||Finnish Lapland
+C2828208||localities
+C1257890||inter-population
+C1257890||intra-individual
+C0024888||chewing
+C0936012||analysing
+C0205148||facets
+C4082818||second upper molars
+C2828208||localities
+C0014406||environments
+C0042947||voles
+C0012155||diets
+C0450125||abrasives
+C1540415||buccal facets
+C0449738||direction
+C0012727||deviates
+C1708982||mesial
+C0024888||chewing
+C0449738||direction
+C0040408||lingual
+C0205148||facets
+C0016452||food
+C0024888||chewing
+C0026649||movements
+C0311119||food particles
+C0040408||lingual
+C0026367||molars
+C2717979||dental microwear
+C0936012||analysis
+C0205148||facets
+C0026367||molar

@@ -1,0 +1,53 @@
+C0678896||endocrine function
+C0027651||tumor
+C4289264||fractionated stereotactic radiation therapy
+C0278875||craniopharyngiomas in adults
+C1709709||prospective cohort
+C2603343||study
+C0582103||examine
+C0678896||endocrine function
+C0027651||tumor
+C1709709||prospective cohort
+C0010276||craniopharyngioma
+C0332293||treated with
+C4289264||fractionated stereotactic radiation therapy
+C4289264||fractionated stereotactic radiation therapy
+C0010276||craniopharyngiomas
+C0936012||analysis
+C0332293||treated with
+C0221878||linear accelerator-based
+C4289264||fractionated stereotactic radiation therapy
+C1704656||diagnosis
+C0936012||analysis
+C0033080||prescription
+C0027651||tumor
+C0029130||optic nerves
+C0029126||chiasm
+C0599755||cohort
+C0200149||ophthalmological
+C2960670||endocrine evaluations
+C0024485||magnetic resonance imaging
+C0024485||magnetic resonance imaging
+C0441633||scans
+C1522577||follow-up
+C0678896||endocrine function
+C0027651||tumor
+C0042812||Visual acuity
+C3887875||visual field defects
+C4289264||fractionated stereotactic radiation therapy
+C4302401||radiation-induced optic neuropathy
+C4289264||fractionated stereotactic radiation therapy
+C0020635||pituitary deficiency
+C4289264||fractionated stereotactic radiation therapy
+C0020635||pituitary deficiency
+C4289264||fractionated stereotactic radiation therapy
+C4289264||fractionated stereotactic radiation therapy
+C4289264||fractionated stereotactic radiation therapy
+C0027651||Tumor
+C4289264||fractionated stereotactic radiation therapy
+C4289264||fractionated stereotactic radiation therapy
+C0599755||cohort
+C0010276||craniopharyngiomas
+C4302401||radiation-induced optic neuropathy
+C0014130||endocrinopathy
+C0027651||Tumor

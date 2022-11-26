@@ -1,0 +1,56 @@
+C0029162||Oral health
+C1257890||Hadza foragers
+C0039298||Tanzania
+C0029162||oral health
+C1947907||consumption
+C0012170||carbohydrates
+C0005532||biology
+C0034869||bioarchaeological record
+C2948499||Neolithic Revolution
+C2700280||New World
+C2603343||studies
+C2603343||study
+C0029162||oral health
+C1257890||living population
+C0330099||bush
+C1257890||Hadza
+C1257890||gatherers
+C0039298||Tanzania
+C0031090||periodontal disease
+C0011334||caries
+C0012634||disorders
+C0043210||women
+C0562518||villages
+C1947907||consuming
+C0242775||agricultural
+C0012155||diet
+C0011334||caries
+C0031090||periodontal disease
+C0330099||bush
+C1947907||consuming
+C0012155||wild-food diet
+C0025266||men
+C0330099||bush
+C1947907||consuming
+C0012155||wild-food diet
+C0562518||village
+C1947907||consuming
+C0242775||agricultural
+C0012155||diet
+C0243095||findings
+C1138842||maize
+C1947907||consumption
+C0562518||village
+C0011334||caries
+C0025266||men
+C0043210||women
+C0011334||caries
+C0025266||men
+C0330099||bush
+C0019906||honey
+C0024808||marijuana.
+C0011334||cariogenesis
+C1837655||multifactorial
+C0029162||oral health
+C0012155||wild-food diet
+C0242775||cultigens

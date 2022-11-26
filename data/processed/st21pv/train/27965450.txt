@@ -1,0 +1,104 @@
+C0032276||Pneumocystis carinii
+C0596902||Inositol Transporter 1
+C0016832||Fungi
+C0597258||genus Pneumocystis
+C0024109||lungs
+C0024660||mammals
+C0339961||pneumonia
+C1535939||Pneumocystis pneumonia
+C1535939||Pneumocystis pneumonia
+C0020962||immune systems
+C0430400||culture system
+C1705920||species
+C0597258||Pneumocystis
+C0016832||fungi
+C0087111||therapies
+C0032276||Pneumocystis carinii
+C1499624||Pneumocystis murina
+C0320385||Pneumocystis jirovecii
+C0014442||enzymes
+C1156341||myo-inositol biosynthesis
+C1334043||genes with homologies
+C0016832||fungal
+C0021547||myo-inositol
+C0596902||transporters
+C0021547||myo-inositol
+C0015161||eukaryotic
+C0007620||viability
+C0596902||transporter
+C0596902||ITR1
+C0678594||structurally
+C0032276||P. carinii
+C1510464||structure
+C0032276||P. carinii
+C0596902||ITR1
+C0596902||P. carinii ITR1
+C1167322||transmembrane
+C0162805||alpha-helices
+C0178719||intracellular
+C1707271||C
+C1706793||N termini
+C0021547||inositol
+C0596902||transporters
+C1159756||myo-inositol transport
+C0032276||P. carinii
+C0005528||transport system
+C0242209||sugars
+C0021547||inositol
+C0376211||stereoisomers
+C0005458||competitive
+C0243077||inhibitors
+C0178666||Glucose transport
+C0005528||transport
+C1159756||myo-inositol transport
+C0024660||mammalian
+C0596902||transporters
+C1523889||sodium dependent
+C0010737||cytochalasin B
+C1159756||Inositol transport
+C0016832||fungi
+C1254351||drug
+C0016832||fungi
+C0005528||transport
+C0024660||mammalian
+C0016832||fungal
+C0596902||transporters
+C0005528||transport
+C0678695||nutrient
+C0600688||toxicity
+C0243077||inhibitors
+C0016832||fungal
+C0596902||transporter
+C0021547||myo-Inositol
+C0242209||sugarlike
+C0678695||nutrient
+C0086418||Humans
+C0014442||enzymes
+C0014406||environment
+C1519628||transport process
+C0007634||cellular
+C0085239||genomes
+C0597258||genus Pneumocystis
+C0339961||pneumonia
+C0030498||parasites
+C0021547||myo-inositol
+C0014442||enzymes
+C0021547||inositol
+C0596902||transporters
+C0242209||sugar
+C0024109||lungs
+C0016832||fungi
+C0005528||transport
+C0021547||myo-inositol
+C0016832||fungus
+C0596902||transporter
+C0021547||myo-inositol
+C0005528||transport
+C0005528||transport
+C1512977||mammalian cells
+C0024660||mammals
+C0005528||transport
+C0021547||myo-inositol
+C0597258||Pneumocystis fungi
+C0005528||transport
+C1254351||drug

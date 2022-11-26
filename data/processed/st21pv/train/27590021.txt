@@ -1,0 +1,85 @@
+C1519941||validation
+C1610733||urinary
+C0005516||biomarker
+C0022885||panel
+C0024143||lupus nephritis
+C0005516||markers
+C1274834||juvenile-onset systemic lupus erythematosus
+C1274834||juvenile-onset systemic lupus erythematosus
+C0024143||lupus nephritis
+C0024143||lupus nephritis
+C0042036||urine
+C0005516||biomarkers
+C1511790||detecting
+C0024143||lupus nephritis
+C1517205||flares
+C0005516||biomarker
+C0022885||panels
+C2603343||study
+C0005516||biomarker
+C0022885||panel
+C0024143||lupus nephritis
+C1274834||juvenile-onset systemic lupus erythematosus
+C0599755||cohorts
+C1610733||urinary
+C0005516||biomarkers
+C0078056||vascular cell adhesion molecule-1
+C0078056||vascular cell adhesion molecule-1
+C0128897||monocyte chemoattractant protein 1
+C0128897||monocyte chemoattractant protein 1
+C0072296||lipocalin-like prostaglandin D synthase
+C0072296||lipocalin-like prostaglandin D synthase
+C0040679||transferrin
+C0040679||transferrin
+C0007841||ceruloplasmin
+C0029297||alpha-1-acid glycoprotein
+C0029297||alpha-1-acid glycoprotein
+C0215955||neutrophil gelatinase-associated lipocalin
+C0215955||neutrophil gelatinase-associated lipocalin
+C0010362||cross-sectional study
+C0679646||participants
+C0041700||UK
+C1274834||juvenile-onset systemic lupus erythematosus
+C0599755||Cohort 1
+C1708333||Einstein Lupus
+C0599755||Cohort
+C0599755||Cohort 2
+C0206031||logistic regression modelling
+C0005516||biomarkers
+C1274834||juvenile-onset systemic lupus erythematosus
+C0599755||cohorts
+C0024143||lupus nephritis
+C0024143||lupus nephritis
+C1610733||Urinary
+C0029297||alpha-1-acid glycoprotein
+C0007841||ceruloplasmin
+C0078056||vascular cell adhesion molecule-1
+C0128897||monocyte chemoattractant protein 1
+C0072296||lipocalin-like prostaglandin D synthase
+C0024143||lupus nephritis
+C0024143||lupus nephritis
+C0599755||cohorts
+C1610733||Urinary
+C0040679||transferrin
+C0599755||Cohort 2
+C0599755||Cohort 1
+C0005516||biomarker
+C0022885||panel
+C0029297||alpha-1-acid glycoprotein
+C0007841||ceruloplasmin
+C0072296||lipocalin-like prostaglandin D synthase
+C0040679||transferrin
+C0024143||lupus nephritis
+C0599755||Cohort 2
+C0005516||markers
+C0042036||urine
+C0005516||biomarker
+C0022885||panel
+C1274834||juvenile-onset systemic lupus erythematosus
+C0599755||cohorts
+C1610733||urinary
+C0029297||alpha-1-acid glycoprotein
+C0007841||ceruloplasmin
+C0072296||lipocalin-like prostaglandin D synthase
+C0040679||transferrin
+C0024143||lupus nephritis

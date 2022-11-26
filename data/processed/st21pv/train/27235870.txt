@@ -1,0 +1,69 @@
+C0027754||Neurotrophins
+C0254837||specific receptors
+C0029954||oviduct tracts
+C0022345||Japanese quail
+C0022345||Coturnix coturnix japonica
+C0027754||Neurotrophins
+C0027752||NGF
+C0107103||BDNF
+C0083735||NT-3
+C0254837||specific receptors
+C0072482||TrkA
+C0084873||TrkB
+C0132300||TrkC
+C2603343||studied
+C0029954||oviduct
+C1622979||egg laying
+C0022345||quails
+C0027754||Neurotrophins
+C0027754||Neurotrophins
+C0027882||neuronal populations
+C3714787||central
+C0206417||peripheral nervous system
+C1261210||reproductive system
+C2603343||studied
+C0029237||organization
+C0022345||quail
+C0029954||oviduct
+C0227911||infundibulum
+C0229962||magnum
+C0227909||isthmus
+C0042149||uterus
+C0042232||vagina
+C0936012||analyzed
+C1171362||expression
+C0007613||localization
+C0027754||Neurotrophins
+C0254837||Trks receptors
+C0029954||tracts
+C0005863||western blotting
+C0027754||Neurotrophins
+C0254837||Trks receptors
+C1171362||expressed
+C0029954||oviductal tracts
+C0021044||immunohistochemistry
+C0027754||Neurotrophins
+C0254837||Trks
+C0027752||NGF
+C0107103||BDNF
+C0083735||NT3
+C1512085||ductal epithelial cells
+C0027752||NGF
+C1519221||secretory cells
+C1179446||tubular glands
+C0027749||nervous fibers
+C0507777||vessel wall
+C0072482||TrkA
+C0084873||TrkB
+C1512086||ductal epithelium
+C0072482||TrkA
+C0132300||TrkC
+C0027749||nervous fibers
+C0507777||vessel wall
+C0029954||oviductal tracts
+C0027752||NGF
+C0107103||BDNF
+C0072482||TrkA
+C0084873||TrkB
+C0007634||cells
+C1512086||ductal epithelium

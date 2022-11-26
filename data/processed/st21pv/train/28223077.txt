@@ -1,0 +1,62 @@
+C0599634||landfill
+C4277576||polychlorinated dibenzo-p-dioxins
+C4277574||polychlorinated dibenzofurans
+C4277576||PCDD
+C4277574||Fs
+C0085973||case study
+C0008115||East China
+C0599634||landfill
+C0599634||landfills
+C2700280||world
+C0599634||landfill
+C4277576||polychlorinated dibenzo-p-dioxins
+C4277574||polychlorinated dibenzofurans
+C4277576||PCDD
+C4277574||Fs
+C0936012||analyzed
+C0205145||surrounding sites
+C0205145||background site
+C0205145||upwind site
+C0205145||downwind site
+C0599634||landfill
+C0008115||East China
+C2603343||study
+C4277576||PCDD
+C4277574||Fs
+C4277576||PCDD
+C4277574||Fs
+C0205145||surrounding sites
+C0205145||background site
+C0205145||upwind site
+C0205145||downwind site
+C4277576||PCDD
+C4277574||Fs
+C0205145||surrounding sites
+C0205145||background site
+C0205145||upwind site
+C0205145||downwind site
+C1979963||congener profiles
+C4277576||PCDD
+C4277574||Fs
+C0599634||landfill
+C4277576||PCDD
+C4277574||Fs
+C0205145||downwind site
+C0205145||upwind site
+C0599634||landfill
+C4277576||PCDD
+C4277574||Fs
+C0205145||downwind site
+C4277576||PCDD
+C4277574||Fs
+C0205145||urrounding sites
+C0205145||background site
+C0205145||upwind site
+C0205145||downwind site
+C0599634||landfill
+C4277576||PCDD
+C4277574||Fs
+C0936012||analysis
+C0599634||landfill
+C4277576||PCDD
+C4277574||Fs

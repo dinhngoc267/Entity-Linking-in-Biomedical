@@ -1,0 +1,48 @@
+C0086132||Depressive Symptoms
+C0041703||United States
+C0043210||Women's
+C0918012||Indices
+C0043210||women
+C0683278||suffer
+C0221074||postpartum depression
+C0221074||postpartum depression
+C0043210||women's
+C0221074||postpartum depression
+C0681814||study
+C0221074||postpartum depression
+C1457887||symptoms
+C0043210||women's
+C0038951||Pregnancy Risk Assessment Monitoring System
+C0038951||Pregnancy Risk Assessment Monitoring System
+C0043210||women's
+C0918012||indices
+C0021212||indicators
+C1561598||Institute of Women's Policy Research
+C1561598||Institute of Women's Policy Research
+C0043210||women
+C0221074||postpartum depression
+C1457887||symptoms
+C0020898||Illinois
+C0003790||Arkansas
+C0043210||Women
+C0683312||categories
+C3887537||partner
+C0445223||related
+C0849912||emotional
+C0221074||postpartum depression
+C1457887||symptoms
+C0221074||postpartum depression
+C1457887||symptoms
+C0918012||index
+C0683312||categories
+C0918012||index
+C0043210||women
+C0221074||postpartum depression
+C1457887||symptoms
+C0221074||postpartum depression
+C1457887||symptoms
+C0043210||women
+C1301808||states
+C0918012||indices
+C0043210||women
+C1301808||states

@@ -1,0 +1,42 @@
+C0138741||Prostate-specific antigen
+C0754659||dutasteride
+C0194804||prostate biopsy
+C0033581||prostatic inflammation
+C0936012||analyze
+C0754659||dutasteride
+C0087111||treatment
+C0376358||prostate cancer
+C0376358||prostate cancer
+C0005558||biopsy
+C0138741||prostate-specific antigen
+C0033581||prostatic inflammation
+C0025266||men
+C0194804||prostate biopsy
+C0138741||prostate-specific antigen
+C0754659||dutasteride
+C0087111||treatment
+C1257890||population
+C0138741||prostate-specific antigen
+C1522577||follow-up
+C0194804||prostate biopsy
+C0138741||prostate-specific antigen
+C0376358||prostate cancer
+C0005558||re-biopsy
+C1096147||PSA reduction
+C0087111||treatment
+C0005516||indicator
+C0376358||prostate cancer
+C3887644||inflammatory infiltrates
+C0194804||prostate biopsies
+C0376358||prostate cancer
+C0005558||biopsy
+C0138741||prostate-specific antigen
+C0754659||dutasteride
+C0087111||Treatment
+C0754659||dutasteride
+C0936012||analyze
+C0138741||prostate-specific antigen
+C0033581||prostatic inflammation
+C0138741||prostate-specific antigen
+C0754659||dutasteride
+C0087111||treatment

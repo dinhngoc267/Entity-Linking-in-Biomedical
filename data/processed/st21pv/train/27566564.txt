@@ -1,0 +1,62 @@
+C0007603||plasma membrane
+C0029463||osteosarcoma
+C0007634||cells
+C0013203||drug resistance
+C0087111||therapy
+C0029463||osteosarcoma
+C0029463||osteosarcoma
+C4282132||primary bone malignancy
+C0242643||P-glycoprotein
+C0242643||P-glycoprotein
+C1514559||overexpression
+C0162643||treatment failure
+C0242656||progression
+C0029463||osteosarcoma
+C1261473||sarcomas
+C0013089||doxorubicin
+C0013089||doxorubicin
+C0596402||cytotoxicity
+C0376623||P-glycoprotein
+C0029463||osteosarcoma
+C0007635||cells cultured
+C0368606||acidity
+C0024369||lysosomes
+C0013089||doxorubicin
+C0028978||omeprazole
+C0358591||proton pump inhibitor
+C1156062||lysosomal acidity
+C0013089||doxorubicin
+C0596402||cytotoxicity
+C0029463||osteosarcoma
+C0522537||xenografts
+C0013218||combination treatment
+C0013089||doxorubicin
+C0028978||omeprazole
+C3890174||significantly reduced
+C1262477||body weight loss
+C0013221||impaired toxicity
+C0013089||doxorubicin
+C0004391||autophagy
+C1156062||lysosomal acidification
+C0084578||SNARF
+C0487602||staining
+C0007603||plasma membrane
+C0013089||doxorubicin
+C0178719||intracellular
+C4055506||accumulation
+C0029463||osteosarcoma
+C0007634||cells
+C0013089||doxorubicin
+C0008838||cisplatin
+C0025677||methotrexate
+C0042679||vincristine
+C0029463||osteosarcoma
+C0007634||cells
+C0001122||acidosis
+C0003392||chemotherapeutic drugs
+C0006353||buffer
+C0087111||therapies
+C2945654||regimens
+C0358591||proton pump inhibitors
+C0003392||anticancer agents
+C0013203||drug resistance

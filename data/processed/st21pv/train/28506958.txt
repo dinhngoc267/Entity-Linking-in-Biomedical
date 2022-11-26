@@ -1,0 +1,52 @@
+C2718022||Comparative Effectiveness Research
+C0032285||Pneumonia
+C1511790||Detection
+C0026738||Multi-Institutional
+C0679918||PHIS
+C0031928||Pilot Study
+C0694549||Community-acquired pneumonia
+C2718022||comparative effectiveness research
+C2718022||comparative effectiveness research
+C0442726||detection
+C1555319||discharge diagnosis
+C0805701||codes
+C0025663||method
+C0150312||presence
+C0032285||pneumonia
+C1531652||chest imaging
+C4274373||reports
+C0026738||multi-institutional
+C0679918||PHIS
+C2718022||comparative effectiveness research
+C0242356||database
+C0020017||children's hospitals
+C0243095||find
+C0004626||bacterial pneumonia
+C1531652||chest diagnostic imaging
+C4274373||reports
+C0009817||experts
+C4274373||reports
+C0032227||pleural effusion
+C0235896||pulmonary infiltrate
+C0032285||pneumonia
+C4274373||reports
+C0008902||classify
+C4274373||report
+C0004626||bacterial pneumonia
+C0011923||diagnostic imaging
+C4274373||reports
+C0002045||algorithms
+C1446409||positive
+C0008902||classifying
+C4274373||reports
+C1446409||positive
+C0009817||experts
+C0025102||reports
+C1446409||positive
+C0032285||pneumonia
+C0011923||diagnostic imaging
+C4274373||reports
+C0009817||experts
+C0031928||pilot study
+C4274373||imaging reports
+C2718022||comparative effectiveness research

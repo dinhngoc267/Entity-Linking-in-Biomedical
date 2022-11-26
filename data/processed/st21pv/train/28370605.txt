@@ -1,0 +1,52 @@
+C0870883||Metabolite
+C0037813||silver-assisted mass spectrometry imaging
+C2316368||tissue sections
+C0037813||Nanostructure-based mass spectrometry imaging
+C0037813||mass spectrometry imaging
+C1537028||molecular imaging
+C1328819||small molecules
+C1537028||matrix-assisted molecular imaging
+C0205148||surfaces
+C0037125||silver
+C0037125||Ag
+C0282574||MSI data
+C0282574||MSI data
+C0282597||laser desorption/ionization mass spectrometry
+C0936012||analysis
+C0037813||MSI analysis
+C0282597||Ag-DIOS MSI
+C1328819||small molecules
+C0014406||environmental
+C0036511||sebum
+C0023779||lipids
+C0870883||metabolites
+C1517295||fore-stomach sections
+C3493005||6-bromoisatin
+C2986594||murine mouse model
+C0037813||DIOS MSI
+C0022023||ions
+C3493005||6-bromoisatin
+C0870883||metabolites
+C0023779||lipids
+C1517295||murine fore-stomach
+C0037813||DIOS MSI
+C0282597||Ag-DIOS MSI
+C0023779||Ag-adductable lipids
+C0014898||wax esters
+C0008377||cholesterol
+C1517295||murine fore-stomach
+C0017119||Gastrointestinal acid
+C0566267||products
+C3493005||6-bromoisatin
+C0574031||6,6'-dibromoindirubin
+C0220862||isolate
+C0040300||tissue
+C0870883||metabolite
+C0007613||lipid distributions
+C0282597||Ag-DIOS MSI
+C0870883||metabolite
+C0023779||lipid
+C0037813||MSI analyses
+C1328819||small molecules
+C0870883||metabolites
+C3827727||undetectable

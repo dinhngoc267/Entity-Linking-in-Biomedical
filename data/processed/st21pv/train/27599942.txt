@@ -1,0 +1,49 @@
+C3178894||Genotyping
+C0038172||Staphylococcus aureus
+C0024895||bovine mastitis
+C0024895||mastitis
+C0038172||Staphylococcus aureus
+C0038172||Staphylococcus aureus
+C0003062||animal
+C0221460||farmers
+C0024895||acute mastitis
+C0024895||mastitis
+C0678941||genetic variants
+C3714514||infection
+C2603343||study
+C0042765||virulence
+C0017337||genes
+C0038172||Staphylococcus aureus
+C0024895||acute clinical mastitis
+C0243095||findings
+C1136170||virulence factors
+C0017337||genes
+C0019053||hemolysin
+C0023504||leukocidins D
+C0293523||lukM
+C0033684||lukF-P83
+C1871029||clumping factors A
+C0969304||B
+C1437844||fibrinogen binding protein
+C2976610||fibronectin-binding protein A
+C1136170||virulence factors
+C2976609||fibronectin-binding protein B
+C0038172||Staphylococcus aureus
+C0025252||surface protein G
+C0017337||Genes
+C1617068||toxic shock syndrome toxin-1
+C1617068||toxic shock syndrome toxin-1
+C1513916||No
+C0017337||beta-lactamase genes
+C1617068||toxic shock syndrome toxin-1
+C0014372||enterotoxins
+C0019053||hemolysins
+C0597979||beta-lactamase
+C0017337||genes
+C2603343||study
+C0038172||Staphylococcus aureus
+C0024895||mastitis
+C0038995||Sweden
+C0949688||diagnostic tools
+C0242386||udder
+C0038172||Staphylococcus aureus

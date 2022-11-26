@@ -1,0 +1,63 @@
+C0600620||Hospitalist
+C0524852||Orthopaedic
+C0020003||Community Hospital
+C0600620||hospitalist
+C1113679||patient safety
+C0442797||decreasing
+C0009586||comprehensive medical care
+C0032786||postoperative care
+C2603343||study
+C0600620||hospitalist
+C3812881||authors
+C0600620||hospitalist
+C3266157||safe
+C0524852||orthopaedic
+C0184666||admitted
+C0020003||community hospital
+C0035363||retrospective review
+C0524852||orthopaedic
+C0184666||admitted
+C0020003||community hospital
+C0600620||hospitalist
+C0019993||hospitalization
+C1304888||pain control
+C0199779||antibiotic infusion
+C1828265||neurovascular monitoring
+C0032786||postoperative care
+C0150312||presence
+C1293116||medication introduction
+C0600620||hospitalist
+C1522577||follow-up
+C0030700||readmission
+C0030685||discharge
+C0004096||asthma
+C0041671||attention deficit disorder
+C0004352||autism
+C0600620||hospitalist
+C0032786||postoperative orders
+C0334954||orthopaedics team
+C1135120||breakthrough pain
+C0030703||schedule
+C0600620||hospitalist
+C0582175||surgeon
+C0582175||surgeon
+C0002903||anesthesia
+C0582175||surgeon
+C0600620||hospitalists
+C0030685||discharged patients
+C0600620||hospitalist
+C1522577||followed up
+C0030685||discharge
+C0600290||hospital readmissions
+C0030685||discharge
+C0600620||Hospitalist
+C0524852||orthopaedic
+C0020003||community hospital
+C0150270||medication management
+C0600620||Hospitalist
+C0018724||providers
+C0582175||surgeon
+C3266157||safe
+C0524852||orthopaedic
+C0184666||admitted
+C0020003||community hospital

@@ -1,0 +1,59 @@
+C0318793||Zika Virus
+C1449326||Phospho-TBK1
+C1159772||Localization
+C0026255||Mitosis
+C0086418||Human
+C0038250||Stem Cells
+C3661481||Radial Glia
+C0318793||Zika virus
+C0318793||Zika virus
+C0025958||microcephaly
+C0162340||understood
+C0162327||single-cell RNA-seq
+C0175173||neocortical
+C0037925||spinal cord
+C0038250||stem (NES) cells
+C0086418||human
+C0318793||Zika virus
+C1518296||neuropathogenesis
+C0086418||human
+C0038250||NES cells
+C0015965||fetal
+C0006104||brain
+C0318793||Zika virus
+C0439663||infected
+C0025958||micrencephalic
+C0006104||brain
+C0318793||Zika virus
+C0439663||infects
+C0175173||neocortical
+C0037925||spinal
+C0038250||NES cells
+C0015965||fetal
+C3661481||radial glial cells
+C3661481||radial glial cells
+C0026255||mitoses
+C0242608||centrosomes
+C0678594||structural
+C0007587||cell death
+C0276289||ZIKV infection
+C0038250||NES cells
+C3661481||radial glial cells
+C0242608||centrosomal
+C0026237||mitochondrial
+C1449326||phospho-TBK1
+C0026255||mitosis
+C1579410||nucleoside analogs
+C0318793||Zika virus
+C0042774||replication
+C0038250||NES cells
+C0318793||Zika virus
+C1449326||pTBK1
+C0007613||relocalization
+C0007587||cell death
+C3161035||model system
+C0086418||human
+C1113654||neural stem cells
+C0007634||cellular
+C0276289||ZIKV infection
+C0087111||treatment

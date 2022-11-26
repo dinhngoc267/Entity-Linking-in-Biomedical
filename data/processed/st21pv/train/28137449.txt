@@ -1,0 +1,61 @@
+C0597358||binding
+C1704322||orientations
+C0678594||structurally
+C0023688||ligands
+C0444626||Crystal structures
+C0597358||ligand-receptor interactions
+C0087111||therapeutics
+C1512488||homologous proteins
+C0063322||Tropisetron
+C0023688||orthosteric ligand
+C0295352||5-HT3
+C0051334||α7 nACh receptors
+C0597358||binding
+C1704322||orientation
+C1449549||structural homologue
+C1254349||AChBP
+C0678594||structurally
+C0023688||ligand
+C0061863||granisetron
+C1704322||orientation
+C0063322||tropisetron
+C0295352||5-HT3
+C0051334||α7 nACh receptors
+C0051334||α7 nACh receptors
+C0597358||bind
+C0061863||granisetron
+C0597357||receptor
+C0444626||crystal structures
+C0023688||ligand
+C1704322||orientations
+C0597358||binding
+C1704322||orientation
+C0063322||tropisetron
+C0061863||granisetron
+C0295352||5-HT3 receptors
+C1522290||docking
+C1517880||radioligand binding
+C0010654||cysteine
+C0525038||substituted
+C0295352||5-HT3 receptor
+C0596988||mutants
+C0017262||expressed
+C2936239||HEK 293 cells
+C0023688||ligands
+C0010654||cysteine
+C0525038||substitutions
+C0063322||tropisetron
+C0061863||granisetron
+C0023688||ligands
+C1704322||orientations
+C0010424||crystallographic
+C1254349||AChBP
+C0023688||ligands
+C1704322||orientations
+C0295352||5-HT3 receptor
+C0005456||binding site
+C0678594||structurally
+C1704322||orientations
+C0005456||binding site
+C1512488||homologous proteins
+C1517880||ligand binding

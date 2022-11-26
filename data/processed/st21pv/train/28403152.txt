@@ -1,0 +1,37 @@
+C0600537||migratory passerines
+C0030853||Laurel Highlands of Pennsylvania
+C0232896||reproduction
+C0005595||birds
+C0005595||bird
+C1705920||species
+C0936012||analyzed
+C0600537||migratory bird
+C1705920||species
+C0178477||breeding
+C0178477||breeding
+C0178477||breeding
+C2015882||local productivity
+C1705920||species
+C0600537||mid- to long-distance migrants
+C0598016||hatched
+C0026093||migrants
+C1705920||species
+C1705920||species
+C0600537||migratory passerines
+C1622979||laying
+C0574839||arrival
+C1622979||laying
+C0035150||reproductive advancement
+C0574839||arrival
+C0178477||breeding
+C0005595||avian
+C0600537||migrants
+C0936012||analyzed
+C2717777||fitness
+C0326953||multi-brooded Song Sparrow
+C0005595||avian
+C1705920||species
+C0026093||migrants
+C0178477||breeding
+C0178477||optimal breeding
+C1705920||species

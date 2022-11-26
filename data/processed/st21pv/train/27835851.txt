@@ -1,0 +1,68 @@
+C0936012||Functional analyses
+C0033684||OcRhS1-N
+C0033684||OcUER1
+C0609108||UDP-L-rhamnose
+C0331605||Ornithogalum caudatum
+C0609108||UDP-L-rhamnose
+C0609108||UDP-L-rhamnose
+C1254351||sugar donor
+C0035417||rhamnose
+C1706082||compounds
+C0331605||plants
+C0014442||enzymes
+C0017337||genes
+C0609108||UDP-L-rhamnose
+C0331605||plants
+C0017337||genes
+C0014442||rhamnose synthase
+C0014442||rhamnose synthase
+C0443560||bi-functional
+C0014442||UDP-4-keto-6-deoxy-D-glucose
+C0014442||UDP-4-keto-6-deoxy-D-glucose
+C0014442||3, 5-epimerase/UDP-4-keto-L-rhamnose
+C0014442||5-epimerase/UDP-4-keto-L-rhamnose
+C0014442||4-keto-reductase
+C0014442||UER
+C0331605||Ornithogalum caudatum
+C0035668||RNA
+C0026382||Seq data
+C0017337||OcRhS1 gene
+C0079941||open reading frame
+C0079941||open reading frame
+C1750262||tri-functional RhS enzyme
+C2717977||enzymatic assays
+C0033684||OcRhS1-N
+C0077887||UDP-D-glucose
+C0077887||UDP-D-glucose
+C0609108||UDP-L-rhamnose
+C0034861||recombinant OcRhS1
+C0033684||OcRhS1-N
+C0077887||UDP-D-glucose
+C0033684||OcRhS1-N
+C2326433||multi-domain protein
+C1323251||cofactor-binding motifs
+C1323251||cofactors
+C0033684||OcRhS1-N
+C0035168||research
+C0033684||N-terminal portion of OcRhS1
+C0033684||OcRhS1-N
+C0077887||UDP-D-glucose
+C0017337||OcUER1
+C0079941||open reading frame
+C1305923||polypeptide
+C0002520||aa
+C0033684||OcUER1
+C0033684||carboxy-terminal domain of OcRhS1
+C0033684||OcRhS1-C
+C0609108||UDP-L-rhamnose
+C0077887||UDP-D-glucose
+C0609108||UDP-L-rhamnose
+C0033684||OcRhS1-N
+C0033684||OcUER1
+C0005507||biochemical assay
+C3463810||expression profiles
+C0033684||OcRhS1-N
+C0033684||OcUER1
+C0035417||rhamnose
+C0032594||polysaccharides
+C0331605||O. caudatum

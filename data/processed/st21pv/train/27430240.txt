@@ -1,0 +1,95 @@
+C0001443||Adenosine
+C2936552||adenosine A2A receptor agonist
+C0055233||CGS21680
+C0949479||upregulate
+C0108783||CD39
+C0000530||CD73
+C1384539||E2F transcription factor 1
+C0056695||CREB
+C0039198||regulatory T cells
+C0025929||mice
+C0039198||regulatory T cells
+C0039198||The number of regulatory T cells
+C0108783||ectonucleoside triphosphate diphosphohydrolase 1
+C0108783||ectonucleoside triphosphate diphosphohydrolase 1
+C0108783||CD39
+C0000530||5'-ectonucleotidase
+C0000530||NT5E
+C0000530||CD73
+C0039198||Treg cell
+C0205148||surface
+C0243026||sepsis
+C0005515||factors
+C0108783||CD39
+C0000530||CD73
+C1327622||regulation of
+C0108783||CD39
+C0000530||CD73
+C0001443||adenosine
+C0039198||The number of regulatory T cells
+C2986594||mouse model
+C0243026||sepsis
+C0039198||The number of regulatory T cells
+C0180279||flow cytometer
+C0039198||The number of regulatory T cells
+C0031148||peritoneal lavage
+C1519477||splenocytes
+C0025929||mice
+C0332293||treated with
+C0001443||adenosine
+C2936552||adenosine A2A receptor agonist
+C0055233||CGS21680
+C0040669||transfected
+C1099354||siRNA
+C1384539||E2F transcription factor 1
+C1384539||E2F transcription factor 1
+C0056695||cyclic adenosine monophosphate (cAMP) response element-binding protein
+C0056695||CREB
+C0040648||transcription regulatory factors
+C0108783||CD39
+C0000530||CD73
+C1327622||regulatory
+C0005515||factors
+C0949466||western blot analysis
+C0022885||dual-luciferase reporter assay
+C1158592||adenosine metabolism
+C0007634||cells
+C0001443||adenosine
+C0055233||CGS21680
+C0949479||upregulated
+C0108783||CD39
+C0000530||CD73
+C1384539||E2F transcription factor 1
+C0056695||CREB
+C0108783||CD39
+C0000530||CD73
+C0949479||upregulated
+C0001443||adenosine
+C0055233||CGS21680
+C1510699||Adenosine triphosphate (ATP) hydrolysis
+C0001443||adenosine
+C1384539||E2F transcription factor 1
+C0056695||CREB
+C0055233||CGS21680
+C0001443||adenosine
+C2936552||adenosine A2A receptor agonist
+C1384539||E2F transcription factor 1
+C0056695||CREB
+C0005515||factors
+C0108783||CD39
+C0000530||CD73
+C0039198||Treg cell
+C0205148||surface
+C0243026||sepsis
+C0001443||Adenosine
+C2936552||A2A receptor agonist
+C1152628||signal transducer
+C0005515||factors
+C0108783||CD39
+C0000530||CD73
+C0001443||adenosine
+C0001443||adenosine
+C0035168||research
+C1158592||adenosine metabolism
+C0087111||treatment
+C0243026||sepsis

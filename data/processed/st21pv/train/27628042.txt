@@ -1,0 +1,89 @@
+C1537908||MiR-424-5p
+C0279626||esophageal squamous cell carcinoma
+C0027626||invasion
+C0027627||metastasis
+C1334470||SMAD7
+C0037080||pathway
+C1523298||EMT
+C0279626||ESCC
+C2826244||life-threatening
+C0012634||disease
+C0027626||invasion
+C0027627||metastasis
+C0442726||detect
+C0027626||invasion
+C0027627||metastasis
+C0279626||ESCC
+C1537908||miR-424-5p
+C0006826||cancers
+C0279626||ESCC
+C1537908||miR-424-5p
+C0442726||detected
+C0279626||ESCC
+C0040300||tissues
+C0085983||cell lines
+C1709846||real-time PCR methods
+C0027626||invasion
+C0027627||metastasis
+C0596290||proliferation
+C0279626||ESCC
+C0085983||cell lines
+C0314641||transfected
+C1537908||miR-424-5p
+C0936012||analyzed
+C1510438||transwell invasion assay
+C1510438||wound healing assay
+C3899698||cell proliferation assay
+C0017337||target gene
+C1537908||miR-424-5p
+C1510438||luciferase activity assay
+C1537908||miR-424-5p
+C1523298||EMT
+C1709846||real-time PCR
+C0949466||western blot assay
+C1537908||miR-424-5p
+C0279626||ESCC
+C0040300||tissues
+C0085983||cell lines
+C1537908||miR-424-5p
+C0024204||lymph node
+C0027627||metastasis
+C0279626||ESCC
+C0040300||tissues
+C1537908||miR-424-5p
+C0597032||EC-1 cells
+C1537908||miR-424-5p
+C0027626||invasion
+C0027627||metastasis
+C0596290||proliferation
+C0597032||EC-1 cells
+C0027626||invasion
+C0027627||metastasis
+C0279626||ESCC
+C0597032||cells
+C0040300||tissues
+C1334470||SMAD7
+C0017337||target gene
+C1537908||miR-424-5p
+C1510438||luciferase activity assay
+C1537908||miR-424-5p
+C0205160||negatively
+C0017263||regulate
+C1334470||SMAD7
+C0017262||expression
+C1523298||EMT
+C1334470||SMAD7
+C0017262||overexpression
+C1334470||SMAD7
+C1537908||miR-424-5p
+C0243095||anti-EMT
+C1537908||miR-424-5p
+C1334470||SMAD7
+C0037080||pathway
+C0279626||ESCC
+C0027626||invasion
+C0027627||metastasis
+C0041904||up-regulation
+C1537908||miR-424-5p
+C1269955||tumor invasion
+C0027627||metastasis

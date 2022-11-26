@@ -1,0 +1,30 @@
+C0449738||Direction
+C0549393||Alcohol Problems
+C0023981||Longitudinal Sample
+C0682177||College Students
+C0549393||Alcohol problems
+C2603343||study
+C0023866||literature
+C0549393||alcohol problems
+C0449738||direction
+C0682177||college students
+C0023981||longitudinal study
+C0682177||college students
+C0041703||United States
+C0034394||questionnaire-based
+C0449738||direction
+C0549393||alcohol problems
+C0549393||alcohol problems
+C0449738||direction
+C0549393||alcohol problems
+C0549393||alcohol problems
+C0549393||alcohol problems
+C0549393||alcohol problems
+C0549393||alcohol problems
+C0549393||alcohol problems
+C2603343||study
+C0549393||alcohol problems
+C0027361||individuals
+C0332140||clinically diagnosed
+C0025353||mental health
+C0740858||substance use problems

@@ -1,0 +1,34 @@
+C0032098||Host plant
+C0009276||white-spotted longicorn beetle
+C1229576||Anoplophora malasiaca
+C1229576||Anoplophora malasiaca
+C0009276||Coleoptera
+C1005233||Cerambycidae
+C0870781||landscape
+C0242775||crop
+C0040811||trees
+C0022341||Japan
+C1229576||A. malasiaca
+C1257890||populations
+C0884217||mandarin orange
+C0995181||willow
+C0950036||blueberry trees
+C0032098||host plant
+C1257890||population
+C0995181||willow
+C0950036||blueberry
+C0950036||blueberry
+C0995181||willow
+C1257890||populations
+C0884217||mandarin orange
+C2936203||antennae
+C1257890||populations
+C0036863||sex pheromones
+C0229962||elytra
+C0884217||mandarin orange
+C0220806||chemicals
+C1101268||β-Elemene
+C0884217||mandarin orange
+C0995181||willow
+C0032098||host plant
+C0032098||host plant

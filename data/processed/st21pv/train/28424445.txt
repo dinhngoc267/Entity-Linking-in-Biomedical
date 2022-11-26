@@ -1,0 +1,36 @@
+C0080203||tachyarrhythmia
+C0032961||pregnancy
+C1858460||Maternal
+C0080203||tachyarrhythmia
+C0009566||complication
+C0032961||pregnancy
+C1134488||hormonal changes
+C0080203||arrhythmias
+C0080203||arrhythmias
+C0150312||presence
+C0018798||congenital heart defects
+C0033011||pregnant females
+C0150312||Presence
+C0080203||tachyarrhythmia
+C0032961||pregnancy
+C0015965||fetus
+C0679006||calling
+C0087111||proper treatment
+C0013227||medications
+C0003195||antiarrhythmic drugs
+C1858460||maternal
+C0080203||tachyarrhythmia
+C0232910||teratogenic side effects
+C0003195||antiarrhythmic drugs
+C0032961||pregnancy
+C2603343||studied
+C0015965||fetal
+C0005604||harm
+C0162563||cardiac ablation
+C0015333||radiation exposure
+C0015965||fetus
+C0033011||Pregnant women
+C0080203||tachyarrhythmia
+C0332154||treated
+C0596545||experience
+C0003195||antiarrhythmic drugs

@@ -1,0 +1,26 @@
+C0027950||neutrophil
+C0024264||lymphocyte
+C1337013||differentiated thyroid cancer
+C0920317||meta-analysis
+C0027950||neutrophil
+C0024264||lymphocyte
+C1337013||differentiated thyroid cancer
+C1337013||differentiated thyroid cancer
+C0920317||meta-analysis
+C0033522||prospective cohort studies
+C1704324||published
+C0599755||cohorts
+C0040137||thyroid nodules
+C0920317||meta-analysis
+C0599755||cohorts
+C1337013||differentiated thyroid cancer
+C0749467||benign nodules
+C1337013||differentiated thyroid cancer
+C0749467||benign nodules
+C0947630||studies
+C0238463||papillary thyroid carcinoma
+C1337013||differentiated thyroid cancer
+C0018021||goiters
+C0220825||investigations
+C0011900||prognosis
+C1337013||differentiated thyroid cancer

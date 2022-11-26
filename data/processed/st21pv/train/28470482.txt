@@ -1,0 +1,15 @@
+C0012780||Diterpenoids
+C2311252||Clerodendranthus spicatus
+C0012780||diterpenoids
+C0012780||neoorthosiphonones B
+C0012780||C
+C0012780||1
+C0012780||2
+C0012780||diterpenoid
+C1136056||aerial parts
+C2311252||Clerodendranthus spicatus
+C0678594||structures
+C0449830||configurations
+C0022885||spectroscopic analyses
+C0206755||X-ray crystallographic methods
+C0016055||fibronectin

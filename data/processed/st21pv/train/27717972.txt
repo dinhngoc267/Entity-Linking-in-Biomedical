@@ -1,0 +1,77 @@
+C0220825||Assessment
+C0035648||pathoanatomic risk factors
+C0447801||patellofemoral
+C0022410||instability
+C0008902||WARPS/STAID classification
+C0220825||assessment
+C1515021||subsets
+C0427262||patellofemoral instability
+C0008902||WARPS
+C0008902||STAID
+C0447801||patellofemoral
+C0022410||instability
+C0008902||WARPS/STAID classification
+C0282574||Banff Patella Instability Instrument
+C0282574||Banff Patella Instability Instrument
+C0282574||Marx activity scale
+C0030647||Patellar
+C0021504||Instability Severity Score
+C0021504||Instability Severity Score
+C0447801||patellofemoral
+C0022410||instability
+C0008902||WARPS
+C0008902||STAID subtype
+C1516606||Clinical data
+C0220825||assessment
+C0035648||risk factors
+C1305855||BMI
+C0238767||bilaterality
+C1457887||symptoms
+C0449642||affected
+C0015385||limb side
+C0856775||dislocation
+C0035648||pathoanatomic risk factors
+C0030647||patella
+C0441800||grade
+C4274287||trochlear dysplasia
+C1704258||rotational abnormalities
+C0040184||tibia
+C0015811||femur
+C0282574||Banff Patella Instability Instrument
+C0282574||Marx activity scale
+C0021504||Instability Severity Score
+C1443182||calculated
+C1516606||clinical assessment data
+C0008902||WARPS
+C0008902||STAID subtypes
+C0871472||t test
+C0035648||pathoanatomic risk factors
+C0021504||ISS scores
+C0008902||WARPS subtype
+C0856775||dislocation
+C0238767||bilaterality
+C0035648||Pathoanatomic risk factors
+C0008902||WARPS subtype
+C4274287||trochlear dysplasia
+C0158359||ligamentous laxity
+C1704258||rotational abnormalities
+C0871472||t test
+C0021504||Instability Severity Score
+C0008902||WARPS subtype
+C0008902||STAID subtype
+C0021504||ISS scores
+C0008972||study
+C0008902||WARPS
+C0008902||STAID
+C0447801||patellofemoral
+C0022410||instability
+C0449560||subtypes
+C0449560||subtypes
+C0021504||Instability Severity Score
+C0282574||BPII score
+C0282574||Marx activity scale
+C0008972||study
+C0008902||WARPS/STAID classification
+C0021504||Instability Severity Score
+C0447801||patellofemoral
+C0022410||instability

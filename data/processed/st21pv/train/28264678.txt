@@ -1,0 +1,56 @@
+C4288441||Passive case detection
+C0024530||malaria
+C0442726||detect
+C0562518||villages
+C0024530||malaria
+C0024530||malaria
+C0018017||Millennium Development Goal 6
+C0018104||Government
+C0024530||malaria
+C0454664||country's
+C0024530||malaria
+C0562518||village
+C2603343||study
+C4288441||passive case detection
+C4288441||passive case detection
+C0562518||village
+C0332167||high-risk areas of
+C0024530||malaria
+C0024530||malaria
+C0024530||malaria
+C0376691||programme
+C0021428||Malaria Information System
+C0021428||Malaria Information System
+C0024530||malaria
+C0562518||village
+C4288441||passive case detection
+C0562518||village
+C0018724||malaria workers
+C0018704||health facilities
+C0021428||Malaria Information System
+C0032148||Plasmodium species
+C0562518||villages
+C0700287||reporting
+C0562518||village
+C0032148||Plasmodium species
+C0562518||village
+C0024530||malaria
+C0032148||Plasmodium species
+C0024530||malaria
+C0032150||Falciparum
+C0032154||vivax
+C0439792||extend
+C0562518||villages
+C0024530||malaria
+C0205146||areas
+C2717999||insecticidal net
+C0027361||person
+C0596473||early diagnosis
+C0058108||Dihydro-artemisinin
+C0071105||piperaquine
+C1708063||first-line treatment
+C0024530||malaria
+C0071105||primaquine
+C0032154||Plasmodium vivax
+C0032154||P. vivax
+C0024530||malaria

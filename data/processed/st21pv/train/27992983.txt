@@ -1,0 +1,31 @@
+C0035648||Risk factors
+C4288963||hepatitis C virus infection
+C0206155||Caribbean coast
+C0007328||case-control study
+C0027361||people
+C0439663||infected
+C0220847||hepatitis C virus
+C0023122||Latin America
+C2363964||antiviral treatment
+C2603343||Studies
+C3245499||Colombia
+C0012634||disease
+C1257890||groups
+C3714514||infection
+C0035648||risk factors
+C0524910||chronic hepatitis C
+C0206155||Caribbean coast
+C0007328||case-control study
+C0018724||health care provider
+C0033137||primary care level
+C0017163||gastroenterology
+C0086403||hepatology
+C0086751||outpatient services
+C1446409||positive
+C0014441||ELISA
+C3714514||infection
+C0005841||Blood transfusion
+C0551576||history of hospitalization
+C3714514||infection
+C2603343||studies
+C2348164||new screening strategies

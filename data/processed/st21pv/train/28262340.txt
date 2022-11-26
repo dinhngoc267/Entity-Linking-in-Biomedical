@@ -1,0 +1,39 @@
+C0026882||Gain-of-function mutation
+C1419864||SCN5A
+C0085612||ventricular arrhythmias
+C1833334||early onset
+C0004238||atrial fibrillation
+C0026882||Mutations
+C1419864||SCN5A
+C0017337||gene
+C0018787||cardiac
+C0037492||sodium channel (NaV1.5)
+C0003811||cardiac arrhythmia disorders
+C2603343||study
+C0013331||Dutch
+C0085612||ventricular arrhythmias
+C0232164||heart function
+C1833334||early onset
+C0004238||atrial fibrillation
+C0162326||sequencing
+C0013331||Dutch
+C0599155||missense mutation
+C1419864||SCN5A-(p.M1851V)
+C0553257||kidney cells
+C0040669||transfected
+C0596988||mutant
+C1419864||wild-type Nav1.5
+C0037492||SCN5A-M1851V channels
+C1446409||positive
+C0039705||TTX
+C0037492||SCN5A-M1851V channels
+C0037492||SCN5A-M1851V channels
+C0205160||negative
+C0026882||mutation
+C0037492||channel
+C0085612||ventricular arrhythmias
+C0004238||atrial fibrillation
+C0243095||findings
+C0003811||cardiac arrhythmias
+C0026882||mutations
+C1419864||SCN5A

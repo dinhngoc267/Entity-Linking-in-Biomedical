@@ -1,0 +1,42 @@
+C0071443||polylactic acid
+C0071443||polylactic acid
+C0032623||poly(vinyl alcohol)
+C0032623||poly(vinyl alcohol)
+C0005479||inserts
+C0015392||ocular
+C0042444||drug delivery vehicles
+C0005479||inserts
+C0032521||polymeric
+C0005479||inserts
+C0032521||solvent cast polymeric inserts
+C0015392||ocular
+C0085104||drug delivery
+C0032521||SCI
+C0011777||dexamethasone
+C0071443||poly-lactic acid
+C0071443||polylactic acid
+C0032623||poly-vinyl alcohol
+C0032623||poly(vinyl alcohol)
+C0005479||Inserts
+C0012426||dimethylformamide
+C0012426||dimethylformamide
+C0008238||chloroform
+C0596402||cytotoxicity
+C0011777||dexamethasone
+C0518031||folding endurance
+C0032521||solvent cast polymeric inserts
+C3810845||brittle
+C0032521||solvent cast polymeric inserts
+C0012426||dimethylformamide
+C0032521||solvent cast polymeric inserts
+C0008238||chloroform
+C0442737||not detected
+C1513916||No
+C0596402||cytotoxicity
+C0007635||cultured
+C3667982||bovine
+C0225336||corneal endothelial cells
+C0032521||solvent cast polymeric inserts
+C0085104||delivery system
+C0348014||anterior segment
+C0015397||ocular diseases

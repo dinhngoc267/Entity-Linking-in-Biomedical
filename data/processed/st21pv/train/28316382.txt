@@ -1,0 +1,38 @@
+C1001173||Punica granatum
+C0016767||fruit peel
+C0017757||glucose-6-phosphate dehydrogenase
+C0024544||malate dehydrogenase
+C0684063||amphistome
+C3006520||Gastrothylax indicus
+C0003158||anthelmintic
+C0013203||resistance
+C0003158||anthelmintics
+C0014406||environment
+C0018893||helminth parasite
+C0036945||sheep
+C0014442||lipogenic enzymes
+C0017757||glucose-6-phosphate dehydrogenase
+C0017757||glucose-6-phosphate dehydrogenase
+C0024544||malate dehydrogenase
+C0024544||malate dehydrogenase
+C3893246||subcellular
+C0449775||distribution pattern
+C0243102||Activity
+C0017757||glucose-6-phosphate dehydrogenase
+C1511625||cytosolic fraction
+C0024544||malate dehydrogenase
+C1511625||cytosolic
+C0026237||mitochondrial fraction
+C3006520||Gastrothylax indicus
+C0001962||ethanolic
+C1001173||Punica granatum
+C0016767||fruit peel
+C0003158||anthelmintic
+C0001911||albendazole
+C0017757||glucose-6-phosphate dehydrogenase
+C0243102||activity
+C0024544||malate dehydrogenase
+C0001911||Albendazole
+C0577749||phytochemicals
+C0032098||plant
+C0003158||vermifuge

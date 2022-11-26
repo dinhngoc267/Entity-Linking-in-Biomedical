@@ -1,0 +1,28 @@
+C0041618||Ultrasonography
+C0003615||acute appendicitis
+C0031809||physical examination
+C0022885||laboratory support
+C0011900||diagnosis
+C0003615||acute appendicitis
+C0003611||negative appendectomy
+C0041618||ultrasonography
+C0041618||ultrasonography
+C0086143||diagnostic method
+C0011906||differential diagnoses
+C0034036||publications
+C3179130||multidetector computed tomography
+C3179130||computed tomography
+C0205558||false negative findings
+C0543467||operation
+C0441485||uncritical application
+C0418228||radiation exposure
+C0041618||ultrasonography
+C0564559||egocentric
+C0041618||ultrasonography
+C3179130||computed tomography
+C0003615||acute appendicitis
+C0041618||US with graded compression
+C0011900||diagnosing
+C0003615||acute appendicitis
+C0003808||arousal
+C0008964||clinical medicine

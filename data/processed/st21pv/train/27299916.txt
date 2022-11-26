@@ -1,0 +1,43 @@
+C0020792||Identification
+C0220825||Evaluation
+C0062496||Hemozoin
+C0005029||Benzamides
+C0032150||Plasmodium falciparum
+C0034423||Quinoline
+C0003374||antimalarials
+C0062496||hemozoin
+C4055506||accumulation
+C0015877||ferriprotoporphyrin IX
+C0015877||Fe(III)PPIX
+C3161035||models
+C0062496||β-hematin
+C0030498||parasite
+C1148560||cellular mechanisms
+C0456387||compound class
+C0243095||investigations
+C0062496||hemozoin
+C1254351||chemotypes
+C0053139||benzamide
+C0002776||analogues
+C2718003||HTS
+C0243072||derivatives containing an electron deficient aromatic ring
+C0026377||flat conformations
+C0015877||Fe(III)PPIX
+C0062496||β-hematin
+C0002776||analogues
+C0030498||parasite
+C0008269||CQ
+C2363980||cross-resistance
+C0596402||cytotoxicity
+C0002776||analogues
+C0062496||hemozoin
+C0032150||Plasmodium falciparum
+C0018966||heme
+C0034424||quinolines
+C0053139||benzamide
+C4055506||accumulation
+C0030498||parasite
+C1148616||heme binding
+C0018966||heme
+C0007613||cellular accumulation
+C0003374||antimalarials

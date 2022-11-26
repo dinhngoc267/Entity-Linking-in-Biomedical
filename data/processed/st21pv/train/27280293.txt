@@ -1,0 +1,55 @@
+C3494293||Spatio-Temporal History
+C0001732||Afghanistan
+C0022065||Iran
+C0019704||HIV-1 Circulating Recombinant Form 35_AD
+C0014507||epidemiological
+C0001732||Afghanistan
+C0022065||Iran
+C0001732||Afghanistan
+C0022065||Iran
+C0004793||gag and pol sequences
+C3829256||Los Alamos
+C0950132||HIV database
+C0004793||sequences
+C0022065||Iran
+C0004793||sequences
+C0001732||Afghanistan
+C0004793||pol sequence
+C0041703||USA
+C0002045||Bayesian Markov Chain Monte Carlo algorithm
+C0037585||BEAST v1.8.1
+C0034980||Bayesian stochastic search variable selection method
+C0004793||sequences
+C0004793||parental sequences
+C0022558||Kenya
+C0041573||Uganda
+C0004793||sequences
+C0001732||Afghan
+C0034961||refugees
+C0030211||Pakistan
+C0001732||Afghan
+C0022065||Iranian
+C0004793||sequences
+C0042776||virus
+C0001732||Afghanistan
+C0022065||Iran
+C0001732||Afghanistan
+C0022065||Iran
+C0277548||epidemic
+C0004793||sequences
+C0001732||Afghan
+C0034961||refugees
+C0337646||living in
+C0030211||Pakistan
+C0001732||Afghan
+C0022065||Iranian
+C0004793||sequence
+C0041703||USA
+C0022558||Kenyan
+C0004793||sequences
+C0042776||viral
+C0001732||Afghanistan
+C0022065||Iran
+C0001732||Afghan
+C0034961||refugees
+C0022065||Iran

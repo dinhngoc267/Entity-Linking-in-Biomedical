@@ -1,0 +1,32 @@
+C0162340||Understanding
+C0220781||synthesis
+C0041942||urea
+C0017715||gluconeogenesis
+C0597619||ureagenesis
+C0017715||gluconeogenesis
+C0449379||link
+C0597619||ureagenesis
+C0017715||gluconeogenesis
+C0449445||guided approach
+C0038492||students
+C0033213||problem
+C0567415||atoms
+C1660642||cellular localizations
+C1519628||transport
+C0039712||textbooks
+C0684224||report
+C0597619||ureagenesis
+C0017715||gluconeogenesis
+C0025519||metabolism
+C0026376||molecular biology
+C0086345||molecular genetics
+C1706852||paper
+C0038492||students
+C0567415||atoms
+C0597619||ureagenesis
+C0017715||gluconeogenesis
+C0041942||urea
+C0017725||glucose
+C0038492||students
+C0221457||teachers
+C0025519||metabolism

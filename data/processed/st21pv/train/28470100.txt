@@ -1,0 +1,33 @@
+C0113293||Dexmedetomidine
+C0920253||Emergence Agitation
+C0011206||Delirium
+C2111384||Laparoscopic Hernia Repair
+C2603343||Study
+C0113293||dexmedetomidine
+C0113293||dexmedetomidine
+C0920253||emergence agitation
+C0920253||emergence agitation
+C0011206||delirium
+C0011206||ED
+C2111384||laparoscopic hernia repair
+C0002915||general anesthesia
+C0034656||randomized
+C0348016||intravenous
+C0113293||dexmedetomidine
+C0113293||dexmedetomidine
+C0574032||infusion
+C4049933||anesthesia
+C0920253||emergence agitation
+C0011206||ED
+C0282574||5-point scale
+C0920253||emergence agitation
+C0011206||ED
+C1504479||CHIPPS
+C0074414||sevoflurane
+C0024861||mask
+C1882151||spontaneous eye opening
+C0034871||PACU
+C0920253||emergence agitation
+C0030201||pain
+C0074414||sevoflurane
+C0113293||dexmedetomidine

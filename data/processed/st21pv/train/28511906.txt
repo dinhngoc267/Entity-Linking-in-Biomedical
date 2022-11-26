@@ -1,0 +1,33 @@
+C1148560||anti-tumor activity
+C2603343||study
+C1512474||histone deacetylase inhibitors
+C0022115||isatin
+C0043796||o-phenylenediamine
+C1655731||epigenetic studies
+C0019643||histone deacetylases
+C0019643||histone deacetylases
+C0012634||diseases
+C0027651||cancer
+C0035168||researches
+C0019643||HDAC isoforms
+C1512474||HDAC inhibitors
+C0022115||isatin
+C0043796||o-phenylenediamine
+C0022885||scaffold hopping strategy
+C1706082||compounds
+C1706082||compound 9n
+C0019643||HDAC
+C1524081||inhibition
+C1148560||antiproliferative activities
+C0085983||tumor cell lines
+C2743752||entinostat
+C1510480||MS-275
+C1510480||MS-275
+C2718309||HDAC1
+C0768528||2
+C1098658||3
+C1706082||compound 9n
+C2718309||HDAC1
+C0768528||2
+C1098658||3
+C2718309||HDAC1

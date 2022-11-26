@@ -1,0 +1,73 @@
+C0034802||EGFR
+C0069515||HER2
+C0006142||breast cancer
+C0007608||cell motility
+C0287920||signal transducer and activator of transcription 1
+C2716282||ACTA2
+C0034802||EGFR
+C0069515||HER2
+C0033325||prognosis
+C2699153||cell invasion
+C0034802||EGFR
+C0006142||breast cancer
+C1171362||expressions
+C2716282||alpha-smooth muscle actin
+C2716282||ACTA2
+C0287920||signal transducer and activator of transcription 1
+C0287920||signal transducer and activator of transcription 1
+C1514559||overexpression
+C0069515||HER2
+C0034802||EGFR
+C1446409||positive
+C0006142||breast cancer
+C0007634||cells
+C2716282||ACTA2
+C0287920||signal transducer and activator of transcription 1
+C1171362||expression
+C0069515||HER2
+C1446409||positive
+C0006142||breast cancer
+C2716282||ACTA2
+C1171362||expression
+C1099354||HER2 siRNA
+C0287920||signal transducer and activator of transcription 1
+C2716282||ACTA2
+C1171362||expression
+C2716282||ACTA2
+C1171362||expression
+C0087111||treatment
+C1254351||STAT1 inhibitor
+C0059985||fludarabine
+C1254351||JAK2 inhibitor
+C0381241||AG490
+C2716282||ACTA2
+C1171362||expression
+C0287920||signal transducer and activator of transcription 1
+C1514559||overexpression
+C2716282||ACTA2
+C0287920||signal transducer and activator of transcription 1
+C0069515||HER2
+C0332167||high-risk
+C0006142||breast cancer
+C2716282||ACTA2
+C0007608||cell motility
+C2930586||ACTA2 shRNA
+C1514559||overexpression
+C1512505||MDA-MB231
+C0069515||HER2
+C1512505||4T1 mammary carcinoma cells
+C0034079||lung metastatic nodules
+C2716282||ACTA2
+C0206745||knockdown mice
+C2716282||ACTA2
+C0034802||EGFR
+C0069515||HER2
+C0169661||JAK2
+C0287920||signal transducer and activator of transcription 1
+C0037080||signaling pathway
+C2716282||ACTA2
+C1171362||expression
+C0027626||invasiveness
+C0027627||metastasis
+C0006142||breast cancer
+C0007634||cells

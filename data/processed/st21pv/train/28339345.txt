@@ -1,0 +1,59 @@
+C0001899||Alanine Aminotransferase
+C0005516||Marker
+C0039082||Lipotoxicity
+C1299574||Hyperandrogenemia
+C0043210||Women
+C0032460||Polycystic Ovary Syndrome
+C2603343||studies
+C0001899||Alanine aminotransferase
+C0001899||Alanine aminotransferase
+C0043210||women
+C0032460||polycystic ovary syndrome
+C0032460||polycystic ovary syndrome
+C1272112||Plasma ALT levels
+C0005516||marker
+C0205054||hepatic
+C0039082||lipotoxicity
+C0205054||hepatic
+C0015695||hepatic steatosis
+C0205054||hepatic
+C0021655||insulin resistance
+C0282574||Retrospective chart
+C0032460||polycystic ovary syndrome
+C0043210||women
+C1272112||ALT levels
+C0039082||lipotoxicity
+C0428568||fasting
+C0029161||oral glucose tolerance test
+C0043210||Women
+C0032460||polycystic ovary syndrome
+C1305855||body mass index
+C0039082||metabolic syndrome
+C0039082||metabolic syndrome
+C1272112||ALT levels
+C3639411||homeostatic model assessment for insulin resistance
+C0023822||HDL-C
+C0918012||Matsuda index
+C0430022||insulin secretion-sensitivity index-2
+C0443483||free testosterone
+C1261430||fasting glucose
+C0428475||triglyceride levels
+C0001899||Alanine aminotransferase
+C1261430||fasting glucose
+C0428475||triglyceride levels
+C0043210||women
+C0039082||metabolic syndrome
+C0021655||whole-body insulin resistance
+C0918012||Matsuda index
+C1272112||Plasma ALT levels
+C0023884||liver
+C0039082||lipotoxicity
+C0039082||systemic lipotoxic
+C1299574||hyperandrogenemia
+C0043210||women
+C0032460||polycystic ovary syndrome
+C1519941||validation
+C2603343||study
+C0001899||Alanine aminotransferase
+C0871685||clinicians
+C0043210||women

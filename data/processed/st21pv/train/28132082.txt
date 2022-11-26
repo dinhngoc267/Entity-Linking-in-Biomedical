@@ -1,0 +1,75 @@
+C0085149||tacrolimus
+C0024128||lung transplantation
+C0160420||kidney injury
+C0024109||Lung
+C2609414||acute kidney injury
+C2609414||acute kidney injury
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C0021081||immunosuppressant
+C0085149||tacrolimus
+C2609414||acute kidney injury
+C2004454||recovery
+C0160420||kidney injury
+C0024128||lung transplantation
+C2609414||acute kidney injury
+C0370231||whole-blood
+C0085149||tacrolimus
+C0160420||kidney injury
+C0035363||retrospectively studied
+C0160420||kidney injury
+C0024128||lung-transplantation
+C1708333||UMC Utrecht
+C0232804||Kidney function
+C0370231||whole-blood
+C0085149||tacrolimus
+C0242966||Systemic inflammatory response syndrome
+C0242966||Systemic inflammatory response syndrome
+C0036983||septic shock
+C4284232||medications
+C2609414||acute kidney injury
+C0160390||liver injury
+C0687133||drug-drug interactions
+C2609414||acute kidney injury
+C0150312||present
+C0085149||Tacrolimus
+C4049341||supra-therapeutic
+C2609414||acute kidney injury
+C0024128||transplantation
+C4049341||supra-therapeutic
+C0085149||tacrolimus
+C3687832||nephrotoxic drugs
+C3714514||infection
+C0010674||cystic fibrosis
+C2609414||acute kidney injury
+C1561643||chronic kidney disease
+C0024128||lung transplantation
+C2609414||acute kidney injury
+C1561643||chronic kidney disease
+C4049341||Supra-therapeutic
+C0370231||whole-blood
+C0085149||tacrolimus
+C2609414||acute kidney injury
+C0580939||Conscientious
+C0085149||tacrolimus
+C0024128||lung transplantation
+C0024109||Lung
+C2609414||acute kidney injury
+C1561643||chronic kidney disease
+C0160420||kidney injury
+C0024128||lung transplantation
+C0021081||immunosuppressant
+C0085149||tacrolimus
+C0443343||unstable
+C4049341||supra-therapeutic
+C0370231||whole-blood
+C0085149||tacrolimus
+C2609414||acute kidney injury
+C0024128||lung transplantation
+C4049341||Supra-therapeutic
+C0370231||whole-blood
+C0085149||tacrolimus
+C0024128||lung transplantation
+C2609414||acute kidney injury
+C0024128||lung transplantation
+C2004454||recovery

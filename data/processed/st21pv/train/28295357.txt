@@ -1,0 +1,37 @@
+C0936012||Analysis
+C0013879||Elemental
+C0262950||Decomposing Bone
+C0031928||pilot study
+C0486616||compositional
+C0262950||bone
+C0013879||Elemental
+C0004749||barium
+C0006675||calcium
+C0302583||iron
+C0032821||potassium
+C0024467||magnesium
+C0043481||zinc
+C0031705||phosphorus
+C0039005||porcine
+C0262950||bone
+C0243071||analog
+C0086418||human
+C0262950||bone
+C0936012||analyzed
+C0039005||porcine
+C0262950||bone
+C0825429||surface
+C1444656||indicated
+C0013879||elemental
+C0022885||forensic test
+C0225317||soft tissue
+C0333532||putrefaction
+C0302583||iron
+C0037473||sodium
+C0032821||potassium
+C0150312||found
+C0013879||elements
+C0033684||proteins
+C0162367||tissue fluids
+C0262950||bone
+C1963090||dehydration

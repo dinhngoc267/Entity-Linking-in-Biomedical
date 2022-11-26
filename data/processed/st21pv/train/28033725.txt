@@ -1,0 +1,20 @@
+C0220847||hepatitis C virus
+C0449560||subtypes
+C0030211||Pakistan
+C0449560||subtypes
+C0220847||hepatitis C virus
+C0220847||hepatitis C virus
+C0449560||subtypes
+C0030211||Pakistan
+C2603343||study
+C0151317||chronically infected
+C0220847||hepatitis C virus
+C0042749||viremia
+C0220847||hepatitis C virus
+C0220847||hepatitis C virus
+C0449560||subtypes
+C0005507||assay
+C0206416||primers
+C0449560||subtypes
+C0220847||hepatitis C virus
+C0449560||subtypes

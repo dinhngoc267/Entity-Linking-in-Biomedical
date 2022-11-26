@@ -1,0 +1,24 @@
+C0018787||heart
+C0032319||Pneumopericardium
+C0678236||rare disease
+C0150312||presence
+C0017110||gas
+C0031050||pericardial sac
+C0039980||chest trauma
+C0004760||barotrauma
+C0016169||fistulas
+C0031050||pericardium
+C1282914||surrounding
+C0678594||structures
+C0031050||pericardial sac
+C0032319||pneumopericardium
+C0150312||presence
+C0031050||pericardium
+C0007177||cardiac tamponade
+C2826244||life-threatening
+C0019010||hemodynamic
+C0150312||present
+C1186133||bronchopericardial
+C0016169||fistula
+C0018790||cardiac arrest
+C0018787||heart

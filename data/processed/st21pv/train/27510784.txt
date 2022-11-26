@@ -1,0 +1,51 @@
+C0185125||Application
+C0026882||mutation
+C0021044||immunohistochemistry
+C0011900||diagnosis
+C0238198||gastrointestinal stromal tumors
+C0220825||evaluate
+C0002085||allele
+C0003241||antibody
+C0011900||diagnosis
+C0238198||gastrointestinal stromal tumors
+C0238198||gastrointestinal stromal tumors
+C0026882||mutation
+C0021044||immunohistochemistry
+C0812241||BRAF
+C0238198||gastrointestinal stromal tumors
+C1511353||KIT
+C1518782||PDGFRA mutations
+C1416655||KIT
+C1705319||PDGFRA wild
+C0238198||gastrointestinal stromal tumors
+C0238198||gastrointestinal stromal tumors
+C0025266||men
+C0043210||women
+C0027651||tumors
+C0038351||stomach
+C0021852||small bowel
+C1704247||peritoneal cavity
+C0205219||diffuse
+C0521449||cytoplasmic
+C1259929||BRAF
+C1704680||staining
+C1704680||staining
+C1704680||staining
+C1259929||BRAF
+C0038128||immunostain
+C1511021||BRAF mutations
+C0038351||stomach
+C0021852||small intestine
+C0027651||tumors
+C1335499||progressive disease
+C1511021||BRAF mutations
+C0442726||detected
+C0205160||negative
+C1259929||BRAF
+C0038128||immunostain
+C0026882||mutation
+C0021044||immunohistochemistry
+C0005516||marker
+C0442726||detecting
+C1511021||BRAF-mutated
+C0238198||gastrointestinal stromal tumors

@@ -1,0 +1,69 @@
+C0008976||trial
+C0036983||septic shock
+C0034656||randomized
+C1271494||goal-directed fluid-sparing strategy
+C0008976||SQUEEZE
+C2348563||study protocol
+C0206035||pilot randomized controlled trial
+C0036983||septic shock
+C0035273||resuscitation
+C0162791||guidelines
+C1708333||American College of Critical Care Medicine
+C1271494||goal-directed administration
+C0442123||intravascular
+C0005889||fluid
+C0013227||medication
+C0574032||infusions
+C0349412||fluid-refractory shock
+C4055506||accumulating
+C0522792||fluid administration
+C1457868||worse
+C2749787||increased risk of death
+C0442123||intravascular
+C0005889||fluid
+C0036983||septic shock
+C0035273||resuscitation
+C0008976||SQUEEZE Pilot Trial
+C0242481||two-arm
+C2826345||parallel-group
+C1709323||open-label
+C0206035||prospective pilot randomized controlled trial
+C0679646||Participants
+C0750484||confirmed
+C0036983||septic shock
+C0035273||resuscitation
+C0679646||participants
+C1516879||enrolled
+C0035273||Fluid Sparing (intervention) resuscitation strategy
+C0018017||objective
+C0008976||pilot trial
+C0015730||feasibility
+C1516879||enroll
+C0679646||participants
+C2348563||study protocol
+C0679646||participant
+C1516879||enrollment
+C0679646||participants
+C0205145||site
+C1516879||enrollment
+C0018017||objectives
+C0206012||multisite trial
+C0008972||nested translational study
+C0008972||SQUEEZE-D
+C0015730||feasibility
+C4289789||cell-free DNA
+C1292267||procoagulant molecule
+C0220901||prognostic utility
+C0178913||blood samples
+C1516879||enrolled
+C0008976||SQUEEZE Pilot Trial
+C0005889||fluid
+C0035273||resuscitation
+C0036983||septic shock
+C0033522||prospective study
+C1522634||question
+C0006823||Canada
+C0008976||SQUEEZE Pilot Trial
+C0243095||Findings
+C0015730||feasibility
+C0206012||multicenter trial

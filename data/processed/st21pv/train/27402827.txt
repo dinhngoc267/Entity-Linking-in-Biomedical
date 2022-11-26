@@ -1,0 +1,66 @@
+C4255015||Wnt-5a
+C1438694||Frizzled9
+C1514762||receptor signaling
+C3884317||Gαo
+C0596637||Gβγ complex
+C1327622||regulates
+C0872341||dendritic spine
+C0007613||formation
+C0033684||Wnt ligands
+C1325905||regulation of synapse structure and function
+C4255015||Wnt-5a
+C0018284||secreted growth factor
+C1327622||regulates
+C0872341||dendritic spine
+C0007613||formation
+C0035804||rodent
+C0019564||hippocampal
+C0027882||neurons
+C1167384||postsynaptic
+C3269066||clustering of the postsynaptic density protein-95 (PSD-95)
+C0872079||interaction
+C4255015||Wnt-5a
+C1564903||Frizzled receptor
+C0027882||neuronal
+C0699040||cell surface
+C0752348||heterotrimeric G proteins
+C4255015||Wnt-5a
+C0039063||synaptic
+C1438694||Frizzled9
+C1438694||Frizzled9
+C4255015||Wnt
+C1564903||receptor
+C0175702||Williams' syndrome
+C0872079||interacts
+C4255015||Wnt-5a
+C1438694||Frizzled9
+C4255015||Wnt-5a
+C0872341||dendritic spine density
+C1438694||Frizzled9
+C3893600||pre-coupled complex
+C3884317||Gαo
+C0301643||dissociates
+C4255015||Wnt-5a
+C1148560||stimulation
+C0007613||G-protein inhibition abrogates
+C4255015||Wnt-5a
+C1704259||pathway
+C0019564||hippocampal
+C0027882||neurons
+C3884317||Gαo
+C4255015||Wnt-5a
+C0872341||dendritic spine density
+C0596637||Gβγ
+C4255015||Wnt-5a
+C1383501||cytosolic
+C0006675||calcium
+C0007613||spinogenesis
+C1438694||Frizzled9
+C0752348||heterotrimeric G proteins
+C1327622||regulate
+C4255015||Wnt-5a
+C0037080||signaling
+C0872341||dendritic spines
+C0007635||cultured
+C0019564||hippocampal
+C0027882||neurons

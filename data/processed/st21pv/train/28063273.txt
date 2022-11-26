@@ -1,0 +1,32 @@
+C0001549||compensation
+C0016928||gait
+C0085684||drop foot
+C0085684||Drop foot
+C0039082||syndrome
+C0022417||joints
+C0026845||muscles
+C1704258||Abnormalities
+C0427096||movement patterns
+C0752188||motion capture techniques
+C0001549||compensation
+C0085684||drop foot
+C0008972||study
+C3874714||gait analysis system
+C1708335||healthy subjects
+C0427122||falling
+C1257890||groups
+C0008972||study
+C0600169||kinematic parameters
+C0427122||falling
+C3494293||spatiotemporal parameters
+C0600169||kinematic
+C3494293||spatiotemporal parameters
+C0016928||gait pattern
+C1257890||groups
+C0521654||motor deficits
+C0085684||drop foot
+C0600169||kinematic
+C0016928||gait
+C0001549||compensation
+C0026649||movement
+C0003087||ankle joint

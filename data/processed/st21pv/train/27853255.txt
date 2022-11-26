@@ -1,0 +1,34 @@
+C3161472||cell membrane
+C0003075||anion
+C0003075||anion
+C0025256||membrane
+C0003075||anion
+C0003075||anion
+C0025256||membranes
+C3252413||polydopamine
+C3252413||polydopamine
+C0162969||N-O-sulfonic acid benzyl chitosan
+C0162969||N-O-sulfonic acid benzyl chitosan
+C0205102||innermost
+C0205101||outermost
+C3252413||polydopamine
+C0444598||middle
+C0162969||N-O-sulfonic acid benzyl chitosan
+C0206055||Fourier transform infrared spectroscopy
+C0026020||scanning electron microscopy
+C3252413||polydopamine
+C0162969||N-O-sulfonic acid benzyl chitosan
+C0025256||membranes
+C0025256||membranes
+C0596019||Cl(-)
+C3536965||SO4(2-)
+C0003075||anion
+C0596019||Cl(-)
+C3536965||SO4(2-)
+C0025256||membranes
+C0025256||commercial membrane
+C0025256||membranes
+C0142877||Sodium dodecyl benzene sulfonate
+C0142877||Sodium dodecyl benzene sulfonate
+C0025256||membrane
+C0025256||modified membrane

@@ -1,0 +1,50 @@
+C0041618||Ultrasonography
+C0024485||magnetic resonance imaging
+C0220825||evaluation
+C0266498||spinal anomalies
+C0080178||Spinal dysraphisms
+C0000768||congenital abnormalities
+C0037949||spine
+C0549183||midline
+C0678594||structures
+C0011923||Imaging
+C0220825||evaluation
+C0000768||anomalies
+C0035110||repeat surgeries
+C2603343||study
+C0220825||evaluate
+C0080178||Spinal dysraphisms
+C0041618||USG
+C0024485||MRI
+C0011923||imaging
+C0543467||surgery
+C0019994||Hospital
+C1518527||observational study
+C0080178||spinal dysraphism
+C0041618||USG
+C0220825||evaluation
+C0024485||MRI
+C0041618||USG
+C0024485||MRI
+C3274571||follow up
+C0150270||operative management
+C0936012||analysed
+C0080178||spinal dysraphism
+C0175566||open
+C0521329||spinal
+C0041618||USG
+C0024485||MRI
+C0582103||examinations
+C0041618||USG
+C0750484||confirmatory
+C0024485||MRI
+C0750484||confirmatory
+C0041618||USG
+C0220825||evaluation
+C0080178||spinal dysraphism
+C1710032||screening
+C0024485||MRI
+C0205161||abnormal
+C0041618||USG
+C0000768||abnormalities
+C0599880||surgical planning

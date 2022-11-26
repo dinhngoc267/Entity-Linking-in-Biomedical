@@ -1,0 +1,57 @@
+C0032521||Polymeric
+C0027651||Tumor
+C0920677||Targeted Delivery
+C3179230||Antiangiogenic
+C0017337||Gene
+C0028606||Nucleic acid-based
+C0087111||therapy
+C0012634||diseases
+C0033684||protein
+C0920677||synthetic delivery systems
+C0012854||DNA-based
+C0087111||therapy
+C3178923||chemistry-based strategies
+C0920677||gene delivery formulations
+C0184511||improved
+C0012854||DNA
+C1511131||enzymatic
+C0314674||degradation
+C0014406||milieu
+C1753315||prolonged retention
+C0032136||plasmid DNA
+C0032136||plasmid DNA
+C0007447||cationic
+C0032426||poly(lysine)
+C0032521||polyplex
+C0205102||interior
+C0032136||plasmid DNA
+C0030012||redox
+C0012771||disulfide
+C0032521||polyplex
+C1148560||exchange reaction
+C0022023||charged components
+C0032136||plasmid DNA
+C0071490||poly(N-isopropylacrylamide)
+C0005479||biocompatible
+C0032483||poly(ethylene glycol)
+C0032483||poly(ethylene glycol)
+C1705920||species
+C0597094||nuclease
+C0032136||plasmid DNA
+C0220825||investigations
+C0005767||blood
+C0268000||retention
+C0025663||method
+C0087111||therapy
+C1685100||ligand cyclic (Arg-Gly-Asp) peptide
+C0032483||poly(ethylene glycol)
+C0027651||tumor
+C0017262||gene expression
+C3179230||antiangiogenic
+C0017337||gene
+C0597032||tumor cells
+C0015264||exerting
+C3179230||antiangiogenesis
+C0027651||tumors
+C0920677||gene delivery system
+C0012634||diseases

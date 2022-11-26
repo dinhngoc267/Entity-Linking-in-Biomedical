@@ -1,0 +1,100 @@
+C1257868||Yersinia ruckeri
+C3494793||Isolates
+C0012634||Diseased
+C0327949||Atlantic Salmon
+C0327949||Salmo salar
+C0036453||Scotland
+C0036108||Rainbow Trout
+C0036108||Oncorhynchus mykiss
+C1257890||Subpopulations
+C1257868||Yersinia ruckeri
+C0275759||enteric redmouth
+C0275759||enteric redmouth
+C0012634||disease
+C0036129||salmonids
+C0275759||Enteric redmouth disease
+C0036108||rainbow trout
+C0036108||Oncorhynchus mykiss
+C0036108||Walbaum
+C0327949||Atlantic salmon
+C0327949||Salmo salar
+C1257868||Yersinia ruckeri
+C3494793||isolates
+C0012634||diseased
+C0327949||Atlantic salmon
+C3494793||isolates
+C1705920||species
+C1257868||Y. ruckeri
+C3494793||isolates
+C0439663||infected
+C0327949||Atlantic salmon
+C0036453||Scotland
+C3494793||isolates
+C0439663||infected
+C0036108||rainbow trout
+C0441707||Biotyping
+C0036759||serotyping
+C1167331||outer membrane
+C3463810||protein profiles
+C1257868||Y. ruckeri
+C1522642||clones
+C0327949||Atlantic salmon
+C0036108||rainbow trout
+C0327949||Atlantic salmon
+C1522642||clones
+C0036108||rainbow trout
+C0243095||findings
+C1257890||subpopulations
+C1257868||Y. ruckeri
+C1705920||species
+C0449549||O serotype
+C0449562||56 biotype 1
+C0327949||Atlantic salmon
+C3494793||isolates
+C0449943||serotype
+C0036108||Rainbow trout
+C3494793||isolates
+C0449562||biotype 2
+C0449549||serotype O1
+C0275759||enteric redmouth
+C1705920||species
+C0041700||United Kingdom
+C0449562||biotype 2
+C0449549||serotype O8
+C3494793||isolates
+C0036108||rainbow trout
+C0042210||vaccines
+C0449549||serotypes O1 and O8
+C0036108||rainbow trout
+C0327949||Atlantic salmon
+C0036453||Scotland
+C0042196||Vaccination
+C0327949||Atlantic salmon
+C0004611||bacterial
+C1257868||Yersinia ruckeri
+C0042210||vaccine
+C0036110||salmon
+C0042210||vaccines
+C0036108||rainbow trout
+C0449943||serotypes
+C1705920||species
+C0449943||serotypes
+C3714514||infection
+C0327949||Atlantic salmon
+C0327949||strains
+C0036108||rainbow trout
+C1257868||Y. ruckeri
+C3494793||isolates
+C0012634||diseased
+C0327949||Atlantic salmon
+C0036453||Scotland
+C0036108||rainbow trout
+C3494793||isolates
+C1705920||species
+C1257890||subpopulations
+C0449549||O serotype
+C0012634||disease
+C0327949||Atlantic salmon
+C0243095||findings
+C0597634||development of improved vaccines
+C1257868||Y. ruckeri

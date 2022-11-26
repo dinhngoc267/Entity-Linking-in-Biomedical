@@ -1,0 +1,54 @@
+C1435644||Renieramycin M
+C1956422||Cancer Stem Cell
+C0597032||H460
+C0024109||Lung
+C0597032||Cancer Cells
+C1956422||Cancer stem cells
+C1956422||Cancer stem cells
+C0597032||cancer cells
+C1155711||self-renewal
+C0007589||differentiation
+C1956422||Cancer stem cells
+C0013203||drug-resistance
+C4255448||metastasis
+C1956422||CSC
+C0087111||therapeutic strategies
+C1516225||cancer research
+C2603343||study
+C1435644||renieramycin M
+C1435644||renieramycin M
+C0032699||sponge
+C1204055||Xestospongia species
+C0332128||examined
+C0024109||lung
+C1956422||Cancer stem cells
+C0005507||Colony and spheroid formation assays
+C0005863||western blotting analysis
+C0024109||lung
+C1956422||CSC
+C0033684||protein
+C0041365||markers
+C1956422||CSC
+C0597032||H460
+C0024109||lung
+C0597032||cancer cells
+C0087111||treatment
+C1435644||renieramycin M
+C1435644||renieramycin M
+C0087111||treatment
+C0005507||colony and spheroid formation
+C0597032||H460 cells
+C1956422||CSC
+C0041365||markers
+C0673026||CD133
+C1097299||CD44
+C1721673||ALDH1A1
+C1956422||CSC
+C0597032||H460 cells
+C1435644||renieramycin M
+C0087111||treatment
+C1435644||renieramycin M
+C1516021||anti-metastatic agent
+C0024109||lung
+C1956422||CSC
+C0597032||H460 cells

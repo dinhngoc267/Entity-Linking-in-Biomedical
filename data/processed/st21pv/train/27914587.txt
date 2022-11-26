@@ -1,0 +1,46 @@
+C0087111||chest wall resections
+C1261473||sarcoma
+C1290309||Chest wall tumors
+C2603343||study
+C0087111||chest wall resections
+C1261473||sarcomas
+C0035363||retrospective review
+C0087111||chest wall resections
+C1261473||sarcoma
+C1519805||University of Texas MD Anderson Cancer Center
+C0553580||Ewing's sarcoma
+C0029463||osteosarcoma
+C1261473||sarcomas
+C0039101||synovial sarcoma
+C0008479||chondrosarcoma
+C0035412||rhabdomyosarcoma
+C0018088||Gore-Tex
+C0005479||Marlex™ mesh
+C0005479||methyl methacrylate sandwich
+C0231218||occasional discomfort
+C0684336||pain impairing function
+C0013227||medication
+C0949766||physical therapy
+C0684336||impairment
+C0038894||surgery
+C0036439||scoliosis
+C0205095||posterior
+C1290243||rib tumors
+C0599755||entire cohort
+C0019638||Histology
+C0450429||location
+C0027651||tumor
+C0035561||ribs
+C0229985||surgical margins
+C0027651||Tumors
+C0205095||posterior
+C0035561||ribs
+C0011065||death
+C0036439||Scoliosis
+C0205095||posterior
+C0185827||rib resections
+C0019638||Histology
+C0450429||location
+C0027651||tumor
+C0229985||surgical margins
+C3161471||Treatment Study

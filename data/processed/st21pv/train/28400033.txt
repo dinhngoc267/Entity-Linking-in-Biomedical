@@ -1,0 +1,48 @@
+C0242456||policies
+C0017313||care of patients
+C0948089||acute coronary syndromes
+C0021201||India
+C0242456||policy
+C1301746||document
+C0936012||analysis
+C0002962||Ischemic heart disease
+C0007465||cause of death
+C0021201||India
+C0948433||high-income
+C0454664||countries
+C1444165||pre-hospital systems of care
+C0002962||ischemic heart disease
+C0948089||acute coronary syndrome
+C0948089||acute coronary syndrome
+C0162791||guidelines
+C0242456||policies
+C0023150||laws
+C0948089||acute coronary syndrome
+C0086388||care
+C0021201||India
+C1301746||document
+C0936012||analysis
+C0376554||knowledge
+C1527398||emergency care
+C0162791||guidelines
+C0600657||legislation
+C0948089||acute coronary syndrome
+C0086388||care
+C0021201||Indian
+C1301808||states
+C0017446||Union Territories
+C0282413||correspondence
+C0150312||found
+C1301746||documents
+C0948089||acute coronary syndrome
+C0086388||care
+C0021201||India
+C0679878||acute care
+C3714660||trauma
+C0023150||laws
+C0948089||acute coronary syndrome
+C0086388||care
+C0242170||Policy makers
+C0242456||policies
+C4273565||cardiovascular care
+C0021201||India

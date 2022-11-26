@@ -1,0 +1,75 @@
+C0079904||NF-κB
+C0754728||TLR2
+C4048327||protease activated receptor 1
+C1527392||Immunomodulator Factor
+C0036536||Secretion
+C0086418||Human
+C0005821||Platelets
+C0670896||toll-like receptor
+C0670896||toll-like receptor
+C1511003||immune cell response pathway
+C0670896||TLRs
+C0286648||MyD88
+C0079904||NF-κB
+C0036628||seminal
+C0040648||transcription factor
+C0282554||chemokines
+C0079189||cytokines
+C0005821||anucleate platelets
+C0079904||NF-κB
+C0005821||platelets
+C0079904||NF-κB
+C0079189||cytokines
+C0036751||serotonin
+C0086418||human
+C0005821||platelets
+C0754728||TLR2
+C4048327||protease activated receptor 1
+C4048327||protease activated receptor 1
+C1564907||pattern-recognition receptor
+C0005821||platelet
+C4048327||protease activated receptor 1
+C0079904||NF-κB
+C0031715||phosphorylation
+C0754728||TLR2
+C1514758||activation
+C0031715||phosphorylation process
+C0005821||platelet
+C4048327||protease activated receptor 1
+C0754728||TLR2
+C2611094||ERK1/2
+C1120843||p38
+C0164786||AKT
+C0031715||phosphorylation
+C0005821||platelet
+C0754728||TLR2
+C0023688||ligand
+C1698795||Pam3CSK4
+C0134835||sCD62P
+C0072978||RANTES
+C0167627||sCD40L
+C1439852||incubating
+C0005821||platelets
+C3712029||anti-TLR2 antibody
+C0443264||modulation
+C1325900||serotonin secretion
+C0005821||platelet
+C0754728||TLR2
+C1514758||activation
+C0005821||Platelet
+C0134835||sCD62P
+C0072978||RANTES
+C0167627||sCD40L
+C0754728||TLR2
+C4048327||protease activated receptor 1
+C0150312||presence
+C0079904||NF-κB
+C0243077||inhibitor
+C0969281||Bay11-7082
+C1979804||serotonin release
+C4048327||protease activated receptor 1
+C1514758||activation
+C0079904||NF-κB
+C0005821||platelet
+C0678889||immunoregulations
+C1817756||functions

@@ -1,0 +1,84 @@
+C0005847||Vascular
+C0075233||Aldosterone Synthase
+C1601799||Phosphate
+C0243095||Osteogenic Transformation
+C0005847||Vascular
+C1135918||Smooth Muscle Cells
+C0342649||Vascular calcification
+C0085681||hyperphosphatemia
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C0342649||Vascular calcification
+C0002006||aldosterone
+C0243095||osteogenic transformation
+C0005847||vascular
+C1135918||smooth muscle cells
+C1135918||vascular smooth muscle cells
+C0002006||aldosterone
+C1148560||silencing
+C1148560||pharmacological inhibition
+C0037982||spironolactone
+C0961485||eplerenone
+C0066563||mineralocorticoid receptor
+C0066563||mineralocorticoid receptor
+C1601799||phosphate
+C0243095||osteo-
+C0243095||chondrogenic transformation
+C0086418||human
+C0003483||aortic
+C1135918||smooth muscle cells
+C1135918||human aortic smooth muscle cells
+C1601799||phosphate
+C0041904||up-regulated
+C0075233||aldosterone synthase
+C1527416||CYP11B2
+C1171362||expression
+C1135918||human aortic smooth muscle cells
+C1148560||Silencing
+C0033626||deficiency
+C1527416||CYP11B2
+C1135918||vascular smooth muscle cells
+C1601799||phosphate
+C1533591||calcification
+C1601799||Phosphate
+C0887840||nuclear export
+C0140145||APEX1
+C1413857||CYP11B2
+C1336789||transcriptional repressor
+C0140145||APEX1
+C1148560||silencing
+C0041904||up-regulated
+C1413857||CYP11B2
+C0017262||expression
+C0243095||osteo-
+C0243095||chondrogenic transformation
+C0140145||APEX1
+C1514559||overexpression
+C1601799||phosphate
+C0243095||osteo-
+C0243095||chondrogenic transformation
+C1533591||calcification
+C1135918||human aortic smooth muscle cells
+C1413857||Cyp11b2
+C0017262||expression
+C0003483||aortic
+C0040300||tissue
+C0085681||hyperphosphatemic
+C0025929||klotho-hypomorphic (kl/kl) mice
+C1883559||wild-type
+C0025929||mice
+C0025929||adrenalectomized kl/kl mice
+C0037982||spironolactone
+C0003483||aortic
+C1135918||vascular smooth muscle cells
+C0075233||aldosterone synthase
+C0041904||up-regulated
+C1601799||phosphate
+C0140145||APEX1
+C0038855||gene suppression
+C0005847||Vascular
+C1527416||CYP11B2
+C1135918||vascular smooth muscle cells
+C0243095||osteo-
+C0243095||chondrogenic transformation
+C0085681||hyperphosphatemia

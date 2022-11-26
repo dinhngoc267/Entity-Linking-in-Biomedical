@@ -1,0 +1,46 @@
+C0007851||Cervical Laceration
+C0032972||Pregnancy Outcomes
+C0018017||objective
+C2603343||study
+C0032972||pregnancy outcomes
+C0151526||preterm birth
+C0032961||pregnancy
+C0007851||cervical laceration
+C0599755||cohort
+C0043210||women
+C0341899||singleton pregnancies
+C0032961||gestation
+C0018696||tertiary health care system
+C0007851||Cervical laceration
+C1550213||ICD9 codes
+C0087111||suture repair
+C2603343||study
+C0043210||women
+C0750484||confirmed
+C0007851||cervical laceration
+C0005615||delivery
+C0043246||lacerations
+C1541822||vaginal delivery
+C1541822||(VD)
+C0007876||cesarean delivery
+C0007876||(CD)
+C0005615||delivery
+C1541822||vaginal delivery
+C0007876||cesarean delivery
+C0032961||pregnancy
+C0043210||women
+C0195681||cerclage
+C0233324||term
+C0151526||delivered
+C0043210||women
+C0151526||delivered
+C0032961||pregnancy
+C0233324||term
+C1541822||vaginal delivery
+C1541822||vaginal delivery
+C0007851||cervical laceration
+C1541822||vaginal deliveries
+C0007851||cervical lacerations
+C0009566||Complications
+C0032961||pregnancy
+C0195681||cerclage

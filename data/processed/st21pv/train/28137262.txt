@@ -1,0 +1,34 @@
+C0205511||Direct anterior approach
+C0040508||total hip arthroplasty
+C0183817||mobile traction table
+C1709709||prospective cohort study
+C1709709||prospective cohort study
+C0040508||total hip arthroplasty
+C0205511||direct anterior approach
+C0038846||supine position
+C0183817||mobile traction table
+C0035110||consecutive surgeries
+C0582175||single surgeon
+C0205511||direct anterior approach
+C0183817||traction table
+C1522577||follow-up
+C3266738||previous hip surgeries
+C0302142||severe deformity
+C0441496||cemented implants
+C1522577||follow-up
+C0035110||Revision surgery
+C2609162||periprosthetic
+C0015802||femoral fracture
+C0009566||complication
+C0183817||traction table
+C1265658||anterior dislocations
+C2609162||periprosthetic
+C0015802||femoral fracture
+C0034117||intraoperative perforation
+C0015802||femoral rasping
+C0009566||complication
+C0005841||allogeneic blood transfusion
+C0205511||direct anterior approach
+C0183817||mobile traction table
+C0243095||positive learning curve
+C0005841||allogeneic blood transfusion

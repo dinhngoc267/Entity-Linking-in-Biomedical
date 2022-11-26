@@ -1,0 +1,54 @@
+C3178810||Transcriptomic
+C0993630||garlic
+C0220806||allelochemical
+C0057693||diallyl disulfide
+C0242772||tomato
+C0242726||roots
+C0993630||Garlic
+C0242775||crop
+C0242775||vegetable crops
+C0057693||Diallyl disulfide
+C0057693||Diallyl disulfide
+C0220806||allelochemicals
+C0993630||garlic
+C0242772||tomato
+C1524120||root growth
+C3178810||transcriptome
+C0057693||Diallyl disulfide
+C0242772||tomato
+C0242726||roots
+C0442726||detected
+C0017262||differentially expressed
+C0017337||genes
+C0017337||differentially expressed genes
+C0017337||differentially expressed genes
+C2612332||assimilatory sulfate reduction
+C1158188||glutathione metabolism
+C0041904||up-regulated
+C0057693||Diallyl disulfide
+C3267013||increased activity of defensive enzymes
+C0041904||up-regulation
+C0017337||peroxidase genes
+C0057693||Diallyl disulfide
+C0242772||tomato
+C1752856||plant-pathogen interactions
+C0017337||differentially expressed genes
+C0600431||calcium signaling
+C0070140||pathogenesis-related proteins
+C0041904||up-regulated
+C0032098||plant
+C0596715||hormone synthesis
+C0037083||signal transduction
+C0057693||Diallyl disulfide
+C0017262||expression
+C0017337||genes
+C1704259||pathways
+C0035168||research
+C0242772||tomato
+C0242726||root
+C3178810||transcriptome
+C0057693||Diallyl disulfide
+C2603343||studies
+C0057693||Diallyl disulfide
+C0017337||genes
+C0057693||Diallyl disulfide

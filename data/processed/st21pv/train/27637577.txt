@@ -1,0 +1,74 @@
+C1414121||DNA methyltransferase 1
+C0025723||methylation
+C0033413||promoter region
+C0038013||ankylosing spondylitis
+C0038013||Ankylosing spondylitis
+C0038013||Ankylosing spondylitis
+C0004364||autoimmune disease
+C0003864||chronic inflammatory arthritis
+C0025723||methylation
+C0005532||biology
+C0312737||immunocytes
+C0038951||surveyed
+C0012634||disease
+C1621352||DNA methyltransferase 1
+C1621352||DNA methyltransferase 1
+C0014442||enzyme
+C1327622||regulates
+C0449774||patterns
+C0010843||methylated cytosine
+C0220825||investigation
+C0025723||methylation
+C0056912||CpG
+C0205145||sites
+C1414121||DNA methyltransferase 1
+C0086860||promoter
+C1515670||mRNA expression
+C0017337||gene
+C1321301||peripheral blood mononuclear cells
+C1321301||peripheral blood mononuclear cells
+C0038013||Ankylosing spondylitis
+C1321301||peripheral blood mononuclear cells
+C0370231||whole blood
+C0038013||Ankylosing spondylitis
+C0027361||individuals
+C0035668||RNA
+C0012854||DNA
+C0023516||leukocytes
+C0185115||extracted
+C1709846||real-time PCR
+C0282574||SYBR Green PCR Master Mix
+C0025723||methylation
+C0032520||PCR
+C0012854||products
+C0012854||bisulfite-treated DNA
+C1294197||sequenced
+C0017262||expression level
+C1414121||DNA methyltransferase 1
+C0038013||Ankylosing spondylitis
+C0013081||downregulated
+C0025723||Methylation
+C1414121||DNA methyltransferase 1
+C0086860||promoter
+C0038013||Ankylosing spondylitis
+C0205160||negative
+C0025723||methylation
+C0017262||expression level
+C1414121||DNA methyltransferase 1
+C0038013||Ankylosing spondylitis
+C0025723||methylation
+C0017262||expression level
+C1414121||DNA methyltransferase 1
+C0017262||expression level
+C1414121||DNA methyltransferase 1
+C1512554||hypermethylation
+C1414121||DNA methyltransferase 1
+C0086860||promoter
+C1321301||peripheral blood mononuclear cells
+C0038013||Ankylosing spondylitis
+C0038951||survey
+C1414121||DNA methyltransferase 1
+C0017262||expression
+C0025723||methylation
+C0017337||genes
+C0038013||Ankylosing spondylitis

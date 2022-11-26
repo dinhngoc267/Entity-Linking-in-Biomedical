@@ -1,0 +1,48 @@
+C0020654||Lateral Hypothalamus
+C0020663||hypothalamus
+C0035507||hindbrain
+C0013987||emotional
+C0020663||hypothalamus
+C0035507||hindbrain
+C0449475||cell-type
+C0017395||genetic methods
+C0006117||circuit mapping
+C0005507||assays
+C0175232||septal nucleus
+C0020654||lateral hypothalamus
+C0020654||lateral hypothalamus
+C0013470||food intake
+C0025929||mice
+C0442004||septal
+C1453453||vesicular GABA transporter
+C1453453||vesicular GABA transporter
+C0027882||neurons
+C0020654||lateral hypothalamus
+C0013470||food intake
+C0025929||mice
+C0442004||septal
+C1453453||vesicular GABA transporter
+C0027882||neurons
+C0013470||food intake
+C0442004||septal
+C1453453||vesicular GABA transporter
+C0027882||neurons
+C1515021||subset
+C1453453||vesicular GABA transporter
+C0027882||neurons
+C0020654||lateral hypothalamus
+C0205146||area
+C0019868||homeostatic
+C3714634||hedonic
+C0005898||septohypothalamic
+C0013473||eating disorders
+C0003125||anorexia nervosa
+C0020663||hypothalamus
+C0013470||food intake
+C0205160||negatively
+C1273723||brain regions
+C0013987||emotion
+C0243095||findings
+C0013470||food intake
+C0233820||insights
+C0013473||eating disorders

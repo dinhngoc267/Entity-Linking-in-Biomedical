@@ -1,0 +1,40 @@
+C0062221||Xylan-based
+C0600484||hydrogels
+C1707506||drug controlled release
+C0062221||Xylan-based
+C0600484||hydrogels
+C1880180||crosslinking copolymerization
+C0062221||xylan
+C0083668||N-isopropylacrylamide
+C0083668||N-isopropylacrylamide
+C1321887||acrylic acid
+C1321887||acrylic acid
+C0067314||N,Ń-methylenebis-acrylamide
+C0067314||N,Ń-methylenebis-acrylamide
+C0034760||cross-linker
+C1121773||2,2-dimethoxy-2-phenylacetophenone
+C0029224||photoinitiator
+C0083668||N-isopropylacrylamide
+C1321887||acrylic acid
+C0067314||N,Ń-methylenebis-acrylamide
+C0062221||xylan-based
+C0600484||hydrogels
+C0600484||hydrogels
+C0026020||SEM
+C0206055||FTIR
+C0600484||hydrogels
+C0006780||DSC
+C0600484||hydrogels
+C1321887||acrylic acid
+C0013227||drug
+C0600484||hydrogels
+C0004057||acetylsalicylic acid
+C0021853||intestinal
+C2828094||gastric fluid
+C0062221||Xylan-based
+C0600484||hydrogels
+C0007600||NIH3T3 cell
+C2986858||MTT assay
+C0013161||drug carriers
+C0021853||intestinal
+C0001563||oral drug delivery

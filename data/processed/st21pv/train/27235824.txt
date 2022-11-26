@@ -1,0 +1,33 @@
+C1704326||moderating role
+C0451424||eating restraint
+C0162425||intentions
+C0920298||weight control
+C0035168||research
+C0920298||weight control
+C0234421||conscious
+C0162425||intentions
+C0038535||subconscious
+C0009240||cognition
+C0005891||body image
+C0042926||goal-oriented words
+C1704326||moderating role
+C0451424||restrained eating
+C0679646||participants
+C0681814||experiment
+C0876929||sentence
+C0451424||restrained eating index
+C2700446||self-reported
+C1305855||BMI
+C0451424||restrained eating index
+C0042926||words
+C0005891||body image
+C0005891||body image
+C0013470||food intake
+C0679646||restrained eaters
+C0013470||food intake
+C0679646||restrained
+C0679646||unrestrained eaters
+C0042926||words
+C0005891||body image
+C0026845||muscles
+C0013470||food intake

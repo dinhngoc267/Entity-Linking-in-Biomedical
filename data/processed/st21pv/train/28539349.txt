@@ -1,0 +1,92 @@
+C0235161||Sleep Loss
+C0031308||Phagocytosis
+C1326169||Microglial Activation
+C1522579||Mouse Cerebral Cortex
+C1259418||Mertk
+C1567829||ligand Gas6
+C0017337||genes
+C0031308||phagocytosis
+C0041904||upregulated
+C0037316||sleep deprivation
+C0004112||astrocytes
+C0031308||phagocytic activity
+C0231449||extended
+C0442696||wake
+C2603343||Studies
+C0086418||humans
+C0035804||rodents
+C0150312||found
+C0235161||sleep loss
+C0205100||peripheral
+C0005516||markers
+C0021368||inflammation
+C1326120||activation
+C0206116||microglia
+C0006104||brain's
+C0312740||innate immune cells
+C0026020||serial block-face scanning electron microscopy
+C0039062||synapses
+C1282914||surrounding
+C3714634||processes
+C0025929||mouse
+C0016733||frontal cortex
+C0037313||sleep
+C0442696||wake
+C0037316||sleep deprivation
+C0037316||sleep deprivation
+C0031308||phagocytosis
+C1179895||presynaptic components of large synapses
+C0235161||sleep loss
+C0037313||sleep
+C0442696||wake
+C1259417||MERTK
+C1171362||expression
+C0023775||lipid peroxidation
+C0039067||synaptoneurosomes
+C0439792||extent
+C0235161||sleep loss
+C0031308||phagocytosis
+C0006104||brain's
+C0027793||synaptic activity
+C0442696||wake
+C0039062||synapses
+C0242842||confocal microscopy
+C0150312||found
+C0037316||sleep deprivation
+C0025929||mice
+C0543482||morphological
+C0037088||signs
+C1326169||microglial activation
+C0031308||phagocytosis
+C3893360||synaptic elements
+C0037088||signs
+C0007806||CSF
+C1326169||microglia activation
+C0205161||abnormal
+C0235161||sleep loss
+C0206116||microglia
+C0007613||priming
+C0006104||brain
+C1517331||further
+C0243095||find
+C0031308||phagocytosis
+C3893360||synaptic elements
+C3893360||presynaptic origin
+C0039062||synapses
+C0041904||upregulated
+C0037316||sleep deprivation
+C1517331||further
+C0235161||sleep loss
+C0039062||synapses
+C0027882||neuronal
+C0007613||activity
+C0231449||extended
+C0442696||wake
+C0235161||sleep loss
+C1326120||activates
+C0206116||microglia
+C0031308||phagocytic activity
+C0037088||signs
+C0231449||extended
+C1326169||microglia activation
+C0006104||brain's

@@ -1,0 +1,50 @@
+C1522496||gut-brain axis
+C0086418||human
+C1510472||drug addiction
+C0162340||understanding
+C0006104||brain
+C0027910||traditional neuroscience
+C0087111||treatments
+C1510472||drug addiction
+C0243095||remained elusive
+C0449445||approaches
+C0027910||neuroscienc
+C0033873||psychiatry
+C0085281||addiction
+C0205146||area
+C0086418||human
+C1304890||enteric
+C0025952||microbiology
+C0027910||neuroscience
+C0086418||human
+C0004611||bacteria
+C0086418||human
+C0012634||disease
+C0004611||bacteria
+C0242821||human body
+C0086418||human
+C0006104||brain
+C0427861||human cells
+C0162340||understanding
+C0205146||areas
+C0086418||human
+C1411966||Clostridium difficile
+C0022104||irritable bowel syndrome
+C0004352||autism
+C0035168||research
+C0332128||examined
+C1510472||drug addiction
+C0085281||addictive
+C0012634||disorders
+C0282420||paper
+C0035168||research
+C0699819||gut
+C0006104||brain
+C1522496||axis
+C0085281||addiction
+C0699819||gut
+C0006104||brain
+C1522496||axis
+C0087111||treatments
+C0085281||addiction
+C0243095||manipulations

@@ -1,0 +1,32 @@
+C0063083||Double-Network Hydrogel
+C3494260||Fabrication
+C0038250||Stem Cells
+C0225326||Encapsulated Fibers
+C3494260||Fabrication
+C0038250||cell
+C0225326||encapsulated fibers
+C0596171||tissue engineering
+C1257974||regenerative medicine
+C0038250||cell
+C0225326||encapsulated fibers
+C0063083||hydrogel
+C0225326||fibers
+C0102137||alginate
+C0005479||poly(N-iso-propylacrylamide)-poly(ethylene glycol)
+C0063083||double-network hydrogel
+C0427008||stiffness
+C0026377||three dimensional structures
+C0063083||hydrogel
+C0225326||fibers
+C1444656||indicated
+C0005516||markers
+C0596508||embryonic stem cells
+C0430400||culture
+C0063083||double-network hydrogel
+C0850310||possesses
+C0051154||alginate lyase
+C0013618||EDTA
+C0225326||fibers
+C0038250||cells
+C1510438||assay
+C0087111||treatment

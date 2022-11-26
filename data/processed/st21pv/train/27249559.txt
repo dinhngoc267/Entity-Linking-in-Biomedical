@@ -1,0 +1,37 @@
+C0947630||Study
+C0205234||Microfocus
+C0184486||X-Ray Tube
+C2350281||Micro-Computed Tomography
+C2350281||micro-Computed Tomography (Micro-CT) system
+C0205234||microfocus
+C0184486||X-ray tube
+C0040405||CT
+C1704254||images
+C0456389||size
+C0043299||X-ray
+C0205146||focal spot
+C0205234||microfocus
+C0184486||X-ray tube
+C0456389||size
+C0043299||X-ray
+C0205146||focal spot
+C0205234||microfocus
+C0184486||X-ray tube
+C0043299||X-ray
+C0043299||X-ray
+C0456389||size
+C0947630||studied
+C0679083||simulation
+C0043299||X-rays
+C0043299||X-ray
+C0043299||X-ray
+C0205146||focal spot
+C0184486||X-ray tube
+C0243095||electron beam trajectory swinging
+C0456389||size
+C0205234||microfocus
+C0184486||X-ray tube
+C0040405||CT
+C1704254||image
+C0043299||X-ray
+C0205146||focal spot

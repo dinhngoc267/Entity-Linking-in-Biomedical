@@ -1,0 +1,93 @@
+C0011849||Diabetes Mellitus
+C0028754||Obesity
+C0019699||HIV+
+C0086409||Hispanics
+C1963724||Antiretroviral Therapy
+C0007222||Cardiovascular disease
+C0007222||Cardiovascular disease
+C0019699||HIV+
+C1963724||antiretroviral therapy
+C1963724||antiretroviral therapy
+C0025517||cardiometabolic
+C0035648||predictors of risk
+C0019699||HIV+
+C0237401||individuals
+C1963724||antiretroviral therapy
+C0454664||countries
+C0454664||low and middle income countries
+C0086409||Hispanics
+C0332128||examined
+C0011847||diabetes
+C0028754||obesity
+C0599755||prospective cohort
+C1963724||antiretroviral therapy
+C0013014||Dominican Republic
+C0679646||Participants
+C1963724||antiretroviral therapy
+C2603343||study
+C1516879||enrollment
+C0332128||examined
+C1272092||impaired fasting glucose
+C1272092||impaired fasting glucose
+C0011849||diabetes mellitus
+C0011849||diabetes mellitus
+C1561826||overweight, and obesity
+C0583513||Fasting plasma glucose
+C0583513||Fasting plasma glucose
+C1272092||impaired fasting glucose
+C0583513||Fasting plasma glucose
+C1704656||diagnosis
+C0025102||medical record
+C0020616||hypoglycemic medication
+C0011849||diabetes mellitus
+C1561826||Overweight and obesity
+C1305855||BMI
+C0242339||Dyslipidemia
+C0543421||total cholesterol
+C0003367||lipid-lowering medication
+C1273517||used
+C0007222||Cardiovascular disease
+C0086930||risk
+C0302523||end of observation
+C1963724||antiretroviral therapy
+C0011849||diabetes mellitus
+C1272092||impaired fasting glucose
+C0011849||diabetes mellitus
+C0027361||person
+C1522577||follow up
+C1522577||person - years follow up
+C1272092||impaired fasting glucose
+C1522577||person - years follow up
+C0028754||obese
+C0497406||overweight
+C0028754||obese
+C1522577||person - years follow up
+C0497406||overweight
+C1522577||person - years follow up
+C2939193||Median
+C0700325||observation
+C0011847||diabetes
+C0028754||obesity
+C0936012||analyses
+C0007222||Cardiovascular disease
+C0086930||risk
+C4086295||10-year Framingham risk score
+C0150312||present
+C0599755||cohort
+C0599755||cohort
+C0086409||Hispanic
+C0599755||cohort
+C0454664||LMIC
+C1272092||impaired fasting glucose
+C0011849||diabetes mellitus
+C0497406||overweight
+C0028754||obesity
+C0150312||found
+C0948433||high income
+C0454664||countries
+C0025517||cardiometabolic disorders
+C1963724||antiretroviral therapy
+C0441610||reduction
+C0019693||HIV
+C0007222||Cardiovascular disease
+C0949366||vulnerable population

@@ -1,0 +1,47 @@
+C0877248||Adverse events
+C0596087||angiogenesis inhibitors
+C0087111||therapy
+C0029925||ovarian cancer
+C0920317||meta-analysis
+C0206035||randomized controlled trials
+C1510884||Inhibition of angiogenesis
+C0087111||treatment strategy
+C0029925||advanced
+C0278689||recurrent ovarian cancer
+C0920317||meta-analysis
+C0877248||adverse events
+C0596087||angiogenesis inhibitors
+C0596087||angiogenesis inhibitors
+C0029925||ovarian cancer
+C0242356||Databases
+C1138432||PubMed
+C0282574||Web of Science
+C0023621||Cochrane library
+C2603343||studies
+C2603343||studies
+C0206035||prospective randomized controlled phase II/III clinical trials
+C0557980||evaluating
+C0087111||therapy
+C0596087||angiogenesis inhibitors
+C0029925||ovarian cancer
+C0008976||trials
+C0008976||clinical trials
+C0920317||meta-analysis
+C0596087||angiogenesis inhibitors
+C3544094||arterial thromboembolic
+C0151664||gastrointestinal (GI) perforation
+C0033687||proteinuria
+C0020538||hypertension
+C0019080||hemorrhagic
+C1861172||venous thromboembolic
+C0877248||adverse events
+C0596087||angiogenesis inhibitors
+C0087111||therapy
+C0029925||ovarian cancer
+C3544094||arterial thromboembolic
+C0151664||GI perforation
+C0033687||proteinuria
+C0020538||hypertension
+C1861172||venous thromboembolic
+C0019080||hemorrhagic
+C0877248||adverse events

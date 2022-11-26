@@ -1,0 +1,25 @@
+C0443158||Spontaneous activity
+C2954070||primary auditory cortex
+C0027883||Sensory neurons
+C0443158||spontaneous activity
+C2603343||studies
+C0587901||auditory system
+C0443158||spontaneous activity
+C0027882||neurons
+C0178490||auditory stimuli
+C0040264||tinnitus
+C0004302||auditory areas
+C3714660||trauma
+C2603343||study
+C2954070||primary auditory cortex
+C0006764||marmoset
+C0026447||monkeys
+C3161035||white Gaussian noise
+C3161035||white Gaussian noise
+C0443204||divergences
+C0443158||spontaneous activity
+C3161035||white Gaussian noise
+C3161035||white Gaussian noise
+C0443158||spontaneous spiking
+C2954070||primary auditory cortex
+C0040264||tinnitus

@@ -1,0 +1,24 @@
+C0013161||Tailor-made drug carrier
+C0013161||drug carrier
+C0038888||surfactant
+C0025938||micelles
+C0013161||drug carriers
+C0087111||treatment
+C0012634||diseases
+C0013161||drug carrier
+C0012634||disease
+C0013161||drug carrier
+C0012634||disease
+C0025938||spherical micelles
+C1882368||dynamic light scattering
+C0006780||differential scanning calorimetry
+C0877853||nuclear magnetic resonance spectroscopy
+C0037802||fluorescence measurement
+C0083196||Laurdan
+C0182400||probe
+C2603343||studies
+C0242356||database
+C0013161||drug carriers
+C0242356||database
+C0013161||drug carrier
+C0013161||tailor-made drug carrier

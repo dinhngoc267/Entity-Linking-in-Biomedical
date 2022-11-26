@@ -1,0 +1,66 @@
+C0229664||Peripheral Blood
+C0039198||CD4+CD25+CD127-Foxp3+
+C0018213||Graves' Disease
+C0339143||Graves' Orbitopathy
+C0021665||Insulin Growth Factor-1
+C0039198||Treg Cells
+C0339143||Graves' orbitopathy
+C0339143||Graves' orbitopathy
+C0039194||orbital T cell
+C0332448||infiltration
+C0220825||evaluated
+C0039198||regulatory T (Treg) cell
+C0021665||IGF-1
+C0018213||Graves' disease
+C0018213||Graves' disease
+C0339143||Graves' orbitopathy
+C1321301||Peripheral blood mononuclear cells
+C1321301||Peripheral blood mononuclear cells
+C0018213||Graves' disease
+C0015411||eye manifestations
+C0339143||Graves' orbitopathy
+C0018023||nodular goiter
+C0018023||nodular goiter
+C0018213||Graves' disease
+C0339143||Graves' orbitopathy
+C0018023||nodular goiter
+C0936012||analyzed
+C0600223||expression of Treg cell markers
+C0003323||CD4
+C0007507||CD25
+C0083032||CD127(-)
+C4282118||Foxp3
+C0039194||T cells
+C1553423||respond to
+C0021665||IGF-1
+C0018213||Graves' disease
+C0339143||Graves' orbitopathy
+C0039198||CD4(+) Foxp3(+) cells
+C0018023||nodular goiter
+C0039198||CD4(+)CD25(+)CD127(-)Foxp3(+)
+C0039198||CD4(+)CD25(+)CD127(-) cells
+C0018213||Graves' disease
+C0018023||nodular goiter
+C0020550||hyperthyreosis
+C0339143||Graves' orbitopathy
+C0339143||Graves' orbitopathy
+C0039198||CD4(+)CD25(+)CD127(-) cells
+C0018023||nodular goiter
+C1321301||PBMC
+C0339143||Graves' orbitopathy
+C0021665||IGF-1
+C0039198||CD4(+) Foxp3(+)
+C0039198||CD4(+)CD25(+)CD127(-) Foxp3 cells
+C0229664||peripheral blood
+C0039198||CD4(+)CD25(+)CD127(-)Foxp3(+)
+C0018213||Graves' disease
+C0339143||Graves' orbitopathy
+C0005516||useful marker
+C0443146||autoimmune process
+C2603343||study
+C0039198||the regulatory T
+C0021665||IGF-1
+C0021665||IGF-1
+C0443264||modulating
+C0039198||Treg cell
+C0339143||Graves' orbitopathy

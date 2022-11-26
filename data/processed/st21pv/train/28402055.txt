@@ -1,0 +1,26 @@
+C0516981||physical function
+C0023981||long-term study
+C1556094||older Japanese
+C0001792||adults
+C1556094||older Japanese
+C0001792||adults
+C0582103||medical examinations
+C1516879||enrolled
+C0001792||older adults
+C2603343||study
+C0679646||participants
+C0600623||fitness center
+C0332128||examine
+C2708664||exercise type
+C0243095||found
+C2708664||exercise type
+C4304688||functional decline
+C0231472||one-leg standing
+C0427127||step/height
+C2708664||exercise types
+C1522577||follow up
+C0556455||frequency of exercise
+C0243095||found
+C0205160||negative
+C0231472||one-leg standing
+C0001792||older adults

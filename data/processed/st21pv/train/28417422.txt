@@ -1,0 +1,49 @@
+C0012155||Diet
+C0022877||Laboratory
+C3002762||Opogona sacchari
+C0023338||Lepidoptera
+C1009208||Tineidae
+C3002762||banana moth Opogona sacchari
+C3002762||Bojer
+C0023338||Lepidoptera
+C1009208||Tineidae
+C0684063||polyphagous pest
+C0004722||banana
+C0242775||crops
+C1710133||southern
+C0006137||Brazil
+C0021585||insect
+C0684063||pest
+C0454664||countries
+C0003761||Argentina
+C1707496||consumer
+C1318228||market
+C0004722||bananas
+C1710133||southern
+C0006137||Brazil
+C0005532||biology
+C0026593||moth
+C0012155||diet
+C0022877||laboratory
+C0684063||pest
+C2603343||study
+C0012155||diets
+C0022877||laboratory
+C3002762||O. sacchari
+C0004896||beans
+C0016452||wheat germ
+C0016452||soy bran
+C0036025||brewer's yeast
+C0007332||casein
+C0012155||diet
+C0016452||wheat germ
+C0007332||casein
+C0033684||protein
+C0449416||sources
+C0012155||diets
+C0029974||egg
+C0015895||fertility
+C0029974||eggs
+C0043210||female
+C0936012||analysis
+C0012155||diets

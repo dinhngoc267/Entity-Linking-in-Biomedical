@@ -1,0 +1,32 @@
+C3161035||parametric model
+C0449774||pattern
+C0332479||shape
+C1546180||age-at-death
+C3161035||parametric models
+C0449774||pattern
+C3161035||models
+C1999167||old ages
+C1306577||death
+C1706852||paper
+C3161035||parametric model
+C0449774||pattern
+C3161035||CoDe model
+C3161035||model
+C1999167||old age
+C3161035||model
+C0023965||mixed logistic model
+C1999167||old age
+C1306577||death
+C3161035||CoDe model
+C1306577||death
+C1556094||Japanese
+C1556084||French
+C0596070||American
+C1257890||Danish
+C0025266||men
+C0043210||women
+C0449774||pattern
+C0005615||birth
+C1999167||old age
+C3161035||CoDe model
+C0449774||pattern

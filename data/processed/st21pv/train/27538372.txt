@@ -1,0 +1,48 @@
+C1418818||Mitochondrial pyruvate dehydrogenase phosphatase 1
+C1817118||differentiation of cardiomyocytes
+C4042879||mouse embryonic stem cells
+C0026237||Mitochondria
+C0596508||embryonic stem cells
+C0596508||embryonic stem cells
+C0007589||differentiation
+C0225828||cardiomyocytes
+C0574031||mitochondrial regulators
+C0033684||mitochondrial factor
+C1514964||differentiation of ESCs
+C0225828||cardiac myocytes
+C1817118||cardiomyocyte differentiation
+C4042879||mouse ESCs
+C4042879||mouse ESCs
+C1449575||microarray assays
+C0035696||messenger RNA
+C0035696||messenger RNA
+C0040649||expression
+C0243095||differentiation day 8
+C0243095||day 8
+C4042879||mouse ESCs
+C0017337||expressed genes
+C1418818||Pdp1
+C0017262||expression
+C0243095||day 8
+C0026237||mitochondrial
+C0918012||indices
+C0001480||ATP
+C1156295||membrane potential
+C3894464||ROS
+C1658623||mitochondrial Ca(2+)
+C1418818||Pdp1
+C0017262||overexpression
+C0026237||mitochondrial
+C0918012||indices
+C1151688||pyruvate dehydrogenase activity
+C0040649||expression
+C2247990||cardiac differentiation
+C2247990||cardiac differentiation
+C2350567||knockdown
+C1418818||Pdp1 gene
+C0040649||expression
+C2247990||cardiac differentiation
+C2247990||cardiac differentiation
+C1418818||mitochondrial PDP1
+C2247990||cardiac differentiation
+C0596508||embryonic stem cells

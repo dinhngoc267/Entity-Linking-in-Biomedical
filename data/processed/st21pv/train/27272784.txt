@@ -1,0 +1,42 @@
+C1511790||Detection
+C1510713||Flat Aberrant Crypt Foci (Flat ACF)
+C2986594||A/J Min/+ Mouse
+C1510713||Flat aberrant crypt foci
+C1510713||Flat aberrant crypt foci
+C3828884||mucin-depleted foci
+C3828884||mucin-depleted foci
+C1514395||preneoplastic colonic lesions
+C2986594||A/J Min/+ mouse model
+C0699790||colon carcinogenesis
+C1511790||detection
+C1510713||Flat aberrant crypt foci
+C0221198||lesions
+C0019637||histological examination
+C3828884||mucin-depleted foci
+C0009368||Colons
+C1319310||stained with methylene blue
+C0025746||methylene blue
+C1510713||Flat aberrant crypt foci
+C1511790||detection
+C0487602||restained
+C0062712||high-iron diamine-alcian blue
+C0062712||high-iron diamine-alcian blue
+C3828884||mucin-depleted foci
+C1511790||detection
+C1510713||Flat aberrant crypt foci
+C1319310||MB staining
+C1510713||Flat aberrant crypt foci
+C3828884||mucin-depleted foci
+C1510713||Flat Aberrant Crypt Foci
+C3828884||mucin-depleted foci
+C0334048||severe dysplasia
+C1513729||mucus
+C0014597||goblet cells
+C4055506||accumulation
+C0521449||cytoplasmic
+C0105770||β-catenin
+C1510713||Flat aberrant crypt foci
+C0699040||surface
+C0005516||biomarkers
+C0162832||Apc
+C0699790||colon carcinogenesis

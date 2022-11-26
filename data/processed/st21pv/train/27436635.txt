@@ -1,0 +1,48 @@
+C0005823||Blood Pressure
+C0007465||All-Cause Mortality
+C0392335||Cognitive Function
+C0001792||Elderly
+C1709599||Population-Based Study
+C0018226||Rural Greece
+C1709599||study
+C0005823||blood pressure
+C0005823||blood pressure
+C1306577||mortality
+C0392335||cognitive function
+C0445456||brachial
+C0871470||systolic BP
+C0428883||diastolic BP
+C0428886||mean arterial pressure
+C0428886||mean arterial pressure
+C0949236||pulse pressure
+C0007465||all-cause mortality
+C0243095||prospectively explored
+C1522577||follow-up
+C0237401||individuals
+C0010234||adjusted Cox models
+C0338656||cognitive impairment
+C0451306||Mini-Mental State Examination
+C0451306||Mini-Mental State Examination
+C0445456||brachial
+C0005823||blood pressure
+C1306577||mortality
+C0428886||mean arterial pressure
+C1306577||mortality
+C0338656||cognitively impaired
+C0237401||individuals
+C0242481||fractional-polynomials approach
+C0005823||blood pressure
+C0750484||confirmed
+C0243095||finding
+C1517331||further
+C0451306||Mini-Mental State Examination
+C0428886||mean arterial pressure
+C0871470||systolic BP
+C0449774||pattern
+C0451306||Mini-Mental State Examination
+C0001792||Elderly
+C0237401||individuals
+C0338656||cognitive impairment
+C0879626||detrimental effects
+C0428886||mean arterial pressure
+C0871470||systolic BP

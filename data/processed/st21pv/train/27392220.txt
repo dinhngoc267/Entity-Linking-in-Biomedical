@@ -1,0 +1,18 @@
+C1956422||Cancer Stem Cells
+C0023473||chronic myeloid leukemia
+C0040649||Transcriptional
+C0087111||Therapy
+C0023418||Leukemia
+C1956422||stem cells
+C1956422||Leukemia stem cells
+C0087111||therapies
+C0023473||chronic myeloid leukemia
+C0023473||chronic myeloid leukemia
+C1148560||molecular network
+C0023473||chronic myeloid leukemia
+C1956422||LSC
+C0007620||survival
+C0040648||transcriptional regulators
+C0079419||p53
+C0314684||c-Myc
+C2248542||eradication

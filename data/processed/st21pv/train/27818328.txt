@@ -1,0 +1,54 @@
+C0337664||Smokers
+C0807679||Radiological
+C0034067||Emphysema
+C0458827||Airway
+C0034067||emphysema
+C0458827||airway
+C0018017||goal
+C2603343||study
+C3241966||current
+C0337671||former smokers
+C0231999||airflow
+C0807679||radiologic
+C0034067||emphysema
+C0202823||chest CT scans
+C3241966||current
+C0337671||ex-smokers
+C0034067||emphysema
+C0262926||medical history
+C0202823||chest CT scanning
+C0449381||parameters
+C0024119||pulmonary function tests
+C1516251||diffusion capacity for carbon monoxide
+C1516251||Dlco
+C4288768||Medical Research Council dyspnea score
+C4284282||COPD assessment test
+C4284282||COPD assessment test
+C0430515||6-min walk test
+C0430515||6-min walk test
+C0040405||CT
+C0750484||confirmed
+C0034067||emphysema
+C0034067||emphysema
+C2348561||group
+C0034067||emphysema
+C0202823||chest CT scanning
+C4073173||abnormal Dlco
+C0369768||oxygen saturation
+C0430515||6-min walk test
+C4284282||COPD assessment test
+C0936012||analysis
+C4284282||CAT questionnaire
+C0034067||emphysema
+C0232292||chest tightness
+C0442519||home
+C0243095||no emphysema
+C4086268||exacerbations
+C0337664||smokers
+C0034067||emphysema
+C0202823||chest CT scanning
+C0458827||airway
+C4086268||exacerbations
+C1516251||Dlco
+C0369768||oxygen saturation
+C0430515||6MWT test

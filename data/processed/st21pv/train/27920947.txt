@@ -1,0 +1,93 @@
+C0871893||The Daniel K. Inouye College of Pharmacy Scripts
+C0016767||Poha Berry
+C0331245||Physalis peruviana
+C0281206||Cancer Prevention
+C0036381||The Daniel K. Inouye College of Pharmacy
+C0588053||graduated
+C0038492||students
+C0017446||Pacific region
+C1512022||PhD
+C0031336||pharmaceutical sciences
+C0041740||University of Hawai'i
+C0017446||Hilo
+C0036381||college
+C1512022||PhD
+C1516164||Cancer Biology
+C0008003||Medicinal Chemistry
+C4277728||Pharmaceutics
+C0031326||Pharmacognosy
+C0031330||Pharmacology
+C0031326||Pharmacognosy
+C0376645||dissertations
+C0032098||plant-derived
+C1566558||natural products
+C0006826||cancer
+C0331245||Physalis peruviana
+C0331245||Physalis peruviana
+C0037713||South America
+C0017446||Island of Hawai'i
+C0032099||edible
+C0016767||fruits
+C0331245||cape gooseberry
+C0331245||poha
+C0017446||Hawai'i
+C1955897||withanolides
+C1254351||physaperuvin G
+C1254351||physaperuvins I-J
+C1955897||withanolides
+C1254351||4β-hydroxywithanolide E
+C1254351||withaperuvin C
+C1254351||physalactone
+C1254351||coagulin
+C1136056||aerial parts
+C0331245||P. peruviana
+C1706082||compounds
+C1254351||phyperunolide F
+C1254351||withanolide S
+C0016767||poha berry fruits
+C0678594||structures
+C2350023||absolute stereochemistry
+C0331245||poha
+C0877853||Nuclear Magnetic Resonance (NMR) spectroscopy
+C0043301||X-ray diffraction
+C0037813||mass spectrometry
+C0936012||analyses
+C0331245||poha
+C1706082||compounds
+C1136056||aerial parts
+C0016767||fruits
+C0023810||lipopolysaccharide
+C0023810||lipopolysaccharide
+C0026809||murine
+C4042840||macrophage RAW 264.7 cells
+C0041368||tumor necrosis factor alpha
+C0041368||tumor necrosis factor alpha
+C0079904||nuclear factor-kappa B
+C0079904||nuclear factor-kappa B
+C2936239||human embryonic kidney cells 293
+C1566558||natural compounds
+C0005507||assays
+C3161035||models
+C0007102||colon cancer
+C1254351||4β-hydroxywithanolide E
+C1254351||4β-hydroxywithanolide E
+C0018270||growth
+C0007102||colon cancer
+C0007585||monolayer
+C0282501||spheroid
+C0007585||cultures
+C1706082||compound
+C1155873||cell cycle arrest
+C0162638||apoptosis
+C0232478||ingestion
+C0016767||poha berries
+C0007102||colon cancer
+C0016452||poha
+C1706082||isolates compounds
+C1512280||growth inhibitory effects
+C0017636||U251MG glioblastoma
+C3898556||MDA-MB-231 breast cancer cells
+C0253050||signal transducer and activation of transcription 3 (STAT3)
+C1257739||NIH-3T3 mouse fibroblasts
+C0030650||provisional patents
+C0041740||University of Hawai'i Office of Technology Transfer and Economic Development

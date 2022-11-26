@@ -1,0 +1,26 @@
+C2919482||Remitting Seronegative Symmetrical Synovitis With Pitting Edema
+C2919482||Remitting seronegative symmetrical synovitis with pitting edema
+C2919482||RS3PE
+C0678236||rare condition
+C0001792||elderly
+C0035435||rheumatic
+C0442867||malignant diseases
+C0025266||man
+C0011900||diagnosis
+C2919482||RS3PE
+C0037088||clinical sign
+C0006826||malignancies
+C2919482||RS3PE
+C0027667||occult tumors
+C1704254||images
+C0332516||symmetrically
+C0205219||diffusely
+C0046056||F-FDG
+C0243144||uptake
+C0225317||soft tissue
+C0022417||joints
+C0262950||bones
+C0037004||shoulders
+C0019552||hips
+C0022742||knees
+C0003086||ankles

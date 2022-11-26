@@ -1,0 +1,51 @@
+C0039101||Synovial sarcoma
+C0020629||hypopharynx
+C0085973||Case report
+C0039101||Synovial sarcoma
+C0039101||Synovial sarcoma
+C0225317||soft tissue
+C1261473||sarcoma
+C1827431||head and neck sarcomas
+C0039101||Synovial sarcoma
+C0018670||Head
+C0027530||Neck
+C1257890||population
+C0039101||Synovial sarcoma
+C1827431||head & neck malignancy
+C0011900||diagnosed
+C0039101||Synovial sarcoma
+C0020629||hypopharynx
+C0332293||treated by
+C0728940||surgical excision
+C0241311||post operative
+C1522449||radio
+C3665472||chemotherapy
+C0923870||anatomical location
+C0805586||challenges
+C0011167||swallowing
+C0031577||phonation
+C0035203||respiration
+C1257890||population
+C0241311||post-operative
+C0011900||diagnosis
+C0039101||Synovial sarcoma
+C0087111||treatment
+C0018670||Head
+C0027530||Neck
+C0039101||Synovial sarcoma
+C0205478||oncologic
+C0039101||Synovial sarcoma
+C1827431||head & neck malignancy
+C1257890||population
+C0205291||multifaceted
+C0805586||challenges
+C0241311||post-operative
+C0011900||diagnosis
+C0087111||treatment
+C0237512||Clinical judgment
+C1257890||population
+C0332648||tumor free margins
+C0029209||organ preservation
+C0018670||head
+C0027530||neck
+C0005898||region

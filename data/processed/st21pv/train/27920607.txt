@@ -1,0 +1,23 @@
+C1705920||species
+C0684063||Fiorianteon Olmi
+C0020415||Hymenoptera
+C1191214||Dryinidae
+C0017446||Afrotropical region
+C0684063||Fiorianteon sulcatumsp
+C0017446||Fianarantsoa Province
+C0024443||Madagascar
+C1705920||species
+C0684063||Fiorianteon
+C0017446||Afrotropical region
+C1708235||genus
+C0684063||Fiorianteon
+C1708235||genus
+C0684063||Conganteon
+C0205108||distal
+C0042449||stigmal vein
+C0424641||shorter
+C0205107||proximal
+C0042449||stigmal vein
+C0205107||proximal
+C0042449||vein
+C0684063||Conganteon

@@ -1,0 +1,18 @@
+C0162326||Draft Genome Sequence
+C0004590||Bacillus cereus LA2007
+C3494793||Human-Pathogenic Isolate
+C0032136||Anthrax -Like Plasmids
+C0162326||genome sequence
+C0004590||Bacillus cereus LA2007
+C0004626||fatal pneumonia
+C0085973||case
+C0024024||Louisiana
+C3854164||Sequence-based genome analysis
+C0004590||LA2007
+C0699809||carries
+C0032136||plasmid
+C0004589||Bacillus anthracis pXO1
+C0017337||genes
+C0444622||production
+C1327622||regulation
+C0051962||anthrax toxin

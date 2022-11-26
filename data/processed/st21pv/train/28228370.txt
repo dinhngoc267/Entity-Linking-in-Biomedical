@@ -1,0 +1,56 @@
+C0031831||Doctors'
+C1999167||Older
+C0001811||Aging
+C3898714||Promoting Active Aging
+C3898714||Computer-Based Intervention Study
+C1999167||older
+C0281163||computer-based educational intervention
+C0017319||general practitioners
+C0017319||general practitioners
+C0001811||aging
+C0001811||Aging
+C3898714||Promoting Active Aging
+C0034394||baseline questionnaire
+C0184661||intervention
+C4054939||follow-up questionnaire
+C3898714||intervention
+C1552443||primary care facilities
+C0017319||general practitioners
+C0282121||baseline assessment
+C0016441||follow-up
+C0017319||general practitioners
+C0034394||questionnaires
+C0184661||intervention
+C0017319||general practitioners
+C0162340||knowledge
+C3161035||modelling
+C1706852||pdf article
+C0162340||knowledge
+C3898714||intervention
+C0282574||Expectations Scale
+C0282574||Communication Scale
+C0282574||Attitude Toward Treatment and Health Scale
+C0282574||Self-Efficacy Scale
+C0017319||general practitioners
+C0030971||perception
+C1999167||older
+C0681841||disease explanation
+C0030971||perception
+C0026605||motivational
+C1999167||older
+C0017319||general practitioners
+C1706852||pdf article
+C0184661||intervention
+C0184661||intervention
+C0017319||GP
+C0687114||organizational structure
+C0205146||areas
+C1706852||pdf article
+C0184661||intervention
+C0031831||doctors
+C1999167||older
+C0017319||general practitioners
+C0033173||privately owned facilities
+C3898714||PRACTA intervention
+C0031831||doctors
+C1999167||older

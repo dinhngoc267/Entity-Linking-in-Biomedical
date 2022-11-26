@@ -1,0 +1,55 @@
+C0872259||Repetitive transcranial magnetic stimulation
+C0392335||cognitive function
+C0002395||Alzheimer's disease
+C0872259||Repetitive transcranial magnetic stimulation
+C0872259||Repetitive transcranial magnetic stimulation
+C0184661||intervention
+C0027765||neurological disorders
+C0033522||prospective
+C0034656||randomized
+C0013072||double-blind
+C1706408||placebo-controlled trial
+C0872259||Repetitive transcranial magnetic stimulation
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0679646||participants
+C1257890||groups
+C0027902||Neuropsychological tests
+C0450989||AD Assessment Scale
+C0282574||cognitive subscale
+C0450989||ADAS
+C0282574||cog
+C0451306||Mini-Mental State Examination
+C0451306||Mini-Mental State Examination
+C3496286||Montreal Cognitive Assessment
+C3496286||Montreal Cognitive Assessment
+C0589055||World Health Organization University of California-Los Angeles, Auditory Verbal Learning Test
+C0589055||WHO-UCLA AVLT
+C0184661||intervention
+C0002395||Alzheimer's disease
+C0450989||ADAS
+C0282574||cog
+C0451306||Mini-Mental State Examination
+C0589055||WHO-UCLA AVLT
+C0872259||Repetitive transcranial magnetic stimulation
+C1257890||group
+C0087111||treatment
+C3496286||Montreal Cognitive Assessment
+C0184511||ameliorated
+C0002395||Alzheimer's disease
+C0872259||Repetitive transcranial magnetic stimulation
+C0936012||subgroup analysis
+C0872259||Repetitive transcranial magnetic stimulation
+C0025260||memory
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0243095||findings
+C0872259||repetitive transcranial magnetic stimulation
+C0392335||cognitive function
+C0025260||memory
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0872259||Repetitive transcranial magnetic stimulation
+C0677850||adjuvant therapy
+C0008425||cholinesterase inhibitors
+C0002395||Alzheimer's disease

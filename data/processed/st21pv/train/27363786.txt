@@ -1,0 +1,19 @@
+C1858460||Maternal
+C0999068||Loggerhead Sea Turtle
+C1367886||sex determination
+C0014406||incubation environment
+C2364069||adjust
+C0237401||individual
+C0999068||loggerhead sea turtles
+C0999068||Caretta caretta
+C0022130||Bald Head Island
+C0028407||North Carolina
+C1858460||maternal
+C0242481||multivariate predictive models
+C0237401||individual
+C0443204||divergences
+C0014406||environmental
+C0237401||individuals
+C0999068||loggerhead
+C1257890||populations
+C1705920||species

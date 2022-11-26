@@ -1,0 +1,39 @@
+C1761613||conjunctival hyperemia
+C0011905||computer-assisted diagnosis tools
+C0282574||class imbalance
+C0232338||blood flow
+C0229275||bulbar conjunctiva
+C0020452||hyperemia
+C0020452||hyperemia
+C0282574||grading scale
+C0282574||class imbalance
+C0020452||hyperemia
+C0282574||automatic framework
+C0020452||hyperemia
+C0243095||grading
+C0282574||Oversampling
+C0282574||undersampling
+C0282574||SMOTE approaches
+C0282574||class imbalance
+C0034980||regression methods
+C0282574||grading scale
+C0243095||experts' values
+C0034980||regression systems
+C0870951||Multi-layer perceptron
+C0870951||Multi-layer perceptron
+C0282574||random forest (RF) method
+C0870951||Multi-layer perceptron
+C0282574||Correlation based feature selection
+C0282574||Correlation based feature selection
+C0282574||class imbalance problem
+C0282574||SMOTE approach
+C0020452||hyperemia
+C0243095||grading
+C0282574||SMOTE
+C0282574||oversampling approaches
+C0282574||class imbalance problem
+C0015324||system
+C0031831||human expert
+C0031831||experts
+C0015324||system
+C0031831||expert

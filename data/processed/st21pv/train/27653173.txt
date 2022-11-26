@@ -1,0 +1,42 @@
+C1532338||Percutaneous coronary intervention
+C0018821||heart surgery
+C0023185||learning
+C0022418||Jordan
+C0030971||perceived
+C0023185||learning
+C1532338||percutaneous coronary intervention
+C0189745||open-heart surgery
+C0023185||learning
+C0184661||post-cardiac intervention
+C1279810||central care
+C1257890||sample
+C1532338||percutaneous coronary intervention
+C0189745||open-heart surgery
+C0679646||Participants
+C0282574||Learning Needs Scale
+C0023185||learning need
+C1555712||topics
+C0023185||learning
+C0886052||wound care
+C0023185||learning
+C1555712||topic
+C0023185||learning
+C0038545||headings
+C0018787||cardiac
+C0184661||interventional procedure
+C0886052||wound care
+C2081612||medications
+C0023185||learning
+C0018735||health policy
+C0242170||decision makers
+C1555712||topics
+C0586003||hospital discharge
+C0018735||policy
+C0023185||learning
+C0023185||learning
+C0586003||discharge
+C0018747||health services
+C0586003||hospital discharge
+C1555712||topics
+C0023185||learning
+C0014406||environment

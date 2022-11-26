@@ -1,0 +1,56 @@
+C0076616||Thymosin β4
+C0043240||Repair
+C0007226||Cardiovascular System
+C0007222||cardiovascular disease
+C0008976||clinical trials
+C0087111||therapies
+C0018787||heart
+C0027051||myocardial infarction
+C0027051||myocardial infarction
+C0018801||heart failure
+C0031831||doctors
+C0189919||repair the heart
+C1258017||ventricular contractility
+C0442893||systemic disease
+C0042373||vascular disorders
+C0038454||stroke
+C0030956||peptides
+C0076616||thymosin β4
+C0076616||thymosin β4
+C3887460||cardiovascular
+C0333343||niche
+C4246208||fetal development
+C0018805||injuries
+C0027051||myocardial infarction
+C0027671||neovasculogenesis
+C0525011||paracrine signals
+C4084729||endogenous stem cell
+C0043240||wound repair
+C0035168||research
+C1515655||in vivo
+C1533734||administration
+C0076616||thymosin β4
+C1533685||injections
+C0304222||coatings
+C0021102||implants
+C0007589||cell differentiation
+C0076616||thymosin β4
+C1533734||administration
+C0302600||angiogenesis
+C0043240||wound healing
+C0018787||heart
+C0027051||myocardial infarction
+C0006104||brain
+C0038454||stroke
+C1171322||adult stem cells
+C0018787||cardiac
+C0021107||implantation
+C0018787||heart
+C1258017||contractility
+C0008976||clinical trials
+C1515655||in vivo
+C0087111||therapies
+C0086418||human
+C0018017||goal
+C0027361||people
+C0007222||cardiovascular disease

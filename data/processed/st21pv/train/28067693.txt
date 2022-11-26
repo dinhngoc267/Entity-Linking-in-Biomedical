@@ -1,0 +1,58 @@
+C0022614||ketamine
+C0002772||opioid
+C0919636||spinal fusion surgery
+C0150055||chronic pain
+C0002772||opioid
+C0034656||randomized
+C2347038||blinded trial
+C1832073||handling
+C0002772||opioid
+C0033213||problem
+C0683949||Animal studies
+C0022614||ketamine
+C2938905||central sensitization
+C0020429||hyperalgesia
+C0002772||opioid
+C0022614||ketamine
+C0002772||opioid
+C1696465||placebo
+C0150055||chronic pain
+C0002772||opioid
+C0186045||lumbar spinal fusion surgery
+C0026549||morphine
+C0234253||acute pain at rest
+C0185112||mobilization
+C3536884||visual analogue scale
+C0877248||adverse events
+C0030193||pain
+C0034656||randomly assigned
+C2825616||S-ketamine
+C1511237||bolus 0.5 mg/kg and infusion
+C1696465||placebo
+C0002772||opioids
+C0000970||paracetamol
+C0078944||patient-controlled analgesia
+C0026549||morphine
+C3899115||final analyses
+C0078944||Patient-controlled analgesia
+C0026549||morphine
+C0022614||ketamine
+C1696465||placebo
+C0235195||Sedation
+C0022614||ketamine
+C0184567||acute pain
+C0027497||nausea
+C0042963||vomiting
+C0018524||hallucinations
+C0028084||nightmares
+C0004604||Back pain
+C0030193||pain
+C0184511||improved
+C0022614||ketamine
+C1696465||placebo
+C0022614||ketamine
+C0026549||morphine
+C0186045||lumbar fusion surgery
+C0002772||opioid
+C0030193||pain
+C1517331||further

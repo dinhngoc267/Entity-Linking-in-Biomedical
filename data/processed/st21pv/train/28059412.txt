@@ -1,0 +1,15 @@
+C1511131||cyclopropanation
+C3179052||polycyclopropanated polyketide
+C0003240||jawsamycin
+C0003240||Jawsamycin
+C3179052||polyketide
+C0028621||nucleoside
+C0010587||polycyclopropane
+C3179052||polyketide chain
+C0010587||cyclopropane
+C0003240||jawsamycin
+C1511131||cyclopropanation
+C0014442||enzymatic
+C3179052||polyketide
+C1511131||cyclopropanation
+C1511131||cyclopropanation reactions

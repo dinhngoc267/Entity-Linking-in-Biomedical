@@ -1,0 +1,84 @@
+C0016327||Fluoride
+C0036087||saliva
+C0081786||biofilm fluid
+C0185125||application
+C0016326||fluoride varnishes
+C0016326||fluoride varnishes
+C0016326||fluoride varnishes
+C0220825||evaluated
+C3179394||cariostatic properties
+C1515655||in vivo
+C2603343||study
+C0220825||investigate
+C0442107||intra
+C0442027||oral
+C0016327||fluoride
+C0231360||clearance patterns
+C0016326||fluoride varnishes
+C0080105||subjects
+C0022877||laboratory
+C0150108||blinded
+C0034656||randomized
+C0150097||crossover study
+C0016326||sodium fluoride varnishes
+C0016326||CavityShield-CS
+C0016326||Enamel Pro-EP
+C0016326||Vanish-V
+C0016327||fluoride
+C0081786||biofilm fluid
+C3897072||centrifuged
+C0036087||saliva
+C0016326||fluoride varnishes
+C0016327||fluoride
+C1317574||noted
+C0016326||fluoride varnishes
+C2603343||studied
+C0016327||fluoride
+C0016326||fluoride varnishes
+C0081786||biofilm fluid
+C0016326||CS
+C0016326||EP
+C0016326||V
+C3897072||centrifuged
+C0036087||saliva
+C0016326||CS
+C0016326||EP
+C0016326||V
+C0036087||saliva
+C0016326||CS
+C0016326||EP
+C0016326||V
+C0016326||V
+C0016327||fluoride
+C0081786||biofilm fluid
+C0016326||CS
+C0016326||EP
+C3897072||centrifuged
+C0036087||saliva
+C0016326||CS
+C0016326||V
+C0016327||fluoride
+C0016326||EP
+C0016326||fluoride varnishes
+C0036087||saliva
+C0150312||present
+C2603343||study
+C0016326||fluoride varnishes
+C0016327||fluoride
+C0442107||intra
+C0442027||orally
+C0439792||extent
+C0150312||present
+C0243095||findings
+C1148554||determined
+C0008972||Clinical research
+C0220825||investigates
+C0016327||fluoride
+C0449774||patterns
+C0036087||saliva
+C0081786||biofilm fluid
+C0016326||FV products
+C0242481||research
+C0220825||investigate
+C0016326||FV formulations
+C0871685||clinicians

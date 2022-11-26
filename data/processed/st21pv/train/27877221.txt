@@ -1,0 +1,39 @@
+C0011847||Diabetes
+C0376358||Prostate Cancer
+C1305855||Body Mass Index
+C0028754||obesity
+C0376358||prostate cancer
+C0011847||diabetic
+C1556095||Korean population
+C0027452||National Health Insurance System
+C0027452||National Health Insurance System
+C0679646||participants
+C0260135||health examinations
+C0025266||men ≥40 years old
+C0376358||prostate cancer
+C0010235||Cox regression analysis
+C0376358||prostate cancer
+C1305855||body mass index
+C1305855||body mass index
+C0011847||diabetes
+C0376358||prostate cancer
+C0011847||diabetes
+C1305855||body mass index
+C1257890||population
+C0011847||diabetes
+C0376358||prostate cancer
+C1305855||body mass index
+C1257890||population
+C0011847||diabetes
+C0376358||prostate cancer
+C1305855||body mass index
+C1257890||population
+C1305855||body mass index
+C1305855||body mass index
+C1257890||population
+C1257890||population
+C0028754||obesity
+C0376358||prostate cancer
+C0332167||risk increases
+C1305855||body mass index
+C0011847||diabetes

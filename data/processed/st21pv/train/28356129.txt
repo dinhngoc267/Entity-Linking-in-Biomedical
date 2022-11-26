@@ -1,0 +1,54 @@
+C0525033||probiotic
+C2936470||synbiotic
+C0242296||supplementation
+C0524620||metabolic syndrome
+C0011860||type 2 diabetes
+C1507394||study protocol
+C0206035||randomized controlled trial
+C0011860||type 2 diabetes
+C0007222||cardiovascular diseases
+C0028754||obesity
+C0699748||pathogenesis
+C0543488||intriguing
+C3658208||dysbiosis
+C0025517||metabolic diseases
+C0525033||probiotic
+C2936470||synbiotic
+C0242296||supplementation
+C0025517||metabolic dysfunction
+C0011847||diabetes
+C0362046||prediabetics
+C2603343||study
+C2603343||study
+C2936470||synbiotics
+C0022065||Iran
+C0206035||randomized triple-blind controlled clinical trial
+C0271650||impaired glucose tolerance
+C0449370||sampling method
+C0525033||probiotic
+C2936470||synbiotic
+C1696465||placebo
+C0015733||fecal
+C0004611||bacteria
+C0005823||blood pressure
+C0455829||waist
+C0562350||hip circumferences
+C0087111||treatment
+C0019018||HbA1C
+C0583513||fasting plasma glucose
+C0021641||insulin
+C4049994||insulin resistance
+C4049994||HOMA-IR
+C4055385||beta-cell function
+C4055385||HOMA-B
+C1710191||statistical methods
+C0206035||trial
+C0282451||evidence-based clinical guidelines
+C0087111||manipulation
+C0199176||prevention
+C0376636||management
+C0524620||metabolic syndrome
+C0362046||prediabetes
+C0034975||Iranian Registry
+C0008976||Clinical Trials
+C0282574||IRCT201511032321N2

@@ -1,0 +1,39 @@
+C0009429||Combination Therapy
+C0937846||Esomeprazole
+C0069562||Rebamipide
+C1457887||Symptom
+C0014869||Reflux Esophagitis
+C1096776||Multicenter Study
+C0937846||esomeprazole
+C0069562||rebamipide
+C0009429||combination therapy
+C1457887||symptomatic
+C0014869||reflux esophagitis
+C0014869||reflux esophagitis
+C0206034||randomized
+C0040808||treatment regimens
+C0937846||esomeprazole
+C0069562||rebamipide
+C0009429||combination therapy
+C0937846||esomeprazole
+C0087111||monotherapy
+C1457887||symptom
+C0034394||questionnaire
+C0018834||heartburn
+C0857493||upper gastrointestinal symptoms
+C0009429||combination therapy
+C0087111||monotherapy
+C0014869||reflux
+C1457887||symptom
+C0087111||treatment
+C0009429||combination therapy
+C0087111||monotherapy
+C0087111||treatment
+C0937846||esomeprazole
+C0069562||rebamipide
+C0009429||combination therapy
+C0442797||decreasing
+C1457887||symptoms
+C0014869||reflux esophagitis
+C0937846||esomeprazole
+C0087111||monotherapy

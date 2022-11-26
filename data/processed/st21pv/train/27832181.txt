@@ -1,0 +1,24 @@
+C0184104||Blood Collection Tubes
+C2984945||Measuring 25-Hydroxyvitamin D
+C2984945||measurement of 25-hydroxyvitamin D
+C0535968||25OHD
+C0184104||VACUETTE® tubes with Serum Clot Activator and Gel
+C0184104||tubes
+C2984945||25OHD results
+C0229671||Serum
+C0184104||vacuum blood collection tubes
+C2984945||25OHD was analyzed
+C4049918||liquid chromatography tandem mass spectrometry
+C4049918||LC-MS/MS
+C2984945||25OHD values
+C0184104||VACUETTE® tubes with serum clot activator and gel
+C0184104||VACUETTE® tubes with clot activator
+C0184104||VACUETTE® tubes
+C2984945||25OHD values
+C4049918||LC-MS/MS
+C0184104||IMPROVEVACUTER® tubes with serum clot activator and ge
+C0184104||VACUETTE® tubes
+C2984945||25OHD results
+C0229671||serum
+C0184104||IMPROVEVACUTER® tubes
+C0535968||25OHD

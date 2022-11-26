@@ -1,0 +1,69 @@
+C0023791||alpha lipoic acid
+C0678723||development
+C3667982||bovine
+C0737234||secondary preantral follicles
+C2603343||study
+C0220825||evaluate
+C0023791||alpha lipoic acid
+C0023791||alpha lipoic acid
+C0010454||culture medium
+C0678723||development
+C3667982||bovine
+C0737234||secondary preantral follicles
+C3667982||Bovine
+C0737234||secondary preantral follicles
+C0456389||size
+C0010454||media
+C0023791||alpha lipoic acid
+C0017262||genes expression
+C1414828||follicle-stimulating hormone beta-subunit
+C1414828||follicle-stimulating hormone beta-subunit
+C1334089||insulin-like growth factor
+C1334089||IGF-1
+C0017337||Activin
+C1416843||luteinizing hormone/choriogonadotropin receptor
+C1332430||bone morphogenetic protein receptor type IA
+C1424583||transforming growth factor beta receptor 1
+C1333668||growth differentiation factor 9
+C0812198||BCL2-associated X protein
+C0812198||BCL2-associated X protein
+C0079068||C-Myc
+C1709846||real-time polymerase chain reaction
+C1171362||protein expression
+C0034806||follicle-stimulating hormone beta-subunit
+C0021665||IGF-1
+C0219474||BCL2-associated X protein
+C0949466||Western blot analysis
+C0023791||alpha lipoic acid
+C1155901||increase in the growth
+C0678723||development
+C0737234||secondary preantral follicles
+C0430400||culture
+C1414828||follicle-stimulating hormone beta-subunit
+C1334089||IGF-1
+C1416843||luteinizing hormone/choriogonadotropin receptor
+C1332430||bone morphogenetic protein receptor type IA
+C1424583||transforming growth factor beta receptor 1
+C1333668||growth differentiation factor 9
+C0017337||Activin A genes
+C0041904||upregulated
+C0023791||alpha lipoic acid
+C0737234||follicles
+C0017337||preapoptotic genes
+C0812198||BCL2-associated X protein
+C0079068||C-Myc
+C0013081||downregulated
+C0737234||follicles
+C0428479||protein levels
+C0034806||follicle-stimulating hormone beta-subunit
+C0021665||IGF-1
+C1171362||expressed
+C0737234||follicles
+C0219474||BAX protein
+C0013081||downregulated
+C0737234||follicles
+C0023791||alpha lipoic acid
+C0010454||culture medium
+C0737234||secondary preantral follicles
+C0678723||development
+C1155901||growth

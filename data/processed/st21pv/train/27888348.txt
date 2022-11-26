@@ -1,0 +1,16 @@
+C0699748||Pathogenesis
+C0024117||COPD
+C0004096||Asthma
+C0004096||Asthma
+C0024117||COPD
+C0035242||diseases of the respiratory tract
+C0282443||review
+C0699748||pathogenesis
+C1290886||chronic inflammatory diseases
+C0024109||lung
+C0282443||review
+C0087111||treatment
+C0031330||pharmacology
+C0087111||treatment
+C0004096||asthma
+C0024117||COPD

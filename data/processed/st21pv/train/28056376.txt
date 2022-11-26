@@ -1,0 +1,40 @@
+C1579762||comparative study
+C0034602||interventional radiological approaches
+C3697228||post-mortem CT
+C0002978||angiography
+C1536105||post-mortem computed tomography angiography
+C1536105||Multi-phase post-mortem computed tomography angiography
+C0430022||diagnostic tool
+C1450224||forensic pathology
+C1402315||vascular
+C0440790||solid organ
+C0221198||lesions
+C0243095||surgical denudation
+C0018246||inguinal
+C0205064||cervical
+C0021107||insertion
+C0520453||surgical cannulas
+C0004398||scientific autopsies
+C0344093||interventional radiological techniques
+C1536105||Multi-phase post-mortem computed tomography angiography
+C0520453||surgical cannulas
+C0085590||radiological catheters
+C0184511||improve
+C0004398||scientific autopsies
+C2603343||study
+C0015730||feasibility
+C1536105||Multi-phase post-mortem computed tomography angiography
+C0006629||corpses
+C0085590||radiological catheters
+C0520453||surgical cannulas
+C0006629||Corpses
+C0011923||imaging procedure
+C0005847||global vascular
+C0023216||lower limbs
+C0221464||arterial
+C0348013||venous
+C0004398||scientific autopsies
+C0085590||radiological catheter
+C0005847||Vascular
+C0520453||surgical cannula
+C0184898||incision

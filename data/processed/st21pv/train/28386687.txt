@@ -1,0 +1,56 @@
+C0205161||Abnormal
+C0006104||brain
+C0598941||network
+C0030567||Parkinson's disease
+C0239307||European
+C2603343||study
+C0006104||brain
+C0449774||pattern
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0598941||network
+C0006104||brain
+C1704254||images
+C0599755||cohort
+C0037334||Slovenian
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C3639714||Movement Disorder Society Unified Parkinson's Disease Motor Rating Scale
+C3639714||MDS-UPDRS-III
+C0203860||brain imaging
+C0441633||scans
+C0037334||Slovenia
+C0342952||hypermetabolism
+C0017651||pallidum
+C0034169||putamen
+C0039729||thalamus
+C0006121||brain stem
+C0007765||cerebellum
+C0347938||hypometabolism
+C3499125||sensorimotor cortex
+C3853037||posterior parietal
+C1184145||occipital
+C0016733||frontal cortices
+C0037334||Slovenia
+C0030567||Parkinson's disease
+C3639714||MDS-UPDRS-III
+C0392918||topography
+C0596070||American
+C0599755||cohort
+C0030567||Parkinson's disease
+C0037334||Slovenia
+C0441633||scans
+C0030567||Parkinson's disease
+C4302185||atypical parkinsonism
+C4302185||atypical parkinsonism
+C0037334||Slovenia
+C0030567||Parkinson's disease
+C4302185||atypical parkinsonism
+C0037334||Slovenia
+C1517324||functional imaging
+C0005516||biomarker
+C1257890||population
+C0030567||Parkinson's disease
+C4302185||atypical parkinsonism
+C0030567||Parkinson's disease
+C0242656||progression

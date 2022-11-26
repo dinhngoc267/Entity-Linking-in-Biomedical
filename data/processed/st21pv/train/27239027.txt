@@ -1,0 +1,49 @@
+C0013264||Duchenne Muscular Dystrophy
+C0596995||Myoblasts
+C0086418||Human
+C2717959||iPSC
+C0684309||Model
+C0013264||Duchenne muscular dystrophy
+C0013264||Duchenne muscular dystrophy
+C0019247||genetic disease
+C0012644||animal models
+C0013264||Duchenne muscular dystrophy
+C0682523||human cell
+C1414083||DYSTROPHIN
+C0596611||mutations
+C0086418||human
+C0013264||Duchenne muscular dystrophy
+C0684309||model
+C3658289||human induced pluripotent stem cells
+C3658289||human induced pluripotent stem cells
+C0012634||disease
+C0220806||chemical-compound
+C0035171||strategy
+C3658289||human induced pluripotent stem cells
+C0596995||myoblasts
+C0040649||myogenic transcriptional
+C1752744||contractile
+C3179197||myofibers
+C1850849||muscle regeneration
+C1515655||in vivo
+C0013264||Duchenne muscular dystrophy
+C3658289||hiPSC
+C0596995||myoblasts
+C0012634||disease
+C0021368||inflammation
+C0086344||immune-response genes
+C0009325||collagens
+C1155364||BMP
+C1155363||TGFβ signaling
+C1571580||SMAD
+C1519312||inhibition
+C0013264||Duchenne muscular dystrophy
+C3658289||hiPSC
+C0596995||myoblasts
+C0596995||myoblasts
+C0242697||myotubes
+C0086418||human
+C0013264||Duchenne muscular dystrophy
+C0684309||model
+C3658289||hiPSC
+C0684309||disease modeling

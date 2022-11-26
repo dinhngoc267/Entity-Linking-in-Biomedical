@@ -1,0 +1,65 @@
+C0026192||Minority
+C0206035||Randomised Clinical Trials
+C0886296||Technology Enhanced Community Health Nursing
+C0886296||Technology Enhanced Community Health Nursing
+C0242172||Pelvic Inflammatory Disease
+C0242172||Pelvic inflammatory disease
+C0242172||Pelvic inflammatory disease
+C0043210||women
+C0242667||reproductive health
+C0206035||randomized controlled trials
+C0206035||randomized controlled trials
+C0184511||improve
+C0035150||reproductive
+C1257890||population
+C0086912||research methods
+C0886296||intervention
+C0206035||RCT
+C0886296||technology-enhanced community-health nursing
+C0886296||Technology Enhanced Community Health Nursing
+C0886296||intervention
+C0242172||Pelvic inflammatory disease
+C0043210||women
+C0149959||acute PID
+C1512346||visits
+C0002424||outpatient clinics
+C0562508||emergency departments
+C0562508||emergency departments
+C0030699||participate
+C2346499||IRB-approved
+C0679646||Participants
+C0586773||vaginal specimens
+C0034656||randomized
+C0087111||treatment
+C0886296||intervention
+C0886296||Intervention
+C0679646||participants
+C1522710||community health nurse (CHN) interventionist
+C1516879||enrollment
+C0586969||outreach worker
+C0036916||STI
+C1512346||visits
+C0936012||Exploratory analyses
+C1710191||descriptive statistics
+C1522577||follow-up
+C0886296||intervention
+C1516879||enrolled
+C0679646||participants
+C0085756||African American
+C0027361||individuals
+C0886296||TECH-N intervention
+C1522577||follow-up
+C0518948||Chlamydia trachomatis
+C3854370||Mycoplasma genitalium
+C0040923||Trichomonas vaginalis infections
+C0886296||Technology Enhanced Community Health Nursing
+C0442529||urban
+C1331016||low-income
+C0026192||minority
+C0242172||Pelvic inflammatory disease
+C0030699||participate
+C0242667||reproductive health
+C0206035||randomized controlled trials
+C1514880||infrastructure of the study
+C0184661||interventions
+C1257890||population

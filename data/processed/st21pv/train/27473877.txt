@@ -1,0 +1,25 @@
+C0028688||nursing homes
+C0043210||older women
+C0949415||qualitative study
+C0028688||nursing homes
+C2712041||lack of privacy
+C0004271||attitudes
+C0028698||staff
+C0036911||sexual partner
+C0243095||physical limitations
+C0949415||study
+C3161473||elderly Spanish women
+C0028688||nursing homes
+C0949415||qualitative phenomenological approach
+C0010995||collected
+C2347958||Spanish residents
+C0028688||nursing homes
+C0017446||Madrid
+C0936012||analyzed
+C0242481||thematic analysis
+C2347958||residents
+C0028702||duty
+C2347958||residents
+C0028688||Nursing Homes
+C0028688||nursing home
+C2347958||residents

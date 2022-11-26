@@ -1,0 +1,77 @@
+C3891304||Human cathelicidin LL-37
+C0243095||antibiofilm effect
+C0059438||(-)-Epigallocatechin gallate
+C0038409||Streptococcus mutans
+C0038409||Streptococcus mutans
+C0081786||biofilms
+C1136254||antimicrobial agents
+C0086418||human
+C0226896||oral cavity
+C3891304||human cathelicidin LL-37
+C1325881||biofilm formation
+C0038409||S. mutans
+C0065067||lipoteichoic acid
+C0065067||lipoteichoic acid
+C0243095||antibacterial
+C0081786||biofilm
+C0332624||dispersal abilities
+C0059438||(-)-Epigallocatechin gallate
+C0059438||(-)-Epigallocatechin gallate
+C0039400||tea
+C0007404||catechins
+C0243095||anti-infective potential
+C2249823||inhibit the growth
+C1325881||biofilm formation
+C0220825||evaluated
+C3891304||LL-37
+C0059438||(-)-Epigallocatechin gallate
+C0243095||antibiofilm effect
+C0059438||(-)-Epigallocatechin gallate
+C0038409||S. mutans
+C1325881||biofilm formation
+C0038409||S. mutans
+C0036087||saliva
+C1325881||biofilm formation
+C0005507||assay
+C0243095||antibiofilm effect
+C0059438||(-)-Epigallocatechin gallate
+C3891304||LL-37
+C0936012||analyzed
+C0081786||biofilm
+C0005507||assay
+C0026020||emission-scanning electron microscopy
+C0059438||(-)-Epigallocatechin gallate
+C3891304||LL-37
+C0065067||lipoteichoic acid
+C0038409||S. mutans
+C2936414||quartz crystal microbalance analysis
+C0059438||(-)-Epigallocatechin gallate
+C0032071||planktonic
+C0038409||S. mutans
+C1325881||biofilm formation
+C0004611||bacteria cells
+C0081786||biofilms
+C0059438||(-)-Epigallocatechin gallate
+C0065067||lipoteichoic acid
+C3891304||LL-37
+C0544570||bactericidal activity
+C0059438||(-)-Epigallocatechin gallate
+C1325881||biofilm formation
+C0081786||biofilms
+C0017440||crystal violet
+C0487602||staining
+C0026020||emission-scanning electron microscopy
+C2936414||quartz crystal microbalance analysis
+C3891304||LL-37
+C0059438||(-)-Epigallocatechin gallate
+C1167622||binding
+C0059438||(-)-Epigallocatechin gallate
+C0065067||lipoteichoic acid
+C0038409||S. mutans
+C3891304||LL-37
+C0243095||antibiofilm effect
+C0059438||(-)-Epigallocatechin gallate
+C0038409||S. mutans
+C0011331||dental treatment
+C3891304||LL-37
+C1254351||antibiofilm compound

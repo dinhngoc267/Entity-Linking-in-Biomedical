@@ -1,0 +1,66 @@
+C1516031||Anti-tumor activity
+C4278992||SL4
+C1512505||breast cancer cells
+C1517345||G2/M arrest
+C0752312||MAPK
+C0288472||p21
+C0037083||signaling pathway
+C4278992||SL4
+C0007935||chalcone
+C1706082||compound
+C1269955||tumor invasion
+C1519670||angiogenesis
+C0215848||HIF1
+C0162638||apoptosis
+C0162772||ROS
+C0684224||report
+C4278992||SL4
+C0596290||proliferation
+C1512505||breast cancer cell
+C1515655||in vivo
+C1517345||G2/M cell cycle arrest
+C4278992||SL4
+C0003392||anti-proliferative
+C0086418||human
+C0678222||breast cancer
+C0085983||cell lines
+C2603343||studies
+C1444656||indicated
+C4278992||SL4
+C1517345||G2/M arrest
+C0085983||cell lines
+C4278992||SL4
+C0017262||expression
+C0297674||cyclin A2
+C0213045||cdc25C
+C0080054||cdc2
+C0385333||cyclin B1
+C1704241||complex
+C4278992||SL4
+C1533734||treatment
+C0249197||p21
+C0035696||mRNA
+C0033684||protein
+C2259058||activation
+C1518102||MAPK signaling pathways
+C1155363||TGF-β pathway
+C0968383||SP600125
+C0298346||PD98059
+C0243077||inhibitors
+C0291988||JNK kinase
+C0600388||ERK kinase
+C4278992||SL4
+C1517345||G2/M phase arrest
+C0041904||upregulation
+C0288472||p21
+C4278992||SL4
+C0007595||growth
+C1458155||breast tumors
+C0025932||nude mice
+C0041904||upregulation
+C0288472||p21
+C0013081||downregulation
+C0213045||cdc25C
+C0243095||findings
+C4278992||SL4
+C0003392||multi-target anti-tumor drug candidate

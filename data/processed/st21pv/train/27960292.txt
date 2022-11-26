@@ -1,0 +1,46 @@
+C1568221||Ankaflavin
+C1871155||Monascin
+C0162638||Apoptosis
+C2340138||Hepatic Stellate Cells
+C0164786||Akt
+C0079904||NF-κB
+C1451465||p38
+C0037080||Signaling Pathway
+C0596290||proliferation
+C2340138||hepatic stellate cells
+C2340138||hepatic stellate cells
+C0239946||hepatic fibrosis
+C0015350||extracellular matrix
+C0015350||extracellular matrix
+C0033684||protein
+C0997449||Monascus purpureus
+C0870883||metabolites
+C1568221||ankaflavin
+C1871155||monascin
+C0164786||Akt
+C0079904||nuclear factor (NF)-κB
+C1120843||p38 mitogen-activated protein kinase
+C1120843||mitogen-activated protein kinase
+C0037080||signaling pathways
+C0682523||HSC-T6
+C0682523||activated hepatic stellate cell line
+C1568221||Ankaflavin
+C1871155||monascin
+C0162638||apoptosis
+C0007595||cell growth
+C0007620||cell viabilities
+C0007634||control cells
+C0162638||Apoptosis
+C3178834||G1 phase arrest
+C0007634||control cells
+C0080055||p53
+C0288472||p21
+C0428479||levels
+C1150132||caspase 3 activity
+C0174680||cyclin D1
+C3269083||Bcl-2-family protein
+C0428479||levels
+C1568221||ankaflavin
+C1871155||monascin
+C0682523||HSC-T6
+C0239946||liver fibrosis

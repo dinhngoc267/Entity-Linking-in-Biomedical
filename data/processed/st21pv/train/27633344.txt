@@ -1,0 +1,44 @@
+C0282443||review
+C3263723||injuries
+C0221423||illnesses
+C3263723||injuries
+C0221423||illnesses
+C0013961||emergency medical services
+C0013961||emergency medical services
+C0023866||Literature
+C0009458||media
+C0684224||reports
+C3263723||injury
+C0221423||illness
+C0237078||medical care
+C2603343||study
+C0936012||analysed
+C0006823||Canada
+C0679646||participants
+C0007963||medical charts
+C0450429||onsite
+C0086390||medical team
+C3263723||injury
+C0221423||illness
+C0087111||treatment
+C0679646||race participants
+C0679646||participants
+C0025102||medical complaints
+C3263723||injuries
+C0237078||medical care
+C0087111||treatments
+C0016143||first aid
+C0025080||medical equipment
+C0019994||hospital
+C0013961||emergency medical services
+C0016658||fracture
+C0012691||dislocation
+C0018674||head injury
+C0008031||chest pain
+C0000737||abdominal pain
+C0679646||race participants
+C0199168||medical services
+C0332673||minor
+C0272448||musculoskeletal
+C0019994||hospital
+C0013961||emergency medical services

@@ -1,0 +1,73 @@
+C2350345||AMP-activated protein kinase
+C0004391||autophagy
+C1567768||icaritin
+C0243095||anti-colorectal cancer
+C0007613||cell activity
+C0035168||research
+C0004391||autophagy
+C1567768||icaritin
+C0243095||anti-colorectal cancer
+C1527249||anti-colorectal cancer
+C0007613||cell activity
+C1567768||icaritin
+C0282639||HT-29
+C1527249||anti-colorectal cancer
+C0007634||cells
+C0004391||autophagy
+C1420393||p62
+C0314674||degradation
+C1412785||Beclin-1
+C1825497||autophagy-related gene-5
+C1825497||autophagy-related gene-5
+C0041904||upregulation
+C1311384||light chain 3B
+C1311384||light chain 3B
+C0120285||GFP
+C0004391||autophagy
+C1567768||icaritin
+C1527249||anti-colorectal cancer
+C0007587||cell death
+C0162638||apoptosis
+C2930586||shRNA
+C2350567||knockdown
+C1412785||Beclin-1
+C1825497||autophagy-related gene-5
+C1567768||icaritin
+C1527249||anti-colorectal cancer
+C0007587||cell death
+C0162638||apoptosis
+C1567768||Icaritin
+C2350345||AMP-activated protein kinase
+C2350345||AMP-activated protein kinase
+C0037083||signaling
+C1527249||anti-colorectal cancer
+C0007634||cells
+C0037083||signaling
+C0004391||autophagy
+C2930586||shRNA
+C1099354||siRNA
+C2350567||knockdown
+C1418897||AMPKα1
+C1567768||icaritin
+C0004391||autophagy
+C1527249||anti-colorectal cancer
+C0007587||cell death
+C2350345||AMP-activated protein kinase
+C1254351||compound 13
+C1254351||compound 13
+C0004391||autophagy
+C3661263||MHY1485
+C1567768||icaritin
+C0596402||cytotoxicity
+C0025932||nude mice
+C1567768||icaritin
+C0001563||oral administration
+C0282639||HT-29
+C1418897||AMPKα1
+C2930586||shRNA
+C2350567||knockdown
+C0027651||tumors
+C2350345||AMP-activated protein kinase
+C0004391||autophagy
+C0037080||pathway
+C1567768||icaritin

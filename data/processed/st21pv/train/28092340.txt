@@ -1,0 +1,53 @@
+C0408670||Decompression Surgery
+C0408670||Decompression
+C0919636||Fusion
+C0158288||Lumbar Spinal Stenosis
+C0241315||Swiss
+C1709709||Prospective Multi-center Cohort Study
+C0016441||Follow-up
+C0035363||Retrospective analysis
+C1709709||prospective, multicenter cohort study
+C0919636||surgical fusion
+C0408670||decompression surgery
+C0158288||lumbar spinal stenosis
+C0038016||spondylolisthesis
+C1515089||optimal surgical management
+C0158288||lumbar spinal stenosis
+C0038016||spondylolisthesis
+C0543472||LSOS
+C0410636||DLSS
+C0038016||spondylolisthesis
+C0086750||outcomes
+C0037944||Spinal Stenosis
+C1457887||symptoms
+C0016441||follow-up
+C0919636||fusion surgery
+C0408670||decompression
+C0243095||number of decompressed levels
+C0302523||repeated observations
+C0086750||outcomes
+C1457887||symptoms
+C0589120||follow-up
+C0282574||Akaike's Information Criterion
+C0282574||Akaike's Information Criterion
+C0237913||chi-squared test
+C1305855||BMI
+C0011847||diabetes
+C0026857||musculoskeletal disorders
+C2926735||duration
+C1457887||symptoms
+C0408670||decompression surgery
+C0408670||decompression
+C0919636||fusion surgery
+C0919636||fusion
+C0408670||decompression alone surgery
+C1457887||symptoms
+C0410636||degenerative lumbar spinal stenosis
+C0038016||spondylolisthesis
+C0408670||decompression
+C0408670||decompression
+C0919636||fusion
+C0543467||surgical treatment
+C0919636||fusion surgery
+C0086750||outcome
+C0408670||decompression alone surgery

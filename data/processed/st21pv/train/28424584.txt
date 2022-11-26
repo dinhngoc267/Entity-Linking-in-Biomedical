@@ -1,0 +1,72 @@
+C0965644||hypoxia-inducible factor 1α
+C1514559||Overexpression
+C0184511||Improves
+C1257990||Transplanted Bone Mesenchymal Stem Cells
+C0007620||Survival
+C0012644||Rat MCAO Stroke Model
+C1257975||Bone mesenchymal stem cells
+C1257975||Bone mesenchymal stem cells
+C0007587||death
+C1257990||transplantation
+C0302189||cell therapy
+C0007785||cerebral infarction
+C0008972||study
+C1257975||Bone mesenchymal stem cells
+C0965644||hypoxia-inducible factor 1α
+C0965644||hypoxia-inducible factor 1α
+C0007620||survival
+C1257990||implanted BMSCs
+C1257975||Bone mesenchymal stem cells
+C3827940||isolated
+C0034716||Wistar rats
+C3714514||infected
+C1520007||Hif-1α-GFP lentiviral vector
+C1099354||Hif-1α siRNA
+C1257975||Bone mesenchymal stem cells
+C4236781||oxygen-glucose deprivation (OGD) condition
+C0007620||cellular viability
+C0162638||apoptosis
+C1254351||inhibitor
+C2350345||AMPK
+C1254351||compound C
+C1511790||detect
+C2350345||AMPK
+C1447315||mTOR
+C0965644||hypoxia-inducible factor 1α
+C0007620||BMSCs survival
+C1257975||Bone mesenchymal stem cells
+C1171362||expression of autophagy markers
+C1257975||Bone mesenchymal stem cells
+C1257990||transplanted
+C0740391||middle cerebral artery occlusion
+C0740391||middle cerebral artery occlusion
+C0012644||model of rats
+C0007785||cerebral infarction
+C0027767||neurological function
+C1514559||Hif-1α overexpression
+C4236781||oxygen-glucose deprivation
+C3263723||injury
+C0007620||cellular viability
+C0021469||inhibiting
+C0162638||apoptosis
+C2350345||AMPK
+C1447315||mTOR
+C1514559||Hif-1α overexpression
+C0965644||hypoxia-inducible factor 1α
+C0007620||BMSCs survival
+C1514559||Hif-1α overexpression
+C0004391||autophagy
+C1254351||compound C
+C0014431||induction of Hif-1α
+C0004391||autophagy
+C1257990||Transplantation of the overexpressed Hif-1α of BMSCs
+C0012644||MCAO rats
+C0007785||brain infarct
+C0184511||improved
+C0079189||pro-inflammatory cytokines
+C0132298||neurotrophin
+C1159339||secretion
+C0965644||hypoxia-inducible factor 1α
+C0007620||survival of BMSCs
+C0014429||activation of AMPK and mTOR
+C0004391||autophagy

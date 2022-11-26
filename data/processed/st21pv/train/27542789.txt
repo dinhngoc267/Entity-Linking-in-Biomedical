@@ -1,0 +1,36 @@
+C0021107||Transfemoral aortic valve implantation
+C0184252||repositionable Lotus valve
+C0087111||treatment
+C0003507||aortic stenosis
+C0237607||single-centre experience
+C2603343||study
+C0220825||evaluate
+C0184252||repositionable Lotus valve
+C0021107||transfemoral aortic valve implantation
+C0237607||single-centre experience
+C0003507||aortic stenosis
+C3274381||NCT02162069
+C0002915||general anaesthesia
+C0087111||transfemoral approach
+C0184252||Lotus device
+C2262860||annulus
+C4284103||left ventricular outflow tract
+C4284103||left ventricular outflow tract
+C0003504||aortic regurgitation
+C0003504||aortic regurgitation
+C0003501||valve
+C0190360||embolisation
+C0003501||valve
+C0243095||no conversion
+C0543467||surgery
+C0189842||pacemaker implantation
+C0151517||complete
+C0151517||third degree
+C0155700||type II (Mobitz) second degree atrioventricular block
+C0948629||implanted devices
+C0038454||stroke
+C0003507||aortic stenosis
+C3509486||transfemoral TAVI
+C0184252||repositionable Lotus valve
+C0025080||device
+C0003504||aortic regurgitation

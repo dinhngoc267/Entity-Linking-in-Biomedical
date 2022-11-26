@@ -1,0 +1,16 @@
+C0033684||Protein
+C0033629||Nanostructural Engineering
+C0282411||Remarks
+C0005990||chapter
+C0006002||book
+C0035168||research
+C0033684||protein
+C0033629||nanostructural engineering
+C0035168||research efforts
+C0005990||chapters
+C0006002||book
+C0033684||proteins
+C0030956||peptides
+C0033684||protein
+C0035168||research
+C0035170||developments

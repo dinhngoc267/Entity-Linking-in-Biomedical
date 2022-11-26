@@ -1,0 +1,45 @@
+C0005050||5-Bromo-2-aryl benzimidazole derivatives
+C2827065||non-cytotoxic
+C0014432||inhibitors
+C0002272||α-glucosidase
+C0041945||urease enzymes
+C0684224||report
+C0002272||α-glucosidase
+C1152555||inhibitory activity
+C0005050||5-bromo-2-aryl benzimidazole derivatives
+C0373483||screened
+C0041945||urease
+C1152555||inhibitory
+C0201622||cytotoxicity activity
+C2827065||non-cytotoxic
+C0014432||inhibitor
+C0011847||diabetes
+C0030920||peptic ulcer
+C2603343||study
+C1254351||compounds
+C0039958||thiourea
+C1254351||derivatives 7
+C1254351||8
+C1254351||11
+C1254351||14
+C1254351||22
+C0014432||potent inhibitors
+C1254351||compounds
+C0201622||cytotoxicity
+C0085087||3T3
+C1513528||mouse fibroblast cell line
+C0243095||non-toxic
+C0005050||benzimidazole 1-25
+C0002272||α-glucosidase
+C1152555||inhibitory potential
+C2603343||studies
+C1254351||lead molecules
+C1254351||2
+C1254351||7
+C1254351||8
+C1254351||11
+C1254351||14
+C1254351||22
+C0687133||binding interaction
+C1254351||compounds
+C0041945||urease enzyme

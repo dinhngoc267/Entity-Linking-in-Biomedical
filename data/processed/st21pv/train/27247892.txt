@@ -1,0 +1,31 @@
+C4130454||Burkholderia sp. strain CCA53
+C1156998||ligninolytic
+C0699900||degradation
+C0023705||lignin
+C0242209||fermentable sugars
+C2717891||biofuel
+C0064974||lignocellulosic
+C2603343||study
+C1156998||lignin-degrading
+C0004611||bacterium
+C0242724||leaf
+C1264855||Burkholderia sp.
+C3537372||16S rRNA
+C1294197||gene sequencing
+C4130454||CCA53
+C1156998||lignin-degrading
+C0018270||growth
+C0010454||medium
+C0023705||alkali lignin
+C0023705||lignin
+C0596973||aromatic monomers
+C0007009||carbon
+C0449416||source
+C0023705||Alkali lignin
+C0023705||lignin
+C0596973||aromatic monomers
+C0018270||growth
+C0596973||p-hydroxybenzene monomers
+C0243095||findings
+C4130454||Burkholderia sp. strain CCA53
+C1156998||lignin degradation

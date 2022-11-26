@@ -1,0 +1,55 @@
+C0019010||Hemodynamic
+C0338656||transient cognitive impairment
+C0007787||transient ischemic attack
+C0038454||minor stroke
+C0554756||transcranial Doppler study
+C0338656||Transient cognitive impairment
+C0338656||Transient cognitive impairment
+C0451306||Mini Mental State Evaluation
+C0007787||transient ischemic attack
+C0038454||minor stroke
+C0497327||dementia
+C0338656||Transient cognitive impairment
+C3496286||Montreal Cognitive Assessment
+C3496286||Montreal Cognitive Assessment
+C1270972||persistent Mild Cognitive Impairment
+C1270972||persistent Mild Cognitive Impairment
+C0228174||cerebral
+C0019010||hemodynamic
+C0007787||transient ischemic attack
+C0038454||minor stroke
+C3496286||Montreal Cognitive Assessment
+C0206077||transcranial Doppler ultrasound
+C0338656||Transient cognitive impairment
+C3496286||Montreal Cognitive Assessment
+C1270972||persistent Mild Cognitive Impairment
+C3496286||Montreal Cognitive Assessment
+C4230628||no cognitive impairment
+C4230628||no cognitive impairment
+C3496286||Montreal Cognitive Assessment
+C1270972||persistent Mild Cognitive Impairment
+C0338656||Transient cognitive impairment
+C4230628||no cognitive impairment
+C0338656||Transient cognitive impairment
+C0277884||higher systolic blood pressure
+C4287833||mean flow velocity
+C4230628||no cognitive impairment
+C0019010||hemodynamic
+C1979963||profiles
+C1270972||persistent Mild Cognitive Impairment
+C0277885||Systolic BP fell
+C0441610||reduction
+C4287833||mean flow velocity
+C0338656||Transient cognitive impairment
+C1270972||persistent Mild Cognitive Impairment
+C4230628||no cognitive impairment
+C0338656||Transient cognitive impairment
+C3830527||detectable
+C3496286||Montreal Cognitive Assessment
+C0007787||transient ischemic attack
+C0038454||minor stroke
+C0019010||hemodynamic
+C1979963||profile
+C1270972||persistent Mild Cognitive Impairment
+C0338656||Transient cognitive impairment
+C0019010||hemodynamic

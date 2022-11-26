@@ -1,0 +1,35 @@
+C0281163||Educational Intervention
+C0184511||Improve
+C0003232||Antibiotic
+C2239117||Prescribing
+C0028657||Nurse Practitioners
+C1710587||Urgent Care Center
+C1444717||pediatric visits
+C0003232||antibiotic
+C0033080||prescription
+C0003232||antibiotic
+C1096775||Intervention study
+C0220825||evaluating
+C0003232||antibiotic
+C2239117||prescribing
+C0042029||urinary tract infection
+C0037278||skin
+C0149778||soft tissue infection
+C0031350||pharyngitis
+C0041912||upper respiratory tract infection
+C0271429||acute otitis media
+C0275556||acute bacterial sinusitis
+C0028657||nurse practitioners
+C1710587||urgent care centers
+C1516879||enrolled
+C2603343||study
+C0003232||antibiotic
+C0184661||intervention
+C0003232||antibiotic
+C2239117||prescribing
+C0003232||antibiotic
+C2239117||prescribing
+C1444655||not indicated
+C0003232||antibiotic
+C0184661||interventions
+C0003232||antibiotic

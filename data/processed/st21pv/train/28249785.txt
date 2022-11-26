@@ -1,0 +1,54 @@
+C0150312||presence
+C0030567||Parkinson's disease
+C0231239||fluctuations
+C1705491||BOLD signals
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0027765||neurological disorder
+C1512035||dopamine neurons
+C0038590||substantia nigra
+C0178719||intracellular
+C0085200||Lewy inclusion bodies
+C4288291||Resting-state functional magnetic resonance imaging
+C4288291||Resting-state functional magnetic resonance imaging
+C0449774||patterns
+C0237401||individuals
+C0030567||Parkinson's disease
+C2603343||study
+C0150312||presence
+C0030567||Parkinson's disease
+C0231239||fluctuations
+C1655730||blood oxygenation level dependent signal
+C4288291||Resting-state functional magnetic resonance imaging
+C2346753||amplitude
+C0231239||fluctuation
+C0231239||amplitude of low-frequency fluctuation
+C0231239||amplitude of low-frequency fluctuation
+C0231239||fractional ALFF
+C0030567||Parkinson's disease
+C0237401||individuals
+C0030567||Parkinson's disease
+C0231239||ALFFs
+C0238767||bilateral
+C0152308||lingual gyrus
+C2334169||left putamen
+C0231239||fractional ALFF
+C2953249||right cerebellum posterior lobe
+C1518918||pattern recognition
+C0025663||method
+C0237401||individual
+C0237401||individuals
+C0030567||Parkinson's disease
+C0231239||amplitude of low-frequency fluctuation
+C0231239||fractional ALFF
+C0681935||cross-validation method
+C0936012||analyze
+C0679646||participants
+C0030567||Parkinson's disease
+C0679575||neuroimaging
+C0030567||Parkinson's disease
+C0237401||individual
+C4288291||Resting-state functional magnetic resonance imaging
+C0005516||biomarker
+C0220825||evaluation
+C0030567||Parkinson's disease

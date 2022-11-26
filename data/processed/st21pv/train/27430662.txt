@@ -1,0 +1,70 @@
+C0401287||ureteral reimplantation
+C0042580||vesicoureteral reflux
+C0401296||cross-trigonal ureteral reimplantation (Cohen)
+C0025361||non-physiological transfer
+C0447577||ureteral orifices
+C0401343||endoscopic ureteral operations
+C0401287||ureteral reimplantation
+C0574893||orthotopic
+C0227684||submucosal ureter
+C1704729||departments
+C2348561||ureters
+C0025266||males
+C0043210||females
+C0401287||Mathisen reimplantation
+C2348561||ureters
+C0025266||males
+C0043210||females
+C0401296||Cohen reimplantation
+C0042580||vesicoureteral reflux
+C0042580||vesicoureteral reflux
+C0184661||intervention
+C0042580||Reflux
+C1511980||grades
+C2348561||ureters
+C3274338||VUR ≥ III
+C2348561||ureters
+C3274338||VUR ≥ III
+C0041960||ureteroceles
+C0521620||megaureters
+C0238506||posterior urethral valves
+C0401296||Cohen's reimplantation
+C0009566||complications
+C0184661||intervention
+C1522577||follow-up
+C0683278||suffered
+C3875265||febrile urinary tract infections
+C3875265||urinary tract infections
+C0011900||diagnosed
+C0042580||vesicoureteral reflux
+C0020295||hydronephroses
+C0020295||SFU
+C0401287||reimplantation
+C0683278||suffered
+C1522577||follow-up
+C0683278||suffered
+C3875265||febrile UTIs
+C0011900||diagnosed
+C0042580||vesicoureteral reflux
+C1522577||follow-up
+C0042580||vesicoureteral reflux
+C0042580||vesicoureteral reflux
+C0020295||hydronephroses
+C0020295||SFU
+C0401287||ureteral reimplantation
+C0441994||lower
+C0184661||intervention
+C0028778||obstruction
+C0020295||hydronephrosis
+C0574893||orthotopic
+C0447577||ureteral orifice
+C0227716||bladder neck
+C0401287||Mathisen's reimplantation
+C0401296||cross-trigonal ureteral reimplantation
+C0042580||vesicoureteral reflux
+C0242802||patient selection
+C0574895||ectopic
+C0447577||ureteral orifices
+C1522577||follow-up
+C0574893||orthotopic
+C0401287||ureteral reimplantation

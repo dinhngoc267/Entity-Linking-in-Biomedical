@@ -1,0 +1,72 @@
+C0034861||Recombinant
+C0016006||fibrinogen
+C0033684||α-
+C0033684||γ-chain
+C0314675||cross-linking
+C3156338||fibrin clot
+C0016006||Fibrinogen
+C0086418||human
+C0032105||plasma
+C1704241||complex
+C0034865||recombinantly
+C0016006||fibrinogen
+C0005778||clotting
+C0015528||Factor XIII
+C3156338||clot
+C0015982||protofibril
+C1304649||fiber
+C3156338||fibrin clot
+C0015982||Fibrin
+C0019116||haemostasis
+C0043240||wound healing
+C0243092||fibrous networks
+C0302148||blood clots
+C0015982||fibrin's
+C0032105||plasma
+C0016006||fibrinogen
+C1704241||complex
+C0033684||plasma factors
+C3156338||clot
+C0015982||fibrin
+C0034861||recombinant
+C0016006||fibrinogen
+C0086418||human
+C0032105||plasma
+C0016006||rFib610
+C0678594||structure
+C0016006||rFib610
+C3156338||clots
+C0041394||turbidimetry
+C0026018||microscopy
+C0043301||X-ray scattering
+C3156338||clots
+C1304649||fiber
+C0870071||modeling
+C3156338||clots
+C0015528||FXIII
+C0016006||rFib610
+C3156338||clots
+C0033684||γ-chain
+C0314675||cross-linking
+C3156338||clot
+C0015982||protofibrils
+C0033684||α-chain
+C0314675||cross-linking
+C1304649||fibers
+C0015982||protofibrils
+C0016006||rFib610
+C0015982||protofibrils
+C0032105||plasma
+C0015982||fibrin
+C0015982||protofibrils
+C3156338||clot
+C0015982||protofibril scale
+C0016006||Fibrinogen
+C0015528||FXIII
+C3156338||fibrin clots
+C0230898||protofibril
+C1304649||fiber scale
+C0032105||plasma
+C0016006||fibrinogen
+C3156338||fibrin clot
+C0019116||haemostasis

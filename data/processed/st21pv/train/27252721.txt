@@ -1,0 +1,66 @@
+C0243056||Ring Formation
+C1028806||Pinus halepensis
+C1036425||Arbutus unedo
+C1710133||Southern
+C0022277||Italy
+C0420834||Outlook
+C0936012||Analysis
+C0243056||Xylogenesis
+C0040811||Tree-Ring
+C0008717||Chronologies
+C0282645||Mediterranean
+C0040811||tree rings
+C0243056||cambial activity
+C0678594||structural
+C0205103||between
+C0014406||environmental
+C0243056||eco-physiological
+C0243056||xylogenesis
+C1711255||unbiased
+C0733755||position
+C0040811||tree
+C0521164||rings
+C0231239||fluctuations
+C0014406||environmental
+C0243056||cambial activity
+C0936012||analyze
+C0243056||xylogenesis
+C1028806||Pinus halepensis
+C1036425||Arbutus unedo
+C2603343||study
+C0243056||xylogenesis
+C1705920||species
+C1705920||species
+C0205145||site
+C1710133||southern
+C0022277||Italy
+C0282645||Mediterranean
+C2350279||tree-ring dating
+C0936012||analysis
+C0936012||analyzed
+C0243056||xylogenesis
+C0243056||xylogenesis
+C0815089||cell development
+C0936012||analyzed
+C0332149||possible
+C3178867||cell
+C0243056||production
+C0007589||differentiation
+C1705920||species
+C3178867||cells
+C0243095||restoration
+C3178867||cells
+C1167351||secondary cell wall
+C1036425||A. unedo
+C1028806||P. halepensis
+C0040811||tree-ring
+C0936012||analysis
+C0040811||tree-ring
+C0243056||xylogenesis
+C0442726||detect
+C1705920||species
+C0014406||environmental
+C0243056||xylogenesis
+C0936012||analysis
+C0282645||Mediterranean
+C0242767||stem

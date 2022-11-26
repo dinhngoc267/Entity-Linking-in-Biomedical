@@ -1,0 +1,32 @@
+C0033011||pregnant women
+C0002895||sickle cell disease
+C0010362||observational cross-sectional study
+C0020542||Pulmonary hypertension
+C0032961||pregnancy
+C0002895||sickle cell disease
+C0020542||pulmonary hypertension
+C0013516||echocardiography
+C1710032||screening
+C0020542||pulmonary hypertension
+C0232973||non-pregnant
+C1257890||population
+C0031928||pilot study
+C0871311||screening test
+C0020542||pulmonary hypertension
+C0032961||pregnancy
+C0010362||cross-sectional study
+C0587437||tertiary referral centre
+C0242933||multidisciplinary clinic
+C0033011||pregnant women
+C0002895||sickle cell disease
+C0043210||Women
+C0002895||sickle cell disease
+C0020542||pulmonary hypertension
+C0032961||pregnancies
+C0013516||echocardiography
+C0032961||pregnancy
+C0032961||pregnancies
+C1273937||no significant
+C0221283||sickle cell
+C0009566||complications
+C0043210||women

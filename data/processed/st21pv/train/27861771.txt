@@ -1,0 +1,47 @@
+C0023821||High-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0342882||heterozygous familial hypercholesterolaemia
+C0342882||heterozygous familial hypercholesterolaemia
+C0342882||familial hypercholesterolaemia
+C0751408||suffer
+C0858226||high plasma cholesterol
+C0014406||environment
+C0242606||oxidative stress
+C0023821||high-density lipoprotein
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0074992||sphingosine-1-phosphate
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0023821||high-density lipoprotein
+C3823580||protection against oxidative stress
+C0007328||case-control study
+C0023821||high-density lipoprotein
+C0342882||familial hypercholesterolaemia
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0023821||high-density lipoprotein
+C0225828||cardiomyocytes
+C0242606||oxidative stress
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0524828||cell protection
+C0023822||HDL-cholesterol
+C0085201||apolipoprotein AI
+C0023821||high-density lipoprotein
+C0524828||cell protection
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0023821||high-density lipoprotein
+C0342882||familial hypercholesterolaemia
+C0085201||apolipoprotein AI
+C1438565||apolipoprotein M
+C0342882||familial hypercholesterolaemia
+C0342882||familial hypercholesterolaemia
+C0014406||environment
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0023821||high-density lipoprotein
+C0074992||sphingosine-1-phosphate
+C0524828||cell protection
+C0023821||high-density lipoprotein

@@ -1,0 +1,46 @@
+C0021344||human papillomavirus
+C0279672||cervical adenocarcinoma
+C2603343||study
+C0337806||Greek
+C0043210||women
+C2603343||study
+C0021344||human papillomavirus
+C0021344||human papillomavirus
+C0279672||cervical adenocarcinomas
+C0337806||Greek
+C0043210||women
+C0001418||adenocarcinoma
+C0007099||in situ
+C1334274||invasive
+C3872595||HPV DNA
+C0683230||amplified
+C0032520||polymerase chain reaction
+C0032520||polymerase chain reaction
+C0021344||human papillomavirus
+C0221902||reverse hybridization
+C0343641||HPV infection
+C0007099||in situ
+C1334274||invasive (94.83%) adenocarcinomas
+C0006826||cancers
+C0999806||HPV 16
+C0999807||HPV 18
+C3641016||HPV 52 positive
+C0275524||co-infection
+C0999806||HPV 16
+C0999807||18
+C3641020||HPV 66
+C0275524||co-infections
+C0021344||human papillomavirus
+C1446409||positivity
+C3872595||HPV DNA
+C0279672||cervical adenocarcinomas
+C0008972||studies
+C3641016||HPV 52
+C0422301||encountered
+C0999806||HPV 16
+C0999807||HPV 18
+C0011109||decision making
+C0042196||vaccination
+C0242456||policy
+C0343641||HPV infection
+C0018226||Greece

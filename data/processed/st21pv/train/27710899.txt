@@ -1,0 +1,66 @@
+C0596290||Proliferation
+C0061139||gastrodin
+C0036387||RSC96 Schwann cells
+C1327622||regulating
+C0082529||ERK1
+C0170168||2
+C0044602||PI3K
+C0037080||signaling pathways
+C0596290||proliferation
+C1622501||migration
+C0036387||Schwann cells
+C0036387||Schwann cells
+C0196777||peripheral nerve repair
+C0007595||growth
+C0036387||Schwann cells
+C3658313||cell based therapy
+C0061139||Gastrodin
+C0061139||Gastrodin
+C0025124||Chinese traditional
+C2240391||herbal medicine
+C1040858||Gastrodia elata Blume
+C0700287||reported
+C0598958||neuroprotective properties
+C0061139||Gastrodin
+C0752312||MAPK
+C0044602||PI3K
+C0037080||signaling pathways
+C0007595||growth
+C0027882||nerve cells
+C0700287||reported
+C0061139||Gastrodin
+C0036387||Schwann cells
+C0007595||growth
+C0061139||Gastrodin
+C0034693||rat
+C0036387||RSC96 Schwann cells
+C0036387||Schwann cells
+C0061139||Gastrodin
+C0087111||treatment
+C0036387||RSC96 SCs
+C0596290||cell proliferation
+C0017262||gene expression
+C0027754||neurotrophic factors
+C1327622||Regulation of
+C0752312||MAPK
+C0044602||PI3K
+C0037080||signaling pathways
+C1158886||phosphorylation
+C0082529||ERK1
+C0170168||2
+C0164786||Akt
+C0061139||Gastrodin
+C0596290||proliferation
+C0036387||RSC96 SCs
+C1280903||Exploration
+C0061139||Gastrodin
+C0036387||Schwann cells
+C1524026||metabolism
+C0082529||ERK1
+C0170168||2
+C1158886||phosphorylation
+C0164786||Akt
+C1158886||phosphorylation
+C0036387||RSC96 SCs
+C0087111||treatment
+C0262593||peripheral nerve injuries

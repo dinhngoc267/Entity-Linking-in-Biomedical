@@ -1,0 +1,44 @@
+C0854706||Neonatal infections
+C1704788||Case definition
+C0162791||guidelines
+C0010995||data collection
+C0936012||analysis
+C0020971||immunisation
+C1858460||Maternal
+C0042196||vaccination
+C0035168||research
+C1704788||definitions
+C2828392||safety standards
+C1522486||GAIA group
+C1522486||Brighton Collaboration
+C1704788||definitions
+C1858460||maternal
+C0042210||vaccine
+C0035168||research
+C2603343||study
+C1704788||definitions
+C0854706||neonatal infections
+C0854706||neonatal infections
+C1522486||GAIA
+C1883562||working group
+C0023866||literature
+C0025141||Medline
+C0242356||EMBASE
+C1704788||definitions
+C1704788||definitions
+C2316160||blood stream infections
+C2316160||blood stream infections
+C0025289||meningitis
+C0149725||lower respiratory tract infections
+C0149725||lower respiratory tract infections
+C1704788||definition
+C1704788||definitions
+C0010995||data collection
+C0936012||analysis
+C0150103||harmonized
+C1522486||Brighton Collaboration
+C1522486||GAIA
+C1301627||format
+C2828392||international standards
+C2603343||study
+C0011000||reporting

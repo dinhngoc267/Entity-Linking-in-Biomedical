@@ -1,0 +1,48 @@
+C0028756||morbidly obese
+C0028754||obese
+C0086511||primary total knee
+C0040508||total hip arthroplasty
+C0028754||Obesity
+C0678367||public
+C1319441||morbid obesity, (Body Mass Index (BMI) ≥ 40 kg/m(2))
+C0280955||peri- and post-operative complications
+C0003893||arthroplasty procedures
+C0028754||obese
+C0028756||morbidly obese
+C0003893||arthroplasty
+C2607850||institution
+C0184821||retrospective audit
+C2607850||institution
+C0086511||total knee
+C0086511||TKA
+C0040508||total hip arthroplasty
+C0040508||total hip arthroplasty
+C1305855||Body Mass Index
+C1997265||Oxford knee
+C1998079||hip score
+C1997265||OKS
+C1998079||OHS
+C0274311||complications
+C0543467||post operation
+C1305855||BMI 30-40
+C1561729||BMI > 40
+C1305855||Body Mass Index
+C0086511||TKA
+C0040508||total hip arthroplasty
+C0543467||operations
+C0028754||obese
+C0028756||morbidly obese
+C0086511||TKA
+C1997265||mean OKS
+C0032787||postoperative problems
+C0040508||total hip arthroplasty
+C1998079||OHS score
+C1305855||Body Mass Index
+C0683312||category
+C0032787||postoperative problems
+C0028754||obese
+C0028756||morbidly obese
+C0028754||obese
+C0086511||TKA
+C0040508||total hip arthroplasty
+C0003893||arthroplasty

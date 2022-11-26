@@ -1,0 +1,37 @@
+C0335079||dancers
+C0449774||patterns
+C0043251||injury
+C0043251||injury
+C0335079||dancers
+C0038951||survey
+C0043251||injury
+C1522634||questions
+C0282122||respondents
+C1257890||group
+C0456387||classes
+C0556993||registered instructor
+C0456387||class
+C0679646||participant
+C0043251||injury
+C1708930||Mann-Whitney tests
+C1257890||groups
+C0038951||survey
+C0282122||respondents
+C0556993||registered instructors
+C0456387||class
+C0679646||participants
+C0043251||injury
+C0043251||injury
+C0556993||registered instructors
+C0456387||class
+C0679646||participants
+C0335079||dancers
+C0043251||injury
+C0043251||injury
+C0556993||registered instructors
+C0456387||class
+C0679646||participants
+C0043251||injuries
+C0043251||injury
+C0556993||registered instructors
+C0043251||injury

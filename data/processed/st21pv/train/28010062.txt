@@ -1,0 +1,48 @@
+C1254351||Covalent Modulators
+C0379099||Vacuolar ATPase
+C0379099||vacuolar H(+) ATPase
+C0379099||V-ATPase
+C1704241||complex
+C1327622||regulates
+C0007613||cellular processes
+C0178719||intracellular
+C2349967||compartments
+C0684063||eukaryotes
+C1328819||small-molecule
+C1254351||modulators
+C0379099||V-ATPase
+C0599894||targeting
+C0379099||V-ATPase
+C0162340||understood
+C1328819||Small molecules
+C1148560||inhibition
+C0379099||V-ATPase
+C0379099||V-ATPase
+C0086418||human
+C0012634||diseases
+C0034407||quinazolines
+C3158388||covalently modify
+C0600499||catalytic subunit
+C0379099||V-ATPase
+C0430876||fluorescence imaging
+C1327760||chemical proteomic activity-based profiling
+C0205145||site
+C0010654||cysteine
+C0332285||located in
+C1514562||region
+C0379099||V-ATPase
+C0599220||subunit A
+C0039869||thought
+C1327622||regulate
+C0301643||dissociation
+C0379099||V-ATPase
+C0014432||V-ATPase inhibitor
+C0054130||3-bromopyruvate
+C0010654||cysteine
+C0034407||quinazolines
+C0443264||modulate
+C0379099||V-ATPase
+C0007634||cells
+C0034407||quinazolines
+C2347609||chemical probes
+C0379099||V-ATPase

@@ -1,0 +1,89 @@
+C0669938||Dynamin-related protein 1
+C0017725||low glucose
+C0856169||endothelial dysfunction
+C0086418||human
+C0003847||arterioles
+C1327622||glycemic regulation
+C0020615||hypoglycemia
+C0020615||Hypoglycemic
+C0161816||cardiovascular complications
+C0856169||endothelial dysfunction
+C4021734||mitochondrial dysfunction
+C0020615||hypoglycemia
+C0856169||endothelial dysfunction
+C0017725||low-glucose
+C0017725||low-glucose
+C0856169||endothelial dysfunction
+C0230871||mitochondrial fission process
+C0243095||mitochondrial morphology
+C0225336||endothelial cells
+C0242842||confocal microscopy
+C0086418||human
+C0003847||arterioles
+C0017725||low-glucose
+C0230871||mitochondrial fission
+C0028128||nitric oxide
+C0028128||nitric oxide
+C1258036||endothelial-dependent vascular relaxation
+C0026022||Fluorescence microscopy
+C0026237||mitochondrial
+C0028128||nitric oxide
+C0242940||videomicroscopy
+C0042401||vasodilation
+C0033684||profission protein
+C0669938||Drp1
+C2933581||Mdivi-1
+C0017725||low-glucose
+C0230871||mitochondrial fragmentation
+C1257792||vascular endothelial cells
+C0017725||low-glucose
+C0017725||low-glucose
+C2933581||Mdivi-1
+C0005847||vascular
+C0017725||low-glucose
+C0017725||low-glucose
+C2933581||Mdivi-1
+C0150312||presence
+C0028128||nitric oxide
+C0017725||low-glucose
+C0017725||low-glucose
+C2933581||Mdivi-1
+C0184511||improved
+C0042401||vascular dilation
+C0001041||acetylcholine
+C0017725||low-glucose
+C0017725||low-glucose
+C2933581||Mdivi-1
+C1171362||expression
+C0669938||Drp1
+C1099354||siRNA
+C2350567||knockdown
+C0017725||low-glucose
+C0184511||improved
+C1258036||vascular relaxation
+C0017725||low-glucose
+C0856169||endothelial dysfunction
+C0026237||mitochondrial
+C0086418||human
+C0003847||arterioles
+C0669938||Drp1
+C0230871||mitochondrial fragmentation
+C0042401||vascular dilation
+C0026237||mitochondrial
+C0230871||mitochondrial fission
+C0017725||low-glucose
+C0856169||endothelial dysfunction
+C0017725||low-glucose
+C0230871||mitochondrial fragmentation
+C0225336||endothelial cells
+C0669938||Drp1
+C0225336||endothelial
+C0007613||function
+C0086418||human
+C0003847||arterioles
+C0599894||Targeting
+C0669938||Drp1
+C0230871||fragmentation
+C0161816||cardiovascular complications
+C0241863||diabetics
+C1704666||http://ajpheart.podbean.com/e/mitochondrial-dynamics-impact-endothelial-function/

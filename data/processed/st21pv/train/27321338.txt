@@ -1,0 +1,67 @@
+C1563742||abdominal fat
+C0229671||serum
+C0002712||amylase
+C0001792||older
+C0599755||cohort
+C0004716||Baltimore
+C0023981||Longitudinal Study
+C0001811||Aging
+C1563742||Abdominal fat
+C0025517||metabolic diseases
+C0001792||older
+C0237401||individuals
+C0028754||Obesity
+C0011847||diabetes
+C0729348||serum amylase (SA) levels
+C0729348||serum amylase
+C0025517||metabolic disease
+C0729348||serum amylase
+C0011847||diabetes
+C0229671||serum
+C0002712||amylase
+C1563742||abdominal fat
+C0020155||volunteers
+C0004716||Baltimore
+C0023981||Longitudinal Study
+C0001811||Aging
+C0679646||participants
+C1563742||abdominal fat
+C0040405||computed tomography
+C1705019||American Diabetes Association
+C1563742||abdominal fat
+C0729348||serum amylase
+C0206031||logistic regression
+C0011847||diabetes
+C0729348||serum amylase
+C0936012||unadjusted analyses
+C0237401||individuals
+C0729348||serum amylase
+C0011847||diabetes
+C1563740||visceral adipose tissue area
+C1563740||visceral adipose tissue area
+C1563741||abdominal subcutaneous adipose tissue
+C1563741||subcutaneous adipose tissue
+C1305855||BMI
+C0936012||adjusted analyses
+C1563740||visceral adipose tissue area
+C1563741||subcutaneous adipose tissue
+C0729348||serum amylase
+C0043210||women
+C0729348||serum amylase
+C1563740||visceral adipose tissue area
+C1563741||subcutaneous adipose tissue
+C1305855||BMI
+C1563740||visceral adipose tissue area
+C1563741||subcutaneous adipose tissue
+C1305855||BMI
+C0002712||serum amylase
+C0011847||diabetes
+C1563740||abdominal visceral fat
+C0043210||women
+C0002712||serum amylase
+C1563740||visceral adipose tissue area
+C1305855||BMI
+C1563741||subcutaneous adipose tissue
+C2698671||mechanistic studies
+C0002712||SA's
+C0025517||metabolic diseases

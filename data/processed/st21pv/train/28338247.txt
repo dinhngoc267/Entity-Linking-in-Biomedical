@@ -1,0 +1,46 @@
+C0011880||diabetic ketoacidosis
+C0376636||management
+C2711734||medical intensive care unit
+C0282574||order set
+C0525058||compliance
+C0162791||ADA DKA guidelines
+C2711734||medical intensive care unit
+C2711734||medical intensive care unit
+C0000872||academic medical centre
+C0282574||computerised DKA order set
+C0008971||protocol
+C0282443||chart review
+C0011880||DKA
+C0809949||admitted
+C2711734||medical intensive care unit
+C0282574||pre-order set
+C0282574||pre-order set
+C0282574||post-order set
+C0282574||post-order set
+C1533734||administration
+C2317423||intravenous fluid resuscitation
+C0021641||insulin
+C1511237||bolus
+C0021641||insulin
+C0087111||treatment
+C0162791||guidelines
+C0525058||Compliance
+C0162791||guidelines
+C0525058||Compliance
+C0150238||fluid resuscitation
+C0021641||insulin
+C1511237||bolus
+C0021641||insulin
+C0011880||DKA
+C0020615||hypoglycaemia
+C0282574||computerised DKA order set
+C0008971||protocol
+C0184511||improved
+C0525058||compliance
+C0162791||ADA DKA guidelines
+C0150238||fluid resuscitation
+C0021641||insulin
+C0011880||DKA
+C0443315||subcutaneous
+C0021641||insulin
+C0020615||hypoglycaemia

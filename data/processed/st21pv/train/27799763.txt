@@ -1,0 +1,57 @@
+C1521941||Prescription
+C0242402||opioids
+C0013404||breathlessness
+C0024117||COPD
+C1709599||population-based study
+C0242402||opioids
+C0013404||breathlessness
+C0024117||COPD
+C0015726||fear
+C0009566||complications
+C1274136||symptom control
+C2603343||study
+C0242402||opioids
+C0027361||people
+C0024117||COPD
+C2603343||study
+C0023981||longitudinal
+C1709599||population-based study
+C0418996||long-term oxygen therapy
+C0418996||long-term oxygen therapy
+C0024117||COPD
+C0038995||Sweden
+C1880359||dispensed
+C0242402||opioid
+C1521941||prescriptions
+C0282574||national Prescribed Drugs Register
+C0418996||long-term oxygen therapy
+C0418996||long-term oxygen therapy
+C0011065||death
+C0243095||date of dispensing
+C0030193||pain
+C0013404||breathlessness
+C0024117||COPD
+C0043210||women
+C1522577||follow-up
+C1880359||dispensed
+C0242402||opioid
+C0033080||prescription
+C0033080||prescriptions
+C0242402||opioids
+C0040610||tramadol
+C0030049||oxycodone
+C0026549||morphine
+C0009214||codeine
+C0033080||prescription
+C0030193||pain
+C0013404||breathlessness
+C0242402||opioids
+C0013404||breathlessness
+C2603343||study
+C0242402||opioids
+C0013404||breathlessness
+C1655730||oxygen-dependent
+C0024117||COPD
+C1274136||symptom control
+C2603343||study
+C0026549||morphine

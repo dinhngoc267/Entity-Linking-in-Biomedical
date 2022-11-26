@@ -1,0 +1,51 @@
+C0949415||Qualitative Study
+C0011109||Decision-Making
+C0392347||Hopes
+C0011854||Type 1 Diabetes
+C0079646||Islet Cell Transplantation
+C0237401||individuals
+C0011854||type 1 diabetes
+C0079646||pancreatic islet transplantation
+C0079646||islet transplantation
+C0020615||hypoglycemia
+C3267174||optimizes glycemia
+C0021079||systemic immunosuppression
+C1257890||candidates
+C0040732||transplantation
+C0586018||waiting list
+C0035171||research design
+C0041700||UK
+C0475309||centers
+C0006823||Canadian
+C0475309||center
+C2316646||audio-recorded
+C0936012||inductive thematic analysis
+C0489844||Interviewees
+C0011847||diabetes
+C0043210||women
+C0392347||hopes
+C0011109||decision-making
+C1522577||follow-up
+C0745153||hypoglycemic episodes
+C0021641||insulin
+C0009566||complications
+C0424578||psychological well-being
+C0489844||interviewees
+C0011109||decision-making
+C0871685||clinicians
+C0021081||immunosuppressant
+C0879626||side effects
+C0489844||interviewees
+C1513916||no
+C0080101||regrets
+C0489844||interviewees
+C0237529||confidence
+C0243095||freedom from hypoglycemia
+C3267174||glycemic control
+C0021641||insulin
+C0040732||transplant
+C0392347||hopes
+C0243095||insulin-free
+C0079646||islet transplantation
+C0079646||islet transplantation
+C1257890||candidates

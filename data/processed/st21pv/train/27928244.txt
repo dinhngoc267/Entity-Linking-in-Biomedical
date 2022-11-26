@@ -1,0 +1,31 @@
+C0005586||Bipolar Disorder
+C0233475||Euthymic Phase
+C0282574||Strange Stories Test
+C0220825||evaluated
+C0011900||diagnosed
+C0005586||bipolar disorder
+C0005586||BD
+C0233475||euthymic period
+C0005586||BD
+C0233475||euthymic phase
+C0038492||students
+C0011900||diagnosis
+C0012634||‎comorbid disorders
+C0005586||BD
+C0220825||‎evaluate
+C1263846||attention deficit hyperactivity disorder
+C1263846||attention deficit hyperactivity disorder
+C0338831||mania
+C4087288||Young Mania Rating Scale
+C4087288||Young Mania Rating Scale
+C0451407||Ravens Progressive Matrices
+C0220825||evaluate
+C0423898||intellectual ability
+C0282574||Happe Strange Stories test
+C0679646||participants
+C0871472||t-test
+C0010101||Pearson Correlation analysis
+C0005586||BD
+C0005586||BD
+C0017393||trait marker
+C0037431||social problems

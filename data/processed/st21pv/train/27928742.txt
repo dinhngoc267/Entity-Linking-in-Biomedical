@@ -1,0 +1,68 @@
+C0260249||infrared
+C0037815||Raman
+C0017973||glycosaminoglycan
+C0243175||characterization
+C0017973||Glycosaminoglycans
+C0017973||Glycosaminoglycans
+C0205132||linear
+C0003075||negatively charged
+C0032594||heteropolysaccharides
+C0024660||mammalian
+C0040300||tissue
+C0012611||disaccharide
+C1954876||sulfated
+C0026492||non-sulfated monosaccharides
+C0040300||tissue
+C0017973||Glycosaminoglycans
+C0678594||structural
+C0733755||position
+C0012611||disaccharide
+C0019134||heparin
+C0019143||heparan sulfate
+C0008466||chondroitine sulfate
+C0011602||dermatan sulfate
+C0022563||keratan sulfate
+C0020196||hyaluronic acid
+C1511539||covalently linked
+C0444669||core
+C0033684||protein
+C0033692||proteoglycans
+C0813622||hyaluronan
+C0017973||Glycosaminoglycans
+C0007634||cell
+C0007613||functions
+C0034800||cell receptors
+C0018284||growth factors
+C0017973||Glycosaminoglycans
+C0243175||characterization
+C0007634||cell
+C0040300||tissue
+C0017973||Glycosaminoglycans
+C0005516||biomarkers
+C0085104||targets
+C0086418||human
+C0012634||diseases
+C0006826||cancer
+C0260249||Infrared
+C0037815||Raman microspectroscopies
+C0079595||imaging
+C0008902||classify
+C0017973||GAG
+C0449560||subtypes
+C0678594||molecular structures
+C0037812||Spectroscopic
+C0017973||GAG
+C1261322||investigations
+C0017973||GAG
+C0260249||infrared
+C0037815||Raman
+C0017973||GAG
+C0007634||cells
+C0022885||vibrational spectroscopy techniques
+C0017973||GAG
+C0002778||analysis
+C0017973||GAG
+C0260249||infrared
+C0037815||Raman
+C0162518||conditioned media
+C0007634||live cells

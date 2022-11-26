@@ -1,0 +1,44 @@
+C4084937||Antimicrobial Peptides
+C1450181||Rhesus θ-Defensin
+C3665571||Porcine
+C0300260||Protegrin-1
+C0031676||Anionic Phospholipid Monolayers
+C0282574||Langmuir isotherm
+C0026018||Brewster angle microscopy
+C0026018||Brewster angle microscopy
+C0242481||neutron reflectivity studies
+C0007603||bacterial cell membranes
+C4084937||antimicrobial peptides
+C1450181||Rhesus θ-defensin 1
+C1450181||RTD-1
+C3665571||porcine
+C0300260||protegrin 1
+C0300260||protegrin 1
+C0030956||peptides
+C0031676||monolayers
+C0043047||water
+C1450468||phosphatidylethanolamine
+C0031614||phosphatidylglycerol
+C0007603||cell membranes
+C0018154||Gram positive bacteria
+C0030956||peptides
+C0031676||lipid monolayers
+C0026018||Brewster angle microscopy
+C1514562||small domains
+C0031676||monolayer
+C0300260||protegrin 1
+C1450181||RTD-1
+C0031676||monolayer
+C1450181||RTD-1
+C0300260||protegrin 1
+C1450181||RTD-1
+C0002671||amphiphilic
+C0300260||protegrin 1
+C1707903||embedded
+C1450181||RTD-1
+C0300260||protegrin 1
+C0030956||peptides
+C0031676||anionic lipid monolayers
+C0009542||hemolytic activities
+C1167322||transmembrane
+C1325742||pores

@@ -1,0 +1,22 @@
+C0042866||vitamin D
+C0455986||perinatal death
+C0042866||vitamin D
+C0455986||perinatal death
+C0010362||cross-sectional study
+C0005615||births
+C0455986||perinatal death
+C0032961||pregnancies
+C0042866||vitamin D
+C0032961||gestation
+C0936012||analysis
+C0042866||vitamin D
+C0599755||cohorts
+C0599755||groups
+C0455986||perinatal deaths
+C0042866||vitamin D
+C0455986||perinatal death
+C0599755||cohort
+C0011065||deaths
+C0599755||groups
+C0042866||vitamin D
+C0455986||perinatal demise

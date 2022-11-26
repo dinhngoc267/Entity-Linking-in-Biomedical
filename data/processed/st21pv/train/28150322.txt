@@ -1,0 +1,60 @@
+C0450363||Three-Dimensional
+C0412553||hysterosalpingo-contrast sonography
+C0389602||Perfluoropropane-Albumin Microspheres
+C0009924||Contrast Agents
+C1533685||Injections
+C0559769||Pelvic Cavity
+C0220825||Assessment
+C0015560||Fallopian Tube
+C0021359||Infertile
+C0043210||Women
+C0450363||three-dimensional
+C0450363||3D
+C0412553||hysterosalpingo-contrast sonography
+C0412553||hysterosalpingo-contrast sonography
+C0389602||perfluoropropane-albumin microspheres
+C0009924||contrast agents
+C1533685||injections
+C0559769||pelvic cavity
+C0015559||assessment of the tubal patency
+C4303544||adhesions of fimbrial parts
+C0021359||infertile
+C0450363||3D
+C0412553||hysterosalpingo-contrast sonography
+C1533685||injected
+C0559769||pelvic cavity
+C0009924||contrast agents
+C0227912||fimbriae
+C4303544||fimbrial adhesion
+C0348018||finger-like projections
+C0227912||fimbriae
+C0243095||bilateral tubal patency
+C0243095||unilateral tubal patency
+C1997620||partial occlusion
+C0205092||unilateral
+C1997620||partial occlusion
+C0028778||complete occlusion
+C0238767||bilateral
+C0028778||complete occlusion
+C0227912||fimbrial parts
+C0015560||fallopian tubes
+C0227912||fimbriae
+C0559769||pelvic cavity
+C4303544||adhesion
+C0559769||pelvic cavity
+C0029939||ovary
+C0021853||intestine
+C0348018||finger-like projection
+C0175566||patent
+C0227912||fimbrial parts
+C0205324||flat
+C0348018||finger-like projection
+C4303544||adhesive tubes
+C0009566||complications
+C0430022||procedure
+C0450363||3D
+C0412553||hysterosalpingo-contrast sonography
+C1533685||injected
+C0559769||pelvic cavity
+C0430022||procedure
+C4303544||adhesions of the fimbrial parts

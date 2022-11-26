@@ -1,0 +1,38 @@
+C4279981||genome editing
+C0022646||renal
+C0014597||epithelial cells
+C4279981||genome editing technologies
+C4279981||targeted introduction
+C4279981||alteration
+C4279981||removal of genomic sequences
+C0025663||methods
+C0449475||non-differentiated
+C1257912||haploid
+C0449475||cell types
+C4279981||Genome editing
+C0022646||renal
+C0014597||epithelial cells
+C0033213||technological issues
+C4279981||expression of multiple genome editing constructs
+C0282574||screening strategies
+C4279981||generation of targeted heterozygous and homozygous genomic sequence alterations
+C0022646||renal
+C0007634||cells
+C4277678||transcription activator-like effector nucleases
+C4277678||transcription activator-like effector nucleases
+C3658200||clustered regularly interspaced short palindromic repeat (CRISPR) system
+C0442711||protocols
+C2603343||studying
+C0085413||autosomal dominant polycystic kidney disease
+C0085413||autosomal dominant polycystic kidney disease
+C4277689||cell culture-validated genetic modifications
+C4042879||mouse embryonic stem cells
+C4042879||mouse embryonic stem cells
+C0025929||mouse
+C0599779||models
+C4279981||genome editing
+C0449475||cell type
+C2603343||study
+C0031845||physiological
+C0030660||pathophysiological functions
+C1516876||engineered genotypes

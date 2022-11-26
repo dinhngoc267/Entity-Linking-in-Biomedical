@@ -1,0 +1,46 @@
+C0282574||BEST
+C0282574||Biomedical Entity Search Tool
+C0376554||Knowledge
+C0034036||publications
+C0023866||literature
+C0243095||challenging
+C2348167||search engines
+C1138432||PubMed
+C2348167||advanced search tool
+C0085104||targets
+C0013227||drugs
+C0026882||mutations
+C0243095||existing
+C0037589||tools
+C1522634||query
+C1138432||PubMed
+C0600678||abstracts
+C1522634||query
+C1138432||PubMed corpus
+C0037589||tools
+C1138432||PubMed corpus
+C3645590||outdated
+C0037589||tools
+C1522634||queries
+C0026882||mutations
+C1522634||query
+C0023866||literature
+C0033213||problems
+C0282574||BEST
+C0282574||biomedical entity search tool
+C0282574||BEST
+C0017337||genes
+C0012634||diseases
+C0013227||drugs
+C0085104||targets
+C0040648||transcription factors
+C1101610||miRNAs
+C0026882||mutations
+C1522634||query
+C0376554||knowledge
+C0282574||BEST
+C1527021||text
+C1522634||queries
+C0243095||up-to-date
+C0026882||mutation
+C0282574||BEST

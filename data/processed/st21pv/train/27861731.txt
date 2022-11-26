@@ -1,0 +1,50 @@
+C0026162||mineral
+C0030956||peptides
+C0605435||chalcopyrite
+C0026162||enargite
+C0026162||minerals
+C0684295||extraction
+C0025552||metals
+C0026162||mineralogical
+C0026162||ore deposits
+C0243095||impossible
+C0026162||minerals
+C0025552||metals
+C0026162||metal
+C0026162||deposits
+C0021265||tailings
+C0026162||minerals
+C0026162||mineral
+C0014406||environmental
+C0009968||copper
+C0003818||arsenic
+C0026162||mineral enargite
+C0026162||Cu3 AsS4
+C0009968||copper
+C0033213||problems
+C1519025||phage display
+C0030956||peptides
+C0026162||enargite
+C0003818||arsenic
+C0389357||copper sulfide
+C0605435||chalcopyrite
+C0751719||peptide phage display libraries
+C0026162||enargite
+C0030956||peptide
+C0002518||sequence MHKPTVHIKGPT
+C0605435||chalcopyrite
+C0030956||peptide
+C0002518||sequence RKKKCKGNCCYTPQ
+C0026162||Mineral
+C2603343||studies
+C1148554||determination
+C0020986||immunochemistry
+C0030956||Peptides
+C1299581||ability
+C0026162||enargite
+C0605435||chalcopyrite
+C0003818||arsenic
+C0009968||copper
+C0003818||arsenic
+C0026162||minerals
+C0026162||mineral

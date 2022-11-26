@@ -1,0 +1,39 @@
+C0302559||Cochlear Implantation
+C0521785||Single-sided Deafness
+C0521785||single-sided deafness
+C0521785||single-sided deafness
+C0037710||sound localization
+C0037817||speech
+C0234747||noise discrimination
+C0302559||Cochlear implantation
+C0521785||single-sided deafness
+C0018768||hearing devices
+C0441988||contralateral
+C0185125||Application
+C0035363||retrospectively
+C0521785||single-sided deafness
+C0332293||treated with
+C0302559||cochlear implantation
+C0018775||bilateral profound hearing loss
+C0009199||cochlear implant
+C0042926||monosyllabic words
+C0282574||multisyllabic
+C0009199||cochlear implant
+C0009199||cochlear implant
+C0429200||improved hearing
+C0521785||single-sided deafness
+C0234742||speech reception threshold
+C0037710||Sound localization
+C0282574||angle detection error
+C0009199||cochlear implant
+C0871615||word recognition
+C0042926||monosyllabic words
+C0011053||deafness
+C0234742||speech reception threshold
+C0282574||RMS angle detection error
+C0009199||cochlear implant
+C0521785||single-sided deafness
+C0009199||cochlear implant
+C0018767||hearing
+C0521785||single-sided deafness
+C0302559||cochlear implantation

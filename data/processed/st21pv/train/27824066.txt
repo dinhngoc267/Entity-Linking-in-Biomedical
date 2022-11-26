@@ -1,0 +1,30 @@
+C3161035||Model
+C0202098||Mixed-Meal Test
+C0011854||Type 1 Diabetes
+C1140609||Insulin Pump
+C0087111||Therapy
+C0181334||closed-loop insulin delivery methods
+C0008972||studies
+C0557351||employing
+C3161035||minimal model
+C3161035||GLUKINSLOOP 2.0
+C0202098||mixed meal tests
+C0202098||mixed meal tests
+C0456389||sizes
+C0011854||type 1 diabetes
+C0011854||type 1 diabetes
+C1140609||insulin pump
+C0087111||therapy
+C0393124||continuous subcutaneous insulin infusion
+C0393124||CSII
+C3161035||GLUKINSLOOP 2.0
+C0449381||parameters
+C0008972||studies
+C0202098||MMTs
+C3161035||model
+C0678257||description
+C0011854||type 1 diabetes
+C0393124||CSII
+C1553497||"virtual" patients
+C0456984||results
+C0393124||CSII

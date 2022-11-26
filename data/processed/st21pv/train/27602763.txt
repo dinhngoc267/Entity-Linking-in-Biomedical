@@ -1,0 +1,54 @@
+C1171362||Expressions
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0965245||programmed death ligand-1
+C1504797||forkhead box P3
+C0079722||tumor infiltrating lymphocytes
+C0278504||stage I NSCLC
+C0085533||adjuvant chemotherapy
+C0679006||decisions
+C0085533||adjuvant chemotherapy
+C0332167||high risk
+C0278504||stage I non-small cell lung cancer
+C0007131||non-small cell lung cancer
+C0332167||high risk
+C2603343||study
+C0599755||cohorts
+C0085533||adjuvant chemotherapy
+C0027651||tumor
+C0014406||environment
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0243095||no correlation
+C0965245||programmed death ligand-1
+C1171362||expressions
+C0965245||programmed death ligand-1
+C1171362||expressed
+C0025266||men
+C0278504||carcinoma
+C1504797||forkhead box P3
+C0079722||tumor infiltrating lymphocytes
+C1504797||forkhead box P3
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0278504||stage I NSCLC
+C0021044||immunohistochemistry
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0079722||tumor infiltrating lymphocytes
+C0965245||programmed death ligand-1
+C0965245||programmed death ligand-1
+C1504797||forkhead box P3
+C1504797||forkhead box P3
+C0079722||tumor infiltrating lymphocytes
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0278504||stage I NSCLC
+C0085358||CD8
+C0079722||tumor infiltrating lymphocytes
+C0085533||adjuvant chemotherapy
+C0332167||high risk

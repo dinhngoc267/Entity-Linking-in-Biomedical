@@ -1,0 +1,17 @@
+C1720950||gene regulatory networks
+C0678594||structure
+C1720950||regulatory networks
+C2603343||studies
+C1552663||Boolean
+C1720950||gene regulatory networks
+C0678594||structure
+C0017262||gene expression
+C0449774||patterns
+C1704788||definition
+C1552663||Boolean
+C1552663||Boolean
+C0678594||structural
+C1720950||regulatory networks
+C0598941||neural
+C1720950||genetic regulatory networks
+C0023866||literature

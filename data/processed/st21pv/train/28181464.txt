@@ -1,0 +1,34 @@
+C0162969||chitosan
+C0813622||hyaluronan
+C1709148||lipid nanoparticles
+C0565867||delivery
+C0144576||paclitaxel
+C2603343||proof-of-concept study
+C1512505||breast cancer cells
+C1709148||solid lipid nanoparticles
+C1709148||solid lipid nanoparticles
+C0144576||paclitaxel
+C0144576||paclitaxel
+C3898158||SLN loaded with PAX
+C3828864||high-pressure hot homogenization
+C0524527||Formulation parameters
+C0085104||high-quality delivery system
+C1709148||solid lipid nanoparticles
+C0162969||chitosan
+C0813622||hyaluronan
+C0813622||hyaluronan
+C0813622||hyaluronan
+C0597357||receptors
+C1512505||breast cancer cell line
+C0596890||MCF-7
+C0162969||chitosan
+C0813622||hyaluronan
+C1709148||solid lipid nanoparticles
+C3888108||cellular uptake
+C0144576||paclitaxel
+C1709148||solid lipid nanoparticles
+C1706209||carrier candidates
+C0278627||nano-oncology
+C0304497||cytotoxic potential
+C0243095||overcoming
+C0282588||multidrug-resistant cancer cells

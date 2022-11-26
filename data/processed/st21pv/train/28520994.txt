@@ -1,0 +1,36 @@
+C0011991||diarrheal
+C3714514||infections
+C0024660||mammalian
+C0017189||gastrointestinal tract
+C4289767||colonization
+C4289767||colonization
+C0011991||diarrheal
+C0079134||Clostridium difficile
+C0036126||Salmonella enterica serovar Typhimurium
+C1264842||diarrheagenic Escherichia coli
+C0282441||literature review
+C3714514||infection
+C0011991||diarrheal
+C1138432||PubMed
+C1706852||articles
+C0022877||laboratory
+C0011991||diarrheal
+C3714514||infections
+C0011991||diarrheal
+C0678695||nutrients
+C0870883||metabolites
+C0018270||growth
+C0042765||virulence
+C0232577||gut mucosal barrier
+C0678209||adaptive immunity
+C0086418||Human
+C0002783||epidemiological studies
+C3714514||infections
+C0003064||laboratory animals
+C0338237||antibiotic treatment
+C4289767||colonization
+C0011991||diarrheal
+C0035168||research
+C0525033||next-generation probiotics
+C4289767||colonization
+C0277528||travellers' diarrheal

@@ -1,0 +1,20 @@
+C2063407||Hepatitis E Infection
+C0024305||Non-Hodgkin Lymphoma
+C0332293||Treated
+C0035525||Ribavirin
+C0025266||man
+C0021079||immunosuppressive treatment
+C0024305||non-Hodgkin lymphoma
+C0439663||infected
+C0085293||viral hepatitis E
+C2063407||hepatitis E virus infection
+C0232741||liver function
+C0376545||haematological malignancies
+C4048329||immunosuppression
+C0017446||endemic regions
+C0237401||individuals
+C1864936||protracted disease course
+C0087111||treatment
+C0035525||ribavirin
+C0907160||pegylated interferon
+C3178994||eradication

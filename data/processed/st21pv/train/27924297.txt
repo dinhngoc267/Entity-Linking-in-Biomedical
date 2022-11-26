@@ -1,0 +1,58 @@
+C0150098||Datasets
+C1519941||validation
+C1515655||in vivo
+C1099354||siRNA
+C0598496||silencing
+C1539081||CD40
+C1511790||detection
+C0017393||markers
+C0003850||atherosclerosis
+C0242656||progression
+C1412481||ApoE
+C0025929||mice
+C1515655||in vivo
+C0598496||silencing
+C1539081||CD40
+C0242656||progression
+C0681814||experimental
+C1563937||atherogenesis
+C0079904||NFκB
+C2352284||miR-125b
+C1363844||mediators
+C0699748||pathogenesis
+C0003850||atherosclerosis
+C1547383||M. Hueso
+C1547383||L. De Ramon
+C1547383||E. Navarro
+C1547383||E. Ripoll
+C1547383||J.M. Cruzado
+C1547383||J.M. Grinyo
+C1547383||J. Torras
+C1519941||validation
+C0598496||silencing
+C1539081||CD40
+C0017262||expression
+C1099354||siRNA
+C1412481||ApoE(-/-)
+C0025929||mouse
+C0003483||aortas
+C0037993||splenic
+C0079720||lymphocytic subpopulations
+C0332448||infiltration
+C0226009||aortic intima
+C0007634||F4/80(+)
+C0024432||galectin-3(+) macrophages
+C0007634||NF-κB(+) cells
+C1138831||Gene Ontology
+C0936012||TLDA analysis
+C1511790||detection
+C1363844||mediators
+C0003850||atherosclerosis
+C0242656||progression
+C0017337||genes
+C0017262||expression
+C0003850||atherosclerosis
+C0242656||progression
+C0013081||downregulated
+C1539081||CD40
+C0598496||silencing

@@ -1,0 +1,86 @@
+C0163315||Liver Fatty Acid Binding Protein
+C0242606||Oxidative Stress
+C0021368||Inflammation
+C0162638||Apoptosis
+C0235378||Hepatotoxicity
+C0034239||Pyrazinamide
+C0043457||Zebrafish
+C0023047||Larvae
+C0034239||Pyrazinamide
+C0034239||Pyrazinamide
+C0003448||antitubercular drug
+C0235378||hepatotoxicity
+C0034239||Pyrazinamide
+C0043457||zebrafish
+C0043457||Danio rerio
+C0023047||larvae
+C0235378||hepatotoxicity
+C0282641||transgenic line
+C0043457||zebrafish
+C0023047||larvae
+C1171362||expressed
+C1258415||enhanced green fluorescent protein
+C1258415||enhanced green fluorescent protein
+C0023884||liver
+C1439852||incubated
+C0034239||Pyrazinamide
+C0015914||postfertilization
+C0700329||morphology
+C0332479||shape
+C0023884||liver
+C0019638||histological
+C0919834||transaminase analysis
+C0162638||apoptosis
+C0005516||markers
+C0242606||oxidative
+C0012860||genetic damage
+C0017262||expression
+C0017337||genes
+C0220825||evaluate
+C0034239||Pyrazinamide
+C0235378||hepatotoxicity
+C0750484||confirm
+C0034239||Pyrazinamide
+C0235378||hepatotoxicity
+C0034239||Pyrazinamide
+C3263723||injury
+C0043457||zebrafish
+C0023047||larvae
+C0391996||liver atrophy
+C0438717||elevations of transaminase levels
+C0242606||oxidative stress
+C3269241||hepatocyte apoptosis
+C0034239||Pyrazinamide
+C0235378||hepatotoxicity
+C0043457||zebrafish
+C0023047||larvae
+C0034239||Pyrazinamide
+C0034239||Pyrazinamide
+C0163315||liver fatty acid binding protein
+C0163315||liver fatty acid binding protein
+C1332838||target gene
+C0166415||peroxisome proliferator-activated receptor α
+C0166415||peroxisome proliferator-activated receptor α
+C0242606||oxidative stress
+C0019158||hepatitis
+C0041904||upregulation
+C0010813||inflammatory cytokines
+C1456820||tumor necrosis factor alpha
+C1456820||tumor necrosis factor alpha
+C0040690||transforming growth factor β
+C0040690||transforming growth factor β
+C0163315||liver fatty acid binding protein
+C0166415||peroxisome proliferator-activated receptor α
+C0949469||downregulation
+C3549372||hepatotoxic response
+C0043457||zebrafish
+C0023047||larva
+C0227525||liver cell
+C0162638||apoptosis
+C0163315||liver fatty acid binding protein
+C0005516||biomarker
+C0596473||early detection
+C0034239||Pyrazinamide
+C0151763||liver damage
+C0043457||zebrafish
+C0023047||larvae

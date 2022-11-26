@@ -1,0 +1,68 @@
+C0206116||microglial
+C0012151||biodiesel exhaust
+C0020538||hypertensive
+C0034721||rats
+C0442529||urban
+C0007682||central nervous system (CNS) diseases
+C1535926||neurodevelopmental disorders
+C0206116||Microglia
+C0312740||immune cells
+C0950580||sentinels
+C0006104||brain
+C0449426||source
+C0007682||CNS effects
+C2717891||soy-based biofuel
+C0027361||public
+C0543488||interest
+C2717891||soy biofuel
+C0006104||brain
+C0027361||people
+C0521987||preexisting disease conditions
+C0034705||spontaneously hypertensive rats
+C0034705||spontaneously hypertensive rats
+C2712122||normotensive
+C0034709||Wistar Kyoto (WKY) rats
+C0012151||100% Soy-based Biodiesel Exhaust
+C0012151||100SBDE
+C0004048||inhalation
+C1455000||Ionized calcium-binding adapter molecule-1
+C1455000||Ionized calcium-binding adapter molecule-1
+C0487602||staining
+C0206116||microglia
+C0038590||substantia nigra
+C0012151||100SBDE
+C0034721||rats
+C0034705||spontaneously hypertensive rats
+C4234382||Aconitase activity
+C0016733||frontal cortex
+C0007765||cerebellum
+C0034709||WKY rats
+C0012151||100SBDE
+C0079189||cytokine
+C1171362||expression
+C0033684||nitrated protein
+C0003763||arginase1
+C1171362||expression
+C1273723||brain regions
+C0034721||rat strain
+C0012151||100SBDE
+C1455000||Ionized calcium-binding adapter molecule-1
+C1515670||mRNA expression
+C1870161||CX3CR1
+C1515670||mRNA expression
+C0010097||striatum
+C0012151||100SBDE
+C0034721||exposed rats
+C0013081||downregulation
+C0663627||fractalkine receptor
+C0206116||microglia
+C1273723||brain region
+C0206116||microglia
+C0442726||detecting
+C0012151||100SBDE
+C1171362||expression
+C1870161||CX3CR1
+C0005516||inflammatory markers
+C0024432||M1
+C4086555||M2
+C0006104||brain

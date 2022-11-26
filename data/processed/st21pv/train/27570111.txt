@@ -1,0 +1,63 @@
+C0596620||Glucose metabolism
+C0011923||weighted imaging
+C0024485||chemical exchange-sensitive MRI
+C4049845||2-deoxyglucose
+C4049845||2-deoxyglucose
+C0006104||brain
+C0449416||sources
+C2603343||Recent proof-of-principle studies
+C0243144||uptake
+C0025519||metabolism
+C4049845||2-deoxy-D-glucose
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock (CESL) MRI approach
+C1515655||in vivo
+C0024485||CESL MRI
+C0086893||rat
+C0006104||brains
+C4049845||2-deoxyglucose
+C4049845||2-deoxyglucose
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C1533685||injection
+C4049845||2-deoxyglucose
+C0005528||transport
+C0025519||metabolism
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C4049845||2-deoxyglucose
+C0022180||isoflurane
+C0596620||glucose metabolism
+C0232338||blood flow
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C0022180||isoflurane
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C0022180||isoflurane
+C4049845||2-deoxyglucose
+C0031715||phosphorylation
+C0682581||intracellular space
+C0596620||glucose metabolism
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C0007776||cortex
+C0010090||corpus callosum
+C0024485||CESL MRI
+C1533685||injection
+C0024730||non-transportable mannitol
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C4049845||2-deoxyglucose
+C0024485||chemical exchange-sensitive spin-lock
+C0220806||chemical
+C4019011||exchange
+C4049845||2-deoxyglucose
+C0024485||CESL MRI
+C0178666||glucose transport
+C0596620||metabolism
+C0005516||biomarker
+C2603343||studies
+C0006104||normal
+C0012634||diseased
+C0006104||brains

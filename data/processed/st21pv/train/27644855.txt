@@ -1,0 +1,28 @@
+C0596631||groundwater
+C0013593||Ecuador
+C0871511||susceptibility index method
+C0017446||Guayas region
+C0013593||Ecuador
+C0242775||national crops
+C0596631||groundwater
+C0699857||nitrate
+C0015919||fertiliser
+C0043047||water
+C0871511||susceptibility index assessment method
+C0596631||groundwater
+C0017446||Guayas
+C0205146||river basin
+C0013593||Ecuador
+C0871511||DRASTIC method
+C0205146||areas
+C1295726||perimeters
+C0562975||paddy fields
+C0055863||alluvial deposits
+C0205146||areas
+C1710706||semi-natural zones
+C0332464||wide
+C0870781||flat topography
+C0699857||nitrates
+C0243095||monitoring network to control
+C0699857||nitrates
+C0596631||groundwater

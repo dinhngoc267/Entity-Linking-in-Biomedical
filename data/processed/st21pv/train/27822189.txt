@@ -1,0 +1,22 @@
+C0553544||Gaze
+C0553544||Gaze
+C0037420||social interactions
+C0553544||gaze
+C0037420||social interactions
+C0553544||gaze
+C0039309||targets
+C0553544||gaze
+C0039309||targets
+C0001721||affects
+C0553544||gaze
+C0001721||affects
+C0681814||experimental study
+C0425245||mobility
+C0231472||standing still
+C0522230||walking along a straight-line itinerary
+C0243095||no conversational
+C0553544||Gaze
+C0026767||partners
+C0553544||gaze
+C1704322||orientation
+C0456984||Results

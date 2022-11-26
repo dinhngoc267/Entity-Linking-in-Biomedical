@@ -1,0 +1,21 @@
+C4049918||liquid chromatography-tandem mass spectrometry
+C0002520||d-amino acids
+C0002520||d-Amino acids
+C0004268||attention
+C0242481||research fields
+C3714634||biological functions
+C0002520||l-amino acid
+C0002520||amino acid
+C0442726||detectability
+C0035168||research
+C0002520||amino acids
+C4049918||liquid chromatography-tandem mass spectrometry
+C4049918||LC-MS/MS
+C0936012||analysis
+C0002520||d-amino acids
+C0148405||vinegar
+C1519941||validation
+C0002520||d-amino acids
+C0456984||results
+C4049918||LC-MS/MS
+C0002520||d-amino acid

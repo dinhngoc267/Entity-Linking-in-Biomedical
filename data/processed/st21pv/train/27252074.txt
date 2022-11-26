@@ -1,0 +1,83 @@
+C1528399||Tien-Hsien Liquid
+C0020964||Immunity
+C0597032||Tumor Cell
+C1116171||Vaccinated
+C0025929||Mice
+C1528399||Tien-Hsien liquid
+C1528399||Tien-Hsien liquid
+C0242295||dietary supplement
+C2603343||studies
+C1528399||Tien-Hsien liquid
+C0443264||modulate
+C0301872||immune response
+C2603343||study
+C0220825||evaluated
+C1528399||Tien-Hsien liquid
+C0301872||immune response
+C0025929||mice
+C1116171||vaccinated
+C0597032||tumor cells
+C1528399||Tien-Hsien liquid
+C0025929||mice
+C1116171||vaccinated
+C0085983||low-tumorigenic CT-26-low colon cancer cells
+C2985557||γ-ray-irradiated
+C0085983||high-tumorigenic CT-26-high colon cancer cells
+C0022688||natural killer (NK) cells
+C0039194||T lymphocytes
+C0037993||spleen
+C0936012||analyzed
+C0016263||flow cytometry
+C0027651||tumor
+C0599733||killing
+C0022688||NK cells
+C0039195||cytotoxic T lymphocytes
+C0039195||cytotoxic T lymphocytes
+C0936012||analyzed
+C0016263||flow cytometry
+C0085983||YAC-1
+C0085983||CT-26-high cells
+C0007634||cells
+C0021745||IFN-γ
+C0021756||IL-2
+C1456820||TNF-α
+C0014441||ELISA
+C1528399||Tien-Hsien liquid
+C0018270||growth
+C0085983||CT-26-high tumor
+C0025929||mice
+C1116171||vaccinated
+C0085983||low-tumorigenic CT-26-low cells
+C2985557||γ-irradiated
+C0085983||CT-26-high cells
+C1528399||Tien-Hsien liquid
+C0022688||NK cells
+C0039215||CD4+ T lymphocytes
+C0037993||spleen
+C0027651||tumor
+C0599733||killing
+C0022688||NK cells
+C0039195||CTL
+C0025929||mice
+C1116171||vaccinated
+C2985557||γ-irradiated
+C0085983||CT-26-high cells
+C1528399||Tien-Hsien liquid
+C0021745||IFN-γ
+C0021756||IL-2
+C1456820||TNF-α
+C0025929||mice
+C1116171||vaccinated
+C2985557||γ-irradiated
+C0085983||CT-26-high cells
+C1528399||Tien-Hsien liquid
+C0301872||immune responses
+C0025929||mice
+C1116171||vaccinated
+C0597032||tumor cells
+C1528399||Tien-Hsien liquid
+C1148474||complementary medicine
+C0006826||cancer
+C0376659||killed tumor cell vaccines
+C1522449||radiotherapy
+C3665472||chemotherapy

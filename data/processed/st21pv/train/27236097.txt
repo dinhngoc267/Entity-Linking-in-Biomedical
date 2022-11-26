@@ -1,0 +1,25 @@
+C0023828||liposomal
+C0600500||PNA oligomers
+C0023828||Liposomal
+C0031676||phospholipids
+C0201950||cholesterol content have been tested
+C0600500||Peptide Nucleic Acid (PNA) oligomers
+C0023828||liposomes
+C0043840||phosphatidylglycerol
+C0043840||DOPG
+C0003075||negatively charged
+C0441587||insertion
+C0008377||cholesterol
+C0043840||DOPG
+C0023828||liposomes
+C0600500||Peptide Nucleic Acid
+C0008377||cholesterol
+C0600500||PNA's
+C3812213||fetal bovine serum
+C0023828||liposomal
+C0032483||PEGylated
+C0043840||DOPG
+C0023828||liposomes
+C0008377||cholesterol
+C0524527||optimal formulation
+C0600500||PNA-a210

@@ -1,0 +1,14 @@
+C0187769||Knee Surgery
+C4277549||Medicare Access and Children's Health Insurance Program Reauthorization Act of 2015
+C0031831||physicians
+C0185317||total joint replacement
+C0184661||procedures
+C0565997||health care environment
+C0334891||knee surgeons
+C4277549||Medicare Access and Children's Health Insurance Program Reauthorization Act
+C0334891||knee surgeons
+C0018719||health care legislation
+C0018735||health policy
+C1706244||summary
+C0282574||Merit-Based Incentive Payment Systems
+C0282574||Alternative Payment Models reimbursement models

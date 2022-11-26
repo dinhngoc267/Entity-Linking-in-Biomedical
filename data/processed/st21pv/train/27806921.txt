@@ -1,0 +1,23 @@
+C0679083||Simulating
+C0439663||infected
+C0008139||bats
+C0282687||Ebola
+C0282687||Ebola virus (EBOV) disease
+C0001747||West Africa
+C2986731||compartmental model
+C0439663||infected
+C0008139||bats
+C0750484||confirmed
+C0700287||reported
+C0043237||World Health Organization
+C0936012||sensitivity analysis
+C1444656||indicated
+C0008139||bats
+C0750484||confirmed
+C3840073||peak time
+C0750484||confirmed
+C0750484||confirmed
+C0009458||media
+C0282687||Ebola
+C0008139||bats
+C0449416||source

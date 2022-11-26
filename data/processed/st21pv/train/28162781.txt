@@ -1,0 +1,74 @@
+C0442108||Intra-articular
+C3536709||corticosteroids
+C0442108||intra-articular
+C3536709||corticosteroids
+C0025677||methotrexate
+C3898105||oligoarticular juvenile idiopathic arthritis
+C0206012||multicentre
+C0033522||prospective
+C0206034||randomised
+C0008976||open-label trial
+C2825826||guide
+C0087111||treatment
+C3898105||oligoarticular juvenile idiopathic arthritis
+C4054701||intra-articular corticosteroid therapy
+C0033522||prospective
+C0008976||open-label
+C0206034||randomised trial
+C0019994||hospitals
+C0022277||Italy
+C0745732||computer-generated list
+C0439754||oligoarticular
+C0442108||intra-articular
+C3536709||corticosteroids
+C3536709||Corticosteroids
+C0077004||triamcinolone hexacetonide
+C0037009||shoulder
+C0013770||elbow
+C1322271||wrist
+C0022745||knee
+C0003087||tibiotalar joints
+C0600901||methylprednisolone acetate
+C0038593||subtalar
+C1527245||tarsal joints
+C0008961||investigators
+C0087111||treatment
+C2718028||intention-to-treat
+C1257890||population
+C0544452||remission
+C0003864||arthritis
+C0021485||injected
+C0022417||joints
+C0008976||trial
+C1514821||registered
+C0282574||EudraCT number
+C0679646||participants
+C0442108||intra-articular
+C3536709||corticosteroids
+C0442108||intra-articular
+C3536709||corticosteroids
+C0025677||methotrexate
+C0442108||intra-articular
+C3536709||corticosteroids
+C0442108||intra-articular
+C3536709||corticosteroids
+C0025677||methotrexate
+C0087111||therapy
+C0544452||remission
+C0003864||arthritis
+C0021485||injected
+C0022417||joints
+C0877248||Adverse events
+C0025677||methotrexate
+C0087111||treatment
+C1444662||discontinuation
+C1848701||increased liver transaminases
+C1096250||gastrointestinal discomfort
+C1513916||No
+C0877248||adverse event
+C0025677||methotrexate
+C4054701||intra-articular corticosteroid therapy
+C2603343||Future studies
+C0087111||therapeutic strategies
+C3898105||oligoarticular juvenile idiopathic arthritis
+C1561598||Italian Agency of Drug Evaluation

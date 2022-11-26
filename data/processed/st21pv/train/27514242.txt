@@ -1,0 +1,55 @@
+C0006055||Botulinum Toxin
+C0030200||Refractory Pain
+C1457887||Symptoms
+C0242422||Parkinsonism
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0242422||parkinsonian syndromes
+C0524851||neurodegenerative diseases
+C0012634||disease
+C0426980||motor
+C1457887||non-motor symptoms
+C1457887||symptom
+C0564405||relief
+C0018017||goal
+C0087111||treatment
+C0006055||Botulinum toxins
+C0006055||Botulinum toxins
+C0087111||treatment
+C0027765||neurological conditions
+C0006055||Botulinum toxins
+C1257890||population
+C0541653||chart review
+C0332140||clinical diagnosis
+C0865475||idiopathic PD
+C4302185||atypical parkinsonism
+C1321035||BTX injections
+C1708333||center
+C1457887||symptoms
+C0006055||Botulinum toxins
+C3639708||subjective Clinical Global Impression
+C0034869||Records
+C0865475||idiopathic PD
+C0011900||diagnosis
+C0006055||Botulinum toxins
+C0087111||treatment
+C0030193||pain
+C0087111||treatment
+C0013421||dystonia
+C0037036||sialorrhea
+C0860515||freezing of gait
+C0264162||camptocormia
+C0030193||pain
+C0030567||Parkinson's disease
+C0700287||reported
+C1321035||BTX injections
+C1512346||last recorded visit
+C0021485||injection
+C4302185||atypical parkinsonism
+C0006055||Botulinum toxins
+C0242422||parkinsonism
+C0012634||disease
+C0006055||Botulinum toxins
+C0087111||treatment
+C0030193||pain
+C1257890||population

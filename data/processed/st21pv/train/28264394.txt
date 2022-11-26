@@ -1,0 +1,12 @@
+C4005338||<i>Neopanorpa chillcotti</i> Byers
+C1001487||Mecoptera
+C1015340||Panorpidae
+C0040182||Tibet
+C0008115||China
+C4005338||Neopanorpa chillcotti Byers
+C0027689||Nepal
+C0040182||Tibet
+C0008115||China
+C0008115||China
+C0027689||Nepal
+C1705920||species

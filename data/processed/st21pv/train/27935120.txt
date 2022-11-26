@@ -1,0 +1,46 @@
+C0332167||high-risk
+C0343641||human papillomavirus infection
+C0008115||Shaanxi
+C1514578||province
+C0008115||China
+C0019994||hospital
+C0220825||investigation
+C0343641||high-risk human papillomavirus (HR-HPV) infection
+C0008115||Shaanxi
+C1514578||province
+C0008115||China
+C0021344||HPV
+C0010818||cytology
+C0195314||cervix biopsy
+C0343641||HPV infection
+C0021344||high-risk human papillomavirus
+C0021344||high-risk human papillomavirus
+C0999806||HPV-16
+C3641018||HPV-58
+C3641016||HPV-52
+C0999807||HPV-18
+C2936597||HPV-31
+C0021344||high-risk human papillomavirus
+C0007090||carcinogenic
+C0999806||HPV-16
+C0999807||HPV-18
+C3641018||HPV-58
+C3641016||HPV-52
+C2936597||HPV-31
+C0999806||HPV-16
+C0999807||HPV-18
+C0007847||cervical cancer
+C3714514||infection
+C0021344||HR-HPVs
+C0205160||not
+C0035648||risk factor
+C0235656||cervical lesions
+C0343641||HPV infection
+C0008115||Shaanxi
+C1514578||province
+C0343641||HR-HPV infection
+C0007847||cervical cancer
+C0999806||HPV-16
+C0999807||HPV-18
+C0007090||carcinogenic
+C0017446||region

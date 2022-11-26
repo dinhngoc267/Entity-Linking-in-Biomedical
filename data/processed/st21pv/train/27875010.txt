@@ -1,0 +1,35 @@
+C0678695||Nutrients
+C0036500||macroalga
+C0678695||nutrients
+C0014406||terrestrial environment
+C0871648||nearshore habitats
+C0678695||nutrient
+C0030054||oxygen
+C0016452||food
+C1705920||species
+C0028158||nitrogen-limited
+C0036500||macroalgae
+C0678695||Nutrient
+C0014406||environment
+C1705920||species
+C0678695||nutrient
+C0028158||nitrogen
+C0018270||growth
+C1083174||Fucus vesiculosus
+C0036500||macroalgal
+C0036500||species
+C0004166||North Atlantic rocky intertidal zone
+C0678695||nutrient
+C2698828||algal blades
+C1621966||tissue growth
+C0678695||nutrient
+C1514137||tissues
+C0035203||Respiration
+C0678695||nutrient
+C0030054||oxygen
+C0678695||nutrient
+C1514137||tissue
+C2603343||study
+C0023866||literature
+C2603343||studying
+C0014406||environmental

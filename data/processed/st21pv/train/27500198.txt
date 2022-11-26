@@ -1,0 +1,42 @@
+C1955832||Systematic Review
+C0033684||Protein
+C0005516||Biomarkers
+C0751571||Urothelial Bladder Cancer
+C0010702||cystoscopy
+C0442726||detecting
+C0027651||tumours
+C0005682||urinary bladder
+C0005695||bladder tumours
+C0242656||progress
+C0010702||cystoscopies
+C0733511||surveillance
+C0184661||procedure
+C0018724||healthcare providers
+C1519941||validation
+C0005695||bladder tumour
+C0005516||molecular markers
+C0042036||urine
+C0027651||tumour
+C0442726||detection
+C0010702||cystoscopy
+C0005516||biomarkers
+C0033684||Proteins
+C0035173||researchers
+C0005516||biomarkers
+C1955832||comprehensive systematic review
+C0023866||literature
+C0242356||database
+C0033684||proteins
+C0220825||investigated
+C0033684||proteins
+C0005695||bladder cancer
+C0442726||detection
+C0220825||investigation
+C0220825||investigation
+C0220825||investigated
+C0005516||biomarkers
+C0681836||rigorous validation
+C0033684||proteins
+C0012634||disease
+C0005516||biomarker
+C0681836||validation

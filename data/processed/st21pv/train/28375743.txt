@@ -1,0 +1,35 @@
+C0017387||Engineering
+C1515655||In Vivo
+C2936590||Riboswitches
+C2936590||Riboswitches
+C0017362||gene regulatory units
+C0004611||bacteria
+C0017262||gene expression
+C1328819||small molecule
+C0035668||structured RNA elements
+C0599013||aptamer domain
+C1167622||binds
+C0023688||ligand
+C0017262||expression
+C0037083||transduces
+C1517880||ligand binding
+C0017262||gene expression
+C0017387||engineering
+C0599013||aptamer domains
+C1328819||small molecule
+C0017262||gene expression
+C0017262||expression
+C0599013||aptamer domains
+C0035668||RNA
+C0282443||review
+C1552616||summarize
+C0025663||methods
+C2936590||riboswitches
+C2936590||riboswitches
+C0033629||enzyme
+C1879848||strain engineering
+C0017262||gene expression
+C0007613||cellular physiology
+C0079595||real-time imaging
+C0870883||cellular metabolites
+C0037080||signals

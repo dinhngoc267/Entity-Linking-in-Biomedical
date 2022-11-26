@@ -1,0 +1,56 @@
+C1961768||Pedicle Screw
+C0005975||Lateral Mass Screw
+C0185023||Fixation
+C0087111||Treatment
+C3887851||Basilar Invagination
+C0022738||Congenital C2-C3 Fusion
+C4084924||Clinical evaluation
+C0543467||surgical
+C0185023||fixation
+C1961768||pedicle screw
+C0005975||lateral mass screw
+C0005975||lateral mass screw
+C0087111||treatment
+C0022738||congenital C2-C3 fusion
+C3887851||basilar invagination
+C3887851||basilar invagination
+C0205095||Posterior
+C0027530||occipitocervical
+C0185023||fixation
+C1961768||C2 pedicle screw
+C3887851||basilar invagination
+C3887851||basilar invagination
+C0022738||congenital C2-C3 fusion
+C0456605||C2 pedicles
+C1257890||population
+C0033213||issue
+C1961768||pedicle screw
+C0005975||lateral mass screw
+C0185023||fixation
+C1961768||pedicle screw
+C0005975||lateral mass screw
+C0185023||fixation
+C0035363||retrospectively studied
+C0348000||instrument
+C0733755||position
+C0009566||complications
+C0936012||analyzed
+C0037929||spinal cord
+C0433912||vertebral artery injury
+C1522577||follow-up
+C0043299||radiologically
+C3887851||basilar invagination
+C0348000||instrument
+C0162643||failure
+C0230005||occiput
+C0456605||C2
+C0558347||revision
+C0009566||complications
+C0348000||instrument
+C0162643||failure
+C0023182||cerebrospinal fluid leakage
+C0524466||intracranial
+C3714514||infection
+C0087111||treatment
+C3887851||basilar invagination
+C0022738||congenital C2-C3 fusion

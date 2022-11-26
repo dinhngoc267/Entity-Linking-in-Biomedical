@@ -1,0 +1,61 @@
+C0282574||Multi-center Evaluation of the Accuracy of the Contrast MEdium INduced Pd/Pa RaTiO
+C1299469||fractional flow reserve
+C0282574||MEMENTO
+C1299469||fractional flow reserve
+C2603343||Study
+C0001443||Adenosine
+C1533734||administration
+C0020452||hyperaemia
+C1299469||fractional flow reserve
+C1299469||fractional flow reserve
+C0220825||assessment
+C0456180||Pa
+C0020452||hyperaemia
+C1875544||non-ionic contrast medium
+C1299469||contrast FFR
+C1299469||contrast FFR
+C1299469||fractional flow reserve
+C0679218||resting
+C0456180||Pa
+C0019994||hospitals
+C0022277||Italy
+C0037747||Spain
+C0016674||France
+C0032729||Portugal
+C0679218||Resting
+C0456180||Pa
+C1299469||contrast FFR
+C1299469||fractional flow reserve
+C0242231||coronary stenoses
+C0025080||pressure wires
+C1299469||contrast FFR
+C0009924||contrast medium
+C1299469||fractional flow reserve
+C1533734||administration
+C0001443||adenosine
+C0679218||Resting
+C0456180||Pa
+C1299469||contrast FFR
+C1299469||fractional flow reserve
+C0282574||Bland-Altman analysis
+C1299469||contrast FFR
+C1299469||fractional flow reserve
+C0936012||analysis
+C1299469||contrast FFR
+C1299469||fractional flow reserve
+C0679218||resting
+C0456180||Pa
+C1299469||contrast FFR
+C1299469||fractional flow reserve
+C0282574||hybrid approach
+C0221198||lesions
+C0001443||adenosine
+C0679218||resting
+C0456180||Pa
+C1299469||fractional flow reserve
+C0282574||hybrid approach
+C1299469||contrast FFR
+C0242231||coronary stenosis
+C0001443||adenosine
+C1299469||fractional flow reserve
+C1261287||stenoses

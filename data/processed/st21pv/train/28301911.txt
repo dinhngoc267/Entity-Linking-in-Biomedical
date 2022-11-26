@@ -1,0 +1,50 @@
+C0004057||acetylsalicylic acid
+C4282382||Nonresponse
+C0018821||Cardiac Surgery
+C0004057||acetylsalicylic acid
+C0004057||acetylsalicylic acid
+C4282382||nonresponse
+C0010055||coronary artery bypass graft (CABG) surgery
+C1320716||cardiovascular events
+C0033522||prospective
+C1518527||observational
+C0019994||German University hospitals
+C0206058||elective
+C0010055||CABG surgery
+C1254881||Platelet function
+C0003695||arachidonic acid
+C0032184||ASPItest
+C0219419||thrombin receptor-activating peptide 6
+C0032184||TRAPtest
+C0032184||multiple electrode aggregometry
+C0032184||Multiplate
+C0032184||ASPItest
+C0004057||acetylsalicylic acid
+C0919875||nonresponders
+C1522577||follow-up
+C1320716||cardiovascular events
+C0184666||hospital admissions
+C1306577||deaths
+C0007222||cardiovascular disease
+C0004057||acetylsalicylic acid
+C4282382||nonresponse
+C3828533||aggregation curve
+C0032184||TRAPtest
+C0032181||platelet count
+C0429123||cardiopulmonary bypass time
+C0004057||acetylsalicylic acid
+C4282382||nonresponse
+C1522577||follow-up
+C0004057||acetylsalicylic acid
+C0919876||responders
+C0919875||nonresponders
+C0008972||study
+C0004057||acetylsalicylic acid
+C4282382||nonresponse
+C0010055||coronary artery bypass graft
+C1320716||cardiovascular events
+C1522577||follow-up
+C0206034||randomized dosage adjustment trial
+C0004057||acetylsalicylic acid
+C1533734||treatment
+C0010055||CABG surgery

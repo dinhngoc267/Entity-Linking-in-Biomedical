@@ -1,0 +1,27 @@
+C0032914||Pre-Eclampsia
+C0032914||Pre-Eclampsia
+C0032914||Pre-eclampsia
+C0032914||Pre-eclampsia
+C0033687||proteinuria
+C1998040||≥20 weeks of gestation
+C0032914||Pre-eclampsia
+C0035648||risk factors
+C1516606||Clinical data
+C0032914||Pre-eclampsia
+C0028275||disparate terminology
+C0008972||clinical studies
+C1516606||clinical data
+C0035168||research
+C0032914||Pre-eclampsia
+C1516606||clinical data
+C0032914||Pre-eclampsia
+C0087111||treatments
+C0032914||Pre-eclampsia
+C0032914||pre-eclampsia
+C0032914||Pre-eclampsia
+C0008972||clinical
+C0005540||biomedical research
+C0032914||Pre-eclampsia
+C0032914||Pre-eclampsia
+C0008972||clinical
+C0005540||biomedical research

@@ -1,0 +1,32 @@
+C0031148||peritoneal lavage
+C1720436||anaesthetised
+C0007450||cats
+C0012984||dogs
+C0033522||prospective
+C0206034||randomised
+C0242481||non-blinded
+C0008972||clinical study
+C0031148||peritoneal lavage
+C1720436||anesthetised
+C0007450||cats
+C0012984||dogs
+C0023038||coeliotomy
+C0442711||standardised anaesthetic protocol
+C3161742||Oesophageal
+C0489749||rectal temperatures
+C0543467||surgery
+C0022100||lavaged
+C0445115||isotonic saline
+C0184898||surgical incision
+C0002921||anaesthesia
+C0543467||surgical procedures
+C0031148||peritoneal lavage
+C0243095||no significant change
+C3161742||oesophageal temperature
+C0022100||lavage
+C0459422||results
+C0489749||rectal temperature
+C0022260||isotonic
+C0056562||crystalloid solution
+C0031148||peritoneal lavage
+C0022100||lavage

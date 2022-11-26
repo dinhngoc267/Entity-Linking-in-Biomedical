@@ -1,0 +1,56 @@
+C0444764||conserved coil
+C0011635||dermatophytes
+C0011635||Dermatophyte
+C0016832||fungi
+C0040300||tissue
+C0086418||humans
+C0003062||animals
+C3714514||infection
+C0011636||dermatophytosis
+C1708235||genera
+C0026033||Microsporum
+C0040933||Trichophyton
+C0014529||Epidermophyton
+C3714514||infection
+C0018246||groin
+C1384589||tinea cruris
+C0221982||beard
+C2349994||tinea barbae
+C0036270||scalp
+C0040250||tinea capitis
+C0016504||feet
+C0040259||tinea pedis
+C1180283||glabrous skin
+C0040252||tinea corporis
+C0027342||nail
+C0040261||tinea unguium
+C0018563||hand
+C0153246||tinea manuum
+C0015219||evolutionary
+C1708235||three genera
+C0011635||dermatophyte
+C0012929||Mitochondrial DNA
+C0282688||evolves
+C1179920||nuclear DNA
+C0034865||genetic recombination
+C1519068||phylogenetic studies
+C0444764||conserved coil
+C0040935||Trichophyton rubrum
+C0040934||Trichophyton mentagrophytes
+C0014530||Epidermophyton floccosum
+C0319950||Microsporum canis
+C0079941||Protein coding sequences
+C1819716||mitochondrial genome
+C0162326||similar sequences
+C1512489||homology modelling
+C1510464||structure
+C0936012||identification
+C0002518||protein sequences
+C1708235||genera
+C0040933||Trichophyton
+C0026033||Microsporum
+C0014530||Epidermophyton floccosum
+C0002518||protein sequences
+C0444764||conserved coil
+C0014530||E. floccusum
+C0012634||disease

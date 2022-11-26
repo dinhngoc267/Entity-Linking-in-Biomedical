@@ -1,0 +1,71 @@
+C0581602||Structural Modification
+C0023810||Lipopolysaccharide
+C0017337||mcr-1
+C0018150||Gram-Negative ESKAPE
+C0017337||mcr-1
+C0032136||plasmid
+C0009316||colistin
+C1764827||clinical isolates
+C0014834||Escherichia coli
+C0001699||Klebsiella pneumoniae
+C0008115||China
+C1705920||species
+C0014346||family Enterobacteriaceae
+C0017337||mcr-1
+C2248757||phosphoethanolamine transferase
+C0017262||expression
+C0070939||phosphoethanolamine
+C0023767||bis-phosphorylated hexa-acylated lipid A
+C0014834||E. coli
+C0017337||mcr-1
+C0009316||colistin
+C0427965||susceptibility
+C0023810||lipopolysaccharide
+C0678594||structures
+C0022877||laboratory
+C0018150||Gram-negative ESKAPE
+C0085495||Enterococcus faecium
+C0038172||Staphylococcus aureus
+C0001699||K. pneumoniae
+C0314787||Acinetobacter baumannii
+C0033809||Pseudomonas aeruginosa
+C1295792||Enterobacter species
+C0009316||colistin
+C0017337||mcr-1
+C0009316||colistin
+C0427978||MIC assays
+C0022877||laboratory
+C0014834||E. coli
+C0001699||K. pneumoniae
+C0314787||A. baumannii
+C0033809||P. aeruginosa
+C0023767||Lipid A
+C0678594||structural
+C4308704||MCR-1
+C0037813||mass spectrometry
+C0017337||mcr-1
+C0009316||colistin
+C0014834||E. coli
+C0001699||K. pneumoniae
+C0314787||A. baumannii
+C0427965||susceptibility
+C0033809||P. aeruginosa
+C0070939||Phosphoethanolamine
+C3840684||modification
+C0023767||lipid A
+C1705920||species
+C0009316||colistin
+C0017337||mcr-1
+C0017262||expression
+C0018150||ESKAPE
+C0001699||K. pneumoniae
+C0314787||A. baumannii
+C0023767||lipid A
+C0678594||structures
+C0009316||colistin
+C0427978||MICs
+C1515093||surveillance methods
+C0205221||dissemination
+C0017337||mcr-1
+C0032136||plasmid
+C2248757||phosphoethanolamine transferases

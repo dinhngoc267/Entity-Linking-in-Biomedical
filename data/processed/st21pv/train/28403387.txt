@@ -1,0 +1,107 @@
+C0015726||Fear
+C0009647||Conditioning
+C0015347||Extinction
+C0034770||Recall
+C0003469||Anxiety Disorders
+C0015726||fear
+C0009647||conditioning
+C0015347||extinction
+C2603343||studied
+C1257890||populations
+C0205234||particular focus
+C0038436||posttraumatic stress disorder
+C1457887||symptoms
+C0038436||posttraumatic stress disorder
+C0003469||anxiety disorders
+C0004268||attention
+C0015726||fear
+C0003469||anxiety disorders
+C0582103||examining
+C0015726||fear
+C0015347||extinction
+C0023185||learning
+C0699748||pathogenesis
+C0003469||anxiety disorders
+C0018467||psychophysiological
+C0015726||fear
+C0009647||conditioning
+C0015347||extinction
+C0034770||recall
+C0003469||anxiety disorders
+C1301746||document
+C0011900||diagnoses
+C0003467||anxiety
+C0220825||investigation
+C0010362||cross-sectional
+C0872128||case-control
+C0376335||functional magnetic resonance imaging
+C2603343||study
+C0000872||academic medical center
+C0679646||Participants
+C0237401||individuals
+C0003469||anxiety disorders
+C0270549||generalized anxiety disorder
+C0236801||specific phobia
+C0030319||panic disorder
+C2603343||study
+C0015726||fear
+C0009647||conditioning
+C0015347||extinction
+C1655730||blood oxygenation level-dependent
+C0683457||State Trait Anxiety Inventory
+C2603343||study
+C0043210||women
+C0237401||individuals
+C0003469||anxiety disorders
+C0043210||women
+C0700287||reported
+C0679575||neuroimaging
+C0456984||results
+C0015347||extinction
+C0034770||recall
+C0237401||individuals
+C0003469||anxiety disorders
+C0003467||anxiety
+C1257890||group
+C3850122||ventromedial prefrontal cortex
+C3850122||ventromedial prefrontal cortex
+C0015347||extinction
+C0034770||recall
+C0086439||hypoactive
+C0449774||pattern
+C0009647||conditioning
+C3850122||ventromedial prefrontal cortex
+C0860603||anxiety symptom
+C0009647||conditioning
+C0015347||extinction
+C0034770||recall
+C0003469||anxiety disorders
+C0011900||diagnosed
+C0009647||conditioning
+C0015347||extinction
+C0034770||recall
+C0018467||Psychophysiological
+C0015726||fear
+C0598941||network connectivity
+C0003467||anxiety
+C1257890||group
+C0015726||fear
+C0023185||learning
+C0015347||extinction
+C0034770||recall
+C1257890||group
+C0015347||extinction
+C0034770||recall
+C0006104||brain
+C0449774||patterns
+C0237401||individuals
+C0243095||findings
+C2603343||studies
+C0582103||examine
+C0023981||longitudinally
+C0008976||treatment trials
+C0184511||improve
+C1562629||guide therapeutics
+C0027817||neurobiological
+C0162340||understanding
+C0012634||disorder

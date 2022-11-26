@@ -1,0 +1,48 @@
+C0017393||Homoeolog-Specific Markers
+C0006138||Bread
+C0043137||Wheat
+C0043137||Hexaploid Wheat Lines
+C0006138||Bread
+C0043137||wheat
+C1123020||Triticum aestivum
+C0017428||allohexaploid genome
+C0162774||homoeologous sequences
+C0008633||chromosome A
+C0008633||B
+C0008633||D
+C0017428||subgenomes
+C0008633||chromosome
+C0017428||genome
+C0004793||sequence
+C0043137||Chinese Spring
+C0043137||wheat cultivar
+C0032520||polymerase chain reaction
+C0032520||polymerase chain reaction
+C0017393||markers
+C0043137||Chinese Spring
+C0017337||genes
+C0017393||homoeolog-specific markers
+C0008633||chromosomes 4B
+C0008633||7B
+C0017393||markers
+C0032520||PCR assays
+C0008633||4B
+C0008633||7B
+C0043137||synthetic hexaploid wheat (SHW) line
+C0997189||Triticum turgidum
+C1257909||diploid species
+C1007013||Aegilops tauschii
+C0017393||markers
+C0008633||chromosomes 4B
+C0008633||7B
+C0043137||synthetic hexaploid wheat
+C0017393||markers
+C0043137||Chinese Spring
+C0006138||bread
+C0043137||wheat
+C0043137||SHW lines
+C0017393||Homoeolog-specific markers
+C0017337||genes
+C0796344||genetic investigations
+C0008633||chromosome
+C0017262||expression

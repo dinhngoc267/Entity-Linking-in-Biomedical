@@ -1,0 +1,69 @@
+C0279023||Potentiation
+C0023810||lipopolysaccharides
+C0007994||Induced
+C0162638||Apoptotic Cell Death
+C2717940||Human Hepatoma HepG2 Cells
+C0004057||Aspirin
+C0162772||reactive oxygen species
+C4021734||Mitochondrial Dysfunction
+C0001047||N-Acetyl Cysteine
+C0596402||Cytotoxicity
+C0021368||inflammation
+C0243082||associated
+C0023810||lipopolysaccharides
+C0023810||lipopolysaccharides
+C1515655||in vivo
+C0003211||nonsteroidal anti-inflammatory drugs
+C0003211||nonsteroidal anti-inflammatory drugs
+C0004057||aspirin
+C0700287||reported
+C0021368||inflammation
+C0243083||associated diseases
+C0006826||cancer
+C0011847||diabetes
+C0007222||cardiovascular disorders
+C0008972||studies
+C0004057||aspirin
+C0332293||treated
+C2717940||HepG2 cells
+C1155873||cell cycle arrest
+C0162638||apoptosis
+C4021734||mitochondrial dysfunction
+C0008972||study
+C2717940||HepG2 cells
+C0332293||treated with
+C0023810||lipopolysaccharides
+C0004057||aspirin
+C0729605||subcellular
+C3549372||toxic responses
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0242606||oxidative stress
+C4021734||mitochondrial respiratory dysfunction
+C0162638||apoptosis
+C0023810||lipopolysaccharides
+C0004057||Aspirin
+C0600688||toxicity
+C0007634||cells
+C0001047||N-acetyl cysteine
+C0001047||N-acetyl cysteine
+C0242606||oxidative stress
+C0017817||glutathione
+C1156287||redox-homeostasis
+C0026237||mitochondria
+C0026237||mitochondrial
+C1166607||cellular compartments
+C2717940||HepG2 cells
+C0001047||N-acetyl cysteine
+C1156287||redox homeostasis
+C4021734||mitochondrial dysfunction
+C1156287||redox metabolism
+C0242606||oxidative stress
+C0026237||mitochondrial
+C2717940||HepG2 cells
+C0023810||lipopolysaccharides
+C0004057||aspirin
+C0596402||cytotoxicity
+C0003211||nonsteroidal anti-inflammatory drugs
+C0334227||cancer cells
+C0014264||bacterial endotoxins

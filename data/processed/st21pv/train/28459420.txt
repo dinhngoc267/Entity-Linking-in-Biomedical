@@ -1,0 +1,28 @@
+C0186781||Total Elbow Arthroplasty
+C1299353||Outpatient Procedure
+C1321139||Ambulatory surgery centers
+C0815184||preferred setting
+C0019994||hospital
+C0815184||setting
+C2603343||study
+C0186781||total elbow arthroplasty
+C0186781||total elbow arthroplasty
+C0186781||total elbow arthroplasty
+C0035363||retrospective analysis
+C0186781||total elbow arthroplasty
+C0582175||surgeon
+C0011289||Demographic
+C0009566||complication
+C0936012||analyzed
+C1956346||coronary artery disease
+C1257890||group
+C1257890||group
+C0011289||demographic
+C1257890||groups
+C3714514||infections
+C1257890||group
+C0582175||surgeons'
+C2936637||initial learning curve
+C1257890||group
+C0009566||complication
+C1257890||groups

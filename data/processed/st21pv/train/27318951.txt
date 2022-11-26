@@ -1,0 +1,26 @@
+C0521982||Response
+C0441610||reduce
+C0237123||substance use
+C0237123||substance use
+C1563228||sexual risk
+C0086409||Hispanic
+C0441610||reductions
+C1515364||trials
+C2135624||eighth grade
+C0038492||students
+C0242445||school population
+C2135625||ninth grade
+C0038492||students
+C0242445||school population
+C0149654||conduct
+C0522174||delinquency
+C0008902||class
+C3161035||model
+C0008902||classes
+C0679646||participants
+C0441610||reductions
+C0008902||class
+C1999167||older age
+C0332167||high-risk
+C0008902||class
+C0521982||response

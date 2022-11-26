@@ -1,0 +1,32 @@
+C4075886||frailty index
+C0231287||postoperative
+C0685938||gastrointestinal cancer
+C0424594||Frailty
+C0685938||gastrointestinal cancer
+C3553618||increased risk for poor outcomes
+C4075886||frailty index
+C1514983||stratification
+C4075885||modified frailty index (mFI) scores
+C1705586||adverse outcomes
+C0027651||tumor
+C0015252||resection
+C0685938||gastrointestinal cancer
+C1532051||NSQIP
+C0679646||Participant
+C4075885||modified frailty index
+C0424594||Frailty
+C4075885||mFI score
+C0032786||postoperative course
+C0220825||evaluated
+C0205391||prevalent form
+C0006826||cancer
+C1527249||colorectal
+C0871754||frail
+C0871754||Frail
+C0009566||complications
+C4075885||modified frailty index
+C0009566||complications
+C4075885||modified frailty index
+C0231287||postoperative
+C0009566||complications
+C0685938||gastrointestinal cancer

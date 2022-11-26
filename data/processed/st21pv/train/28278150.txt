@@ -1,0 +1,30 @@
+C0597336||quantitative trait loci
+C2350277||genome-wide genetic association analysis
+C0026348||statistical framework
+C0597336||quantitative trait loci
+C0597336||quantitative trait loci
+C2350277||genome-wide genetic association analysis
+C0597336||QTLs
+C0678941||genetic variants
+C0597336||QTLs
+C0752046||SNP
+C0752046||SNPs
+C0936012||analyses
+C0936012||analysis
+C0023866||literature
+C0449445||approach
+C1706244||summary
+C0449445||approach
+C2603343||studies
+C0936012||analyses
+C0370231||whole blood
+C0597336||eQTL
+C4289040||GTEx project
+C0025663||utility
+C0025663||method
+C0025663||utility
+C0936012||analysis
+C0597336||quantitative trait loci
+C0037585||software
+C0242356||enloc
+C2349146||https://github.com/xqwen/integrative

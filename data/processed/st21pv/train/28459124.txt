@@ -1,0 +1,40 @@
+C0032080||plant disease
+C1257890||insect vector population
+C0032080||plant diseases
+C1257890||vector populations
+C0012634||disease
+C0027363||potato growers
+C0041703||western United States
+C0025885||Mexico
+C0007674||Central America
+C0012634||Zebra Chip disease
+C0021576||insecticide
+C1257890||populations
+C0021573||insect vector
+C1502411||potato psyllid
+C1502411||Bactericera cockerelli
+C0018992||Hemiptera
+C1007295||Triozidae
+C0012634||Zebra Chip
+C1502411||B. cockerelli
+C0006754||California
+C0150098||dataset
+C0034869||records
+C0018992||Hemiptera
+C0936012||analyzed
+C1502411||B. cockerelli
+C3161035||hierarchical occupancy model
+C0745732||species lists
+C1502411||B. cockerelli
+C0936012||analysis
+C1705920||species
+C0936012||analysis
+C1502411||B. cockerelli
+C1257890||population
+C1502411||B. cockerelli
+C1257890||population
+C0277548||Zebra Chip epidemics
+C0449445||historical macro-ecological approach
+C0086930||comparative risk assessment
+C0684063||pest
+C0021573||insect vector

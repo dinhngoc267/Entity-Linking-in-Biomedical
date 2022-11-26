@@ -1,0 +1,21 @@
+C0020281||H2O2
+C0013846||Electron Transport
+C0010749||Decaheme Cytochrome
+C0669925||ITO
+C0010749||decaheme cytochrome MtrC
+C1028266||Shewanella oneidensis MR-1
+C0014444||immobilized
+C0669925||ITO
+C0020281||H2O2
+C0010749||MtrC
+C1151518||peroxidase activity
+C0019941||horseradish peroxidase
+C0018966||heme
+C0009235||cofactors
+C0669925||ITO
+C0010749||MtrC
+C0037815||Resonance Raman spectroelectrochemical studies
+C0010749||multiheme cytochromes
+C0010749||MtrC
+C0005574||biotechnological
+C0020281||H2O2

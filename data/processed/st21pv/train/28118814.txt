@@ -1,0 +1,22 @@
+C1071338||Bxb1 phage
+C0073020||recombinase
+C0017387||genome engineering
+C0013139||Drosophila melanogaster
+C4277689||genome modifications
+C1515655||in vivo
+C0558024||functional analysis
+C0017337||genomic entity
+C2329837||regulatory DNA
+C0887909||non-coding RNA
+C3658200||CRISPR
+C4279981||Cas9 genome editing technology
+C0678933||genomic locus
+C0013139||fruit fly Drosophila melanogaster
+C0017387||genome engineering
+C1071338||phage
+C0073020||recombinase Bxb1
+C0013139||D. melanogaster
+C1071338||Bxb1
+C1148744||recombinase activity
+C0073020||recombinases
+C0678933||targeted loci

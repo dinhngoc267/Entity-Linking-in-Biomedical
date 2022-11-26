@@ -1,0 +1,34 @@
+C0521119||Extracellular
+C0033684||Tunable Protein Conjugates
+C0004595||Bacillus subtilis
+C1160466||conjugate
+C0034861||recombinant proteins
+C0017387||engineering
+C0014442||enzymes
+C0005479||biological materials
+C1515655||in vivo
+C0178719||intracellular
+C1160466||protein conjugation
+C0521119||extracellular
+C0033684||protein conjugates
+C0597301||purification
+C0600688||toxicity
+C0022885||SpyTag-SpyCatcher system
+C0014442||enzymes
+C0582263||structural proteins
+C0314627||genetically encoded
+C1511539||covalently
+C1160466||conjugate
+C0010454||culture media
+C1327616||programmable secretion
+C0004595||Bacillus subtilis
+C1160466||self-conjugation
+C1327616||secreted
+C0014442||enzyme
+C0149034||XynA
+C0007634||cellular consortia
+C0017387||engineered
+C0033684||protein-protein conjugates
+C0314627||genetically encoded
+C1160466||protein conjugation
+C0521119||extracellular

@@ -1,0 +1,64 @@
+C0666963||interleukin 18 (IL-18) receptor
+C0020962||immunoreactive
+C0027882||neurons
+C4085586||retrosplenial cortex
+C1334109||IL18
+C0206745||knockout mice
+C0383327||Interleukin 18
+C0383327||interleukin 18
+C0301872||immune response
+C0024264||lymphocytes
+C1334109||interleukin 18
+C0206745||knockout mouse
+C0383327||interleukin 18
+C0020962||immunoreactive
+C0027882||neurons
+C4085586||retrosplenial cortex
+C4085586||retrosplenial cortex
+C2950582||subiculum
+C0027882||neurons
+C0666963||IL-18 receptor
+C0666963||IL-18 receptor
+C0020962||immunoreactive
+C0027882||neurons
+C4085586||retrosplenial cortex
+C0666963||IL-18 receptor
+C0020962||immunoreactive
+C0027882||neurons
+C1334109||interleukin 18
+C0206745||knockout mouse
+C0666963||IL-18 receptor
+C0020962||immunoreactive
+C0027882||neurons
+C0027882||neurons
+C0007610||oval nucleus
+C0010834||cytoplasm
+C0035553||free ribosomes
+C0014239||endoplasmic reticulum
+C0026237||mitochondria
+C0028117||Nissl bodies
+C1180004||axosomatic terminals
+C0666963||IL-18 receptor
+C0020962||immunoreactive
+C0027882||neurons
+C4085586||retrosplenial cortex
+C1334109||interleukin 18
+C0206745||knockout mouse
+C0027882||neurons
+C0007610||nucleus
+C0010834||cytoplasm
+C0026237||mitochondria
+C0230779||rough endoplasmic reticulum
+C0038999||swollen
+C0666963||IL-18 receptor
+C0020962||immunoreactive
+C0027882||neurons
+C2673328||degenerating
+C0027746||degeneration
+C0666963||IL18-receptor
+C0020962||immunoreactive
+C0027882||neurons
+C4085586||retrosplenial cortex
+C0233514||abnormal behaviors
+C1334109||interleukin 18
+C0206745||knockout mice

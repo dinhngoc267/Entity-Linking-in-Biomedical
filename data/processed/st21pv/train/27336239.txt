@@ -1,0 +1,32 @@
+C0282574||Professional reinventions
+C1710263||Swedish
+C0033908||psychologists
+C1710263||Swedish
+C0033909||psychology profession
+C0376553||epistemological foundations
+C1710263||Swedish
+C0037455||society
+C0037455||society's
+C0033213||problems
+C0018017||goals
+C1704788||definitions
+C0876954||contours
+C0033909||psychology profession
+C0037455||society
+C1706852||article
+C1710263||Swedish
+C0033909||psychology profession
+C0936012||analysis
+C1710263||Swedish
+C0162443||Psychological Association's journal
+C0683613||actor-network theory
+C0242481||science studies
+C0376553||epistemological
+C0233497||insecurity
+C0009458||media
+C0042926||vocabulary
+C0376367||empirical research
+C0335083||actors
+C1710263||Swedish
+C0037455||society
+C0242356||PsycINFO Database Record

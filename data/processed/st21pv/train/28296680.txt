@@ -1,0 +1,91 @@
+C0206663||Primitive Neuroectodermal Tumors
+C0017421||Female Genital Tract
+C2603343||Study
+C0206663||Primary primitive neuroectodermal tumor
+C0206663||primitive neuroectodermal tumor
+C0017421||female genital tract
+C0008902||classification
+C0079611||immunophenotypic
+C0808901||EWSR1
+C0017287||rearrangement
+C0205480||gynecologic
+C0206663||PNETs
+C0205065||ovarian
+C0042149||uterine
+C0042993||vulvar
+C0027651||tumors
+C0684224||reported
+C0205065||ovarian
+C0042149||uterine
+C0206663||PNETs
+C3714787||central nervous system
+C3714787||central nervous system
+C0027651||tumors
+C0206663||PNETs
+C0025149||medulloblastomas
+C0014474||ependymomas
+C0334596||medulloepitheliomas
+C0017636||glioblastoma
+C0206663||central PNET
+C0206663||PNETs
+C0007634||small round blue cells
+C0684337||Ewing sarcoma/peripheral PNET
+C0206663||PNETs
+C0027651||tumor
+C0205065||ovarian
+C1368910||mature cystic teratomas
+C0206687||endometrioid carcinomas
+C0280630||uterine carcinosarcoma
+C0021044||immunohistochemistry
+C0206663||PNETs
+C0041366||marker
+C1518294||neuronal differentiation
+C0085255||synaptophysin
+C1880904||NSE
+C0108754||CD56
+C0027758||S100
+C0008586||chromogranin
+C0027651||tumors
+C0017626||GFAP
+C0206663||PNETs
+C0025255||Membranous
+C0058889||CD99
+C0521447||nuclear
+C1437505||Fli-1
+C0487602||staining
+C0027651||tumors
+C1171362||expression
+C0041366||markers
+C0206663||central
+C0684337||Ewing sarcoma/peripheral PNET
+C0027651||tumors
+C1171362||expressed
+C0042666||vimentin
+C0022564||keratin
+C0910360||CAM5.2
+C0487602||staining
+C0206663||PNETs
+C0162789||Fluorescence in situ hybridization
+C0808901||EWSR1
+C0017287||rearrangement
+C0027651||tumors
+C0684337||Ewing sarcoma/peripheral PNET
+C0058889||CD99
+C1437505||Fli-1
+C1171362||expression
+C0206663||central
+C0684337||Ewing sarcoma/peripheral PNETs
+C0017421||female genital tract
+C0206663||central PNETs
+C0206663||Central PNETs
+C3714787||central nervous system
+C0027651||tumors
+C0808901||EWSR1
+C0017287||rearrangement
+C0017626||GFAP
+C1171362||expression
+C0206663||central PNET
+C0684337||sarcoma/peripheral PNET
+C0684337||Ewing sarcoma/peripheral PNETs
+C3714787||central nervous system
+C0027651||tumors

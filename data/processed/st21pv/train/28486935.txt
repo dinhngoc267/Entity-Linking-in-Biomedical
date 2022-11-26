@@ -1,0 +1,55 @@
+C0562508||Emergency department
+C0038951||survey
+C0562508||emergency department
+C1706077||users
+C0562508||emergency department
+C0562508||emergency department
+C1706077||users
+C2603343||study
+C1257890||population
+C0582103||Examinations
+C0562508||emergency department
+C1706077||users
+C0150312||present
+C0562508||emergency department
+C0017313||care
+C0033522||prospective study
+C0562508||emergency department
+C1706077||users
+C0040786||level 1 trauma center
+C1512346||visits
+C0562508||emergency department
+C1706077||users
+C0586082||ED visits
+C0679646||Participants
+C0035173||trained researcher
+C1522634||querying
+C0562508||emergency department
+C0017313||care
+C1710032||screened
+C0562508||emergency department
+C1706077||users
+C0562508||emergency department
+C1706077||users
+C0080105||subjects
+C0043210||female
+C1257890||white
+C0080105||Subjects
+C0586082||ED visits
+C0019994||hospital
+C0562508||emergency department
+C1706077||users
+C1512346||visit
+C0562508||emergency department
+C0080105||Subjects
+C1136313||after-hours options
+C0562508||emergency department
+C0028661||nurse
+C0557987||one-on-one
+C0086388||health care
+C2603343||study
+C0562508||emergency department
+C1706077||users
+C1257890||population
+C0017313||care
+C1257890||population

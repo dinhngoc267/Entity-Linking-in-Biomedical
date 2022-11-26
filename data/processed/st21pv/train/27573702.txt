@@ -1,0 +1,55 @@
+C0085315||Cerebral toxoplasmosis
+C0001175||acquired immune deficiency syndrome
+C0562508||neurological emergency department
+C0337954||tertiary hospital
+C0085315||Cerebral toxoplasmosis
+C1883067||space
+C0221505||brain lesion
+C0006137||Brazil
+C2603343||study
+C0150093||case series
+C0011900||diagnosed
+C0085315||cerebral toxoplasmosis
+C0203860||brain imaging
+C0007806||cerebrospinal fluid
+C0936012||analyzed
+C0085315||Cerebral toxoplasmosis
+C0011900||diagnosis
+C3714514||infection
+C0019682||human immunodeficiency virus
+C0019682||human immunodeficiency virus
+C0019699||HIV seropositive
+C0011900||diagnosis
+C0085315||cerebral toxoplasmosis
+C0700287||reported
+C1963724||antiretroviral therapy
+C0199176||prophylaxis
+C0085315||toxoplasmosis
+C0018681||Headache
+C1457887||strength deficit
+C0015967||fever
+C0037088||signs and symptoms
+C2603343||study
+C0085315||toxoplasmosis
+C0040405||CT
+C0024485||MRI
+C1292530||CSF samples
+C1446409||positive
+C0022885||indirect haemagglutination test
+C0370074||Toxoplasma gondii IgG
+C0014441||ELISA
+C1446409||positive
+C0022885||direct haemagglutination test
+C1708063||first-line treatment
+C0085315||toxoplasmosis
+C0085315||Cerebral toxoplasmosis
+C0027765||neurological disease
+C0237401||individuals
+C0001175||AIDS
+C0184666||admitted
+C0027855||neurology
+C0562508||emergency departments
+C0596473||Early diagnosis
+C0749647||empiric treatment
+C1963724||antiretroviral therapy
+C0033325||prognosis

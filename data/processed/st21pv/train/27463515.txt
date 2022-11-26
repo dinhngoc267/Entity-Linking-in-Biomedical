@@ -1,0 +1,58 @@
+C0325557||Red Kite
+C0325557||Milvus milvus
+C0005595||Aves
+C1710706||Zone
+C1016933||Black Kite
+C1016933||Milvus migrans migrans
+C1705920||species
+C0684224||reported
+C1710706||zones
+C0325557||red kite
+C0325557||Milvus milvus
+C1016933||black kite
+C1016933||Milvus migrans migrans
+C0325557||M. milvus
+C0006159||breeding
+C1705920||species
+C0232478||ingestion
+C0035805||rodenticide-treated baits
+C0032343||poisoning
+C0444669||core
+C0325557||M. milvus
+C1016933||M. migr. migrans
+C0684224||reported
+C0936012||analyzed
+C0026237||mitochondrial
+C1537985||CO1
+C1537988||CytB
+C0007610||nuclear
+C0086661||Myc
+C0012854||DNA
+C1708726||loci
+C0325557||M. milvus
+C1016933||M. migr. migrans
+C4255373||agreement
+C2603343||studies
+C0325557||M. milvus
+C1708726||locus
+C0332128||examined
+C1705920||species
+C1565556||gene flow
+C0332128||examined
+C0017446||area
+C0017446||region
+C0012929||mitochondrial DNA
+C1705920||species
+C0015731||plumage
+C1705920||species
+C0870077||Haldane´s Rule
+C0017428||genomic
+C1565556||gene flow
+C0332128||examined
+C0086661||Myc gene
+C0443204||divergence
+C0325557||M. milvus
+C1016933||M. migr. migrans
+C0325557||M. milvus
+C1565556||gene flow
+C0325557||M. milvus

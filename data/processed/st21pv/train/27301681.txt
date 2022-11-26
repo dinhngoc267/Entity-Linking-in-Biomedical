@@ -1,0 +1,39 @@
+C1624609||Sequence-specific DNA binding
+C0029224||pyrrole-imidazole polyamides
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0029224||N-methylpyrrole (Py)-N-methylimidazole (Im) polyamides
+C0004793||9-bp sequences
+C1148673||DNA-binding
+C0004793||sequence
+C0597731||SPR
+C0936012||Bind-n-Seq analyses
+C0029224||polyamide 1
+C3161035||model
+C0383659||Py
+C0044472||Im
+C0000392||β-alanine
+C0231467||twist
+C0012854||DNA
+C0029224||Polyamides 2 and 3
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0029224||linker
+C0029224||Py-Im polyamides
+C0383659||Py
+C0044472||Im
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0029224||linker element
+C0004793||2-bp
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0004793||sequence
+C0029224||polyamide 4
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0029224||Polyamide 5
+C0000392||β-alanine-β-alanine
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0029224||polyamide 2
+C1659087||nuclear localization
+C0029224||polyamides
+C0029224||8-amino-3,6-dioxaoctanoic acid
+C0444669||core
+C0029224||Py-Im polyamide compounds

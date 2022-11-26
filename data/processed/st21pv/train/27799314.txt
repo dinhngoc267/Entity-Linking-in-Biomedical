@@ -1,0 +1,74 @@
+C1706289||IL-27
+C0021079||Suppression
+C0155877||Allergic Asthma
+C1579758||TLR7
+C1579755||8
+C2987634||Agonist
+C3642356||R848
+C0965594||Resiquimod
+C0684309||models of experimental
+C0155877||allergic asthma
+C1579758||TLR7
+C1579755||8
+C2987634||agonist
+C0965594||resiquimod
+C3642356||R848
+C0242633||type 2 helper cell
+C1155266||inflammatory responses
+C1527144||therapeutic effects
+C0684309||model of experimental
+C0155877||allergic asthma
+C0857127||induction
+C1706289||IL-27
+C3642356||R848
+C3642356||R848
+C1512330||hallmarks
+C0155877||allergic asthma
+C0004096||airway hyperreactivity
+C0458827||airway
+C0021368||inflammation
+C0155872||mucus hypersecretion
+C0003320||Ag
+C0358334||specific Ig
+C0003261||production
+C3642356||R848
+C0021759||IL-5
+C0214743||IL-13
+C0384648||IL-17
+C3539881||IFN-γ
+C1706289||IL-27
+C1706289||IL-27
+C1527144||therapeutic effect
+C3642356||R848
+C0004096||asthma
+C0684309||model
+C3642356||R848
+C0021079||suppression
+C1706289||IL-27
+C3642356||R848
+C0857127||induced
+C1706289||IL-27
+C0026809||murine
+C0085236||alveolar macrophages
+C0011306||dendritic cells
+C1171362||expression
+C1171362||expression
+C0085236||monocytes
+C0011306||dendritic cells
+C1327622||regulate
+C3179073||peripheral tolerance
+C0026809||murine
+C0086418||human
+C1706289||IL-27
+C1327616||secretion
+C3539881||IFN-γ
+C0021759||IL-5
+C0214743||IL-13
+C0242633||Th2
+C3642356||R848
+C0021079||suppression
+C0004096||asthma
+C1706289||IL-27
+C1706289||IL-27
+C0242633||Th2
+C1504369||allergic diseases

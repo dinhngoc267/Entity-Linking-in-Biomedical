@@ -1,0 +1,40 @@
+C0226130||Superficial Temporal Artery
+C0038925||Flap
+C1444716||Donor-site
+C0185003||Closure
+C0226130||Superficial temporal artery
+C0226130||Superficial temporal artery
+C0038925||flaps
+C0524865||reconstruction
+C0005898||hair-bearing areas
+C0441503||primary closure
+C1444716||donor site
+C0456389||size
+C1123023||skin island
+C0040748||skin grafts
+C1444716||donor site
+C0002170||baldness
+C0038925||flap
+C0441503||primary donor-site closure
+C0224362||latissimus dorsi musculocutaneous
+C0038925||flap
+C0226130||hair-bearing STA
+C0038925||flap
+C0441503||primary donor-site closure
+C0002170||baldness
+C0037297||skin grafting
+C0226130||Superficial temporal artery
+C0038925||flap
+C0038925||flap
+C0226130||Superficial temporal artery
+C0038925||flap
+C1444716||donor-site
+C0033213||problem
+C0220825||investigation
+C1519941||validate
+C0332149||possible
+C0038925||flap
+C0456389||size
+C0007114||skin cancer
+C0547070||ablation
+C3714660||trauma

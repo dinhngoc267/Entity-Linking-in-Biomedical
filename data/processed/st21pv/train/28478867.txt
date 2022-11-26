@@ -1,0 +1,53 @@
+C1881275||single-isocenter
+C1512814||intensity-modulated
+C0085203||radiosurgery
+C0221198||lesions
+C1512814||intensity-modulated
+C0085203||SRS
+C0085203||intensity-modulated SRS
+C0599880||plans
+C0006104||brain
+C4255448||metastases
+C1881275||single isocenter
+C0001222||home-made acrylic
+C0205123||coronal plane
+C0040405||CT scanned
+C0205099||central
+C0205100||peripheral
+C2363849||Eclipse system
+C0205100||Peripheral
+C0205099||central
+C0085203||intensity-modulated SRS
+C0599880||plan
+C1881275||single isocenter
+C0205099||central
+C1550045||positioning
+C0023730||linac
+C1547703||room
+C0040405||CBCT scan
+C0599880||plan
+C1881275||isocenter
+C0023730||linac
+C1881275||isocenter
+C0599880||plan
+C0087111||dose distribution
+C3873720||cloud computing application
+C3873720||www.radiochromic.com
+C0016103||dosimetry
+C0002045||algorithm
+C0087111||dose distributions
+C0205100||peripheral
+C0205099||central
+C0681814||experiment
+C0481503||sessions
+C0205099||central
+C0205100||peripheral
+C0205099||central
+C0205100||peripheral
+C2603343||study
+C1881275||isocenter
+C0023730||linac
+C1881275||isocenter
+C1881275||single-isocenter
+C0085203||intensity-modulated SRS
+C0599880||plan

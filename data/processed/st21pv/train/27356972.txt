@@ -1,0 +1,38 @@
+C0007616||Isolation of Cells
+C0003392||Anticancer
+C1158456||Alkaloid Metabolism
+C0079366||Fluorescence-Activated Cell Sorting
+C0032098||Plant
+C0025519||metabolism
+C0007634||cell
+C0007583||compartmentation
+C0032098||plant
+C1566558||natural products
+C0220862||isolate
+C0449475||cell types
+C0331124||Catharanthus roseus
+C0013227||medicinal
+C1449663||terpenoid indole alkaloids
+C0003392||anticancer
+C0042670||vinblastine
+C0042679||vincristine
+C2936408||mesophyll cells
+C3178867||idioblasts
+C0301258||alkaloid
+C4055506||accumulating
+C0331124||C. roseus
+C0242724||leaf
+C3178867||idioblasts
+C0220862||isolation
+C3178867||idioblast
+C0033731||protoplasts
+C0079366||fluorescence-activated cell sorting
+C0544711||autofluorescence
+C0007634||cells
+C0035171||omic strategies
+C0017337||candidate genes
+C1327622||regulation
+C1519624||transmembrane transport
+C0243095||anticancer
+C0301258||alkaloids
+C0331124||C. roseus

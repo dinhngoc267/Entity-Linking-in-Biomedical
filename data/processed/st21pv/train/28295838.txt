@@ -1,0 +1,48 @@
+C1066614||Oxyria sinensis
+C0524882||Polygonaceae
+C0032578||polyploid
+C1705920||species
+C0017428||genome
+C0032578||polyploid
+C1705920||species
+C0017428||genome
+C0032578||polyploid
+C0032578||polyploid
+C1066614||Oxyria sinensis
+C1705920||species
+C1481306||O. digyna
+C0162788||Genomic in situ hybridization
+C0162788||Genomic in situ hybridization
+C0752248||transcriptome
+C1519068||phylogenetic
+C0011289||demographic analyses
+C0282574||ecological niche modelling
+C0162788||Genomic in situ hybridization
+C1066614||O. sinensis
+C1135923||chromosomes
+C1481306||O. digyna
+C1135923||chromosomes
+C0752248||Transcriptome analysis
+C0443204||divergence
+C1481306||O. digyna
+C0017261||genome duplication
+C0017261||genome duplication
+C1066614||O. sinensis
+C1066614||Oxyria sinensis
+C0162774||homologous gene sequences
+C0443204||divergent
+C1481306||O. digyna
+C0017258||clustered
+C1481306||O. digyna
+C0876936||Coalescent simulations
+C1066614||O. sinensis
+C0032578||polyploidization event
+C1481306||O. digyna
+C1705920||species
+C0282574||Ecological niche modelling
+C1705920||species
+C0333694||tetraploid
+C1705920||species
+C1066614||O. sinensis
+C0000934||adaptation
+C1066614||O. sinensis

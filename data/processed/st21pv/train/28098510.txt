@@ -1,0 +1,58 @@
+C3163713||DT MRI
+C0007776||cortical
+C0221505||lesion
+C0338656||cognitive impairment
+C0026769||multiple sclerosis
+C0430022||double inversion recovery
+C0430022||double inversion recovery
+C3163713||diffusion tensor (DT) magnetic resonance imaging (MRI)
+C0007776||cortical
+C0221505||lesion
+C0221505||cortical lesion
+C0040300||tissue
+C0221430||abnormalities
+C0599755||cohort
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0338656||cognitive dysfunction
+C0430022||double inversion recovery
+C1537007||diffusion tensor
+C0011923||dual-echo
+C0450363||three-dimensional
+C0450363||3D
+C0011923||T1-weighted scans
+C0026769||multiple sclerosis
+C0338656||Cognitively impaired
+C0338656||Cognitively impaired
+C0205161||abnormal
+C0027902||neuropsychological tests
+C0221505||CLs
+C0007776||cortex
+C2752009||white matter (WM) lesions
+C0682708||normal-appearing (NA) WM
+C0338656||cognitive impairment
+C0936012||random forest analysis
+C0026769||multiple sclerosis
+C3278845||WM volume
+C0007776||cortex
+C0682708||normal-appearing white matter
+C0682708||normal-appearing white matter
+C0338656||Cognitively impaired
+C0338656||Cognitively impaired
+C0221430||abnormalities
+C2752009||WM lesions
+C0007776||cortex
+C0682708||normal-appearing white matter
+C0221505||cortical lesion
+C0243095||not differ
+C0007776||Cortex
+C0026769||multiple sclerosis
+C0338656||cognitive impairment
+C0205219||Diffuse
+C0018220||GM
+C0682708||normal-appearing white matter
+C2752009||WM lesions
+C0205102||intrinsic
+C0221505||cortical lesion
+C0338656||cognitive impairment
+C0026769||multiple sclerosis

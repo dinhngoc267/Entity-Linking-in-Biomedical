@@ -1,0 +1,46 @@
+C0028754||Obesity
+C0678941||Gene Variant
+C0344335||Body Fat
+C1524069||Indian
+C0678941||intronic variants
+C0028754||obesity
+C1970415||(FTO) gene
+C0028754||obesity
+C0086418||humans
+C2603343||study
+C2603343||study
+C1970415||FTO gene
+C0678941||variants
+C1305855||body mass index
+C1305855||body mass index
+C1970415||FTO gene
+C0678941||variants
+C0028754||obese
+C2712185||normal weight
+C1524069||Indian
+C2603343||studied
+C0455829||waist
+C0562350||hip circumference
+C0016452||food
+C2986698||food frequency questionnaire
+C1510486||dual-energy X-ray absorptiometry
+C0678941||FTO allelic variants
+C1517493||rs9939609 site
+C1709846||SYBR Green Amplification Refractory Mutation System real-time polymerase chain reaction
+C0002085||allele
+C0206415||primers
+C1305855||body mass index
+C0028754||obese
+C0002085||AA allele
+C0028754||obese
+C2712185||normal weight
+C0002085||AA allele
+C0028754||obese
+C0002085||AT allele
+C0028754||obesity
+C0002085||AT allele
+C0002085||AA alleles
+C0016452||food
+C0012155||diet
+C0012171||fat
+C0678941||FTO variants

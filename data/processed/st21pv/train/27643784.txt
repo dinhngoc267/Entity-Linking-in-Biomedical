@@ -1,0 +1,50 @@
+C2750331||enamel defects
+C1556085||German
+C1257890||populations
+C2603343||study
+C2750331||developmental defects of enamel
+C2750331||developmental defects of enamel
+C1257890||population
+C0017480||Thuringia, Germany
+C0816871||skeletons
+C0237401||individuals
+C0332128||examined
+C2750331||developmental defects of enamel
+C0008902||classified
+C0040426||teeth
+C2750331||developmental defects of enamel
+C0918012||index
+C2350038||Molar-incisor-hypomineralisation
+C2350038||Molar-incisor-hypomineralisation
+C2750331||developmental defects of enamel
+C0034869||recorded
+C0000877||European Academy of Paediatric Dentistry
+C0000877||European Academy of Paediatric Dentistry
+C2750331||developmental defects of enamel
+C0237401||individuals
+C1860853||pits
+C3266841||primary teeth
+C0011351||linear enamel hypoplasia
+C0011351||linear enamel hypoplasia
+C1720362||permanent teeth
+C0237401||individuals
+C0085511||hypomineralised
+C0348070||permanent tooth
+C2350038||Molar-incisor-hypomineralisation
+C0026367||permanent molar
+C3161464||permanent incisors
+C0227108||Second primary molars
+C0237401||individual
+C0026367||molars
+C0021156||incisors
+C0162429||nutritional deficiencies
+C2750331||developmental defects of enamel
+C2350038||Molar-incisor-hypomineralisation
+C2750331||developmental defects of enamel
+C2350038||Molar-incisor-hypomineralisation
+C0150108||masked
+C0231449||extended
+C0011334||carious lesions
+C2717979||dental wear
+C0243095||ante-mortem
+C0080233||tooth loss

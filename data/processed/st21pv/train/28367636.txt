@@ -1,0 +1,42 @@
+C2732401||Suboptimally Controlled Type 1 Diabetes
+C2603343||Substudy
+C1458132||psychosocial experiences
+C0181334||closed loop technology
+C0011854||type 1 diabetes
+C1096776||multicenter
+C0034656||randomized
+C0150097||crossover home studies
+C0679646||Participants
+C1140609||insulin pump
+C0087111||therapy
+C0034656||randomized
+C0726398||glucose control
+C1140609||insulin pump
+C0087111||therapy
+C0679646||Participants
+C0034394||Diabetes Technology Questionnaire
+C0034394||Diabetes Technology Questionnaire
+C0449911||views
+C0936012||analysis
+C1446409||positive
+C0025080||device
+C0679646||participants
+C0392347||hopes
+C0003467||anxieties
+C0679646||Participants
+C0034394||Diabetes Technology Questionnaire
+C0184661||interventions
+C1446409||positive themes
+C1873605||improved blood glucose control
+C2939150||improved general well-being
+C0442696||waking
+C0037313||improved sleep
+C0011847||diabetes
+C1140609||pump
+C0520453||cannula
+C0679646||participants
+C1446409||positive
+C0181334||closed loop technology
+C0456389||size
+C0033213||problem
+C0181334||closed-loop system

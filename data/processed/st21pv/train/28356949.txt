@@ -1,0 +1,115 @@
+C1366475||XRCC1
+C1333355||ERCC1
+C0752046||single-nucleotide polymorphisms
+C3178775||concurrent radiochemotherapy
+C0279626||esophageal squamous cell carcinoma
+C0752046||single-nucleotide polymorphisms
+C0752046||single-nucleotide polymorphisms
+C1366475||X-ray repair cross-complementing 1-399
+C1366475||X-ray repair cross-complementing 1-399
+C1333355||excision repair cross-complementation group 1-118
+C1333355||excision repair cross-complementation group 1-118
+C0436307||radiochemotherapy
+C0027627||tumor metastasis
+C2919552||survival time
+C0279626||esophageal squamous cell carcinoma
+C0279626||esophageal squamous cell carcinoma
+C3179034||TaqMan probe-based quantitative polymerase chain reaction
+C3179034||quantitative polymerase chain reaction
+C0332128||examine
+C1366475||X-ray repair cross-complementing 1-399
+C1333355||excision repair cross-complementation group 1-118
+C0752046||single-nucleotide polymorphisms
+C0229664||peripheral blood
+C0750484||confirmed
+C0279626||esophageal squamous cell carcinoma
+C0677874||complete remission
+C0677874||complete remission
+C0027627||tumor metastasis
+C2919552||survival time
+C3178775||concurrent radiochemotherapy
+C0279626||esophageal squamous cell carcinoma
+C3178775||concurrent radiochemotherapy
+C0677874||complete remission
+C0026882||homozygous mutation
+C1366475||X-ray repair cross-complementing 1-399
+C0001443||A
+C0001443||A
+C1366475||X-ray repair cross-complementing 1-399
+C0026882||mutation
+C0018330||G
+C0018330||G
+C0677874||complete remission
+C1333355||excision repair cross-complementation group 1-118
+C0002085||alleles
+C0010715||C
+C0010715||C
+C0010715||C
+C0040077||T
+C0010715||C
+C0002085||allele
+C0040077||T
+C0040077||T
+C0001443||A
+C0001443||A
+C0018330||G
+C0018330||G
+C0040077||T
+C0040077||T
+C0010715||C
+C0040077||T
+C0010715||C
+C0010715||C
+C0589120||follow-up period
+C0026882||homozygous mutation
+C1366475||X-ray repair cross-complementing 1-399
+C0001443||A
+C0001443||A
+C4255448||metastasis
+C1366475||X-ray repair cross-complementing 1-399
+C0018330||G
+C0018330||G
+C1333355||excision repair cross-complementation group 1-118
+C0752046||SNP
+C4255448||metastasis
+C0034980||multivariate Cox regression analysis
+C0752046||SNP
+C1333355||excision repair cross-complementation group 1-118
+C2919552||survival time
+C0010715||C
+C0002085||alleles
+C0010715||C
+C0010715||C
+C0010715||C
+C0040077||T
+C0010715||C
+C0002085||allele
+C0040077||T
+C0040077||T
+C0040077||T
+C0040077||T
+C0010715||C
+C0010715||C
+C0040077||T
+C0040077||T
+C0010715||C
+C0040077||T
+C0010715||C
+C0010715||C
+C1366475||X-ray repair cross-complementing 1-399
+C0752046||SNP
+C2919552||survival time
+C1366475||XRCCl-399
+C0752046||SNP
+C0677874||complete remission
+C0027627||tumor metastasis
+C0279626||esophageal squamous cell carcinoma
+C1880380||docetaxel plus cisplatin (TP) regimen
+C3178775||concurrent radiochemotherapy
+C1333355||excision repair cross-complementation group 1-118
+C0752046||SNP
+C0677874||complete remission
+C2919552||survival time
+C0279626||esophageal squamous cell carcinoma
+C1880380||TP regimen
+C3178775||concurrent radiochemotherapy

@@ -1,0 +1,54 @@
+C0012155||high-fat diet
+C0025519||metabolism
+C1516924||epigenetic changes
+C1540187||adiponectin
+C1416825||leptin
+C0314621||gene promoters
+C2603343||studies
+C1516924||epigenetic changes
+C0162429||malnutrition
+C0025517||metabolic diseases
+C0012155||high-fat diet
+C0012155||high-fat diet
+C0039082||syndrome
+C1516924||epigenetic modifications
+C1540187||adiponectin
+C1416825||leptin genes
+C2603343||studies
+C1444656||indicated
+C1305855||BMI
+C1305855||BMI
+C1858460||maternal
+C1305855||BMI
+C0012155||high-fat diet
+C0028754||obesity
+C1516924||epigenetic changes
+C1540187||adiponectin
+C1416825||leptin genes
+C1516924||epigenetic changes
+C0012155||high-fat diet
+C0009637||conception
+C0012155||high-fat diet
+C0009637||conception
+C0043094||weight
+C0015677||fat
+C0271650||glucose intolerance
+C0020557||hypertriglyceridemia
+C1955907||abnormal adipocytokine
+C0020538||hypertension
+C1540187||adiponectin
+C1416825||leptin gene
+C0017262||expression
+C1516924||epigenetic changes
+C0012155||high-fat diet
+C0012155||high-fat diet
+C1955907||adipocytokine
+C1516924||epigenetic changes
+C0012155||high-fat diet
+C0012155||high-fat diet
+C0012155||high-fat diet
+C1858460||maternal
+C1442959||nutrition
+C0025519||metabolism
+C1516924||epigenetic modifications
+C0017337||adipocytokine genes

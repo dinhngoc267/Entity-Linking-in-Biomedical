@@ -1,0 +1,50 @@
+C0518456||Impaired mobility
+C0344315||depressed mood
+C0338656||cognitive impairment
+C2922974||polypharmacy
+C0231170||disability
+C0006826||cancer
+C0424594||Physical Frailty
+C0001792||Elderly
+C0424594||PF
+C0231170||disability
+C0231170||disability
+C0006826||cancer
+C0424594||Physical Frailty
+C0001792||Elderly
+C0424594||PF
+C0016674||France
+C1709709||prospective bicentric observational cohort study
+C0006826||cancer
+C0010362||cross-sectional analysis
+C0231170||disability
+C0017463||geriatric assessment
+C0017463||comprehensive geriatric assessment
+C0231170||Disability
+C1290928||instrumental activities of daily living
+C1290928||(IADL
+C0023965||logistic models
+C0023965||models
+C0023965||logistic model
+C0043210||women
+C0006826||cancer
+C0231170||disability
+C1704231||cancer extension
+C0231170||disability
+C0518456||Impaired mobility
+C0598463||poor functional status
+C0344315||depressive mood
+C0338656||cognitive impairment
+C2922974||polypharmacy
+C0231170||disability
+C0231170||Disability
+C0006826||cancer
+C0920425||cancer treatment
+C0518456||Impaired mobility
+C0344315||depressed mood
+C0338656||cognitive impairment
+C2922974||polypharmacy
+C0231170||disability
+C0920425||cancer treatment
+C0920425||treatment
+C1522577||follow-up

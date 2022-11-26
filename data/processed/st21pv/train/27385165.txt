@@ -1,0 +1,45 @@
+C0041928||Uranium
+C0041928||uranium
+C0041928||uranium
+C0041928||uranium
+C1705920||species
+C0323913||Lymnaea stagnalis
+C0324023||Gastropoda
+C0041928||dissolved U(VI)
+C0022877||laboratory
+C0681814||experiments
+C0043047||water
+C0150312||presence
+C0023688||complexing ligands
+C0456984||Results
+C0041928||dissolved U
+C0041928||Uranium
+C0243144||uptake
+C0014406||environmental
+C0041928||Uranium
+C0243144||uptake
+C0323913||L. stagnalis
+C0243144||uptake
+C0243144||uptake
+C0022009||ion channels
+C0041928||uranium
+C0243144||uptake
+C0006675||Ca
+C0243144||uptake
+C0041928||uranium
+C0006675||Ca
+C0596902||membrane transporters
+C0041928||uranium
+C0442797||decreases
+C0006675||Ca
+C0024467||Mg
+C0150312||present
+C0022023||ions
+C0041928||uranium
+C0243144||uptake
+C0870071||Speciation modeling
+C0041928||uranium
+C0041928||dicarbonato U
+C1705920||species
+C0041928||uranium
+C0323913||L. stagnalis

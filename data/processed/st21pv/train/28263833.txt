@@ -1,0 +1,23 @@
+C0521362||gastrointestinal
+C0991560||wafer
+C1254351||active pharmaceutical ingredients
+C1254351||active pharmaceutical ingredients
+C0001563||oral administration
+C0013058||mucoadhesive dosage forms
+C0521362||gastrointestinal
+C0991560||wafers
+C0991560||wafer
+C0026727||intestinal mucus
+C0521362||gastrointestinal
+C0991560||wafers
+C0991560||thin and elastic wafers
+C2603343||study
+C0521362||gastrointestinal
+C0991560||twolayered wafers
+C1254351||Ethocel™ Standard 10 Premium
+C3886467||Methocel™ E15 Premium LV
+C0032623||polyvinyl alcohol
+C4076208||Macrogol 400
+C0991560||wafers
+C0991560||wafers
+C0059756||500μg Ethocel

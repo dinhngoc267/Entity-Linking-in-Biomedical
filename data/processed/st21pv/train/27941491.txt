@@ -1,0 +1,28 @@
+C0454374||sprint training
+C0224456||leg muscles
+C0454374||sprint training
+C0038492||well-trained sport students
+C0679646||Participants
+C2986530||IG
+C2986530||IG
+C0026845||muscle
+C0584894||rectus femoris
+C2986530||IG
+C0026845||muscle
+C0224449||biceps femoris
+C0559499||biceps brachii
+C0442739||not change
+C2986530||IG
+C0037663||Growth hormone
+C0039601||testosterone
+C0021665||insulin-like growth factor 1
+C0020268||cortisol
+C0243095||not significantly differ
+C0410158||muscle damage
+C0005516||marker
+C1312696||h-FABP
+C2986530||IG
+C0454374||sprint interval training
+C0410158||muscle damage
+C0584894||rectus femoris muscle
+C0019932||hormones

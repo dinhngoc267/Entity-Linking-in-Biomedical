@@ -1,0 +1,60 @@
+C0004415||Study of Aversive
+C0009651||Instrumental Learning
+C0027912||Neuroendocrine
+C0020962||Immunologic Systems
+C0870186||avoidance
+C0003467||anxiety
+C1514734||rat strains
+C2699239||Sprague-Dawley
+C2699239||Sprague-Dawley
+C2700262||Wistar
+C0220825||evaluated
+C0003467||anxiety
+C0857657||corticosterone levels
+C0234130||motor activity
+C0022885||open field test
+C0022885||plasma levels
+C0021760||Interleukin-6
+C0021760||Interleukin-6
+C0021753||Interleukin-1Beta
+C0021753||Interleukin-1Beta
+C0027753||Nerve Growth Factor Beta
+C0027753||Nerve Growth Factor Beta
+C0041368||Tumor Necrosis Factor-Alpha
+C0041368||Tumor Necrosis Factor-Alpha
+C0378112||cytokine-induced neutrophil chemoattractant 1
+C0378112||cytokine-induced neutrophil chemoattractant 1
+C0020962||immunologic system
+C0004415||aversive learning
+C2986890||Behavioral criteria
+C1257890||subpopulations
+C0034715||Sprague-Dawley
+C0034716||Wistar rats
+C2986890||behavioral scores
+C0392366||test
+C0003062||animals
+C0392366||tested
+C0003467||anxiety
+C0234130||motor activity
+C0022885||open-field test
+C0857657||Plasma corticosterone levels
+C0870186||avoidance
+C0392366||test
+C2699541||Cytokine levels
+C0021760||Interleukin-6
+C0021753||Interleukin-1Beta
+C0027753||Nerve Growth Factor Beta
+C0041368||Tumor Necrosis Factor-Alpha
+C0378112||cytokine-induced neutrophil chemoattractant 1
+C0032105||plasma
+C0034716||Wistar rats
+C0034716||Wistar rats
+C0034715||SD rats
+C0003467||anxiety
+C0857657||levels of corticosterone
+C1511501||control animals
+C0857657||corticosterone levels
+C0001403||hypocortisolism
+C0378112||cytokine-induced neutrophil chemoattractant 1
+C0020962||immunologic system
+C0851265||learning deficits

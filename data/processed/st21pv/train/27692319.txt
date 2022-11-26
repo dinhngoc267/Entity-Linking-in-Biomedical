@@ -1,0 +1,67 @@
+C0003158||Anti-helminthic
+C0330482||Momordica charantia L
+C3662687||Fasciola hepatica eggs
+C1439852||incubation
+C0015652||Fasciolosis
+C0030499||parasitic disease
+C0040818||trematode
+C0015648||Fasciola hepatica
+C0086418||human
+C1318101||animal population
+C2700280||world
+C0259849||synthetic drugs
+C0087111||treat
+C0012634||condition
+C0030498||parasite
+C0003158||anti-helminthic
+C0032100||medicinal plants
+C0577749||phytopharmaceuticals
+C2603343||study
+C0330482||Momordica charantia
+C0242724||leaf
+C0032081||extracts
+C3662687||eggs of F. hepatica parasites
+C1258023||crude extract
+C1258023||crude extract
+C0330482||M. charantia leaves
+C3178840||liquid-liquid partitioning
+C0360100||organic solvents
+C0936012||analysed
+C0008562||High Performance Liquid Chromatography
+C0008562||High Performance Liquid Chromatography
+C0012403||DMSO
+C0022885||tests
+C3662687||F. hepatica eggs
+C1439852||incubated
+C0330482||M. charantia
+C0242724||leaf
+C1258023||crude extract
+C0023047||larvae
+C3662687||eggs
+C1439852||incubated
+C1258023||crude extract
+C3662687||Eggs
+C1439852||incubated
+C1258023||crude extract
+C0013936||embryonic development
+C0089147||n-butanol
+C0023047||miracidia
+C0023047||miracidia
+C0598016||hatched
+C0012403||DMSO
+C0013936||embryogenesis
+C0051091||albendazole sulphoxide
+C0051091||ABZ(SO)
+C3495389||Chemical analysis
+C1258023||crude extract
+C0596577||flavonoids
+C3641325||HPLC-MS
+C0034392||Quercetin
+C0596577||flavonoids
+C1258023||crude extract
+C0089147||n-butanol
+C2603343||study
+C0936012||analyse
+C0330482||M. charantia
+C0242724||leaf
+C1258023||crude extract

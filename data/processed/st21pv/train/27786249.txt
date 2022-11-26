@@ -1,0 +1,45 @@
+C0012656||putative vectors
+C0032080||Bogia Coconut Syndrome
+C1004784||phytoplasma
+C3539922||loop-mediated isothermal amplification
+C0016452||single-insect feeding media
+C1004784||Phytoplasmas
+C3179193||insect vectored mollicutes
+C0012634||disease
+C0032098||crops
+C0021585||insect species
+C0012656||vectors
+C1004784||phytoplasma
+C0012634||disease
+C0032098||disease-free plants
+C0021585||insects
+C0752096||molecular testing
+C1004784||phytoplasma
+C0012854||DNA
+C0376597||sucrose
+C0021585||insects
+C2603343||study
+C0022885||feeding medium method
+C3539922||loop-mediated isothermal amplification (LAMP) assay
+C0021585||insect
+C0018992||Hemiptera taxa
+C0030375||Papua New Guinea
+C0032080||Bogia coconut syndrome
+C0032080||Bogia coconut syndrome
+C3539922||LAMP assay
+C1004784||phytoplasma
+C0012854||DNA
+C0016452||feeding solution
+C0018670||head
+C0040300||tissue
+C0021585||insects
+C1063109||Derbidae
+C1063149||Lophopidae
+C1003013||Flatidae
+C1063157||Ricaniidae
+C0018670||heads
+C0022885||single-insect feeding medium tests
+C3539922||LAMP assays
+C0012656||putative vectors
+C1004784||phytoplasma
+C0030664||pathosystems

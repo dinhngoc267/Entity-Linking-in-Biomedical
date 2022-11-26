@@ -1,0 +1,35 @@
+C0033898||Psychological factors
+C0400966||Nonalcoholic fatty liver disease
+C3241937||nonalcoholic steatohepatitis
+C1955832||systematic review
+C0400966||Nonalcoholic fatty liver disease
+C0400966||Nonalcoholic fatty liver disease
+C0341439||chronic liver diseases
+C0699748||pathogenesis
+C0400966||Nonalcoholic fatty liver disease
+C3241937||nonalcoholic steatohepatitis
+C3241937||nonalcoholic steatohepatitis
+C0033898||psychological factors
+C0400966||Nonalcoholic fatty liver disease
+C3241937||nonalcoholic steatohepatitis
+C0849912||emotional
+C1138432||PubMed
+C0242356||Thomson ISI - Web of Science
+C0242356||Scopus
+C0242356||ProQuest
+C0242356||ScienceDirect
+C0849912||emotional
+C0011570||depression
+C0003467||anxiety
+C0392335||cognitive functioning
+C1442959||nutrition
+C0013470||food intake
+C1947907||consumption
+C0009237||coffee
+C0001967||alcohol
+C0035648||vulnerability factors
+C0400966||Nonalcoholic fatty liver disease
+C3241937||nonalcoholic steatohepatitis
+C0556006||cognitive-behavioral disease
+C0376636||management
+C0012155||diet

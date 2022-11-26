@@ -36,20 +36,18 @@ def tokenize_sentence(sentence, tokenizer):
         sentence_tokens += ['[END]']
     sentence_tokens = tokenizer.convert_tokens_to_ids(sentence_tokens)
 
-    return sentence_tokens, label, [start, end]
-
-
+    return sentence_tokens, [start, end], label
 
 
 class MentionEntityAffinityDataset(Dataset):
-  def __init__(self, data_dir, tokenizer, max_len=256):
+  def __init__(self, candidate_generator_model, data_dir, dictionary_file, tokenizer, max_len=256):
 
     super().__init__()
 
     self.data = []
-    list_sent_token_ids = []
-    list_mention_index = []
+    self.labels = []
 
+    # load data
     files = glob.glob(os.path.join(data_dir, "*.txt"))
 
     for file in tqdm(files):
@@ -57,8 +55,30 @@ class MentionEntityAffinityDataset(Dataset):
             list_sents = f.read().split('\n\n')
 
         for sent in list_sents.split:
-            sent_token_ids, mention_index = tokenize_sentence(sent, tokenizer)            
-            list_sent_token_ids.append(sent_token_ids)
+            sent_token_ids, mention_index, label = tokenize_sentence(sent.split('\n'), tokenizer)
+            self.data.append((sent_token_ids, mention_index))
+            self.labels.append(label)
+
+    # load dictionary
+    
+    with open(dictionary_file, "r") as f:
+      lines = f.read().split('\n')
+      dictionary = {}
+
+      for line in lines:
+        line = line.split('||')
+        id = line[0]
+        description = line[1]
+
+        dictionary[id] = description 
+
+    # create list pair of index for training 
+
+    # anchor_negative
+    anchor_negative_pairs = []
+    for i in range(len(self.data)):
+
+
 
     self.max_len = max_len
 

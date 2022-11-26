@@ -1,0 +1,62 @@
+C0743284||Chronic exposure to
+C0018546||haloperidol
+C0171023||olanzapine
+C1562006||shape changes
+C0034693||rat
+C0019564||hippocampus
+C0018220||grey-matter
+C4021085||brain abnormalities
+C0036341||schizophrenia
+C0036341||schizophrenia
+C1562006||volume and shape deformation
+C0019564||hippocampus
+C0040615||chronic antipsychotic medication
+C0743284||exposure
+C0743284||chronic exposure
+C0018546||haloperidol
+C0018546||haloperidol
+C0171023||olanzapine
+C0171023||olanzapine
+C0034693||rat
+C3496509||hippocampal
+C0243095||volume and shape
+C0024485||structural MRI
+C0037303||brain retained inside the cranium
+C0332482||distortions
+C0012737||dissection
+C0200760||tensor-based morphometry
+C0200760||tensor-based morphometry
+C0936012||elastic surface-based shape deformation analysis
+C0019564||hippocampus
+C0004398||post-mortem
+C0459385||brain tissue
+C0743284||Chronic exposure
+C0018546||haloperidol
+C0171023||olanzapine
+C0019564||hippocampus
+C0430009||exploratory thresholds
+C0004398||post-mortem
+C0936012||shape deformation analysis
+C0018546||haloperidol
+C0171023||olanzapine
+C0743284||exposure
+C1562006||divergent shape deformations
+C0034693||rat
+C0019564||hippocampus
+C0019564||dorsal hippocampus
+C0018546||haloperidol
+C0743284||exposure
+C1562006||inward shape deformation
+C0171023||olanzapine
+C0743284||exposure
+C1562006||outward shape deformation
+C1562006||outward shape deformations
+C0013227||drugs
+C0019564||ventral hippocampus
+C0019564||hippocampal
+C1562006||shape changes
+C0743284||Chronic exposure
+C0018546||haloperidol
+C0171023||olanzapine
+C0034693||rat
+C0175202||hippocampal shape

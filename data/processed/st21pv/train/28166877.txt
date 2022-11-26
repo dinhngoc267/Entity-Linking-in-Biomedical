@@ -1,0 +1,35 @@
+C0205134||curvature
+C1710706||zone
+C0004095||visual fatigue
+C0205134||curvature
+C0205324||flat
+C1710706||zone
+C1710706||zones
+C0004095||visual fatigue
+C0679646||participant
+C0205134||curvature
+C0442307||setting
+C0442307||settings
+C0205324||flat
+C0442307||setting
+C0004095||visual fatigue
+C0205099||centre
+C1710706||zone
+C1710706||zones
+C0205324||flat
+C0442307||settings
+C0205324||flat
+C0442307||setting
+C0030971||perceived
+C0004095||visual fatigue
+C0205134||curvature
+C0030971||perceived
+C0004095||visual fatigue
+C0234697||critical fusion frequency
+C0004095||visual fatigue
+C0205134||curvature
+C0205099||central
+C1710706||zones
+C0449647||breaks
+C0184511||improve
+C0004095||visual fatigue

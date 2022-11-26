@@ -1,0 +1,57 @@
+C1514892||resistance
+C3714514||infection
+C0013139||Drosophila melanogaster genetic reference panel
+C0027361||Individuals
+C0012634||disease
+C0027361||individual
+C1514892||resistance
+C0997672||fungal pathogen Metarhizium anisopliae Ma549
+C0013139||Drosophila melanogaster Genetic Reference Panel
+C0013139||Drosophila melanogaster Genetic Reference Panel
+C0520990||host defense
+C0997672||Ma549
+C0004611||bacterium
+C0033809||Pseudomonas aeruginosa Pa14
+C0013139||Drosophila melanogaster Genetic Reference Panel
+C0242606||oxidative stress
+C0038187||starvation
+C0019051||hemolymph
+C0337438||glucose levels
+C0037313||sleep
+C0918012||indices
+C0032529||polymorphisms
+C0392673||adapt
+C0032529||polymorphisms
+C1514892||resistance
+C0997672||Ma549
+C0021920||non-coding regions
+C0520990||host defense
+C0015895||fecundity
+C0997672||Ma549
+C0002085||minor alleles
+C0033809||Pa14
+C0033809||Pa14
+C1514892||resistant
+C0936012||analysis
+C0033809||Pa14
+C0997672||Ma549
+C1514892||resistance
+C0017337||genes
+C0031308||phagocytosis
+C1159764||engulfment
+C1516353||cell mobility
+C0025519||intermediary metabolism
+C1158886||protein phosphorylation
+C2984268||axon guidance
+C1155291||response to DNA damage
+C0683140||drug metabolism
+C0079868||insertional mutagenesis
+C0017337||candidate genes
+C0997672||Ma549
+C0017337||candidate genes
+C0162774||homologs
+C0008972||studies
+C0086418||human
+C0012634||disease
+C0017337||genes
+C1705920||species

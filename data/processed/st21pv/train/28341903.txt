@@ -1,0 +1,32 @@
+C0022942||lactoferrin
+C0026794||lysozyme
+C0442040||salivary
+C0018183||granulocytes
+C0022942||Intracellular lactoferrin
+C0022942||lactoferrin
+C0026794||lysozyme
+C0026794||lysozyme
+C0021368||inflammation
+C0524828||host protection
+C0022942||lactoferrin
+C0026794||lysozyme
+C0504082||exocrine solutions
+C0022942||lactoferrin
+C0026794||lysozyme
+C0442040||salivary
+C0018183||CD45(+)CD15(+) cells
+C0344335||body fat
+C0036087||stimulated saliva
+C0036087||Saliva
+C0023516||leukocytes
+C0023516||CD45(+)
+C0018183||granulocytes
+C0018183||CD45(+)CD15(+)
+C0016263||flow cytometry
+C0022942||lactoferrin
+C0026794||lysozyme
+C0022942||lactoferrin
+C0021368||inflammation
+C0026794||intracellular Lys
+C0026794||lysozyme
+C0504082||exocrine solutions

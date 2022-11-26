@@ -1,0 +1,32 @@
+C0282581||B-cell epitopes
+C0206255||malaria vaccine
+C3849939||P. falciparum Schizont Egress Antigen-1
+C0003241||antibodies
+C3849939||PfSEA-1A
+C0024530||malaria
+C0042196||Vaccination
+C0025929||mice
+C4040232||PbSEA-1A
+C0242723||parasitemia
+C0032149||Plasmodium berghei ANKA
+C4277607||immunogenicity
+C3849939||PfSEA-1A
+C0282581||B-cell epitopes
+C0030956||peptide
+C0020960||anti-sera
+C3849939||rPfSEA-1A
+C1519885||vaccinated
+C0033147||primates
+C0220825||evaluated
+C0003316||epitope
+C0003241||antibody
+C0242723||parasitemia
+C0087111||treatment
+C0599755||cohort
+C0022558||Western Kenya
+C0003241||Antibodies
+C0003316||epitopes
+C0242723||parasitemia
+C0042213||immunogens
+C0003261||antibody responses
+C0003316||epitopes

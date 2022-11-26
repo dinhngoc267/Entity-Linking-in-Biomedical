@@ -1,0 +1,55 @@
+C1285573||Genotyping
+C1556085||German
+C0337795||Austrian
+C0318205||Taylorella equigenitalis
+C1764827||isolates
+C0032520||repetitive extragenic palindromic (REP) PCR
+C0085117||pulsed-field gel electrophoresis
+C0085117||pulsed-field gel electrophoresis
+C0318205||Taylorella (T.) equigenitalis
+C1036797||T. asinigenitalis
+C1764827||isolates
+C1285573||genotyping
+C0032520||REP- (repetitive extragenic palindromic) PCR
+C0085117||pulsed-field gel electrophoresis
+C0085117||pulsed-field gel electrophoresis
+C2603343||study
+C0318205||T. equigenitalis
+C1764827||isolates
+C0006159||breeds
+C0019944||German horses
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C0318205||T. equigenitalis
+C1764827||isolates
+C0324170||Austrian Lipizzaner horses
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C0019944||Austrian Trotters
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C0318205||T. equigenitalis
+C1764827||isolate
+C0019944||Holsteiner stallion
+C0037712||South Africa
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C0150312||present
+C0324170||Austrian Lipizzaner horses
+C2603343||study
+C2603343||study
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C1036797||T. asinigenitalis
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C0004793||repetitive extragenic palindromic
+C0085117||pulsed-field gel electrophoresis
+C0032520||REP-PCR
+C0871511||suitable method
+C1294203||molecular epidemiological screening
+C0318205||T. equigenitalis
+C1036797||T. asinigenitalis
+C1764827||isolates
+C1285573||genotyping
+C0085117||pulsed-field gel electrophoresis

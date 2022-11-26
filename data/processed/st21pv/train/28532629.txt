@@ -1,0 +1,23 @@
+C3179495||Shared decision making
+C0041700||UK
+C3179495||Shared decision making
+C3179495||Shared decision making
+C0242456||policy
+C0041700||UK
+C0242170||Policymakers
+C0086267||ethicists
+C1522486||professional regulators
+C0037455||societies
+C1561598||patient organisations
+C3179495||Shared decision making
+C0027462||NHS
+C0023185||learning
+C0205145||sites
+C0424093||initiatives
+C2718026||capacity building
+C0086104||decision aids
+C0424093||initiatives
+C0424090||Enthusiasm
+C0871685||clinicians
+C0335141||managers
+C3179495||Shared decision making

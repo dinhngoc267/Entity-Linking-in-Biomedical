@@ -1,0 +1,34 @@
+C0014406||Environment
+C0022130||Island
+C0023916||Lizard
+C0999100||Xantusia riversiana reticulata
+C0022130||island
+C0237463||agencies
+C1705920||species
+C0332167||high risk
+C0879626||adverse effects
+C0917892||genetic drift
+C0871648||habitat
+C0003070||non-native wildlife
+C2603343||study
+C1257890||population
+C0678594||structure
+C0023916||island giant
+C0999100||Xantusia riversiana
+C0023916||Island Night Lizard
+C0022130||San Clemente Island
+C0006754||California
+C1510458||feral goats
+C0012854||DNA
+C1519302||microsatellites
+C1257890||population
+C3178952||grazing
+C0017446||locations
+C0871648||habitat
+C0449604||site-specific
+C0449774||patterns
+C0035161||mainland congeners
+C0022130||island
+C0702240||elevation areas
+C0085973||case study
+C0557760||coastal

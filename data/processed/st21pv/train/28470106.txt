@@ -1,0 +1,47 @@
+C1417684||NEUROD2
+C0338656||cognitive dysfunctions
+C0036341||schizophrenia
+C0036337||schizoaffective disorder
+C0040615||antipsychotic
+C0087111||treatment
+C1417684||NEUROD2
+C0206678||neurospecific helix-loop-helix
+C0040648||transcription factor
+C0017263||regulation
+C0220839||glutamatergic
+C0016904||GABAergic
+C0017337||genes
+C1417684||NEUROD2
+C0338656||neurocognitive dysfunctions
+C0036341||schizophrenia
+C0036337||schizoaffective disorder
+C0087111||treatment
+C0040615||second-generation antipsychotics
+C1417684||NEUROD2
+C0017337||gene
+C0392335||Cognitive function
+C0027902||neuropsychological tests
+C4050130||cognitive domains
+C0935584||executive function
+C0561770||verbal
+C0542316||visual memory
+C0918012||index
+C2603343||study
+C1417684||NEUROD2
+C0561770||verbal memory
+C0935584||executive functions
+C1417684||NEUROD2
+C0561770||verbal memory
+C0935584||executive functions
+C0918012||index
+C0027902||neuropsychological test
+C0040615||antipsychotic
+C0087111||treatment
+C1417684||NEUROD2
+C1417684||NEUROD2 gene
+C0338656||neurocognitive dysfunctions
+C0525041||cognitive symptoms
+C0040615||antipsychotic
+C0087111||treatment
+C0036341||schizophrenia
+C0036337||schizoaffective disorder

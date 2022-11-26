@@ -1,0 +1,72 @@
+C0057233||deltamethrin
+C0022877||laboratory
+C0010446||Culicoides species
+C0242481||methods
+C0021201||India
+C0005867||Bluetongue virus
+C0005867||Bluetongue virus
+C0242781||transmitted
+C0010446||Culicoides
+C0007747||biting midges
+C0005866||bluetongue
+C0005866||bluetongue
+C0012634||clinical disease
+C0036945||sheep
+C0005866||bluetongue
+C0879626||detrimental effect
+C0221460||farmers
+C0021201||India
+C0277550||hyperendemic outbreaks
+C1301808||southern states
+C0454664||country
+C0242481||method
+C0600688||toxic effects
+C0057233||deltamethrin
+C0010446||Culicoides
+C0057233||deltamethrin
+C0221460||farmers
+C0021201||India
+C0057233||deltamethrin
+C0322767||Culicoides nubeculosus Meigen
+C0043237||World Health Organisation
+C0005507||exposure assay
+C0242481||method
+C0010446||Culicoides spp.
+C0021201||India
+C0322770||C. oxystoma
+C0021201||India
+C0057233||deltamethrin
+C0022885||laboratory-reared
+C0322767||C.nubeculosus
+C0322767||C. nubeculosus
+C0057233||deltamethrin
+C0005507||Behavioural assays
+C0322767||C. nubeculosus
+C0043237||WHO
+C0057233||deltamethrin
+C0681814||experiments
+C0021201||India
+C0600688||toxic effects
+C0057233||deltamethrin
+C0242481||Traditional methods
+C0068484||neem oil
+C1060234||neem
+C0242724||leaves
+C1513916||no
+C0010446||Culicoides
+C0021201||India
+C0057233||deltamethrin
+C0022885||laboratory-bred
+C0322767||C. nubeculosus
+C0242481||traditional methods
+C0036945||sheep
+C1326888||susceptibility
+C0057233||deltamethrin
+C0010446||Culicoides
+C1254351||synthetic pyrethrioids
+C0242481||methods
+C0042196||vaccination
+C0021201||Indian
+C2936506||livestock
+C0005867||Bluetongue virus
+C0242781||transmission

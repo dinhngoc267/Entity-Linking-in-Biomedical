@@ -1,0 +1,60 @@
+C0007113||rectal carcinomas
+C0205246||general
+C0870077||rules
+C0008902||Japanese classification of colorectal carcinoma
+C0008902||Japanese classification of colorectal carcinoma
+C1705493||Western
+C0162791||guidelines
+C0007113||rectal cancers
+C0008902||classified
+C0205246||general
+C0870077||rules
+C0008902||Japanese classification of colorectal carcinoma
+C0008902||Japanese classification of colorectal carcinoma
+C1708333||European Society for Medical Oncology
+C1708333||European Society for Medical Oncology
+C1513893||National Comprehensive Cancer Network
+C1513893||National Comprehensive Cancer Network
+C0162791||guidelines
+C0014245||rigid endoscopic
+C0025102||medical records
+C1511562||curative surgery
+C0149978||rectal adenocarcinoma
+C0033251||Rigid proctoscopy
+C0007113||rectal cancer
+C0332285||located in
+C1282910||upper
+C1282910||Ra
+C0441994||lower
+C0441994||Rb
+C1293097||division
+C0412118||double-contrast barium enema
+C0227423||anal verge
+C0033251||rigid proctoscopy
+C0006826||cancers
+C1282910||Ra
+C0441994||Rb
+C0006826||cancers
+C1282910||Ra
+C0441994||Rb
+C0332285||located
+C0332285||within
+C0227423||anal verge
+C0033251||rigid proctoscopy
+C1282910||Ra
+C0441994||Rb
+C0006826||cancers
+C0332285||located in
+C0444598||mid
+C0034896||rectum
+C1282910||Ra
+C0441994||Rb
+C0006826||cancers
+C0007113||rectal cancers
+C1513893||National Comprehensive Cancer Network
+C0162791||guidelines
+C0008902||classifications
+C0444598||mid-
+C0007113||rectal cancers
+C1708333||European Society for Medical Oncology
+C0162791||guidelines

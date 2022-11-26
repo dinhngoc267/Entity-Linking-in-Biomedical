@@ -1,0 +1,92 @@
+C0042567||Vertebrate
+C0967413||Opsin, Opn3
+C0003062||animals
+C2355587||opsins
+C0042789||sense
+C0042789||visual functions
+C2355587||opsins
+C0042567||vertebrate
+C0967413||Opn3s
+C0042567||vertebrates
+C1171362||expressed
+C0043457||zebrafish
+C2355587||Opn3
+C0024660||mammalian
+C0007635||cultured cells
+C0037812||absorption spectrum spectroscopically
+C1439852||incubated
+C0085717||11-cis retinal
+C0043457||zebrafish
+C2355587||Opn3
+C0035323||blue-sensitive photopigment
+C0234682||absorption
+C0967413||Opn3
+C0035331||all-trans retinal-bearing
+C0037812||absorption spectrum
+C0010985||dark state
+C1550045||in position
+C0001455||cAMP
+C0024075||luciferase
+C1522485||reporter
+C1510438||assay
+C0001455||cAMP
+C1657589||responses
+C0007635||cultured cells
+C1171362||expressing
+C0043457||zebrafish
+C0936076||pufferfish
+C0327220||anole
+C0008051||chicken
+C2355587||Opn3
+C1883559||wild type
+C2355587||opsins
+C1657589||responses
+C0007634||cells
+C1171362||expressing
+C1564139||mutants
+C0967413||WT Opn3s
+C0178719||third intracellular
+C0002518||loops
+C0178719||third intracellular
+C0002518||loop
+C0289372||Gs-coupled
+C0022381||jellyfish
+C2355587||opsin
+C0001455||cAMP
+C0967413||Opn3
+C0086376||G protein(s)
+C1510438||assay
+C0007634||cells
+C1171362||expressing
+C0967413||Opn3
+C0034385||quantally
+C0205134||curve
+C0043457||zebrafish
+C2355587||Opn3
+C0037812||absorption spectrum
+C0205134||curve
+C0026809||mouse
+C0327220||anole
+C2355587||Opn3
+C0043457||zebrafish
+C2355587||Opn3
+C0008051||chicken
+C0936076||pufferfish
+C1564139||Opn3-JiL3
+C0381986||blue-sensitive pigments
+C0042567||vertebrate
+C0967413||Opn3s
+C0289372||blue-sensitive G protein-coupled pigments
+C0001455||cAMP
+C0024075||luciferase
+C1522485||reporter
+C1510438||assay
+C2355587||opsins
+C0178719||third intracellular
+C0002518||loop
+C0022381||jellyfish
+C2355587||opsin
+C0037812||absorption spectra
+C2355587||opsins
+C2611812||signaling cascades
+C0037812||absorption spectra

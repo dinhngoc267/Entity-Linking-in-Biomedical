@@ -1,0 +1,54 @@
+C1334264||Intraspinal meningioma
+C1608408||malignant transformation
+C1269798||distant metastasis
+C0025286||Meningioma
+C0086692||benign tumor
+C1608408||Malignant transformation
+C0027627||metastasis
+C0025286||meningiomas
+C0025286||meningiomas
+C0524466||intracranial
+C0684224||reports
+C1334264||intraspinal meningiomas
+C0684224||report
+C0243095||findings
+C1608408||malignant transformation
+C1269798||distant metastasis
+C1334264||intraspinal meningioma
+C0023866||literature
+C0025266||man
+C0238767||bilateral
+C1836296||lower limb paresis
+C0011900||diagnosed
+C1334255||intradural extramedullary tumor of the thoracic spine
+C0472422||tumor resection
+C0449575||histological findings
+C0431122||atypical meningioma
+C0025286||meningioma
+C0543467||surgery
+C0728940||resection
+C0728940||resection
+C0282617||motor evoked potential
+C1836296||lower limb weakness
+C0728940||resection
+C0449575||histological finding
+C0431122||atypical meningioma
+C0027651||tumor
+C0085203||stereotactic irradiation
+C0011900||diagnosed
+C0027627||metastatic tumors
+C0035561||rib
+C0024091||lumbar vertebra
+C0728985||cervical spine
+C0036037||sacrum
+C0005558||Biopsy
+C0035561||rib
+C2939420||metastatic tumor
+C0449575||histological findings
+C0259785||anaplastic meningioma
+C0684224||report
+C1334264||intraspinal meningioma
+C1608408||transformed
+C0431122||atypical
+C0259785||anaplastic meningioma
+C1269798||distant hematogenous metastasis

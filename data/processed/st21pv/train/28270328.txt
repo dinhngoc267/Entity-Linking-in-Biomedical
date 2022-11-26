@@ -1,0 +1,58 @@
+C0243095||Constructive and Unproductive Processing
+C3203533||Traumatic Experiences
+C0579049||Trauma-Focused Cognitive-Behavioral Therapy
+C0579049||cognitive-behavioral treatments
+C0579049||cognitive-behavioral treatments
+C0038436||posttraumatic stress disorder
+C0038436||posttraumatic stress disorder
+C0087111||treatments
+C0282574||cognitive and emotional processing theories
+C0870186||avoidance
+C0679066||inhibitory learning
+C0243095||unproductive and constructive processing
+C3203533||traumatic experiences
+C0038436||posttraumatic stress disorder
+C1457887||symptoms
+C0579049||Trauma-Focused Cognitive Behavioral Therapy
+C0579049||Trauma-Focused Cognitive Behavioral Therapy
+C0237206||abuse
+C3203533||traumatic
+C3494322||trauma narrative phase
+C0579049||Trauma-Focused Cognitive Behavioral Therapy
+C0243095||unproductive processing
+C0563151||overgeneralization
+C0154575||rumination
+C0870186||avoidance
+C0243095||constructive processing
+C0243095||decentering
+C1832072||accommodation of corrective information
+C0563151||overgeneralization
+C3494322||narrative phase
+C0237088||internalizing symptoms
+C0237088||externalizing symptoms
+C1522577||follow-up
+C1832072||accommodation predicted improvement
+C0237088||internalizing symptoms
+C0205160||negative
+C0563151||overgeneralization
+C0237088||internalizing and externalizing symptoms
+C0563151||overgeneralization
+C1832072||accommodation
+C0563151||Overgeneralization
+C0154575||rumination
+C3714592||immersion
+C3203533||trauma
+C1832072||Accommodation
+C0870186||avoidance
+C0243095||decentering
+C3203533||trauma
+C1392786||cognitive change
+C0237088||externalizing symptoms
+C0154575||Rumination
+C0870186||avoidance
+C0563151||overgeneralization
+C1832072||accommodation
+C0563151||overgeneralization
+C1832072||accommodation
+C0243095||unproductive and constructive processing
+C3203533||traumatic experiences

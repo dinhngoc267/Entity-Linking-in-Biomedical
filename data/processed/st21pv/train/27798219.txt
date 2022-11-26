@@ -1,0 +1,46 @@
+C0003232||antibiotic
+C3651014||de-escalation
+C0032300||pneumococcal pneumonia
+C0003232||antibiotic
+C3651014||de-escalation
+C0041755||adverse drug effects
+C0032300||community-acquired pneumococcal pneumonia
+C0032300||community-acquired pneumococcal pneumonia
+C0936012||analysis
+C0599755||cohort
+C0032300||community-acquired pneumococcal pneumonia
+C0032300||Pneumococcal
+C0159125||positive cultures
+C0038410||Streptococcus pneumoniae
+C0005767||blood
+C0005889||sterile fluids
+C0038056||sputum
+C1446409||positive
+C1319561||urinary antigen test
+C3651014||De-escalation therapy
+C0338237||antibiotic therapy
+C0220892||penicillin
+C0002645||amoxicillin
+C0054066||amoxicillin/clavulanate
+C0184666||admission
+C0936012||analyses
+C0032300||community-acquired pneumococcal pneumonia
+C0003232||antibiotic
+C3651014||de-escalation
+C0184666||admission
+C0003232||antibiotic
+C3651014||de-escalation
+C0332167||high-risk
+C0032285||pneumonia
+C1444783||clinical instability
+C0004610||bacteraemia
+C1301725||documented
+C0041755||adverse drug reactions
+C0184666||readmission
+C0003232||Antibiotic
+C3651014||de-escalation
+C0879626||adversely affect
+C0032300||community-acquired pneumococcal pneumonia
+C0004610||bacteraemia
+C0012634||severe disease
+C0443343||clinically unstable

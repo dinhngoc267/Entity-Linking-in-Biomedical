@@ -1,0 +1,45 @@
+C2609166||twins discordant
+C0001723||affective disorders
+C0226208||anterior callosal
+C0682708||white matter
+C0678594||microstructure
+C0027817||neurobiological
+C0001723||affective disorders
+C0027361||group of individuals
+C0241889||family history
+C1269683||major depressive
+C1269683||MDD
+C0005586||bipolar disorder
+C0005586||bipolar disorder
+C0682708||white matter
+C0228272||cingulum bundle
+C0228271||uncinate fasciculus
+C0152342||anterior limb of the internal capsule
+C0010090||corpus callosum
+C1273723||brain regions
+C0001723||affective disorders
+C0011900||diagnosed
+C1269683||MDD
+C0005586||bipolar disorder
+C1257890||high-risk
+C0332123||no familial history of
+C0001723||affective disorders
+C1537007||diffusion tensor imaging study
+C1257890||high-risk group
+C2348041||fractional anisotropy
+C2348041||fractional anisotropy
+C0043047||water
+C0152325||anterior region of corpus callosum
+C1257890||low-risk group
+C1704258||abnormality
+C0011581||depressive disorder
+C0010090||anterior callosal fiber
+C2348041||fractional anisotropy
+C1257890||high-risk group
+C0228194||left
+C0228193||right frontal regions
+C0010090||anterior callosal
+C2348041||fractional anisotropy
+C0005516||marker
+C0001723||affective disorders
+C0237401||individuals

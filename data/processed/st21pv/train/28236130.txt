@@ -1,0 +1,56 @@
+C0917811||Entrapment
+C0228931||posterior femoral cutaneous nerve
+C0229962||inferior cluneal branches
+C0277809||anatomical basis
+C1274039||surgery
+C0027796||inferior cluneal neuralgia
+C0228959||pudendal nerve
+C1274039||surgery
+C0917811||entrapment
+C0027740||adjacent nerve structures
+C0027796||inferior cluneal neuralgia
+C0229962||collateral branches
+C0228931||posterior femoral cutaneous nerve
+C0230422||posterior surface of the thigh
+C0229962||infragluteal fold
+C1123023||skin
+C0223656||ischial tuberosity
+C0005898||lateral anal region
+C0036471||scrotum
+C0227760||labium majus
+C0739940||perineal branch
+C0027796||cluneal neuralgia
+C0011918||surgical technique
+C1997294||transmuscular approach
+C0015665||fat
+C0282082||gluteal region
+C1280903||Exploration
+C0224429||piriformis
+C0917811||entrapments
+C0228931||posterior femoral cutaneous nerve
+C0036394||sciatic nerve
+C0196571||Nerve decompression
+C0230424||lateral surface
+C0223656||ischial tuberosity
+C0277809||anatomical finding
+C0225331||lateral fibrous
+C0196940||expansion
+C0223653||ischium
+C0027740||nerves
+C0005847||vessels
+C0228931||posterior femoral cutaneous nerve
+C0739941||perineal branches
+C0196940||expansion
+C0196571||decompression
+C0917811||nerve trapped
+C0196940||expansion
+C0027796||Cluneal neuralgia
+C0240717||perineal pain
+C1997249||pudendal neuralgia
+C1274039||Surgery
+C0444462||transgluteal approach
+C0223653||lateral ischial
+C0225331||fibrous
+C0196940||expansion
+C0224996||retinaculum
+C0917811||nerve entrapment

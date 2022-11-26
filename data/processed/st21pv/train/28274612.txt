@@ -1,0 +1,73 @@
+C0028754||obesity
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C0018787||heart
+C0001527||adipose tissue
+C0023884||liver
+C0008972||study
+C0086272||experimental model
+C0034719||Zucker rats
+C3849696||Suppression of tumorigenicity 2
+C3849696||Suppression of tumorigenicity 2
+C2976122||Interleukin-33
+C2976122||Interleukin-33
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C0028754||obesity
+C0028754||obesity
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C0018787||heart
+C0001527||adipose tissue
+C0023884||liver
+C1519106||rodent model
+C0028754||obesity
+C1272575||cardiac
+C1171362||expression
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C1144709||natriuretic peptides
+C1144709||natriuretic peptides
+C3155540||inflammatory mediators
+C1515670||mRNA expression
+C1825595||Interleukin-33
+C1420442||Suppression of tumorigenicity 2
+C0189784||cardiac
+C0001527||adipose
+C0193388||hepatic biopsies
+C0034719||obese Zucker rats
+C0034719||O
+C1171362||Expression
+C3852857||sST2
+C0034719||O rats
+C0040300||tissues
+C0035696||mRNA
+C1825595||Interleukin-33
+C0034719||O
+C0017262||expression
+C1416400||ST2L
+C0023884||liver
+C0034719||O
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C1144709||natriuretic peptides
+C3155540||inflammatory mediators
+C1272575||cardiac tissue
+C1171362||Expression
+C3852857||sST2
+C1272575||cardiac
+C0001527||adipose
+C0023884||liver tissue
+C0034719||O
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C1148560||molecular mechanisms
+C0028754||obesity
+C1144709||NP
+C3155540||inflammatory mediators
+C2976122||Interleukin-33
+C3849696||Suppression of tumorigenicity 2
+C1704259||molecular pathways
+C3277906||cardiac dysfunction
+C0021368||inflammation
+C0028754||obesity

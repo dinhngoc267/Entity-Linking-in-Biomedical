@@ -1,0 +1,33 @@
+C0031831||Physician
+C0003873||Rheumatoid Arthritis
+C0282441||Literature Review
+C0920317||Meta-Analysis
+C0011109||decision-making
+C0376636||management
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0012634||disease
+C0031831||physician's
+C2603343||study
+C0023866||published literature
+C0031831||physician
+C0003873||rheumatoid arthritis
+C0282441||literature review
+C1706852||articles
+C0025141||Medline
+C0282574||Embase
+C0003873||rheumatoid arthritis
+C0035173||investigators
+C4054229||patient global
+C4054229||patient global
+C0035648||predictors
+C2603343||study
+C0920317||meta-analysis
+C2603343||studies
+C0043210||women
+C4054229||patient global
+C4054229||patient global
+C4054229||patient global
+C0030193||pain
+C0282574||joint counts
+C0001347||acute-phase reactants

@@ -1,0 +1,30 @@
+C1516769||PCVMZM
+C1516769||Probabilistic Classification Vector Machines Model Combined with a Zernike Moments
+C0872079||Protein-Protein Interactions
+C0002518||Protein Sequences
+C0872079||Protein-protein interactions
+C0872079||Protein-protein interactions
+C0872079||Protein-protein interactions
+C0872079||Protein-protein interactions
+C0872079||Protein-protein interactions
+C1516769||computational methods
+C0872079||Protein-protein interactions
+C1516769||PCVMZM
+C1516769||computational method
+C0026346||Zernike moments (ZM) descriptor
+C0872079||Protein-protein interactions
+C0033684||protein
+C0002518||amino acids sequences
+C0026346||Zernike moments (ZM) descriptor
+C0033684||protein
+C2698333||Position-Specific Iterated Basic Local Alignment Search Tool (PSI-BLAST)
+C0872079||interactions
+C0033684||protein
+C0872079||Protein-protein interactions
+C0043393||Yeast
+C0079488||H. Pylori
+C0038199||state-of-the-art
+C2825142||Experimental results
+C0043393||Yeast
+C2825142||experimental results
+C0035168||proteomics research

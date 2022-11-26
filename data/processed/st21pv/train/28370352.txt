@@ -1,0 +1,68 @@
+C0229671||Serum
+C3272453||genomic DNA
+C1332772||α1(I) collagen
+C0011644||scleroderma
+C0028606||nucleic acids
+C0086418||human
+C0229671||sera
+C0086418||human
+C0012634||diseases
+C0012854||DNA
+C0035668||RNA
+C1333079||collagens
+C0086418||human
+C0229671||sera
+C0229671||serum
+C0005516||biomarkers
+C0011644||scleroderma
+C0035668||RNA
+C0012854||DNA
+C1333079||collagens
+C0229671||sera
+C0442726||detected
+C0032520||polymerase chain reaction
+C1709846||real-time polymerase chain reaction
+C1332772||360 bases of full-length α1(I) collagen
+C0012854||DNA
+C0017337||regions
+C0442726||detected
+C0032520||polymerase chain reaction
+C0086418||human
+C0229671||sera
+C1332773||α2(I) collagen
+C0012854||DNA
+C1332772||α1(I) collagen
+C0035668||RNA
+C1332773||α2(I) collagen
+C0035668||RNA
+C0243095||not detectable
+C1332772||α1(I) Collagen
+C0012854||DNA
+C0229671||sera
+C0229671||serum
+C1332772||α1(I) collagen
+C0012854||DNA
+C0011644||scleroderma
+C0080105||subjects
+C0024141||systemic lupus erythematosus
+C0229671||serum
+C1332772||α1(I) collagen
+C0012854||DNA
+C1511876||diagnostic marker
+C0011644||scleroderma
+C0229671||serum
+C1332772||α1(I) collagen
+C0012854||DNA
+C0022877||laboratory
+C0011644||scleroderma
+C1332772||α1(I) collagen
+C0012854||DNA
+C0012634||pitting scars
+C0041582||ulcers
+C0229671||serum
+C1332772||α1(I) collagen
+C0012854||DNA
+C0011644||scleroderma
+C1511876||diagnostic marker
+C0042373||vasculopathy
+C0035668||rna

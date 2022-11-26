@@ -1,0 +1,81 @@
+C0074529||Silk I
+C0074529||Silk II
+C2603343||studied
+C0006780||fast scanning calorimetry
+C0006780||fast scanning calorimetry
+C0006780||fast scanning calorimetry
+C0444626||crystal
+C0323309||B. mori
+C1449666||silk fibroin
+C0074529||Silk I
+C0074529||Silk II
+C0444626||crystal
+C0237096||residence
+C0074529||silk protein
+C0006780||fast scanning calorimetry
+C0006780||Mettler Flash DSC1
+C0016042||fibroin
+C0444626||crystalline
+C0444626||crystal structures
+C0074529||Silk I
+C0074529||Silk II
+C0043047||water
+C0150247||annealing
+C0001963||MeOH
+C0043047||water
+C0179177||autoclaving
+C0444626||crystal structure
+C0205143||wide angle
+C1306645||X-ray scattering
+C0444626||crystallinity
+C0332128||evaluated
+C0206055||Fourier transform infrared (FTIR) spectroscopy
+C0936012||analysis
+C1449666||Silk fibroin
+C0043047||water
+C0150247||annealing
+C0444626||crystalline
+C0074529||Silk I
+C1510464||structure
+C0206055||Fourier transform infrared
+C0006780||fast scanning calorimetry
+C2603343||studies
+C0179177||autoclaving
+C0001963||MeOH
+C0444626||crystalline
+C0074529||Silk II
+C1510464||structure
+C0205103||Intermediate
+C0444626||crystalline
+C0074529||Silk I
+C0074529||Silk II
+C1510464||structure
+C0043047||water
+C0150247||annealing
+C0006780||fast scanning calorimetry
+C0074529||Silk I I
+C0444626||crystals
+C0074529||Silk I
+C0444626||crystals
+C0074529||Silk I
+C0074529||Silk II
+C1510464||structure
+C0444626||crystal
+C0006780||FSC experiment
+C0037119||Silkworm
+C0074529||silk
+C0016042||fibroin component
+C0074529||silk forms
+C0444626||crystals
+C0074529||Silk
+C0444626||crystals
+C0444626||crystal
+C0444626||Crystal
+C2603343||study
+C0074529||silk
+C0444626||crystal
+C2603343||study
+C0074529||silk
+C0074529||silk
+C0444626||crystal
+C0444626||crystal

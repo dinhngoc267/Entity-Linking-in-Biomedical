@@ -1,0 +1,69 @@
+C0728940||Surgical Excision
+C0029396||Heterotopic Ossification
+C1257975||Mesenchymal Stem Cell Populations
+C0029396||heterotopic ossification
+C0029396||heterotopic ossification
+C0272448||musculoskeletal injuries
+C0562038||burns
+C0034991||rehabilitation
+C0029396||heterotopic ossification
+C0035110||repeated operations
+C0728940||resection
+C0029396||heterotopic ossification
+C0087111||Treatment
+C0029396||heterotopic ossification
+C0728940||surgical excision
+C3540840||signs or symptoms
+C0029396||heterotopic ossification
+C0150055||chronic pain
+C0043250||wounds
+C0231589||joint restriction
+C0008972||study
+C2986594||model
+C0029396||heterotopic ossification
+C0728940||surgical excision
+C0029396||heterotopic ossification
+C2986594||mouse model
+C0001074||hind-limb Achilles' tendon
+C0152060||transection
+C0205095||dorsal
+C0006434||burn injury
+C0037080||signaling
+C0033684||mediators
+C0029396||heterotopic ossification
+C1155364||bone morphogenetic protein signaling
+C0682560||mature bone
+C0728940||surgical excision
+C0041904||upregulation
+C0522506||downstream
+C0033684||mediators
+C1566789||pSMAD 1
+C0529859||5
+C0728940||surgical excision
+C1257975||mesenchymal cell population
+C0290067||platelet-derived growth factor receptor-α
+C0290067||platelet-derived growth factor receptor-α
+C0150312||present
+C0029396||heterotopic ossification
+C0221198||lesion
+C0029396||heterotopic ossification
+C0221198||lesion
+C0290067||platelet-derived growth factor receptor-α
+C1257975||mesenchymal cells
+C0334094||proliferative
+C0029396||heterotopic ossification
+C0221198||lesion
+C0728940||surgical excision
+C0029396||heterotopic ossification
+C1257975||mesenchymal cell populations
+C0037080||signaling
+C0150312||present
+C0029396||heterotopic ossification
+C0221198||lesion
+C0243095||findings
+C0205234||foci
+C1384482||ectopic bone
+C0728940||excision
+C1515974||sites
+C2986425||unresected
+C1384482||bone

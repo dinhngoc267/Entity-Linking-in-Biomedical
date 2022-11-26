@@ -1,0 +1,12 @@
+C0020538||hypertension
+C2700280||worldwide
+C3887460||cardiovascular
+C0014412||environmental exposure
+C0243095||poor cardiovascular outcome
+C0020538||hypertension
+C0007222||cardiovascular disease
+C0020538||hypertension
+C0027361||People
+C0043210||women
+C0007222||cardiovascular diseases
+C3887460||cardiovascular

@@ -1,0 +1,26 @@
+C0040541||Toxicology
+C2700280||World
+C0040541||Toxicology
+C0043335||xenobiotics
+C0040541||Toxicology
+C1515655||in vivo
+C0600688||toxicity
+C0086272||experimental models
+C0242481||bioanalysis techniques
+C0040541||Toxicology
+C0150098||data streams
+C0242481||omics measurements
+C0936012||integrative analysis
+C0022885||omics strategies
+C0040541||Toxicology
+C0022885||bioanalytical strategies
+C1552616||summary
+C0040541||Toxicology
+C0017446||Alps
+C0039021||Switzerland
+C0040541||Toxicology
+C0043335||xenobiotics
+C0600688||toxicity
+C1515655||in vivo
+C0022885||bioanalytical technologies
+C0600688||toxicity

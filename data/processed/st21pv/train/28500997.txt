@@ -1,0 +1,51 @@
+C0242456||policy
+C0022864||labour
+C0033011||women
+C0221007||postmaturity
+C0936012||analysis
+C0337954||tertiary hospital
+C1709269||North
+C0014282||England
+C0032993||postmature pregnancy
+C0566679||length of labour
+C0259787||induction process
+C0015730||feasibility
+C0242481||research process
+C2603343||larger study
+C0032993||postmature pregnancy
+C0027462||NHS
+C0019994||hospital
+C0259787||induction
+C0032961||gestation
+C0259787||induction
+C0936012||analysis
+C0242356||database
+C0086750||primary outcomes
+C0936012||analysed
+C1708930||Mann-Whitney test
+C0008848||large city
+C0587437||tertiary referral hospital
+C1709269||North
+C0014282||England
+C0033011||women
+C0242456||policy
+C0033011||women
+C0086750||primary outcomes
+C0566679||length of labour
+C0259787||induction
+C0022864||labour
+C0259787||induction
+C0005615||birth
+C0566679||length of labour
+C0033011||women
+C0033011||women
+C0259787||induction
+C0005615||birth
+C0033011||women
+C0033011||women
+C2603343||study
+C0566679||length of labour
+C0259787||induction
+C0032993||postmature pregnancy
+C2603343||large study
+C0022864||labour

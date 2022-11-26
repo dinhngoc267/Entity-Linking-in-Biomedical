@@ -1,0 +1,85 @@
+C0220825||assessment
+C1536105||computed tomography angiography
+C1261082||left main coronary artery
+C1261082||left main coronary artery
+C0700276||anatomy
+C0087111||therapeutic
+C1261082||left main coronary artery
+C0700276||anatomy
+C1536105||128-multisliced coronary computed-tomography-angiography
+C1536105||coronary computed-tomography-angiography
+C1261082||left main coronary artery
+C1536105||coronary computed-tomography-angiography
+C0008972||studies
+C2603343||study
+C0700276||Anatomical features
+C1261082||left main coronary artery
+C0552389||cross-sectional areas
+C1261082||left main coronary artery
+C0444567||ostial
+C1261082||left main coronary artery
+C0205108||distal
+C3898617||LAD ostial
+C0815994||LCX
+C0444567||ostial
+C1261082||left main coronary artery
+C1261082||left main coronary artery
+C0815994||LCX
+C1261082||left main coronary artery
+C3898617||LAD
+C3898617||LAD
+C0815994||LCX
+C0226042||RCA
+C1261082||left main coronary artery
+C1261082||left main coronary artery
+C0444567||ostial
+C1261082||left main coronary artery
+C0205108||distal
+C3898617||LAD ostial
+C0815994||LCX
+C0444567||ostial
+C0205146||areas
+C1261082||left main coronary artery
+C0444567||ostial
+C0205108||distal
+C0205146||area
+C1261082||left main coronary artery
+C0205108||distal
+C3898617||LAD ostial
+C0205146||area
+C1261082||left main coronary artery
+C0205108||distal
+C0815994||LCX
+C0444567||ostial
+C1261082||left main coronary artery
+C1261082||left main coronary artery
+C3898617||LAD
+C3898617||LAD
+C0815994||LCX
+C3898617||LAD
+C0815994||LCX
+C1261082||left main coronary artery
+C3898617||LAD ostial
+C0205146||area
+C0815994||LCX
+C0444567||ostial
+C0205146||area
+C3898617||LAD
+C0815994||LCX
+C3898617||LAD
+C0815994||LCX
+C1261082||left main coronary artery
+C0205108||T-shaped distal
+C1261082||left main coronary artery
+C3898617||LAD ostial
+C0205146||area
+C0815994||LCX
+C0444567||ostial
+C0205146||area
+C0205108||distal
+C0205108||Y-shaped distal
+C0243095||findings
+C1261082||left main coronary artery
+C2348535||bifurcation stenting
+C0038257||stents
+C1261082||left main coronary artery

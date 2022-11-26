@@ -1,0 +1,40 @@
+C0598312||DNA Replication Activity
+C1047211||Cyanobacteria
+C0035203||Respiration Activity
+C1047211||Cyanobacteria
+C0007595||cell growth
+C0007634||cellular
+C1003877||Synechococcus elongatus PCC 7942
+C1047211||cyanobacteria
+C0598312||DNA replication
+C0013846||photosynthetic electron transport
+C1327622||regulatory
+C0598312||DNA replication
+C1047211||cyanobacteria
+C1327622||regulatory
+C1327622||regulation
+C0598312||DNA replication
+C1047211||cyanobacteria
+C1003877||S. elongatus PCC 7942
+C0995541||Synechocystis sp. PCC 6803
+C1047885||Anabaena sp. PCC 7120
+C0598312||DNA replication activity
+C0995541||Synechocystis
+C1047885||Anabaena
+C0007634||cells
+C4049693||transferred to
+C1003877||S. elongatus
+C0599784||Glycogen metabolism
+C0035203||respiration
+C0995541||Synechocystis
+C1047885||Anabaena
+C1003877||S. elongatus
+C0598312||DNA replication activity
+C0995541||Synechocystis
+C1047885||Anabaena
+C1003877||S. elongatus
+C0013846||electron transport
+C1290905||disparity
+C0598312||DNA replication
+C1047211||cyanobacteria
+C0013846||electron transport

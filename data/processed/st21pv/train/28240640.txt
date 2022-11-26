@@ -1,0 +1,20 @@
+C4076410||Image Assessment
+C0035065||Renal Arteries
+C0042449||Veins
+C0729619||Dual-Energy Spectral CT Imaging
+C0232804||Renal Function
+C2603343||study
+C0035065||renal arteries
+C0042449||veins
+C0729619||dual-energy spectral computed tomography (CT) imaging
+C0232804||renal function
+C1637292||renal CT angiography
+C0729619||dual-energy spectral CT imaging
+C0232804||renal function
+C0580863||renal vessels
+C4055183||contrast-induced nephropathy
+C0151746||abnormal renal function
+C0035065||renal arteries
+C0042449||veins
+C0177779||dual-energy spectral CT scan
+C0232804||renal function

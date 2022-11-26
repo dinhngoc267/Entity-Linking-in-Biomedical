@@ -1,0 +1,48 @@
+C1261333||Boston Keratoprosthesis Type 1
+C0206035||Randomized Controlled Trial
+C1522577||Follow-up
+C1261333||Boston Keratoprosthesis type 1
+C1261333||B-KPro
+C0206035||randomized controlled trial.
+C0679646||participants
+C2348563||study protocol
+C0589121||follow-up visits
+C0176217||B-KPro surgery
+C0582175||experienced surgeon
+C0020028||Hospitalier de l'Université de Montréal
+C0348047||allograft carrier
+C1261333||B-KPro
+C0021107||implantation
+C0679646||Participants
+C3815594||randomized
+C1261333||B-KPro
+C0348047||corneal graft carrier
+C0040300||tissue
+C0543467||surgery
+C0015394||eye bank
+C0243095||device retention
+C0243095||surgical feasibility
+C0042812||visual acuity
+C0042812||visual acuity
+C0009566||complications
+C0015392||eyes
+C2348563||study protocol
+C0015392||eyes
+C0034656||randomized
+C0348047||carrier grafts
+C0015392||eyes
+C1522577||follow-up
+C0015392||eyes
+C0015392||eyes
+C0348047||carrier graft
+C0042812||visual acuity
+C0184511||improved
+C0184511||improved
+C0243095||Device retention
+C0009566||complications
+C0524358||corneal donors
+C0348047||carriers
+C1261333||B-KPro
+C0243095||device retention
+C0243095||visual rehabilitation
+C0009566||complications

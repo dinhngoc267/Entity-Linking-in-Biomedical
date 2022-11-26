@@ -1,0 +1,35 @@
+C0001811||ageing
+C0021247||Indonesia
+C0023866||literature
+C1446409||positive
+C0517226||physical
+C0025353||mental health
+C0035168||research
+C0001811||ageing
+C0014406||environment
+C3161035||model
+C0332280||linkages
+C0001792||older adults
+C0021247||Indonesia
+C0038951||Indonesian Family Life Survey-East
+C0038951||Indonesian Family Life Survey-East
+C0034980||multivariate regression analysis
+C0001792||older
+C0237401||individuals
+C0021247||Indonesia
+C1514578||vulnerable provinces
+C0008679||chronic illness
+C0025353||mental health
+C1510941||array
+C1517526||geographic
+C0243095||findings
+C0444454||access
+C1553702||neighbourhood
+C0025353||mental well-being
+C0001792||older
+C0237401||individuals
+C0008679||chronic illnesses
+C0240919||rural
+C0237096||residence
+C0683312||categories
+C0242456||policy

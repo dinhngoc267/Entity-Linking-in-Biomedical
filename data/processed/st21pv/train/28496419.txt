@@ -1,0 +1,34 @@
+C1739395||Takotsubo Cardiomyopathy
+C0086209||Emotional Stress
+C0231302||Physical Stress
+C1739395||takotsubo cardiomyopathy
+C1739395||that takotsubo cardiomyopathy
+C0231302||physical
+C0086209||emotional stresses
+C0086209||emotional-
+C0231302||physical stress
+C1739395||that takotsubo cardiomyopathy
+C0242356||institutional database
+C0011900||diagnosed
+C1739395||that takotsubo cardiomyopathy
+C0086209||emotional stress
+C0231302||physical stress
+C0243095||in-hospital events
+C0040038||thromboembolic events
+C2826244||life-threatening
+C0003811||arrhythmias
+C0027051||myocardial infarction
+C0018801||heart failure
+C0038454||stroke
+C1739395||that takotsubo cardiomyopathy
+C1522577||follow-up
+C0086209||emotional
+C0231302||physical stress
+C0034980||Multivariate Cox regression analysis
+C0086209||emotional stress
+C0243095||negative independent predictor
+C0243095||in-hospital events
+C1739395||that takotsubo cardiomyopathy
+C0683278||suffering
+C0086209||emotional stress
+C0231302||physical stress

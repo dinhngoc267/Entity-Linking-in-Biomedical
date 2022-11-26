@@ -1,0 +1,31 @@
+C2936204||Endovascular Treatment
+C0740386||Anterior Communicating Artery Aneurysms
+C0740386||aneurysms
+C0149562||anterior communicating artery
+C0700276||anatomy
+C2936204||endovascular technologies
+C0189713||coil embolization
+C0740386||aneurysm
+C0740386||anterior communicating artery aneurysms
+C0740386||anterior communicating artery aneurysms
+C0189713||endovascular coil embolization techniques
+C0242356||neuroendovascular database
+C0740386||anterior communicating artery aneurysms
+C0740386||anterior communicating artery aneurysms
+C0189713||coil embolization
+C0189724||aneurysm occlusion
+C0740386||aneurysms
+C0189724||aneurysm occlusion
+C0740386||aneurysms
+C0549099||perforation
+C0040038||thromboembolic event
+C0021308||radiologic infarct
+C1522577||follow-up
+C1522577||follow-up
+C2936204||endovascular treatments
+C0740386||anterior communicating artery aneurysms
+C0189713||coil embolization
+C0740386||aneurysms
+C0450429||location
+C0009566||complications
+C0034771||recanalization

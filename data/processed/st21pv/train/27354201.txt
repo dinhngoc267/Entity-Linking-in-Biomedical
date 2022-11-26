@@ -1,0 +1,69 @@
+C0936012||analysis
+C1417102||Mef2c
+C0086860||promoter
+C1326080||muscle differentiation
+C2752380||Regeneration of adult skeletal muscle
+C3263722||injury
+C1326120||activation
+C0599856||satellite cells
+C0596290||proliferates
+C0007589||differentiates
+C1261468||fuses
+C3899956||myofibers
+C3658245||Myocyte enhancer factor 2 (MEF2) proteins
+C1850849||muscle regeneration
+C1417102||Mef2c gene
+C0086860||promoter
+C0039005||pig
+C1417102||Mef2c gene
+C3179034||Quantitative real-time PCR
+C3179034||Quantitative real-time PCR
+C0017262||expression
+C1417102||Mef2c gene
+C0026845||muscle
+C0040300||tissues
+C1417102||Mef2c
+C0086860||promoter
+C0040649||transcriptional activity
+C0007589||differentiated
+C0007634||C2C12 cells
+C0596290||proliferating
+C0007634||C2C12 cells
+C0162493||up-regulation
+C1515670||mRNA expression
+C1417102||Mef2c gene
+C0017260||deletion
+C0026882||mutation
+C0936012||analyses
+C0165230||MyoD
+C3658245||Myocyte enhancer factor 2
+C1514535||binding sites
+C1417102||Mef2c
+C0086860||promoter
+C1158770||regulation
+C1417102||Mef2c
+C0040649||transcription
+C1417102||MEF2C
+C0162493||up-regulate the transcriptional activities
+C1417102||Mef2c
+C0086860||promoter constructs
+C0314659||3'-end nucleotide sequence
+C1530358||p300
+C0004793||binding site
+C0949632||Electrophoretic mobility shift assays
+C0949632||Electrophoretic mobility shift assays
+C1328856||chromatin immunoprecipitation (ChIP) assays
+C0165230||MyoD
+C1514535||binding site
+C1417102||Mef2c
+C0086860||promoter
+C0086860||promoter
+C0039005||pig
+C1417102||Mef2c gene
+C1417102||Mef2c
+C0086860||promoter
+C1158770||regulation mechanisms
+C1417102||Mef2c
+C1326080||muscle differentiation
+C0185414||muscle repair
+C1850849||regeneration

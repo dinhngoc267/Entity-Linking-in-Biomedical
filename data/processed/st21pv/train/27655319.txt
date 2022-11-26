@@ -1,0 +1,43 @@
+C0016263||flow cytometry
+C0025663||method
+C0442726||detecting
+C1156200||histone acetylation
+C1512474||Histone deacetylase inhibitors
+C0001175||AIDS
+C0012634||diseases
+C0003392||anticancer drugs
+C0025663||method
+C0442726||detecting
+C1156200||histone acetylation
+C0681833||basic
+C0008972||clinical research
+C2603343||study
+C0016263||flow cytometry
+C0025663||method
+C1511790||detect
+C1156200||histone acetylation
+C0020746||ice
+C1822393||room temperature
+C0007605||permeabilization
+C0025663||method
+C0021868||intracellular
+C0028584||nuclear
+C0003241||antibody
+C0522986||antibody titration
+C0003241||antibody
+C0370231||whole blood
+C1321301||peripheral blood mononuclear cells
+C0025663||method
+C0681814||experiment
+C0008976||clinical trial
+C2932486||Chidamide
+C0008115||China
+C2700205||FDA approved HDACi
+C0750484||confirmed
+C0016263||flow cytometry
+C0025663||method
+C0442726||detecting
+C1156200||histone acetylation
+C0025663||method
+C0681833||basic
+C0008972||clinical research

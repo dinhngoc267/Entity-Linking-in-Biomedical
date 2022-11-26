@@ -1,0 +1,54 @@
+C3854164||Genomic analysis
+C0038410||nontypeable pneumococci
+C1320214||invasive pneumococcal disease
+C0037712||South Africa
+C1136170||virulence factor
+C0038410||Streptococcus pneumoniae
+C0358314||pneumococcal vaccines
+C3816499||pathogenic
+C0038410||pneumococci
+C0449943||serologically nontypeable
+C0038410||nontypeable pneumococci
+C0038410||nontypeable pneumococci
+C0038410||nontypeable pneumococci
+C0012634||disease
+C0038410||nontypeable pneumococci
+C1320214||invasive pneumococcal disease
+C0037712||South Africa
+C1764827||Isolates
+C0022877||laboratory
+C1320214||invasive pneumococcal disease
+C0037712||South Africa
+C3854164||genome analysis
+C0449943||serotypes
+C0449943||serotypes
+C0038410||nontypeable pneumococci
+C0038410||nontypeable pneumococci
+C2936544||multilocus sequence typing
+C0162801||sequence analyses
+C1456627||Antimicrobial resistance
+C0449774||patterns
+C0026882||mutations
+C0449943||nontypeability
+C0038410||nontypeable pneumococci
+C0017337||capsular genes
+C0017260||capsular deletion
+C0017337||genes
+C0038410||nontypeable pneumococci
+C1764827||isolates
+C0038410||S. pneumoniae
+C0449943||serotypes
+C0449943||serotypes
+C0449943||serotypes
+C3152625||13-valent pneumococcal conjugate vaccine
+C0026882||mutations
+C0038410||nontypeable pneumococci
+C0449943||nontypeable
+C2827756||Nonsusceptibility
+C0039644||tetracycline
+C0014806||erythromycin
+C0038410||nontypeable pneumococci
+C0038410||S. pneumoniae
+C0038410||nontypeable pneumococci
+C1320214||invasive pneumococcal disease
+C0037712||South Africa

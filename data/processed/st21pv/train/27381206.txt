@@ -1,0 +1,32 @@
+C0007397||Catastrophic
+C0001792||seniors
+C0008115||Shandong, China
+C2603343||study
+C0007397||catastrophic
+C0001792||elderly
+C0008115||Shandong province of China
+C0001792||elderly
+C0936012||analysis
+C0001792||elderly
+C1549113||singles
+C0001792||elderly
+C0001792||elderly
+C0001792||elderly members
+C0008679||non-communicable chronic diseases
+C0001792||elderly
+C0701159||hospitalised
+C0035648||risk factors
+C0021682||Health insurance
+C1549113||singles
+C0001792||elderly
+C0008115||China
+C0243095||findings
+C0021682||insurance
+C0332464||broaden
+C0018747||health services
+C0554896||reimbursement rate
+C0001792||elderly
+C0021682||health insurance
+C1519193||schemes
+C1515021||subgroups
+C0001792||elderly

@@ -1,0 +1,54 @@
+C0031150||Laparoscopic Approach
+C3854551||Thermoablation Microwave
+C0087111||Treatment
+C2239176||Hepatocellular Carcinoma
+C0596545||Experience
+C0543467||surgical therapy
+C2239176||hepatocellular carcinoma
+C2239176||hepatocellular carcinoma
+C0023911||liver transplantation
+C0023911||liver transplantation
+C0400440||hepatic resection
+C3854551||Microwave thermal ablation
+C3854551||Microwave thermal ablation
+C0087111||treatment
+C2239176||hepatocellular carcinoma
+C0023890||cirrhotic liver disease
+C0430022||downstaging
+C0023911||liver transplantation
+C0015252||resective
+C0543467||surgery
+C0027651||oncological
+C0035363||retrospective study
+C0220825||evaluate
+C0596545||experience
+C0031150||laparoscopic approach
+C3854551||Microwave thermal ablation
+C0599755||cohort
+C3854551||Microwave thermal ablation
+C0031150||laparoscopic approach
+C0011289||demographic data
+C3899974||Barcelona clinic liver cancer stage
+C0023890||cirrhotic liver disease
+C0456389||size
+C0547070||ablated
+C0221198||lesion
+C0543467||surgery
+C3854551||Microwave thermal ablation
+C0205054||hepatic
+C4277702||parenchymal
+C0441587||insertions
+C0543467||surgery
+C3163616||blood loss
+C0027540||necrosis
+C0040405||CT scan
+C0039082||syndrome
+C0003964||peritoneal fluid
+C0022354||jaundice
+C0243095||no mortality
+C0031150||Laparoscopic
+C3854551||Microwave thermal ablation
+C0087111||treatment
+C1519810||unresectable
+C2239176||hepatocellular carcinoma
+C0522523||percutaneous

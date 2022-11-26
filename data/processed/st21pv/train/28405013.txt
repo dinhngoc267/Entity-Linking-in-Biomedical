@@ -1,0 +1,39 @@
+C0599155||missense
+C3469921||rs373863828-A (p.Arg457Gln), of CREBRF
+C1305855||body mass index
+C0028754||obesity
+C0022130||island
+C1257890||populations
+C0282279||Oceania
+C2350277||genome-wide association study
+C0599155||missense
+C3469921||rs373863828-A (p.Arg457Gln), of the CREBRF gene
+C1447550||CREB3 regulatory factor
+C1305855||body mass index
+C1305855||body mass index
+C1556103||Samoans
+C3469921||rs373863828-A
+C1305855||body mass index
+C0332128||examined
+C1257890||populations
+C0282279||Oceania
+C3469921||rs373863828-A
+C0337933||Tongans
+C0240790||Polynesians
+C1305855||body mass index
+C3469921||rs373863828-A
+C0002085||allele
+C1305855||body mass index
+C1273937||No significant
+C1511790||detected
+C1257890||populations
+C0337924||Melanesians
+C1556099||Micronesians
+C0037623||Solomon Islands
+C3469921||rs373863828-A
+C3469921||rs373863828-A
+C0002085||allele
+C0337924||Melanesians
+C0030375||Papua New Guinea
+C3469921||rs373863828-A of CREBRF
+C0240790||Polynesians

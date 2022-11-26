@@ -1,0 +1,8 @@
+C0040053||thrombosis
+C0205042||multiple coronary arteries
+C0003873||rheumatoid arthritis
+C0264689||coronary thrombosis of the left main
+C0226032||left anterior descending artery
+C0226042||right coronary artery
+C0430022||diagnosed
+C0003873||rheumatoid arthritis

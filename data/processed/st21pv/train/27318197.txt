@@ -1,0 +1,56 @@
+C1175650||XTHs
+C0017337||genes
+C0347988||heavy metal
+C0025424||mercury
+C0330774||Medicago truncatula
+C1175650||Xyloglucan endotransglucosylase/hydrolases
+C1175650||Xyloglucan endotransglucosylase/hydrolases
+C0014442||enzymes
+C1327622||regulating
+C1156159||cell wall construction
+C0008972||study
+C1175650||XTH protein
+C0017337||genes
+C0330774||Medicago truncatula
+C0017428||genome
+C1140694||bioinformatics
+C0599161||RT-PCR
+C1175650||Xyloglucan endotransglucosylase/hydrolases
+C1514562||highly conserved domain
+C1175650||XTHs
+C0010654||Cys
+C1514562||C terminal region
+C1511997||disulfide bonds
+C1175650||Xyloglucan endotransglucosylase/hydrolases
+C0002518||protein sequences
+C1175650||XTHs
+C1335532||families
+C1335532||family
+C1880951||genomic location
+C0017337||XTH genes
+C0330774||M. truncatula
+C0008633||chromosomes
+C0282688||evolutional expansion
+C0017337||genes
+C0392752||localized
+C0017261||gene duplications
+C1175650||XTHs
+C0347988||heavy metals
+C0017337||XTH genes
+C0347988||heavy metal
+C0025424||Hg
+C0009968||Cu
+C0017337||MtXTH genes
+C0025417||HgCl2
+C0017262||expression
+C0017337||XTH genes
+C0599161||RT-PCR
+C0599161||quantitative RT-PCR
+C0017262||expression
+C0017337||XTH gene
+C0017337||Medtr4g128580
+C0017337||MtXTH3
+C0017337||MtXTH3
+C0025424||Hg
+C0017337||MtXTHs
+C1171362||expressed

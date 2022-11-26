@@ -1,0 +1,46 @@
+C0017853||Glycated Hemoglobin
+C0017853||HbA1c
+C0010054||Coronary Artery Disease
+C0241863||Non-diabetic
+C0019994||Hospital based
+C2603343||Study
+C0017446||North-Eastern India
+C1261236||Glycated Hemoglobin (HbA1c) levels
+C0007222||cardiovascular disease
+C0011849||diabetes mellitus
+C0017853||HbA1c
+C0010054||Coronary Artery Disease
+C0010054||Coronary Artery Disease
+C0241863||non-diabetics
+C0220825||evaluate
+C1261236||HbA1c level
+C0010054||Coronary Artery Disease
+C0599755||cohort
+C0010054||Coronary Artery Disease
+C0002971||angiography
+C1708333||Gauhati Medical College
+C0017446||Guwahati, Assam
+C0021201||India
+C0337954||tertiary care hospital
+C0017446||North-Eastern India
+C0010054||Coronary Artery Disease
+C0002971||angiography
+C1261236||HbA1c levels
+C0010054||Coronary Artery Disease
+C0017853||HbA1c
+C2603343||study
+C0857121||hypertensives
+C0337664||smokers
+C0243095||dyslipidemic
+C0010054||Coronary Artery Disease
+C0005847||vessels
+C1261236||HbA1c level
+C1261236||HbA1c level
+C0020538||hypertension
+C0242339||dyslipidemia
+C0010054||Coronary Artery Disease
+C0008972||clinical study
+C0017853||HbA1c
+C0010054||Coronary Artery Disease
+C0005847||vessels
+C0243095||non- diabetes

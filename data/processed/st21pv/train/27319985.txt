@@ -1,0 +1,36 @@
+C2609414||Acute Kidney Injury
+C0030700||Readmission
+C0018821||Cardiac Surgery
+C2609414||Acute kidney injury
+C2609414||Acute kidney injury
+C0009566||complication
+C0018821||cardiac surgery
+C2609414||Acute kidney injury
+C0010055||coronary artery bypass graft surgery
+C0034975||Northern New England biomarker registry
+C0035078||renal failure
+C1306577||died
+C0030673||index admission
+C2609414||Acute kidney injury
+C0008902||Acute Kidney Injury Network
+C0008902||Acute Kidney Injury Network
+C0282574||state all-payer claims
+C0030700||readmissions
+C3889680||National Death Index
+C0010235||multivariate Cox proportional hazards modeling
+C0030700||readmission
+C1306577||death
+C2609414||Acute kidney injury
+C0008902||Acute Kidney Injury Network
+C0030700||readmissions
+C1306577||deaths
+C2609414||Acute kidney injury
+C0030700||readmission
+C1513916||no
+C2609414||Acute kidney injury
+C2609414||Acute kidney injury
+C2609414||Acute kidney injury
+C0008902||Acute Kidney Injury Network
+C0030700||readmission
+C2609414||Acute kidney injury
+C0030672||health care utilization

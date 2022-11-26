@@ -1,0 +1,33 @@
+C0016377||flurbiprofen
+C0041175||tromethamine
+C0006353||buffered
+C0063242||hydroxypropyl methylcellulose
+C0039225||matrix tablets
+C1254351||drug
+C0039225||matrix tablets
+C0013058||formulation
+C0205160||negatively
+C0220825||evaluation
+C0006353||buffering
+C0039225||matrix tablets
+C1254351||weak acid drug
+C0016377||flurbiprofen
+C0063242||hydroxypropyl methylcellulose
+C0063242||hydroxypropyl methylcellulose
+C0017243||matrix gel layer
+C0041175||tromethamine
+C0006353||buffer
+C0041175||tromethamine
+C0304463||alkalizing agent
+C0016377||flurbiprofen
+C0063242||HPMC 2910 (E series)
+C0063242||2208 (K series)
+C0442797||decreasing
+C1254351||drug
+C0243095||pH-changes
+C0041175||tromethamine
+C0063242||hydroxypropyl methylcellulose
+C1254351||drug
+C0234112||facilitation
+C1254351||deleterious drugs
+C0006353||buffering species

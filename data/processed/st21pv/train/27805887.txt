@@ -1,0 +1,38 @@
+C0399059||Successful Restoration
+C0021156||Primary Incisors
+C3853546||Crowns
+C0600659||manuscript
+C0399059||restoring
+C0021156||primary anterior teeth
+C0017597||glass ionomer post
+C3853546||crowns
+C0010163||esthetic
+C0399059||restoration
+C0021156||primary anterior teeth
+C0011334||decayed
+C0021156||upper primary incisors
+C0671561||Fuji IX
+C0282543||intracanal space
+C0205125||depth
+C0444669||core
+C0086959||supragingivally
+C0399013||Crown preparations
+C0444669||cores
+C3853546||crowns
+C0947322||Nusmile
+C3812709||Houston Texas
+C0041703||USA
+C0011343||cemented
+C0444669||cores
+C1707680||recalled
+C0399059||restorations
+C2603343||study
+C0399059||restorations
+C0038953||Kaplan-Meier survival analysis
+C0376583||clinical technique
+C0399059||restoration
+C0011334||decayed
+C0021156||primary incisors
+C3853546||crowns
+C0399059||restorations
+C0541981||gingival response

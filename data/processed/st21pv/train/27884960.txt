@@ -1,0 +1,59 @@
+C0031603||inorganic phosphate
+C0026820||tetanic contractions
+C0242692||skeletal muscle
+C1383501||cytosolic
+C0031603||inorganic phosphate
+C0031603||pronounced when initial
+C0026820||contraction
+C0231530||twitch
+C0026820||tetanic contractions
+C0242873||fast-twitch muscle
+C2265877||crossbridge cycling
+C0231530||twitch
+C0026820||tetanic contractions
+C0031603||pronounced when initial
+C0031603||pronounced when initial
+C0231530||twitch
+C0441610||reductions
+C0031603||pronounced when initial
+C0031603||pronounced when initial
+C0679083||simulated
+C0031603||pronounced when initial
+C0031603||pronounced when initial
+C0031603||pronounced when initial
+C0231530||Fast-twitch
+C0224464||extensor digitorum longus (EDL) muscles
+C0031603||pronounced when initial
+C0231530||slow-twitch
+C0242694||soleus muscles
+C1514892||resistant
+C0031603||pronounced when initial
+C1521751||C57BL/6 mice
+C0026845||Muscles
+C1439852||incubated
+C0017725||glucose
+C0244104||pyruvate
+C0031603||pronounced when initial
+C0014406||environments
+C0231530||Twitch
+C0244104||pyruvate
+C0017725||glucose
+C0026845||muscles
+C0231530||twitch
+C0017725||glucose
+C0244104||pyruvate
+C0224464||extensor digitorum longus
+C0244104||pyruvate
+C0017725||glucose
+C0017725||glucose
+C0244104||pyruvate
+C0242694||soleus
+C0244104||pyruvate
+C0017725||glucose
+C0031603||pronounced when initial
+C2265877||crossbridge cycling
+C0031603||pronounced when initial
+C0231530||fast-twitch
+C0231530||slow-twitch muscle
+C0681841||explanation
+C0242697||fiber-type

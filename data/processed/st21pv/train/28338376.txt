@@ -1,0 +1,45 @@
+C3658706||Pembrolizumab
+C0087111||treatment
+C0007131||non-small cell lung cancer
+C0876248||immunotherapeutic agents
+C2986635||PD-1
+C0243077||checkpoint inhibitors
+C0087111||treatment
+C0242379||lung cancer
+C1708063||first
+C1710038||second line
+C0013221||toxicity
+C0087111||treat
+C0337664||smokers
+C0259990||oncologist
+C0282443||review
+C0008976||clinical trials
+C3658706||pembrolizumab
+C0087111||treatment
+C0007131||non-small cell lung cancer
+C3812881||authors
+C1708063||first
+C1710038||second line treatment
+C3658706||pembrolizumab
+C0087111||monotherapy
+C0013218||combination therapies
+C0020980||immunohistochemistry assay
+C0003241||22C3 antibody
+C0008967||clinical practice
+C0008976||trials
+C3272903||overall response
+C0013221||toxicity
+C3658706||pembrolizumab
+C3665472||chemotherapy
+C1708063||first
+C1710038||second line
+C1514821||registration
+C3658706||pembrolizumab
+C1708063||first
+C1710038||second line
+C1171362||expression
+C0487602||staining
+C0919876||responders
+C0919875||non-responders
+C0243077||checkpoint inhibitors
+C0005516||biomarker

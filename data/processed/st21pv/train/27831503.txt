@@ -1,0 +1,51 @@
+C0206034||randomized trial
+C0754728||TLR-2
+C2987634||agonist
+C2703083||CADI-05
+C1453561||desmocollin-3
+C0007131||non-small-cell lung cancer
+C0206035||Randomized controlled trial
+C0220825||evaluate
+C0013215||synergy
+C0215136||taxane
+C0032207||platinum
+C3665472||chemotherapy
+C2703083||CADI-05
+C0754728||Toll like receptor-2
+C2987634||agonist
+C1453561||desmocollin-3
+C1708063||first-line therapy
+C0007131||non-small-cell lung cancer
+C0007131||non-small-cell lung cancer
+C0007131||non-small-cell lung cancer
+C3815594||randomized
+C0280455||cisplatin-paclitaxel
+C3665472||chemotherapy
+C0280455||cisplatin-paclitaxel
+C2703083||CADI-05
+C2986423||chemoimmunotherapy
+C2703083||CADI-05
+C3665472||chemotherapy
+C1302181||cycle
+C0242656||disease progression
+C0392366||log-rank test
+C0040405||Computed tomography
+C1302181||cycles
+C1302181||cycles
+C0220825||evaluated
+C1709926||Response Evaluation Criteria in Solid Tumors
+C0260194||independent radiologist
+C2718028||intention-to-treat analysis
+C0936012||subgroup analysis
+C0027671||squamous NSCC
+C2986423||chemoimmunotherapy
+C1302181||cycles
+C3665472||chemotherapy
+C2986423||chemoimmunotherapy
+C3665472||chemotherapy
+C2986423||chemoimmunotherapy
+C0877248||Systemic adverse events
+C2703083||CADI-05
+C0280455||cisplatin-paclitaxel
+C0007131||non-small-cell lung cancer
+C0221910||squamous cell subset

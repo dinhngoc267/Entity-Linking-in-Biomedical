@@ -1,0 +1,44 @@
+C1677085||Chironomus riparius
+C0023047||larvae
+C0723796||trace metal
+C1720817||landfill leachate
+C0337048||pond
+C0018627||wastes
+C1720817||leachates
+C0723796||trace metal
+C0723796||trace metal
+C0018017||objectives
+C2603343||study
+C0723796||TMs
+C0150312||present
+C0043047||water
+C0442537||reservoir
+C1720817||landfill leachates
+C3539073||in the field
+C1677085||Chironomus riparius
+C0023047||larvae
+C0043047||water
+C0597177||particles
+C0723796||TMs
+C0003818||As
+C0006632||Cd
+C0009968||Cu
+C0028013||Ni
+C0023175||Pb
+C0043481||Zn
+C0723796||TMs
+C0013879||element
+C0006632||Cd
+C0023175||Pb
+C0597177||particles
+C0723796||TMs
+C0016640||fractionation
+C1820051||cytosolic
+C0150543||detoxification
+C0879626||deleterious effects
+C0237401||individual
+C4055506||accumulation
+C0723796||TMs
+C1677085||C. riparius
+C0023047||larvae
+C0040300||tissues

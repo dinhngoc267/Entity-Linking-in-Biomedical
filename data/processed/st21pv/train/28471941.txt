@@ -1,0 +1,71 @@
+C0681833||Basic science
+C0699748||pathogenesis
+C0001811||ageing
+C0019693||HIV
+C0005516||biomarkers
+C0233481||worrisome
+C0001811||ageing
+C0019693||HIV-infected
+C0936012||analyse
+C0001811||ageing
+C0019693||HIV infection
+C0001811||Ageing
+C4055506||accumulation
+C1516924||Epigenetic modifications
+C0012929||mitochondrial DNA
+C0443264||modulate
+C0001811||ageing
+C1963724||antiretroviral treatment
+C0085759||epigenetic clock
+C0019693||HIV infection
+C1515263||Telomere shortening
+C0019693||HIV-infected
+C0019682||HIV
+C1579410||nucleoside analogue
+C0282519||reverse transcriptase inhibitors
+C0026237||Mitochondria
+C0242606||oxidative stress
+C0012929||mitochondrial DNA
+C0026882||mutations
+C0001811||ageing
+C1579410||nucleoside analogue
+C0282519||reverse transcriptase inhibitors
+C0021368||inflammation
+C0021368||inflammageing
+C0001811||ageing
+C0007581||cell senescence
+C0243042||proinflammatory mediators
+C0275524||coinfections
+C0019693||HIV-infected
+C0021368||inflammation
+C0042776||virus
+C0042736||viral protein
+C0019682||HIV
+C0699819||gut
+C3658208||dysbiosis
+C1963724||antiretroviral treatment
+C0010825||cytomegalovirus
+C0220847||hepatitis C virus
+C0275524||coinfections
+C0333574||fat accumulation
+C0678209||Adaptive immune
+C0596761||immunosenescence
+C0683971||general population
+C0019693||HIV-infected
+C0005516||Biomarkers
+C0220825||evaluate
+C0001811||ageing
+C0019693||HIV-infected
+C0440752||cellular inflammatory
+C0242606||oxidative stress
+C0005516||markers
+C0229671||serum
+C1321301||peripheral blood mononuclear cells
+C0015176||European
+C2603343||Study
+C0005516||Biomarkers
+C0002045||Human Ageing MARK-AGE algorithm
+C0220825||evaluating
+C0019693||HIV-infected
+C0005516||markers
+C1522577||follow-up

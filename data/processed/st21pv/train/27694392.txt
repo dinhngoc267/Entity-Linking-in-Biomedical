@@ -1,0 +1,59 @@
+C0042866||Vitamin D
+C0005516||Biomarkers
+C0005516||biomarkers
+C0008902||misclassification
+C0237401||individuals
+C0005516||markers
+C1159433||vitamin D metabolism
+C2603343||repeatability study
+C0004153||Atherosclerosis
+C1997894||Communities study participants
+C0005680||black
+C1976106||Fasting
+C0229671||serum
+C0042872||Vitamin D binding protein
+C0042872||Vitamin D binding protein
+C0535968||25-hydroxyvitamin D
+C0535968||25(OH)D
+C0872318||LC-MS
+C0016026||fibroblast growth factor
+C0016026||FGF23
+C0030520||parathyroid hormone
+C0030520||parathyroid hormone
+C0086231||enzyme-linked immunoassay
+C0006675||calcium
+C0031705||phosphorus
+C0022885||Roche Cobas 6000
+C0535968||25(OH)D
+C0006675||calcium
+C0001924||albumin
+C0535968||25(OH)D
+C0042872||Vitamin D binding protein
+C0031705||phosphorus
+C1550465||intermediate
+C0535968||25(OH)D
+C0535968||25(OH)D
+C0030520||parathyroid hormone
+C0016026||FGF23
+C0008902||Reclassification
+C0030520||parathyroid hormone
+C0042872||Vitamin D binding protein
+C0031705||phosphorus
+C0535968||25(OH)D
+C0535968||25(OH)D
+C0535968||25(OH)D
+C0030520||parathyroid hormone
+C0005516||biomarkers
+C0042872||Vitamin D binding protein
+C0006675||calcium
+C0031705||phosphorus
+C0016026||FGF23
+C0030520||parathyroid hormone
+C0016026||FGF23
+C0030520||parathyroid hormone
+C0008902||misclassification
+C0233820||insight
+C0008902||misclassification
+C0042866||vitamin D
+C0005516||markers
+C0035168||research

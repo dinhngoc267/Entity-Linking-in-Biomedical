@@ -1,0 +1,49 @@
+C0033684||MagR
+C2754478||Cellular Calcium Responses
+C1292856||Stimulation
+C0947647||manipulation
+C0007613||cell activity
+C0947647||optical manipulation
+C0033684||MagR protein
+C0872079||interaction
+C2717939||cryptochrome
+C2717939||cryptochrome
+C0033684||protein
+C1292856||stimulation
+C1292856||magnetic stimulation
+C0220825||investigation
+C0033684||MagR
+C2754478||cellular response
+C1292856||magnetic stimulation
+C2603343||study
+C0033684||MagR
+C1171362||expression
+C1326120||cellular activation
+C1292856||magnetic stimulation
+C0178719||intracellular
+C0006675||calcium
+C1292856||magnetic stimulation
+C0442711||protocols
+C0442726||detect
+C0007634||cellular
+C0027882||neuronal
+C1292856||magnetic stimulation
+C0033684||MagR
+C1171362||expressing
+C2936239||HEK cells
+C0027882||neurons
+C0205095||dorsal
+C0017070||root ganglion
+C0019564||hippocampus
+C0027882||neurons
+C1171362||co-expressing
+C0033684||MagR
+C3253054||channelrhodopin
+C1292856||optical
+C1292856||magnetic stimulation
+C3158761||calcium influx
+C0019564||hippocampal
+C0027882||neurons
+C0033684||MagR
+C0007634||cellular
+C2754103||magnetic responses

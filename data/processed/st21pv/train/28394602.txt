@@ -1,0 +1,33 @@
+C0001407||A
+C0040087||T
+C0012854||DNA
+C0600436||Base Pair
+C0037806||Transient electronic and vibrational absorption spectroscopies
+C0001407||adenine
+C0040087||thymine
+C0001407||A
+C0040087||T
+C0012854||DNA
+C0600436||base pair
+C3178796||motifs
+C0001407||A
+C0029224||8-(tert-butyl)-9-ethyladenine
+C0029224||8-(tert-butyl)-9-ethyladenine
+C0029224||8-(tert-butyl)-9-ethyladenine
+C0040087||silyl-protected T
+C0028621||nucleosides
+C0008238||chloroform
+C0600436||WC pairs
+C0600436||reverse WC pairs
+C0596973||residual monomers
+C0037806||transient absorption studies
+C0018321||guanine
+C0010843||cytosin
+C0018321||G
+C0010843||C
+C0600436||pairs
+C0029224||8-(tert-butyl)-9-ethyladenine
+C0040087||T
+C0600436||pairs
+C0029224||8-(tert-butyl)-9-ethyladenine
+C0040087||T

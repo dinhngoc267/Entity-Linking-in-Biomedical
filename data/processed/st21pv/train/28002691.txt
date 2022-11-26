@@ -1,0 +1,20 @@
+C3489777||Silorane-based Resin Composites
+C0282443||Review
+C1706852||article
+C0282443||review
+C0035168||research
+C3489777||silorane-based resin composites
+C3489777||silorane-based resin composites
+C0009570||methacrylate-based resin composites
+C0009570||methacrylate-based resin composites
+C0242981||marginal adaptation
+C2826293||clinical significance
+C3489777||silorane-based resin composites
+C0040426||tooth structure
+C0282441||peer-reviewed dental literature
+C1138432||PubMed
+C0025141||MEDLINE
+C0242356||databases
+C3489777||silorane composites
+C1706852||articles
+C0018017||objectives

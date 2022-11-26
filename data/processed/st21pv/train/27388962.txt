@@ -1,0 +1,10 @@
+C0032961||Pregnancy
+C0032972||Outcome
+C0150600||traditional advice
+C0032961||pregnancy
+C0032961||pregnancy
+C0033011||pregnant woman
+C0001701||aerobic exercises
+C2603343||studies
+C0853204||no adverse
+C0032972||outcomes

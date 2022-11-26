@@ -1,0 +1,38 @@
+C0065331||Lycopene
+C0007222||cardiovascular diseases
+C0920317||meta-analysis
+C0920317||meta-analysis
+C0065331||lycopene
+C0007222||cardiovascular diseases
+C0007222||cardiovascular diseases
+C2603343||Studies
+C0065331||lycopene
+C0007222||cardiovascular diseases
+C1138432||Pubmed
+C0282574||Embase
+C0282574||Web of Science
+C2603343||eligible studies
+C0065331||lycopene
+C0007222||cardiovascular diseases
+C0243095||Findings
+C0012155||dietary
+C2603343||studies
+C0005516||biomarker
+C2603343||studies
+C0012155||Dietary
+C0065331||lycopene
+C0010068||coronary heart disease
+C0010068||coronary heart disease
+C0038454||stroke
+C0065331||lycopene
+C0005516||biomarker
+C0038454||stroke
+C1515021||Subgroup
+C0936012||analyses
+C0035363||retrospective
+C2603343||studies
+C0065331||lycopene
+C0007222||cardiovascular diseases
+C0206034||randomized clinical trials
+C0065331||lycopene
+C0007222||cardiovascular diseases

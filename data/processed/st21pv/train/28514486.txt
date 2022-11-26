@@ -1,0 +1,78 @@
+C1254351||Pharmacologic
+C0087111||Cotreatment
+C0040615||Antipsychotic
+C0087111||Monotherapy
+C0036341||Schizophrenia
+C0920317||Meta-analytic
+C0087111||treatment
+C0036341||schizophrenia
+C0040615||antipsychotic drug
+C0087111||treatment
+C0033978||psychotropic
+C0013227||medication
+C0220825||evaluation
+C0013227||medication
+C0013162||combinations
+C0920317||meta-analytically
+C1254351||pharmacologic
+C0013162||combination
+C0040615||antipsychotic drugs
+C0036341||schizophrenia
+C1138432||PubMed
+C0920317||Meta-analyses
+C0206034||randomized clinical trials
+C0040615||antipsychotic drugs
+C0040615||antipsychotic
+C0013227||nonantipsychotic medications
+C1696465||placebos
+C0040615||antipsychotic
+C0087111||monotherapy
+C0036341||schizophrenia
+C1882950||reviewers
+C0025663||methods
+C0920317||meta-analyses
+C1955832||Measurement Tool to Assess Systematic Reviews
+C1955832||A Measurement Tool to Assess Systematic Reviews
+C1828170||standardized mean difference
+C0013162||combinations
+C0040615||antipsychotic drug
+C0013162||combinations
+C0009079||clozapine
+C1457887||symptom
+C1446409||positive
+C0205160||negative
+C1457887||symptoms
+C0582427||treatment recommendations
+C0231184||inefficacies
+C0086132||depressive symptoms
+C0457454||discontinuation
+C0087111||treatment
+C0231184||inefficacies
+C0920317||meta-analyses
+C0013162||combination
+C0237401||individual
+C0679646||participants
+C1457887||symptom
+C0441610||reductions
+C0040615||antipsychotic drug
+C0009079||clozapine
+C0013162||combination
+C0087111||treatments
+C1828170||standard mean difference
+C0013162||combination
+C0009079||clozapine
+C0025663||methods
+C0920317||meta-analyses
+C0920317||meta-analyzed studies
+C0582427||Treatment recommendations
+C0920317||Meta-analyses
+C1446409||positively
+C0920317||meta-analyzed study
+C1704726||confidence
+C0920317||meta-analyses
+C1257890||subpopulations
+C0013162||combination
+C0087111||treatment
+C0036341||schizophrenia
+C0920317||meta-analytic
+C0023866||literature

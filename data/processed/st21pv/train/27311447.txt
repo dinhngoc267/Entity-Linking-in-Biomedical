@@ -1,0 +1,40 @@
+C0035649||risk
+C0040508||total hip arthroplasty
+C0205511||direct anterior approach
+C0025080||dual mobility cup
+C0035649||risks
+C0025080||dual mobility cup
+C0025080||dual mobility cup
+C0040508||THA
+C0205511||direct anterior approach
+C0205511||direct anterior approach
+C2603343||study
+C1705187||safety
+C0032787||postoperative complication
+C0205511||direct anterior approach
+C0025080||dual mobility cup
+C0040508||THA
+C0205511||direct anterior approach
+C0025080||single standard cup
+C0025080||dual mobility cup
+C0019552||hips
+C0087111||treated
+C0205511||direct anterior approach
+C0019552||hips
+C0087111||treated
+C0205511||direct anterior approach
+C0021890||intra
+C0009566||complication
+C0025080||dual mobility cup
+C1513916||No
+C0021890||intraoperative complications
+C1265658||anterior dislocation
+C4040051||periprosthetic hip fracture
+C0205511||direct anterior approach
+C0205511||direct anterior approach
+C0205511||direct anterior approach
+C0025080||dual mobility cup
+C1705187||safety
+C0025080||dual mobility cup
+C0205511||direct anterior approach
+C0025080||standard single mobility cup

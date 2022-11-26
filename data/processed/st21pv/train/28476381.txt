@@ -1,0 +1,34 @@
+C0275522||asymptomatic presentation
+C0005695||bladder cancer
+C0347002||metastatic to the penis
+C0347002||Penile metastasis
+C0678236||extremely rare event
+C0030797||pelvic
+C0475445||tumor sites
+C0005682||urinary bladder
+C0017189||gastro-intestinal tract
+C0033572||prostate
+C0035237||respiratory system
+C0005967||bone tumors
+C0025202||melanoma
+C0751571||bladder urothelial cancer
+C0030851||penis
+C0231221||no relevant clinical symptoms
+C0221198||lesions
+C0302180||condylomata
+C0019637||histological
+C2145472||bladder urothelial carcinoma
+C0567322||history of bladder
+C2145472||urethral carcinoma
+C1335292||histological pagetoid spread
+C2145472||urothelial cancer
+C0227948||to the glans
+C0278827||Recurrent bladder urothelial carcinoma
+C0042779||visceral
+C0012634||disease
+C0231221||asymptomatic
+C0037284||skin lesion
+C0231221||cases were asymptomatic
+C0347002||superficial penis metastases
+C0278250||fairy good prognosis
+C0567322||history of bladder cancer

@@ -1,0 +1,47 @@
+C0751968||activators
+C0086418||human
+C0914906||constitutive androstane receptor
+C0026383||structure
+C0025663||methods
+C0914906||constitutive androstane receptor
+C0914906||constitutive androstane receptor
+C0663285||NR1I3)
+C2755857||regulates the expression
+C0683140||drug-metabolizing
+C0014442||enzymes
+C0007292||transporters
+C0041904||upregulation
+C0014442||enzymes
+C0534137||CYP2B6
+C0914906||constitutive androstane receptor
+C0751968||activators
+C0687133||drug-drug interactions
+C0687133||drug-drug interactions
+C1516769||computational approaches
+C0914906||constitutive androstane receptor
+C3161035||models
+C0914906||constitutive androstane receptor
+C1514758||activating
+C1254351||compounds
+C0920472||drug-discovery
+C3161035||Models
+C1513380||comparative molecular field analysis
+C1513380||comparative molecular field analysis
+C1517880||ligands binding
+C0914906||constitutive androstane receptor
+C1522290||ligand-docking
+C1254351||28 compounds
+C1513380||comparative molecular field analysis
+C3161035||model
+C3161035||model
+C0914906||constitutive androstane receptor
+C1514758||activation
+C1254351||compounds
+C1519941||external validation
+C3161035||model
+C0914906||constitutive androstane receptor
+C1514758||activating
+C1254351||drug candidates
+C0687133||DDI
+C0014431||enzyme-induction
+C0920472||drug-discovery

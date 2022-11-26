@@ -1,0 +1,30 @@
+C0021167||Incontinence
+C0011603||dermatitis
+C0879626||adverse events
+C0021167||Incontinence
+C0011603||dermatitis
+C0011603||Incontinence -associated dermatitis
+C0033213||problem
+C0015732||faecal
+C0042024||urinary incontinence
+C0042036||Urine
+C1123023||skin
+C0314761||flora
+C0221921||stratum corneum
+C0015733||faecal
+C0014442||enzymes
+C1123023||skin
+C0015733||Faecal
+C0004611||bacteria
+C1123023||skin
+C0442886||secondary infection
+C0011603||Incontinence -associated dermatitis
+C0199176||prevented
+C0455082||skin cleansing
+C0085099||HARTMANN incontinence pads
+C0011603||Incontinence -associated dermatitis
+C1123023||skin's
+C1123023||skin
+C2246986||barrier function
+C3714514||infection
+C1123023||skin

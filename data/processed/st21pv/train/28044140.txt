@@ -1,0 +1,37 @@
+C0016006||Fibrinogen
+C0005516||Marker
+C1456868||Diabetic Foot Ulcer
+C0220825||examine
+C1318051||fibrinogen levels
+C0005516||biomarker
+C0220825||assessing
+C1283169||monitoring
+C0242656||disease progression
+C1456868||diabetic foot ulcer
+C1456868||diabetic foot ulcer
+C0035363||retrospective study
+C0016006||fibrinogen
+C1456868||diabetic foot ulcer
+C0809949||admitted
+C0019994||hospital
+C1456868||diabetic foot ulcer
+C0011849||diabetes
+C1456868||diabetic foot ulcer
+C1456868||diabetic foot ulcer
+C1456868||diabetic foot ulcer
+C1515021||subgroups
+C1318051||fibrinogen values
+C1456868||diabetic foot ulcer
+C0441800||grade
+C1456868||diabetic foot ulcer
+C0441800||grades
+C0002688||amputation
+C1318051||Fibrinogen values
+C0428528||CRP levels
+C0200633||neutrophil
+C0023508||WBC count
+C1318051||Fibrinogen levels
+C0220825||assessing
+C1283169||monitoring
+C0242656||disease progression
+C1456868||diabetic foot ulcer

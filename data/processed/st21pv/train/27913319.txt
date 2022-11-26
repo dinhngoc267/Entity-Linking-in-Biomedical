@@ -1,0 +1,28 @@
+C0085104||drug delivery
+C1515655||in vivo
+C0936012||analyze
+C0085104||deliver drugs
+C0003392||anticancer agents
+C1533734||administering
+C0013227||drugs
+C0031327||kinetics
+C0040300||tissues
+C0600688||toxicity
+C0237096||residence
+C0040300||tissues
+C0242821||body
+C0231360||release pattern
+C0031327||pharmacokinetics
+C0600688||toxicity
+C0040300||tissues
+C0087101||total body clearance
+C0085104||drug delivery
+C0040300||tissues
+C0040300||tissues
+C0013221||drug toxicity
+C0013227||drug
+C1533734||administered
+C0025663||methods
+C0872152||developing
+C1257890||populations
+C0237401||individuals

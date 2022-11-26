@@ -1,0 +1,11 @@
+C0084937||C-5a-substituted validamine type
+C1960098||glycosidase inhibitors
+C1254351||N-alkyl derivatives
+C0005220||D-galactosidase
+C0014432||inhibitor
+C1254351||1,4-di-epi-validamine
+C0373483||screened
+C0017976||glycosidase
+C1524081||inhibitory properties
+C0005220||β-galactosidases
+C1260223||β-glucosidases

@@ -1,0 +1,38 @@
+C0920367||Optical Coherence Tomography
+C0271084||Exudative Age-Related Macular Degeneration
+C0008520||choroidal
+C0678594||structural
+C0271084||exudative age-related macular degeneration
+C0242383||age-related macular degeneration
+C0920367||spectral domain optical coherence tomography
+C0011923||depth imaging
+C0150093||case series
+C0205092||unilateral
+C0271084||exudative AMD
+C0008520||Choroidal
+C0011923||images
+C0524462||luminal
+C0205146||area
+C0524462||luminal
+C0205146||area
+C0205146||area
+C2603343||study
+C0015392||eyes
+C0242383||age-related macular degeneration
+C0015392||eyes
+C0271084||exudative AMD
+C0524462||Luminal area
+C0015392||eyes
+C0271084||exudative AMD
+C0205146||area
+C2603343||study
+C0015392||eyes
+C0015392||Eyes
+C0271084||exudative AMD
+C0015392||eyes
+C0243095||noninvasive tool
+C2603343||studying
+C0678594||structural
+C0008520||choroid
+C0008521||choroidal disease
+C0271084||exudative AMD

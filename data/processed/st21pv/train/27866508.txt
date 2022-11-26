@@ -1,0 +1,21 @@
+C0204512||psychiatric rehabilitation
+C0041703||USA
+C0596070||American
+C0035173||researchers
+C2700280||world
+C0220825||evaluating
+C0205221||disseminating
+C0204512||psychiatric rehabilitation
+C0027361||people
+C0004936||mental illness
+C0041703||USA
+C0034379||high-quality
+C0025355||mental health
+C3526598||psychiatric services
+C0684224||essay
+C0041703||USA
+C0034024||practices
+C0027361||people
+C0025355||services
+C0034024||practices
+C0023185||learning

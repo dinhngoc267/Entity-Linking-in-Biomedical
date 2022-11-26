@@ -1,0 +1,50 @@
+C0678941||gene variants
+C0036341||schizophrenia
+C0036341||Schizophrenia
+C1858576||heterogeneous disorder
+C0036341||schizophrenia
+C0012655||susceptibility
+C0017337||genes
+C2717878||genetic association studies
+C1457887||symptoms
+C0017337||genes
+C0017337||genes
+C0036341||schizophrenia
+C0036341||schizophrenia
+C0036341||schizophrenia
+C0012655||susceptibility
+C0017337||genes
+C0036341||schizophrenia
+C0678941||gene variant
+C0752046||SNPs
+C0017337||genes
+C3178894||genotyped
+C0238711||Australian
+C0679646||participants
+C0036341||schizophrenia
+C0220908||screened
+C0036341||Schizophrenia
+C0679646||participants
+C0009085||cluster analysis
+C1882115||normalized
+C1882115||normalized
+C0034980||linear regression analysis
+C1457887||symptoms
+C0011570||depression
+C0037822||speech disorder
+C0018524||hallucination
+C1457887||symptoms
+C0011253||delusion
+C1457887||symptoms
+C0752046||SNPs
+C1457887||symptoms
+C0752046||SNPs
+C1457887||symptoms
+C0752046||SNPs
+C1457887||symptoms
+C0012655||susceptibility
+C0017337||genes
+C0036341||schizophrenia
+C0599755||cohorts
+C0442726||detection
+C0036341||schizophrenia

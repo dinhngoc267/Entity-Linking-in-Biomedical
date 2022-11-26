@@ -1,0 +1,31 @@
+C0263338||chronic urticaria
+C0263338||Chronic urticaria
+C0456389||sizes
+C0205099||central
+C0030232||pallor
+C0012634||disease
+C1692321||cellular infiltrate
+C0027950||neutrophils
+C0024264||lymphocytes
+C0014467||eosinophils
+C0014467||eosinophilic
+C1304205||neutrophilic urticaria
+C0087111||treatment
+C0003360||antihistamines
+C0003360||antihistamine
+C0013227||drugs
+C0332448||infiltration
+C0263338||chronic urticaria
+C0005558||biopsies
+C0521982||response to treatment
+C0263338||chronic urticaria
+C0012634||disease
+C0521982||response to treatment
+C1692321||perivascular infiltrate
+C0541629||Inflammatory infiltrates
+C0014467||eosinophilic
+C0027950||neutrophilic
+C0541629||eosinophilic infiltrate
+C0541629||eosinophilic inflammatory infiltrates
+C0037088||clinical activity
+C0012634||disease

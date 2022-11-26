@@ -1,0 +1,46 @@
+C0026081||Upper Midwestern United States
+C0242767||Stem
+C0041703||United States
+C0041703||United States
+C0175169||historical states
+C0026081||upper Midwestern US
+C0026183||Minnesota
+C0043193||Wisconsin
+C0038951||Century Public Land Survey System
+C0038951||Public Land Survey System
+C1282910||above-ground
+C0242767||stem
+C0205112||basal area
+C0040811||tree
+C0815259||sampling design
+C0040811||tree
+C0041703||United States
+C0242356||Forest Inventory and Analysis (FIA) data
+C0205219||diffuse
+C0242356||Forest Inventory and Analysis
+C0243095||no longer
+C0884985||tamarack
+C1709272||northeastern
+C0026183||Minnesota
+C0242872||hemlock
+C0949849||cedar
+C0043193||north-central Wisconsin
+C0025939||Upper Peninsula of Michigan
+C0330531||elm
+C0330302||oak
+C1024812||basswood
+C0330803||ironwood
+C0442534||prairie boundary
+C0026183||south central Minnesota
+C1707877||eastern
+C0043193||Wisconsin
+C0242356||Forest Inventory and Analysis
+C0017446||region
+C0026081||upper Midwest
+C1883067||spatial
+C0335141||managers
+C0870781||landscape
+C0037775||spatial distributions
+C0032098||species
+C0086418||human
+C0332464||broad

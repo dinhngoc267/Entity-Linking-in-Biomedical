@@ -1,0 +1,74 @@
+C1999758||Scutellaria barbata D. Don extract
+C0013081||down-regulating
+C0039198||Treg cells
+C2584326||manipulating
+C1155080||Th1
+C3156592||Th17 immune response
+C0025929||mice
+C1999758||Scutellaria barbata D. Don extract
+C1999758||SBE
+C0018282||inhibitor
+C0023903||hepatoma
+C1817756||immune function
+C0025929||mice
+C1148560||immunomodulatory function
+C1999758||SBE
+C0023903||hepatoma
+C2603343||study
+C1999758||SBE
+C0025929||mice
+C1148560||immunomodulatory function
+C0025929||mice
+C1999758||SBE
+C1999758||SBE
+C0596290||proliferation
+C2717940||HepG2 cells
+C1159807||cytotoxicity of natural killer (NK) cells
+C0037993||spleen
+C3830403||CD4(+)CD25(+)Foxp3(+) Treg cells
+C2936411||Th17 cells
+C0475358||tumor tissue
+C3179724||IL-10
+C0076930||TGF-β
+C1705947||IL-17A
+C0021756||IL-2
+C0211279||IFN-γ
+C0229671||serum
+C0025929||mice
+C1705947||IL-17A
+C1999758||SBE
+C0025929||mice
+C2987620||inoculation
+C1999758||SBE
+C0596290||proliferation
+C2717940||HepG2 cells
+C0025929||mice
+C1159807||NK cells' cytotoxicity
+C0037993||spleen
+C0013081||down-regulated
+C3830403||CD4(+)CD25(+)Foxp3(+) Treg cells
+C2936411||Th17 cells
+C0475358||tumor tissue
+C3179724||IL-10
+C0076930||TGF-β
+C1705947||IL-17A
+C0021756||IL-2
+C0211279||IFN-γ
+C0229671||serum
+C0025929||mice
+C0025929||recombinant mouse
+C1705947||IL-17A
+C1999758||SBE
+C1999758||SBE
+C0596290||proliferation
+C2717940||HepG2 cells
+C1999758||SBE
+C0007595||growth
+C0027651||implanted tumor
+C0025929||mice
+C1148560||immunomodulatory activity
+C0013081||down-regulating
+C0039198||Treg cells
+C2584326||manipulating
+C1155080||Th1
+C3156592||Th17 immune response

@@ -1,0 +1,9 @@
+C0033572||prostate
+C1868729||Prostatic calcification
+C0149525||prostatic calculus
+C1257890||population
+C0085696||chronic prostatitis
+C1868729||prostatic calcification
+C0033572||gland
+C0033572||glandular prostate
+C0006736||stone

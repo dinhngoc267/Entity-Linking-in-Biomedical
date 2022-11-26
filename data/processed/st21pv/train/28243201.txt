@@ -1,0 +1,75 @@
+C0376452||DNA Methylation
+C0041366||Biomarkers
+C3665472||Chemotherapy
+C0521982||Response
+C1527249||Colorectal Cancer
+C0013203||Resistance
+C0016360||5-Fluorouracil
+C0016360||5-Fluorouracil
+C1527249||colorectal cancer
+C1527249||colorectal cancer
+C0376452||DNA methylation
+C0277556||recurrent disease
+C0013203||drug resistance
+C0008972||study
+C0376452||methylation
+C1527249||colorectal cancer
+C0041366||markers
+C3665472||chemotherapy
+C0521982||response
+C0376452||DNA methylation
+C1527249||colorectal cancer
+C1880239||Illumina Infinium HumanMethylation450 Beadchip assay
+C1527249||colorectal cancer
+C0334227||cells
+C0521982||response
+C0016360||5-Fluorouracil
+C0376452||global methylation
+C0282639||HT29
+C0085983||SW48
+C0016360||5-Fluorouracil
+C0376452||DNA methylation
+C0049065||5-aza-2'-deoxycytidine
+C0049065||5-aza-2'-deoxycytidine
+C1254351||drug
+C0456387||classes
+C0007620||cell viability
+C0376452||global methylation
+C1979963||profiles
+C2350277||genome-wide methylation study
+C1527249||CRCs
+C0376452||methylation
+C1527249||CRCs
+C0017337||methylated genes
+C0017337||genes
+C0243095||hyper
+C0017337||genes
+C0243095||hypomethylated
+C0017337||hypermethylated and hypomethylated genes
+C0376452||methylation
+C0017337||hypermethylated genes
+C1518102||MAPK signaling pathway
+C0162638||apoptosis
+C0017337||hypomethylated genes
+C0037080||PI3K-AKT signaling pathway
+C0049065||5-aza-2'-deoxycytidine
+C0521982||response
+C0016360||5-Fluorouracil
+C1512773||growth inhibition
+C0016360||5-Fluorouracil
+C0085983||hypermethylated cell lines SW48
+C0017337||genes
+C1527249||CRCs
+C0087111||therapeutic
+C0013203||chemoresistance
+C0376452||methylation
+C0017337||CCNEI
+C1413177||CCNDBP1
+C1418756||PON3
+C1425700||DDX43
+C1413393||CHL1
+C1527249||colorectal cancer
+C1527249||colorectal cancer
+C0049065||5-aza-2'-deoxycytidine
+C0016360||5-Fluorouracil
+C1518102||MAPK signaling pathway

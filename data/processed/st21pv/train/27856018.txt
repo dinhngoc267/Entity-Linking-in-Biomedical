@@ -1,0 +1,43 @@
+C0347988||heavy metals
+C0870646||high risk population
+C0041703||USA
+C0870646||high risk population
+C0019693||HIV infection
+C0522741||exposure to environmental contaminants
+C2603343||studies
+C0014417||environmental pollutants
+C0347988||heavy metals
+C0870646||high risk populations
+C2603343||study
+C0332167||high risk of
+C0019693||HIV infection
+C0495719||blood levels of heavy metals
+C0019693||HIV infection
+C0041703||United States
+C0376344||National Health and Nutrition Examination Survey
+C0376344||National Health and Nutrition Examination Survey
+C0347988||heavy metals
+C0006632||cadmium
+C0023175||lead
+C0025424||mercury
+C1319831||risk status
+C0027361||people
+C0332167||high risk of
+C0427728||blood concentrations
+C0347988||heavy metals
+C0855870||blood cadmium
+C0853362||lead
+C0202414||total mercury
+C0034510||race
+C2603343||study
+C0027361||people
+C0332167||high risk of
+C0347988||heavy metals
+C0006632||cadmium
+C0023175||lead
+C0025424||mercury
+C0023981||longitudinal study
+C0599786||pollutants
+C0599786||pollutants
+C0019693||HIV-infected
+C0870646||high-risk populations

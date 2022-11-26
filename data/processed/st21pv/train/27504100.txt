@@ -1,0 +1,49 @@
+C0011923||Imaging
+C2827447||Genetics Study
+C0024485||MRI
+C0018220||Gray Matter
+C0752046||SNPs
+C0006104||Brain
+C0678594||Structural
+C1263846||Attention Deficit Hyperactivity Disorder
+C1263846||Attention deficit hyperactivity disorder
+C1263846||Attention deficit hyperactivity disorder
+C1535926||neurodevelopmental disorder
+C0277785||pathophysiologies
+C0678594||structure
+C0027765||neurobiological abnormalities
+C1263846||Attention deficit hyperactivity disorder
+C3850014||fronto-striatal-cerebellar gray matter
+C0018220||gray matter
+C2603343||study
+C1263846||Attention deficit hyperactivity disorder
+C0011900||diagnosed
+C0011923||imaging
+C0205147||regional
+C0018220||gray matter
+C0752046||single nucleotide polymorphism
+C0872179||genetic data
+C0024485||MR
+C0681935||iterative cross-validation
+C1263846||Attention deficit hyperactivity disorder
+C0243095||non-ADHD
+C0006104||brain
+C0678594||structures
+C1263846||Attention deficit hyperactivity disorder
+C2603343||studies
+C1263846||Attention deficit hyperactivity disorder
+C1319166||symptom severity
+C0392366||cognitive tests
+C0011900||diagnosed
+C0012634||disorder
+C0868995||Pathway analysis
+C0678594||structural
+C1704258||abnormalities
+C1263846||Attention deficit hyperactivity disorder
+C0234101||dopaminergic neurotransmission
+C0205161||abnormal
+C1263846||Attention deficit hyperactivity disorder
+C1523698||glutamatergic
+C0234105||GABA-eric physiological systems
+C1263846||Attention deficit hyperactivity disorder
+C0037317||sleep abnormalities

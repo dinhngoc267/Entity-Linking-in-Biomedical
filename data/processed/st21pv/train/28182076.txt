@@ -1,0 +1,51 @@
+C0404521||Vaginal Infections
+C0001909||Albanian
+C0043210||women
+C3714514||Infected
+C0021344||human papillomavirus
+C0206708||intraepithelial cervical lesions
+C3516630||Pap test
+C0856201||Cervical cytology
+C1710031||screening
+C0007874||uterine cervix
+C4288937||human papillomavirus (HPV) positivity
+C0001909||Albanian
+C0043210||women
+C0404521||vaginal coinfections
+C0275524||coinfections
+C0021344||human papillomavirus
+C0025568||metaplasia
+C0206708||cervical intraepithelial lesions
+C0206708||cervical intraepithelial lesions
+C0035363||retrospective study
+C0079104||vaginal smears
+C3888892||Papanicolaou stain
+C3526121||interpretations of the smears
+C4288937||HPV positivity
+C0006840||Candida coinfection
+C4288937||HPV positive
+C0043210||women
+C1622505||Gardnerella coinfection
+C0040923||Trichomonas vaginalis
+C4288937||HPV positive
+C0043210||woman
+C0043210||women
+C4288937||positive HPV
+C0206708||cervical intraepithelial lesions
+C0025568||metaplasia
+C0025568||metaplasia
+C0206708||cervical intraepithelial lesions
+C0043210||women
+C0021344||human papillomavirus
+C0349458||CIN1
+C0275524||coinfections
+C0349458||CIN1
+C4288937||HPV positivity
+C0349458||CIN1
+C0275524||coinfections
+C0343641||HPV infection
+C0025568||metaplasia
+C0004623||bacterial coinfections
+C4288937||HPV positive
+C0043210||women
+C0025568||metaplasia

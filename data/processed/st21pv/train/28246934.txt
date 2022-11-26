@@ -1,0 +1,55 @@
+C1519068||phylogenetic analyses
+C0152035||Chinese
+C1257890||Yi population
+C0043292||X-chromosomal
+C0598994||short tandem repeat
+C0678933||loci
+C0032529||genetic polymorphism
+C0152035||Chinese
+C2919030||administrative divisions
+C0008115||Chinese mainland
+C0243064||genetic research
+C0205146||hotspots
+C2827447||genetic studies
+C0152035||Chinese
+C1257890||populations
+C0596142||autosomal
+C0043381||Y-chromosomal
+C0017393||genetic markers
+C1519068||phylogenetic analyses
+C0152035||Chinese
+C1257890||population
+C0015031||Yi ethnicity
+C0043292||X-chromosomal
+C0017393||genetic markers
+C0449381||forensic statistical parameters
+C0043292||X-chromosomal
+C0598994||short tandem repeat
+C0678933||loci
+C0678933||DXS7424-DXS101
+C0678933||DXS6789-DXS6809
+C0678933||DXS7423-DXS10134
+C0678933||DXS10103-HPRTB-DXS10101
+C0678933||DXS10159-DXS10162-DXS10164
+C0678933||DXS10148-DXS10135-DXS8378
+C0678933||DXS7132-DXS10079-DXS10074-DXS10075
+C0152035||Chinese
+C0237401||Yi individuals
+C0043292||X-chromosomal
+C0598994||short tandem repeat
+C0598994||short tandem repeat
+C0678933||loci
+C0043210||females
+C0002085||alleles
+C0243095||findings
+C0598994||X-STR
+C0678933||loci
+C0015031||Yi ethnic population
+C0242481||Population differentiation analyses
+C1257890||populations
+C1136352||genetic structure
+C0015031||Yi ethnicity
+C0152035||Chinese
+C1257890||Uyghur
+C1257890||Kazakh
+C0015031||ethno-origin

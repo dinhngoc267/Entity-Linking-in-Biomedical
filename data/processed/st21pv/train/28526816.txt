@@ -1,0 +1,62 @@
+C0004561||B-cell
+C0003316||Epitopes
+C0036125||Salmonella enterica serovar Typhi
+C2603981||Hemolysin E
+C0003241||antibody
+C0087111||therapeutic
+C2603981||Hemolysin E
+C2603981||Hemolysin E
+C1325742||pore
+C0073997||toxin
+C0699748||pathogenesis
+C0041466||typhoid fever
+C0004561||B-cell
+C0003316||epitopes
+C0036125||Salmonella enterica serovar Typhi
+C0036125||serovar Typhi
+C2603981||Hemolysin E
+C0376436||peptide library
+C0312586||anti-HlyE polyclonal antibodies
+C0041466||typhoid
+C0229671||sera
+C1140694||Bioinformatic
+C0037589||tools
+C0936012||analyze
+C0033684||protein
+C0003316||epitopes
+C0936012||analysis
+C0205132||linear
+C0003316||epitopes
+C2603981||HlyE protein
+C0205132||linear
+C0002518||GAAAGIVAG
+C0003316||epitope
+C0002518||PYSQESVLSADSQNQK
+C0229671||sera
+C0003316||epitopes
+C0204727||isolate
+C0003316||epitope
+C0003250||monoclonal antibodies
+C0003241||antibody
+C1519025||phage display
+C1432679||Monoclonal scFv
+C0003241||antibodies
+C0205132||linear
+C0003316||epitopes
+C3494274||Molecular docking
+C1268869||antigen-antibody interaction
+C0003250||monoclonal antibodies
+C0003316||epitopes
+C2603981||Hemolysin E
+C0312811||monomer
+C0003241||antibodies
+C0003316||epitope
+C2603981||Hemolysin E
+C1519025||phage display
+C1140694||bioinformatic
+C0936012||analysis
+C0678594||structure
+C0003241||antibodies
+C0003241||antibodies
+C1254351||neutralizing agents
+C0041466||typhoid fever

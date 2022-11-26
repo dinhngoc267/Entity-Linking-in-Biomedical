@@ -1,0 +1,46 @@
+C2603343||Reflections
+C0001792||Older Adults
+C0008976||Clinical Trial
+C2603343||study
+C0206035||randomized controlled trial
+C0392366||tested
+C0019557||hip fracture
+C0442592||B4 Clinic
+C0678594||Semistructured
+C0001792||older adults
+C0019557||hip fracture
+C1257890||groups
+C0043210||women
+C0025266||men
+C2603343||study
+C0679646||participants
+C0700287||reported
+C0018017||goals
+C0019557||hip fracture
+C0679646||participants
+C0018017||goals
+C2004454||Recovering
+C0700287||reported
+C0018017||goals
+C0679646||Participants
+C1540833||social support
+C0444454||access
+C0949766||physiotherapy
+C1446409||positive
+C0679646||participants
+C0376554||knowledge
+C2603343||study
+C0851286||staff
+C0030971||perceived
+C1540833||social support
+C0700287||reported
+C0679646||participants
+C0009566||complications
+C0030193||pain
+C0949766||physiotherapy
+C0243095||findings
+C3840684||modification
+C0016658||fracture
+C0030675||patient engagement
+C0376554||knowledge
+C0008972||clinical research

@@ -1,0 +1,86 @@
+C0028910||essential oils
+C0678695||nutrient
+C0012238||digestion
+C0035946||rumen
+C0015852||fermentation
+C0035946||rumen
+C0036945||sheep
+C2827434||alfalfa hay
+C0012155||concentrate diet
+C0205664||experiment
+C0028910||essential oils
+C0028910||mixture of essential oils
+C0304119||thyme
+C0028906||clove
+C0301249||cinnamon EO
+C0035946||rumen
+C0015852||microbial fermentation
+C0678695||nutrient
+C0243095||digestibility
+C0005767||blood
+C0870883||metabolites
+C0036945||fistulated sheep
+C0036945||sheep
+C0302142||ruminal fistulas
+C0282574||repeated measurement design
+C0028910||mixture of essential oils
+C0678695||nutrient
+C0243095||digestibility
+C0035946||rumen
+C0015852||fermentation
+C0035946||rumen
+C0005767||blood
+C0870883||chemical metabolites
+C0003062||Animals
+C2827434||alfalfa hay
+C0012155||concentrate diet
+C0015691||volatile fatty acids
+C0015691||volatile fatty acids
+C0015691||volatile fatty acids
+C1855163||methane production
+C0028910||mixture of essential oils
+C0030956||Small peptides
+C0030956||large peptides
+C0227245||rumen fluid
+C0028910||mixture of essential oils
+C0242297||supplementation
+C0227245||rumen fluid
+C0002607||ammonia
+C0036945||sheep
+C0028910||mixture of essential oils
+C0028910||mixture of essential oils
+C0002607||ammonia
+C0036945||sheep
+C0028910||mixture of essential oils
+C0012155||diet
+C0033739||Ruminal protozoa
+C0004611||hyper ammonia producing (HAP) bacteria
+C0004618||counts
+C0028910||mixture of essential oils
+C0012155||diet
+C0014772||red
+C0427512||white blood cells
+C0518015||hemoglobin
+C0518014||hematocrit
+C0337438||glucose
+C0047456||beta-hydroxybutyric acid
+C0201950||cholesterol
+C0555903||total protein
+C0201838||albumin
+C0005845||blood urea nitrogen
+C0201899||aspartate aminotransferase
+C0201836||alanine aminotransferase
+C0243095||total tract digestibility
+C0033684||crude proten
+C0028910||mixture of essential oils
+C0242297||supplementation
+C0242297||supplementation
+C0028910||mixture of essential oils
+C0678695||nutrient
+C0243095||digestibility
+C0015852||ruminal fermentation
+C0033739||protozoa
+C0004611||HAP bacteria
+C0004618||count
+C0005773||blood cells
+C0870883||metabolites

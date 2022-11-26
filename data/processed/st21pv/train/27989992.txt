@@ -1,0 +1,40 @@
+C0001792||older adults
+C0562508||emergency departments
+C1955832||systematic review
+C0920317||meta-analysis
+C0282574||Identification of Seniors At Risk (ISAR) screening tool
+C0001792||older adults
+C0013961||emergency services
+C1527398||emergency care
+C1955832||systematic review
+C0920317||meta-analysis
+C0282574||Identification of Seniors At Risk (ISAR) screening tool
+C4304688||functional decline
+C0583237||emergency department (ED) readmission
+C0019993||hospitalisation
+C1306577||death
+C0586082||ED visit
+C0019993||hospitalisation
+C0023866||literature
+C1138432||PubMed
+C0282574||EMBASE
+C0282574||CINAHL
+C0282574||EBSCO
+C0282574||Cochrane Library
+C1519941||validation
+C0936012||analysis
+C0282574||ISAR tool
+C0282574||Identification of Seniors At Risk
+C0332167||high risk of
+C3161035||bivariate random effects model
+C0681836||validation studies
+C0282574||Identification of Seniors At Risk
+C0562508||emergency department
+C0019993||hospitalisation
+C0936012||analysis
+C0332128||examined
+C0282574||Identification of Seniors At Risk
+C0282574||Identification of Seniors At Risk
+C0011109||decision-making
+C0001792||older adults
+C0030685||discharged

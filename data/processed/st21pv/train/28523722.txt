@@ -1,0 +1,28 @@
+C1260875||mating
+C0600235||glassy-winged sharpshooter
+C1218186||Homalodisca vitripennis
+C0600235||glassy-winged sharpshooter
+C0600235||glassy-winged sharpshooter
+C1218186||Homalodisca vitripennis
+C0021585||pest
+C0682492||grapevines
+C0995982||Xylella fastidiosa
+C0032080||Pierce's disease
+C0600235||glassy-winged sharpshooter
+C1260875||mating
+C1260875||mating
+C0021576||insecticides
+C0600235||glassy-winged sharpshooter
+C1257890||population
+C0018017||objectives
+C3158821||signaling
+C0030971||perception
+C0005507||bioassays
+C0032098||plants
+C3158821||signaling
+C3828024||signal amplitude
+C3158821||signaling
+C0150312||presence
+C0022877||laboratory
+C1260875||mating
+C0600235||glassy-winged sharpshooter

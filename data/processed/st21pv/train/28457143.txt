@@ -1,0 +1,28 @@
+C0281980||Skin Injuries
+C1510586||Autism Spectrum Disorder
+C0281980||skin injuries
+C0018017||objectives
+C0449774||pattern
+C0281980||skin injuries
+C1510586||autism spectrum disorder
+C1510586||autism spectrum disorder
+C0281980||skin injury
+C0552513||locations
+C0281980||skin injury
+C0552513||locations
+C1510586||autism spectrum disorder
+C0085537||caregiver
+C0281980||skin injuries
+C0552513||locations
+C1301725||documented
+C0281980||skin injury
+C0552513||locations
+C1140621||legs
+C0022742||knees
+C0004600||back
+C0004352||autism
+C0281980||skin injuries
+C0552513||locations
+C0281980||skin injuries
+C0552513||locations
+C0151736||accidental injuries

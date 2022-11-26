@@ -1,0 +1,39 @@
+C1159339||Protein Secretion
+C0032098||Plants
+C1159339||protein secretion
+C1159339||Unconventional protein secretion
+C1159342||secretion pathways
+C0036536||secretion
+C0007603||plasma membrane
+C0036536||secretion
+C0033684||proteins
+C0036536||secretion
+C0008972||studied
+C0043393||yeast
+C0007634||animal cells
+C0032098||plants
+C0001400||adapt to adverse conditions
+C0557737||environmental challenges
+C0004268||attention
+C1159342||secretion pathways
+C3178867||plant cells
+C0033684||proteins
+C0872252||proteomic studies
+C1159339||Unconventional protein secretion
+C0032098||plants
+C1159339||Unconventional protein secretion
+C0699748||pathogenesis
+C2350025||stress responses
+C1159339||Unconventional protein secretion
+C0033684||proteins
+C1325756||apoplast
+C1159339||Unconventional protein secretion
+C0032089||plant proteins
+C1159339||Unconventional protein secretion
+C1167315||endomembrane
+C1171285||enabling
+C1622418||vesicle
+C0872252||proteomics
+C0220806||chemical
+C0887950||genomics
+C1159342||secretion pathways

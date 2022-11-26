@@ -1,0 +1,40 @@
+C4277102||4-methylcyclohexanemethanol
+C4277102||4-methylcyclohexanemethanol
+C0152030||skin irritation
+C0086418||humans
+C0030646||patch test
+C4277102||4-methylcyclohexanemethanol
+C4277102||4-methylcyclohexanemethanol
+C0220806||chemical
+C0009131||coal
+C4277102||4-methylcyclohexanemethanol
+C0017446||Charleston
+C0043127||West Virginia
+C0205276||local
+C2347958||residents
+C0700287||reported
+C0496675||medical attention
+C0221423||ailments
+C0015230||rashes
+C0033774||itching
+C1457887||symptoms
+C0700287||reported
+C2603343||study
+C0152030||irritation
+C4277102||4-methylcyclohexanemethanol
+C0237401||individuals
+C0030646||patch testing
+C4277102||4-methylcyclohexanemethanol
+C2603343||study
+C0221743||skin reactions
+C0237401||individuals
+C4277102||4-methylcyclohexanemethanol
+C2919405||tap water
+C2347958||residents
+C0043127||West Virginia
+C2603343||study
+C4277102||4-methylcyclohexanemethanol
+C0022108||irritant
+C0027361||persons
+C2919405||water
+C0700287||reported

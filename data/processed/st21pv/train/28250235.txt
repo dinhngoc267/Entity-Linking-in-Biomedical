@@ -1,0 +1,59 @@
+C0376452||Methylation
+C1160267||folliculogenesis
+C0013936||embryo development
+C0036945||sheep
+C0017428||Genome
+C0376452||DNA methylation
+C0024660||mammalian
+C0017001||gametogenesis
+C0013936||embryogenesis
+C0015914||fertilization
+C2755352||demethylation
+C1858460||maternal
+C0017428||genomes
+C0024660||mammals
+C0036945||sheep
+C0025723||methylation
+C1167158||pronucleus
+C0015914||fertilization
+C0014442||methylating
+C0014442||demethylating enzymes
+C1155900||oocyte growth
+C0376452||re-methylation
+C0029045||oocyte
+C0029045||oocyte
+C0035157||reproduction technologies
+C0025723||methylation
+C1160267||folliculogenesis
+C0013936||embryo development
+C0036945||sheep
+C0376452||DNA methylation
+C3830412||hydroxymethylation
+C0016318||immunofluorescence
+C1171362||expression
+C0014442||enzymes
+C0012873||DNA methyltransferases
+C0012873||DNA methyltransferases
+C0033684||ten-eleven translocation (TET) proteins
+C4277657||methyl-CpG-binding domain
+C4277657||methyl-CpG-binding domain
+C0033684||proteins
+C3830412||hydroxymethylation
+C1155900||oocyte growth
+C0376452||methylation
+C3830412||hydroxymethylation
+C1167158||parental pronuclei
+C1622926||male pronucleus
+C2755352||demethylation
+C0036945||sheep
+C0017337||gene
+C0014442||methylating
+C0014442||demethylating enzymes
+C1155900||oocyte growth
+C1171362||expression
+C0029045||oocyte
+C0025723||methylation
+C1160267||folliculogenesis
+C0013936||embryo development
+C0013935||embryo
+C0017428||epigenome

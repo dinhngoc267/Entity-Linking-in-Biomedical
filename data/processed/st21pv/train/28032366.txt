@@ -1,0 +1,29 @@
+C0079221||circulatory-respiratory determination of death
+C0079221||donation after the circulatory-respiratory determination of death
+C0011065||dead
+C0029206||donor
+C0870077||rule
+C0029206||donor
+C0011065||dead
+C0029210||organ procurement
+C1947938||Uniform Determination of Death Act 1981 (USA)
+C0027361||person
+C0011065||dead
+C0243095||irreversible
+C0335034||Critics
+C0237607||practice
+C0079221||donation after the circulatory-respiratory determination of death
+C0029206||donor
+C0011065||dead
+C0178784||organs
+C0029210||procured
+C0029210||procurement of organs
+C0029206||donors
+C0011065||dead
+C0029206||donor
+C0870077||rule
+C1444648||offer
+C0079221||donation after the circulatory-respiratory determination of death
+C0237607||practice
+C0459471||interpretation
+C0243095||irreversibility

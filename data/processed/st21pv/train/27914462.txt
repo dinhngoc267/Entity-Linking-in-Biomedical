@@ -1,0 +1,66 @@
+C0024518||MHC Tetramers
+C0204727||Isolation
+C0042776||Virus
+C0242629||CD8(+) Cells
+C0302189||Cell Therapy
+C0010823||Posttransplant Cytomegalovirus Infection
+C0472699||hematopoietic stem cell transplantation
+C1142560||cytomegalovirus reactivation
+C1817907||T-cell immunity
+C0333361||acute inflammatory reaction
+C0332675||damage of internal organs
+C0086573||Transfusion
+C0039194||donor T-lymphocytes
+C0280274||antiviral therapy
+C0302189||cell therapy
+C0086573||transfusion
+C0039195||cytotoxic T-lymphocytes
+C0003342||viral antigens
+C0204727||isolation
+C0005775||donor's blood circulation
+C0039194||T-cells
+C0024264||alloreactive lymphocytes
+C0024518||major histocompatibility complex
+C0024518||major histocompatibility complex
+C0086573||transfusion
+C0042776||virus
+C0039194||T-cells
+C0007634||cells
+C1708333||National Research Center for Hematology
+C0555908||HLA-A*02 allele
+C0337816||Russian
+C0301872||immune response
+C0010825||cytomegalovirus
+C0010825||cytomegalovirus
+C0555908||HLA-A*02
+C0030956||cytomegalovirus peptide
+C0030956||NLV
+C1817907||T-cell immunity
+C0003320||antigen
+C0040732||transplantation
+C0039194||T-lymphocytes
+C0007634||donor cells
+C0682639||memory cells
+C2259058||activated
+C0596290||proliferate
+C0003320||antigen
+C1395724||Donor lymphocytes
+C0599662||magnetic separation
+C0024518||major histocompatibility complex
+C0282547||cocultivation
+C0003320||antigen
+C0007634||cells
+C0019721||HLA
+C0013018||incompatible donors
+C0003320||antigen
+C2603343||study
+C0301872||immune response
+C0010825||cytomegalovirus
+C0555908||HLA-A*02 allele
+C1257890||Russian population
+C0007634||cells
+C0555908||HLA-A*02-NLV
+C1879316||transfusion
+C0007634||cells
+C0010825||cytomegalovirus
+C0301872||immune response

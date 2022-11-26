@@ -1,0 +1,13 @@
+C0042036||Urinary
+C1505089||CC16 Protein
+C0282574||Comments on Beamer et al. Association
+C0042036||Urinary
+C1505089||CC16
+C0262923||Levels
+C0373548||Arsenic Concentrations
+C0086418||Max Clara
+C0007634||cell
+C0086418||human
+C0024109||lung
+C0230676||exocrine secretory cell type containing granules
+C0033684||proteins

@@ -1,0 +1,71 @@
+C0014245||Endoscopic
+C0225425||endonasal
+C0543467||surgery
+C0544452||remission
+C0010481||Cushing's Disease
+C0574895||ectopic
+C0344453||macroadenoma
+C0085973||case report
+C0282441||literature review
+C0015252||surgical resection
+C1306214||ACTH-secreting pituitary adenoma
+C0087111||treatment
+C0010481||Cushing's Disease
+C0574895||Ectopic
+C0450429||location
+C0001430||adenomas
+C0011900||diagnosis
+C0543467||surgical
+C0574895||ectopic
+C1306214||ACTH-secreting macroadenoma
+C0014245||endoscopic
+C0225425||endonasal
+C0543467||surgery
+C0396138||endoscopic endonasal surgery
+C0010481||Cushing syndrome
+C0001655||ACTH
+C0729349||serum cortisol
+C0412679||pituitary MRI
+C0032019||pituitary tumor
+C0221198||parasellar lesion
+C0007473||cavernous sinus
+C0007473||cavernous sinus
+C0206084||Inferior petrosal sinus sampling
+C0205099||central
+C0205100||peripheral
+C0001655||ACTH
+C0396138||endoscopic endonasal surgery
+C0243095||No tumor
+C0036609||sella
+C0007473||cavernous sinus
+C0027651||tumor
+C0205093||lateral
+C0007272||carotid artery
+C1513916||no
+C0009566||complications
+C0396138||endoscopic endonasal surgery
+C0030664||Pathology
+C0011900||diagnosis
+C1306214||ACTH-secreting adenoma
+C0729349||serum cortisol
+C0024485||MRI
+C0015252||tumor resection
+C1522577||follow-up
+C0544452||remission
+C0010481||Cushing's Disease
+C0574895||ectopic
+C1306214||ACTH-secreting adenomas
+C0346306||microadenomas
+C0574895||ectopic
+C1306214||ACTH-secreting macroadenoma
+C0007473||cavernous sinus
+C0543467||surgical
+C0396138||endoscopic endonasal surgery
+C0015252||resection
+C0574895||ectopic
+C0001430||adenomas
+C1280903||exploration
+C0007473||cavernous sinus
+C1513916||no
+C0543467||surgical
+C0009566||complications

@@ -1,0 +1,22 @@
+C0087111||treatments
+C0451615||pain relief
+C0040654||transcutaneous electrical nerve stimulation
+C0394664||acupuncture
+C0394664||Acupuncture
+C0040654||transcutaneous electrical nerve stimulation
+C0040654||transcutaneous electrical nerve stimulation
+C0451615||relieve pain
+C0936077||complementary treatments
+C0220825||evaluations
+C0013072||double-blinding
+C0087111||treatment
+C0030193||pain
+C0087111||treatment
+C0394664||acupuncture
+C0040654||transcutaneous electrical nerve stimulation
+C1304888||pain control systems
+C0027880||cerebral plasticity
+C0879626||adverse effects
+C0002766||pain management
+C0150055||chronic pain
+C0013227||medications

@@ -1,0 +1,37 @@
+C0233514||behavioural problems
+C0086045||concentration
+C0033522||prospective study
+C2603343||study
+C0233514||behavioural problems
+C0086045||concentration
+C0681814||Health Effects Related to Mobile phonE use in adolescentS
+C0241315||Swiss
+C0233514||Behavioural problems
+C3472494||Strengths and Difficulties Questionnaire
+C3472494||Strengths and Difficulties Questionnaire
+C0086045||concentration
+C0282574||FAKT
+C0010362||Cross-sectional
+C0023981||longitudinal
+C0589120||follow-up
+C0936012||analyses
+C0233514||behavioural problems
+C0086045||concentration
+C2700446||self-reported
+C0335223||operator
+C0006104||brain
+C0444584||whole body
+C0010362||cross-sectional analyses
+C0233514||behavioural problems
+C0684224||self-reported
+C0335223||operator
+C0086045||concentration
+C2700446||self-reported
+C0335223||operator
+C0023981||longitudinal analyses
+C0449774||patterns
+C0023981||longitudinal analyses
+C0233514||behavioural problems
+C0086045||concentration
+C0681841||explanations
+C0010362||cross-sectional findings

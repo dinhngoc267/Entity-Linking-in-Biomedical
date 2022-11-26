@@ -1,0 +1,31 @@
+C0033581||prostatitis
+C0574785||lower urinary tract symptoms
+C0278092||sexual function
+C0033522||prospective analysis
+C0033581||prostatitis
+C0729866||lower urinary tract
+C0278092||sexual function
+C0033581||prostatitis
+C0243095||no prostatitis
+C0005558||biopsy
+C1998280||International prostate symptom score
+C2959364||international index of erectile function-5 scores
+C0429784||maximal
+C0429785||average flow rate
+C0429774||residual urine volumes
+C1305855||body mass index value
+C0201544||prostate-specific antigen levels
+C0429784||maximal
+C0429785||average flow rate
+C0429774||residual urine volume
+C1998280||international prostate symptom score
+C0033581||prostatitis
+C0033581||prostatitis
+C2959364||international index of erectile function-5 score
+C0033581||prostatitis
+C0033581||prostatitis
+C0033581||prostatitis
+C0278092||sexual function
+C0035648||risk factor
+C0549622||sexual dysfunction
+C0574785||lower urinary tract symptoms

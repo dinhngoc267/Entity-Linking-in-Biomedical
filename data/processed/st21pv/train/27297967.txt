@@ -1,0 +1,96 @@
+C0005528||Transport
+C1451297||Multidrug Resistance Protein 1
+C1451297||MRP1
+C1451297||ABCC1
+C1158886||Phosphorylation
+C0002518||Tyr920/Ser921
+C0376322||Glycosylation
+C0002518||Asn19/Asn23
+C0242738||ATP-binding cassette (ABC) transporter
+C1451297||multidrug resistance protein 1
+C1451297||MRP1
+C1451297||ABCC1
+C0007634||cellular
+C1510941||array
+C0043335||xenobiotics
+C0003818||Arsenic
+C0086418||human
+C0007090||carcinogen
+C1451297||MRP1
+C0005528||transport
+C1451297||MRP1
+C0596901||membrane
+C1622418||vesicles
+C0086418||human
+C0013935||embryonic
+C0022646||kidney
+C2936239||293 (HEK)
+C0018873||HeLa
+C0007634||cells
+C1564139||Mutant
+C1451297||MRP1
+C0376322||glycosylation
+C0002518||Asn19/23/1006Gln
+C1451297||(SF)-MRP1
+C1171362||expressed
+C2936239||HEK293
+C0018873||HeLa cells
+C0018873||HeLa wild-type
+C1451297||MRP1
+C0150312||presence
+C0597217||phosphatase inhibitors
+C1451297||WT-
+C1451297||SF-MRP1
+C0596901||membrane
+C1622418||vesicles
+C0682523||cell line
+C0449381||Kinetic parameters
+C2936239||human embryonic kidney 293
+C1451297||Asn19/23Gln-MRP1
+C0018873||HeLa
+C2936239||human embryonic kidney 293
+C1451297||SF-MRP1
+C0018873||HeLa-WT
+C1451297||MRP1
+C0376322||glycosylation
+C1564139||mutants
+C2936239||HEK-WT
+C0026882||Mutation
+C1158886||phosphorylation
+C0205145||sites
+C2936239||human embryonic kidney 293
+C1451297||Tyr920Phe/Ser921Ala-MRP1
+C0005528||transported
+C0018873||HeLa-WT
+C1451297||MRP1
+C2936239||human embryonic kidney 293
+C1451297||Tyr920Phe-
+C1451297||Ser921Ala-MRP1
+C1564139||mutants
+C2936239||HEK-WT
+C1451297||MRP1
+C0002518||Asn19/Asn23
+C0376322||glycosylation
+C0002518||Tyr920/Ser921
+C1158886||phosphorylation
+C1451297||MRP1
+C0005528||transport
+C0005528||transport
+C2936239||human embryonic kidney 293
+C0002518||Asn19/23Gln/Tyr920Glu/Ser921Glu
+C2936239||HEK-WT
+C1451297||MRP1
+C1158886||phosphorylation
+C0002518||Asn19/23Gln
+C0376322||glycosylation
+C1451297||MRP1
+C0376322||glycosylation
+C1158886||phosphorylation
+C1158886||phosphorylation
+C0002518||Tyr920
+C0002518||Ser921
+C1451297||MRP1
+C0596902||transporter
+C0003818||arsenic
+C4235382||detoxification
+C0332464||broad

@@ -1,0 +1,50 @@
+C0206035||Randomized Controlled Trial
+C0004933||Habit Reversal Training
+C0087111||Treatment
+C0040953||Hair Pulling
+C2603343||study
+C0220825||evaluated
+C0087111||treatment
+C0004933||habit reversal training
+C0004933||habit reversal training
+C1704656||diagnosis
+C0040953||trichotillomania
+C0040953||trichotillomania
+C0220825||assessment
+C0679646||Participants
+C0679228||diagnostic criteria
+C0040953||trichotillomania
+C0034656||randomized
+C0004933||habit reversal training
+C0004933||habit reversal training
+C0237623||posttreatment assessment
+C1522577||follow-up
+C0220825||assessments
+C0220825||assessments
+C2697672||rater
+C0150108||blinded
+C0087111||treatment
+C0027466||National Institute of Mental Health
+C0237623||posttreatment
+C0004933||habit reversal training
+C1257890||group
+C1257890||group
+C0237623||posttreatment
+C0004933||habit reversal training
+C1257890||group
+C1257890||group
+C3639708||Clinical Global Impressions-Improvement
+C0679646||participants
+C0087111||treatment
+C0282122||responders
+C0004933||habit reversal training
+C1257890||group
+C1257890||group
+C1522577||follow-up
+C0087111||treatment
+C0282122||responders
+C0220825||assessment
+C1522577||follow-up
+C0004933||habit reversal training
+C0087111||treatment
+C0040953||trichotillomania

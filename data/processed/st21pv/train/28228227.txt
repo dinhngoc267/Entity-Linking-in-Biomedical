@@ -1,0 +1,36 @@
+C0574031||γ-Butenolide
+C0574031||furanone derivatives
+C0016832||fungus
+C0446101||Aspergillus sclerotiorum
+C0446101||PSU-RSPG178
+C0008550||Chromatographic separation
+C2919900||broth
+C0016832||fungus
+C0446101||Aspergillus sclerotiorum
+C0446101||PSU-RSPG178
+C0574031||γ-butenolide-furanone dimers
+C0574031||aspersclerotiorones A-D
+C0574031||furanone derivative
+C0574031||aspersclerotiorone E
+C0574031||γ-butenolide derivatives
+C0574031||aspersclerotiorones F
+C0574031||G
+C0030821||penicillic acid
+C0574031||dihydropenicillic acid
+C0574031||5,6-dihydro-6-hydroxypenicillic acid
+C0574031||6-methoxy-5,6-dihydropenicillic acid
+C0574031||coculnol
+C0574031||(4R,5R)-4,5-dihydroxy-3-methoxy-5-methylcyclohex-2-en-1-one
+C0220807||structures
+C0037812||spectroscopic evidence
+C0574031||aspersclerotiorones A
+C0574031||B
+C0220807||structures
+C0206755||single-crystal X-ray diffraction crystallography
+C1271650||antibacterial activity
+C0038172||Staphylococcus aureus
+C0014834||Escherichia coli
+C1304747||MIC values
+C0026438||African green monkey
+C0022646||kidney
+C0016030||fibroblast cells

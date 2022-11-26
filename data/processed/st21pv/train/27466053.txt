@@ -1,0 +1,31 @@
+C0042825||Visual Analytics
+C1518918||Pattern Discovery
+C0994454||Home Care
+C0175631||Visualization
+C3878819||home health data
+C3536884||visual analysis techniques
+C1443513||older adult home health patients
+C0184605||home health service
+C0376554||Knowledge
+C0030685||discharge
+C0030673||admission
+C0030685||discharge
+C1140113||Omaha System
+C0150098||dataset
+C0019859||home health agencies
+C0037589||SPSS Visualization Designer v1.0
+C0042825||visually analyze patterns
+C0175631||Visualizations
+C2826293||clinical salience
+C0010101||correlation analysis
+C0175631||visualizations
+C3714916||Charlson co-morbidity index
+C0042825||visual analysis
+C0085554||home health episode
+C3714916||Charlson co-morbidity index
+C0243095||behavior or status outcomes
+C0042825||visual analysis
+C1515021||subgroups
+C0871685||clinicians
+C1553498||home health interventions
+C0030698||patient outcomes

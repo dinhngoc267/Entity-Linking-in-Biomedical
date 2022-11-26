@@ -1,0 +1,70 @@
+C1322815||DESs
+C0011847||diabetes
+C0879626||adverse effect
+C0184661||re-intervention
+C0005847||multivessel
+C0010054||coronary disease
+C0936012||analysis
+C0011847||Diabetes
+C0879626||adverse
+C1532338||PCI
+C2603343||study
+C0879626||adverse effect
+C0011849||diabetes mellitus
+C0011849||diabetes mellitus
+C1532338||PCI
+C1322815||drug-eluting
+C1322815||DES
+C2825200||bare-metal (BMS) stents
+C0019994||Mount Sinai Beth Israel Hospital
+C1532338||PCI
+C0005847||multivessel
+C0010054||coronary artery disease
+C0010054||coronary artery disease
+C0581374||single-vessel CAD
+C1513916||no
+C0038257||stent
+C0185098||bypass graft
+C0027051||myocardial infarction
+C0011847||Diabetes
+C0184661||re-intervention
+C1322815||DES
+C3272265||three-vessel
+C0011849||diabetes mellitus
+C2825200||BMS
+C3272265||three-vessel
+C0011849||diabetes mellitus
+C0038257||stent
+C1322815||DES
+C2825200||BMS
+C0042373||vessel disease
+C0581375||two
+C3272265||three
+C0011847||Diabetes
+C1322815||DES
+C2825200||BMS
+C0581375||two-vessel
+C0011847||diabetes
+C1322815||DES1
+C1322815||DES2
+C1322815||DES
+C0184661||Re-intervention
+C0011847||diabetes
+C0599755||sub-cohorts
+C0936012||analysis
+C1532338||PCI
+C0011847||diabetes
+C1457868||worse
+C0038257||stent
+C1322815||DES
+C1322815||DES2
+C0581375||2-vessel disease
+C0038257||stent
+C0936012||analysis
+C0750484||confirmed
+C1322815||DES
+C2825200||BMS
+C1322815||DES2
+C1322815||DES1
+C0241863||diabetics
+C0243095||non-diabetics

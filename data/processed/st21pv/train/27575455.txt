@@ -1,0 +1,67 @@
+C1825934||Maf1
+C1327622||regulation
+C0043393||yeast
+C0035680||RNA polymerase III
+C1158763||CCA addition at the 3' end of tRNA
+C0015161||eukaryotic cells
+C1622985||tRNA synthesis
+C0205160||negatively
+C1327622||regulated
+C0536951||protein Maf1
+C0043393||yeast
+C0086418||humans
+C1825934||Maf1
+C0043393||yeast
+C0036025||Saccharomyces cerevisiae
+C0920533||repression
+C1158829||trna transcription
+C0007634||cells
+C0010454||medium
+C0017725||glucose
+C0010454||medium
+C0017861||glycerol
+C0015852||non-fermentable
+C0007009||carbon
+C0449416||source
+C0017337||gene
+C1825934||Maf1
+C1825934||Maf1
+C0041133||tRNA precursors
+C2603343||study
+C0041133||tRNA precursors
+C0936012||analysed
+C0917793||RNA-Seq
+C1883559||wild type
+C1825934||Maf1
+C0678941||mutant
+C0017725||glucose
+C0010454||medium
+C0205160||negative
+C1825934||Maf1
+C0678941||mutant
+C1158763||addition of the auxiliary CCA nucleotides to the 3' end of pre-tRNAs
+C0007634||cells
+C0018270||growth
+C1514559||overexpression
+C0043393||yeast
+C1413163||CCA1 gene
+C0077328||ATP(CTP):tRNA nucleotidyltransferase
+C0004793||CCA sequence
+C0041133||tRNA precursors
+C0007610||nucleus
+C1327001||tRNA charging
+C0002520||amino acids
+C1158763||CCA-addition to intron -containing end-processed tRNA precursors
+C1158762||tRNA maturation
+C1825934||Maf1
+C0035680||RNA polymerase III
+C0035680||polymerase III
+C0920533||repression
+C0004793||CCA
+C1157592||synthesis
+C0035680||polymerase III
+C1327622||regulation
+C1825934||Maf1
+C1158829||tRNA transcription
+C1158762||processing
+C1157519||regulation of translation

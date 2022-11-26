@@ -1,0 +1,63 @@
+C3665472||chemotherapy
+C0376636||management
+C0155365||vitreous disease
+C0035335||retinoblastoma
+C0025241||melphalan
+C1272883||injection
+C0376636||management
+C0155365||vitreous disease
+C0035335||retinoblastoma
+C0025241||melphalan
+C1272883||injections
+C0879626||side effects
+C0035363||retrospective
+C3274035||interventional
+C2603343||noncomparative
+C2603343||nonrandomized study
+C0015392||eyes
+C1719830||Vitreous seeds
+C0008902||classified
+C0027651||dust
+C0027651||sphere
+C0027651||cloud types
+C1272883||injections
+C0229167||pars plana
+C0027651||tumor
+C0027551||30-G needle
+C1817727||Response of the seeds
+C0243095||disappearance
+C1720491||inactive debris
+C0178874||progression
+C0014392||enucleation
+C1883256||systemic
+C0842399||intra-arterial chemotherapy
+C1719830||Vitreous seeding
+C0015392||eyes
+C0015392||eyes
+C1719830||Vitreous seeds
+C0008902||classified
+C0027651||dust
+C0015392||eyes
+C0027651||sphere
+C0015392||eyes
+C0027651||cloud
+C0015392||eyes
+C0025241||Melphalan
+C0015392||eyes
+C1272883||injections
+C0015392||eye
+C0684320||regression
+C0015392||eyes
+C0027651||Sphere-type seeds
+C0025241||melphalan
+C0242656||disease progression
+C0015392||eyes
+C1522577||follow-up
+C0015392||eyes
+C0042909||Vitreous hemorrhage
+C0035322||retinal pigment epithelial
+C0879626||side effects
+C0025241||melphalan
+C1272883||injections
+C0015392||eyes
+C0155365||vitreous disease

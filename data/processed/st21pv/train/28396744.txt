@@ -1,0 +1,58 @@
+C0011881||Diabetic nephropathy
+C0022661||end-stage kidney disease
+C3261387||medical evidence form
+C3261387||CMS2728
+C0475309||center
+C0022661||End-stage renal disease
+C0022661||End-stage renal disease
+C0441730||Type 2
+C0011881||diabetic nephropathy
+C0011881||diabetic nephropathy
+C1622900||United States Renal Data System
+C0475309||center
+C2985505||retrospective cohort study
+C0441730||Type 2
+C0011881||diabetic nephropathy
+C0022661||End-stage renal disease
+C0041718||Center for Medicare & Medicaid
+C0041718||CMS
+C3261387||Medical Evidence Report form
+C3261387||CMS2728
+C0206074||renal replacement therapy
+C3261387||CMS2728
+C1552471||academic military medical center
+C0022661||End-stage renal disease
+C0025102||Medical records
+C0011900||diagnosis
+C1708333||Kidney Disease Outcomes Quality Initiative
+C1708333||Kidney Disease Outcomes Quality Initiative
+C0679228||criteria
+C0011881||diabetic nephropathy
+C0022661||End-stage renal disease
+C0441730||Type 2
+C0011881||diabetic nephropathy
+C0027361||individual
+C3261387||CMS2728
+C0679228||KDOQI criteria
+C0441730||Type 2
+C0011881||diabetic nephropathy
+C0011847||diabetes
+C1261248||urine sediment
+C1654921||macroalbuminuria
+C0035309||retinopathy
+C0022661||End-stage renal disease
+C0206031||logistic regression
+C0035309||retinopathy
+C1708333||Kidney Disease Outcomes Quality Initiative
+C0011881||diabetic nephropathy
+C0475309||center
+C2985505||cohort
+C0441730||Type 2
+C0011881||diabetic nephropathy
+C0022661||End-stage renal disease
+C1708333||Kidney Disease Outcomes Quality Initiative
+C0679228||criteria
+C1257890||populations
+C0014507||epidemiology
+C0022661||End-stage renal disease
+C0041703||USA

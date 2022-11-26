@@ -1,0 +1,25 @@
+C1257890||supervisees
+C0009244||cognitive-behavioral therapy
+C2348563||study protocol
+C1955832||systematic review
+C0032893||practice
+C0557555||psychotherapist
+C1257890||supervisees
+C0004271||attitudes
+C1955832||systematic review
+C0023866||empirical literature
+C0009244||cognitive-behavioral therapy
+C1955832||systematic review
+C0023866||literature
+C0557555||supervised psychotherapists
+C0918012||indexed
+C0025141||MEDLINE
+C0282574||EMBASE
+C0282574||Cochrane Library databases
+C0557555||psychotherapists
+C0684224||reported
+C1955832||systematic review
+C0162791||guidelines
+C1955832||systematic reviews
+C0009244||cognitive-behavioral therapy
+C0035168||research

@@ -1,0 +1,45 @@
+C0011900||Diagnosis
+C0035298||retinal
+C0200189||digital fundus images
+C2936326||continuous wavelet transform
+C2936326||continuous wavelet transform
+C0042789||Vision
+C0086418||humans
+C0015397||ocular diseases
+C0012634||diseases
+C0017601||glaucoma
+C0011884||Diabetic Retinopathy
+C0011884||Diabetic Retinopathy
+C0242383||Age-related Macular Degeneration
+C0242383||Age-related Macular Degeneration
+C0456909||blindness
+C0012634||diseases
+C0024870||mass screening programmes
+C0011900||diagnosis
+C0011905||automated computer aided diagnosis system
+C0936012||analysis
+C0020910||image interpretation
+C0008902||classification
+C0205161||abnormal
+C0011884||Diabetic Retinopathy
+C0242383||Age-related Macular Degeneration
+C0017601||glaucoma
+C0205161||abnormal
+C0200189||fundus images
+C0242356||database
+C2936326||2D-Continuous Wavelet Transform
+C2936326||continuous wavelet transform
+C0200189||fundus images
+C0449370||sampling approach
+C0205161||abnormal
+C0150098||datasets
+C0282574||Particle Swarm Optimization
+C0282574||Particle Swarm Optimization
+C0681935||cross validation
+C0205161||abnormal
+C0200189||fundus images
+C0015392||eye
+C0220908||screening tool
+C0442592||polyclinics
+C1611835||specialists
+C0019994||hospitals

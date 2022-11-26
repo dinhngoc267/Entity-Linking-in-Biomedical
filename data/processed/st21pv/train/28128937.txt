@@ -1,0 +1,43 @@
+C0038774||Sulfur
+C0043481||Zinc
+C0043481||zinc
+C0038774||Elemental Sulfur
+C0015919||Fertilizers
+C0030011||oxidation
+C0038774||elemental sulfur
+C0038774||elemental sulfur
+C0043491||ZnO
+C0038774||sulfur
+C0038774||sulfur
+C0043481||zinc
+C0043481||zinc
+C0015919||fertilizer
+C0038774||elemental sulfur
+C0043491||ZnO
+C0007009||carbon
+C0449416||source
+C0078794||ZnSO4
+C0043491||ZnO
+C0205099||center
+C1322960||Petri dishes
+C0006686||CaCl2
+C0038774||sulfur
+C0043481||zinc
+C0038774||elemental sulfur
+C0015919||fertilizer
+C0205145||application site
+C0022885||visualization test
+C0043481||zinc
+C0728725||pH decrease
+C0001128||acidic
+C0039878||Acidithiobacillus thiooxidans
+C0427946||inoculated treatment
+C0043481||zinc
+C0022885||visualization tests
+C0043481||zinc
+C0001128||acidic
+C1159425||Elemental S oxidation
+C0001128||acidic
+C0038774||sulfur
+C0043481||zinc
+C0678695||nutrients

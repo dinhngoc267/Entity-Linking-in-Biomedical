@@ -1,0 +1,40 @@
+C1424272||Lipoic Acid Synthase
+C0017262||Gene Expression
+C0011881||Diabetic Nephropathy
+C0242606||Oxidative stress
+C0699748||pathogenesis
+C0011881||diabetic nephropathy
+C0011881||diabetic nephropathy
+C0008976||clinical trials
+C0003402||antioxidants
+C0022646||kidney
+C0011881||diabetic nephropathy
+C2986594||genetic antioxidant mouse model
+C0017262||over- or under-expression
+C1424272||lipoic acid synthase gene
+C1424272||lipoic acid synthase gene
+C2986594||models
+C1260875||mated
+C0025929||Ins2Akita/+ mice
+C0836995||type I diabetic
+C2986594||mouse model
+C4086730||pathologic changes
+C0242606||oxidative stress
+C0025929||mice
+C0025929||Ins2Akita/+ mice
+C0017262||under-expressed
+C1424272||Lias gene
+C0242606||oxidative stress
+C0011881||diabetic nephropathy
+C0001925||albuminuria
+C0445347||glomerular basement membrane thickening
+C3553722||mesangial matrix expansion
+C0025929||Ins2Akita/+ mice
+C0017262||expressed
+C1424272||Lias gene
+C0242606||oxidative stress
+C0011881||diabetic nephropathy
+C4086730||pathologic changes
+C2603343||study
+C0003402||antioxidant
+C0011881||diabetic nephropathy

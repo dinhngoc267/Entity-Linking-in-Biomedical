@@ -1,0 +1,70 @@
+C0242692||Skeletal muscle
+C0392673||adaptations
+C0025929||mice
+C0074554||simvastatin
+C0087111||treatment
+C0040808||regimen
+C0074554||simvastatin
+C0242692||skeletal muscle
+C0392673||adaptation
+C0025929||C57BL/6J wildtype mice
+C0074554||simvastatin
+C0087111||treatment
+C0392673||Adaptations
+C0015672||fatigue
+C0087110||treadmill running test
+C0581542||ankle plantarflexor
+C0026820||contractile
+C0242690||tibialis anterior
+C0242691||gastrocnemius
+C0242693||plantaris muscles
+C0220825||evaluated
+C0026237||mitochondrial
+C0392673||adaptations
+C0004391||autophagy
+C0074554||simvastatin
+C0025929||mice
+C0025929||mice
+C0581542||ankle plantarflexor
+C0026820||contractile
+C0015672||fatigue
+C0025929||mice
+C0074554||simvastatin
+C0087111||treatment
+C0007634||cellular level
+C0025929||mice
+C3494456||mitochondrial biogenesis
+C1570275||PGC1α
+C1171362||expression
+C0026237||mitochondrial
+C0008855||citrate synthase
+C0243102||activity
+C0074554||simvastatin
+C0087111||treatment
+C0026237||Mitochondrial
+C0004391||autophagy
+C0033684||protein
+C0025929||mice
+C1699488||Bnip3
+C0074554||simvastatin
+C0087111||treatment
+C1957127||Drp1
+C0005516||marker
+C0230871||mitochondrial fission
+C0074554||simvastatin
+C0025929||mice
+C0087111||treatment
+C3711208||LC3-II protein
+C0005516||marker
+C0004391||autophagy
+C0444584||whole body
+C0242692||skeletal muscle
+C0392673||adaptations
+C0074554||simvastatin
+C0087111||treatment
+C0074554||simvastatin
+C0879626||side effects
+C0026845||muscle
+C0026237||mitochondrial
+C0004391||autophagy
+C0026845||muscle

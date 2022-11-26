@@ -1,0 +1,19 @@
+C0001792||older adults'
+C0679006||decisional
+C0281588||quality-of-life assessments
+C0679006||decisions
+C0087111||treatments
+C0281588||quality-of-life assessments
+C0184661||interventions
+C0038454||stroke
+C0006118||brain cancer
+C0497327||dementia
+C0451267||Likert-type scales
+C0001792||older adult
+C0001792||older adult
+C0087111||treatment
+C0205160||negative
+C0001792||older adult
+C0001792||older adult
+C0234985||cognitive decline
+C0679006||decisions

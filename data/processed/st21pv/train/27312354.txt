@@ -1,0 +1,37 @@
+C0598496||constitutive inactivation
+C1333667||myostatin gene
+C0517349||muscle strength
+C0243109||postnatal growth
+C0025929||murine
+C0599779||models
+C0598496||constitutive inactivation
+C1333667||gene encoding myostatin
+C0517349||muscle performance
+C0243109||postnatal growth
+C0025929||murine
+C1333667||myostatin
+C0599779||Lee model
+C0206745||KO(Lee
+C0599779||Grobet model
+C0206745||KO(Grobet)
+C0026820||contraction
+C0242690||tibialis anterior muscle
+C0444498||in situ
+C0022205||Absolute maximal isometric force
+C0206745||KO(Lee)
+C0206745||KO(Grobet) mice
+C0026809||wild-type mice
+C0517349||absolute maximal power
+C0206745||KO(Lee) mice
+C0517349||maximal force
+C0517349||maximal force
+C0026845||muscle
+C0577559||mass
+C0206745||KO mice
+C0206745||KO(Grobet) mice
+C0206745||KO(Lee) mice
+C0598496||Genetic inactivation
+C1333667||myostatin
+C0517349||maximal force
+C0026845||muscle
+C0026809||mice

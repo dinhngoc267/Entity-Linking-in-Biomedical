@@ -1,0 +1,54 @@
+C0027149||Central Myxoma
+C0205766||Myxofibroma
+C0022359||Jaws
+C0442592||Clinico
+C0282443||Review
+C0027149||Myxomas
+C4054123||rare tumors
+C0009780||connective-tissue
+C0040300||hard (central)
+C0225317||soft tissues
+C0242821||body
+C0008972||study
+C0442592||clinic
+C0014406||environment
+C1704729||Oral and Maxillofacial Surgery department
+C0020027||regional University Teaching Hospital
+C0035363||retrospectively studied
+C0475445||site of tumor
+C3540840||signs/symptoms
+C0580351||treatment given
+C0009566||complications
+C0936012||analyzed
+C0037585||Statistical Package for Social Sciences (SPSS) version 16
+C0683757||SPSS Inc
+C0008044||Chicago
+C0020898||IL
+C0041703||USA
+C0037585||Microsoft Excel 2007
+C0683757||Microsoft
+C0008848||Redmond
+C0043038||WA
+C0041703||USA
+C1706074||tables
+C0684240||charts
+C0392366||test for significance
+C0008041||Pearson Chi-square
+C0024687||mandible
+C0024947||maxilla
+C0024947||maxilla
+C1269549||zygoma
+C0229962||Bucco-lingual
+C0229962||bucco-palatal
+C0205229||expansion
+C0220825||assessment
+C1292533||tissue specimens
+C0205766||fibromyxoma
+C0011900||diagnosed
+C0027149||myxoma
+C0185566||mandibulectomies
+C0407722||maxillectomies
+C0009566||Complications
+C0038941||surgical wound infections
+C0014406||environment
+C1522577||follow-up

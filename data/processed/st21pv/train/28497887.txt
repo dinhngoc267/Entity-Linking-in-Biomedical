@@ -1,0 +1,61 @@
+C0596545||experience
+C0278060||state
+C0233495||ambivalence
+C0038663||suicide attempts
+C0949415||qualitative study
+C0596545||experience
+C0233495||ambivalent space
+C0038663||suicide attempts
+C0038663||recurrent suicide attempts
+C0205229||expand
+C2603343||study
+C0025361||processes
+C0038663||recurrent suicide attempts
+C0233495||ambivalent space
+C0936012||Interpretive phenomenological analysis
+C0936012||Interpretive phenomenological analysis
+C0596545||lived experiences
+C0025361||meaning making
+C2347299||multidimensional
+C0596545||experiences
+C0038663||recurrent suicide attempts
+C0679646||participants
+C0043210||adult women
+C0038663||recurrent suicide attempts
+C0808232||therapeutic intervention
+C0035168||research
+C0205145||site
+C0027361||People
+C0038663||Suicide Attempts
+C0038663||PISA
+C0936012||Interpretive phenomenological analysis
+C0936012||analyse
+C0936012||Analysis
+C0278060||precarious state
+C0011109||making decisions
+C0679646||participants
+C2603343||study
+C0011109||making decisions
+C0596545||experienced
+C0278060||state
+C0423908||indecision
+C0038663||recurrent suicide attempts
+C0871685||Clinicians
+C0278060||state
+C0184661||interventions
+C0278060||state
+C0849912||emotional flux
+C0087130||uncertainty
+C0027361||person
+C0278060||state
+C0025361||interlinked subprocesses
+C0027361||person
+C3553489||fragility
+C0040226||temporality
+C0679006||decisions
+C1709627||practitioner
+C0162340||understanding
+C0243095||struggle
+C0184661||tailoring intervention
+C0025361||nuanced processes
+C0278060||state

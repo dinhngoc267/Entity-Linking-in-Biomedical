@@ -1,0 +1,33 @@
+C0044602||PI3K
+C0164786||Akt
+C0037080||pathway
+C0150055||chronic pain
+C0150055||Chronic pain
+C0012634||disorders
+C0150055||chronic pain
+C0162340||understanding
+C0184511||improve
+C0044602||PI3K
+C0522506||downstream
+C0164786||Akt
+C1171362||expressed
+C0037925||spinal cord
+C2340386||laminae I-IV
+C0228575||dorsal horn
+C0501409||nociceptive C
+C0027750||Aδ fibers
+C0206309||afferents
+C0008972||studies
+C0150055||chronic pain
+C0282443||review
+C0044602||PI3K
+C0164786||Akt
+C0037080||pathway
+C0242656||progression
+C0150055||chronic pain
+C0161467||sciatic nerve injury
+C0011882||diabetic neuropathy
+C0037929||spinal cord injury
+C0279530||bone cancer
+C0242402||opioid
+C0020429||hyperalgesia

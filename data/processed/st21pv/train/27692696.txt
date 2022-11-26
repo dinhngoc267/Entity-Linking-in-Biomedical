@@ -1,0 +1,20 @@
+C1514474||Significant Prognostic Factor
+C0751571||Upper Tract Urothelial Cancer
+C0220901||clinical prognostic value
+C0231287||postsurgical
+C0751571||upper tract urothelial cancer
+C0751571||upper tract urothelial cancer
+C0035363||retrospectively analyzed
+C0027732||radical nephrouretectomy
+C0751571||upper tract urothelial cancer
+C0392366||tests
+C0030660||adverse pathologic events
+C0010235||Cox proportional hazards models
+C0475455||T stage
+C0441800||higher cellular grade
+C0392366||tests
+C1457868||worse
+C0543467||surgically treated
+C0751571||upper tract urothelial cancer
+C0033522||prospective studies
+C0220901||prognostic value

@@ -1,0 +1,38 @@
+C0205143||angle
+C0410837||fixation failure
+C0015806||femoral neck fractures
+C0005975||cannulated compression screws
+C0205143||angle
+C0302142||deformity
+C0023216||lower extremity
+C1704322||orientation
+C0015806||femoral neck fracture
+C0035363||retrospective study
+C0033325||short-term prognosis
+C0005975||cannulated compression screws
+C0087111||treatment
+C0015806||femoral neck fractures
+C0015806||femoral neck fractures
+C0005975||cannulated compression screws
+C0936012||retrospectively analyzed
+C0205143||angle
+C0205128||vertical
+C1522496||neck axis
+C0205143||angles
+C1306645||radiographs
+C0205143||angles
+C0016658||fractures
+C0016641||fixation
+C1306645||radiographs
+C0016658||fractures
+C1306645||radiographs
+C0205143||angles
+C1306645||radiographs
+C0410837||fixation failure
+C0410830||screw loosening
+C0585059||fracture displacement
+C0015815||femoral neck
+C0016658||fractures
+C0033325||short-term prognosis
+C0015806||femoral neck fractures
+C0005975||cannulated compression screws

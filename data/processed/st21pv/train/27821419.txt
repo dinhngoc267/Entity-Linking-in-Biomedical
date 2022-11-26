@@ -1,0 +1,41 @@
+C2982391||Long Noncoding RNAs
+C0741949||Cardiovascular Pathology
+C1704656||Diagnosis
+C0087111||Therapy
+C0024660||mammalian
+C0017428||genomes
+C1519595||transcripts
+C1519614||translated into proteins
+C0887909||noncoding ribonucleic acids
+C0887909||(RNAs)
+C2982391||long noncoding RNAs
+C0017262||expressed
+C0007634||cell types
+C0012634||diseases
+C0017262||gene expression
+C1519614||translation
+C2982391||long noncoding RNAs
+C0017262||gene expression
+C1516924||epigenetic modulations
+C0017263||regulating
+C0002345||alternative splicing
+C2982391||long noncoding RNAs
+C0007226||cardiovascular system
+C1720950||regulatory network
+C0030660||pathology
+C0018787||heart
+C0205291||multifaceted
+C2982391||long noncoding RNAs
+C0023866||current literature
+C2263229||cardiac development
+C0012634||disease
+C1517331||Furthermore
+C2982391||long noncoding RNAs
+C1704656||diagnosis
+C0199176||prevention
+C0018801||heart failure
+C2982391||long noncoding RNAs
+C0005516||biomarkers
+C0028622||targets
+C0087111||treatment
+C0007222||cardiovascular disorders

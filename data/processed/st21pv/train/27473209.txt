@@ -1,0 +1,45 @@
+C0019080||Hemorrhagic
+C0750971||Cerebral Contusions
+C0876926||traumatic brain injury
+C0876926||traumatic brain injury
+C0019080||hemorrhagic
+C0009938||contusions
+C0009938||hemorrhagic progression of contusions
+C0332167||high-risk
+C0009938||HPC
+C0701159||hospitalized
+C0009938||HPC
+C0009938||contusion
+C0023965||Logistic regression models
+C0035648||risk factors
+C0009938||HPC
+C0009938||HPC
+C3161035||final model
+C0009938||HPC
+C0009938||HPC
+C0436789||higher initial blood pressure
+C0085826||antiplatelet medications
+C0003280||anticoagulants
+C0038525||subarachnoid hemorrhage
+C0038525||subarachnoid hemorrhage
+C0018946||subdural hematoma
+C0018946||subdural hematoma
+C0037304||skull fracture
+C0016732||frontal
+C0009938||contusion
+C0009938||contusion
+C0178314||injury
+C0040405||initial CT
+C3161035||final model
+C0038525||subarachnoid hemorrhage
+C0018946||subdural hematoma
+C0037304||skull fracture
+C0009938||HPC
+C0009938||HPC
+C0038525||subarachnoid hemorrhage
+C0018946||subdural hematoma
+C0037304||skull fracture
+C0009938||HPC
+C0009938||HPC
+C0009938||HPC
+C0009938||HPC

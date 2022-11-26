@@ -1,0 +1,12 @@
+C0008115||China
+C0018727||planning
+C0557980||evaluating public health interventions
+C0001869||air pollutants
+C0001869||air pollutants
+C0008115||China
+C1306577||deaths
+C0008115||China
+C0936012||analysis
+C0449774||inverse U-shaped pattern
+C0025266||men
+C0001792||elderly

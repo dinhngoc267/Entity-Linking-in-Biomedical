@@ -1,0 +1,58 @@
+C1095819||Leishmania
+C0430416||typing
+C0456984||results
+C0015176||European
+C1551301||clinical laboratories
+C0023281||Leishmaniasis
+C0037724||southern Europe
+C0015176||European
+C0454664||countries
+C0011900||diagnosed
+C0335278||travellers
+C1879646||affected areas
+C0332285||within
+C0454690||continent
+C0011900||diagnosis
+C2986419||clinical practice
+C0015176||Europe
+C0025663||methods
+C0439663||infecting
+C1095819||Leishmania
+C1705920||species
+C1551301||clinical laboratories
+C0015176||European
+C0454664||countries
+C0022271||Israel
+C0041400||Turkey
+C2603343||study
+C1285573||genotyping
+C0012854||DNA
+C0684063||promastigote cultures
+C1705920||species
+C0936012||analysed
+C0430416||typing
+C0025663||method
+C1513403||molecular targets
+C0936012||analysed
+C0032520||PCR-based
+C0025663||methods
+C0432600||achieved
+C1095819||Leishmania
+C1705920||species
+C1705920||species
+C0684224||reported
+C1705920||species
+C0430416||typing
+C2603343||study
+C0038136||standardisation
+C1095819||Leishmania
+C0430416||typing
+C1519941||validated
+C0459471||interpretation
+C0700287||reporting
+C0162791||guidelines
+C0205102||internal
+C0887858||spacer 1
+C0012931||rDNA
+C1415755||heat-shock protein 70 gene
+C0026163||mini-exon

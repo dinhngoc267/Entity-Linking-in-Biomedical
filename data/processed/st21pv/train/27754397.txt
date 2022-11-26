@@ -1,0 +1,29 @@
+C0429629||Total Energy Expenditure
+C0028754||Obese
+C0036375||Kuwaiti Primary School
+C0031928||pilot study
+C0429629||total energy expenditure
+C0429629||total energy expenditure
+C0028754||obese
+C1257890||Kuwaiti
+C0429632||Total body water
+C0429632||Total body water
+C0429629||total energy expenditure
+C0429632||Total body water
+C0231360||elimination rate
+C0011744||deuterium
+C0429629||total energy expenditure
+C0231360||elimination rates
+C0030061||(18)O
+C0011744||deuterium
+C0429632||Total body water
+C0424679||fat-free mass
+C0424679||fat-free mass
+C0424679||fat-free mass
+C0429632||Total body water
+C0429629||total energy expenditure
+C0150098||dataset
+C0429629||total energy expenditure
+C0028754||obese
+C1257890||Kuwaiti
+C2362324||childhood obesity

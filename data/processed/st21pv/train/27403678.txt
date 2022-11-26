@@ -1,0 +1,66 @@
+C0032595||Polysaccharide
+C0682638||Memory B Cells
+C0086418||Human
+C0038410||Pneumococcal
+C0853960||Carriage
+C0038410||pneumococcal
+C0853960||carriage
+C0020964||immunity
+C0853960||carriage
+C2347900||rechallenge
+C0004627||pneumococcal protein
+C0032595||polysaccharide
+C0032595||polysaccharide
+C0020964||immunity
+C0853960||carriage
+C3658217||heterologous challenge
+C1708335||healthy volunteers
+C1947989||colonized
+C0038410||pneumococcus
+C0853960||carriage
+C1688613||6B strain
+C0599755||cohort
+C1708335||volunteers
+C0032595||6BPS
+C0071312||PspA
+C2000489||PspC
+C0020852||IgG
+C0020835||IgA
+C0032112||plasma
+C0682638||memory B-cell populations
+C0038410||pneumococcal
+C2987620||inoculation
+C3658217||Heterologous challenge
+C1688613||6B
+C0853960||carriage
+C1708335||volunteers
+C0038410||pneumococcal
+C0853960||carriage
+C0853960||carriage
+C0032595||6BPS
+C0020852||IgG
+C1327616||secreting
+C0682638||memory B cells
+C0853960||carriage
+C0032595||6BPS
+C0020852||IgG
+C0229671||serum
+C0206289||nasal wash
+C0071312||PspA
+C2000489||PspC
+C0682638||memory B cells
+C0032112||plasma cells
+C1708335||volunteers
+C0243095||not develop
+C0853960||carriage
+C0032595||6BPS
+C0682638||memory B cells
+C0032595||6BPS
+C0032112||plasma cells
+C0231291||postinoculation
+C0032595||polysaccharide
+C0682638||memory B cells
+C0243095||not levels
+C0020852||IgG
+C0038410||pneumococcal
+C0853960||carriage

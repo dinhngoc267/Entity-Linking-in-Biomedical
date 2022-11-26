@@ -1,0 +1,23 @@
+C1874451||basis
+C0034533||radiation protection
+C0035016||rejuvenation
+C0086418||Human beings
+C1514583||proximity
+C0034552||radioactive waste
+C0205145||sites
+C0199171||medical procedures
+C0015333||radiation exposures
+C0034533||radiation protection
+C0242456||policy
+C0178539||cellular
+C0015333||radiation exposures
+C0005532||biology
+C0025118||medicine
+C0597452||single cell techniques
+C2603343||study
+C0005532||biology
+C0014412||exposures
+C0282574||theoretical framework
+C0015333||radiation exposures
+C0034533||radiation protection
+C0242456||policy

@@ -1,0 +1,85 @@
+C2351398||Masitinib
+C0087111||treatment
+C0272203||indolent systemic mastocytosis
+C0034656||randomised
+C1706408||placebo-controlled
+C0282461||phase 3 study
+C0272203||Indolent systemic mastocytosis
+C3897042||smouldering systemic mastocytosis
+C1963786||reduced quality of life
+C2351398||Masitinib
+C0033640||KIT
+C1442804||LYN kinases
+C0272203||indolent systemic mastocytosis
+C0699748||pathogenesis
+C1705187||safety
+C1707887||efficacy
+C2351398||masitinib
+C1696465||placebo
+C0436345||severely symptomatic
+C0087111||treatments
+C0034656||randomised
+C0013072||double-blind
+C1706408||placebo-controlled
+C0282461||phase 3 study
+C0272203||indolent
+C3897042||smouldering systemic mastocytosis
+C0043237||WHO
+C0008902||classification
+C0920316||documented
+C0024899||mastocytosis
+C0449574||histological criteria
+C0454664||countries
+C0221912||cutaneous
+C0221013||systemic mastocytosis
+C1507394||protocol amendment
+C0034656||randomised
+C2351398||masitinib
+C1696465||placebo
+C0436345||severe symptoms
+C2986535||primary endpoint
+C0521982||response
+C0436345||severe baseline symptom
+C0033774||pruritus
+C0451203||Hamilton Rating Scale for Depression
+C2733557||Fatigue Impact Scale
+C0086912||methodology
+C0678236||rare diseases
+C0282574||generalised estimating equation model
+C2718028||intention-to-treat
+C1257890||population
+C0679646||participants
+C0087111||treatment
+C0243095||non-treatment-related cause
+C1705187||safety
+C0013175||study drug
+C0008976||trial
+C0008976||ClinicalTrials.gov, number NCT00814073
+C2351398||masitinib
+C1696465||placebo
+C2351398||masitinib
+C0521982||response
+C2986535||primary endpoint
+C0521982||responses
+C0521982||responses
+C1696465||placebo
+C1519255||severe adverse events
+C1696465||placebo
+C0011991||diarrhoea
+C2351398||masitinib
+C1696465||placebo
+C0004093||asthenia
+C1519255||serious adverse events
+C0011991||diarrhoea
+C0042109||urticaria
+C2826244||life-threatening
+C0600688||toxicities
+C1696465||placebo
+C1546956||died
+C3161471||study treatment
+C2351398||masitinib
+C1254351||tolerated agent
+C0087111||treatment
+C0436345||severely symptomatic
+C0272203||indolent
+C3897042||smouldering systemic mastocytosis

@@ -1,0 +1,19 @@
+C0087153||ventilator
+C0334894||public health specialist
+C3812881||author
+C0337960||government hospital
+C0085559||intensive care
+C0079382||friends
+C0015187||euthanasia
+C3179065||social media
+C1257890||groups of people
+C0021201||India
+C0079382||friends
+C0011065||die
+C0027361||people
+C3812881||author
+C0021201||India
+C0027361||people
+C0086388||healthcare
+C0039869||think
+C0586182||conferences and meetings

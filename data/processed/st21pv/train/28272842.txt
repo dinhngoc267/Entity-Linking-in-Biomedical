@@ -1,0 +1,56 @@
+C0184511||Improved
+C1514983||stratification
+C2145472||urothelial carcinoma
+C0030561||Paris
+C0700287||Reporting
+C2979983||Urinary Cytology
+C0030561||Paris
+C0700287||Reporting
+C2979983||Urinary Cytology
+C2979983||TPS
+C0243092||cytomorphologic
+C0011900||diagnosis
+C2145472||high-grade urothelial carcinoma
+C2145472||high-grade urothelial carcinoma
+C2979983||urinary tract cytology
+C2979983||urinary tract cytology
+C0333907||nuclear-to-cytoplasmic (N/C) ratio
+C0007610||nuclear
+C0205284||borders
+C0333910||hyperchromasia
+C1868540||coarse chromatin
+C2979983||urinary tract cytology
+C0334227||malignant cells
+C2979983||TPS
+C0243092||cytomorphologic
+C2979983||urinary tract cytology
+C0011900||diagnosis
+C2145472||high-grade urothelial carcinoma
+C2979983||TPS
+C0150312||presence
+C2979983||TPS
+C0243092||cytomorphologic
+C2145472||high-grade urothelial carcinoma
+C0007634||cells
+C0011900||diagnosed
+C2145472||high-grade urothelial carcinoma
+C0008902||reclassification
+C0683312||category
+C0243092||cytomorphologic
+C0333907||N/C ratio
+C0243092||cytomorphologic
+C2979983||TPS
+C2145472||high-grade urothelial carcinoma
+C0334227||malignant cells
+C2145472||high-grade urothelial carcinoma
+C2979983||TPS
+C0007634||cells
+C2979983||urinary tract cytology
+C2979983||TPS
+C0184511||improved
+C1514983||stratification
+C0683312||categories
+C2145472||high-grade urothelial carcinoma
+C0011900||diagnoses
+C0006826||Cancer
+C0002455||American Cancer Society

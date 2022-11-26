@@ -1,0 +1,56 @@
+C1519302||Microsatellites
+C0007452||Cattle
+C0043381||Y Chromosome
+C1519302||Microsatellites
+C1519302||simple sequence repeats
+C1519302||simple sequence repeats
+C1517495||genomic organization
+C0314627||function
+C1519302||simple sequence repeats
+C0600436||base-pairs
+C0600436||base-pairs
+C0007452||cattle
+C0043381||Y chromsome
+C1519302||simple sequence repeats
+C0043381||Y chromosome
+C0162326||sequence
+C0332128||examined
+C1519302||simple sequence repeats
+C0007452||cattle
+C0043381||Y chromosome
+C0162326||sequence
+C1519302||simple sequence repeats
+C0162326||length
+C0600436||base-pairs
+C0600436||base-pairs
+C1519302||simple sequence repeats
+C0007452||cattle
+C0043381||Y chromosome
+C0028630||Mononucleotide repeats
+C0162326||length
+C0600436||base-pairs
+C1519302||simple sequence repeats
+C0282524||di-
+C0028630||tetra-
+C0028630||tri-
+C0028630||penta-
+C0028630||hexa-nucleotide repeats
+C1519302||simple sequence repeats
+C0028630||dinucleotides
+C0001407||A
+C0004793||AC
+C0004793||AT
+C0004793||AAC
+C0004793||AGC
+C0004793||GTTT
+C0004793||CTTT
+C0004793||ATTT
+C0004793||AACTG
+C0043381||Y chromosome
+C2603343||study
+C0007452||cattle
+C0043381||Y chromosome
+C0012854||DNA
+C0007452||cattle
+C0043381||Y-chromosome
+C1519302||simple sequence repeats

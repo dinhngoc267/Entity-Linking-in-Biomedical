@@ -1,0 +1,64 @@
+C0392413||dental implant
+C0205148||Surface
+C0040302||Ti
+C4041873||TiZr
+C0440216||implant materials
+C0079949||osseointegration
+C0018017||goal
+C2603343||study
+C0205148||surface
+C0486616||composition
+C0040302||Ti
+C4041873||TiZr
+C0392413||dental implant
+C0205148||surface
+C0392413||SLA
+C0392413||SLActive
+C0079949||osseointegration
+C0205148||substrate
+C0205148||surface
+C0392413||TiSLA
+C0392413||TiSLActive
+C0392413||TiZrSLA
+C0392413||TiZrSLActive
+C0205143||angle
+C0205148||Surface
+C0026020||scanning electron microscopy
+C0043301||X-ray diffraction
+C0037815||Raman μ-spectroscopy
+C2700282||X-ray photoelectron spectroscopy
+C0486616||composition
+C0205148||surface
+C0205148||surface
+C0392413||SLActive
+C0333056||protrusions
+C0037812||Spectroscopic
+C0205148||surface
+C0145999||titanium oxide
+C0145999||TiO2
+C0037815||Raman μ-spectroscopy
+C0145999||TiO2
+C0150312||present
+C0392413||TiSLA
+C0141060||rutile
+C0145999||TiO2
+C0392413||TiSLActive
+C0392413||TiZrSLA
+C0392413||TiZrSLActive
+C4041873||TiZr
+C0002154||alloy
+C0030011||oxidized
+C0043506||Zr
+C2700282||X-ray photoelectron spectra
+C0007009||carbon
+C0392413||TiSLA
+C0392413||TiZrSLA
+C0333056||protrusions
+C0007009||carbon
+C0079949||osseointegration
+C0392413||SLActive
+C0392413||dental implants
+C0486616||Composition
+C0205148||surface
+C0030015||oxide
+C0079949||osseointegration

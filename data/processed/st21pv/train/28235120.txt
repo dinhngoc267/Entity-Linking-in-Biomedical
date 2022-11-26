@@ -1,0 +1,42 @@
+C0220825||Evaluation
+C0435585||Distal Radius Fracture
+C0543467||Repair Surgery
+C0002766||Pain management
+C0435585||distal radius fracture
+C0435585||distal radius fracture
+C1273380||optimize
+C0002772||opioid
+C0435585||distal radius fracture
+C0033522||prospective study
+C0016658||fracture
+C0008902||classification
+C0435585||distal radius fracture
+C1305863||anesthesia type
+C0002772||opioid
+C0002772||pills
+C0877248||adverse events
+C0043210||female
+C0025266||male
+C0002915||general anesthesia
+C0198807||peripheral nerve block
+C0026549||morphine
+C1273937||no significant
+C0002915||general
+C0559822||AO/OTA [Arbeitsgemeinschaft für Osteosynthesefragen/Orthopaedic Trauma Association] classification
+C0008902||class A
+C0008902||class B
+C0008902||class C
+C0011289||Demographic analysis
+C0435585||distal radius fracture
+C0002915||general
+C3550265||increasing age
+C0442797||decreasing
+C0559822||fracture classification
+C0026549||morphine
+C0994475||pills
+C0717368||oxycodone/acetaminophen
+C0582175||Surgeons
+C1273380||optimizing
+C0002772||opioid
+C0435585||distal radius fracture
+C0543467||repair

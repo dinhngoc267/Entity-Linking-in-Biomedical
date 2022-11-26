@@ -1,0 +1,58 @@
+C0017337||Yin Yang
+C0017262||gene expression
+C2938924||ER+
+C3160889||node- breast cancer
+C0006142||Breast cancer
+C0006826||cancer
+C0011065||death
+C0043210||women
+C0012634||disease
+C1515021||subgroups
+C4042877||clinical decision making
+C0008972||study
+C0017337||genes
+C0017337||Yin and Yang
+C1511294||prognostic
+C0017262||expression
+C0242356||METABRIC
+C0086027||cohort
+C0006142||breast cancer
+C1515119||systemic therapy
+C0205103||intermediate
+C0332293||treated with
+C0279025||hormonal therapy
+C0205103||intermediate
+C0332293||treated
+C3665472||chemotherapy
+C0279025||hormonal therapy
+C0008902||stratifications
+C0006142||breast cancer
+C1519941||validated
+C0150098||datasets
+C1257890||group
+C2938924||estrogen receptor-positive
+C3160889||node negative
+C2938924||ER+
+C3160889||node-
+C0150098||datasets
+C0677850||adjuvant therapy
+C0918012||Concordance Index
+C2698560||YMR
+C2938924||ER+
+C3160889||node negative
+C0680536||commercially
+C2698560||YMR
+C2938924||ER+
+C3160889||node-
+C1515021||subgroup
+C2698560||OncotypeDx
+C2827401||MammaPrint
+C2698560||rorS
+C2698560||NPI
+C2698560||YMR
+C0037589||tool
+C1515021||subgroup
+C2938924||ER+
+C3160889||node-
+C0279025||hormonal therapy
+C0279025||adjuvant hormonal therapy

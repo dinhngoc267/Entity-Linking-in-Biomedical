@@ -1,0 +1,39 @@
+C1180347||protein complex
+C0282574||reconstructing
+C0014834||Escherichia coli
+C0872079||protein-protein physical interaction
+C0872079||protein-protein physical interaction
+C0150098||datasets
+C0014834||Escherichia coli
+C0150098||datasets
+C3714634||biological process
+C1180347||protein complexes
+C0489829||Naïve Bayesian formula
+C0872079||protein-protein physical interaction
+C0150098||datasets
+C0872079||physical PPI
+C0150098||datasets
+C0442726||detected
+C0185117||co-expression
+C0442726||detected
+C1138831||Gene Ontology
+C0150098||dataset
+C0872079||physical PPI
+C0150098||datasets
+C0037813||AP-MS
+C0872079||protein-protein physical interaction
+C0150098||datasets
+C0043094||gained high weights
+C0037813||AP-MS
+C0872079||protein-protein physical interaction
+C0150098||dataset
+C0150098||datasets
+C0242356||public databases
+C0442726||detected
+C3179452||hub protein(s)
+C0033684||protein
+C0442726||detected
+C2827421||construct
+C1180347||protein complexes
+C1180347||protein complex
+C0023866||literature

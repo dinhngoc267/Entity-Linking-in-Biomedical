@@ -1,0 +1,44 @@
+C0001038||Acetylation
+C0031715||Phosphorylation
+C0125607||LIF receptor
+C1155711||Self-Renewal
+C0018270||Growth
+C0037080||Signaling
+C4042879||Mouse Embryonic Stem Cells
+C0125606||LIF
+C1155711||self-renewal
+C4042879||mouse embryonic stem cells
+C4042879||mouse embryonic stem cells
+C0007634||cells
+C0125606||LIF
+C0125607||LIF receptor
+C0125607||LIF receptor
+C0037080||JAK-STAT3 pathway
+C1523873||receptor complex
+C1155711||self-renewal
+C0125607||LIF receptor
+C1511625||cytoplasmic domain
+C1155711||self-renewal
+C1622525||juxtamembrane region
+C1707271||C-terminal region
+C0030956||SPXX repeats
+C0031715||phosphorylated
+C0752312||MAPK
+C2248236||STAT3 activation
+C1155711||self-renewal
+C0660452||3K motif
+C0001038||acetylated
+C4042879||mouse embryonic stem cells
+C0125607||LIF receptor
+C1512485||homodimerization
+C0253050||STAT3
+C0150312||presence
+C0082758||gp130
+C0125607||LIF receptor
+C0253050||STAT3
+C0079189||cytokine
+C0125607||LIF receptor
+C0001038||acetylation
+C1519253||serine phosphorylation
+C0038250||stem cell
+C1155711||self-renewal

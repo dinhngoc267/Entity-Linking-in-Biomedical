@@ -1,0 +1,75 @@
+C0014912||Estradiol
+C0033262||prodrugs
+C0033262||Estradiol prodrugs
+C0001563||oral
+C0014939||estrogen
+C0232741||liver functions
+C0001563||Oral
+C0205054||hepatic
+C0877035||estrogenic effects
+C0023779||lipids
+C0019116||hemostatic factors
+C0037663||GH
+C0021665||IGF I
+C0003017||angiotensinogen
+C0001563||oral treatment
+C0014912||estradiol
+C0014912||E2
+C0033262||prodrugs
+C0033262||Estradiol prodrugs
+C0736268||liver tissue
+C0014912||E2
+C0014912||EC508
+C0007034||carbonic anhydrase II
+C0007034||carbonic anhydrase II
+C1149286||binding
+C0007034||CA II
+C0014792||erythrocytes
+C0033262||Estradiol prodrugs
+C2324289||portal vein blood
+C0023884||liver
+C0439799||passage
+C0034721||rats
+C0001563||orally treated
+C0042149||Uteri
+C3827964||weighed
+C0201950||Cholesterol fractions
+C0523500||angiotensinogen
+C0032105||plasma
+C0015011||ethinyl estradiol
+C0015011||ethinyl estradiol
+C0042149||uterine
+C0018270||growth
+C0205054||hepatic
+C0877035||estrogenic effects
+C0033262||Estradiol prodrugs
+C1326619||uterine growth
+C0032105||plasma
+C0008377||cholesterol
+C0003017||angiotensinogen
+C0201734||pharmacokinetic studies
+C0014912||EC508
+C0013125||intravenous
+C0001563||oral administration
+C0034721||rats
+C0001563||oral
+C0005767||blood
+C0032105||plasma
+C0014792||erythrocyte
+C0014912||EC508
+C1515655||in vivo
+C0023884||liver
+C0439799||passage
+C0014939||estrogenicity
+C0205054||hepatic
+C0877035||estrogenic effects
+C0014912||E2
+C0033262||sulfonamide EP
+C0001563||oral
+C0033262||Estradiol prodrugs
+C0023884||liver
+C0014792||erythrocytes
+C0014912||estradiol
+C0205054||hepatic
+C0001563||oral
+C0279494||estrogen therapy

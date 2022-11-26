@@ -1,0 +1,68 @@
+C3269135||apoptotic pathways
+C0556150||docosahexaenoic acid
+C0376358||prostate cancer
+C1880945||gene expression analysis
+C3179034||RT(2) Profile PCR Array System
+C3269135||apoptotic pathways
+C0556150||docosahexaenoic acid
+C0556150||docosahexaenoic acid
+C0162638||apoptosis
+C0376358||prostate cancer
+C0334227||cells
+C0086418||Human
+C0376358||prostate cancer
+C0334227||DU145 cells
+C0016157||fish oil
+C0015689||omega-3 PUFA
+C0556150||docosahexaenoic acid
+C0000545||Eicosapentaenoic acid
+C0000545||EPA
+C0133860||omega-6 PUFA
+C0003695||Arachidonic acid
+C0003695||AA
+C0007620||Cell viability
+C0162638||apoptosis
+C2986858||MTT assay
+C0752248||gene expression profiling
+C0334227||DU145 cells
+C3179034||real time quantitative polymerase chain reaction
+C3179034||real time quantitative polymerase chain reaction
+C0003695||AA
+C0007620||viability
+C0334227||DU145 cells
+C0016157||fish oil
+C0000545||EPA
+C0556150||docosahexaenoic acid
+C0007620||cell viability
+C1512773||growth inhibition
+C0556150||docosahexaenoic acid
+C0000545||EPA
+C0556150||docosahexaenoic acid
+C0017337||genes
+C0017337||genes
+C0556150||docosahexaenoic acid
+C3179034||real time quantitative polymerase chain reaction
+C0556150||docosahexaenoic acid
+C0017337||genes
+C0556150||docosahexaenoic acid
+C0162638||apoptosis
+C0334227||cancer cells
+C2984306||P53
+C2611831||MAPK
+C1519684||TNF
+C1513838||NF-κB signaling pathways
+C0556150||docosahexaenoic acid
+C0086418||human
+C0376358||prostate carcinoma
+C0334227||cell line DU145
+C0556150||docosahexaenoic acid
+C0334227||DU145 cells
+C0037080||pathways
+C2984306||P53
+C2611831||MAPK
+C1519684||TNF
+C1513838||NF-κB signaling pathways
+C1258062||Molecular mechanisms
+C0556150||docosahexaenoic acid
+C0162638||apoptosis
+C0334227||cancer cells

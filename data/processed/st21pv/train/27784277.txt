@@ -1,0 +1,54 @@
+C1858460||maternal
+C0814909||multilevel analysis
+C0006193||British Columbia
+C0006823||Canada
+C1858460||Maternal
+C0032961||pregnancy
+C0205160||negatively
+C0743925||fetal growth
+C0439713||homogenous
+C0743925||fetal growth
+C3840684||modified
+C0557720||physical environment
+C0242356||BC Perinatal Database Registry
+C1858460||Maternal
+C1519386||smoking status
+C0681906||self-reported
+C1504204||first prenatal care visit
+C0205221||dissemination
+C0017446||areas
+C0017446||dissemination areas
+C0237401||individual
+C0005615||births
+C1510837||particulate
+C0282163||immigrant
+C3161035||models
+C3161035||modeled
+C0017446||DA
+C0205160||negative
+C1858460||maternal
+C0017446||DA
+C0017446||DA
+C1858460||maternal
+C0017446||DA
+C0017446||DA
+C1446409||positive
+C0459847||heavy smokers
+C1553770||education levels
+C1510837||PM2.5
+C0282163||immigrant
+C0205160||negatively
+C1446409||positive
+C0242510||drug
+C0205160||negative
+C1858460||maternal
+C1858460||Maternal
+C0205160||negative
+C3840684||modification
+C0237401||individual
+C0237482||contextual
+C2603343||studies
+C0243095||findings
+C0162340||understand
+C0001721||affect
+C1286282||birth outcomes

@@ -1,0 +1,79 @@
+C0042071||Urokinase
+C0071216||Urokinase Receptor
+C0024880||Mast Cells
+C0597357||fMLF Receptors
+C0024880||Mast cell
+C0004827||basophils
+C0597357||high affinity receptor
+C0020846||IgE
+C0020846||FcɛRI
+C0312740||primary effector cells
+C0020517||allergic disorders
+C0042071||urokinase
+C0042071||uPA
+C1622667||plasminogen activation system
+C0031845||physiological
+C0030660||pathological events
+C1622501||cell migration
+C0021368||inflammation
+C0043240||wound healing
+C0302600||angiogenesis
+C4255448||metastasis
+C0042071||uPA
+C2717971||serine protease
+C0071216||uPAR
+C0119748||high affinity glycosyl-phosphatidyl-inositol (GPI)-anchored
+C0597357||receptor
+C0071216||uPAR
+C0042071||uPA
+C0243102||activity
+C0699040||cell surface
+C3822614||activates intracellular signaling
+C0021701||integrins
+C0206364||receptor tyrosine kinases
+C0872043||G-protein-coupled family
+C0597357||fMLF chemotaxis receptors
+C0597357||fMLF chemotaxis receptors
+C1171362||expression
+C0042071||uPA
+C0071216||uPAR
+C0597357||fMLF chemotaxis receptors
+C0086418||human
+C0024880||mast cells
+C0024880||mast cells
+C0004827||basophils
+C0024880||mast cells
+C0042071||uPA
+C0008018||chemotaxis
+C0024880||mast cells
+C0071216||uPAR
+C0071216||DII-DIII-uPAR
+C0002518||SRSRY sequence
+C0597357||fMLF chemotaxis receptors
+C2610454||cell chemotaxis
+C0024880||mast cells
+C0035696||mRNAs
+C0597357||fMLF chemotaxis receptors
+C0042071||uPA
+C0030956||soluble peptide
+C0071216||uPAR84-95
+C0002518||SRSRY chemotactic sequence
+C0071216||uPAR
+C0597357||fMLF chemotaxis receptors
+C0024880||mast cells
+C0008018||chemotaxis
+C0042071||uPA
+C0008013||chemoattractant
+C0024880||mast cells
+C0008018||chemotactic
+C0003316||epitope
+C0071216||uPAR
+C0023688||ligand
+C0597357||fMLF chemotaxis receptors
+C0078058||VEGF-A
+C0036536||secretion
+C0086418||human
+C0024880||mast cells
+C0042071||uPA
+C0071216||uPAR84-95
+C1148560||stimulation.

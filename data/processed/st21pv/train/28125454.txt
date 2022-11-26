@@ -1,0 +1,33 @@
+C0018704||internal facilitation
+C0019994||hospitals
+C0557981||implementing evidence-based interventions
+C3161035||models
+C0018704||internal facilitation
+C0031228||hospital personnel
+C2603343||study
+C0018704||internal facilitation
+C1552526||critical access hospitals
+C0022037||rural Iowa
+C0080268||TeamSTEPPS
+C1113679||patient safety
+C0184661||intervention
+C0018704||facilitation
+C1552526||critical access hospitals
+C0034869||transcripts
+C0936012||inductive analyses
+C0034869||transcripts
+C0018704||facilitation
+C0018704||facilitation
+C0237401||Individuals
+C0018704||facilitation
+C0243095||ad hoc manner
+C0027361||people
+C0237607||practices
+C0018704||facilitation
+C0019994||hospitals
+C4042762||evidence-based practices
+C0018704||facilitation
+C0376367||empirical
+C0018704||facilitation
+C0335141||managers
+C4042762||evidence-based interventions

@@ -1,0 +1,56 @@
+C0019045||Haemoglobinopathies
+C0005283||β-Thalassaemia
+C0040881||Tribals
+C0039400||Tea
+C0021201||India
+C0019045||haemoglobinopathies
+C0005283||β-thalassaemia
+C0021201||India
+C0040881||tribals
+C0039400||tea
+C2603343||study
+C0019045||haemoglobinopathies
+C0005283||β-thalassaemia
+C0040881||tribals
+C0039400||tea
+C0040881||tribals
+C0039400||tea
+C0936012||analysed
+C0009555||Complete Blood Count
+C0009555||Complete Blood Count
+C0008562||High Pressure Liquid Chromatography
+C0008562||High Pressure Liquid Chromatography
+C1511790||detection
+C0019045||haemoglobinopathies
+C0005283||β-thalassaemia
+C2603343||study
+C0002895||sickle cell anaemia
+C0005283||β-thalassaemia
+C1257890||population
+C1444656||indicated
+C0005283||β-thalassaemia
+C0015031||Munda ethnic group
+C0002895||sickle cell anaemia
+C0015031||Lohar ethnic group
+C2603343||study
+C0150312||presence
+C0019024||HbE
+C0040881||tribals
+C0039400||tea
+C0243095||findings
+C0002895||sickle cell anaemia
+C0005283||β-thalassaemia
+C0033213||problem
+C0040881||tribals
+C0039400||tea
+C0011929||diagnostic facilities
+C0019045||haemoglobinopathy
+C0039730||thalassaemia
+C0205146||areas
+C0019045||haemoglobinopathy
+C0039730||thalassaemia
+C0242356||database
+C0022877||haematological analysis laboratories
+C0442592||genetic counselling clinics
+C0565990||prenatal diagnosis centres
+C0565990||neonatal screening centres

@@ -1,0 +1,65 @@
+C0175996||intracellular
+C0043481||Zn(2+)
+C4236609||signaling
+C0206249||long-term potentiation
+C0524810||perforant pathway
+C2717851||CA1 pyramidal cell synapse
+C4236609||synaptic Zn(2+) signaling
+C0524810||perforant pathway
+C2717851||CA1 pyramidal cell synapses
+C1515655||In vivo
+C0206249||long-term potentiation
+C0206249||long-term potentiation
+C0524810||perforant pathway
+C2717851||CA1 pyramidal cell synapses
+C0013812||electrode
+C0206056||microdialysis
+C0182400||probe
+C0031001||perfused
+C0220806||artificial cerebrospinal fluid
+C0220806||artificial cerebrospinal fluid
+C0206056||microdialysis
+C0182400||probe
+C0524810||Perforant pathway
+C0206249||long-term potentiation
+C0031001||perfusion
+C0021212||CaEDTA
+C0521119||extracellular
+C0043481||Zn(2+)
+C0031001||perfusion
+C0021212||ZnAF-2DA
+C0175996||intracellular
+C0043481||Zn(2+)
+C0175996||intracellular
+C0043481||Zn(2+)
+C4236609||signaling
+C0524810||perforant pathway
+C0206249||long-term potentiation
+C1882598||rat brain slices
+C0021212||CaEDTA
+C0220806||artificial cerebrospinal fluid
+C0175996||intracellular
+C0043481||Zn(2+)
+C0175996||intracellular
+C0021212||ZnAF-2
+C0524810||perforant pathway
+C2717851||CA1 pyramidal cell synapses
+C1292856||tetanic stimulation
+C0175996||intracellular
+C0043481||Zn(2+)
+C4236609||signaling
+C0033684||proteins
+C0206249||long-term potentiation
+C0524810||perforant pathway
+C2717851||CA1 pyramidal cell synapses
+C0007613||influx
+C0521119||extracellular
+C0043481||Zn(2+)
+C0007613||presynaptic Zn(2+) release
+C0206249||long-term potentiation
+C3544403||Schaffer collateral
+C2717851||CA1 pyramidal cell synapses
+C0039062||synapse
+C0043481||Zn(2+)
+C4042875||plasticity
+C0206441||CA1 pyramidal cells

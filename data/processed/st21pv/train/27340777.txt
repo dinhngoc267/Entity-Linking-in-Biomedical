@@ -1,0 +1,34 @@
+C2002138||orphan receptor GPR55
+C0065391||lysophosphatidylinositol
+C0027627||metastasis
+C3539878||triple-negative breast cancer
+C0682972||orphan G protein-coupled receptor
+C2002138||GPR55
+C0018270||growth
+C0596290||cell proliferation
+C0302600||sustained angiogenesis
+C0007577||cell adhesion
+C0597357||receptor
+C0027627||metastasis
+C0086418||human
+C0027651||tumors
+C0027671||aggressive basal
+C3539878||triple-negative breast cancer
+C1257890||population
+C0027627||metastases
+C0033325||prognosis
+C2002138||GPR55
+C0023688||ligand
+C0065391||lysophosphatidylinositol
+C1512505||breast cancer cells
+C1515655||in vivo
+C2975447||Gq/11 heterotrimeric proteins
+C0600388||ERK
+C1333479||transcription factor ETV4
+C0084827||PEA3
+C2002138||GPR55
+C0678222||breast cancer
+C0027627||metastasis
+C0597357||orphan receptor
+C0005516||biomarker
+C1519691||aggressive triple-negative subtype

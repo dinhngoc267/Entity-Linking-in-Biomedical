@@ -1,0 +1,27 @@
+C0027923||Neurospora crassa
+C0007648||cellulosic
+C0678710||ethanol production
+C1260875||breeding
+C0543488||interest
+C0007648||cellulosic
+C0001962||ethanol
+C0016832||filamentous fungus
+C2603343||study
+C1157836||cellulose metabolism
+C1522225||knock-out
+C0596988||mutants
+C1157836||cellulose metabolism
+C0871648||habitats
+C0007648||cellulose
+C0015852||fermentation
+C0022877||laboratory
+C3161035||model
+C0016832||fungus
+C0027923||Neurospora crassa
+C0016832||populations
+C0016832||population
+C0016832||parents
+C0678710||ethanol production
+C0002085||alleles
+C1260875||breeding
+C0678710||bioethanol production

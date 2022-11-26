@@ -1,0 +1,45 @@
+C0019932||hormones
+C1955907||adipocytokines
+C0205714||infant growth
+C3280927||first 6 months of life
+C1858460||maternal
+C1305855||body mass index
+C1305855||body mass index
+C0022925||stage of lactation
+C0021641||insulin
+C0017725||glucose
+C0299583||leptin
+C0021760||IL-6
+C1456820||TNF-α
+C1623041||breastfeeding infants
+C1623040||mothers
+C0022925||lactation
+C1285593||body composition measured
+C1510486||dual-energy X-ray absorptiometry
+C1858460||maternal
+C1305855||body mass index
+C0202098||insulin levels
+C0428405||insulin was 229% higher
+C0028754||obese
+C2712185||normal weight
+C0006147||nursing
+C0028754||obese
+C0299583||leptin
+C1305855||body mass index
+C0497406||overweight
+C0028754||obese
+C2747815||higher leptin levels
+C2712185||normal weight
+C0299583||Leptin
+C1305855||body mass index
+C0299583||leptin
+C0455806||infant length
+C0518026||percent fat
+C0017725||glucose
+C1456820||TNF-α
+C0021760||IL-6
+C1858460||maternal
+C1305855||body mass index
+C0022925||stage of lactation
+C0021641||insulin
+C0299583||leptin

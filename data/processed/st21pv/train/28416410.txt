@@ -1,0 +1,41 @@
+C0034771||Recanalization
+C0087111||Endovascular Treatment
+C0002940||Unruptured Small Aneurysms
+C1274109||Single-Center
+C0596545||Experience
+C0444764||coiling
+C0007766||unruptured intracranial aneurysms
+C0007766||unruptured intracranial aneurysms
+C0034771||recanalization
+C0034771||recanalization
+C0007766||unruptured intracranial aneurysms
+C0007766||unruptured intracranial aneurysms
+C0021622||institute
+C0007766||unruptured intracranial aneurysms
+C0007766||unruptured intracranial aneurysms
+C0034771||recanalization
+C0087111||procedure
+C0009566||complications
+C0002978||angiographic
+C1522577||follow-up results
+C0002940||aneurysms
+C0002940||aneurysms
+C3203359||ruptures
+C0040038||thromboembolic events
+C0002978||Angiographic
+C1522577||follow-up
+C0034771||recanalization
+C0002940||aneurysms
+C0034771||recanalization
+C0243095||Anatomic results
+C1522577||follow-up
+C0456389||size
+C0034771||recanalization
+C2603343||study
+C0013931||coil embolization
+C0007766||unruptured intracranial aneurysms
+C0034771||recanalization
+C1522577||follow-up
+C0243095||Anatomic results
+C1522577||follow-up
+C0034771||recanalization

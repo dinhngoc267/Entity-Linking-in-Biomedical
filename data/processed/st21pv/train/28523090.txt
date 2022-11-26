@@ -1,0 +1,10 @@
+C0418073||Craniomaxillofacial Injury Caused by a Pneumatic Nail Gun
+C0226896||oral
+C0027423||nasal cavities
+C0394805||lingual nerve
+C0394801||inferior alveolar nerve blocks
+C0412771||spontaneous respiration
+C0040408||tongue
+C0243095||distracted
+C0700374||palate
+C0458827||upper airway

@@ -1,0 +1,39 @@
+C0042109||Urticarial
+C0015230||exanthema
+C0019163||hepatitis B
+C0033011||pregnant woman
+C0031736||polymorphic eruption
+C0032961||pregnancy
+C3854623||Hepatitis B virus (HBV) infection in pregnant women
+C0017446||western countries
+C0221912||cutaneous
+C0019163||HBV infection
+C0037274||dermatosis
+C0032961||pregnancy
+C0043210||woman
+C0032961||pregnancy
+C0033771||pruritic rash
+C0332477||erythematous plaques
+C0243095||purple centre
+C0036743||Serology testing
+C0019163||acute HBV infection
+C0005558||biopsy
+C0205124||superficial
+C3810076||interstitial perivascular inflammatory infiltrate
+C0024264||lymphocytes
+C0014467||eosinophils
+C0011900||diagnosis
+C0015230||exanthema
+C0019163||acute hepatitis B infection
+C0559563||delivered
+C0686744||clinically healthy boy
+C0474232||HBV vaccine
+C0085297||intravenous specific immunoglobulin
+C0439663||infected
+C0019169||Hepatitis B virus
+C0019163||Hepatitis B virus
+C0015230||exanthema
+C0033011||pregnant woman
+C0242648||vertical transmission
+C1623038||cirrhosis
+C2239176||hepatocellular carcinoma

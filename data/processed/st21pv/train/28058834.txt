@@ -1,0 +1,58 @@
+C1148560||Transmembrane Activity
+C0030956||Peptide
+C0018026||Gold Nanostars
+C0040405||Computed Tomography
+C3897929||Photoacoustic Imaging
+C0454527||Photothermal Therapy
+C0920425||tumor therapy
+C0027651||tumor
+C0087111||delivery strategies
+C2606266||pH (low) insertion peptides
+C2606266||pH ( low ) insertion peptides
+C1148560||transmembrane activity
+C0332462||fold
+C0023768||lipid bilayer
+C0597032||tumor cells
+C0018026||gold nanostars
+C0018026||gold nanostars
+C2606266||pH ( low ) insertion peptides
+C0018026||GNS
+C2606266||pHLIP
+C0454527||photothermal therapeutic
+C0454527||photothermal therapeutic
+C0018026||GNS
+C2606266||pHLIP
+C0456389||size
+C0018026||GNS
+C0066763||mPEG
+C0018026||GNS
+C2606266||pHLIP
+C0007634||cells
+C0027651||tumor
+C4055506||accumulation
+C0018026||GNS
+C2606266||pHLIP
+C0018026||GNS
+C0066763||mPEG
+C0596890||MCF-7
+C1458155||breast tumor
+C0012644||animal models
+C0018026||GNS
+C2606266||pHLIP
+C0018026||GNS
+C0066763||mPEG
+C0040405||computed tomography
+C0040405||computed tomography
+C3897929||photoacoustic (PA) imaging
+C0454527||photothermal therapeutic
+C0027651||tumors
+C0879626||side effects
+C0040300||tissues
+C0018026||GNS
+C2606266||pHLIP
+C0027651||tumor
+C2606266||pH ( low ) insertion peptides
+C0018026||GNS s
+C0027651||tumor
+C0011923||imaging
+C0087111||therapy

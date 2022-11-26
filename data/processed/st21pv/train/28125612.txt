@@ -1,0 +1,67 @@
+C0017387||Recombinant
+C0086418||Human
+C0370058||Anti-Platelet scFv Antibody
+C0997362||Pichia pastoris
+C0264956||Atheroma
+C0007634||Cells
+C0020962||immune system
+C0242656||progression
+C2936350||atherosclerotic plaque
+C0332461||plaque
+C1444783||instability
+C3203359||rupture
+C1963943||atherothrombotic
+C0010054||coronary artery disease
+C0007820||cerebrovascular disease
+C0085096||peripheral arterial disease
+C0525050||cloning
+C1171362||expression
+C0220825||assessment
+C1883036||single-chain variable fragment
+C1883036||scFv
+C0086418||human
+C0016011||anti-αIIbβ3 antibody
+C0016011||human anti-αIIbβ3 antibody
+C0264956||atheromatous
+C0221198||lesions
+C0150312||presence
+C0005821||platelets
+C0005821||platelets
+C2936350||atheroma plaques
+C0021368||inflammation
+C0005821||platelet
+C0023516||leucocyte
+C0087086||thrombi
+C0005516||biomarkers
+C0242656||progression
+C0162326||DNA sequence
+C1883036||anti-αIIbβ3 TEG4 scFv
+C3494191||phage-display selection
+C0005821||platelets
+C1512796||inserted
+C0684063||eukaryote
+C1514152||vector
+C1514152||pPICZαA
+C0162326||tag sequence
+C0010654||cysteines
+C0022885||grafting experiments
+C0034861||recombinant protein
+C1171362||expressed
+C0997362||Pichia pastoris
+C0010454||culture
+C0997362||P. pastoris
+C1171362||expression
+C0036536||secretion
+C0034861||recombinant proteins
+C1550101||supernatant
+C1883036||scFv
+C0010834||cytoplasm
+C0004611||bacteria
+C0003255||affinity
+C0184511||improved
+C0574031||biologically active scFv fragments
+C0205145||site
+C0011923||imaging
+C2936350||atherosclerotic plaques
+C0332167||high risk of
+C1444783||instability

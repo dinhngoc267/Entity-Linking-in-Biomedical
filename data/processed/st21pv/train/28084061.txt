@@ -1,0 +1,44 @@
+C0034991||rehabilitation
+C1275743||Comorbid conditions
+C0086388||health care
+C0034991||rehabilitation
+C0034991||rehabilitation
+C0034991||rehabilitation
+C1709709||Prospective open-cohort study
+C0034991||rehabilitation
+C1305702||ward
+C0004340||Melbourne
+C0004340||Australia
+C0184666||admitted
+C0034991||rehabilitation
+C0030685||discharge
+C0079220||destination
+C0566251||reason
+C0034991||rehabilitation
+C0451172||Functional Independence Measure
+C0034980||regression analyses
+C0034991||rehabilitation
+C0451172||Functional Independence Measure-motor
+C0034991||rehabilitation
+C0030685||discharge
+C0184666||admission
+C0030685||discharge
+C0079220||destination
+C0442519||home
+C0425078||lived at home
+C0566251||reason
+C0034991||rehabilitation
+C1136201||orthopaedic
+C0027361||people
+C0030685||discharged
+C0442519||home
+C0034869||recorded
+C0034869||recorded
+C0231170||disability
+C0034991||rehabilitation
+C0030685||discharge
+C0079220||destination
+C2708733||clinical information
+C0034991||rehabilitation
+C0035168||research
+C0034991||rehabilitation

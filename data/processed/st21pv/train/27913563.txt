@@ -1,0 +1,48 @@
+C0027361||person
+C0031831||docto
+C0031831||doctors
+C0949415||qualitative study
+C0031831||doctors
+C0041700||UK
+C0023973||London
+C0017446||Yorkshire
+C0017446||Humber
+C0454861||Kent
+C0454877||Surrey
+C0017446||Sussex
+C0043015||Wales
+C0031831||junior doctor
+C0332522||contract
+C0029246||General Medical Council
+C2603343||study
+C0041700||UK
+C0588053||graduates
+C0016553||International Medical Graduates
+C0037778||specialties
+C0086343||General Practice
+C0025118||Medicine
+C1274104||Obstetrics and Gynaecology
+C0033873||Psychiatry
+C0034599||Radiology
+C0038894||Surgery
+C0016617||Foundation
+C0162579||workplaces
+C0079382||friends
+C0038443||stresses
+C0023185||learning
+C0038443||stresses
+C0438698||morale
+C0438698||harm
+C1527305||feeling
+C0043210||women
+C0012632||discriminatory
+C0004271||attitudes
+C0037778||specialty
+C0086343||General Practice
+C0031831||junior doctor
+C0332522||contract
+C0436331||exacerbate
+C0033213||problems
+C0023185||learning
+C0043210||Women
+C0184511||improve

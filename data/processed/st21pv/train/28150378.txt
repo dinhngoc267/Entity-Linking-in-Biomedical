@@ -1,0 +1,33 @@
+C0805586||Challenging
+C0027978||New Zealand
+C0564547||empathic
+C0017313||patient care
+C0038492||students
+C0038492||students
+C0237607||experienced
+C0871685||clinicians
+C2603343||study
+C2700446||self-reported
+C1257890||groups
+C0038495||medical students
+C0599755||cohort
+C0038496||nursing students
+C0023185||learning
+C0038495||medical
+C0038496||nursing students
+C0038495||medical student
+C0599755||cohorts
+C0038496||nursing student
+C0599755||cohort
+C0557286||no formal
+C2700446||self-reported
+C0599755||cohorts
+C0038492||students
+C0150312||present
+C0038492||students
+C0023185||learned by
+C0038492||students
+C0564547||inherent empathic qualities
+C1704312||health professionals
+C0518609||consideration
+C0237607||experience

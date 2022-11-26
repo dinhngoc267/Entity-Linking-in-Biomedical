@@ -1,0 +1,69 @@
+C2350270||periodontal atrophy
+C0011382||occlusal
+C0040426||teeth
+C0031093||periodontal ligament
+C0031093||periodontal ligament
+C0932533||interradicular alveolar bone
+C0932533||interradicular alveolar bone
+C0034715||Sprague-Dawley rats
+C1257890||groups
+C0011382||normal occlusion
+C1257890||group
+C0011382||occlusal
+C1257890||group
+C1257890||occlusal hypofunction group
+C0087111||treatment
+C0011382||occlusion
+C4082817||maxillary first molar
+C4082817||M1
+C1257890||H
+C1257890||HL groups
+C0376583||bite-raising technique
+C1257890||HL group
+C0932533||interradicular alveolar bone
+C0031093||periodontal ligament
+C4082817||M1
+C2350281||microcomputed tomography
+C2350281||microcomputed tomography
+C0936012||analysis
+C0035696||mRNA
+C1171362||expression
+C0079189||cytokines
+C0031093||periodontal ligament
+C0599161||real-time reverse transcription quantitative PCR
+C0599161||qRT-PCR
+C1421244||twist family bHLH transcription factor 1
+C1421244||twist family bHLH transcription factor 1
+C1424662||periostin
+C1413791||connective tissue growth factor
+C1413791||connective tissue growth factor
+C0031093||periodontal ligament
+C2350281||Micro-CT
+C0936012||analysis
+C0031093||periodontal ligament
+C1257890||H group
+C1257890||C
+C1257890||HL groups
+C0932533||interradicular alveolar bone
+C1257890||H group
+C1257890||C group
+C0932533||interradicular alveolar bone
+C1257890||HL group
+C0599161||qRT-PCR
+C0936012||analysis
+C1421244||twist family bHLH transcription factor 1
+C1424662||periostin
+C1413791||connective tissue growth factor
+C0035696||mRNA
+C1257890||H group
+C1257890||HL group
+C0333641||atrophic
+C0932533||alveolar bone
+C0041904||upregulation
+C1424662||periostin
+C1413791||connective tissue growth factor
+C1171362||expression
+C0031093||periodontal ligament
+C0043240||healing
+C0857127||induction
+C0011382||occlusal

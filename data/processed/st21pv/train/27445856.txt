@@ -1,0 +1,28 @@
+C1446409||Positively
+C0001701||Aerobic
+C0238703||Athletes
+C1268088||lower
+C1268087||upper-body
+C0410158||muscle damage
+C0243095||markers responses
+C0238703||athletes
+C0080105||subjects
+C0034656||randomly allocated
+C0032919||tested pre- and post
+C1268088||lower-body
+C1268087||upper-body
+C1268087||upper-body
+C0429687||exercise test
+C1268088||lower-body
+C1268087||upper-body
+C0429687||exercise test
+C1268087||upper
+C1268088||lower-body
+C1268088||lower-body
+C1268088||lower-body
+C1268087||upper-body
+C1268088||lower-body
+C1268088||lower-body
+C1268087||upper-body
+C1268088||lower
+C1268087||upper-body

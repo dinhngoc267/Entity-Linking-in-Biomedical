@@ -1,0 +1,34 @@
+C0018810||Heart rate
+C0038436||post-traumatic stress disorder
+C1457887||symptoms
+C0018810||Heart rate
+C0004388||autonomic nervous system
+C2603343||study
+C2350828||HRV
+C0038436||post-traumatic stress disorder
+C0038436||post-traumatic stress disorder
+C1457887||symptoms
+C0524647||Army National Guard soldiers
+C2603343||Warriors Achieving Resilience (WAR) study
+C0038436||post-traumatic stress disorder
+C1457887||symptom
+C0038436||post-traumatic stress disorder
+C0451524||Checklist
+C3245458||Military
+C0333052||version
+C0451524||PTSD Checklist - Military version
+C0018810||Heart rate
+C0425583||cardiac inter-beat
+C3161035||linear mixed models
+C0451524||PTSD Checklist - Military version
+C0451524||PTSD Checklist - Military version
+C0451524||PTSD Checklist - Military version
+C0034510||race
+C0015031||ethnicity
+C0008060||childhood abuse
+C0876926||traumatic brain injury
+C1710706||combat zone
+C0018810||heart rate
+C0038436||post-traumatic stress disorder
+C1457887||symptoms
+C0451524||PTSD Checklist - Military version

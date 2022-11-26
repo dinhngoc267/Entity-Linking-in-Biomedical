@@ -1,0 +1,65 @@
+C0001869||Persistent Organic Pollutants
+C0001869||Persistent Organic Pollutants
+C0008848||cities
+C2603343||study
+C0071696||polyurethane foam
+C0071696||polyurethane foam
+C0180459||disks
+C0008848||cities
+C0008107||Chile
+C0017446||Santiago
+C0017446||Santiago
+C0449705||sampling sites
+C0017446||Concepciόn
+C0017446||Concepciόn
+C0017446||Temuco
+C0017446||Temuco
+C0032447||Polychlorinated biphenyls
+C0032447||Polychlorinated biphenyls
+C0360424||chlorinated pesticides
+C0005038||hexachlorocyclohexanes
+C0005038||hexachlorocyclohexanes
+C0011041||dichlorodiphenyl trichloroethanes
+C0011041||dichlorodiphenyl trichloroethanes
+C0016198||flame retardants
+C2350562||polybrominated diphenyl ethers
+C2350562||polybrominated diphenyl ethers
+C0024868||gas chromatography coupled mass spectrometry
+C0024868||gas chromatography coupled mass spectrometry
+C0032447||PCB
+C0017446||Temuco
+C0017446||Santiago
+C0017446||Concepciόn
+C0032447||Polychlorinated biphenyls
+C0032447||PCB
+C0442726||detected
+C0442611||industrial sites
+C0017446||Concepción
+C0005038||hexachlorocyclohexanes
+C0005038||γ-HCH
+C0205145||sites
+C0005038||lindane
+C0005038||hexachlorocyclohexanes
+C0008107||Chile
+C0011041||dichlorodiphenyl trichloroethanes
+C0442726||detected
+C0011038||p,p'-DDE
+C0011041||dichlorodiphenyl trichloroethanes
+C2350562||PBDE
+C0017446||Santiago
+C0017446||Concepciόn
+C0017446||Temuco
+C0684224||reported
+C0449774||pattern
+C2350562||polybrominated diphenyl ethers
+C0008848||cities
+C2350562||PBDE
+C0205145||sites
+C0220825||assessments
+C0001869||Persistent Organic Pollutants
+C0454664||country
+C0001869||Persistent Organic Pollutants
+C0011000||reporting
+C2698041||member
+C0454664||country
+C0017446||Group of Latin America and Caribbean Countries (GRULAC) region

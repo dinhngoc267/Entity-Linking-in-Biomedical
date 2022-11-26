@@ -1,0 +1,55 @@
+C0151908||Dry skin
+C0449430||stress
+C0232338||blood flow
+C0221912||Cutaneous
+C0232338||blood flow
+C0232416||thermoregulation
+C0429622||oxygen supply
+C0242739||nutritional support
+C1123023||skin
+C0232338||blood flow
+C0037289||skin physiology
+C0038951||surveys
+C1708335||healthy volunteers
+C0151908||dry skin
+C0221912||cutaneous
+C0232337||vascular function
+C0221921||stratum corneum
+C0232421||transepidermal water loss
+C0151908||dry skin
+C0449381||parameters
+C0221912||Cutaneous
+C0232338||blood flow
+C0679218||resting state
+C0018563||hand
+C0022885||cold-stress test
+C0222084||facial skin
+C0232338||blood flow
+C0419138||local cooling
+C0332128||examined
+C0918012||indices
+C0221912||cutaneous
+C0232337||vascular functions
+C0151908||dry skin
+C0449381||parameters
+C0221912||cutaneous
+C0232337||vascular functions
+C1123023||skin
+C1140621||leg
+C0221921||stratum corneum
+C0679218||resting state
+C0232338||blood flow
+C0151908||dry skin
+C0449381||parameters
+C0015450||face
+C0242821||body
+C0151908||skin dryness
+C0222084||facial skin
+C0232338||blood flow
+C0419138||local cooling
+C1444656||indicating
+C0151908||dry skin
+C0232338||blood flow
+C0679218||resting state
+C0151908||dry skin
+C0019868||homeostasis

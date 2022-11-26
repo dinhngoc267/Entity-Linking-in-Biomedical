@@ -1,0 +1,49 @@
+C0279024||Radiosensitization
+C0007131||non-small-cell lung cancer
+C0334227||cells
+C0520484||xenografts
+C0210657||pemetrexed
+C0066156||methoxyamine
+C1254351||anti-folate
+C0210657||pemetrexed
+C0034541||radiosensitizer
+C1514292||pre-clinical models
+C0210657||pemetrexed
+C1158530||base-excision-repair
+C0066156||methoxyamine
+C0066156||methoxyamine
+C0210657||pemetrexed
+C0279024||radiosensitization
+C0152013||lung adenocarcinoma
+C0520484||xenografts
+C4277577||A549
+C0334227||H1299 cells
+C0007586||cell cycle
+C0016263||flow cytometry
+C0279024||radiosensitization
+C0041372||clonogenic assay
+C0012899||DNA repair
+C0751980||neutral comet assay
+C1159338||repair protein
+C0334227||H460 cells
+C0520484||Xenografts
+C0025932||nude mice
+C0332154||received drug
+C0175720||caliper
+C0600688||toxicity
+C0210657||pemetrexed
+C0066156||methoxyamine
+C0334227||H1299
+C0334227||H460
+C4277577||A549
+C4055506||accumulation
+C0334227||cells
+C0279024||Radiosensitization
+C3155842||DNA double-strand-break rejoining
+C0212694||DNA-PKcs
+C0066156||methoxyamine
+C0210657||pemetrexed
+C0025932||mice
+C0066156||methoxyamine
+C0210657||pemetrexed
+C2585890||non-squamous non-small-cell lung cancer

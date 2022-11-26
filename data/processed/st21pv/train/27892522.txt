@@ -1,0 +1,51 @@
+C1175175||severe acute respiratory syndrome
+C0010076||coronavirus
+C0030956||peptides
+C0596901||membrane
+C0205148||surface
+C1721020||Viral membrane fusion
+C1622010||membrane-anchored
+C0042716||viral fusion glycoproteins
+C3658241||S2
+C0599220||subunit
+C3658241||spike glycoprotein
+C1175175||severe acute respiratory syndrome
+C1175175||severe acute respiratory syndrome
+C0010076||coronavirus
+C0010076||coronavirus
+C1514562||internal domains
+C0030956||fusion peptides
+C0030956||fusion peptides
+C1537068||virus entry
+C0025246||membrane fusion
+C2603343||studied
+C0023779||lipid
+C0023768||bilayer
+C0030956||fusion peptide
+C0596901||membrane
+C0006780||differential scanning calorimetry
+C0006780||differential scanning calorimetry
+C0013845||electron spin resonance
+C0013845||electron spin resonance
+C0025246||membrane fusion
+C1175175||severe acute respiratory syndrome
+C0030956||FPs
+C0006780||differential scanning calorimetry
+C0030956||peptides
+C0678594||structural
+C1622418||anionic vesicles
+C0030956||peptides
+C0031618||phosphatidylethanolamine
+C0596901||membranes
+C0013845||electron spin resonance
+C0030956||FPs
+C0023779||lipid
+C0596901||intramembrane
+C0596901||anionic membranes
+C0023768||bilayer
+C0596901||membrane
+C1963090||dehydration
+C0031676||phospholipids
+C1175175||severe acute respiratory syndrome
+C0010076||coronavirus
+C0025246||membrane fusion

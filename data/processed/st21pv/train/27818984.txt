@@ -1,0 +1,21 @@
+C1265659||Posterior dislocation
+C0038291||sternoclavicular joint
+C0684224||report
+C0684224||report
+C0337205||sporting accident
+C1265659||posterior traumatic dislocation
+C0038291||sternoclavicular joint
+C0185500||closed reduction
+C0015385||limb
+C0183346||sling
+C1293152||reduction
+C1265659||dislocation
+C0543467||surgical treatment
+C0040405||computed tomography
+C1704656||diagnosing
+C1293152||reduction procedure
+C2603343||study
+C0087111||treatment
+C3263722||injury
+C1265659||posterior dislocation
+C0038291||sternoclavicular joint

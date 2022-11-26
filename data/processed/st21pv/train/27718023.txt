@@ -1,0 +1,43 @@
+C1171362||Expression
+C0291573||caspase 3
+C0018120||ovarian follicle
+C0007634||cells
+C0023916||lizard
+C1025381||Podarcis sicula
+C0291573||caspase 3
+C0042895||previtellogenesis
+C0205065||ovarian
+C0040300||follicular epithelium
+C0023916||lizard
+C1025381||Podarcis sicula
+C0291573||caspase 3
+C2717977||enzyme assay
+C0005863||Western blotting
+C0242349||immunocytochemistry
+C1413132||caspase 3
+C0598888||cloned
+C1705920||species
+C0162788||in situ hybridization
+C0392752||localize
+C1519068||phylogenetic survey
+C0035161||reptilian
+C0010656||caspases
+C1571705||follicle
+C0007634||cells
+C1171362||expressed
+C0010656||caspase
+C0035696||mRNA
+C0291573||caspase 3
+C0040649||transcribed
+C0597295||translated
+C0007589||cell differentiation
+C0033684||proform protein
+C0042895||previtellogenesis
+C0333467||degeneration of cells
+C0002518||protein sequence
+C0035161||reptilian
+C0291573||caspases 3
+C0014597||epithelial cells
+C0018120||ovarian follicle
+C0291573||caspase 3
+C0162638||apoptosis

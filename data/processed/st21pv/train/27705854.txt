@@ -1,0 +1,45 @@
+C0024109||Lungs
+C0700381||Segmentation
+C0040405||CT
+C0817096||Chest
+C1704254||Images
+C0870071||Adaptive Appearance-Guided Shape Modeling
+C0700381||segment
+C0024109||lungs
+C0011905||computer-aided disease diagnostics
+C3272897||stack
+C0817096||chest
+C0040405||CT
+C0441633||scans
+C0870071||modeled
+C0024109||lung
+C0817096||chest
+C0040405||CT
+C1704254||image
+C0024109||lung
+C0040405||CT
+C1704254||image
+C0024109||lungs
+C0817096||chest
+C0040300||tissues
+C3669743||dependencies
+C1704254||images
+C0700381||segmentation
+C0024109||lung
+C0817096||chest
+C0700381||segmentation
+C0242356||databases
+C0242356||ISBI VESSEL12 challenge
+C0242356||MICCAI LOLA11 challenge
+C0242356||database
+C0040405||CT
+C1704254||images
+C0024109||lung
+C0183115||scanners
+C0040808||protocols
+C0242356||database
+C0242356||VESSEL12 database
+C1561605||blind
+C0015196||evaluation
+C0242356||LOLA11
+C0700381||segmentation

@@ -1,0 +1,42 @@
+C0225883||Right Ventricular
+C0024117||Chronic Obstructive Pulmonary Disease
+C0225883||Right ventricular
+C0225883||Right ventricular
+C0080311||pump function
+C0220901||prognostic
+C0018799||heart
+C0024115||lung diseases
+C0220825||evaluation
+C0225883||Right ventricular
+C0220825||assessment
+C0220825||evaluated
+C1168444||pulmonary arterial systolic pressure
+C1168444||pulmonary arterial systolic pressure
+C0024117||chronic obstructive pulmonary disease
+C0024117||chronic obstructive pulmonary disease
+C0225883||Right ventricular
+C2959886||Cardiopulmonary exercise testing
+C2959886||Cardiopulmonary exercise testing
+C0013516||synchronic echocardiography
+C0008902||classified
+C1168444||pulmonary arterial systolic pressure
+C1168444||PSAP
+C1168444||PSAP
+C1168444||PSAP
+C1168444||PSAP
+C1273937||not significant
+C1168444||PSAP
+C0429627||VO2
+C1168444||PSAP
+C0429627||VO2
+C1168444||pulmonary arterial systolic pressure
+C1522577||follow-up
+C1168444||PSAP
+C1168444||PSAP
+C2959886||Cardiopulmonary exercise testing
+C0013516||synchronic echocardiography
+C0220825||assessment
+C0225883||Right ventricular
+C0024117||chronic obstructive pulmonary disease
+C1168444||PSAP
+C1514474||prognostic factor

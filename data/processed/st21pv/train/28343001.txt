@@ -1,0 +1,24 @@
+C0936012||functional analysis
+C0017337||genes
+C0033684||proteins
+C0459471||interpretation
+C0150098||high dimensional datasets
+C0681814||genomic
+C0681814||proteomic experiments
+C0037585||ClueGO software
+C3658280||Cytoscape App
+C0017337||genes
+C0033684||proteins
+C0936012||functional enrichment analysis
+C1706814||annotation
+C0444454||accessed
+C0037585||ClueGO
+C4281677||Predefined settings
+C0936012||analysis
+C1138831||Gene Ontology
+C1138831||Gene Ontology
+C1705920||species
+C0037585||ClueGO
+C0037585||ClueGO
+C3658280||CluePedia App
+C0872079||protein-protein interactions

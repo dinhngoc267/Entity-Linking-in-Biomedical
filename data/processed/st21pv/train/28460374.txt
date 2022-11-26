@@ -1,0 +1,34 @@
+C0023823||LDL
+C3887460||cardiovascular
+C0023823||LDL
+C0035648||risk factors
+C0007222||cardiovascular disease
+C0007222||cardiovascular disease
+C0008972||Studies
+C1257890||population
+C0023823||LDL
+C0008377||cholesterol
+C0918012||indices
+C0729627||non-HDL cholesterol
+C0023822||non-HDL cholesterol
+C0023823||LDL
+C0008377||cholesterol
+C0007222||cardiovascular disease
+C0282451||guidelines
+C0023823||LDL
+C0008377||cholesterol
+C0918012||indices
+C0729627||non-HDL-C
+C0007222||cardiovascular disease
+C0023823||LDL
+C0007222||cardiovascular disease
+C0035648||risk factors
+C0023824||LDL cholesterol
+C0041004||triglycerides
+C0023822||non-HDL cholesterol
+C0008972||studies
+C0008377||cholesterol
+C0918012||indices
+C0023823||LDL
+C0007222||cardiovascular disease
+C0087111||clinical practice

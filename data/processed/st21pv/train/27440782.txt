@@ -1,0 +1,35 @@
+C0205787||Measure Up Pressure Down: Provider Toolkit
+C0020538||Hypertension
+C1753303||Control
+C0020538||Hypertension
+C0035648||risk factors
+C0018799||heart disease
+C0038454||stroke
+C0035078||kidney failure
+C0342257||diabetes complications
+C0596070||Americans
+C0020538||high blood pressure
+C0087111||treating
+C0020538||condition
+C0205787||Measure Up Pressure Down: Provider Toolkit
+C0020538||Hypertension
+C1753303||Control
+C1708333||American Medical Group Foundation
+C1711206||partnership
+C1708333||American Medical Group Association
+C0018017||goal
+C1301746||toolkit
+C1709627||health care practitioners
+C1753303||control
+C0020538||high blood pressure
+C1301746||toolkit
+C1136362||health educators
+C0019949||clinic administrators
+C0031831||physicians
+C0038492||students
+C0851286||clinic staff
+C1512763||infrastructure
+C0087111||treat
+C0027361||individuals
+C0020538||high blood pressure
+C0008679||chronic conditions.

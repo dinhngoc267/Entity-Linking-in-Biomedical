@@ -1,0 +1,21 @@
+C1518681||treatment effect
+C0008976||Clinical trial
+C0008972||clinical research
+C1516640||cancer trials
+C2347784||endpoint
+C0936012||analyze
+C1518681||treatment effect
+C0302523||observations
+C0243095||unobserved
+C1306577||deaths
+C0011065||death
+C0277556||disease relapse
+C0036150||sampling
+C2919552||survival time
+C0036150||sampling
+C1518681||treatment effect
+C0025663||methods
+C0025663||methods
+C0206034||randomized clinical trials
+C3665472||chemotherapy
+C0006142||breast cancer

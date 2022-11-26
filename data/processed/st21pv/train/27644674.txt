@@ -1,0 +1,51 @@
+C0006142||Breast Cancer
+C0006826||Cancer
+C0203028||Mammography Screening
+C0337910||Thai
+C0043210||Women
+C0162791||guideline
+C0002455||American Cancer Society
+C0024671||mammography
+C0024671||mammography
+C0043210||women
+C0039725||Thailand
+C0422389||opportunistic mammography screening
+C0006142||breast cancer
+C0008972||study
+C0006142||breast cancer
+C1516193||detection
+C0337910||Thai
+C0043210||women
+C0422389||opportunistic mammography screening
+C0043210||women
+C0220908||procedure
+C0302523||observation
+C0043210||women
+C0586815||positive findings
+C0043210||women
+C0199230||screened
+C0024671||mammography
+C0442726||detected
+C0024671||mammography
+C0043210||women
+C0024671||MMGs
+C0027361||person
+C0006142||breast cancer
+C0442726||detected
+C0043210||women
+C0027361||persons
+C0006142||breast cancer
+C0027361||person
+C0442726||detected
+C0027361||person
+C0043210||women
+C0442726||detected
+C0024671||mammography
+C0043210||women
+C0422389||Opportunistic mammography screening
+C0039725||Thailand
+C0442726||detected
+C0006142||breast cancer
+C0043210||women
+C1516193||cancer detection
+C0203028||screening mammogram

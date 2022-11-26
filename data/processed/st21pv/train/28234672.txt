@@ -1,0 +1,104 @@
+C4082861||Vascular smooth muscle cell
+C0166417||peroxisome proliferator-activated receptor γ
+C0079281||endothelin-1
+C0242606||oxidative stress
+C0021368||inflammation
+C0166417||Peroxisome proliferator-activated receptor γ
+C0166417||Peroxisome proliferator-activated receptor γ
+C0243192||agonists
+C0005823||blood pressure
+C0178324||vascular injury
+C0857121||hypertensive
+C0035804||rodents
+C0166417||Pparγ
+C0314679||inactivation
+C4082861||vascular smooth muscle cells
+C4082861||vascular smooth muscle cells
+C0178324||vascular injury
+C0025936||Transgenic mice
+C1171362||overexpressing
+C0079281||endothelin (ET)-1
+C0014257||endothelium
+C0079281||(eET-1)
+C0856169||endothelial dysfunction
+C0242606||oxidative stress
+C0021368||inflammation
+C0314679||inactivation
+C1335238||Pparγ gene
+C4082861||vascular smooth muscle cells
+C1335238||smPparγ
+C0079281||ET-1
+C0178324||vascular injury
+C0079281||eET-1
+C0166417||smPparγ
+C0079281||eET-1
+C0166417||smPparγ
+C0025929||mice
+C0332154||treated
+C0039286||tamoxifen
+C2603343||studied
+C0871470||SBP
+C0079281||eET-1
+C0166417||smPparγ
+C0314679||inactivation
+C0025465||Mesenteric artery
+C0042401||vasodilatory
+C0001041||acetylcholine
+C0166417||smPparγ
+C0083536||N-Nitro-L-arginine methyl ester
+C1414262||Ednra
+C1414263||Ednrb
+C0035696||mRNA
+C0079281||eET-1
+C0166417||smPparγ
+C0028128||nitric oxide
+C0079281||ET-1
+C0218584||endothelin type B receptors
+C0025465||Mesenteric artery
+C0079281||eET-1
+C0166417||smPparγ
+C0025465||Mesenteric artery
+C0162772||reactive oxygen species
+C0166417||smPparγ
+C0079281||eET-1
+C0166417||smPparγ
+C0442165||Perivascular
+C0206131||fat monocyte
+C0024432||macrophage
+C0332448||infiltration
+C0079281||eET-1
+C0166417||smPparγ
+C0079281||eET-1
+C0166417||smPparγ
+C0037993||Spleen
+C0166417||smPparγ
+C0079281||eET-1
+C0166417||smPparγ
+C0440752||Ly-6C monocytes
+C0079281||eET-1
+C0166417||smPparγ
+C0079281||eET-1
+C0166417||smPparγ
+C0037993||Spleen
+C0039198||T regulatory lymphocytes
+C0166417||smPparγ
+C0079281||eET-1
+C0079281||eET-1
+C0166417||smPparγ
+C4082861||vascular smooth muscle cells
+C0166417||Pparγ
+C0314679||inactivation
+C0079281||ET-1
+C0178324||vascular injury
+C0166417||Peroxisome proliferator-activated receptor γ
+C0020538||hypertension
+C0443264||modulation
+C0162772||pro-oxidant
+C1704259||pathways
+C0079281||ET-1
+C1171362||overexpression
+C0014257||endothelial
+C0166417||smPparγ
+C0025929||mice
+C0028128||nitric oxide
+C0218584||endothelin type B receptors

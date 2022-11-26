@@ -1,0 +1,54 @@
+C0005595||bird
+C1283169||monitoring
+C0016198||halogenated flame retardants
+C0005595||Birds
+C0025080||biomonitors
+C0016198||halogenated flame retardants
+C0016198||halogenated flame retardants
+C2603343||studies
+C0040300||tissue
+C0237401||individual
+C0012155||diet
+C0016198||halogenated flame retardants
+C0005595||birds
+C0449416||source
+C0016198||halogenated flame retardants
+C1705920||species
+C0025663||method
+C0237401||individual
+C0005595||birds
+C0016198||halogenated flame retardants
+C0018017||goal
+C2603343||study
+C0005595||bird
+C1148554||determination
+C0237401||individual
+C0017110||gas
+C0597177||particle-phase
+C0016198||halogenated flame retardants
+C1061035||ring-billed gull
+C1061035||Larus delawarensis
+C0034390||QC
+C0006823||Canada
+C1947977||elliptical-shaped
+C0022885||two sorbent types
+C0071696||polyurethane foam
+C0071696||polyurethane foam
+C0060317||glass fiber
+C2350562||polybrominated diphenyl ethers
+C2350562||polybrominated diphenyl ethers
+C2350562||DecaBDE
+C0137758||polydimethylsiloxane
+C0137758||polydimethylsiloxane
+C0016198||halogenated flame retardants
+C0062598||hexabromobenzene
+C3180256||Dechlorane 604 Component B
+C2351195||Dechlorane plus
+C2351195||Dechlorane plus
+C0441621||sampled
+C0071696||polyurethane foam
+C0441621||Sampling
+C0016198||halogenated flame retardants
+C0005595||bird
+C0005595||birds
+C0016198||halogenated flame retardants

@@ -1,0 +1,40 @@
+C0003392||Anticancer Compound
+C0069639||Oridonin
+C0162638||Apoptosis
+C1155873||Cell Cycle Arrest
+C1513340||Mitochondrial Pathway
+C0596402||cytotoxicity
+C1254351||ent-kaurene diterpenoid
+C0069639||oridonin
+C0069639||oridonin
+C0920425||cancer therapy
+C0069639||oridonin
+C0002776||A-ring modified analogues, and their derivatives
+C0220825||evaluated
+C0003392||anticancer
+C0243072||derivatives
+C0069639||oridonin
+C1254351||drug
+C0013203||drug-resistant
+C0334227||cancer cells
+C0003392||compound, 13p
+C0069639||oridonin
+C0596890||MCF-7 cancer cells
+C0003392||13p
+C0162638||apoptosis
+C1155873||cell cycle arrest
+C1517347||G2/M phase
+C1720920||mitochondrial membrane potential
+C0219474||Bax/Bcl-2
+C4290004||activated caspase-3
+C0597304||cleavage
+C0596890||MCF-7 cells
+C0087111||treatment
+C0003392||13p
+C1513340||mitochondrial pathway
+C0003392||13p
+C0162638||apoptosis
+C0003392||13p
+C0025929||mouse
+C1520166||xenograft models
+C0857329||no observable toxic effect

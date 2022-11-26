@@ -1,0 +1,29 @@
+C0027882||neuronal
+C0765553||PI(3,4,5)P3
+C0028944||oligodendrocyte
+C0596991||myelination
+C1148560||molecular trigger
+C3714787||CNS
+C0596991||myelination
+C1530899||Pten
+C0007634||cerebellar granule cells
+C0285558||AKT1
+C0293060||mTOR
+C0086982||pathway
+C1179986||unmyelinated axons
+C1171362||expression
+C0017337||genes
+C0815047||regulatory proteins
+C0007595||expansion
+C1883559||genetically wild-type
+C0028944||oligodendrocyte
+C0038250||progenitor cells
+C0028944||oligodendrocyte
+C0007589||differentiation
+C0596991||myelination
+C3546707||parallel fibers
+C0027882||neuronal
+C0031621||phosphoinositide
+C0765553||PI(3,4,5)P3
+C1148560||trigger
+C0596991||myelination

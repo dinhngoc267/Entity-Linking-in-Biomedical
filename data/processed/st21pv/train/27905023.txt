@@ -1,0 +1,90 @@
+C2333134||Distinct cortical and sub-cortical neurogenic domains
+C1816494||GABAergic
+C0021792||interneuron
+C0040648||transcription factors
+C1452466||NKX2.1
+C2347389||OLIG2
+C1506576||COUP-TFII
+C0086418||human
+C0231028||telencephalon
+C1818464||cortical GABAergic interneuron generation
+C0035804||rodent
+C0033147||primate
+C0231028||telencephalon
+C1171362||expression
+C0021792||interneuron
+C0040648||transcription factors
+C0005516||markers
+C0021044||immunohistochemistry
+C0086418||human
+C0231028||telencephalon
+C1452466||NKX2.1
+C2347389||OLIG2
+C1506576||COUP-TFII
+C1171362||expression
+C0027882||neurogenic domains
+C0007776||cortex
+C1268212||CGE compartments
+C0205093||lateral
+C0205098||medial
+C1704448||ventral
+C1452466||NKX2.1
+C1171362||expression
+C1268212||MGE
+C0205098||medial
+C1268212||CGE
+C1704448||ventral
+C0936188||septum
+C0021792||interneuron
+C1452466||NKX2.1
+C0035804||rodents
+C2347389||OLIG2
+C0815002||GABAergic cells
+C0596290||proliferative
+C1710706||zones
+C1268212||MGE
+C0936188||septum
+C1452466||NKX2.1
+C2347389||OLIG2
+C1171362||expression
+C1268212||LGE
+C1268212||CGE
+C0007776||cortex
+C2347389||OLIG2
+C0815002||cells
+C0205098||medial
+C0205094||anterior
+C0007776||cortical wall
+C0021792||interneuron
+C0936188||septum
+C0205098||medial
+C0007776||cortex
+C2347389||OLIG2
+C0815002||cells
+C0007776||cortex
+C0007776||cortical
+C0038250||progenitor
+C0005516||markers
+C1506576||COUP-TFII
+C0038250||progenitor cells
+C0392752||localized
+C1704448||ventral
+C1268212||CGE
+C1704448||ventral
+C0007776||cortex
+C1506576||COUP-TFII
+C4308210||PAX6
+C0596290||proliferative
+C1710706||zones
+C3501502||TBR1
+C0054544||calretinin
+C2333134||cortical neurons
+C1506576||COUP-TFII
+C0038250||progenitors
+C0206441||pyramidal cells
+C0021792||interneurons
+C0007776||cortex
+C1704448||ventral
+C1268212||CGE
+C0205094||anteriorly
+C1268212||LGE

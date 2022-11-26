@@ -1,0 +1,68 @@
+C2350277||Epigenome-wide analysis
+C0919432||SMAD3
+C0376452||methylation
+C0005615||birth
+C0264408||asthma in children
+C0004096||asthmatic
+C0004096||asthma
+C1516924||epigenetic
+C0004096||asthma
+C0699748||pathogenesis
+C0004096||asthma
+C0004096||asthma
+C0005615||birth
+C1516924||epigenetic
+C0376452||DNA methylation
+C0004096||asthma
+C1328856||Methylated CpG Island Recovery Assay chip
+C0038951||survey
+C0376452||DNA methylation
+C0162371||cord blood
+C0080105||nonasthmatic
+C0004096||asthmatic
+C0080105||subjects
+C2603343||Study
+C2603343||Infant Immune Study
+C0005615||birth
+C0599755||cohort
+C0004096||asthma
+C0919432||SMAD3
+C0376452||methylation
+C2603343||Infant Immune Study
+C0598312||replication
+C0599755||cohorts
+C0004096||Asthma
+C0264408||Childhood Origins of Asthma
+C2603343||Study
+C0936012||analyzed
+C3831347||bisulfite sequencing
+C0022885||Illumina 450K arrays
+C0162371||Cord blood
+C1702300||IL-1β
+C0014441||ELISA
+C0007634||cells
+C0004793||methylated regions
+C2603343||Infant Immune Study
+C1257890||children
+C0004096||asthma
+C0599755||cohorts
+C0376452||methylation
+C0919432||SMAD3
+C0004096||asthma
+C0004793||methylated regions
+C0264408||asthmatic
+C0004096||asthmatic
+C0264408||childhood asthma
+C0919432||SMAD3
+C0376452||methylation
+C2603343||Infant Immune Study
+C0004096||asthma
+C1702300||IL-1β
+C0243042||innate inflammatory mediator
+C0264408||childhood asthma
+C0005615||birth
+C1516924||epigenetic
+C0678889||immunoregulatory
+C1704259||pathways
+C0004096||asthma
+C1516924||epigenetic

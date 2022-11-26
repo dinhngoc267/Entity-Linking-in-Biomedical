@@ -1,0 +1,49 @@
+C4054739||immunogenecity
+C0042211||attenuated
+C1548485||Rift Valley fever vaccine
+C1548485||CL13T
+C0006801||camels
+C0035613||Rift Valley fever
+C0042769||viral disease
+C0277551||enzootic
+C0277550||endemic
+C0001737||Africa
+C0003671||Arabian Peninsula
+C0086418||human
+C0003062||animal
+C0035613||disease
+C0035950||ruminants
+C0149814||abortions
+C0032961||pregnant
+C0003062||animals
+C0036945||sheep animals
+C1257890||populations
+C0684224||reported
+C0006801||camel
+C1257890||populations
+C0001737||Africa
+C0042211||live vaccines
+C0035613||RVF
+C1705920||species
+C2603343||study
+C0475463||neutralizing antibody
+C0042211||thermostable live attenuated
+C1548485||RVF CL13T vaccine
+C0220825||evaluated
+C0006801||camels
+C0681814||experiments
+C0006801||camels
+C0006801||camels
+C0032961||pregnant
+C0006801||camels
+C2603343||study
+C1548485||CL13T vaccine
+C0006801||camels
+C0149814||abortions
+C0232910||teratogenic effects
+C0042211||vaccine
+C0475463||neutralizing antibody
+C0150312||presence
+C0475463||neutralization antibodies
+C0681814||experiments
+C0035614||RVF virus

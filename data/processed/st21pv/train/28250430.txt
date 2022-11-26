@@ -1,0 +1,37 @@
+C0936012||analysis
+C0995982||Xylella fastidiosa
+C0015176||Europe
+C0021573||insect vector
+C0004611||bacterium
+C0995982||Xylella fastidiosa
+C0996956||olive trees
+C0022277||Southern Italy
+C0012634||olive quick decline syndrome
+C0012634||disease
+C0022277||Italy's
+C0069449||olive oil
+C0017446||region
+C0002783||epidemiology
+C0995982||X. fastidiosa
+C0021573||vectors
+C0015176||Europe
+C0086418||humans
+C0376554||knowledge
+C3887622||gaps
+C0032098||infected plants
+C0032064||pest
+C0087130||uncertainties
+C0996956||olive
+C0022277||Southern Italy
+C0995982||X. fastidiosa
+C0017446||region
+C0022277||Southern Italy
+C0442537||reservoir
+C0995982||X. fastidiosa
+C0995982||X. fastidiosa
+C0017446||region
+C0016674||southern France
+C0454825||island of Mallorca
+C0037747||Spain
+C0022277||Italy
+C0015176||Europe

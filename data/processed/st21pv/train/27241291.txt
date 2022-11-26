@@ -1,0 +1,61 @@
+C0014834||E. coli
+C0574031||Compounds
+C0003232||Antibiotic
+C0995741||Streptomyces coelicolor
+C0014834||E.coli
+C1449847||Streptomyces coelicolor A3 (2)
+C0077826||undecylprodigiosin
+C0014834||E. coli
+C0003232||antibiotics
+C0526040||red-pigmented undecylprodigiosin
+C0050663||actinorhodin
+C0430402||cultures
+C0995741||S. coelicolor
+C0010454||medium
+C0050663||actinorhodin
+C0077826||undecylprodigiosin
+C0021080||immunosuppressive
+C1516031||antitumor properties
+C0077826||undecylprodigiosin
+C0007634||cells
+C0014834||E. coli C600
+C1550101||cell-free supernatant
+C0014834||E. coli
+C0430402||culture
+C0995741||S. coelicolor
+C3179108||cultures in shake flasks
+C0014834||E. coli
+C0003232||antibiotic
+C0077826||undecylprodigiosin
+C0430402||pure cultures
+C0995741||S. coelicolor
+C0050663||actinorhodin
+C0007634||cells
+C0014834||E. coli
+C0003232||antibiotic
+C0556133||glucose consumption
+C0995741||S. coelicolor
+C0430402||pure culture
+C0003232||antibiotic
+C1442959||nutritional
+C0038435||stress
+C1550101||cell-free supernatant
+C0014834||E. coli
+C0430402||culture
+C0995741||S. coelicolor
+C0014834||E. coli
+C0574031||diffusible molecule(s)
+C0684295||extraction procedures
+C0005507||agar-well diffusion bioassays
+C0574031||class of compounds
+C0574031||compound
+C0574031||class of compounds
+C0995741||S. coelicolor
+C0003232||antibiotic
+C0014834||E. coli
+C0007634||cells
+C1550101||supernatant
+C0574031||class of compounds
+C1327616||secreted
+C0014834||E. coli
+C0077826||undecylprodigiosin

@@ -1,0 +1,54 @@
+C0022885||proteomic analysis
+C0597252||development
+C0033684||proteins
+C3536727||triploid
+C1140671||rice
+C0032578||Polyploidy
+C1140671||rice
+C1140671||Oryza sativa L.
+C0031843||physiology
+C1140671||rice
+C3536727||triploid
+C3536727||triploid
+C1140671||rice
+C0449381||parameters
+C0032098||plant
+C0242724||leaf
+C0242724||leaf
+C0918012||index
+C0008260||chlorophyll
+C0033684||proteomic
+C3536727||triploid
+C0037813||mass spectrometry
+C1171362||protein expression
+C3536727||triploid
+C1514563||proteomic alteration
+C3536727||triploid
+C3714634||biological process
+C0022885||pathway enrichment analysis
+C3178938||chloroplast proteins
+C1704259||pathways
+C3536727||triploid
+C3179034||Quantitative real-time PCR analysis
+C3178938||chloroplast proteins
+C0033684||ATPF
+C0033684||PSAA
+C0084235||PSAB
+C0033684||PSBB
+C0033684||RBL
+C3536727||triploid
+C2603343||study
+C0031843||physiology
+C1327760||proteomic profiling
+C3536727||triploid
+C3537153||molecular mechanisms
+C0033684||ATPF
+C0033684||PSAA
+C0084235||PSAB
+C0033684||PSBB
+C0033684||RBL
+C1171362||expression
+C3536727||triploid
+C0597252||development
+C0597252||growth
+C1140671||rice

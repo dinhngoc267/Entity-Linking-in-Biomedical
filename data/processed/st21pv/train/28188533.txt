@@ -1,0 +1,14 @@
+C0282574||SWATH(®)
+C0243095||Label-free
+C0872252||Proteomics Studies
+C0183396||TripleTOF(®) Mass Spectrometers
+C0037813||mass spectrometry technique
+C0037813||MS
+C0599748||MS/MS
+C0936012||analysis
+C3830527||detectable
+C0282574||SWATH(®)
+C0872252||proteomic studies
+C0456389||sized
+C0282574||Q1 windows
+C0599748||MS/MS

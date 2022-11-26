@@ -1,0 +1,57 @@
+C1099354||small interfering RNA
+C0038855||suppression
+C0017376||HPV-11 L1
+C0017262||expression
+C0596290||proliferation
+C0162638||apoptosis
+C2603343||study
+C0343641||human papillomavirus (HPV) infection
+C0042267||vaginitis
+C1099354||small interfering RNA
+C1099354||small interfering RNA
+C0021344||human papillomavirus
+C0199176||prevention
+C0442592||clinic
+C0086418||Human
+C0040669||transfected
+C0017376||HPV-11 L1
+C1099354||small interfering RNA
+C0017376||HPV-11 L1
+C0017397||vectors
+C0040669||transfected
+C1099354||small interfering RNA
+C0596290||Cell proliferation
+C1510438||MTT assay
+C1171362||expression
+C0162638||apoptosis
+C0033684||proteins
+C2121086||western blot analysis
+C0017376||HPV-11 L1
+C0035696||mRNA
+C0428479||protein levels
+C0040669||transfection
+C0017376||HPV-11 L1
+C0007634||cells
+C0598496||silencing
+C0017376||HPV-11 L1
+C0596290||cell proliferation
+C0596290||cell proliferation
+C0007634||cells
+C0040669||transfected
+C0598496||silenced
+C0017376||L1
+C0598496||silencing
+C0017376||HPV-11 L1
+C1413132||caspase-3
+C1332668||caspase-9
+C0017262||expressions
+C0007634||cells
+C0017262||expression
+C0017376||HPV-11 L1
+C2603343||study
+C1099354||small interfering RNA
+C0598496||silencing
+C0017376||HPV-11 L1
+C0278296||therapeutic applications
+C1093046||HPV-11
+C3714514||infection

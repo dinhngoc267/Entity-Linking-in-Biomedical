@@ -1,0 +1,16 @@
+C0026018||optical microscopy
+C1519193||scheme
+C0026018||optical particle tracking microscopy
+C0597177||particle
+C0205102||inside
+C1511790||detection
+C0205147||region
+C0597177||particles
+C0017296||gene therapy
+C0032136||plasmid
+C0012854||DNA molecules
+C0012854||DNA molecules
+C1704241||complexed
+C0023828||liposomal
+C0085104||drug delivery
+C0597177||particles

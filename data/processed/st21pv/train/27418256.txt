@@ -1,0 +1,27 @@
+C1335533||Fragment
+C0022115||5-Arylisatin
+C1513016||Inhibitors
+C0172537||Matrix Metalloproteinases 2
+C0255672||13
+C0623362||Matrix metalloproteinases
+C0623362||Matrix metalloproteinases
+C0699748||pathologies
+C0172537||MMP-2
+C0255672||MMP-13
+C1947901||cancer progression
+C2603343||study
+C1710032||structure-based screening
+C0623362||metalloproteinase
+C1335533||fragments
+C1335533||fragment
+C0282574||EDASA Scientific compound library
+C1335533||fragments
+C0005507||biological assay
+C1519941||validate
+C1179132||scaffolds
+C0005507||assay
+C0022115||isatin-based compounds
+C1335533||fragments
+C1513016||MMP inhibitors
+C0444454||creative access
+C0002776||analogues

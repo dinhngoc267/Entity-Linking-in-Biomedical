@@ -1,0 +1,66 @@
+C0033684||Ki-67 protein
+C0006142||breast cancer
+C0033325||prognosis
+C0021044||immunohistochemistry
+C0449445||approach
+C0033684||Ki-67 protein
+C1171362||expression
+C0431085||tumour cell
+C0087111||therapy
+C0006142||breast cancer
+C0021044||Immunohistochemical (IHC) determination
+C4049944||Ki-67 score
+C0022885||labelling index
+C0033684||Ki67
+C1446409||positively
+C0431085||tumour cells
+C0430022||method
+C0027651||tumour
+C1441639||manual counting
+C0007634||cells
+C0007610||nuclei
+C0007634||cells
+C0334866||pathologists
+C0002045||hybrid clustering algorithm
+C1512505||breast cancer cells
+C1441489||automated counting
+C0033684||Ki-67
+C0007610||nuclei
+C0430022||methodology
+C0021044||Immunohistochemical
+C1704254||images
+C0033684||Ki-67
+C0006142||breast cancer
+C0876936||colour space
+C0007634||cells
+C0200768||two stage segmentation process
+C0002045||Fuzzy C-means
+C0007634||cells
+C0441766||first stage
+C0009085||k-means algorithm
+C0033684||Ki-67
+C0007634||cells
+C0007610||nuclei
+C1443182||calculate
+C0876936||colour space
+C1579762||comparative study
+C0007610||nuclei
+C0442726||detection
+C0876936||colour space
+C1443182||calculated
+C0876936||colour space
+C0876936||colour space
+C2603343||study
+C0007610||nuclei
+C1441639||manually
+C1441489||automatically
+C0002045||algorithm
+C2603343||study
+C0007610||nuclei
+C0876936||colour space
+C1441489||Computerized evaluation
+C0334866||pathologist
+C0006142||breast cancer
+C0430022||methodology
+C0557034||assisting
+C1441639||manual procedure

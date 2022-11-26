@@ -1,0 +1,45 @@
+C0755538||Cell division cycle protein 45
+C0122446||human RPA
+C0012935||single-stranded DNA
+C0755538||Cell division cycle protein 45
+C0755538||Cell division cycle protein 45
+C0684063||eukaryotic
+C0920283||DNA helicase
+C0755538||human Cdc45
+C1704241||complex
+C0165675||single-stranded DNA (ssDNA) binding protein RPA
+C0165675||RPA
+C0012935||single-stranded DNA
+C0022885||Pull-down assays
+C0597731||surface plasmon resonance studies
+C0755538||Cell division cycle protein 45
+C1167622||bound
+C0165675||RPA
+C1704241||complexed
+C0012935||single-stranded DNA
+C1148916||nucleotide binding
+C1148560||dissociated
+C0165675||RPA
+C0004793||30-mer
+C0022885||Real-time analysis
+C0165675||RPA
+C0012935||single-stranded DNA
+C1167622||binding
+C0755538||Cell division cycle protein 45
+C0165675||RPA
+C0012935||single-stranded DNA
+C0755538||Cell division cycle protein 45
+C1514562||RPA70A subdomain
+C0755538||Cell division cycle protein 45
+C1293130||stabilization
+C0028630||nt
+C0165675||RPA
+C1167622||binding
+C0165675||RPA
+C0004793||30-mer
+C1167622||binding
+C0012935||single-stranded DNA
+C0755538||Cell division cycle protein 45
+C0165675||RPA
+C0012935||single-stranded DNA
+C1167117||replication fork

@@ -1,0 +1,60 @@
+C4277525||one health
+C0027458||national health policies
+C0021201||India's
+C0009450||infectious diseases
+C0872315||emerging infectious diseases
+C0086418||human
+C0003062||animal
+C0014406||environment
+C0872315||emergence
+C0003980||Asia
+C0001737||Africa
+C0023122||Latin America
+C0242456||policy frameworks
+C0872315||Emergence of diseases
+C0016627||avian influenza
+C0282687||Ebola virus disease
+C4277663||intersectoral coordination/collaboration
+C0562359||institutionalised
+C0021201||India
+C4277525||One Health approach
+C0085557||disease prevention and control
+C0021400||influenza
+C0009450||infectious diseases
+C4277663||Intersectoral coordination
+C1547277||draft
+C0027458||National Health Policy
+C4277663||intersectoral coordination
+C0085557||disease control approaches
+C0332280||linkages
+C0086418||human
+C0003062||animal
+C0014406||environmental
+C1708237||sectors
+C0243095||weak response systems
+C3494320||health impact assessment
+C0242456||policies
+C0205160||negative
+C3813622||wellbeing of man
+C0003062||animal
+C0014406||environment
+C1708237||sectors
+C0805586||challenges
+C0021201||India
+C0449719||portion
+C2700280||world's
+C0335415||livestock farmers
+C0242456||policy
+C4277525||One Health approach
+C0018735||health policies
+C0009566||hurdle
+C0012634||diseases
+C4277525||One Health approaches
+C0439741||sectoral
+C0242456||policies
+C0242456||policy
+C0021201||India
+C1318963||preparedness
+C0032074||plans
+C0220825||assessment
+C0522506||downstream

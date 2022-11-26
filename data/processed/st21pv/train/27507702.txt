@@ -1,0 +1,67 @@
+C4086963||Transcriptome sequencing
+C0022771||Korean
+C0037378||land snail
+C0037378||Koreanohadra kurodana
+C1519595||transcripts
+C1519302||SSR
+C0017393||markers
+C0022771||Korean
+C0037378||land snail
+C0037378||Koreanohadra kurodana
+C0324023||Gastropoda
+C1040093||Bradybaenidae
+C0446286||shrubs
+C0237401||individuals
+C0684063||species
+C0017428||genomic level
+C2603343||study
+C4086963||transcriptome sequencing
+C1519595||transcript
+C0150098||dataset
+C0040300||visceral mass tissue
+C0037378||K. kurodana
+C1513384||Illumina paired-end sequencing technology
+C1511491||contigs
+C1710539||unigenes
+C0028630||N50
+C1710539||unigenes
+C0002518||protein
+C0004793||nucleotide sequences
+C0242356||public databases
+C0449738||direction
+C1710539||unigenes
+C0242356||COG
+C1138831||GO
+C0242356||KEGG
+C2826595||InterProScan
+C1514562||protein domain
+C1138831||GO
+C0936012||analysis
+C1710539||unigenes
+C0242356||KEGG annotation
+C0017337||genes
+C1514562||protein motifs
+C0080347||zinc finger
+C0085431||ribonuclease H
+C0035379||reverse transcriptase
+C1956127||ankyrin repeat domains
+C1519302||simple sequence repeats
+C1519302||simple sequence repeats
+C1710539||unigenes
+C0282524||dinucleotide repeat motifs
+C0282537||tri-
+C0282521||tetranucleotide motifs
+C1710539||unigenes
+C0392673||adaptation
+C0011142||defense mechanisms
+C0243043||heat shock proteins 70
+C1411976||Toll-like receptor 4
+C2350345||AMP-activated protein kinase
+C0213238||aquaporin-2
+C0017337||genes
+C1519302||SSR
+C0017393||markers
+C0037378||K. kurodana
+C3178810||transcriptome
+C0872179||http://bioinfo.sch.ac.kr/submission/
+C1519068||phylogenetics study

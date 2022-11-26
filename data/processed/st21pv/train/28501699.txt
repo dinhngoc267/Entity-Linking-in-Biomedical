@@ -1,0 +1,28 @@
+C0004171||AGES-Reykjavik study atlases
+C0004171||atlases
+C2603343||studies
+C0001811||ageing
+C0006104||brain
+C0006104||brain
+C0678594||structures
+C0024485||Magnetic Resonance
+C0024485||Magnetic Resonance
+C0024485||image
+C0002045||algorithms
+C0002045||algorithms
+C0004171||atlases
+C1183514||coordinate space
+C0006104||brain
+C0004171||atlases
+C0027361||individuals
+C0678367||publicly
+C0040300||tissue
+C0004171||atlases
+C0205147||regional
+C0004171||atlases
+C2603343||studies
+C0001811||ageing
+C0599755||cohorts
+C1519941||validation
+C0205147||regional
+C0150098||dataset

@@ -1,0 +1,44 @@
+C1636767||Intracameral
+C0007562||cefuroxime
+C1282227||postoperative endophthalmitis
+C0596545||experience
+C0019907||Hong Kong
+C2603343||study
+C1636767||intracameral
+C0007562||cefuroxime
+C0013164||compounded
+C1282227||postoperative endophthalmitis
+C0019907||Hong Kong
+C2939459||cataract surgeries
+C1636767||intracameral
+C0007562||cefuroxime
+C2939459||cataract surgery
+C0007562||cefuroxime
+C0013164||aseptic compounding
+C1282227||postoperative endophthalmitis
+C1636767||intracameral
+C0007562||cefuroxime
+C1636767||intracameral
+C0007562||cefuroxime
+C0015392||eyes
+C1282227||postoperative endophthalmitis
+C0014236||endophthalmitis
+C0014236||endophthalmitis
+C0159125||positive culture
+C0318162||Group G Streptococcus
+C0038402||Group B Streptococcus
+C0038172||Staphylococcus aureus
+C0036766||Serratia marcescens
+C0445625||coagulase-negative Staphylococcus
+C0427965||Antibiotic susceptibility
+C0456984||testing results
+C0030842||penicillin group
+C2699517||No adverse events
+C1636767||intracameral
+C0007562||cefuroxime
+C1636767||intracameral
+C0007562||cefuroxime
+C1282227||postoperative endophthalmitis
+C0019907||Hong Kong
+C0013164||aseptic compounding
+C0007562||cefuroxime

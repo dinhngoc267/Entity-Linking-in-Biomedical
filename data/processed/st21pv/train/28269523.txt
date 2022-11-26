@@ -1,0 +1,16 @@
+C0018827||cardiac ventricular
+C0430467||electrophysiology
+C1519941||validation
+C0025080||medical devices
+C0810633||pacemakers
+C0025080||medical devices
+C0025080||FPGA
+C2339371||ventricular cardiac cell
+C0430467||electrophysiology
+C1519941||validation
+C0810633||pacemakers
+C0225828||cardiac cells
+C0870071||modeling
+C0018787||heart
+C0007634||cells
+C0025080||medical devices

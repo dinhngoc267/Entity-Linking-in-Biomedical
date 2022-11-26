@@ -1,0 +1,17 @@
+C1533591||calcifications
+C0340766||venous hypertension
+C0524466||intracranial
+C0752156||dural arteriovenous fistula
+C0524466||Intracranial
+C0752156||dural arteriovenous fistulas
+C0752156||dural arteriovenous fistulas
+C1711164||acquired lesions
+C0700287||reported
+C0243095||findings
+C0040405||CT
+C0019080||haemorrhage
+C0006114||focal oedema
+C1533591||calcification
+C0040405||CT
+C0340766||venous hypertension
+C0752156||dural arteriovenous fistulas

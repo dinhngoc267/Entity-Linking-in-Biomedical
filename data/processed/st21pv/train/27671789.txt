@@ -1,0 +1,39 @@
+C0751973||Proteomics
+C0002778||analysis
+C0242724||leaf
+C0872079||SUMOylome
+C1157990||SUMOylation
+C0033666||post-translational modification
+C1327622||regulates
+C3714634||biological processes
+C0024660||mammals
+C0043393||yeast
+C0032098||plants
+C0162340||understand
+C1157990||SUMOylation
+C0020792||identification
+C1157990||SUMOylation
+C0684224||report
+C0872252||proteomic approach
+C0450363||3D
+C0017243||gels
+C0911575||SUMO
+C0242724||leaves
+C1145678||Solanum tuberosum
+C0450363||3D
+C0017243||gels
+C0033684||proteins
+C1705052||2D
+C0017243||gels
+C0016320||CyDye DIGE fluor saturation dyes
+C0033684||individual proteins
+C0911575||SUMO
+C0242724||leaves
+C1145678||Solanum tuberosum
+C0871511||method
+C0332149||possible
+C3812881||authors
+C3812881||authors
+C0600659||manuscript
+C3641827||agree
+C0162443||Journal of Proteomics

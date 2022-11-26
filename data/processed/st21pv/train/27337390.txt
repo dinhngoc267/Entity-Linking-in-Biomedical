@@ -1,0 +1,29 @@
+C0018897||Learned helplessness
+C0233820||Insights
+C0027910||neuroscience
+C0018897||Learned helplessness
+C0870509||escape
+C0036974||shock
+C0086418||Seligman and Maier
+C0003062||animals
+C0023185||learned
+C0023185||learning
+C0870509||escape
+C0018897||learned helplessness
+C0036974||shock
+C0023185||learned
+C1148560||serotonergic activity
+C0175392||dorsal raphe nucleus
+C0870509||escape
+C0023185||learning
+C3498368||medial prefrontal cortex
+C0442726||detection
+C0175392||dorsal raphe nucleus
+C0003062||animals
+C0023185||learn
+C0023185||learn
+C0870509||escape
+C3850122||ventromedial prefrontal cortex
+C0175392||dorsal raphe
+C0442726||detection
+C0011570||depression

@@ -1,0 +1,100 @@
+C3178810||Transcriptome
+C0936012||Analyses
+C0017767||Glucosinolates
+C0330498||Broccoli Cultivars
+C1176128||Jasmonate
+C0017767||Glucosinolate
+C0998450||Trichoplusia ni
+C0023338||Lepidopteran
+C0023047||larvae
+C0018270||growth
+C0032098||plant
+C0017767||glucosinolate
+C0017767||glucosinolate
+C0032082||phytohormone
+C1176128||jasmonate
+C1176128||jasmonate
+C0021585||insect
+C0017393||biomarkers
+C0023338||lepidopteran
+C3178810||transcriptome
+C0936012||analyses
+C1176128||jasmonate
+C0330498||broccoli cultivars
+C0330498||Green Magic
+C0330498||VI-158
+C0017767||indole GSs
+C2975109||neoglucobrassicin
+C0061370||glucobrassicin
+C0017767||GSs
+C0018270||growth
+C0684063||cabbage looper
+C0998450||Trichoplusia ni
+C0023047||cabbage looper larvae
+C0032098||plants
+C1176128||jasmonate
+C0023047||larvae
+C1176128||jasmonate
+C0330498||broccoli cultivars
+C1176128||jasmonate
+C0017767||GSs
+C0008562||high performance liquid chromatography
+C2975109||Neoglucobrassicin
+C0330498||Green Magic
+C0061370||glucobrassicin
+C0330498||VI-158
+C0242724||leaves
+C0017767||glucosinolates
+C0023047||larval
+C1446409||positively
+C1326578||pupation
+C1176128||jasmonate
+C0017767||glucosinolates
+C0018270||growth
+C0023047||cabbage looper larvae
+C0752248||Transcriptome profiling
+C0017767||glucosinolate
+C1176128||jasmonate
+C0017337||genes
+C0017767||glucosinolate
+C0025519||metabolism
+C0330498||broccoli cultivars
+C0449774||pattern
+C0040649||transcriptional
+C1176128||jasmonate
+C0017767||indole GS
+C1519595||transcripts
+C0040648||transcription factor
+C0040648||MYB122
+C0017337||genes
+C0017337||CYP79B2
+C0017337||UGT74B1
+C1412082||SUR1
+C0017337||SOT16
+C0017337||SOT17
+C0017337||SOT18
+C3840684||modification
+C0017337||gene
+C0017337||IGMT1
+C0017767||glucosinolate
+C0017337||TGG1
+C0017337||TGG2
+C1414460||ESM1
+C0330498||Green Magic
+C0017337||UGT74B1
+C0017337||MYB122
+C0330498||VI-158
+C0870883||metabolite
+C1519595||transcript
+C0017393||biomarker
+C0752248||transcriptome profiling
+C0017337||genes
+C0017767||indole GS
+C0870883||metabolite
+C1519595||transcript
+C0017393||biomarkers
+C0017393||marker
+C0006159||breeding
+C0023338||lepidopteran
+C0330498||broccoli
+C0453113||Brassica vegetables

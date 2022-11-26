@@ -1,0 +1,30 @@
+C0033920||Psychometric Costs
+C0696628||Applicants
+C0237828||Retest Correlations
+C0009647||Response Conditions
+C0009647||response process
+C0282122||respondents
+C0009647||responding
+C0582654||personality scales
+C0009647||response conditions
+C0696628||Applicants
+C0041740||University College of Teacher Education
+C0017446||Styria
+C0582654||personality scales
+C0009352||college admission process
+C0582654||personality scales
+C0009647||response conditions
+C0023981||Longitudinal means
+C0696628||applicants
+C0009647||response processes
+C0282122||respondents
+C0009647||response behavior
+C0696628||applicants
+C0237828||retest correlations
+C0237828||retest correlations
+C1444656||indicated
+C0282122||respondents
+C0011109||selection decisions
+C0696628||applicants
+C0582654||personality scales
+C0696628||applicants

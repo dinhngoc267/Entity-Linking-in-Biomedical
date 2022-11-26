@@ -1,0 +1,52 @@
+C0001924||Albumin
+C0016911||Gd
+C0056599||CuS
+C1515655||In Vivo
+C0087111||Photoacoustic / Magnetic Resonance Imaging -Guided Tumor -Targeted Photothermal Therapy
+C0087111||Photothermal therapy
+C0087111||Photothermal therapy
+C0920425||skin cancer therapy
+C0442592||clinic
+C0261794||low systemic adverse effects
+C0011923||imaging
+C1283169||monitoring
+C0011900||diagnosis
+C0016911||Gd
+C0056599||CuS
+C0016911||Gd
+C0056599||CuS
+C0036774||bovine serum albumin
+C0036774||bovine serum albumin
+C0036774||bovine serum albumin
+C0016911||Gd
+C0056599||CuS
+C0036774||bovine serum albumin
+C0243095||photothermal conversion efficiency
+C0243095||photostability
+C0016911||doped Gd species
+C0016911||Gd
+C0056599||CuS
+C0036774||bovine serum albumin
+C0011923||tumor-contrasted imaging
+C3897929||photoacoustic
+C0024485||magnetic resonance imaging
+C0087111||Gd: CuS @ BSA -mediated PTT
+C0243095||therapy efficacy
+C0243095||NIR absorption
+C0243095||photothermal conversion efficiency
+C0301872||immune response
+C0087111||Gd: CuS @ BSA -mediated PTT
+C0242890||toxicity studies
+C1515655||in vivo
+C0016911||Gd
+C0056599||CuS
+C0036774||bovine serum albumin
+C0242481||biodistribution study
+C0242821||body
+C0001924||albumin
+C0016911||Gd
+C0056599||CuS
+C0036774||bovine serum albumin
+C0442972||imaging guidance
+C0087111||tumor ablation properties
+C0040300||tissue

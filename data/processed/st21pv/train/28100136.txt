@@ -1,0 +1,39 @@
+C1963724||antiretroviral therapy
+C0019699||HIV-positive
+C2827413||men who have sex with men
+C0042658||Vietnam
+C1321876||HIV testing
+C0087111||treatment
+C0596545||experiences
+C1561452||Vietnamese
+C2827413||men who have sex with men
+C0444454||accessing
+C1321876||HIV testing
+C0087111||treatment
+C1963724||antiretroviral therapy
+C1963724||antiretroviral therapy
+C0019699||HIV-positive
+C2827413||men who have sex with men
+C0679646||participants
+C2348215||snowball sampling
+C0035168||research
+C0150775||social networks
+C1963724||antiretroviral therapy
+C1446409||positive
+C0011900||diagnosis
+C0019682||HIV
+C1511482||consequences
+C0015726||fear
+C0458074||HIV status
+C0018696||Health system
+C1963724||antiretroviral therapy
+C0017249||sexual identity
+C1321876||HIV testing
+C0010210||counselling
+C0034927||clear referral
+C2827413||men who have sex with men
+C0011929||diagnostic services
+C0087111||treatment
+C0014406||environment
+C0019699||HIV-positive
+C0025266||men

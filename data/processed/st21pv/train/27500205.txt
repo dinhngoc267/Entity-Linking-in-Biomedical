@@ -1,0 +1,55 @@
+C0033684||Kindlins
+C0006826||Cancer
+C0033684||Kindlins
+C1514562||4.1-ezrin-ridixin-moesin (FERM) domain
+C0033684||proteins
+C0033684||kindlins
+C0024660||mammals
+C0002518||sequence
+C0033684||Kindlin-1
+C1171362||expressed
+C0014597||epithelial cells
+C0033684||kindlin-2
+C0007634||adherent cells
+C0033684||kindlin-3
+C1171362||expressed
+C2323499||hematopoietic cells
+C0007634||cells
+C1171362||express
+C0033684||kindlins
+C0007634||transformed cells
+C1171362||expression
+C0597298||isoforms
+C0033684||kindlins
+C0033684||kindlins
+C0021701||integrin
+C1527118||function
+C0025929||mice
+C0033684||kindlins
+C0681814||studies
+C0033684||kindlins
+C0021701||integrins
+C0033684||Kindlins
+C0033684||adaptor proteins
+C1167622||binding
+C0521449||cytoplasmic tails
+C0021701||integrins
+C0025979||actin cytoskeleton
+C0282443||review
+C0033684||kindlin
+C1510464||structure
+C1527118||function
+C0518609||consideration
+C1167622||binding
+C0033684||kindlin
+C1335532||family
+C0006826||cancer
+C0449911||view
+C0033684||kindlin
+C1171362||expression
+C0027651||neoplasia
+C0021701||integrins
+C0178874||tumor progression
+C0027627||metastasis
+C0033684||kindlins
+C0920425||treatment of cancer

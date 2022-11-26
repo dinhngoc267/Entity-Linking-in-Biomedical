@@ -1,0 +1,91 @@
+C0017725||glucose
+C0021641||insulin
+C0061355||glucagon like peptide-1
+C0017132||glucose-dependent insulinotropic peptide
+C0005898||bulbospinal
+C0027882||neurons
+C2328883||rostral ventrolateral medulla
+C0034716||wistar rats
+C0011849||diabetes mellitus
+C0011849||diabetes mellitus
+C0020538||hypertension
+C0005898||bulbospinal
+C0027882||neurons
+C2328883||rostral ventrolateral medulla
+C2328883||rostral ventrolateral medulla
+C0017725||glucose
+C0021641||insulin
+C1562292||incretins
+C0061355||glucagon like peptide-1
+C0061355||glucagon like peptide-1
+C0017132||glucose-dependent insulinotropic peptide
+C0017132||glucose-dependent insulinotropic peptide
+C0011849||diabetes mellitus
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0017725||glucose
+C0021641||insulin
+C0061355||glucagon like peptide-1
+C0017132||glucose-dependent insulinotropic peptide
+C0025251||membrane potentials
+C0005898||bulbospinal
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0007634||whole-cell
+C0242625||patch-clamp technique
+C0017725||glucose
+C0019932||hormones
+C0034716||Wistar rats
+C0006121||brainstem
+C0037925||spinal cord
+C0681814||experiments
+C0017725||glucose
+C0005898||bulbospinal
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0021641||insulin
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0234081||depolarized
+C0061355||glucagon like peptide-1
+C0017132||glucose-dependent insulinotropic peptide
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0522208||hyperpolarized
+C0019637||histological examinations
+C0017742||transporters for glucose
+C0597357||receptors
+C0021641||insulin
+C0061355||glucagon like peptide-1
+C0017132||glucose-dependent insulinotropic peptide
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0017725||glucose
+C0234081||depolarized
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0119484||glucose transporter 3
+C0119484||glucose transporter 3
+C0021641||insulin
+C0234081||depolarized
+C0061355||glucagon like peptide-1
+C0522208||hyperpolarized
+C0017132||glucose-dependent insulinotropic peptide
+C0522208||hyperpolarized
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0597357||receptor
+C0017725||glucose
+C0005898||bulbospinal
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0017742||transporters
+C0027882||neurons
+C0020538||hypertension
+C0021641||insulin
+C1562292||incretins
+C0039044||sympathetic nervous system
+C0020538||hypertension
+C2328883||rostral ventrolateral medulla
+C0027882||neurons
+C0597357||receptors

@@ -1,0 +1,61 @@
+C0015385||Limb
+C2936234||remote ischaemic postconditioning
+C1452861||fibulin-5
+C0598958||neuroprotection
+C0034721||rats
+C0917798||cerebral ischaemia
+C0035126||reperfusion injury
+C1515844||AKT pathway
+C0015385||Limb
+C2936234||remote ischaemic postconditioning
+C2936234||remote ischaemic postconditioning
+C0087111||treatment
+C2603343||study
+C1452861||fibulin-5
+C0598958||neuroprotection
+C2936234||remote ischaemic postconditioning
+C0917798||cerebral ischaemia
+C0035126||reperfusion (I/R) injury
+C0034721||rats
+C0740391||middle cerebral artery occlusion
+C0740391||middle cerebral artery occlusion
+C0034721||rats
+C2936234||remote ischaemic postconditioning
+C0740391||occlusion
+C0238767||bilateral
+C0015801||femoral artery
+C0035124||reperfusion
+C0013081||downregulate
+C1452861||fibulin-5
+C1099354||fibulin-5 siRNA
+C1533685||injected
+C0152279||lateral ventricle
+C0740391||middle cerebral artery occlusion
+C2603343||study
+C2936234||remote ischaemic postconditioning
+C0917798||cerebral I
+C0035126||R injury
+C0442797||decreasing
+C0021308||infarct
+C0005854||blood brain barrier
+C0005854||blood brain barrier
+C0015376||leakage
+C0035696||mRNA
+C0428479||protein levels
+C1452861||fibulin-5
+C0041904||upregulated
+C2936234||remote ischaemic postconditioning
+C0035124||reperfusion
+C0013081||Downregulation
+C1452861||fibulin-5
+C0598958||neuroprotection
+C2936234||remote ischaemic postconditioning
+C1452861||fibulin-5
+C0041904||upregulated
+C2936234||remote ischaemic postconditioning
+C1515844||PI3K/AKT pathway
+C0041904||upregulation
+C1452861||fibulin-5
+C2936234||remote ischaemic postconditioning
+C0917798||cerebral I
+C0035126||R injury

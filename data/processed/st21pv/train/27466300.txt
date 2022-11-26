@@ -1,0 +1,44 @@
+C1704256||Transforming Growth Factor Beta 1
+C1704256||Transforming Growth Factor Beta 1
+C0007115||Thyroid Cancer
+C0229664||Peripheral Blood
+C0040690||Transforming growth factor beta
+C0040690||Transforming growth factor beta
+C0006826||cancer
+C0040690||Transforming growth factor beta
+C1337013||differentiated thyroid cancer
+C1337013||differentiated thyroid cancer
+C0332128||examined
+C2603343||study
+C0040690||Transforming growth factor beta
+C1550100||serum samples
+C0031858||PHA
+C0038337||stimulated
+C0370231||whole blood
+C0200949||culture
+C0936012||analyze
+C1704256||Transforming Growth Factor Beta 1
+C0023516||leukocyte
+C0024264||lymphocyte
+C0005821||platelets
+C0007584||counts
+C0007115||thyroid cancer
+C1704256||Transforming Growth Factor Beta 1
+C1337013||differentiated thyroid cancer
+C0812225||duoSet ELISA Development kit
+C0080222||human TGF-β1
+C1704256||Transforming Growth Factor Beta 1
+C1550100||serum samples
+C1257890||groups
+C0005821||platelet
+C0007584||counts
+C1704256||Transforming Growth Factor Beta 1
+C1337013||differentiated thyroid cancer
+C0031858||PHA
+C0038337||stimulated
+C0370231||whole blood
+C0200949||cultures
+C1337013||differentiated thyroid cancer
+C1704256||Transforming Growth Factor Beta 1
+C2603343||studies
+C0243095||findings

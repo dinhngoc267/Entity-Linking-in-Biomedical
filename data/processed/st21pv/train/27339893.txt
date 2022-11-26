@@ -1,0 +1,72 @@
+C0678594||Structural
+C0074554||Simvastatin
+C0013159||Competitive Antagonism
+C0079785||Complement Receptor 3
+C0009498||complement system
+C0009450||infection
+C3495031||severe complications
+C0021368||inflammation
+C1328819||Small molecule
+C0243076||antagonists
+C0079785||complement receptor 3
+C0079785||complement receptor 3
+C0678594||structural
+C0684224||report
+C0678594||structure
+C0086418||human
+C0079785||complement receptor 3
+C0682969||ligand-binding I domain
+C1704241||complex
+C0074554||simvastatin
+C0074554||Simvastatin
+C0025552||metal
+C1517880||ligand-binding
+C0026377||conformation
+C0079785||complement receptor 3
+C1514562||I domain
+C0719248||chelated Mg(2+) ion
+C0074554||Simvastatin
+C0243095||antagonizes
+C0682969||I domain binding
+C0009498||complement fragments
+C0369029||iC3b
+C0056184||C3d
+C0063695||intercellular adhesion molecule-1
+C1514562||I domain's
+C0037775||distribution
+C0031327||binding kinetics
+C0023688||ligands
+C0332149||possible
+C1517880||ligand binding
+C0031327||kinetics
+C0074554||simvastatin
+C0013159||antagonism
+C0178539||cellular
+C0681814||experiments
+C0074554||simvastatin
+C0600432||K562 cells
+C0079785||complement receptor 3
+C0086418||human
+C0026473||monocytes
+C0597357||receptor
+C0185125||Application
+C0026473||monocytes
+C0074554||simvastatin
+C1254351||drug
+C0007634||cells
+C0074554||simvastatin
+C0079785||complement receptor 3
+C1517880||ligand binding
+C0026377||conformation
+C1706082||compound
+C0079785||complement receptor 3
+C0026377||conformation
+C0014406||environments
+C0684224||report
+C0079785||complement receptor 3
+C0243076||antagonists
+C0243095||identifies
+C0597357||receptors
+C1517880||ligand binding
+C0031327||kinetics
+C0243076||antagonists

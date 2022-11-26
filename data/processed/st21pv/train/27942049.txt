@@ -1,0 +1,75 @@
+C1971021||Potassium depletion
+C0074782||Na-Cl cotransporter
+C0031715||phosphorylation
+C0077678||ubiquitin ligase
+C4042100||Kelch-like 3
+C4042100||Kelch-like 3
+C4042100||Kelch-like 3
+C1179435||component
+C0077678||E3 ubiquitin ligase complex
+C1327622||regulates
+C0005823||blood pressure
+C0031727||With-No-Lysine (WNK) kinases
+C0026882||Mutations
+C4042100||Kelch-like 3
+C3278017||increased renal salt reabsorption
+C0032821||K(+)
+C0036536||secretion
+C0020538||hypertension
+C0020461||hyperkalemia
+C0008972||clinical studies
+C0162800||dietary K(+)
+C0005823||blood pressure
+C4042100||Kelch-like 3
+C0077678||ubiquitin ligase
+C1180347||complex
+C0032821||K(+)
+C0074782||Na-Cl cotransporter
+C0074782||Na-Cl cotransporter
+C0022646||kidney
+C0022676||distal convoluted tubules
+C0025929||mice
+C0013470||eating
+C0948941||low-K(+) diet
+C4042100||Kelch-like 3
+C0031715||phosphorylation
+C4042100||(KLHL3(S433-P))
+C3840684||modification
+C0031727||WNK
+C4042100||Kelch-like 3
+C4055506||accumulation
+C1452813||WNK4
+C0522506||downstream
+C1436950||kinases SPAK
+C4307920||STE20
+C1436950||SPS1
+C1312482||proline-alanine-rich protein kinase
+C1438448||oxidative stress-responsive 1
+C1438448||oxidative stress-responsive 1
+C0074782||Na-Cl cotransporter
+C0031715||phosphorylation
+C4055506||accumulation
+C0007603||plasma membrane
+C0031715||phosphorylation
+C0033634||protein kinase C
+C0010531||protein kinase A
+C0031715||phosphorylates
+C2936239||HEK cells
+C1171362||expressing
+C4042100||Kelch-like 3
+C1452813||WNK4
+C0033634||protein kinase C
+C0039654||phorbol 12-myristate 13-acetate
+C4042100||KLHL3(S433-P)
+C1452813||WNK4
+C1519751||ubiquitination
+C4042100||Kelch-like 3
+C0032821||K(+)
+C0074782||Na-Cl cotransporter
+C0001400||physiologic adaptation
+C0205108||distal
+C0232633||electrogenic
+C2610987||Na(+) reabsorption
+C0022646||renal
+C0032821||K(+)
+C0005823||blood pressure

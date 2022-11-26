@@ -1,0 +1,36 @@
+C0666283||CD84
+C0023434||Chronic lymphocytic leukemia
+C0007582||interactions
+C0023434||Chronic lymphocytic leukemia
+C0023434||Chronic lymphocytic leukemia
+C0442867||malignant disease
+C1513026||mature lymphocytes
+C0023434||Chronic lymphocytic leukemia
+C0242656||progression of the disease
+C0013203||drug resistance
+C0079731||malignant B cells
+C1518246||stromal cells
+C0666283||CD84
+C4277631||signaling lymphocyte activation molecule family
+C0597357||immunoreceptors
+C1819957||self-associates
+C0666283||CD84
+C0023434||Chronic lymphocytic leukemia
+C0007634||cells
+C0007620||cell survival
+C1171362||CD84 expressed
+C0023434||Chronic lymphocytic leukemia
+C0007634||cells
+C1171362||CD84 expressed
+C0007634||cells
+C0007620||cell survival
+C0666283||CD84
+C1515655||in vivo
+C0023434||Chronic lymphocytic leukemia
+C0007634||cells
+C0007587||cell death
+C0243095||findings
+C3540676||blockade
+C0666283||CD84
+C0007620||survival
+C1704259||pathway

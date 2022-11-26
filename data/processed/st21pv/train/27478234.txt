@@ -1,0 +1,46 @@
+C0243095||nutraceutical
+C0243095||antinutritional properties
+C1075468||barnyard
+C0026145||finger millet
+C1075468||barnyard
+C1075468||Echinochloa frumentacea
+C0997163||finger
+C0997163||Eleusine coracana
+C0243095||nutraceutical
+C0243095||antinutritional properties
+C0026145||Barnyard millet
+C2348013||crude fiber
+C0012173||total dietary fiber
+C0041249||tryptophan
+C0007271||total carotenoids
+C0969677||α-tocopherol
+C0026145||finger millet
+C0026145||finger millet
+C0025646||methionine
+C0003968||ascorbic acid
+C0026145||barnyard millet
+C0870883||secondary metabolites
+C3714634||biological functions
+C0026145||barnyard millet
+C0071649||polyphenols
+C0039294||tannins
+C0029224||ortho-dihydroxy phenol
+C0026145||finger millet
+C0029224||antinutitional compounds
+C0026145||barnyard millet
+C0031855||phytic acid
+C0026145||finger millet
+C1148560||trypsin inhibition activity
+C0026145||barnyard millet
+C0026145||finger millet
+C0026145||Barnyard millet
+C0001109||acid phosphatase
+C0016955||α-galactosidase
+C1152556||α-amylase inhibitor activity
+C0026145||finger millet
+C0026145||Finger millet seeds
+C0006675||calcium
+C0024706||manganese
+C0026145||barnyard millet seeds
+C0026145||barnyard millet
+C0026145||finger millet

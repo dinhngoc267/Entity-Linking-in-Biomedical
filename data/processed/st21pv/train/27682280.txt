@@ -1,0 +1,38 @@
+C0262386||Avulsions
+C0559502||Triceps Brachii
+C3263722||injuries
+C0543467||surgical treatment
+C2603343||study
+C0243095||findings
+C0087111||treatments
+C0087111||treatment
+C3263722||injuries
+C0262386||avulsion
+C0205108||distal end
+C0448542||triceps brachii (TB) tendon
+C3203359||rupture
+C0262386||avulsion
+C0205108||distal end
+C0448542||TB tendon
+C0025102||medical records
+C0242193||imaging files
+C0589121||follow up visit
+C0282574||Mayo Elbow Score
+C0589121||follow-up visit
+C3263722||injury
+C0230371||left hand
+C0018563||hand
+C0009938||fleck
+C0013769||elbow
+C0202571||lateral radiograph
+C3263722||injuries
+C0442108||intra-articular
+C0016658||fractures
+C0087111||V-Y plasty
+C0205108||distal
+C0559502||triceps brachii
+C0543467||surgery
+C0448542||TB tendon
+C3203359||rupture
+C1704656||diagnosis
+C3263722||injuries

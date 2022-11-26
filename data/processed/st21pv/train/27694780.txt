@@ -1,0 +1,31 @@
+C2348066||Dabigatran
+C0354604||oral anticoagulant
+C0162791||Guidelines
+C0524861||oral surgery procedures
+C0282441||review of the literature
+C2348066||Dabigatran
+C1254351||drug
+C0003280||anticoagulants
+C1861172||venous thromboembolism
+C0038454||stroke
+C0040018||thrombin
+C0011331||dental treatment
+C1138432||PubMed
+C0025141||Medline
+C0023625||Cochrane Library
+C0003280||anticoagulants
+C2348066||dabigatran
+C0543467||surgical treatments
+C0923870||anatomical locations
+C0226896||oral cavity
+C0206034||randomized clinical trial
+C0150093||case series
+C0008976||clinical trials
+C0920317||meta-analysis
+C0543467||procedure
+C2348066||dabigatran
+C0013922||embolism
+C0032788||postoperative bleeding
+C0232804||renal function
+C4048276||invasive interventions
+C0199176||anti-hemolytic measures

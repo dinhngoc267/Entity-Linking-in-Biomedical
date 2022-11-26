@@ -1,0 +1,52 @@
+C0039989||thoracoscopic
+C0015252||resection
+C2350019||solitary pulmonary nodule
+C0006826||cancer
+C2350019||Solitary pulmonary nodules
+C2350019||Solitary pulmonary nodules
+C0442726||detected
+C0006826||cancer
+C0577916||lesions
+C0153676||pulmonary metastases
+C0087111||non-surgical techniques
+C0750484||confirmation
+C2350019||Solitary pulmonary nodules
+C0039989||thoracoscopy
+C0035648||risk factors
+C4282132||malignancy
+C0035363||Single-institution retrospective analysis
+C4282132||malignancies
+C0039989||thoracoscopic
+C0015252||resection
+C2350019||Solitary pulmonary nodules
+C0011900||diagnosis
+C0006826||cancer
+C0039989||thoracoscopic
+C0015252||resection
+C2350019||Solitary pulmonary nodules
+C2350019||Solitary pulmonary nodules
+C0027627||metastasis
+C0242379||lung cancer
+C4282132||malignancy
+C0012634||disease
+C2350019||Solitary pulmonary nodules
+C0475440||size
+C0225756||upper lobe
+C1699633||PET-CT
+C0225756||upper lobe
+C4282132||malignancy
+C2350019||Solitary pulmonary nodules
+C0242379||lung cancer
+C2350019||Solitary pulmonary nodules
+C0442867||malignant disease
+C0153676||pulmonary metastases
+C0007131||NSCLC
+C0242379||lung cancer
+C1513916||no
+C0153676||pulmonary metastasis
+C0242379||lung cancer
+C0750484||confirmation
+C2350019||Solitary pulmonary nodules
+C4282132||malignancies
+C0087130||uncertainty
+C0087111||treatments

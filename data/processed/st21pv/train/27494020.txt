@@ -1,0 +1,40 @@
+C0019994||Hospital-Wide
+C0200344||Clinical Laboratory Specimen Identification
+C0035363||Retrospective Observational Study
+C1269815||patient identification
+C1706420||prevention
+C1113679||patient safety
+C1292459||patient specimen
+C1547116||outpatient department
+C1547116||outpatient department
+C0562508||emergency department
+C0562508||emergency department
+C1547116||inpatient department
+C1547116||inpatient department
+C0000872||academic medical center
+C0039260||Taiwan
+C1301725||documented
+C0562508||emergency department
+C1547116||inpatient department
+C0004738||barcode
+C0009612||positive patient identification system
+C0562508||emergency department
+C1547116||inpatient department
+C1547116||outpatient department
+C1550655||specimens
+C0243095||identified
+C1269815||patient identification
+C1550655||specimens
+C1273869||interventions
+C0562508||emergency department
+C1547116||inpatient department
+C1547116||outpatient department
+C1273869||interventions
+C1273869||interventions
+C1269815||patient identification
+C1113679||patient safety
+C4019276||data collected
+C2603343||study
+C0022885||computer-generated
+C0009612||positive identification systems
+C1269815||patient identification

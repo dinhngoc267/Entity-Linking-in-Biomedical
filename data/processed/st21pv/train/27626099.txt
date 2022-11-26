@@ -1,0 +1,44 @@
+C0030956||Peptide
+C0753209||PB2
+C1505487||eIF4G1
+C0872079||Interaction
+C0029347||Influenza A Viruses
+C0042774||Replication
+C0029341||Influenza viruses
+C0562628||obligate parasites
+C1154502||hijack the host cellular system
+C1611366||influenza virus PB2
+C1505487||host eukaryotic translation initiation factor 4-γ 1
+C1505487||eIF4G1
+C1154505||viral mRNA translation
+C0030956||peptide
+C0753209||PB2
+C1505487||eIF4G1
+C0872079||interaction
+C0042774||virus replication
+C0001560||intranasal administration
+C0030956||peptide
+C3151529||lethal
+C0805586||challenges
+C0029347||influenza A viruses
+C0025919||BALB/c mice
+C1615607||H1N1
+C1613950||H5N1
+C3658219||H7N9 influenza virus subtypes
+C0949728||Mapping
+C0753209||PB2 protein
+C1505487||eIF4G1
+C0005456||binding sites
+C0753209||PB2 cap
+C1149343||binding domain
+C3494274||Virtual docking analysis
+C0030956||peptide
+C0002520||amino acid residues
+C0753209||PB2
+C0201711||cap-binding activity
+C0753209||PB2
+C1505487||eIF4G1
+C0005456||interactive site
+C1254351||druggable
+C0021400||influenza
+C0087111||therapeutics

@@ -1,0 +1,43 @@
+C0042313||Intrawound Vancomycin
+C2608059||Spine Surgery
+C0038941||Surgical site infection
+C0038941||Surgical site infection
+C2608059||spine surgery
+C0042313||intrawound vancomycin
+C0038941||Surgical site infection
+C0038941||Surgical site infection
+C0042313||intrawound vancomycin
+C2608059||spine surgery
+C0042313||intrawound vancomycin
+C0038941||Surgical site infection
+C0029064||operating room
+C0042313||vancomycin
+C0427978||minimal inhibitory concentrations
+C0427978||minimal inhibitory concentrations
+C0427978||minimal inhibitory concentrations
+C0042313||vancomycin
+C0042313||vancomycin
+C0042313||intrawound vancomycin
+C0042313||vancomycin
+C0038941||Surgical site infection
+C0037993||rates
+C0038172||Staphylococcus aureus
+C0038941||Surgical site infection
+C0042313||intrawound vancomycin
+C0042313||intrawound vancomycin powder
+C0038172||S aureus
+C0038941||Surgical site infection
+C3265908||resistance to vancomycin
+C0427978||minimal inhibitory concentrations
+C0042313||vancomycin
+C0085423||gram-negative
+C0038941||Surgical site infection
+C0429652||culture negative fluid collection
+C0042313||vancomycin
+C0599755||cohort
+C0042313||intrawound vancomycin
+C2608059||spine surgery
+C0038941||Surgical site infection
+C2608059||spine surgery
+C0042313||intrawound vancomycin
+C0038941||Surgical site infection

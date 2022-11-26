@@ -1,0 +1,67 @@
+C0678594||Structure
+C0004611||Bacterial
+C1265415||Endophytic
+C0242726||Roots
+C0330774||Caliph Medic
+C0330774||Medicago truncatula
+C0032098||forage crop
+C0330774||Caliph medic
+C0330774||Medicago truncatula
+C1514135||model legume plant
+C0004611||rhizobia
+C0032098||plants
+C0032098||plant
+C1265415||Endophytic
+C0004611||bacteria
+C0032098||plants
+C0597252||growth
+C0597252||development
+C0004611||bacteria
+C0392673||adaptation
+C0032098||plants
+C0220862||isolation
+C0004611||bacteria
+C0330774||Caliph medic
+C0557759||farming
+C0004611||bacterial
+C0008902||OTUs
+C0205102||interior
+C0242726||roots
+C0032098||plant
+C2732543||pyrosequencing
+C0017337||small ribosomal subunit gene
+C0017337||16S rDNA
+C0022885||cultivation-independent approach
+C0004611||bacteria
+C0032098||plants
+C1294197||sequencing
+C0017272||libraries
+C0040300||control
+C0040300||salinity-treated tissues
+C0008902||OTUs
+C0242726||roots
+C0162801||Sequence analysis
+C1705920||species
+C0004611||growth-promoting bacteria
+C0004611||salt-stressed soil-borne bacteria
+C4277688||nitrogen-fixing bacterial
+C1764827||isolates
+C0004611||bacteria
+C0330774||Caliph medic
+C1265415||endophytes
+C1514135||model plant
+C1265415||endophytic
+C0004611||bacteria
+C0242726||plant roots
+C0022885||cultivation-dependent approach
+C1764827||isolates
+C0044278||ACC-deaminase
+C0002607||ammonia
+C0936060||IAA
+C0043481||Zn+2
+C1601799||PO4-3
+C0022885||cultivation-independent techniques
+C0004611||bacteria
+C1265415||endophytic
+C0004611||bacteria
+C0330774||Caliph medic

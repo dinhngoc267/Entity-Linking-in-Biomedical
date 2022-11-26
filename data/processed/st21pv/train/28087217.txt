@@ -1,0 +1,49 @@
+C0033920||Psychometric
+C0333052||version
+C4273905||Pain Catastrophizing Scale
+C0679646||participants
+C0026858||musculoskeletal pain
+C0010362||cross-sectional study
+C4273905||Pain Catastrophizing Scale
+C4273905||Pain Catastrophizing Scale
+C3178745||pain catastrophizing
+C4273905||scale
+C0430022||magnification
+C0232604||rumination
+C0150063||helplessness
+C1710032||screening
+C0679646||participant's
+C0333052||version
+C4273905||Pain Catastrophizing Scale
+C2603343||study
+C0220825||evaluate
+C0033920||psychometric
+C0333052||version
+C4273905||Pain Catastrophizing Scale
+C0242481||Rasch analysis
+C0026857||musculoskeletal disorders
+C2603343||study
+C0679646||Participants
+C2603343||study
+C1320357||pain intensity
+C4273905||Pain Catastrophizing Scale
+C4273905||Pain Catastrophizing Scale
+C0349674||Tampa Scale of Kinesiophobia
+C0349674||Tampa Scale of Kinesiophobia
+C0333052||version
+C4273905||Pain Catastrophizing Scale
+C0242481||Rasch analysis
+C0033920||psychometric
+C4273905||Pain Catastrophizing Scale
+C0242481||Rasch analysis
+C4273905||Pain Catastrophizing Scale
+C1707753||unidimensionality
+C0349674||category rating scale
+C4273905||Pain Catastrophizing Scale
+C4273905||Pain Catastrophizing Scale
+C0033920||psychometric
+C0679646||participants
+C0026858||musculoskeletal pain
+C0348000||instruments
+C0220825||evaluate
+C3178745||pain catastrophizing

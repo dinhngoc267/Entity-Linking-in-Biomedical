@@ -1,0 +1,45 @@
+C0037315||Sleep Apnea
+C0340647||Type B Aortic Dissection
+C0524461||Lumen
+C0040053||Thrombosis
+C0520679||Obstructive sleep apnea
+C0520679||Obstructive sleep apnea
+C0340643||aortic dissection
+C0040053||Thrombosis
+C0524461||lumen
+C0033325||prognosis
+C0340647||type B aortic dissection
+C0340647||aortic dissection
+C0333204||partial thrombosis
+C0683956||predictor
+C2603343||study
+C0520679||Obstructive sleep apnea
+C0524461||lumen
+C0040053||thrombosis
+C1518527||observational study
+C0340647||type B AoD
+C0524461||lumen
+C0040053||thrombosed
+C0040053||thrombosed
+C1536105||computer tomography angiography
+C4083070||apnea-hypopnea index
+C4083070||apnea-hypopnea index
+C4083070||apnea-hypopnea index
+C4083070||apnea-hypopnea index
+C4083070||apnea-hypopnea index
+C4083070||apnea-hypopnea index
+C0520679||Obstructive sleep apnea
+C0340647||type B dissection
+C0040053||thrombosed
+C0524461||lumen
+C0520679||Obstructive sleep apnea
+C1446409||positively
+C0040053||thrombosis
+C0520679||Obstructive sleep apnea
+C0340647||type B AoD
+C0520679||Obstructive sleep apnea
+C0524461||lumen
+C0040053||thrombosis
+C0520679||Obstructive sleep apnea
+C0033325||prognosis
+C0340647||aortic dissection

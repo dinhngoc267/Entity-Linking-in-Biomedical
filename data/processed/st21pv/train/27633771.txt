@@ -1,0 +1,70 @@
+C0103403||Annexin A1
+C0169424||Aβ1-42
+C1831732||blood-brain barrier disruption
+C0021469||inhibition
+C0037080||RhoA-ROCK signaling pathway
+C0005854||blood-brain barrier
+C0005854||blood-brain barrier
+C4242462||brain capillary
+C0225336||endothelial cells
+C0019868||homeostasis
+C0006104||brain
+C0005767||blood
+C0933845||parenchyma
+C1269563||central nervous system
+C1269563||central nervous system
+C1831732||disruption of the BBB
+C0524851||neurodegenerative diseases
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0103403||Annexin A1
+C0103403||Annexin A1
+C0169911||anti-inflammatory messenger
+C1171362||expressed
+C0225336||brain endothelial cells
+C0005854||blood-brain barrier
+C0005854||blood-brain barrier
+C0002395||Alzheimer's disease
+C0169424||β-Amyloid 1-42
+C0169424||β-Amyloid 1-42
+C1831732||BBB disruption
+C0034861||human recombinant ANXA1
+C0034861||human recombinant ANXA1
+C0591833||murine
+C0225336||brain endothelial cell line bEnd.3.
+C0103403||Annexin A1
+C0225336||bEnd.3 cells
+C0006901||capillaries
+C0229671||human serum
+C0002395||Alzheimer's disease
+C0103403||Annexin A1
+C0005854||blood-brain barrier
+C0002395||Alzheimer's disease
+C0037080||RhoA-ROCK signaling pathway
+C0169424||β-Amyloid 1-42
+C0225336||bEnd.3 cells
+C0006901||capillaries
+C0643681||RhoA
+C0169424||β-Amyloid 1-42
+C1831732||BBB disruption
+C1171362||overexpressed
+C0084340||RhoA-GTP
+C0643681||RhoA
+C0103403||Annexin A1
+C0598800||pericytes
+C0282547||cocultured
+C0225336||bEnd.3 cells
+C0169424||β-Amyloid 1-42
+C0225336||bEnd.3 cells
+C0036536||secretion
+C0103403||Annexin A1
+C0598800||pericytes
+C0103403||Annexin A1
+C0169424||β-Amyloid 1-42
+C1831732||BBB disruption
+C0021469||inhibition
+C0037080||RhoA-ROCK signaling pathway
+C0103403||Annexin A1
+C1611640||therapeutic reagent
+C1831732||breakdown of the BBB
+C0002395||Alzheimer's disease

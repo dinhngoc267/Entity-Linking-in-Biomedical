@@ -1,0 +1,44 @@
+C0013443||ear
+C3714660||trauma
+C0524865||reconstructive
+C1549094||auricular
+C0302142||deformities
+C3263723||injuries
+C0524865||applied reconstructive
+C0000872||academic hospital
+C0027778||Netherlands
+C1549094||auricular
+C0524865||reconstruction
+C0221430||acquired deformity
+C0552510||cause of injury
+C0005898||anatomical region
+C0543467||surgeries
+C0007301||cartilage
+C3874019||skin cover used
+C0936012||analyzed
+C1549094||auricular
+C0302142||deformities
+C0005658||bite injuries
+C0000932||traffic accidents
+C0006434||burns
+C0868838||post-otoplasty
+C0009566||complications
+C0502136||upper third of the auricle
+C0013453||entire auricle
+C0524865||reconstruction
+C0222787||costal cartilage
+C0221912||cutaneous cover
+C0395655||postauricular skin flap
+C2603343||study
+C1549094||auricular
+C0302142||deformities
+C2603343||studies
+C0023866||literature
+C0561546||Bite wounds
+C1549094||auricular
+C3263723||injuries
+C0502136||upper third
+C0524865||reconstructions
+C0222787||costal cartilage
+C0440884||postauricular flap
+C0302142||deformity

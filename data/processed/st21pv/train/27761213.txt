@@ -1,0 +1,47 @@
+C0001898||Alanine
+C0036720||Serine
+C0249742||Calcium Sensing Receptor
+C1527249||Colorectal Cancer
+C0006675||calcium
+C1527249||colorectal cancer
+C1527249||colorectal cancer
+C0249742||calcium sensing receptor
+C0249742||calcium sensing receptor
+C1413136||CaSR gene
+C0678941||rs1801725
+C0678941||A986S variant
+C1527249||colorectal cancer
+C0007328||case-control study
+C1527249||colorectal cancer
+C1413136||CaSR gene
+C0678941||A986S variant
+C0032520||PCR
+C3714764||RFLP method
+C1273937||No significant
+C0678941||A986S variant
+C1413136||CaSR gene
+C1305855||BMI
+C1519386||smoking status
+C0241889||family history
+C1527249||colorectal cancer
+C3840684||modification
+C0678941||A986S variant
+C1527249||colorectal cancer
+C1305855||BMI
+C0475445||tumor site
+C0028754||obesity
+C0678941||A986S variant
+C0936012||analyzed
+C2712185||normal weight
+C1305855||BMI
+C0497406||overweight
+C0028754||obese
+C1305855||BMI
+C0243095||findings
+C1413136||CaSR gene
+C0678941||A986S variant
+C1527249||colorectal cancer
+C0243095||finding
+C0750484||confirmation
+C0678941||gene variant
+C0596263||carcinogenesis

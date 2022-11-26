@@ -1,0 +1,90 @@
+C0025919||BALB/c mice
+C0020971||immunized
+C0333785||virus-like particles
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0767120||glycoproteins gpK8.1
+C0761135||gB
+C1142879||gH
+C2606403||gL
+C0229671||serum
+C0475463||neutralizing antibody
+C1621287||activity
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0036220||Kaposi sarcoma
+C0001737||Africa
+C0376526||virus
+C0042210||prophylactic vaccine
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0767120||gpK8.1
+C0761135||gB
+C1142879||gH
+C2606403||gL glycoproteins
+C0376526||virus
+C1819995||host cells
+C0042210||vaccine
+C0475463||neutralizing antibodies
+C0475463||neutralizing antibodies
+C0042769||virus infection
+C0767120||gpK8.1
+C0761135||gB
+C1142879||gH
+C2606403||gL
+C0333785||virus-like particles
+C0333785||virus-like particles
+C0333785||virus-like particles
+C1325834||viral glycoprotein(s)
+C0229671||serum
+C0475463||neutralizing antibodies
+C0020971||immunized
+C0025919||BALB/c mice
+C0767120||gpK8.1
+C0761135||gB
+C1142879||gH
+C2606403||gL
+C0333785||virus-like particles
+C0475463||Neutralizing antibody
+C0025919||mice
+C0020971||immunized
+C0333785||virus-like particles
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0042769||infection
+C2936239||HEK-293 cells
+C0003320||immunogen
+C0767120||gpK8.1
+C0333785||virus-like particles
+C0475463||nAb
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0376526||UV-KSHV
+C0376526||UV-KSHV
+C0761135||gB
+C1142879||gH
+C2606403||gL
+C0025919||Mice
+C0020971||immunized
+C0761135||gB
+C1142879||gH
+C2606403||gL
+C0333785||virus-like particles
+C0020971||immunized
+C0761135||gB
+C1142879||gH
+C1325725||VLP
+C0003320||immunogens
+C0020971||Immunization
+C1325725||VLP
+C0475463||nAb
+C0376526||UV-KSHV
+C0229671||serum
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0767120||gpK8.1
+C0761135||gB
+C1142879||gH
+C2606403||gL glycoproteins
+C0333785||virus-like particles
+C0042210||prophylactic vaccine
+C0376526||Kaposi sarcoma-associated herpesvirus
+C0042769||infection

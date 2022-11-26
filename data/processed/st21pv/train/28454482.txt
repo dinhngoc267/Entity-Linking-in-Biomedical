@@ -1,0 +1,50 @@
+C0014406||Environmental
+C0025552||Metallic
+C0013812||Electrodes
+C0012854||DNA Molecule
+C0012854||Deoxyribonucleic acid (DNA)
+C0013812||electrodes
+C0025080||molecular electronics
+C0025080||medical
+C0025080||biomedical
+C0012854||DNA molecule
+C0012854||Deoxyribonucleic acid
+C0012854||Deoxyribonucleic acid
+C0022023||ions
+C0025552||metallic
+C0013812||electrodes
+C0014406||environmental
+C0012854||λ-double helix (DNA) molecule
+C0025552||metallic
+C0013812||electrodes
+C0681814||experimental
+C0681814||experiment
+C0012854||DNA molecule
+C0022023||ions
+C0681814||experiment
+C0014406||environmental
+C0012854||DNA molecule
+C0681814||experiment
+C0012854||DNA molecule
+C0012854||σ DNA
+C0012854||Deoxyribonucleic acid
+C0025552||metal
+C0012854||σ DNA
+C0012854||σ DNA
+C0012854||DNA molecule
+C0012854||molecule
+C0012854||σ DNA
+C0012854||ε'DNA
+C0012854||DNA molecule
+C0012854||Deoxyribonucleic acid
+C0022023||ions
+C0012854||DNA molecule
+C0012854||Deoxyribonucleic acid
+C0012854||Deoxyribonucleic acid
+C0025552||metallic
+C0012854||Deoxyribonucleic acid
+C0012854||Deoxyribonucleic acid
+C0678594||structural
+C0013852||electrons
+C0012854||DNA molecule
+C0681814||experiment

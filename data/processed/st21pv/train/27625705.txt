@@ -1,0 +1,64 @@
+C0019196||hepatitis C
+C0220847||Hepatitis C virus
+C0220847||Hepatitis C virus
+C0023895||liver diseases
+C0023890||cirrhosis
+C0006826||cancer
+C0220847||Hepatitis C virus
+C0002783||epidemiology
+C0277785||pathophysiology
+C0596935||reciprocal interactions
+C4288963||HCV infection
+C0220847||Hepatitis C virus
+C0341439||chronic liver diseases
+C0086418||human
+C0013715||Egypt
+C2700280||world's
+C4288963||HCV infections
+C2603343||study
+C0486616||composition
+C0337801||Egyptian
+C0220847||Hepatitis C virus
+C0023884||liver
+C1550661||stool samples
+C0220847||Hepatitis C virus
+C1708335||healthy individuals
+C1294197||16S rRNA gene sequencing
+C0348000||Illumina MiSeq
+C1708335||healthy persons'
+C0220847||Hepatitis C virus
+C0995456||phylum Bacteroidetes
+C0220847||Hepatitis C virus
+C1708335||healthy individuals
+C1254144||Firmicutes
+C0751985||Proteobacteria
+C0600148||Actinobacteria
+C1708235||Genus
+C0936012||analysis
+C0242946||Prevotella
+C1229075||Faecalibacterium
+C0220847||Hepatitis C virus
+C0318074||Ruminococcus
+C0009054||Clostridium
+C0995456||Bacteroidetes
+C0220847||Hepatitis C virus
+C0242946||Prevotella
+C0525033||probiotic genus
+C0005380||Bifidobacterium
+C1708335||healthy individuals
+C2603343||study
+C1709533||phyla
+C1708235||genera
+C0220847||Hepatitis C virus
+C1708335||healthy individuals
+C0524910||chronic hepatitis C
+C0282583||bacterial translocation
+C0023884||liver's
+C0231410||impaired role
+C0012238||digestion
+C0597295||protein synthesis
+C0486616||composition
+C0005516||biomarker
+C0242946||Prevotella
+C1229075||Faecalibacterium
+C0005380||Bifidobacterium

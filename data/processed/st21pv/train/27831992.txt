@@ -1,0 +1,32 @@
+C0184661||Intervention
+C0030193||Sex Life-related Pain
+C0011164||Degenerative
+C0037949||Spinal
+C0936012||Analysis
+C2603343||SPORT Study
+C2603343||study
+C2985505||therapeutic retrospective cohort study
+C2603343||study
+C0278092||sexual function
+C0037944||spinal stenosis
+C0037944||spinal stenosis
+C0264184||degenerative spondylolisthesis
+C0264184||degenerative spondylolisthesis
+C0278092||sexual function
+C0037944||spinal stenosis
+C0264184||degenerative spondylolisthesis
+C0278092||sexual function
+C1522577||follow-up
+C2603343||SPORT study
+C0543467||surgery
+C0278092||sexual function
+C0001792||older
+C0037179||unmarried
+C0936012||analysis
+C1522577||follow-up
+C0030193||pain
+C1522577||follow-up
+C0264184||degenerative spondylolisthesis
+C0037944||spinal stenosis
+C0184511||improved
+C0030193||sex life-related pain

@@ -1,0 +1,16 @@
+C1522486||Expert
+C0282574||position paper
+C1096021||dual antiplatelet therapy
+C0679699||secondary prevention
+C0027051||myocardial infarction
+C1096021||dual antiplatelet therapy
+C1096021||dual antiplatelet therapy
+C0948089||acute coronary syndrome
+C2603343||studies
+C0087111||therapy
+C0948089||acute coronary syndrome
+C0282574||position paper
+C0337795||Austrian
+C1522486||experts
+C2603343||studies
+C1096021||dual antiplatelet therapy

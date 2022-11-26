@@ -1,0 +1,25 @@
+C0008902||Classification
+C1517288||Edible Oils
+C0206055||ATR-FTIR
+C1517288||oil
+C0022877||food control laboratories
+C0008902||Classifying
+C1517288||edible oils
+C0037812||vibrational spectroscopy
+C0008902||classification
+C1517288||oils
+C0008902||classification
+C1517288||edible oils
+C0054599||canola
+C0010029||corn
+C1517288||frying
+C0075639||sunflower
+C0206055||attenuated total reflectance (ATR)-FTIR spectra
+C1517288||oils
+C0206055||ATR-FTIR spectra
+C0008902||classification
+C0008902||classification
+C0243095||autoscaling
+C0243095||mean-centering
+C0025663||data preprocessing methods
+C0008902||classification

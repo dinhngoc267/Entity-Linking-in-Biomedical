@@ -1,0 +1,44 @@
+C2755890||microtubule-based transport
+C0033684||myosin
+C0733755||position
+C0029219||organelles
+C0007634||cells
+C0752063||peroxisomes
+C0752063||peroxisomes
+C0230704||lipid droplets
+C0230704||lipid droplets
+C0023779||lipid
+C0162772||reactive oxygen species
+C0019868||homeostasis
+C0007608||motility
+C0016832||fungus
+C0446013||Ustilago maydis
+C0752063||peroxisomes
+C0230704||lipid droplets
+C0007608||movements
+C0001480||ATP
+C0034850||endosome
+C0007608||motility
+C0026046||microtubule
+C0596901||membrane
+C0029219||organelles
+C1156042||endosome transport
+C0752063||peroxisomes
+C0230704||lipid droplets
+C3159038||growing cell end
+C0007613||pole-ward drift
+C1656978||cell tip
+C0969679||myosin-5
+C0870071||Modelling
+C2755890||microtubule-based directed transport
+C1516353||mobility
+C0752063||peroxisomes
+C0024660||mammalian
+C1257858||COS-7 cells
+C0026046||microtubules
+C1180307||F-actin
+C0752063||peroxisomes
+C0010853||cytoskeletal
+C0029219||organelle
+C0733755||positioning
+C0684063||eukaryotes

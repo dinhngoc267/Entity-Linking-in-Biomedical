@@ -1,0 +1,38 @@
+C2985566||Targeted therapy
+C0024623||gastric cancer
+C0024623||Gastric cancer
+C0006826||cancer
+C0543467||Surgery
+C0009429||multimodal therapy
+C1273390||curative therapy
+C2985566||targeted therapy
+C0242957||HER2
+C0302600||angiogenesis
+C2985566||targeted therapies
+C0087111||treatment
+C0024623||gastric cancer
+C0003250||monoclonal antibodies
+C1579762||comparative
+C0023866||literature
+C0035168||research
+C0220825||evaluate
+C0242957||HER2
+C0302600||angiogenesis
+C2985566||targeted therapy
+C0024623||gastric cancer
+C0728747||trastuzumab
+C2742502||ramucirumab
+C0003392||agents
+C0087111||therapy
+C0024623||gastric cancer
+C2985566||targeted therapies
+C0024623||gastric cancer
+C2985566||targeted therapy
+C1710038||second-line treatment
+C3665472||chemotherapy
+C1708063||first-line treatment
+C1611640||therapeutic agents
+C0013162||combinations
+C1708063||first-line treatment
+C0024623||gastric cancer
+C0008976||clinical trials

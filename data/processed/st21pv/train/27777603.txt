@@ -1,0 +1,77 @@
+C4015787||Angiotensin-converting enzyme insertion/deletion polymorphism
+C0028754||obesity
+C0012634||disorders
+C0337801||Egyptian
+C1518527||case-control observational study
+C0043237||WHO
+C0684224||report
+C0028754||obesity
+C0007465||cause of death
+C0337801||Egyptian
+C0043210||female
+C0028754||obesity
+C0028754||obesity
+C0001527||adipose tissue
+C0035096||renin-angiotensin system
+C0028754||obesity
+C4015787||angiotensin-converting enzyme (ACE) insertion/deletion (I/D) polymorphism
+C0028754||obesity
+C0012634||disorders
+C1257890||populations
+C2258685||ACE activity
+C0018017||objective
+C2603343||study
+C4015787||ACE I/D polymorphism
+C0028754||obesity
+C0012634||disorders
+C0020538||hypertension
+C0021655||insulin resistance
+C0524620||metabolic syndrome
+C0337801||Egyptian
+C0043210||female
+C0020155||volunteers
+C3826646||blood pressure
+C0203910||body measurements
+C0015663||fasting
+C0178913||blood sample
+C0017725||glucose
+C0430044||lipid profile
+C0021641||insulin,
+C0299583||leptin
+C4015787||ACE I/D polymorphs
+C0080105||Subjects
+C0020538||hypertension
+C0449381||parameters
+C1709321||sample t-test
+C1452534||angiotensin-converting enzyme
+C0002085||alleles
+C0449381||parameters
+C0008041||chi-square
+C1708064||Fisher's exact test
+C0012634||disorders
+C0007294||DD carriers
+C0449381||parameters
+C0005823||blood pressure
+C0430044||lipid profile
+C0021655||insulin resistance
+C0428883||diastolic blood pressure
+C0007294||I-carriers
+C0020538||hypertension
+C0007294||DD carriers
+C0007294||DD genotype carriers
+C0021655||insulin resistance
+C0231254||high body mass index
+C0455829||waist circumference
+C1821269||waist/height ratio
+C0007294||DD
+C0007294||I-carriers
+C4015787||ACE I/D
+C0337801||Egyptian
+C4015787||ACE I/D polymorphism
+C1273937||not significantly
+C0028754||obesity
+C0012634||disorders
+C0002085||I allele
+C0020538||hypertension
+C0080105||subjects
+C0007294||DD genotype carriers

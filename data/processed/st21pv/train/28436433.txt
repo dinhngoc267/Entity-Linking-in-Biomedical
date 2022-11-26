@@ -1,0 +1,70 @@
+C1704259||Pathways
+C0017337||Genes
+C0020962||Immune
+C0277785||Dysfunction
+C0036945||Sheep
+C0030524||Paratuberculosis
+C0243095||Multibacillary
+C0243095||paucibacillary
+C0030524||paratuberculosis
+C0085442||Mycobacterium avium subspecies paratuberculosis
+C0243095||Multibacillary
+C0221198||lesions
+C0439663||infected
+C0014603||epithelioid macrophages
+C0243095||paucibacillary
+C0221198||lesions
+C0039194||T cells
+C0004611||bacteria
+C0243095||Multibacillary
+C0012634||disease
+C0023348||lepromatous leprosy
+C0003241||antibody
+C0301872||immune response
+C0003062||Animals
+C0243095||paucibacillary
+C0012634||disease
+C0020966||cell-mediated immunity
+C0003241||antibody
+C1532237||immunological dysfunction
+C0282574||TruSeq
+C0936012||analysis
+C0700426||ileocaecal
+C0024204||lymph node
+C0012634||disease
+C0221198||lesions
+C0020962||Immune
+C0277785||dysfunction
+C0920533||repression
+C0524889||TCR
+C0017337||CD3 genes
+C0034790||T cell co-receptors
+C3203085||co-stimulators
+C1155065||T cell activation
+C0037083||signal-transduction
+C0017337||genes
+C0021368||Inflammation
+C0001349||acute phase response
+C0021376||chronic inflammation
+C0333361||acute inflammation
+C0021027||immunoglobulin
+C0032112||plasma cell
+C1519595||transcripts
+C0003261||anti-MAP antibody responses
+C0030524||paratuberculosis
+C0036945||sheep
+C0024880||mast cell
+C1519595||transcripts
+C1817431||DC activation of the immune response
+C0017262||gene expression
+C0243095||multibacillary
+C0243095||paucibacillary
+C0012634||disease
+C0039194||T cell
+C0017337||genes
+C0242632||Th1
+C0242633||Th2
+C0020962||immune
+C0277785||dysfunction
+C0243095||multibacillary
+C0012634||pathology

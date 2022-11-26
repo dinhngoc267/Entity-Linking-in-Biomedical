@@ -1,0 +1,69 @@
+C0449774||Pattern
+C0025131||Traditional Chinese Medicine
+C1879848||Western Medicine
+C0025118||Integrated Chinese-Western Medicine
+C0087111||Treatments
+C2607914||Allergic Rhinitis
+C0039260||Taiwan
+C0039260||Taiwan
+C2607914||allergic rhinitis
+C1879848||Western medicine
+C0087111||treatment
+C0025131||Traditional Chinese Medicine
+C0087111||treatment
+C0025118||integrated Chinese-Western medicine
+C0087111||treatment
+C0025131||Traditional Chinese Medicine
+C1879848||Western medicine
+C0025118||integrated Chinese-Western medicine
+C0087111||treatments
+C0936012||analysis
+C0087111||treatments
+C0936012||analyzed
+C2607914||allergic rhinitis
+C0087111||treatments
+C0087111||treatments
+C0282574||National Health Insurance Research Database
+C0011900||diagnosed
+C2607914||allergic rhinitis
+C2346503||International Classification of Diseases, Ninth Revision
+C0282574||Clinical Modification codes 470-478
+C0008041||Chi-square test
+C0392366||Tukey studentized range (honest significant difference) test
+C0087111||treatments
+C2607914||allergic rhinitis
+C0087111||treatment
+C0043210||female
+C0025266||male
+C0087111||treatment
+C0025131||Traditional Chinese Medicine
+C1879848||Western medicine
+C0025118||integrated Chinese-Western medicine
+C0027361||Persons
+C1512346||visits
+C2607914||allergic rhinitis
+C0025131||Traditional Chinese Medicine
+C0087111||treatment
+C0027361||person-time
+C0027361||person-time
+C0027361||person-time
+C1879848||Western medicine
+C0027361||person-time
+C0027361||person-time
+C0027361||person-time
+C0027361||person-time
+C0027361||person-time
+C0025118||integrated Chinese-Western medicine
+C0087111||treatment
+C0025131||Traditional Chinese Medicine
+C1879848||Western medicine
+C0087111||treatments
+C2607914||allergic rhinitis
+C0025118||integrated Chinese-Western medicine
+C0087111||treatment
+C0025118||integrated Chinese-Western medicine
+C0013227||medicines
+C0013227||medicines
+C0390643||mar huang
+C0950030||Ephedra sinica Stapf
+C0013227||medications

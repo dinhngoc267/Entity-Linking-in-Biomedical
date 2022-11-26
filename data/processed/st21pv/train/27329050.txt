@@ -1,0 +1,39 @@
+C3658310||mHealth App
+C0086969||Self-Management
+C0018799||Cardiac Diseases
+C0037747||Spanish
+C0017446||Urban and Rural Areas
+C0936012||Analyze
+C3658310||mobile health app
+C3827995||HeartKeeper
+C1257890||several groups of population
+C3658310||other similar apps
+C0034394||questionnaire
+C3658310||HeartKeeper app
+C0034394||questionnaire
+C0175906||cardiologists
+C3658310||app
+C0150105||randomly selected
+C2347740||quotas
+C1705429||interest groups
+C0025266||men
+C0043210||women
+C0001792||older
+C0017446||urban or rural areas
+C1710191||statistical techniques
+C3658310||HeartKeeper app
+C3272903||overall opinion
+C3658310||app
+C0034770||remember
+C0994475||pills
+C0017446||area (urban or rural)
+C1518563||older patients
+C3658310||app
+C0034770||remembering
+C0994475||pills
+C0858854||trouble developing activities
+C1518563||older patients
+C0035168||research
+C3658310||HeartKeeper app
+C0017446||urban and rural areas
+C1518563||older patients

@@ -1,0 +1,35 @@
+C1261005||splenorrhaphy
+C0948268||hemodynamically unstable
+C1261005||splenorrhaphy
+C0037995||splenectomy
+C3854596||postsplenectomy
+C0243026||sepsis
+C1261005||splenorrhaphy
+C0600269||familiarity
+C0087111||procedure
+C0037995||splenectomies
+C1261005||splenorrhaphies
+C3714660||trauma
+C0586905||pediatric surgeon
+C0242356||Pediatric Health Information System (PHIS) Database
+C2346503||International Classification of Diseases 9th Edition
+C0160405||splenic injury
+C0441800||grade
+C0160405||splenic injury
+C0543467||operations
+C0586905||pediatric surgeons
+C0019994||hospital
+C0037995||splenectomy
+C1261005||splenorrhaphy
+C0582175||surgeon
+C0037995||splenectomies
+C1261005||splenorrhaphies
+C3714660||trauma
+C0582175||surgeon
+C0037995||splenectomies
+C1261005||splenorrhaphies
+C3714660||trauma
+C0161969||Nonoperative management
+C0586905||pediatric surgeons
+C0037995||splenectomy
+C1261005||splenorrhaphy

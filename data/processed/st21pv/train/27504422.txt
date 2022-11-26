@@ -1,0 +1,53 @@
+C0282421||Clinicopathological
+C3872816||Verruciform Xanthoma
+C0227123||Lower Gingiva
+C0085973||Case Report
+C3872816||Verruciform xanthoma
+C3872816||Verruciform xanthoma
+C0086692||benign lesion
+C0026639||oral mucosa
+C4086857||slow-growing
+C0231221||asymptomatic
+C0086692||lesion
+C1184544||gingival margin
+C0026724||mucosa
+C0226901||hard palate
+C0040408||tongue
+C1578559||buccal mucosa
+C0026638||floor of the mouth
+C4239924||alveolar mucosa
+C0030219||soft palate
+C0205144||junction
+C0226901||hard
+C0030219||soft palate
+C0086692||lesion
+C1123023||skin
+C0017420||genital organs
+C3872816||Verruciform xanthoma
+C1335952||sessile
+C1335371||pedunculated appearance
+C0332563||papule
+C0206706||verrucous
+C0030354||papillomatous
+C0026724||mucosal
+C1621966||growth
+C0014520||epidermis
+C0243095||findings
+C3872816||Verruciform xanthoma
+C0206706||verrucous carcinoma
+C0086692||benign tumours
+C0205874||squamous papilloma
+C0043037||verruca vulgaris
+C0016045||mucosal fibroma
+C0031809||examinations
+C0011906||accurate differential diagnosis
+C3872816||Verruciform xanthoma
+C0030436||parakeratosis
+C1516920||rete ridges
+C4055506||accumulation
+C0016390||foam cells
+C1520164||xanthoma cells
+C0282421||clinicopathological
+C0243095||findings
+C3872816||Verruciform xanthoma
+C0227123||lower gingiva

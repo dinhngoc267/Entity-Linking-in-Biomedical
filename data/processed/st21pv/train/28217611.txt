@@ -1,0 +1,31 @@
+C0085652||Pyoderma gangrenosum
+C0871685||clinician's
+C0028084||nightmare
+C0085652||Pyoderma gangrenosum
+C0085652||Pyoderma gangrenosum
+C0678236||rare disease
+C0230463||sole of the foot
+C0684224||report
+C0184666||admitted
+C0030193||painful
+C0041582||ulcer
+C0230463||sole of the right foot
+C0332293||treated with
+C0003232||antibiotics
+C0011079||debridement
+C0012634||disease
+C0011079||debridement
+C0205160||negative
+C0035452||rheumatology
+C0750430||workup
+C0554756||Doppler study
+C0442816||normal limits
+C0085652||Pyoderma gangrenosum
+C0419839||started on oral steroids
+C0184511||improved
+C0030193||painful
+C0041582||ulcer
+C0015385||vascular limb
+C0338237||antibiotic treatment
+C0011079||debridement
+C0085652||Pyoderma gangrenosum

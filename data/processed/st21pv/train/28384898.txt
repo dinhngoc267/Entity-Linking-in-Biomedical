@@ -1,0 +1,17 @@
+C0376636||Management
+C0339881||Open Laryngotracheal Trauma
+C0023078||larynx
+C2826244||life threatening
+C0334893||Otorhinolaryngologist
+C0339881||open laryngeal traumas
+C0441503||primary closure
+C0449499||nature of injury
+C0449499||nature of injury
+C0441503||primary closure
+C3263723||injury
+C3263723||injury
+C0011065||died
+C0557355||experience
+C0441503||primary closure
+C0449499||nature of injury
+C0278250||favourable

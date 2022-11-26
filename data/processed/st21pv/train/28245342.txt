@@ -1,0 +1,39 @@
+C0162589||Extravascular Implantable Defibrillator
+C1285520||Substernal Ventricular Pacing
+C0018017||objective
+C0681814||study
+C1285520||ventricular pacing
+C0332285||within
+C0230145||substernal space
+C0162589||extravascular ICD
+C0449830||configuration
+C1285520||pacing
+C1282959||midline sternotomy
+C0085590||duodecapolar diagnostic pacing catheter
+C0733755||positioned
+C0230145||substernal space
+C0205094||anterior
+C0031050||pericardium
+C0241148||cutaneous patch
+C0450414||left lateral position
+C0443340||unipolar
+C0443156||bipolar
+C1285520||pacing
+C0449830||configurations
+C0022885||Strength-duration curves
+C0204709||output
+C1522565||ventricular
+C0449830||configuration
+C0443156||bipolar
+C1285520||pacing
+C0013812||electrode
+C0443156||bipolar
+C0449830||configuration
+C0443340||Unipolar
+C1285520||pacing
+C1285520||Ventricular pacing
+C0230145||substernal space
+C1282959||midline sternotomy
+C0038293||sternum
+C2603343||studies
+C1285520||pacing

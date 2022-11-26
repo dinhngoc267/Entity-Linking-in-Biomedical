@@ -1,0 +1,79 @@
+C0033267||International Postmarketing Surveillance Study
+C1254351||pl-VEGF165
+C1704436||Peripheral Arterial Disease
+C0087111||treatment
+C0023216||lower limb
+C0022116||ischemia
+C0586909||vascular surgeons
+C0087111||therapies
+C0242656||disease progression
+C0087111||treatment methods
+C1254351||pl-VEGF165
+C0017296||gene therapy
+C1254351||drug
+C0035970||Russia
+C0087111||treatment
+C1704436||peripheral arterial disease
+C1704436||peripheral arterial disease
+C0008972||clinical studies
+C2603343||study
+C1254351||drug
+C0012931||gene construction
+C1254351||pl-VEGF165
+C0574031||active substance
+C0033267||postmarketing surveillance study
+C0879626||side effects
+C0017296||gene therapy
+C0015385||limb
+C0022116||ischemia
+C0282574||Fontaine classification
+C0018704||healthcare facilities
+C0035970||Russia
+C0041580||Ukraine
+C2603343||study
+C0459914||conservative therapy
+C0033554||prostaglandins
+C0205911||prostacyclins
+C1257890||treatment group
+C0087111||treatment
+C1254351||pl-VEGF165
+C0243095||Pain-free walking distance
+C0243095||Pain-free walking distance
+C0282574||Fontaine
+C0243095||blood flow linear velocity
+C0243095||blood flow linear velocity
+C1328319||ankle-brachial index
+C1328319||ankle-brachial index
+C1254351||pl-VEGF165
+C1517499||gene transfer
+C4255259||trial protocol
+C0877248||adverse events
+C0877248||adverse events
+C0877248||serious adverse events
+C0877248||serious adverse events
+C0008952||visits
+C0243095||Pain-free walking distance
+C1257890||treatment group
+C0243095||blood flow linear velocity
+C1328319||ABI values
+C1257890||treatment group
+C1527144||therapeutic effect
+C0012634||disease
+C0243095||Pain-free walking distance
+C1513916||No
+C0087111||angiogenic therapy
+C0877248||adverse events
+C0879626||side effects
+C0949591||limb salvage
+C1257890||treatment
+C2603343||study
+C1706096||phase IIb
+C0282461||III
+C0008972||clinical study
+C1254351||pl-VEGF165
+C0442117||intramuscular
+C1517499||gene transfer
+C0087111||treatment
+C1456822||claudication
+C0023216||lower limb
+C0022116||ischemia

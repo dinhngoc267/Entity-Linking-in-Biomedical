@@ -1,0 +1,38 @@
+C1826600||CKIP-1 P21A
+C0752046||polymorphism
+C0264716||chronic heart failure
+C0152035||Chinese population
+C1383860||cardiac hypertrophy
+C0035648||risk factor
+C0264716||chronic heart failure
+C1309499||Casein kinase-2 interacting protein-1
+C1309499||Casein kinase-2 interacting protein-1
+C1383860||cardiac hypertrophy
+C1826600||Casein kinase-2 interacting protein-1
+C0752046||nonsynonymous polymorphism rs2306235
+C0026882||Pro21Ala
+C0033325||prognosis
+C0264716||chronic heart failure
+C0152035||Chinese population
+C0264716||chronic heart failure
+C1826600||CKIP-1 rs2306235
+C0752046||polymorphism
+C1285573||genotyped
+C0032520||PCR
+C3714764||restriction fragment length polymorphism
+C1522577||follow-up
+C0264716||chronic heart failure
+C0220825||evaluated
+C1826600||rs2306235
+C0002085||G allele
+C0264716||chronic heart failure
+C0020538||hypertension
+C0010068||coronary heart disease
+C0035648||risk factors
+C1826600||rs2306235
+C0752046||polymorphism
+C0264716||chronic heart failure
+C1826600||CKIP-1 rs2306235
+C0752046||polymorphism
+C0035648||risk factor
+C0264716||chronic heart failure

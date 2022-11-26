@@ -1,0 +1,32 @@
+C0007634||cells
+C1510438||assay
+C1101610||let-7a microRNA
+C0079595||Imaging
+C1101610||microRNA
+C1101610||microRNA
+C0007634||cells
+C0017262||expression
+C1101610||microRNA
+C0035168||research
+C1101610||microRNA
+C0012634||diseases
+C0013081||down-regulation
+C0007634||cellular
+C1101610||microRNA
+C0012634||diseases
+C0014442||enzyme
+C0887815||amplification strategies
+C0178719||intracellular
+C1101610||microRNA
+C1510438||assay
+C0887815||amplification
+C1510438||assay
+C1101610||microRNA
+C1101610||microRNA
+C0007634||cells
+C0007634||cellular
+C1101610||microRNA
+C3714634||biological events
+C0079595||imaging
+C0005516||biomarkers
+C0596473||early disease diagnosis

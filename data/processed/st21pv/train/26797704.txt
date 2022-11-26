@@ -1,0 +1,20 @@
+C1550414||military service
+C0041703||United States
+C0038435||stress
+C0035168||Research
+C1513916||negative impact
+C1550414||service
+C0680022||members
+C3245458||military
+C0034869||deployment records
+C0684224||reported
+C3245458||military
+C0024841||marital
+C1444783||instability
+C0011570||depressive
+C0038436||posttraumatic stress symptoms
+C0849912||emotional
+C0003467||anxiety
+C0312418||sensitivity
+C0849912||emotional outcomes
+C0243095||findings

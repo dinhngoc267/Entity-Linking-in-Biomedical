@@ -1,0 +1,66 @@
+C0086418||Human
+C0162371||Umbilical Cord Blood
+C0007600||Neural Stem Cell Line
+C0220908||Screening
+C0600688||Toxicity
+C0086418||human
+C1113654||neural stem cell
+C1113654||neural stem cell
+C0007600||line
+C0086418||human
+C0162371||umbilical cord blood
+C0162371||human umbilical cord blood
+C0600688||toxicity
+C2603343||study
+C0600688||Toxicity
+C0014406||environmental
+C0043335||xenobiotics
+C0066402||methyl mercury chloride
+C0066402||CH3HgCl
+C0064711||lead acetate
+C0064711||CH3COOPb
+C0013328||chlorpyrifos
+C0013328||chlorpyrifos
+C0243095||non-neurotoxic
+C0021576||insecticide
+C0012087||dichlorvos
+C0243095||non-neurotoxic
+C1254351||drugs
+C0039771||theophylline
+C0000970||acetaminophen
+C0027836||glial cell lines
+C0162371||human umbilical cord blood
+C0066402||CH3HgCl
+C0086418||human
+C0007600||NSCs
+C0064711||CH3COOPb
+C0013328||chlorpyrifos
+C1304747||minimum inhibitory concentration (MIC) value
+C0007600||NSCs
+C0487602||staining process
+C0001185||acridine orange
+C0019873||ethidium bromide
+C0001185||AO
+C0019873||EB
+C0487602||staining
+C0094912||3-(4,5-dimethylthiazol-2-yl)2,5-diphenyl tetrazolium bromide
+C0094912||MTT
+C1510438||assay
+C0066402||CH3HgCl
+C0013328||chlorpyrifos
+C0064711||CH3COOPb
+C0066402||CH3HgCl
+C0487602||staining method
+C0013328||chlorpyrifos
+C0064711||CH3COOPb
+C0066402||CH3HgCl
+C0013328||chlorpyrifos
+C0064711||CH3COOPb
+C0039771||Theophylline
+C0000970||acetaminophen
+C0012087||dichlorvos
+C0007600||NSCs
+C0162371||human umbilical cord blood
+C0007600||neural stem cell
+C0600688||toxicity
+C2603343||study

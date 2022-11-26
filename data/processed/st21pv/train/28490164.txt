@@ -1,0 +1,38 @@
+C0441988||Contralateral
+C1384733||Superior Cerebellar Artery Syndrome
+C0553686||Brain Herniation
+C0005847||Vascular
+C0553686||brain herniation
+C0039082||syndromes
+C0522519||Transtentorial
+C0553686||brain herniation
+C0149576||posterior cerebral arteries
+C0441988||contralateral
+C0149575||superior cerebellar artery
+C0149575||superior cerebellar artery
+C0205092||unilateral
+C0553686||brain herniation
+C0700287||reported
+C0025266||man
+C0019270||herniation
+C0205293||multiloculated
+C0020255||hydrocephalus
+C0242656||course of illness
+C0149575||superior cerebellar artery
+C0022116||ischemia
+C0700124||dilated
+C0019939||horn
+C1706852||article
+C0006104||brain
+C0030660||Kernohan-Woltman notch phenomenon
+C0205092||unilateral
+C0553686||brain herniation
+C0282411||commentary
+C0441988||contralateral
+C0149575||superior cerebellar artery
+C0022118||transient ischemia
+C0021308||infarct
+C0243095||underdiagnosed
+C0030660||pathomechanism
+C0441989||ipsilateral
+C0018989||hemiparesis

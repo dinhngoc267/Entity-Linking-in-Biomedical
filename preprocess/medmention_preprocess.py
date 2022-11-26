@@ -200,7 +200,7 @@ def main(args):
 
     st = stanza.Pipeline(lang='en', processors='tokenize')
 
-
+    # write down sentences to context files 
     for id, doc in tqdm(corpus.items()):
         if id in input_ids:
             lines = doc.split('\n')
@@ -266,7 +266,7 @@ def main(args):
                             tmp += [word_tag]             
                     buffer.append(tmp)
             
-            output_file = os.path.join(output_dir, "{}.txt".format(id))
+            output_file = os.path.join(output_dir, "{}.context".format(id))
 
             with open(output_file, "w") as f:
                 for sent in buffer:
@@ -274,6 +274,22 @@ def main(args):
                         f.write('\t'.join(word_tag) + '\n')
                 
                     f.write('\n')    
+
+    for id, doc in tqdm(corpus.items()):
+        output_file = os.path.join(output_dir, "{}.txt".format(id))
+        with open(output_file, "w") as f:
+            lines = doc.split('\n')
+
+            list_entity_annotations = lines[2:]
+            tmp = []
+            for entity_annoation in list_entity_annotations:
+                entity_annoation = entity_annoation.split('\t')
+                name = entity_annoation[2]
+                cui = entity_annoation[3]
+                tmp.append(cui+ '||' + name)
+
+            f.write('\n'.join(tmp))
+
 
 if __name__ == "__main__":
 

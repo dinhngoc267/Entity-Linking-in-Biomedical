@@ -1,0 +1,52 @@
+C0014432||Inhibitor
+C0057338||Delta-5 Desaturase
+C0021655||Insulin Resistance
+C1262477||Reduces Body Weight
+C0012155||Diet
+C0028754||Obese
+C1521751||C57BL/6J Mice
+C0028754||Obesity
+C0021368||inflammation
+C0021368||inflammation
+C0057338||Delta-5 desaturase
+C0057338||Delta-5 desaturase
+C0014442||enzyme
+C0000658||dihomo-γ-linolenic acid
+C0000658||DGLA
+C0003695||arachidonic acid
+C0003695||arachidonic acid
+C0057338||Delta-5 desaturase
+C1524081||inhibition
+C0000658||DGLA
+C0013725||eicosanoids
+C0003695||arachidonic acid
+C0013725||eicosanoids
+C0021655||insulin resistance
+C0376607||anti-obesity
+C0057338||Delta-5 desaturase
+C1254351||compound-326
+C0442027||orally
+C1328819||small-molecule
+C0453819||high-fat diet
+C0025933||obese (DIO) mouse
+C0012644||model
+C0057338||Delta-5 desaturase
+C1524081||inhibition
+C0005767||blood
+C0003695||arachidonic acid
+C0000658||DGLA
+C0025933||DIO mice
+C1254351||compound-326
+C0021655||insulin resistance
+C1262477||body weight loss
+C4014887||macrophage infiltration into adipose tissue
+C0872262||mRNA analysis
+C0014272||energy expenditure
+C1533734||administration
+C1254351||compound-326
+C1262477||body weight loss
+C0057338||Delta-5 desaturase
+C0014432||inhibitor
+C1254351||compound-326
+C0028754||obese
+C0011847||diabetic

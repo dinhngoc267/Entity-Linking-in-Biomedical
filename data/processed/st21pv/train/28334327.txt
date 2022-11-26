@@ -1,0 +1,95 @@
+C0181074||Autologous
+C0181074||Irradiated Homologous Costal Cartilage
+C0181074||Graft Material
+C0035467||Rhinoplasty
+C0035467||rhinoplasty
+C0181074||autologous costal cartilage
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0456984||clinical results
+C0176371||augmentation rhinoplasty
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0007301||cartilage
+C0008972||retrospective clinical study
+C0189054||rhinoseptoplasty
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C1522577||followed up
+C0543467||surgery
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0543467||surgical procedures
+C3714514||infection
+C2985494||resorption
+C1444716||donor-site
+C0220825||evaluated
+C0025102||medical records
+C0242428||satisfaction
+C0220825||evaluated
+C0034394||questionnaire
+C0543467||surgical procedures
+C3714514||infection
+C2985494||resorption
+C1444716||donor-site
+C0242428||satisfaction
+C1261322||evaluation
+C0543467||surgical
+C0205095||dorsal
+C0205095||dorsal
+C0205095||dorsal
+C0243095||tip projection
+C0243095||tip rotation
+C0243095||tip width
+C0678594||structures
+C0220825||evaluation
+C0543467||surgical
+C0035467||Rhinoplasty
+C4274403||Outcome Score
+C0205095||dorsal
+C0205095||dorsal
+C0205095||dorsal
+C0243095||tip projection
+C0243095||tip rotation
+C0243095||tip width
+C0220825||evaluated
+C0523207||hematoxylin and eosin
+C1294297||Masson trichrome
+C1293946||Alcian blue
+C1294321||Verhoeff elastic stains
+C0189054||rhinoseptoplasty
+C0181074||autologous costal cartilage
+C0189054||rhinoseptoplasty
+C0181074||irradiated homologous costal cartilage
+C2985494||resorption
+C0181074||irradiated homologous costal cartilage
+C0181074||autologous costal cartilage
+C0220825||evaluations
+C0242428||satisfaction
+C0181074||autologous costal cartilage
+C0242428||satisfaction
+C0181074||irradiated homologous costal cartilage
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0242428||satisfied
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0344441||Histologic analyses
+C0225369||chondrocytes
+C0009325||collagens
+C0033692||proteoglycan
+C0181074||autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0181074||autologous costal cartilage
+C0189054||rhinoseptoplasty
+C0242428||satisfaction
+C0181074||autologous costal cartilage
+C2985494||resorption
+C0181074||Autologous costal cartilage
+C0181074||irradiated homologous costal cartilage
+C0181074||graft material
+C2985494||resorption

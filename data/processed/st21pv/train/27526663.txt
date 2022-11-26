@@ -1,0 +1,74 @@
+C0162741||Arabidopsis
+C1418945||ProDH1
+C1424903||ProDH2 genes
+C3714514||infection
+C0243095||biotrophic
+C0243095||necrotrophic
+C0162741||Arabidopsis
+C1418945||proline dehydrogenase (ProDH) genes
+C1418945||ProDH1
+C1424903||ProDH2
+C1512488||homologous
+C0022173||isoenzymes
+C1418945||ProDH1
+C0449430||abiotic stress
+C1424903||ProDH2
+C0017337||genes
+C0017262||expression
+C0449774||patterns
+C1158770||transcriptional co-regulation
+C0439663||infected
+C0040300||tissues
+C0162741||Arabidopsis plants
+C0598496||silenced
+C1418945||ProDH1
+C1424903||2
+C0017262||expression
+C1154988||defences
+C0243095||hemibiotrophic
+C0004611||bacterial
+C0317966||Pseudomonas syringae pv. tomato AvrRpm1
+C0317966||Pst-AvrRpm1
+C1418945||ProDH1
+C1424903||ProDH2
+C0036079||salicylic acid
+C0036079||salicylic acid
+C0162741||prodh1
+C0162741||prodh2
+C0596988||mutant
+C0032098||plants
+C0017337||gene
+C0317966||Pst-AvrRpm1
+C0243095||necrotrophic
+C0579190||Botrytis cinerea
+C1418945||ProDH1
+C1424903||ProDH2
+C0064138||jasmonic acid
+C0064138||jasmonic acid
+C1154988||defence
+C1704259||pathway
+C3657000||ProDH1
+C3657000||ProDH2
+C0317966||Pst-AvrRpm1
+C0579190||B. cinerea
+C3657000||ProDH2
+C0579190||B. cinerea
+C0018270||growth
+C1418945||ProDH1
+C0041904||up-regulated
+C0036079||salicylic acid
+C0064138||jasmonic acid
+C1424903||ProDH2
+C0064138||jasmonic acid
+C0017337||genes
+C1158770||transcriptional inter-regulation
+C0205112||basal
+C3714514||infection
+C1424903||ProDH2
+C1136180||disease resistance
+C0022173||enzyme isoforms
+C0439663||infected
+C0040300||tissues
+C1418945||proline dehydrogenase
+C0243095||biotrophic
+C0243095||necrotrophic

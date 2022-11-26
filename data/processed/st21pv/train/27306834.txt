@@ -1,0 +1,48 @@
+C3641721||Naïve
+C0242629||CD8(+) T cell
+C0027651||tumor
+C3641722||cytotoxic effectors
+C0040690||TGF-β
+C4048329||immunosuppression
+C0278348||cancer immunotherapy
+C0205229||expanded
+C0242629||CD8(+) T cells
+C0007634||cellular
+C0242629||CD8(+) T cells
+C0449416||sources
+C3641721||naïve
+C3641721||NTeff
+C0682639||memory
+C0682639||MTeff
+C0079722||tumor-infiltrating lymphocytes
+C0079722||TILeff
+C0086418||human
+C0025929||mice
+C3641722||effector
+C0596873||proliferation
+C0085187||telomere
+C3641721||NTeff populations
+C0007634||cells
+C0039194||T cell
+C0005516||markers
+C0682639||MTeff
+C0079722||TILeff
+C1171362||expression patterns
+C0040648||memory-promoting transcription factors
+C0913648||T-bet
+C1454790||Eomes
+C3641721||NTeff cells
+C1171362||expression
+C3273485||Foxp1
+C0162638||apoptosis
+C0040690||TGF-β
+C0007620||survival
+C0027651||tumor
+C4048329||immune suppression
+C0242629||CD8(+) T cell
+C0027651||tumor
+C0039195||CTLs
+C3641721||naïve cell
+C3641722||effectors
+C0243095||cytotoxic activity
+C0079613||adoptive immunotherapy

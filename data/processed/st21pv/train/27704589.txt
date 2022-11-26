@@ -1,0 +1,38 @@
+C0376368||research priorities
+C0028661||nurses
+C0019994||hospital
+C0041700||United Kingdom
+C2603343||study
+C0376368||research priority
+C0079816||research activity
+C0028661||nurses
+C1274109||healthcare institution
+C0025106||clinical staff
+C0028661||nurses
+C0035177||modified nominal group technique
+C0025663||consensus method
+C0679646||participants
+C0028661||nurses
+C0699794||ranked
+C0376368||priorities
+C0018676||divisional heads
+C0028677||nursing
+C0025106||staff
+C0376368||divisional priorities
+C0027363||Nursing Research Working Group
+C0376368||divisions' priorities
+C0376368||research priorities
+C1274109||organization
+C0699794||ranking
+C0376368||priorities
+C2919030||Divisional level
+C0376368||organizational priorities
+C0019994||hospital system
+C0017313||patient care
+C0376368||priorities
+C0086390||clinical teams
+C0376368||Organizational priorities
+C0027363||subgroup
+C0027363||Nursing Research Working Group
+C0376368||priorities
+C0079816||nurse-led research activity

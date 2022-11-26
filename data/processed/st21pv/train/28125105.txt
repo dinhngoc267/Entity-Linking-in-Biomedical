@@ -1,0 +1,50 @@
+C4042857||Conditional reprogramming
+C0007595||expansion
+C1268443||normal
+C0431085||tumor cells
+C0086418||human
+C0007634||cells
+C0086418||human
+C0027651||tumors
+C0040300||healthy tissue
+C1514292||preclinical models
+C1516164||study of basic cancer biology
+C3494163||translational research
+C0920472||drug discovery
+C0085104||drug target identification
+C4042857||protocol
+C3850096||conditional reprogramming
+C3850096||conditional reprogramming
+C0282547||coculture
+C0025929||mouse
+C3179110||fibroblast feeder cells
+C1268443||normal
+C0027651||tumor
+C0086418||human
+C0014597||epithelial cells
+C0389995||Rho kinase
+C0014432||inhibitor
+C0667301||Y-27632
+C4042857||conditional reprogramming
+C0007634||cells
+C1257974||regenerative medicine
+C0013207||drug sensitivity testing
+C0752248||gene expression profiling
+C0520484||xenograft studies
+C4042857||method
+C0334866||pathologist
+C0040300||healthy tissue
+C0475358||tumor tissue
+C0040284||basic tissue culture
+C4042857||protocol
+C0007634||cells
+C1519521||fresh
+C1511549||cryopreserved tissue samples
+C0007634||cells
+C4042857||technique
+C0358514||diagnostic
+C0013227||medicine
+C0014597||epithelial cells
+C0007589||differentiated
+C0014406||conditions
+C0557745||natural environment

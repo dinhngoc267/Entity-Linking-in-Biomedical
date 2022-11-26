@@ -1,0 +1,64 @@
+C0021469||Inhibition
+C3883719||STEP61
+C0025929||mouse
+C3658289||human induced pluripotent stem cell
+C0036341||schizophrenia
+C0012644||models
+C0006104||brain
+C0085536||tyrosine phosphatase
+C3883719||STriatal-Enriched protein tyrosine Phosphatase
+C3883719||STriatal-Enriched protein tyrosine Phosphatase
+C0027793||synaptic function
+C3883719||STriatal-Enriched protein tyrosine Phosphatase
+C0039062||synaptic
+C0080093||N-methyl D-aspartate glutamate receptor
+C0080093||N-methyl D-aspartate glutamate receptor
+C3160734||dephosphorylation
+C1741283||GluN2B
+C0314679||inactivation
+C0031727||kinases
+C0082529||extracellular signal-regulated kinase 1
+C0170168||2
+C1530914||Fyn
+C3883719||STEP61
+C1176472||cortex
+C1367656||Nrg1(+/-)
+C1522225||knockout
+C2986594||mouse model
+C0036341||schizophrenia
+C0036341||schizophrenia
+C0441610||reduction
+C3883719||STriatal-Enriched protein tyrosine Phosphatase
+C0080093||NMDARs
+C0039063||synaptic membranes
+C0004930||behavioral deficits
+C1367656||Nrg1(+/-)
+C0025929||mice
+C3883719||STEP61 protein
+C1176472||cortical
+C3714787||central nervous system
+C0069515||ErbB2
+C0214098||4
+C2986594||mouse model
+C0036341||schizophrenia
+C3658289||human induced pluripotent stem cell
+C3658289||human induced pluripotent stem cell
+C0085140||forebrain
+C0027882||neurons
+C1422204||Ngn2
+C0027882||excitatory neurons
+C0036341||schizophrenia
+C0599755||cohorts
+C0036341||schizophrenia
+C0012644||models
+C3883719||STEP61
+C0542493||protein levels
+C1519751||ubiquitination
+C0597297||degradation
+C0243095||findings
+C0025929||mouse
+C3658289||human induced pluripotent stem cell
+C0036341||schizophrenia
+C0012644||models
+C3883719||STEP61
+C0036341||schizophrenia

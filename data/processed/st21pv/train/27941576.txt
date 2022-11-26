@@ -1,0 +1,49 @@
+C0344106||Sedation
+C0009792||Disorders of Consciousness
+C0679575||Neuroimaging
+C4288291||Resting State Functional Brain Connectivity
+C0376591||head movement
+C4288291||resting state functional magnetic resonance imaging
+C0009792||disorders of consciousness
+C0009792||disorders of consciousness
+C0344106||sedated
+C0033487||propofol
+C0344106||sedation
+C0449774||brain connectivity patterns
+C0270611||damaged brain
+C0011906||differential diagnosis
+C2603343||study
+C4288291||resting state functional magnetic resonance imaging
+C0441633||scanning
+C0035168||research
+C0238767||bilateral
+C0039729||thalamus
+C0243095||unsedated
+C0243095||unsedated
+C0009792||disorders of consciousness
+C0009792||disorders of consciousness
+C0344106||sedated
+C0033487||propofol
+C0009792||disorders of consciousness
+C0243095||time spent
+C0009792||disorders of consciousness
+C0011900||diagnosis
+C0026649||movement
+C0270611||structural brain injury
+C0200760||T1-based voxel-based morphometry
+C0009792||disorders of consciousness
+C0039729||Thalamic
+C0033487||Propofol
+C1533734||administration
+C0039729||thalamic
+C0021640||insular
+C0033487||propofol
+C0344106||sedation
+C0039729||thalamus
+C0021640||insula
+C0009792||disorders of consciousness
+C0270611||structural brain injury
+C0039729||thalamus
+C0003808||brain arousal
+C0026649||movement
+C0035168||research

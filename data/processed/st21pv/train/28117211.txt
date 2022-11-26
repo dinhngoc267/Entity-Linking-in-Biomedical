@@ -1,0 +1,58 @@
+C0220825||Assessment
+C0183521||Vascular Stent
+C0872259||Repetitive Transcranial Magnetic Stimulation
+C0038454||stroke
+C0872259||repetitive transcranial magnetic stimulation
+C0872259||repetitive transcranial magnetic stimulation
+C0008972||clinical studies
+C0441290||metallic stents
+C0025552||metal
+C3899555||clinical safety data
+C0441290||metallic stents
+C0872259||repetitive transcranial magnetic stimulation
+C1705187||safety
+C0872259||repetitive transcranial magnetic stimulation
+C0442711||protocols
+C0183521||stents
+C0038454||stroke
+C0068790||nitinol
+C0002154||elgiloy
+C0183521||stents
+C0392366||tested
+C0450429||locations
+C0205099||at the center
+C0796494||lobe
+C1705946||coil
+C0450429||location
+C0441290||stent
+C0220825||evaluated
+C1704322||orientations
+C0522487||long axis
+C1705946||coil
+C0522488||short axis
+C1705946||coil
+C1295725||perpendicular
+C1705946||coil
+C0183521||stents
+C0872259||repetitive transcranial magnetic stimulation
+C0872259||repetitive transcranial magnetic stimulation
+C1704322||orientation
+C0796494||lobe
+C0183521||stent
+C1704322||oriented
+C1295725||perpendicularly
+C0441290||stent
+C0183521||stents
+C1708333||Food and Drug Administration
+C0038137||standards
+C1515655||in vivo
+C0872259||repetitive transcranial magnetic stimulation
+C0021102||implanted
+C0024485||magnetic resonance imaging
+C0183521||stents
+C0683949||animal studies
+C0086418||human
+C1705187||safety studies
+C1704322||orientation
+C0450429||location
+C1705946||coil

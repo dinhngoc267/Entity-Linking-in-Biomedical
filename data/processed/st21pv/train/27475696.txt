@@ -1,0 +1,49 @@
+C0014939||Estrogen
+C0033308||Progesterone
+C0019932||hormone
+C0151546||oral cavity cancer
+C0585362||oral squamous cell carcinoma
+C0585362||oral squamous cell carcinoma
+C0027651||tumors
+C0019932||hormonally
+C0032961||pregnancy
+C0035648||risk factors
+C0085762||alcohol
+C0040336||tobacco abuse
+C0665341||Estrogen Receptor alpha
+C0665341||Estrogen Receptor alpha
+C0034833||Progesterone Receptor
+C0034833||Progesterone Receptor
+C0936012||analyzed
+C0026639||oral mucosa
+C0221198||oral precursor lesions
+C0456483||simple hyperplasia
+C1302751||squamous intraepithelial neoplasia
+C1302751||SIN I-III
+C0585362||oral squamous cell carcinoma
+C0585362||OSCCs
+C0599755||cohort
+C0599755||cohort
+C0585362||oral squamous cell carcinoma
+C0032961||pregnancy
+C0678222||Breast cancer
+C0040300||tissues
+C0665341||Estrogen Receptor alpha
+C0034833||Progesterone Receptor
+C0665341||Estrogen Receptor alpha
+C0221198||oral precursor lesions
+C1302751||squamous intraepithelial neoplasia
+C1302751||SIN I-III
+C0585362||oral squamous cell carcinoma
+C0665341||Estrogen Receptor alpha
+C1446409||positive
+C0585362||oral squamous cell carcinoma
+C0599755||cohort
+C0205160||negatively
+C0665341||Estrogen Receptor alpha
+C0034833||Progesterone Receptor
+C0034804||ER
+C0035648||risk factor
+C0585362||oral squamous cell carcinoma
+C0034833||Progesterone Receptor
+C0585362||oral squamous cell carcinoma

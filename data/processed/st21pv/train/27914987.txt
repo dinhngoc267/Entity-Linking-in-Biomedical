@@ -1,0 +1,46 @@
+C0076220||Tetrabromobisphenol A
+C0023884||hepatic
+C1512834||interferon pathway
+C0034721||rats
+C0076220||Tetrabromobisphenol A
+C0076220||Tetrabromobisphenol A
+C0016198||flame retardant
+C2603343||study
+C0076220||Tetrabromobisphenol A
+C0042138||uterine tumors
+C2700261||Wistar-Han rats
+C0023903||liver
+C0009375||colon tumors
+C2698297||B6C3F1 mice
+C0017337||gene
+C1704259||pathway
+C0027651||cancer
+C2700261||Wistar Han rats
+C0076220||Tetrabromobisphenol A
+C0010029||corn oil
+C0076220||Tetrabromobisphenol A
+C0577053||liver
+C0567079||uterus lesions
+C0003062||animals
+C0936012||analyzed
+C0936012||Analysis
+C0023884||hepatic
+C0042149||uterine
+C3178810||transcriptomes
+C0076220||Tetrabromobisphenol A
+C0023884||liver
+C1519595||transcripts
+C0017337||genes
+C0017262||expressed
+C0868995||Pathway analysis
+C0021747||interferon
+C0021747||interferon
+C1706062||metabolic networks
+C0076220||Tetrabromobisphenol A
+C0042149||uterus
+C1512834||interferon pathway
+C0023884||liver
+C0076220||Tetrabromobisphenol A
+C0076220||Tetrabromobisphenol A
+C1963758||immunomodulatory
+C0596263||carcinogenic processes

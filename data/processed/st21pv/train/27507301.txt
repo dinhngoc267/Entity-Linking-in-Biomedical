@@ -1,0 +1,74 @@
+C2825314||MicroRNA 101b
+C0013081||Downregulated
+C0162783||Prefrontal Cortex
+C0026343||Genetic Model
+C0011581||Depression
+C0061467||Glutamate Transporter
+C1529079||SLC1A1
+C1529079||EAAT3
+C1101610||MicroRNAs
+C1101610||MicroRNAs
+C1519619||translational repression
+C2263416||base pairing with target mRNAs
+C2825314||miRNA
+C0017262||expression
+C0087111||treatment
+C1269683||major depressive disorder
+C1269683||major depressive disorder
+C2825314||miRNA
+C0017262||expression
+C0005507||assay
+C2825314||MicroRNAs
+C1979963||profile
+C0162783||prefrontal cortex
+C0162783||prefrontal cortex
+C0026343||genetic rat model
+C1269683||major depressive disorder
+C0026343||Flinders Sensitive Line
+C0026343||Flinders Sensitive Line
+C0026343||Flinders Resistant Line
+C0026343||Flinders Resistant Line
+C0017262||Gene expression
+C0162783||prefrontal cortex
+C0026343||Flinders Sensitive Line
+C0026343||Flinders Resistant Line
+C0003062||animals
+C0035696||mRNA
+C0005507||Luciferase reporter assays
+C2825314||miRNA
+C2825314||MicroRNAs
+C0013081||downregulated
+C0162783||prefrontal cortex
+C0026343||FSL model
+C2825314||MicroRNAs
+C2825314||miR-101b
+C0086893||rat
+C0086418||human
+C0013081||downregulated
+C0162783||prefrontal cortex
+C1579931||depressed
+C0038661||suicide
+C0936012||analyses
+C2825314||miR-101b
+C0027882||neuronal
+C0061467||glutamate transporter
+C1529079||SLC1A1
+C1529079||EAAC1
+C1529079||EAAT3
+C0035696||mRNA
+C0428479||protein levels
+C1529079||SLC1A1
+C0041904||upregulated
+C0162783||prefrontal cortex
+C0026343||FSL model
+C2825314||MicroRNAs
+C0344315||depression-like states
+C1709631||preclinical study
+C0086418||human
+C2825314||miR-101
+C0011581||depression
+C2825314||miR-101b
+C0061467||glutamate transporter
+C0242899||glutamatergic
+C0243095||dysregulation
+C0011581||depression

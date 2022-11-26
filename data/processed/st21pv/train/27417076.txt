@@ -1,0 +1,47 @@
+C0595939||stillbirth
+C0043210||women
+C0034391||Queensland
+C0004340||Australia
+C1709599||population based study
+C0004340||Australia
+C0595939||stillbirth
+C1257890||Torres Strait Islander
+C0043210||women
+C0011847||Diabetes
+C0020538||hypertension
+C0269608||antepartum haemorrhage
+C0235991||small-for-gestational age
+C0235991||small-for-gestational age
+C0043210||women
+C2603343||study
+C0595939||stillbirth
+C0043210||women
+C1709599||population-based study
+C0032961||gestation
+C0034391||Queensland
+C0034391||Queensland
+C0010995||Data Collection
+C0242356||routinely-maintained database
+C0034391||Queensland
+C0206031||Multivariate logistic regression
+C1858460||maternal
+C3533185||pregnancy factors
+C0936012||analysed
+C0043210||women
+C0043210||women
+C0595939||Stillbirth
+C0043210||women
+C0269608||antepartum haemorrhage
+C0235991||small-for-gestational age
+C0595939||stillbirth
+C0032914||pre-eclampsia
+C0013537||eclampsia
+C0595939||stillbirth
+C0085207||gestational diabetes
+C2603343||study
+C0595939||stillbirth
+C0043210||women
+C0032961||term gestations
+C0086388||healthcare
+C0595939||stillbirth
+C0043210||women

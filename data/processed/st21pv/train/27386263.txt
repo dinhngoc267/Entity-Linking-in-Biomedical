@@ -1,0 +1,78 @@
+C0962190||Interleukin-21
+C0699748||pathogenesis
+C4303164||type I autoimmune hepatitis
+C1571705||follicular
+C0018894||helper T (Tfh) cells
+C0962190||interleukin (IL)-21
+C0229664||peripheral blood
+C0086418||human
+C0026809||murine
+C0012644||models
+C0241910||autoimmune hepatitis
+C0241910||autoimmune hepatitis
+C0962190||IL-21
+C0079189||type-I cytokine family
+C0020962||immune system
+C1155003||B cell activation
+C1817697||plasma cell differentiation
+C0003261||immunoglobulin production
+C0229671||serum
+C0962190||IL-21
+C4303164||type I AIH
+C0022877||laboratory
+C0019638||histology
+C1556094||Japanese
+C0023895||liver disease
+C0241910||autoimmune hepatitis
+C0008312||primary biliary cholangitis
+C0860207||drug-induced liver injury
+C0276609||acute hepatitis B
+C0524910||chronic hepatitis C
+C3241937||non-alcoholic steatohepatitis
+C0042721||viral hepatitis
+C1708335||healthy volunteers
+C0229671||Serum
+C0962190||IL-21
+C0014441||enzyme-linked immunosorbent assay
+C1709846||Real-time polymerase chain reaction
+C0035696||mRNA
+C1332399||Bcl-6
+C1416406||IL-21
+C1332421||CXCR5
+C0033684||Tfh-related factors
+C0205100||peripheral
+C0011900||diagnosis
+C0241910||autoimmune hepatitis
+C0243095||male-to-female ratio
+C0023890||cirrhosis
+C0012634||disease
+C0962190||IL-21
+C0229671||serum
+C0241910||autoimmune hepatitis
+C0229671||serum
+C0962190||IL-21
+C0241910||autoimmune hepatitis
+C0229671||Serum
+C0962190||IL-21
+C0229671||serum
+C0344395||bilirubin levels
+C1954433||grading of necroinflammatory activity
+C0728877||serum albumin levels
+C0241910||autoimmune hepatitis
+C0544452||remission
+C0241910||autoimmune hepatitis
+C0229671||serum
+C0962190||IL-21
+C1514241||positively
+C2732508||serum IgG levels
+C1171362||Expression
+C0033684||Tfh-related factors
+C1448774||Bcl-6
+C0962190||IL-21
+C1321301||peripheral blood mononuclear cells
+C0241910||autoimmune hepatitis
+C1708335||healthy volunteers
+C0962190||IL-21
+C0699748||pathogenesis
+C0241910||autoimmune hepatitis
+C0241910||autoimmune hepatitis

@@ -1,0 +1,60 @@
+C0042196||Vaccination
+C0039005||piglets
+C1516086||Ingelvac PRRSFLEX® EU
+C0729663||maternally derived antibodies
+C3178994||eradicating
+C0376538||porcine reproductive and respiratory syndrome
+C0376538||porcine reproductive and respiratory syndrome
+C1160716||transmission of the virus
+C0887908||DIVA vaccines
+C0376538||porcine reproductive and respiratory syndrome
+C0376636||management measures
+C0042196||vaccination
+C0039005||piglets
+C2603343||study
+C1516086||MLV vaccine
+C1516086||Ingelvac PRRSFLEX® EU
+C0039005||piglets
+C0150312||presence
+C0729663||maternally derived antibodies
+C0042196||vaccinated
+C0042210||vaccine strain
+C1516086||ReproCyc® PRRS EU
+C2603343||study
+C1296656||Hungarian farrow
+C0557759||farm
+C0439663||naturally infected
+C0376536||PRRSv
+C2603343||study
+C2347038||blind
+C1706408||placebo controlled
+C0758157||ORF5
+C0042210||vaccine strain
+C1257890||resident field strain
+C0376538||porcine reproductive and respiratory syndrome
+C3179034||real-time quantitative PCR
+C1550100||serum samples
+C1261478||viral load
+C1167762||virus positive
+C0003062||animals
+C3714514||natural infection
+C0243095||viraemic
+C0003062||animals
+C0042196||vaccinated
+C3714514||infection
+C1446409||positive
+C0032520||PCR
+C0758157||ORF5
+C1444656||indicated
+C0237318||circulation
+C0042776||virus
+C0039005||piglets
+C0042196||vaccinated
+C1516086||Ingelvac PRRSFLEX® EU
+C0243095||viraemic
+C0003062||animals
+C0042749||viraemia
+C0039005||piglets
+C0729663||maternally derived antibodies
+C0729663||maternally derived antibodies
+C0042196||vaccination

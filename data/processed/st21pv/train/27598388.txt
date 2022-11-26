@@ -1,0 +1,52 @@
+C0037125||silver
+C0522465||Borago officinalis
+C0242724||leaf
+C0032081||extract
+C0243095||anticancer
+C0243095||antibacterial activities
+C0037125||silver
+C0522465||Borago officinalis
+C0242724||leaves
+C0032081||extract
+C0597731||surface plasmon resonance
+C0597731||surface plasmon resonance
+C0678118||Transmission electron microscope (TEM) analysis
+C0332501||spherical
+C1708361||hexagonal
+C0332479||shape
+C2699997||energy dispersive X-ray spectroscopy
+C2699997||energy dispersive X-ray spectroscopy
+C0022885||elemental mapping
+C0037125||silver
+C0037125||AgNPs
+C0444626||crystalline
+C0037125||AgNPs
+C0043301||X-ray diffraction
+C0043301||X-ray diffraction
+C0022885||selected area diffraction pattern
+C0037125||AgNPs
+C0037125||AgNPs
+C0024109||lung
+C0085983||cancer cell lines
+C4277577||A549
+C0007874||cervical
+C0085983||cancer cell line
+C0018873||HeLa
+C0596402||cytotoxicity
+C4277577||A549
+C0018873||HeLa
+C0085983||cancer cell line
+C0037125||AgNPs
+C0243095||antibacterial activity
+C0081786||biofilm
+C3816499||pathogenic
+C0004611||bacteria
+C0522465||B. officinalis
+C0242724||leaves
+C0032081||extract
+C0037125||AgNPs
+C0037125||AgNPs
+C0003392||anticancer
+C0279516||antibacterial agents
+C0003392||anticancer
+C1136254||antimicrobial agents

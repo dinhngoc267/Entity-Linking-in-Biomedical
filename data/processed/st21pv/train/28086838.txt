@@ -1,0 +1,55 @@
+C0242172||pelvic inflammatory disease
+C0008149||Chlamydia infection
+C0149959||acute pelvic inflammatory disease
+C0242172||pelvic inflammatory disease
+C0009566||complications
+C0032987||ectopic pregnancy
+C0156415||tubal infertility
+C0549148||Fitz-Hugh-Curtis syndrome
+C0041343||tubo-ovarian abscess
+C0041343||tubo-ovarian abscess
+C2603343||study
+C1516606||clinical
+C1517709||laboratory data
+C0242172||pelvic inflammatory disease
+C0008149||chlamydia infection
+C0025102||medical records
+C0043210||women
+C0242172||pelvic inflammatory disease
+C1257890||groups
+C0242172||pelvic inflammatory disease
+C0008149||chlamydia infection
+C0587081||laboratory findings
+C0005516||markers
+C1257890||chlamydia
+C1257890||non-chlamydia groups
+C0043210||women
+C1257890||chlamydia group
+C0041343||tubo-ovarian abscess
+C0543467||surgeries
+C1257890||non- chlamydia group
+C1619634||erythrocyte sedimentation rate
+C1619634||erythrocyte sedimentation rate
+C0006560||C-reactive protein
+C0006560||C-reactive protein
+C0006610||CA-125
+C1257890||chlamydia group
+C1257890||non-chlamydia group
+C1257890||groups
+C0006610||CA-125
+C0008149||chlamydia infection
+C1619634||erythrocyte sedimentation rate
+C0006560||C-reactive protein
+C0205146||area
+C0006610||CA-125
+C1619634||erythrocyte sedimentation rate
+C0006560||C-reactive protein
+C0008149||Chlamydia infection
+C0149959||acute PID
+C0005516||markers
+C0006610||CA-125
+C1619634||erythrocyte sedimentation rate
+C0006560||C-reactive protein
+C0041343||tubo-ovarian abscess
+C0543467||operation
+C0019993||hospitalization

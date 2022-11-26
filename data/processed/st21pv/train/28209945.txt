@@ -1,0 +1,46 @@
+C0010405||Static Cold Storage
+C0193410||Hypothermic Machine Perfusion
+C0696141||Oxidative Stress Factors
+C1720822||Adhesion Molecules
+C2700330||Zinc Finger Transcription Factor Proteins
+C0023911||Liver Transplantation
+C0010405||static cold storage
+C0010405||static cold storage
+C0193410||hypothermic machine perfusion
+C0193410||hypothermic machine perfusion
+C0696141||oxidative stress factors
+C0696141||oxidative stress factors
+C1720822||adhesion molecules
+C1720822||adhesion molecules
+C2700330||zinc finger transcription factor
+C2700330||Snail
+C0023911||liver transplantation
+C0012984||dogs
+C0010405||static cold storage
+C0193410||hypothermic machine perfusion
+C0023911||Livers retrieved
+C0023911||transplanted
+C0010405||static cold storage
+C0023884||livers
+C0023911||transplanted
+C0193410||hypothermic machine perfusion
+C0023884||livers
+C0012984||dogs
+C0023911||liver transplants
+C0023884||liver
+C0036150||sampling process
+C0696141||oxidative stress factors
+C1720822||adhesion molecules
+C0040732||transplantation
+C3180772||chemokine CXCL14
+C2700330||Snail
+C0134835||P-selectin
+C0040732||transplantation
+C1528324||HIF-1α
+C3180772||chemokine CXCL14
+C0134835||P-selectin
+C2700330||Snail
+C0193410||hypothermic machine perfusion
+C0696141||oxidative stress factors
+C0243095||conducive
+C0023911||liver transplantation

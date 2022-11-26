@@ -1,0 +1,87 @@
+C0005516||markers
+C2936598||pancreatic stellate cells
+C0086418||human
+C0030274||pancreas
+C2936598||Pancreatic stellate cells
+C2936598||Pancreatic stellate cells
+C0007634||fibrogenic cells
+C0235974||pancreatic cancer
+C0149521||chronic pancreatitis
+C2340138||hepatic stellate cells
+C2340138||quiescent hepatic stellate cells
+C0005516||marker
+C2936598||Pancreatic stellate cells
+C2936598||quiescent PSCs
+C2711483||formalin-fixed and paraffin embedded (FFPE) normal human pancreatic tissue
+C2936598||quiescent PSCs
+C0086418||human
+C2711483||FFPE pancreatic tissue
+C0079603||immunofluorescence
+C0079603||immunofluorescence
+C0079603||double-IF analyses
+C0086418||human
+C0587009||pancreatic tissue
+C0086418||human
+C0023884||liver
+C0003241||Antibodies
+C1505480||adipophilin
+C2716282||α-SMA
+C0386212||CD146
+C1872428||CRBP-1
+C1450216||cytoglobin
+C0011696||desmin
+C0017626||GFAP
+C3711758||nestin
+C0287850||S100A4
+C1454484||vinculin
+C0442156||periacinar
+C0007634||cells
+C0086418||human
+C0030274||pancreas
+C0227531||perisinusoidal cells
+C0086418||human
+C0023884||liver
+C0079609||immunolabelling
+C0079603||Double-IF
+C0005516||markers
+C0005516||markers
+C0442156||periacinar
+C0007634||cells
+C0086418||human
+C2936598||quiescent PSCs
+C0013842||electron microscopy
+C1505480||Adipophilin
+C1872428||CRBP-1
+C1450216||cytoglobin
+C1454484||vinculin
+C2340138||quiescent hepatic stellate cells
+C0023884||liver
+C1450216||cytoglobin
+C1505480||adipophilin
+C2936598||quiescent PSCs
+C0030274||pancreas
+C1505480||Adipophilin
+C0021044||immunohistochemistry
+C0040300||tissue
+C3536615||formalin fixation
+C1450216||Cytoglobin
+C0287850||S100A4
+C1454484||vinculin
+C0442156||periacinar
+C0016030||fibroblasts
+C0016030||fibroblasts
+C0005516||markers
+C0086418||human
+C2936598||quiescent PSCs
+C1450216||cytoglobin
+C1505480||adipophilin
+C0005516||markers
+C2936598||quiescent PSCs
+C0086418||human
+C0030274||pancreas
+C1505480||adipophilin
+C2936598||qPSC
+C1450216||Cytoglobin
+C0005516||marker
+C2936598||quiescent PSCs
+C0016030||fibroblasts

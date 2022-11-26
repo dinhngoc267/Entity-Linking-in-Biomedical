@@ -1,0 +1,33 @@
+C0010995||Collecting
+C0011000||Reporting Safety Data
+C1516647||Monitoring Trial Conduct
+C3658215||Pragmatic Trials
+C3658215||Pragmatic trials
+C0087111||treatment
+C3658215||pragmatic trials
+C0010995||collecting
+C0011000||reporting safety data
+C1516647||monitoring trial conduct
+C0282574||ICH
+C1519255||serious adverse events
+C1519255||serious adverse events
+C1254351||drug
+C0184661||interventional
+C0008976||trial
+C0449445||approach
+C0010995||collection
+C1513916||non
+C1254351||drug
+C1518404||non-serious AEs
+C0087111||treatment
+C0013227||medicine
+C1257890||population
+C0010995||collection
+C0011000||reporting of safety data
+C2603343||study
+C0589121||follow-up visits
+C0449445||approach
+C1516647||monitoring trial conduct
+C3658215||pragmatic trial
+C0008976||clinical trials
+C0035649||management of these risks

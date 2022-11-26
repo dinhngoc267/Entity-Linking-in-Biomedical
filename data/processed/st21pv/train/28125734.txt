@@ -1,0 +1,76 @@
+C1101610||MiR-21-5p
+C0017362||Functional Regulator
+C1334533||Mesothelin
+C0017262||Expression
+C1101610||MicroRNA
+C2936622||Next Generation Sequencing
+C1101610||MicroRNAs
+C1101610||MicroRNAs
+C0887909||small non-coding RNAs
+C0017263||regulate
+C1515670||mRNA expression
+C0598496||silencing
+C1519595||transcripts
+C1167622||binding
+C0314659||miRNA recognition elements (MREs)
+C0600600||3'untranslated region
+C0600600||3'untranslated region
+C2323869||bona fide
+C0243095||researchers working
+C1101610||MicroRNAs
+C1159274||biotinylated
+C0012854||DNA
+C0079925||antisense oligonucleotides
+C0035696||mRNA
+C1523523||miRNAs::mRNA interactions
+C1325880||physiological cellular
+C1334533||mesothelin (MSLN) gene
+C2936622||next generation sequencing
+C2936622||next generation sequencing
+C1101610||MicroRNAs
+C0017263||regulate
+C1334533||MSLN mRNA
+C0428479||protein levels
+C0812413||malignant pleural mesothelioma
+C0812413||malignant pleural mesothelioma
+C1159274||Biotinylated
+C1334533||MSLN oligos
+C1099355||miRNA::MSLN mRNA complexes
+C0007600||cell line (Met-5A)
+C1171362||expresses
+C0380162||mesothelin
+C1101610||MiRNAs
+C1334533||MSLN mRNA
+C2936622||next generation sequencing
+C1101610||miR-21-5p
+C1101610||miR-100-5p
+C0936012||validation analyses
+C1101610||MiR-21-5p
+C0443264||modulate
+C1334533||mesothelin
+C0017262||expression
+C1101610||miRNA
+C0393040||mimic
+C0681814||experiments
+C0334227||malignant
+C0007600||cell lines
+C1101610||miRNA
+C0681814||experiments
+C0024075||luciferase
+C0005507||assays
+C0007634||Mero-14 cells
+C1101610||miR-21-5p
+C0017362||regulator
+C1334533||mesothelin
+C0087111||treatment
+C1101610||miR-21-5p
+C0393040||mimic
+C0812413||malignant pleural mesothelioma
+C0007600||cell lines
+C2936622||next generation sequencing
+C1519941||validation
+C1523523||miRNA::mRNA interactions
+C1101610||MiR-21-5p
+C0017362||regulator
+C1334533||mesothelin
+C0007595||cellular growth

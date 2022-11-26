@@ -1,0 +1,22 @@
+C4049918||Liquid chromatography-tandem mass spectrometry
+C1142891||acetamiprid
+C0962702||thiacloprid
+C1019150||butterbur
+C0014406||regulated conditions
+C1997222||neonicotinoid insecticides
+C1142891||acetamiprid
+C0962702||thiacloprid
+C1019150||butterbur
+C4049918||liquid chromatography-tandem mass spectrometry
+C4049918||LC-MS/MS
+C0684295||extracted
+C0050456||acetonitrile
+C0025748||dichloromethane
+C0205132||Linearity
+C1142891||acetamiprid
+C0962702||thiacloprid
+C1142891||acetamiprid
+C0962702||thiacloprid
+C0680536||commercial
+C0031253||pesticide product
+C0042440||leafy vegetables

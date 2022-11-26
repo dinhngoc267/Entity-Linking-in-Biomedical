@@ -1,0 +1,35 @@
+C0008902||categorization
+C1287082||QT interval
+C0449445||approach
+C0557971||identifying
+C2926098||cardiovascular death
+C0151878||QT prolongation
+C2926098||cardiovascular death
+C2926098||cardiovascular death
+C0018810||heart rate
+C0018810||heart rate
+C2926098||cardiovascular death
+C0679646||Participants
+C0042610||veterans
+C0013798||ECG
+C0282574||Veterans Affairs Medical Center
+C3827373||Palo Alto
+C2926098||cardiovascular death
+C1287082||QT interval
+C0018810||heart rate
+C0086418||Schwartz
+C2939193||median
+C2926098||cardiovascular death
+C0018810||heart rate
+C2926098||cardiovascular death
+C1287082||QT interval
+C0018810||heart rate
+C0489829||formulas
+C0018810||heart rate
+C1287082||QT interval
+C1287082||QT-interval
+C0018810||heart rate
+C0449445||approach
+C1287082||QT intervals
+C3687832||drugs
+C2926098||cardiovascular death

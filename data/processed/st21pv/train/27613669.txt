@@ -1,0 +1,55 @@
+C0012683||nitrogenous disinfection
+C0684298||by-products
+C0004015||aspartic acid
+C0012683||nitrogenous disinfection
+C0684298||by-products
+C0684298||nitrogenous disinfection by-products
+C0004015||aspartic acid
+C0004015||aspartic acid
+C0057843||dichloroacetonitrile
+C0057843||dichloroacetonitrile
+C0684298||nitrogenous disinfection by-products
+C0045293||dichloroacetamide
+C0045293||dichloroacetamide
+C0055437||chloropicrin
+C0055437||TCNM
+C0004015||aspartic acid
+C0057843||dichloroacetonitrile
+C0045293||dichloroacetamide
+C0055437||TCNM
+C0442797||decreasing
+C0004015||aspartic acid
+C0008209||chlorine
+C0057843||dichloroacetonitrile
+C0045293||dichloroacetamide
+C0055437||TCNM
+C0057843||dichloroacetonitrile
+C0045293||dichloroacetamide
+C0008209||Cl2
+C0004015||aspartic acid
+C0055437||TCNM
+C0008209||Cl2
+C0004015||aspartic acid
+C0055437||TCNM
+C0056659||Cyanogen chloride
+C0056659||Cyanogen chloride
+C0008209||Cl2
+C0004015||aspartic acid
+C0684298||nitrogenous disinfection by-products
+C0057843||dichloroacetonitrile
+C0045293||dichloroacetamide
+C0055437||TCNM
+C0057843||dichloroacetonitrile
+C0045293||dichloroacetamide
+C0055437||TCNM
+C0057843||dichloroacetonitrile
+C0045293||dichloroacetamide
+C0055437||TCNM
+C0008209||chlorine
+C0012431||N-nitrosodimethylamine
+C0012431||N-nitrosodimethylamine
+C0004015||aspartic acid
+C3848571||bromide ions
+C0001004||haloacetonitriles
+C0684298||nitrogenous disinfection by-products
+C0029224||brominated species

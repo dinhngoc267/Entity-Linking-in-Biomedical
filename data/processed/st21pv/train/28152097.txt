@@ -1,0 +1,48 @@
+C0162428||percutaneous nephrolithotomy
+C0205107||proximal
+C0041952||ureteral stones
+C1955832||systematic review
+C0920317||meta-analysis
+C0451641||Urinary stones
+C0012634||disorders
+C0041952||impacted proximal ureteral stones
+C0041952||impacted proximal ureteral stones
+C0260314||urologists
+C2603343||study
+C1707887||compare the efficacy
+C1705187||safety
+C0162428||percutaneous nephrolithotomy
+C0162428||PCNL
+C0558630||ureteroscopic lithotripsy
+C0558630||ureteroscopic lithotripsy
+C0041952||impacted proximal ureteral stones
+C0920317||meta-analysis
+C0008972||studies
+C1138432||PubMed
+C0242356||Embase
+C0242356||Cochrane Library
+C0936012||analyzed
+C0037589||Stata 12.0
+C0037589||RevMan 5.3
+C2603343||study
+C0282458||PRISMA guidelines
+C0033522||prospective studies
+C0920317||meta-analysis
+C0162428||PCNL
+C0558630||ureteroscopic lithotripsy
+C0162428||PCNL
+C0558630||ureteroscopic lithotripsy
+C0162428||PCNL
+C0558630||ureteroscopic lithotripsy
+C3494226||surgical conversion
+C0015359||shock wave lithotripsy
+C0009566||complications
+C0205103||between
+C0162428||PCNL
+C0558630||ureteroscopic lithotripsy
+C0018965||hematuria
+C0162428||PCNL
+C0087111||treatment method
+C0041952||impacted proximal ureteral stones
+C1705187||safety
+C0558630||ureteroscopic lithotripsy

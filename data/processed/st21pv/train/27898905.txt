@@ -1,0 +1,61 @@
+C0017428||genomic
+C0015895||fertility
+C0014136||endocrine
+C0015895||fertility
+C0007452||dairy cattle
+C0014136||Endocrine
+C0015895||fertility
+C0033308||progesterone
+C0026131||milk
+C0015895||fertility
+C0007452||dairy cows
+C0557759||farm
+C0679006||decisions
+C0007452||cow
+C0035150||reproductive
+C0031843||physiology
+C0021586||insemination
+C0014136||endocrine
+C0015895||fertility
+C0017428||genomic
+C0015195||evaluations
+C0014136||endocrine
+C0015895||fertility
+C0017428||genomic
+C0015895||fertility
+C0003062||animals
+C0014136||Endocrine
+C0015895||fertility
+C0022925||lactations
+C0324069||Holstein cows
+C0022067||Ireland
+C0027778||Netherlands
+C0038995||Sweden
+C0041700||United Kingdom
+C0014136||endocrine
+C0014136||endocrine
+C0015895||fertility
+C0017428||Genomic EBV
+C0017428||Genomic EBV
+C0015895||fertility
+C1710191||genomic BLUP
+C0752046||SNP
+C0015895||fertility
+C0017428||Genomic EBV
+C0681935||cross-validation
+C0017428||Genomic EBV
+C0014136||endocrine
+C0015895||fertility
+C0015895||fertility
+C0017428||Genomic EBV
+C0003062||training animals
+C0003062||training animals
+C1519941||validation
+C0003062||animals
+C1513916||no
+C2603343||study
+C0017428||genomic
+C0015895||fertility
+C0014136||endocrine
+C2603343||studies
+C1257890||training populations

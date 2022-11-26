@@ -1,0 +1,21 @@
+C0025663||Methods
+C4282220||discharge instructions
+C0005615||birth
+C0596545||experience
+C0243095||Finding
+C0025663||method
+C4282220||discharge instructions
+C0242428||satisfaction
+C0019994||hospital
+C0596545||experience
+C2985410||quasi-experimental study
+C0332128||examined
+C0037420||interaction
+C0028661||nurses
+C1442085||instructions
+C0025663||methods
+C0242428||satisfaction
+C0242428||satisfied
+C0025663||methods
+C0242428||satisfaction
+C0025663||method

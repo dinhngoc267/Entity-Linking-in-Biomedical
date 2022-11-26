@@ -1,0 +1,41 @@
+C0001792||older
+C0027361||person
+C0018768||hearing aid
+C0185023||fitting
+C0037420||social interaction
+C2603343||study
+C0018768||hearing aids
+C0001792||older
+C0027361||person
+C0037420||social interactions
+C0034394||WHOQOL-OLD questionnaire
+C1706817||answered
+C0001792||older adults
+C0185023||fitted
+C0018768||hearing aids
+C0185023||fitting
+C0018768||hearing aid
+C0034394||WHOQOL-OLD
+C0018768||hearing aids
+C0185023||fitting
+C0332149||possible
+C0001792||Older
+C0027361||persons
+C3887873||hearing loss
+C0034394||WHOQOL-OLD
+C0018768||hearing aid
+C0185023||fitting
+C0018768||hearing aid
+C0683312||categorical
+C0018768||hearing aid
+C0037420||social interactions
+C0018768||hearing aid
+C0034394||WHOQOL-OLD
+C2603343||study's
+C0018768||hearing aid
+C0185023||fitting
+C0001792||older
+C0027361||person
+C0018767||hearing
+C0018768||hearing aid
+C0332149||possibly

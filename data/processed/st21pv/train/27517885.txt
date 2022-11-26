@@ -1,0 +1,48 @@
+C1955992||Chloroplast Genome
+C0314659||Sequence
+C0032100||Medicinal Plant
+C1624947||Swertia mussotii
+C1624947||Swertia mussotii
+C0032100||medicinal plant
+C1254351||medicinal value
+C1955992||chloroplast (cp) genome
+C1624947||S. mussotii
+C2350250||inverted repeat (IR) regions
+C0314659||large single-copy (LSC) region
+C0314659||small single-copy (SSC) region
+C1624947||S. mussotii
+C1955992||cp genome
+C3839127||protein-coding genes
+C0035711||transfer RNA
+C0035711||transfer RNA
+C0017337||genes
+C0035899||ribosomal RNA (rRNA) genes
+C1624947||S. mussotii
+C1955992||cp genes
+C0017428||genomes
+C1080874||Gentianales
+C1705920||species
+C0936012||analysis
+C0314659||repeat structure
+C0314659||repeats
+C2350254||palindromic repeats
+C0442726||detected
+C1624947||S. mussotii
+C1955992||cp genome
+C1519302||SSRs
+C1624947||S. mussotii
+C1955992||cp genome
+C0028630||mononucleotides
+C1080874||Gentianales
+C1705920||species
+C1955992||cp genome
+C1579762||comparison study
+C1624947||S. mussotii
+C1705920||species
+C0950077||Gentianaceae
+C1955992||cp genome
+C0314659||sequence
+C0017337||intragenic
+C0008266||chloroplast
+C0017387||genetic engineering
+C0032100||medicinal plant

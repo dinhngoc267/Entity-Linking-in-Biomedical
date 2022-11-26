@@ -1,0 +1,73 @@
+C2352110||CXCR4
+C2352110||CD184
+C1171362||expression
+C0411265||stem cell harvest
+C0054953||CD34(+)
+C0007634||cells
+C2352110||CXCR4
+C0597357||receptor
+C0218504||stromal-derived factor-1
+C0218504||stromal-derived factor-1
+C0008018||chemotactic
+C0024264||lymphocytes
+C0007613||homing
+C0018956||hematopoietic stem cells
+C0005953||adult marrow
+C0220825||evaluated
+C2352110||CXCR4
+C2352110||CD184
+C1171362||expression
+C0038250||harvest cells
+C0005953||bone marrow
+C0005953||bone marrow
+C0301944||engraftment
+C0033522||prospective study
+C0472699||hematopoietic stem cell transplantation
+C0040736||autograft
+C0040739||allograft
+C2352110||CD184
+C2352110||CXCR4
+C0016263||flow cytometry
+C0038250||harvest cells
+C0005953||bone marrow
+C0220825||assessment
+C0543482||morphologic
+C1511790||detection
+C2352110||CD184
+C1171362||expression
+C0054953||CD34(+)
+C0007634||cells
+C1321301||peripheral blood mononuclear cells
+C0011900||Diagnoses
+C0023467||acute myeloid leukemia
+C0026764||multiple myeloma
+C0023449||acute lymphoblastic leukemia
+C0024305||non-Hodgkin lymphoma
+C3463824||myelodysplastic syndromes
+C0002874||aplastic anemia
+C0023473||chronic myeloid leukemia
+C0019829||Hodgkin lymphoma
+C0032131||plasmacytomas
+C1546956||died
+C0008972||study
+C0301944||engraftment
+C1513916||no
+C0428479||level
+C2352110||CD184
+C0411265||stem cell harvest
+C0301944||engraftment
+C0438737||BM sample
+C0428479||level
+C2352110||CD184
+C0438737||BM sample
+C0301944||engraftment
+C0218504||stromal-derived factor-1
+C2352110||CXCR4
+C0301944||engraftment
+C1171362||expression
+C0282554||chemokine
+C0218504||stromal-derived factor-1
+C0597357||receptor
+C2352110||CXCR4
+C0220825||assessment
+C0301944||engraftment

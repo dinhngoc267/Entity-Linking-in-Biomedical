@@ -1,0 +1,48 @@
+C1744331||carboxymethyl chitosan
+C0081786||mixed biofilm
+C0037114||silicone
+C0037114||Silicone
+C0087165||voice prostheses
+C0199531||voice rehabilitation
+C0023065||laryngectomized
+C0081786||mixed biofilms
+C1515654||in vitro models
+C1325881||biofilm formation
+C0018017||goal
+C2603343||study
+C1744331||carboxymethyl chitosan
+C1325881||mixed biofilm formation
+C0016832||fungi
+C0004611||bacteria
+C0037114||silicone
+C1705920||species
+C0081786||biofilms
+C0006837||Candida albicans
+C0319882||Candida tropicalis
+C0317620||Lactobacillus gasseri
+C0318179||Streptococcus salivarius
+C0318071||Rothia dentocariosa
+C0038174||Staphylococcus epidermidis
+C0205148||surfaces
+C0037114||medical-grade silicone
+C1744331||carboxymethyl chitosan
+C0005821||platelet
+C0026020||scanning electron microscopy
+C0081786||mixed biofilm
+C0037114||silicone
+C0081786||biofilm
+C1744331||carboxymethyl chitosan
+C0026020||Scanning electron microscopy
+C0750484||confirms
+C0205148||surfaces
+C1744331||carboxymethyl chitosan
+C0081786||biofilm
+C0007634||cells
+C4055264||profuse cellular debris
+C1260954||morphologically altered
+C0007634||yeast cells
+C1744331||Carboxymethyl chitosan
+C0332149||possible
+C1325881||biofilm formation
+C0087165||voice prostheses
+C0180453||Laryngoscope

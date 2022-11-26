@@ -1,0 +1,69 @@
+C0025080||interlocking systems
+C0184511||improve
+C0021885||intramedullary nailing
+C0021885||intramedullary nailing
+C0021885||Flexible intramedullary nailing
+C0282624||minimally invasive
+C0205391||widespread
+C0087111||method
+C0016643||osteosynthesis
+C0240231||long bone fractures
+C0559876||unstable fractures
+C0023216||lower extremity
+C0025080||interlocking systems
+C0205131||axial
+C0441636||shortening
+C1881710||perforation
+C0441224||nail
+C0449682||insertion site
+C0008972||study
+C0005975||screw
+C0025080||interlocking systems
+C0021885||FINs
+C0038932||Hofer TwinPlug
+C0040302||titanium
+C0441273||interlocking screws
+C0038932||Hofer FixPlug
+C0040302||titanium
+C0441273||interlocking screw
+C0038932||Hofer Plug
+C0040302||titanium
+C0441273||interlocking screw
+C0038932||Hofer Plug
+C0040302||titanium
+C0441273||interlocking screw
+C0038126||stainless steel
+C0441224||nails
+C0005975||screw
+C0006629||cadaveric
+C1123019||lamb
+C0588199||tibiae
+C0205131||axial
+C2346753||amplitude
+C0441273||locking screws
+C0205102||internal
+C0010957||damage
+C0391978||bone tissue
+C0729619||micro-computed tomography (CT) imaging
+C0441224||Ender nails
+C0038932||TwinPlugs
+C0038932||FixPlugs
+C0038932||Plugs
+C0038932||Plugs
+C0038932||TwinPlugs
+C0038932||FixPlugs
+C0038932||Plugs
+C0441224||Ender nails
+C0038932||Plugs
+C0205131||axial
+C0021885||Flexible intramedullary nailing
+C0184511||improved
+C0005975||screw
+C0038932||plugs
+C0441224||Ender nails
+C0038932||plug
+C0025080||interlocking systems
+C0005975||screws
+C0441224||Ender nails
+C0038932||plugs
+C0005975||screws

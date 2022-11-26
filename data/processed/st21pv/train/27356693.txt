@@ -1,0 +1,19 @@
+C0007134||Non-Clear Cell Renal Cell Carcinoma
+C0028971||Oman
+C0007134||renal cell carcinoma
+C0007134||renal cell carcinoma
+C0279702||clear cell type
+C0019638||histology
+C2603343||study
+C0007134||renal cell carcinoma
+C0028971||Oman
+C0007134||renal cell carcinoma
+C0587437||tertiary care center
+C0017446||Sultanate of Oman
+C2603343||studied
+C0243095||main findings
+C0392752||localized
+C0007134||non-clear
+C1306837||papillary
+C0019638||histology
+C0454664||Gulf countries

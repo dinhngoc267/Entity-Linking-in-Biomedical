@@ -1,0 +1,33 @@
+C2936499||Hand-Assisted Laparoscopic
+C1517722||Standard Laparoscopic Colectomy
+C2936499||HAL
+C0009274||colectomy
+C0751429||laparoscopic surgery
+C2603343||single-institution studies
+C0242193||National Surgical Quality Improvement Program Participant Data Use File
+C1517722||SL
+C2936499||HAL
+C0009274||colectomy
+C0936012||subgroup analysis
+C0205122||segmental
+C0015252||resections
+C2936499||HAL
+C0009274||colectomy
+C2936499||HAL
+C1517722||SL colectomy
+C0400877||postoperative ileus
+C1096106||wound complication
+C0030700||readmission
+C0205122||segmental
+C0009274||colectomies
+C2936499||HAL
+C1096106||wound complications
+C0400877||postoperative ileus
+C0030700||readmission
+C2936499||HAL
+C2936499||HAL
+C0009274||colectomy
+C0086930||risk
+C1096106||wound complications
+C0400877||postoperative ileus
+C0030700||readmissions

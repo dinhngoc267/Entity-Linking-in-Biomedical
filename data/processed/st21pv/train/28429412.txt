@@ -1,0 +1,51 @@
+C0391978||Bone
+C0015350||extracellular matrix
+C0600484||hydrogel
+C0007589||osteogenic differentiation
+C0596995||C2C12 myoblasts
+C0025929||mouse
+C0205950||calvarial
+C0007634||cells
+C0600484||Hydrogel scaffolds
+C0015350||extracellular matrix
+C0015350||extracellular matrix
+C0040300||mammalian tissues
+C0043240||tissue repair
+C1515655||in vivo
+C2603343||study
+C0029433||osteogenic potential
+C0015350||extracellular matrix
+C0600484||hydrogels
+C1832069||demineralized
+C0005479||decellularized bovine bone
+C0010454||osteogenic medium
+C0430400||Culture
+C0596995||C2C12
+C0025929||mouse
+C0205950||calvarial
+C0007634||cells
+C0007634||mouse primary calvarial cells
+C0005479||decellularized bone ECM
+C0005479||bone ECM
+C1832069||demineralized bone matrix
+C1832069||demineralized bone matrix
+C0600484||gels
+C0600223||expression
+C0017393||osteogenic gene markers
+C0069676||osteopontin
+C0029419||osteocalcin
+C0007634||mouse primary calvarial cells
+C0430400||cultured
+C0005479||bone ECM
+C0010454||basal
+C0010454||osteogenic media
+C0005479||bone ECM
+C0600484||hydrogels
+C0007589||osteogenic differentiation
+C0596995||C2C12
+C0007634||mouse primary calvarial cells
+C0010454||osteogenic medium
+C0005479||bone ECM
+C0600484||hydrogel scaffolds
+C0391978||bone
+C0596171||tissue engineering

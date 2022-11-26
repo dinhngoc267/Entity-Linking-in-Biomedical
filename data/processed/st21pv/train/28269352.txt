@@ -1,0 +1,32 @@
+C0085639||Fall
+C0035648||risk factors
+C0936012||analysis
+C0230463||plantar
+C0085639||Falls
+C0035168||research
+C2603343||study
+C1268740||risk of falls
+C2827421||construct
+C3161035||elderly fall risk assessment model
+C2349001||subjects
+C0034394||questionnaire
+C0038951||survey
+C0679646||Participants
+C2348561||medium
+C0349674||elderly fall risk assessment scale
+C0681841||explanatory
+C0086930||risk assessment
+C3161035||model
+C0150312||found
+C0205128||vertical
+C0449738||direction
+C1999039||anterior-posterior
+C0449738||direction
+C0034980||regression analysis
+C1444656||indicated
+C0237401||individuals
+C1532976||levels of fall risk
+C1532976||fall risk assessment
+C0150369||monitor
+C0516981||physical function
+C0001792||elderly population

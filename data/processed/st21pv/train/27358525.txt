@@ -1,0 +1,35 @@
+C0024902||Breast Pain
+C0007963||Chart
+C0034869||Objective Record
+C0024902||Mastalgia
+C0024902||Mastalgia
+C0018235||affliction
+C0929301||mammary gland
+C0043210||ladies
+C0087111||therapy
+C0405472||cyclical
+C0405473||noncyclical pain
+C3810844||breast clinics
+C0451366||pain diary
+C0025329||menstrual cycles
+C0007963||Cardiff pain chart records
+C0030193||pain
+C0278139||moderate pain
+C0205120||square
+C0278140||severe pain
+C0007963||Cardiff pain chart
+C0030193||pain
+C0025344||menses
+C0033213||problems
+C0024902||breast pain
+C0007963||chart
+C0007963||pain chart
+C0043210||lady
+C0030193||pain
+C2960751||visual linear analogue scale score
+C0025329||menstrual cycle
+C0025329||menstrual
+C0596545||experience
+C0007963||chart
+C0449911||visualize
+C0030193||pain

@@ -1,0 +1,50 @@
+C1696708||Pre-hypertension
+C0362046||pre-diabetes
+C1320716||cardiovascular events
+C2603343||study
+C0362046||pre-diabetes
+C1696708||pre-hypertension
+C1320716||cardiovascular events
+C0010362||cross-sectional survey
+C1553355||Iranian
+C0683971||population
+C0017446||Isfahan Province
+C2347298||random, multistage cluster-sampling
+C0599755||cohort
+C0002965||unstable angina
+C0002965||unstable angina
+C0027051||myocardial infarction
+C0027051||myocardial infarction
+C0085298||sudden cardiac death
+C0085298||sudden cardiac death
+C0007222||cardiovascular disease
+C0007222||cardiovascular disease
+C0220825||assessment
+C0011849||diabetes state
+C0241863||diabetics
+C0243095||pre-diabetic
+C0020538||hypertension
+C1696708||pre-hypertension
+C1696708||pre-hypertension
+C0362046||pre-diabetes
+C1696708||pre-hypertension
+C0362046||pre-diabetes
+C0027051||myocardial infarction
+C3161035||COX regression models
+C1696708||pre-hypertension
+C0002965||unstable angina
+C0007222||cardiovascular disease
+C0362046||pre-diabetes
+C1696708||pre-hypertension
+C0362046||pre-diabetes
+C0242656||progression
+C0027051||myocardial infarction
+C1708335||healthy individuals
+C1696708||pre-hypertension
+C0002965||unstable angina
+C0007222||cardiovascular disease
+C1696708||pre-hypertension
+C0362046||pre-diabetes
+C1696708||pre-hypertension
+C0362046||pre-diabetes
+C1320716||cardiovascular events

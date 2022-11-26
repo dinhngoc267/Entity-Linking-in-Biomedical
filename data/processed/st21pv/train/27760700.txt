@@ -1,0 +1,57 @@
+C0005898||interregional
+C0170657||serotonin transporter
+C0596620||glucose metabolism
+C0036341||schizophrenia
+C0032743||high-resolution PET
+C1570551||[(11)C]DASB
+C0046056||[(18)F]FDG
+C0005898||interregional
+C0170657||serotonin transporter
+C0170657||serotonin transporter
+C0596620||glucose metabolism
+C0024485||7-Tesla magnetic resonance imaging
+C0024485||magnetic resonance imaging
+C0032743||high-resolution positron emission tomography
+C0032743||positron emission tomography
+C1570551||(11)C-3-amino-4-(2-dimethylaminomethylphenylthio)benzonitrile
+C1570551||[(11)C]DASB
+C0046056||[(18)F]fluorodeoxyglucose
+C0046056||[(18)F]FDG
+C0036341||schizophrenia
+C0036341||schizophrenia
+C0036341||schizophrenia
+C0032743||high-resolution PET
+C0024485||magnetic resonance imaging
+C1570551||[(11)C]DASB
+C0046056||[(18)F]FDG
+C0170657||serotonin transporter
+C0807727||region of interest
+C0807727||region of interest
+C0936012||analyses
+C1273723||region
+C0205094||anterior
+C0019564||hippocampus
+C0170657||serotonin transporter
+C0036341||schizophrenia
+C0807727||region of interest
+C0936012||analyses
+C0046056||[(18)F]FDG
+C2338731||right superior frontal gyrus
+C0442056||medial part
+C2334005||left superior frontal gyrus
+C0005898||interregional
+C1570551||[(11)C]DASB
+C0046056||[(18)F]FDG
+C1514241||positive
+C1273723||brain regions
+C0036341||schizophrenia
+C0170657||serotonin transporter
+C0030560||parietal
+C0039485||temporal cortices
+C0596620||glucose metabolism
+C0175191||posterior cingulate cortex
+C0205161||abnormal
+C0458324||higher-order cortical regions
+C0036341||schizophrenia
+C0175191||posterior cingulate gyrus
+C0036341||schizophrenia

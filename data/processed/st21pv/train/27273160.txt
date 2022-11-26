@@ -1,0 +1,34 @@
+C0162493||Transcriptional enhancement
+C1420257||Smn
+C0428479||levels
+C0026609||motoneurons
+C0004461||axon
+C0043457||zebrafish
+C0026847||spinal muscular atrophy
+C0026847||spinal muscular atrophy
+C1571507||Smn protein
+C0026609||motoneurons
+C1171362||Smn expression
+C0026609||motoneurons
+C4305352||ex vivo zebrafish culture system
+C0120285||GFP
+C0026609||motoneurons
+C0428479||Smn protein
+C0035696||smn mRNA
+C0026609||motoneurons
+C0007634||cell
+C0428479||Smn levels
+C0026609||motoneurons
+C0162493||transcriptional activation
+C0919488||ETS family transcription factor Etv5b
+C0040649||smn transcription
+C0026609||motoneurons
+C1571507||Smn protein
+C0026609||motoneurons
+C1160337||axonogenesis
+C0007613||cell-autonomous manner
+C0587081||findings
+C0026609||motoneurons
+C1571507||Smn
+C0012655||vulnerability
+C0026847||SMA conditions

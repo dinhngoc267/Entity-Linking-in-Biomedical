@@ -1,0 +1,54 @@
+C0087111||Treatment
+C0242379||Lung Cancer
+C0011109||Decision-making
+C0242379||lung cancer
+C0087111||treatment
+C0031831||provider
+C2603343||study
+C0518609||considerations
+C0242379||lung cancer
+C0087111||treatment
+C0681814||conjoint preference experiment
+C0282122||respondents
+C0011900||diagnosed
+C0242379||lung cancer
+C0282122||Respondents
+C0087111||procedures
+C0087111||treatment
+C0087111||treatment
+C0009566||complications
+C0031831||provider
+C0087111||treatment
+C0681814||Conjoint analysis
+C1706817||responses
+C0936012||analyzed
+C0282122||Respondents
+C4048276||invasive operations
+C0087111||treatment
+C0242379||lung cancer
+C3896609||stereotactic body radiation therapy
+C3896609||stereotactic body radiation therapy
+C0039991||thoracotomy
+C0087111||Treatment
+C0681814||conjoint experiment
+C0031831||provider
+C0009566||complications
+C0087111||treatment
+C0087111||Procedural
+C0087111||treatment
+C2700446||self-reported
+C0600269||familiarity
+C0087111||procedures
+C0038951||Survey
+C0282122||respondents
+C4048276||invasive operations
+C3896609||stereotactic body radiation therapy
+C0039991||thoracotomy
+C0087111||treatment
+C0007131||non-small cell lung cancer
+C0087111||Treatment
+C0087111||treatment
+C0031831||Provider
+C0596545||experience
+C0242379||lung cancer
+C0087111||treatment

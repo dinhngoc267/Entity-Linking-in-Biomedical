@@ -1,0 +1,32 @@
+C0026882||Recurrent noncoding regulatory mutations
+C1335302||pancreatic ductal adenocarcinoma
+C0026882||coding mutations
+C0007621||tumorigenesis
+C0544886||somatic alterations
+C0021920||noncoding DNA
+C0544886||somatic noncoding alterations
+C1335302||pancreatic ductal adenocarcinomas
+C1335302||pancreatic ductal adenocarcinomas
+C0004793||mutated regulatory regions
+C0026882||recurrent noncoding mutations
+C1335302||PDA
+C1704259||pathways
+C2984268||axon guidance
+C0007577||cell adhesion
+C0040649||transcription
+C0017347||homeobox genes
+C0026882||mutations
+C1514535||protein binding sites
+C0017262||expression
+C0205107||proximal
+C0017337||genes
+C0026882||mutations
+C0017262||expression
+C0017263||gene regulation
+C0017362||regulatory elements
+C0017362||elements
+C0022885||single-cancer analysis
+C0026882||noncoding alterations
+C0026882||regulatory mutations
+C1511876||diagnostic
+C0007621||tumor evolution

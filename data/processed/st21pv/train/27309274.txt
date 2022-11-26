@@ -1,0 +1,33 @@
+C0243095||Antiadipogenic Activity
+C0061081||γ-Oryzanol
+C0035567||Rice
+C0061081||γ-Oryzanol
+C0035567||rice
+C1285391||obesity-associated metabolic disorders
+C0243095||Antiadipogenic activities
+C0061081||γ-oryzanol
+C0086418||human
+C0001527||adipose
+C1257975||mesenchymal stem cells
+C1522424||mouse
+C1257743||3T3-L1 cells
+C0061081||γ-Oryzanol
+C3810056||lipid accumulation
+C1151278||glycerol-3-phosphate dehydrogenase activities
+C0206131||adipocytes
+C0061081||γ-oryzanol
+C0035567||rice
+C0035567||black with giant embryo
+C0452710||brown
+C0035567||sugary brown
+C0452711||red
+C0043328||lutein
+C0053396||β-carotene
+C0061081||γ-oryzanol
+C0035567||rice
+C0061081||γ-oryzanol
+C0243095||antiadipogenic activity
+C1159884||adipocyte differentiations
+C0035567||rice
+C0035567||rice
+C0028754||obesity

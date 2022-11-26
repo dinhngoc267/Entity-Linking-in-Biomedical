@@ -1,0 +1,49 @@
+C0004398||Post-Mortem
+C1517514||Genetic Testing
+C2721586||Sudden Arrhythmic Death Syndrome
+C2721586||Sudden arrhythmic death syndrome
+C2721586||Sudden arrhythmic death syndrome
+C0011071||sudden death
+C0004398||autopsy
+C0936012||analysis
+C0019247||Cardiac genetic disease
+C2603343||study
+C0004398||post-mortem
+C1517514||genetic testing
+C0004398||molecular autopsy
+C2721586||Sudden arrhythmic death syndrome
+C4084924||clinical evaluation
+C0220825||evaluated
+C2721586||Sudden arrhythmic death syndrome
+C0012854||DNA
+C1294197||sequencing
+C0017337||primary electrical disorder
+C0017337||cardiomyopathy genes
+C3816499||Pathogenic
+C1708333||American College of Medical Genetics
+C1708333||American College of Medical Genetics
+C0162791||consensus guidelines
+C0004398||molecular autopsy
+C4084924||clinical evaluation
+C0220825||evaluated
+C2350277||gene-level rare variant association analysis
+C2721586||Sudden arrhythmic death syndrome
+C3816499||pathogenic
+C4053736||catecholaminergic polymorphic ventricular tachycardia
+C0023976||long QT syndrome
+C2350277||Gene-based rare variants association analysis
+C1419779||RYR2
+C0004398||molecular autopsy
+C4084924||clinical evaluation
+C0004398||Molecular autopsy
+C0017337||electrical disorder
+C0017337||cardiomyopathy genes
+C1708333||American College of Medical Genetics
+C0162791||guidelines
+C0008902||variant classification
+C2721586||Sudden arrhythmic death syndrome
+C4053736||catecholaminergic polymorphic ventricular tachycardia
+C0023976||long QT syndrome
+C1419779||RYR2 gene
+C0017337||genes
+C4084924||clinical

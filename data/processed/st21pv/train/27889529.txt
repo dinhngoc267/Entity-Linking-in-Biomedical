@@ -1,0 +1,54 @@
+C0243095||Antiviral activities
+C0003374||antimalarials
+C0318759||dengue virus type 2
+C0318793||Zika virus
+C2603343||study,
+C0003374||antimalarial compounds
+C0002641||amodiaquine
+C0002641||amodiaquine
+C0243072||derivatives
+C0243095||anti-dengue viral (DENV) activity
+C0318759||DENV2
+C1450145||Renilla luciferase
+C0206414||reporter
+C0035142||replicon
+C0017262||expressing
+C0007634||BHK-21 cells
+C1514628||qRT-PCR assays
+C2603343||study
+C0600115||molecular modeling
+C1254351||compounds
+C0243095||antiviral activity
+C1254351||compounds
+C1254351||compounds
+C0023866||literature
+C1254351||compounds
+C0034403||Quinacrine
+C0034403||Quinacrine
+C0025153||Mefloquine
+C0025153||Mefloquine
+C3884469||GSK369796
+C0243095||antiviral activities
+C1254351||three compounds
+C0243095||anti-DENV activity
+C0318759||DENV2
+C0035142||replicon
+C0017262||expressing
+C0007634||cells
+C0034403||Quinacrine
+C0025153||Mefloquine
+C3884469||GSK369796
+C0034403||Quinacrine
+C0025153||Mefloquine
+C3884469||GSK369796
+C1254351||compounds
+C0004391||autophagy
+C0318759||DENV2
+C0042774||replication
+C1254351||compounds
+C0243095||antiviral activity
+C0318793||Zika virus
+C0318793||Zika virus
+C0034403||Quinacrine
+C0025153||Mefloquine
+C3884469||GSK369796

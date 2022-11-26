@@ -1,0 +1,63 @@
+C1671055||Mimiviruses
+C0086418||Human
+C3652465||Interferon
+C0020962||System
+C1154492||Viral Evasion
+C1155328||Antiviral Activities
+C0015980||Interferon-β
+C1327622||Regulated
+C1963758||Immunomodulatory
+C0282443||review
+C1671055||mimiviruses
+C0086418||human
+C0015219||evolutionary
+C1155328||antiviral
+C0005525||immunomodulatory
+C0015980||interferon-β
+C0015980||interferon-β
+C3253749||immune-responsive gene 1
+C3253749||immune-responsive gene 1
+C0064110||itaconic acid
+C1644952||Acanthamoeba polyphaga Mimivirus
+C1644952||Acanthamoeba polyphaga Mimivirus
+C0002642||amoebae
+C0019994||hospital
+C0032285||pneumonia
+C1671055||Mimivirus
+C0205124||putative
+C0086418||human
+C2603343||study
+C1644952||Acanthamoeba polyphaga Mimivirus
+C0086418||human
+C0007634||cells
+C1752856||interaction
+C1671055||virus
+C1654934||evade
+C0021747||IFN
+C0020962||system
+C0017263||regulation
+C3652465||interferon
+C0017337||genes
+C1671055||virus
+C0086418||humans
+C1752856||host-pathogen interactions
+C1671055||virus
+C2937361||IFN-α2
+C0015980||interferon-β
+C0007634||cells
+C0015980||interferon-β
+C1155328||antiviral
+C1706852||published articles
+C0015980||interferon-β
+C0041904||upregulates
+C3253749||IRG1 in human
+C0024432||macrophagic cells
+C0064110||itaconic acid
+C0870883||metabolite
+C0025519||metabolism
+C1155328||antiviral activity
+C1671055||virus
+C1963758||immunomodulatory
+C1644952||Acanthamoeba polyphaga Mimivirus
+C3714514||infections
+C0009450||infectious diseases

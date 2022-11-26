@@ -1,0 +1,75 @@
+C2718022||Comparative Effectiveness
+C0087111||Treatments
+C0457949||Chronic Low Back Pain
+C4277638||Multiple Treatment Comparison Analysis
+C1955832||systematic review
+C4277638||network meta-analysis
+C2827774||current treatment options
+C0457949||chronic low back pain
+C0457949||low back pain
+C0206035||randomized controlled trials
+C0206035||randomized controlled trials
+C0087111||treatments
+C4277638||mixed-treatment comparison
+C4277638||mixed-treatment comparison
+C0220825||assessment
+C0683525||treatment options
+C0457949||low back pain
+C0035168||systematic search
+C0206035||randomized controlled trials
+C0025141||MEDLINE
+C0023621||Cochrane Collaboration Library
+C2603343||selected studies
+C2960603||ODI
+C2081627||additional surgeries
+C0009566||complications
+C4277638||Standard and network meta-analytic techniques
+C0206035||randomized controlled trials
+C0936012||analysis
+C2144940||total disk replacement
+C2144940||total disk replacement
+C0186045||fusion
+C2144940||total disk replacement
+C1522704||exercise
+C0009244||cognitive behavioral therapy
+C0009244||cognitive behavioral therapy
+C0186045||fusion
+C1522704||exercise
+C0009244||cognitive behavioral therapy
+C0186045||fusion
+C0949766||physical therapy
+C0949766||physical therapy
+C4277638||mixed-treatment comparison
+C2960603||ODI change scores
+C0186045||fusion
+C1522704||exercise
+C0009244||cognitive behavioral therapy
+C2144940||total disk replacement
+C1522704||exercise
+C0009244||cognitive behavioral therapy
+C0186045||fusion
+C0949766||physical therapy
+C2144940||total disk replacement
+C0186045||fusion
+C0949766||physical therapy
+C1522704||structured exercise
+C0009244||cognitive behavioral therapy
+C1522704||exercise
+C0009244||cognitive behavioral therapy
+C0949766||physical therapy
+C2144940||total disk replacement
+C0949766||physical therapy
+C2144940||total disk replacement
+C0949766||physical therapy
+C0683525||treatment options
+C0087111||treatments
+C0457949||chronic LBP
+C4277638||MTC analysis
+C2144940||total disk replacement
+C0087111||treatment
+C0949766||physical therapy
+C0087111||treatment
+C0457949||chronic LBP
+C0282443||review
+C0206035||RCT studies
+C0087111||treatment

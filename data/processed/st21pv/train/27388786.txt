@@ -1,0 +1,36 @@
+C0205091||left
+C0013010||lateralization
+C1257890||signers
+C0027763||neural systems
+C0037817||speech
+C0025361||processing
+C2603343||fTCD study
+C0025361||hearing
+C1257890||signers
+C0205091||left
+C0013010||lateralization
+C0037817||speech
+C0013010||lateralization
+C0018563||hand
+C0026649||movement
+C0025361||processes
+C0205139||hemispheric
+C0013010||lateralization
+C0025361||production
+C0013010||lateralization
+C0025361||hearing
+C1257890||signers
+C1257890||signers
+C1257890||Signers
+C0205091||left
+C0013010||lateralized
+C0013010||lateralization
+C0026649||movements
+C0230370||right hand
+C0025361||hearing
+C1257890||speakers
+C0037817||speech
+C0205091||left
+C0013010||lateralization
+C0025361||production
+C0679058||phonological encoding

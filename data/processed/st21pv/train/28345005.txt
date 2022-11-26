@@ -1,0 +1,40 @@
+C0598391||Chronic Enzyme Replacement
+C0006104||Brain
+C0022340||Late Infantile Neuronal Ceroid Lipofuscinosis
+C0025929||Mouse
+C0012634||Disease
+C0022340||Late infantile neuronal ceroid lipofuscinosis
+C0022340||Late infantile neuronal ceroid lipofuscinosis
+C0524851||neurodegenerative disease
+C1430948||lysosomal protease tripeptidyl peptidase 1
+C1430948||tripeptidyl peptidase 1
+C0598391||enzyme replacement therapy
+C0598391||enzyme replacement therapy
+C0006104||brain
+C0022340||Late infantile neuronal ceroid lipofuscinosis
+C2986594||mouse model
+C0234130||locomotor function
+C1836407||early death
+C0012634||disease
+C0003062||animals
+C0521654||locomotor dysfunction
+C0011065||died
+C0007806||cerebrospinal fluid
+C0007806||cerebrospinal fluid
+C1530775||tripeptidyl peptidase 1
+C1273723||brain regions
+C0543482||Morphological
+C2603343||studies
+C1530775||tripeptidyl peptidase 1
+C1273723||ventral
+C1273723||dorsal regions
+C0022340||Late infantile neuronal ceroid lipofuscinosis
+C0025929||mice
+C0599755||cohort
+C0234130||locomotor function
+C0003062||animals
+C0003062||animals
+C0011065||die
+C0677042||pathology
+C0022340||Late infantile neuronal ceroid lipofuscinosis
+C2754100||neuronal death

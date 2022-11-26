@@ -1,0 +1,64 @@
+C0080233||Molar loss
+C0301569||powder diet
+C0233794||memory deficit
+C1515670||mRNA expression
+C0107103||brain-derived neurotrophic factor
+C0019564||hippocampus
+C0025929||mice
+C0080233||tooth loss
+C0035648||risk factor
+C0002395||Alzheimer's disease
+C0301569||soft diet
+C0233794||memory impairment
+C0107103||brain-derived neurotrophic factor
+C0107103||brain-derived neurotrophic factor
+C0080233||tooth loss
+C0301569||soft diet
+C0599779||animal model
+C1332408||brain-derived neurotrophic factor
+C0017262||expression
+C0002395||Alzheimer's disease
+C0080233||tooth loss
+C0301569||soft diet
+C0080233||molar loss
+C0301569||powder diet
+C0025260||memory ability
+C0017262||expression
+C1332408||BDNF mRNA
+C0019564||hippocampus
+C0025929||C57BL/6J mice
+C0025929||C57BL/6J mice
+C0034656||randomly
+C0927248||upper molar teeth
+C0012155||Solid diet
+C0040440||Extracted
+C0927248||upper molar teeth
+C0012155||Solid diet
+C0927248||upper molar teeth
+C0301569||Powder diet
+C0927248||upper molar teeth
+C0301569||Powder diet
+C0936012||analyze
+C0025260||memory ability
+C1332408||BDNF-related mRNA
+C0019564||hippocampus
+C0936012||analyzed
+C1709846||real-time polymerase chain reaction
+C1709846||real-time polymerase chain reaction
+C0022885||memory test
+C0006104||brains
+C0936012||analyze
+C0025260||memory function
+C1332408||BDNF mRNA
+C0233794||memory impairment
+C1332408||BDNF mRNA
+C0301569||powder diet
+C0025260||memory function
+C1332408||BDNF mRNA
+C0080233||molar loss
+C0301569||powder diet
+C0025260||memory function
+C1332408||BDNF mRNA
+C0080233||molar loss
+C0025260||memory ability
+C0301569||powder diet

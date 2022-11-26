@@ -1,0 +1,29 @@
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C1171362||expression
+C0086418||human
+C0006826||cancer
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C4054536||membranous nephropathy
+C0751408||suffering
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C1514241||positive
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C0041361||tumor antigen
+C2316370||tissue spots
+C1276705||tumor entities
+C0021044||immunohistochemistry
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C1171362||expression
+C0027651||different neoplasias
+C0449778||staining patterns
+C0243095||gain and loss
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C1171362||expression
+C1171362||expression status
+C0040300||non-tumor tissue
+C0041365||tumor-specific markers
+C1276705||tumor entities
+C2745341||Thrombospondin Type-1 Domain containing 7A
+C1850355||tumor development
+C4087167||therapy

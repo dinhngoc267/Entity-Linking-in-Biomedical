@@ -1,0 +1,79 @@
+C0033684||Us3
+C2001544||Us9
+C0033684||proteins
+C1336515||stromal invasion
+C0021335||bovine herpesvirus 1
+C0751974||respiratory mucosa
+C0009763||conjunctivitis
+C0458578||upper respiratory tract
+C0033213||problems
+C0032285||pneumonia
+C0178829||genital disorders
+C0156543||abortion
+C0021335||Bovine herpesvirus 1
+C0332461||plaque
+C3203359||breaching
+C0004799||basement membrane
+C0004799||(BM)
+C0751974||respiratory mucosa
+C0021335||Bovine herpesvirus 1
+C0033684||Us3
+C0072402||serine/threonine kinase
+C1511632||cytoskeletal reorganization
+C0021335||Bovine herpesvirus 1
+C2001544||Us9
+C0025252||tail-anchored membrane protein
+C0004462||axonal transport
+C0042776||viruses
+C0027882||neurons
+C2603343||study
+C0033684||Us3
+C2001544||Us9
+C0751974||respiratory mucosa
+C0021335||Bovine herpesvirus 1
+C0017337||Us3
+C0042776||null
+C0017337||Us9
+C0042776||null
+C0042776||revertant viruses
+C0936012||analysed
+C0042774||viral replication
+C0332461||plaque
+C0456389||size
+C0598829||Madin-Darby bovine kidney
+C0598829||Madin-Darby bovine kidney
+C0598829||cells
+C0751974||respiratory mucosa
+C1656555||viral penetration
+C0004799||basement membrane
+C0751974||respiratory mucosa
+C2987620||inoculated
+C0085391||recombinant viruses
+C1522225||Knockout
+C0017337||Us3
+C0332461||plaque
+C0456389||size
+C0598829||MDBK cells
+C0225584||trachea mucosa
+C1513916||no
+C1160712||cell-to-cell spread
+C0021335||Bovine herpesvirus 1
+C0017337||Us9
+C0042776||null virus
+C0021335||Bovine herpesvirus 1
+C0017337||Us3
+C0042776||null
+C0017337||Us9
+C0042776||null viruses
+C0332461||plaque
+C0004799||basement membrane
+C0035168||findings
+C0017337||Us3
+C0017337||Us9
+C1336515||invasion
+C0021335||Bovine herpesvirus 1
+C0004799||basement membrane
+C0751974||respiratory mucosa
+C0035168||research
+C0042776||viruses
+C0042210||vaccines

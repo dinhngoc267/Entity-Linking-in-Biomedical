@@ -1,0 +1,29 @@
+C0272282||Cyclic thrombocytopenia
+C0025329||menstrual cycle
+C0040034||thrombocytopenia
+C0836924||thrombocytosis
+C0043210||woman
+C0184666||admitted
+C0019994||hospital
+C0034150||purpura
+C0278454||extremities
+C0040034||thrombocytopenia
+C0032950||Prednisolone
+C0032950||Prednisolone
+C0011900||diagnosis
+C0398650||idiopathic thrombocytopenic purpura
+C0398650||idiopathic thrombocytopenic purpura
+C0032181||platelet count
+C0025329||menstrual cycle
+C1444662||discontinued
+C0032950||Prednisolone
+C0272282||cyclic thrombocytopenia
+C0272282||cyclic thrombocytopenia
+C0011900||diagnosed
+C0272282||cyclic thrombocytopenia
+C0678236||rare disease
+C0398650||idiopathic thrombocytopenic purpura
+C4282382||no response
+C0272282||cyclic thrombocytopenia
+C0087130||uncertain
+C0032181||platelet count

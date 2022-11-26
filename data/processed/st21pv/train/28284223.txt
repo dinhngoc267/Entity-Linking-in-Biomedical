@@ -1,0 +1,61 @@
+C0221085||Taenia saginata
+C1706526||Cestoda
+C0322145||Cyclophyllidea
+C0023034||Lao People's Democratic Republic
+C0017446||northeastern
+C0039725||Thailand
+C0012929||mitochondrial DNA
+C0221085||Taenia saginata
+C1706526||tapeworm
+C0007452||cattle
+C0936012||Analysis
+C0221085||T. saginata
+C0221085||T. saginata
+C0221085||T. saginata populations
+C0017446||regions
+C2700280||world
+C0023034||Lao PDR
+C0039725||Thailand
+C0012929||genetic diversity
+C0221085||T. saginata populations
+C0023034||Lao PDR
+C0017446||northeastern
+C0039725||Thailand
+C0162326||sequences
+C0221085||T. saginata
+C0454664||countries
+C0598211||GenBank
+C1537985||Mitochondrial cox1
+C0162802||sequence analysis
+C0221085||T. saginata
+C0023034||Lao PDR
+C0017446||northeastern
+C0039725||Thailand
+C0162326||sequences
+C1519068||Phylogenetic tree
+C0242481||haplotype network analyses
+C0221085||T. saginata
+C0221085||Taenia saginata
+C0023034||Lao PDR
+C0017446||northeastern
+C0039725||Thailand
+C0221085||Taenia saginata
+C0017446||western
+C0039725||Thailand
+C0684063||populations
+C0017446||northeast
+C0017446||western
+C0039725||Thailand
+C0221085||Taenia saginata
+C0023034||Lao PDR
+C0039725||Thailand
+C0917892||genetic differentiation
+C0221085||Taenia saginata populations
+C0023034||Lao PDR
+C0017446||northeastern
+C0039725||Thailand
+C0684063||population
+C0017446||western
+C0039725||Thailand
+C0221085||T. saginata
+C0003983||Southeast Asia

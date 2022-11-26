@@ -1,0 +1,73 @@
+C0026724||Mucosal
+C1292066||IgM Antibody
+C0024742||d-Mannose
+C0949586||Fugu Takifugu rubripes
+C0322374||Monogenean
+C0030498||Parasite
+C1499594||Heterobothrium okamotoi
+C1658611||Host Recognition
+C0030498||parasites
+C0524637||recognize
+C0524637||recognition
+C2752522||host surfaces
+C0016163||Fish
+C0562634||ectoparasites
+C1320656||initial contact
+C1123023||skin
+C0017558||gills
+C0026724||mucosa
+C0699819||mammalian guts
+C0016163||Fish
+C0042567||primitive vertebrates
+C0020962||immune systems
+C0024660||mammals
+C0036536||secrete
+C0020861||IgM
+C0026727||mucus
+C0322374||monogenean
+C0030498||parasite
+C1499594||Heterobothrium okamotoi
+C0020861||IgM
+C0949586||fugu Takifugu rubripes Oncomiracidia
+C0686891||infective larvae
+C1499594||H. okamotoi
+C0008778||cilia
+C0025558||metamorphose
+C0024742||d-mannose
+C0949586||fugu
+C0026727||mucus
+C4049918||liquid chromatography-tandem mass spectrometry analysis
+C0033684||proteins
+C0024742||d-mannose
+C0020861||IgM
+C0024742||d-mannose
+C0023206||lectins
+C0031843||deciliation
+C0020861||IgM
+C0024742||d-mannose
+C0003241||Ab
+C0949586||fugu
+C0020861||IgM
+C0023206||lectins
+C0020861||IgM
+C0024742||d-mannose
+C0031843||deciliation
+C1318793||immunofluorescent staining experiments
+C0949586||fugu
+C0024742||d-mannose
+C0020861||IgM
+C1179149||ciliated epidermal cells
+C0949586||oncomiracidium
+C0031843||deciliation
+C0949586||fugu
+C0020861||IgM
+C0003339||cell surface Ags
+C0221114||Ag binding sites
+C0024742||d-mannose
+C0020861||IgM
+C0026727||gill mucus
+C0031843||deciliation
+C1499594||H. okamotoi parasites
+C0003241||Abs
+C4289767||colonize
+C0017558||gills
