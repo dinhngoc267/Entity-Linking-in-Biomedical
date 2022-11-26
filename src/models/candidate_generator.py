@@ -4,14 +4,23 @@ nltk.download('stopwords')
 import math
 import glob
 import os
+import logging
 import argparse
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 from nltk.corpus import stopwords
 from tqdm import tqdm 
 
+LOGGER = logging.getLogger()
+LOGGER.setLevel(logging.INFO)
+LOGGER.setLevel(logging.INFO)
+fmt = logging.Formatter('%(asctime)s: [ %(message)s ]',
+                        '%m/%d/%Y %I:%M:%S %p')
+console = logging.StreamHandler()
+console.setFormatter(fmt)
+LOGGER.addHandler(console)
 
-class GenerateCandidateModel():
+class Candidate_Generator():
     def __init__(self, data_dir, dictionary_file, char_ngram_range = (2,5), max_features = 400000, metrix = "cosine"):
         """
         Params:
@@ -22,12 +31,14 @@ class GenerateCandidateModel():
         self.char_tfidf = TfidfVectorizer(analyzer='char',
                                     lowercase=True,
                                     ngram_range=char_ngram_range,
-                                    max_features=400000, 
+                                    max_features=200000, 
+                                    max_df=0.1,
                                     dtype=np.float32)
 
         self.word_tfidf = TfidfVectorizer(analyzer='word', 
                                      lowercase =True, 
-                                     ngram_range=(1, 1), 
+                                     ngram_range=(1, 1),
+                                     max_features=200000, 
                                      dtype=np.float32, 
                                      stop_words = stopwords.words('english'), 
                                      token_pattern='[a-zA-Z0-9_]{1,}')
@@ -40,7 +51,7 @@ class GenerateCandidateModel():
         # load mentions
         data_files = glob.glob(os.path.join(data_dir, "*.txt"))
 
-        for file in data_files:
+        for file in tqdm(data_files):
             with open(file, "r") as f:
                 lines = f.read().split('\n')
                 
@@ -54,7 +65,7 @@ class GenerateCandidateModel():
         with open(dictionary_file, "r") as f:
             lines = f.read().split('\n')
             
-            for line in lines:
+            for line in tqdm(lines):
                 names = line.split('||')[2].split('|')
                 cui = line.split('||')[0]
                 entities.extend(names)
@@ -69,11 +80,12 @@ class GenerateCandidateModel():
         self.fit(corpus)
         
     def fit(self, corpus):
+        LOGGER.info('Training generator...')
         self.char_tfidf.fit(corpus)
         self.word_tfidf.fit(corpus)
-    
+        LOGGER.info('Finish training.')
 
-    def generate_candidates(self, output_file_path, top_k = 128, batch_size = 128):
+    def generate_candidates(self, output_dir, top_k = 128, batch_size = 128):
         """
         Return indices of top k candiates in corpus 
         """   
@@ -111,7 +123,7 @@ class GenerateCandidateModel():
                     candidates[self.mentions[count]] += list(set(list_cui_candidates))   
                     count += 1       
 
-        with open(output_file_path, 'w') as f:
+        with open(os.join(output_dir, "candidates.txt"), 'w') as f:
             data = []
             for mention, list_candidates in candidates.items():
                 data.append(mention + '||' + ' '.join(list_candidates))
@@ -123,24 +135,29 @@ class GenerateCandidateModel():
 
 def main(args):
 
+    data_dir = args.data_dir
+    dictionary_file = args.dictionary_file
+    output_dir = args.output_dir
 
-    pass
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    candidate_generator = Candidate_Generator(data_dir=data_dir, dictionary_file=dictionary_file)
+    candidates_dict = candidate_generator.generate_candidates(output_dir = output_dir)
+    
 
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_dir', type=str,
-                    default="./data/raw/ST21pv/corpus_pubtator.txt",
-                    help='path of corpus file')
-    parser.add_argument('--input_file', type=str,
-                    default="./data/raw/ST21pv/corpus_pubtator_pmids_trng.txt",
+                    default="./data/processed/st21pv/train",
+                    help='path of data directory')
+    parser.add_argument('--dictionary_file', type=str,
+                    default="./data/processed/umls/dictionary.txt",
                     help='path of input file (train/test)')                
     parser.add_argument('--output_dir', type=str,
-                    default="./data/processed/st21pv/train", 
+                    default="./models/candidates/s121pv/train", 
                     help='path of output directionary')
-    parser.add_argument('--ab3p_output_file', type=str,
-                    default="./data/externel/st21pv/ab3p_output.txt", 
-                    help='path of Ab3P output file')
 
     args = parser.parse_args()
     main(args)

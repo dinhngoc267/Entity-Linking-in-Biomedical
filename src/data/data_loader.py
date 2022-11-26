@@ -44,11 +44,11 @@ class MentionEntityAffinityDataset(Dataset):
 
     super().__init__()
 
-    self.data = []
+    self.context_data = []
     self.labels = []
 
-    # load data
-    files = glob.glob(os.path.join(data_dir, "*.txt"))
+    # load context data
+    files = glob.glob(os.path.join(data_dir, "*.context"))
 
     for file in tqdm(files):
         with open(file, "r") as f:
@@ -56,11 +56,10 @@ class MentionEntityAffinityDataset(Dataset):
 
         for sent in list_sents.split:
             sent_token_ids, mention_index, label = tokenize_sentence(sent.split('\n'), tokenizer)
-            self.data.append((sent_token_ids, mention_index))
+            self.context_data.append((sent_token_ids, mention_index))
             self.labels.append(label)
 
     # load dictionary
-    
     with open(dictionary_file, "r") as f:
       lines = f.read().split('\n')
       dictionary = {}
