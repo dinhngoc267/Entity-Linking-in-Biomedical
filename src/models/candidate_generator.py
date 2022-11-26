@@ -31,14 +31,14 @@ class Candidate_Generator():
         self.char_tfidf = TfidfVectorizer(analyzer='char',
                                     lowercase=True,
                                     ngram_range=char_ngram_range,
-                                    max_features=200000, 
+                                    max_features=400000, 
                                     max_df=0.1,
                                     dtype=np.float32)
 
         self.word_tfidf = TfidfVectorizer(analyzer='word', 
                                      lowercase =True, 
                                      ngram_range=(1, 1),
-                                     max_features=200000, 
+                                     max_features=400000, 
                                      dtype=np.float32, 
                                      stop_words = stopwords.words('english'), 
                                      token_pattern='[a-zA-Z0-9_]{1,}')
@@ -57,7 +57,7 @@ class Candidate_Generator():
                 
                 for line in lines:
                     cui = line.split('||')[0]
-                    name = line.split('||')[1]
+                    name = line.split('||')[1].lower()
                     mentions.append(name)
                     mention_cuis.append(cui)
 
@@ -67,6 +67,7 @@ class Candidate_Generator():
             
             for line in tqdm(lines):
                 names = line.split('||')[2].split('|')
+                names = list(set([x.lower() for x in names]))
                 cui = line.split('||')[0]
                 entities.extend(names)
                 entity_cuis += len(names)*[cui]
@@ -123,13 +124,6 @@ class Candidate_Generator():
                     candidates[self.mentions[count]] += list(set(list_cui_candidates))   
                     count += 1       
 
-        with open(os.join(output_dir, "candidates.txt"), 'w') as f:
-            data = []
-            for mention, list_candidates in candidates.items():
-                data.append(mention + '||' + ' '.join(list_candidates))
-
-            f.write('\n'.join(data))
-
         return candidates
 
 
@@ -145,6 +139,12 @@ def main(args):
     candidate_generator = Candidate_Generator(data_dir=data_dir, dictionary_file=dictionary_file)
     candidates_dict = candidate_generator.generate_candidates(output_dir = output_dir)
     
+    with open(os.join(output_dir, "candidates.txt"), 'w') as f:
+        data = []
+        for mention, list_candidates in candidates_dict.items():
+            data.append(mention + '||' + ' '.join(list(set(list_candidates))))
+
+        f.write('\n'.join(data))
 
 if __name__ == "__main__":
 
