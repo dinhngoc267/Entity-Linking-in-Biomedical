@@ -2,9 +2,12 @@ import torch
 import numpy as np
 import glob
 import os
+import random
 from tqdm import tqdm
+from collections import defaultdict
 from torch.utils.data import Dataset, DataLoader
-
+import argparse
+from transformers import BertTokenizer
 
 def tokenize_sentence(sentence, tokenizer):
     sentence_tokens = []
@@ -36,50 +39,78 @@ def tokenize_sentence(sentence, tokenizer):
         sentence_tokens += ['[END]']
     sentence_tokens = tokenizer.convert_tokens_to_ids(sentence_tokens)
 
-    return sentence_tokens, [start, end], label
+    return sentence_tokens, [start, end]
 
 
 class MentionEntityAffinityDataset(Dataset):
-  def __init__(self, candidate_generator_model, data_dir, dictionary_file, tokenizer, max_len=256):
+  def __init__(self, data_dir, dictionary_file, candidate_file, tokenizer, max_len=256):
 
     super().__init__()
 
     self.context_data = []
+    self.mentions = []
     self.labels = []
+    self.dictionary = {}
+    self.candidates_dict = {}
+    self.pairs = []
 
     # load context data
     files = glob.glob(os.path.join(data_dir, "*.context"))
 
-    for file in tqdm(files):
-        with open(file, "r") as f:
+    for file_name in tqdm(files):
+        with open(file_name, "r") as f:
             list_sents = f.read().split('\n\n')
-
-        for sent in list_sents.split:
-            sent_token_ids, mention_index, label = tokenize_sentence(sent.split('\n'), tokenizer)
+            list_sents = list_sents[:-1]
+        for sent in list_sents:
+            sent_token_ids, mention_index = tokenize_sentence(sent.lower().split('\n'), tokenizer)
             self.context_data.append((sent_token_ids, mention_index))
-            self.labels.append(label)
 
+        mention_file = '.' +file_name.split('.')[1] + '.txt'
+        with open(mention_file, "r") as f:
+          lines = f.read().split('\n')
+          for line in lines: 
+            line = line.split('||')
+            self.mentions.append(line[1].lower())
+            self.labels.append(line[0])
+          
+ 
     # load dictionary
     with open(dictionary_file, "r") as f:
       lines = f.read().split('\n')
-      dictionary = {}
-
+      
       for line in lines:
         line = line.split('||')
         id = line[0]
         description = line[1]
+        self.dictionary[id] = description 
 
-        dictionary[id] = description 
+    # load candidates
+    with open(candidate_file, "r") as f:
+      lines = f.read().split('\n')
+      for line in lines:
+        line = line.split('||')
+        self.candidates_dict[line[0]] = line[1].split(' ')
+
 
     # create list pair of index for training 
-
-    # anchor_negative
     anchor_negative_pairs = []
-    for i in range(len(self.data)):
+    for i in range(len(self.mentions)):
+      hardest_negative_cuis = [cui for cui in self.candidates_dict[self.mentions[i].lower()] if cui != self.labels[i]] 
+      for cui in hardest_negative_cuis:
+        anchor_negative_pairs.append((0, i, cui))
 
-
+    anchor_positive_pairs = []
+    for i in range(len(self.mentions)):
+      anchor_positive_pairs.append((1, i, self.labels[i]))
+    
+    self.pairs = anchor_negative_pairs + anchor_positive_pairs
+    random.shuffle(self.pairs)
 
     self.max_len = max_len
+
+  
+  def get_pair(self):
+    return self.pairs
 
 
   def __len__(self):
@@ -98,21 +129,23 @@ class MentionEntityAffinityDataset(Dataset):
                                                                         self.training_mention_pos,
                                                                         entity_description_tokens,
                                                                         self.max_len)
-    
-  
+
+
+
     return item, label
 
   @staticmethod
-  def generate_mention_entity_affinity_model_input(mention_index, 
-                                                   training_mention_tokens, 
-                                                   training_mention_pos, 
-                                                   entity_description_tokens, 
-                                                   max_len):
+  def generate_input(mention_index, 
+                     training_mention_tokens, 
+                     training_mention_pos, 
+                     entity_description_tokens, 
+                     max_len):
     """
-
+    
     """
     mention_tokens = training_mention_tokens[mention_index]
     [start_mention_token, end_mention_token] = training_mention_pos[mention_index]
+    
 
     if len(mention_tokens) > max_len//2 -2:
       # generate a random position to truncate the sentence:
@@ -140,280 +173,28 @@ class MentionEntityAffinityDataset(Dataset):
     
     return torch.tensor([input_ids, token_type_ids, attention_mask])
 
+def main(args):
+  data_dir = args.data_dir
+  dictionary_file = args.dictionary_file
+  candidate_file = args.candidate_file
 
+  tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True)
 
-class MentionMentionAffinityDataset(Dataset):
-  def __init__(self, training_mention_tokens,training_mention_pos, 
-              pair_indices, 
-              max_len=256):
+  MentionEntityAffinityDataset(data_dir=data_dir, dictionary_file=dictionary_file, candidate_file=candidate_file, tokenizer=tokenizer)
 
-    super().__init__()
+if __name__ == '__main__':
+  parser = argparse.ArgumentParser()
+  parser.add_argument('--data_dir', type=str,
+                      default="./data/processed/st21pv/train",
+                      help = 'directory of data')
+  parser.add_argument('--dictionary_file', type=str,
+                  default="./data/processed/umls/dictionary.txt",
+                  help='path of input file (train/test)')                
+  parser.add_argument('--candidate_file', type=str,
+                  default="./models/candidates/st21pv/train/candidates.txt", 
+                  help='path of candidates of data')
 
-    self.training_mention_tokens = training_mention_tokens
-    self.training_mention_pos = training_mention_pos
-    self.pair_indices = pair_indices
-    self.max_len = max_len
+  args = parser.parse_args()
 
-  def __len__(self):
-    return len(self.pair_indices)
-  
-  def __getitem__(self, idx):
-    pair = self.pair_indices[idx]
-    label = int(pair[0])
-
-    mention_idx = int(pair[1])
-    mention_cui = pair[2]
-    entity_description_tokens = self.all_entity_description_tokens_dict[mention_cui]
-
-    inputs = MentionMentionAffinityDataset.generate_mention_mention_affinity_model_input(mention_idx,
-                                                                        self.training_mention_tokens, 
-                                                                        self.training_mention_pos,
-                                                                        mention_cui,
-                                                                        entity_description_tokens,
-                                                                        self.max_len)
-  
-    return inputs, label
-
-  @staticmethod
-  def generate_mention_mention_affinity_model_input(index_a, index_b, 
-                                                    training_mention_tokens,
-                                                    training_mention_pos,
-                                                    max_len):
-
-    mention_tokens_a = training_mention_tokens[index_a]
-    mention_tokens_b = training_mention_tokens[index_b]
-    [start_mention_token_a, end_mention_token_a] = training_mention_pos[index_a]
-    [start_mention_token_b, end_mention_token_b] = training_mention_pos[index_b]
-   
-
-    if len(mention_tokens_a) > max_len//2 - 2:
-      # generate a random position to truncate the sentence:
-      rand_num = np.random.randint(start_mention_token_a-60, start_mention_token_a)
-      if start_mention_token_a == 0 or rand_num <0:
-        rand_num = 0
-      mention_tokens_a = mention_tokens_a[rand_num:rand_num+max_len//2-2]
-      start_mention_token_a -= rand_num
-      end_mention_token_a -= rand_num
-    
-    start_mention_token_a += 1
-    end_mention_token_a += 1
-
-    if len(mention_tokens_a) + len(mention_tokens_b) > max_len-1:
-      # generate a random position to truncate the sentence:
-      new_length = 255 - len(mention_tokens_a)
-      rand_num = np.random.randint(start_mention_token_b-60, start_mention_token_b)
-      if start_mention_token_b == 0 or rand_num <0:
-        rand_num = 0
-      mention_tokens_b = mention_tokens_b[rand_num:rand_num+new_length]
-
-      start_mention_token_b -= rand_num
-      end_mention_token_b -= rand_num
-
-    start_mention_token_b += 2 + len(mention_tokens_a)
-    end_mention_token_b += 2 + len(mention_tokens_a)
-
-    input_ids = [101] + mention_tokens_a + [102] + mention_tokens_b + [102]
-    input_len = len(input_ids)
-    
-    input_ids = input_ids[:256] + [0]*(256-input_len)
-    token_type_ids = [0]*(2+len(mention_tokens_a)) + [1]*(256 - len(mention_tokens_a) -2)
-    attention_mask = [1] * input_len + [0]*(256-input_len)
-    attention_mask = attention_mask[:256]
-
-    mention_mask_a = [0]*256
-    mention_mask_b = [0]*256
-    mention_mask_a[start_mention_token_a:end_mention_token_a] = [1]*(end_mention_token_a-start_mention_token_a)
-    mention_mask_b[start_mention_token_b:end_mention_token_b] = [1]*(end_mention_token_b-start_mention_token_b)
-    
-    
-    return torch.tensor([input_ids, token_type_ids, attention_mask]), torch.tensor(mention_mask_a, dtype=torch.float32), torch.tensor(mention_mask_b, dtype=torch.float32)
-
-
-
-
-class MentionEntityBatchSampler(object):
-  def __init__(self, model, device, training_mention_tokens, 
-               training_mention_pos,
-               pair_indices_labels, 
-               neg_pair_indices_dict,
-               entity_description_tokens_dict,
-               batch_size = 16,
-               max_len = 256,
-               top_k_neg = 1):
-    
-    """
-    Parameters:
-      training_mention_tokens: list of training token ids
-      pair_indices_labels: list of training indices  
-    """
-    super().__init__()
-
-    self.model = model
-    self.device = device
-    self.neg_indices_dict = neg_pair_indices_dict
-    self.max_len = max_len
-
-    self.training_mention_tokens = training_mention_tokens
-    self.training_mention_pos = training_mention_pos
-    self.pair_indices_labels = pair_indices_labels
-    self.entity_description_tokens_dict = entity_description_tokens_dict
-
-    self.batch_size = batch_size
-    self.top_k_neg = top_k_neg
-
-    self.len_pos_pairs = (self.pair_indices_labels[:,0] == '1').sum()
-    
-    # each positive pair correspond to top_k_neg pairs
-    self.num_pos_per_batch = self.batch_size//1
-    self.num_neg_per_pairs = self.batch_size 
-
-    # num of iterations:
-    self.num_iterations = self.len_pos_pairs//self.num_pos_per_batch
-
-  
-  def __iter__(self):
-    # get list of positive pair indices and negative pair indices from pair indices labels
-    all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == '1')[0]
-    start_pos_index = 0
-
-    for i in range(self.num_iterations):
-      batch_indices = [] 
-      pos_batch_indices = all_pos_pair_indices[start_pos_index:start_pos_index + self.num_pos_per_batch ]
-      start_pos_index += self.num_pos_per_batch
-      
-      with torch.no_grad():
-        neg_batch_indices = []
-        for i, pos_pair in enumerate(self.pair_indices_labels[pos_batch_indices]):
-          anchor_idx = int(pos_pair[1])
-          # get all candidate from pair_indices first
-          neg_candidates = np.array(self.neg_indices_dict[anchor_idx])
-
-          # narrow down to top-k
-          neg_candidates_pairs = self.pair_indices_labels[neg_candidates]
+  main(args)
           
-
-          input_tokens_buffer = []
-          for neg_pair in neg_candidates_pairs:
-            label = neg_pair[0]
-            mention_index = int(neg_pair[1])
-            mention_cui = neg_pair[2]
-            entity_description_tokens = self.entity_description_tokens_dict[mention_cui]
-
-            input_tokens= MentionEntityAffinityDataset.generate_mention_entity_affinity_model_input(mention_index, 
-                                                                                        self.training_mention_tokens,
-                                                                                        self.training_mention_pos,
-                                                                                        entity_description_tokens,
-                                                                                        self.max_len)
-
-            input_tokens_buffer.append(input_tokens)
-
-          input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
-          neg_affin = self.model(input_tokens_buffer)
-
-          top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=False, sorted=False)[1].cpu()
-          top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
-          neg_batch_indices.extend(top_k_neg)
-
-
-      batch_indices.extend(pos_batch_indices)
-      batch_indices.extend(neg_batch_indices)
-
-      yield batch_indices 
-  
-  def __len__(self):
-    return self.num_iterations
-
-class MentionMentionBatchSampler(object):
-  def __init__(self, model, device, 
-               training_mention_tokens, 
-               training_mention_pos,
-               pair_indices_labels, 
-               neg_pair_indices_dict,
-               batch_size = 16, 
-               max_len = 256, 
-               top_k_neg = 1):
-    
-    """
-    Parameters:
-      training_mention_tokens: list of training token ids
-      pair_indices_labels: list of training indices  
-    """
-    super().__init__()
-
-    self.model = model
-    self.device = device
-    self.neg_indices_dict = neg_pair_indices_dict
-    self.max_len = max_len
-
-    self.training_mention_tokens = training_mention_tokens
-    self.training_mention_pos = training_mention_pos
-    self.pair_indices_labels = pair_indices_labels
-
-    self.batch_size = batch_size
-    self.top_k_neg = top_k_neg
-
-    self.len_pos_pairs = (self.pair_indices_labels[:,0] == '1').sum()
-    
-    # each positive pair correspond to top_k_neg pairs
-    self.num_pos_per_batch = self.batch_size//1
-    self.num_neg_per_pairs = self.batch_size 
-
-    # num of iterations:
-    self.num_iterations = self.len_pos_pairs//self.num_pos_per_batch
-
-  
-  def __iter__(self):
-    # get list of positive pair indices and negative pair indices from pair indices labels
-    all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == 1)[0]
-    start_pos_index = 0
-
-    for i in range(self.num_iterations):
-      batch_indices = [] 
-      pos_batch_indices = all_pos_pair_indices[start_pos_index:start_pos_index + self.num_pos_per_batch ]
-      start_pos_index += self.num_pos_per_batch
-      
-      with torch.no_grad():
-        neg_batch_indices = []
-        for i, pos_pair in enumerate(self.pair_indices_labels[pos_batch_indices]):
-          anchor_idx = int(pos_pair[1])
-          # get all candidate from pair_indices first
-          neg_candidates = np.array(self.neg_indices_dict[anchor_idx])
-
-          # narrow down to top-k
-          neg_candidates_pairs = self.pair_indices_labels[neg_candidates]
-          
-          input_tokens_buffer = []
-          mention_mask_a_buffer = []
-          mention_mask_b_buffer = []
-
-          for neg_pair in neg_candidates_pairs:
-            label = neg_pair[0]
-            mention_a_idx = neg_pair[1]
-            mention_b_idx = neg_pair[2]
-            input_tokens, mention_mask_a, mention_mask_b = MentionMentionAffinityDataset.generate_mention_mention_affinity_model_input(mention_a_idx, mention_b_idx, 
-                                                                                                                                       self.training_mention_tokens, 
-                                                                                                                                       self.training_mention_pos, 
-                                                                                                                                       self.max_len)
-            
-            input_tokens_buffer.append(input_tokens)
-            mention_mask_a_buffer.append(mention_mask_a)
-            mention_mask_b_buffer.append(mention_mask_b)
-
-          input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
-          mention_mask_a_buffer = torch.stack(mention_mask_a_buffer).to(self.device)  
-          mention_mask_b_buffer = torch.stack(mention_mask_b_buffer).to(self.device) 
-          neg_affin = self.model(input_tokens_buffer, mention_mask_a_buffer, mention_mask_b_buffer)
-
-          top_k_neg = torch.topk(neg_affin, self.top_k_neg, dim=0, largest=False, sorted=False)[1].cpu()
-          top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
-          neg_batch_indices.extend(top_k_neg)
-
-
-      batch_indices.extend(pos_batch_indices)
-      batch_indices.extend(neg_batch_indices)
-
-      yield batch_indices 
-    
-  
-  def __len__(self):
-    return self.num_iterations

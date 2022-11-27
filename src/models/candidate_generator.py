@@ -21,7 +21,7 @@ console.setFormatter(fmt)
 LOGGER.addHandler(console)
 
 class Candidate_Generator():
-    def __init__(self, data_dir, dictionary_file, char_ngram_range = (2,5), max_features = 400000, metrix = "cosine"):
+    def __init__(self, data_dir, dictionary_file, char_ngram_range = (2,5), max_features = 400000):
         """
         Params:
             data_dir: directory of data files
@@ -31,14 +31,14 @@ class Candidate_Generator():
         self.char_tfidf = TfidfVectorizer(analyzer='char',
                                     lowercase=True,
                                     ngram_range=char_ngram_range,
-                                    max_features=400000, 
+                                    max_features=max_features, 
                                     max_df=0.1,
                                     dtype=np.float32)
 
         self.word_tfidf = TfidfVectorizer(analyzer='word', 
                                      lowercase =True, 
                                      ngram_range=(1, 1),
-                                     max_features=400000, 
+                                     max_features=max_features, 
                                      dtype=np.float32, 
                                      stop_words = stopwords.words('english'), 
                                      token_pattern='[a-zA-Z0-9_]{1,}')
