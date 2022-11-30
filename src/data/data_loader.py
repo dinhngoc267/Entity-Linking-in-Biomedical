@@ -8,12 +8,12 @@ from collections import defaultdict
 from torch.utils.data import Dataset, DataLoader
 import argparse
 from transformers import BertTokenizer
+from transformers import BertModel
 
 def tokenize_sentence(sentence, tokenizer):
     sentence_tokens = []
     start = None
     end = None
-    label = None
     flag = False
 
     for item in sentence:
@@ -21,12 +21,11 @@ def tokenize_sentence(sentence, tokenizer):
         word = splits[0]
         word_label = splits[1]
 
-        if 'B' in word_label:
+        if 'b' in word_label:
             sentence_tokens += ['[START]']
             start = len(sentence_tokens)
-            label = word_label.split(':')[1]
             flag = True
-        elif 'O' in word_label and flag == True:
+        elif 'o' in word_label and flag == True:
             end = len(sentence_tokens)
             sentence_tokens += ['[END]']
             flag = False   
@@ -42,15 +41,18 @@ def tokenize_sentence(sentence, tokenizer):
     return sentence_tokens, [start, end]
 
 
-class MentionEntityAffinityDataset(Dataset):
-  def __init__(self, data_dir, dictionary_file, candidate_file, tokenizer, max_len=256):
+class MentionEntityDataset(Dataset):
+  def __init__(self, data_dir, 
+               dictionary_file,
+               candidate_file, 
+               tokenizer, max_len=256, n_test= 100):
 
     super().__init__()
 
     self.context_data = []
     self.mentions = []
     self.labels = []
-    self.dictionary = {}
+    self.entity_description_dict = {}
     self.candidates_dict = {}
     self.pairs = []
 
@@ -65,13 +67,17 @@ class MentionEntityAffinityDataset(Dataset):
             sent_token_ids, mention_index = tokenize_sentence(sent.lower().split('\n'), tokenizer)
             self.context_data.append((sent_token_ids, mention_index))
 
-        mention_file = '.' +file_name.split('.')[1] + '.txt'
+        mention_file = os.path.join(data_dir, os.path.basename(file_name).replace(".context", ".txt"))
         with open(mention_file, "r") as f:
           lines = f.read().split('\n')
           for line in lines: 
             line = line.split('||')
             self.mentions.append(line[1].lower())
             self.labels.append(line[0])
+
+        n_test -= 1
+        if n_test == 0:
+          break
           
  
     # load dictionary
@@ -80,9 +86,9 @@ class MentionEntityAffinityDataset(Dataset):
       
       for line in lines:
         line = line.split('||')
-        id = line[0]
+        cui = line[0]
         description = line[1]
-        self.dictionary[id] = description 
+        self.entity_description_dict[cui] = description 
 
     # load candidates
     with open(candidate_file, "r") as f:
@@ -105,13 +111,8 @@ class MentionEntityAffinityDataset(Dataset):
     
     self.pairs = anchor_negative_pairs + anchor_positive_pairs
     random.shuffle(self.pairs)
-
+    
     self.max_len = max_len
-
-  
-  def get_pair(self):
-    return self.pairs
-
 
   def __len__(self):
     return len(self.pair_indices)
@@ -120,58 +121,157 @@ class MentionEntityAffinityDataset(Dataset):
     pair = self.pair_indices[idx]
     label = int(pair[0])
 
-    mention_idx = int(pair[1])
-    mention_cui = pair[2]
-    entity_description_tokens = self.all_entity_description_tokens_dict[mention_cui]
+    data_index = int(pair[1])
+    cui = pair[2]
+    entity_description_tokens = self.entity_description_dict[cui]
 
-    item = MentionEntityAffinityDataset.generate_mention_entity_affinity_model_input(mention_idx,
-                                                                        self.training_mention_tokens, 
-                                                                        self.training_mention_pos,
-                                                                        entity_description_tokens,
-                                                                        self.max_len)
+    item = MentionEntityDataset.generate_input(data_index,
+                                               self.context_data,
+                                               entity_description_tokens,
+                                               self.max_len)
 
 
 
     return item, label
 
   @staticmethod
-  def generate_input(mention_index, 
-                     training_mention_tokens, 
-                     training_mention_pos, 
-                     entity_description_tokens, 
-                     max_len):
+  def generate_input(data_index: int, 
+                     context_data: list, 
+                     entity_description_tokens: list, 
+                     max_len=256):
     """
     
     """
-    mention_tokens = training_mention_tokens[mention_index]
-    [start_mention_token, end_mention_token] = training_mention_pos[mention_index]
+    sentence_tokens,  [start_mention_token, end_mention_token]  = context_data[data_index]
+    #[start_mention_token, end_mention_token] = training_mention_pos[mention_index]
     
 
-    if len(mention_tokens) > max_len//2 -2:
+    if len(sentence_tokens) > max_len//2 -2:
       # generate a random position to truncate the sentence:
       rand_num = np.random.randint(start_mention_token - 60, start_mention_token)
       if start_mention_token == 0 or rand_num < 0:
         rand_num = 0
-      mention_tokens = mention_tokens[rand_num:rand_num+max_len//2-2]
+      sentence_tokens = sentence_tokens[rand_num:rand_num+max_len//2-2]
       start_mention_token -= rand_num
       end_mention_token -= rand_num
     
     start_mention_token += 1 # add cls token 
     end_mention_token += 1
 
-    if len(mention_tokens) + len(entity_description_tokens) > max_len-1:
-      new_length = max_len -1 - len(mention_tokens)
+    if len(sentence_tokens) + len(entity_description_tokens) > max_len-1:
+      new_length = max_len -1 - len(sentence_tokens)
       entity_description_tokens = entity_description_tokens[:new_length]
 
-    input_ids = [101] + mention_tokens + [102] + entity_description_tokens + [102]
+    input_ids = [101] + sentence_tokens + [102] + entity_description_tokens + [102]
     
     input_len = len(input_ids)
     input_ids = input_ids[:max_len] + [0]*(max_len-input_len)
-    token_type_ids = [0]*(2+len(mention_tokens)) + [1]*(max_len - len(mention_tokens) -2)
+    token_type_ids = [0]*(2+len(sentence_tokens)) + [1]*(max_len - len(sentence_tokens) -2)
     attention_mask = [1]*input_len + [0]*(max_len-input_len)
     attention_mask = attention_mask[:max_len]
     
     return torch.tensor([input_ids, token_type_ids, attention_mask])
+
+  def get_pairs(self):
+    return self.pairs
+
+  def get_context_data(self):
+    return self.context_data
+
+  def get_entity_description_dict(self):
+    return self.entity_description_dict
+
+class MentionEntityBatchSampler(object):
+  def __init__(self, model, device, 
+               context_data,
+               pair_indices_labels, 
+               neg_pair_indices_dict,
+               entity_description_tokens_dict,
+               batch_size = 16,
+               max_len = 256,
+               top_k_neg = 1):
+    
+    """
+    Parameters:
+      training_mention_tokens: list of training token ids
+      pair_indices_labels: list of training indices  
+    """
+    super().__init__()
+
+    self.model = model
+    self.device = device
+    self.max_len = max_len
+
+    self.context_data = context_data
+    self.pair_indices_labels = pair_indices_labels
+    self.entity_description_tokens_dict = entity_description_tokens_dict
+    self.neg_indices_dict = neg_pair_indices_dict
+
+
+    self.batch_size = batch_size
+    self.top_k_neg = top_k_neg
+
+    self.len_pos_pairs = (self.pair_indices_labels[:,0] == '1').sum()
+    
+    # each positive pair correspond to top_k_neg pairs
+    self.num_pos_per_batch = self.batch_size//1
+    self.num_neg_per_pairs = self.batch_size 
+
+    # num of iterations:
+    self.num_iterations = self.len_pos_pairs//self.num_pos_per_batch
+
+  
+  def __iter__(self):
+    # get list of positive pair indices and negative pair indices from pair indices labels
+    all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == '1')[0]
+    start_pos_index = 0
+
+    for i in range(self.num_iterations):
+      batch_indices = [] 
+      pos_batch_indices = all_pos_pair_indices[start_pos_index:start_pos_index + self.num_pos_per_batch ]
+      start_pos_index += self.num_pos_per_batch
+      
+      with torch.no_grad():
+        neg_batch_indices = []
+        for i, pos_pair in enumerate(self.pair_indices_labels[pos_batch_indices]):
+          anchor_idx = int(pos_pair[1])
+          # get all candidate from pair_indices first
+          neg_candidates = np.array(self.neg_indices_dict[anchor_idx])
+
+          # narrow down to top-k
+          neg_candidates_pairs = self.pair_indices_labels[neg_candidates]
+          
+          input_tokens_buffer = []
+          for neg_pair in neg_candidates_pairs:
+            #label = neg_pair[0]
+            data_index = int(neg_pair[1])
+            mention_cui = neg_pair[2]
+            entity_description_tokens = self.entity_description_tokens_dict[mention_cui]
+
+            input_tokens= MentionEntityDataset.generate_input(data_index, 
+                                                              self.context_data,
+                                                              entity_description_tokens,
+                                                              self.max_len)
+
+            input_tokens_buffer.append(input_tokens)
+
+          input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
+          neg_affin = self.model(input_tokens_buffer)
+
+          top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=False, sorted=False)[1].cpu()
+          top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
+          neg_batch_indices.extend(top_k_neg)
+
+
+      batch_indices.extend(pos_batch_indices)
+      batch_indices.extend(neg_batch_indices)
+
+      yield batch_indices 
+  
+  def __len__(self):
+    return self.num_iterations
+
+
 
 def main(args):
   data_dir = args.data_dir
@@ -179,8 +279,10 @@ def main(args):
   candidate_file = args.candidate_file
 
   tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True)
+  tokenizer.add_special_tokens({'additional_special_tokens': ['[START]', '[END]']})
+  model = BertModel.from_pretrained("nlpie/bio-distilbert-uncased") #dmis-lab/biobert-base-cased-v1.2") # ")
+  model.resize_token_embeddings(len(tokenizer))
 
-  MentionEntityAffinityDataset(data_dir=data_dir, dictionary_file=dictionary_file, candidate_file=candidate_file, tokenizer=tokenizer)
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
