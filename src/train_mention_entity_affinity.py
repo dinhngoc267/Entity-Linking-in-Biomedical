@@ -30,8 +30,10 @@ def train(args):
 
   batch_sampler = MentionEntityBatchSampler(model=mention_entity_model,
                                             device=device, 
+                                            tokenizer=tokenizer,
                                             context_data=mention_entity_dataset.context_data,
-                                            pair_indices = mention_entity_dataset.pairs)
+                                            pair_indices = mention_entity_dataset.pair_indices,
+                                            entity_description_dict = mention_entity_dataset.entity_description_dict)
 
   data_loader = DataLoader(dataset= mention_entity_dataset,
                            batch_sampler= batch_sampler, 

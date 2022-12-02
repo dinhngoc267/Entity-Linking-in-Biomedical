@@ -45,16 +45,17 @@ class MentionEntityDataset(Dataset):
   def __init__(self, data_dir, 
                dictionary_file,
                candidate_file, 
-               tokenizer, max_len=256, n_test= 100):
+               tokenizer, max_len=256, n_test= 50):
 
     super().__init__()
 
+    self.tokenizer = tokenizer
     self.context_data = []
     self.mentions = []
     self.labels = []
     self.entity_description_dict = {}
     self.candidates_dict = {}
-    self.pairs = []
+    self.pair_indices = []
 
     # load context data
     files = glob.glob(os.path.join(data_dir, "*.context"))
@@ -87,8 +88,8 @@ class MentionEntityDataset(Dataset):
       for line in lines:
         line = line.split('||')
         cui = line[0]
-        description = line[1]
-        self.entity_description_dict[cui] = description 
+        description = line[1] + '|' + line[2]
+        self.entity_description_dict[cui] = description.lower() 
 
     # load candidates
     with open(candidate_file, "r") as f:
@@ -109,10 +110,13 @@ class MentionEntityDataset(Dataset):
     for i in range(len(self.mentions)):
       anchor_positive_pairs.append((1, i, self.labels[i]))
     
-    self.pairs = anchor_negative_pairs + anchor_positive_pairs
-    random.shuffle(self.pairs)
+    self.pair_indices = anchor_negative_pairs + anchor_positive_pairs
+    random.shuffle(self.pair_indices)
+    self.pair_indices = np.array(self.pair_indices)
     
     self.max_len = max_len
+
+    print('There are {} positive pairs and {} negative pairs\n'.format(len(anchor_positive_pairs), len(anchor_negative_pairs)))
 
   def __len__(self):
     return len(self.pair_indices)
@@ -123,14 +127,13 @@ class MentionEntityDataset(Dataset):
 
     data_index = int(pair[1])
     cui = pair[2]
-    entity_description_tokens = self.entity_description_dict[cui]
+    entity_description = self.entity_description_dict[cui]
+    entity_description_tokens = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(entity_description))
 
     item = MentionEntityDataset.generate_input(data_index,
                                                self.context_data,
                                                entity_description_tokens,
                                                self.max_len)
-
-
 
     return item, label
 
@@ -142,9 +145,7 @@ class MentionEntityDataset(Dataset):
     """
     
     """
-    sentence_tokens,  [start_mention_token, end_mention_token]  = context_data[data_index]
-    #[start_mention_token, end_mention_token] = training_mention_pos[mention_index]
-    
+    sentence_tokens,  [start_mention_token, end_mention_token]  = context_data[data_index]   
 
     if len(sentence_tokens) > max_len//2 -2:
       # generate a random position to truncate the sentence:
@@ -182,14 +183,14 @@ class MentionEntityDataset(Dataset):
     return self.entity_description_dict
 
 class MentionEntityBatchSampler(object):
-  def __init__(self, model, device, 
+  def __init__(self, model, device,
+               tokenizer,  
                context_data,
                pair_indices, 
-               neg_pair_indices_dict,
-               entity_description_tokens_dict,
+               entity_description_dict,
                batch_size = 16,
                max_len = 256,
-               top_k_neg = 1):
+               num_neg_per_pos = 1):
     
     """
     Parameters:
@@ -200,22 +201,28 @@ class MentionEntityBatchSampler(object):
 
     self.model = model
     self.device = device
+    self.tokenizer = tokenizer
     self.max_len = max_len
 
     self.context_data = context_data
     self.pair_indices = pair_indices
-    self.entity_description_tokens_dict = entity_description_tokens_dict
-    self.neg_indices_dict = neg_pair_indices_dict
+    self.entity_description_dict = entity_description_dict
+    #self.neg_indices_dict = neg_pair_indices_dict
 
+    negative_pair_indices_dict = defaultdict(list)
+    for idx, pair in enumerate(self.pair_indices):
+      label = pair[0]
+      if label == '0':
+        negative_pair_indices_dict[pair[1]].append(idx)
+    self.negative_pair_indices_dict = negative_pair_indices_dict
 
     self.batch_size = batch_size
-    self.top_k_neg = top_k_neg
+    self.num_neg_per_pos = num_neg_per_pos
 
     self.len_pos_pairs = (self.pair_indices[:,0] == '1').sum()
     
     # each positive pair correspond to top_k_neg pairs
-    self.num_pos_per_batch = self.batch_size//1
-    self.num_neg_per_pairs = self.batch_size 
+    self.num_pos_per_batch = self.batch_size//num_neg_per_pos
 
     # num of iterations:
     self.num_iterations = self.len_pos_pairs//self.num_pos_per_batch
@@ -234,9 +241,9 @@ class MentionEntityBatchSampler(object):
       with torch.no_grad():
         neg_batch_indices = []
         for i, pos_pair in enumerate(self.pair_indices[pos_batch_indices]):
-          anchor_idx = int(pos_pair[1])
+          anchor_idx = pos_pair[1]
           # get all candidate from pair_indices first
-          neg_candidates = np.array(self.neg_indices_dict[anchor_idx])
+          neg_candidates = np.array(self.negative_pair_indices_dict[anchor_idx])
 
           # narrow down to top-k
           neg_candidates_pairs = self.pair_indices[neg_candidates]
@@ -246,22 +253,22 @@ class MentionEntityBatchSampler(object):
             #label = neg_pair[0]
             data_index = int(neg_pair[1])
             mention_cui = neg_pair[2]
-            entity_description_tokens = self.entity_description_tokens_dict[mention_cui]
-
+            entity_description = self.entity_description_dict[mention_cui]
+            entity_description_tokens = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(entity_description))
             input_tokens= MentionEntityDataset.generate_input(data_index, 
                                                               self.context_data,
                                                               entity_description_tokens,
                                                               self.max_len)
 
             input_tokens_buffer.append(input_tokens)
-
+    
           input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
           neg_affin = self.model(input_tokens_buffer)
 
           top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=False, sorted=False)[1].cpu()
           top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
           neg_batch_indices.extend(top_k_neg)
-
+          top_k_neg = neg_candidates[1].flatten().tolist()
 
       batch_indices.extend(pos_batch_indices)
       batch_indices.extend(neg_batch_indices)
