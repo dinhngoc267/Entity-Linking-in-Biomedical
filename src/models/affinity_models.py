@@ -48,15 +48,12 @@ class MentionMentionAffinityModel(nn.Module):
 
 
 class MentionEntityAffinityModel(nn.Module):
-  def __init__(self, tokenizer, base_model_path=None, num_hidden_layer=768):
+  def __init__(self, base_model, num_hidden_layer=768):
     super().__init__()
 
-    if base_model_path is None:
-      self.base_model = BertModel.from_pretrained("nlpie/bio-distilbert-uncased") #dmis-lab/biobert-base-cased-v1.2") # ")
-      self.base_model.resize_token_embeddings(len(tokenizer))
-    else:
-      self.base_model = pickle.load(base_model_path)
-
+    self.base_model = base_model  
+    #else:
+    #  self.base_model = pickle.load(base_model_path)
     self.linear = nn.Linear(in_features = num_hidden_layer, out_features = 1)
     self.sigmoid = nn.Sigmoid()
 

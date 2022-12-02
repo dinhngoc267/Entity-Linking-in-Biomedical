@@ -184,7 +184,7 @@ class MentionEntityDataset(Dataset):
 class MentionEntityBatchSampler(object):
   def __init__(self, model, device, 
                context_data,
-               pair_indices_labels, 
+               pair_indices, 
                neg_pair_indices_dict,
                entity_description_tokens_dict,
                batch_size = 16,
@@ -203,7 +203,7 @@ class MentionEntityBatchSampler(object):
     self.max_len = max_len
 
     self.context_data = context_data
-    self.pair_indices_labels = pair_indices_labels
+    self.pair_indices = pair_indices
     self.entity_description_tokens_dict = entity_description_tokens_dict
     self.neg_indices_dict = neg_pair_indices_dict
 
@@ -211,7 +211,7 @@ class MentionEntityBatchSampler(object):
     self.batch_size = batch_size
     self.top_k_neg = top_k_neg
 
-    self.len_pos_pairs = (self.pair_indices_labels[:,0] == '1').sum()
+    self.len_pos_pairs = (self.pair_indices[:,0] == '1').sum()
     
     # each positive pair correspond to top_k_neg pairs
     self.num_pos_per_batch = self.batch_size//1
@@ -223,7 +223,7 @@ class MentionEntityBatchSampler(object):
   
   def __iter__(self):
     # get list of positive pair indices and negative pair indices from pair indices labels
-    all_pos_pair_indices = np.where(self.pair_indices_labels[:,0] == '1')[0]
+    all_pos_pair_indices = np.where(self.pair_indices[:,0] == '1')[0]
     start_pos_index = 0
 
     for i in range(self.num_iterations):
@@ -233,13 +233,13 @@ class MentionEntityBatchSampler(object):
       
       with torch.no_grad():
         neg_batch_indices = []
-        for i, pos_pair in enumerate(self.pair_indices_labels[pos_batch_indices]):
+        for i, pos_pair in enumerate(self.pair_indices[pos_batch_indices]):
           anchor_idx = int(pos_pair[1])
           # get all candidate from pair_indices first
           neg_candidates = np.array(self.neg_indices_dict[anchor_idx])
 
           # narrow down to top-k
-          neg_candidates_pairs = self.pair_indices_labels[neg_candidates]
+          neg_candidates_pairs = self.pair_indices[neg_candidates]
           
           input_tokens_buffer = []
           for neg_pair in neg_candidates_pairs:
@@ -272,31 +272,3 @@ class MentionEntityBatchSampler(object):
     return self.num_iterations
 
 
-
-def main(args):
-  data_dir = args.data_dir
-  dictionary_file = args.dictionary_file
-  candidate_file = args.candidate_file
-
-  tokenizer = BertTokenizer.from_pretrained("nlpie/bio-distilbert-uncased",use_fast=True)
-  tokenizer.add_special_tokens({'additional_special_tokens': ['[START]', '[END]']})
-  model = BertModel.from_pretrained("nlpie/bio-distilbert-uncased") #dmis-lab/biobert-base-cased-v1.2") # ")
-  model.resize_token_embeddings(len(tokenizer))
-
-
-if __name__ == '__main__':
-  parser = argparse.ArgumentParser()
-  parser.add_argument('--data_dir', type=str,
-                      default="./data/processed/st21pv/train",
-                      help = 'directory of data')
-  parser.add_argument('--dictionary_file', type=str,
-                  default="./data/processed/umls/dictionary.txt",
-                  help='path of input file (train/test)')                
-  parser.add_argument('--candidate_file', type=str,
-                  default="./models/candidates/st21pv/train/candidates.txt", 
-                  help='path of candidates of data')
-
-  args = parser.parse_args()
-
-  main(args)
-          
