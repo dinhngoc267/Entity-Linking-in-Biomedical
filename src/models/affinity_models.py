@@ -1,13 +1,10 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import pickle
-from transformers import BertModel
-from transformers import BertTokenizer
 
 
 class MentionMentionAffinityModel(nn.Module):
-  def __init__(self, tokenizer, bert_base,  max_len):
+  def __init__(self, bert_base):
     super().__init__()
 
     self.bert_base = bert_base  

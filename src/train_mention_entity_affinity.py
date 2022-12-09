@@ -2,7 +2,8 @@ import argparse
 import torch
 from transformers import BertTokenizer
 from transformers import BertModel
-from data.data_loader import MentionEntityDataset, MentionEntityBatchSampler
+from data.dataset import MentionEntityDataset
+from data.batch_sampler import MentionEntityBatchSampler
 from torch.utils.data import DataLoader
 from models.affinity_models import MentionEntityAffinityModel
 from models.loss import TripletLosss
