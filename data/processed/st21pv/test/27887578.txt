@@ -1,0 +1,57 @@
+C0015196||Evaluation
+C1704312||health care professionals
+C0011065||death
+C0595939||Stillbirths
+C0410916||neonatal deaths
+C1456573||global public health
+C1516615||clinical management
+C0011065||deaths
+C0220825||investigation
+C0220825||assessment
+C0085882||bereavement care
+C1704312||health care professionals
+C1858460||maternal
+C0008078||child health
+C0162791||Perinatal Society of Australia and New Zealand Guideline for Perinatal Mortality
+C0595939||stillbirth
+C0679646||participants
+C0376554||knowledge
+C1704726||confidence
+C0011065||deaths
+C0242428||satisfaction
+C1704312||health professionals
+C0020010||maternity hospitals
+C0004340||Australian
+C1301808||states
+C0042658||Vietnam
+C0016080||Fiji
+C0027778||Netherlands
+C0010210||assistance
+C1708333||International Stillbirth Alliance
+C1708333||ISA
+C0282574||programme materials
+C0009818||consultation
+C0040712||translation
+C0679646||Participants
+C0015196||evaluation
+C0034394||questionnaires
+C0376554||knowledge
+C1704726||confidence
+C0011065||death
+C0034394||satisfaction questionnaire
+C0679646||participants
+C0004340||Australia
+C0679646||participants
+C0015196||Evaluations
+C0376554||knowledge
+C1704726||confidence
+C0242428||satisfaction
+C0162579||settings
+C0004340||Australia
+C0162579||settings
+C1708333||ISA
+C0035168||research
+C0376554||knowledge
+C0011065||death
+C1331016||low-income
+C0454664||countries

@@ -1,0 +1,34 @@
+C0260249||infrared spectroscopy
+C0079595||imaging
+C0006826||cancer
+C0011900||diagnosis
+C0206055||FTIR
+C0079595||imaging
+C0011900||diagnose
+C0040300||normal
+C0012634||diseased
+C0040300||tissues
+C0678594||structure
+C0023779||lipids
+C0033684||proteins
+C0028606||nucleic acids
+C0870883||metabolites
+C0006826||cancer
+C3665472||chemotherapy
+C1254351||drugs
+C0237401||individual
+C0206055||FTIR spectroscopy
+C0079595||imaging
+C1511790||detection
+C0012634||dreadful disease
+C1562642||medical community
+C0006826||cancer
+C1511790||detection
+C0805586||challenges
+C0011900||diagnosis
+C0006826||cancer
+C0262707||data interpretation
+C0035168||research
+C0005532||biology
+C0206055||spectroscopy
+C0079595||imaging

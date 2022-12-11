@@ -1,0 +1,71 @@
+C0023779||Lipid
+C1979963||Profile
+C1305855||Body Mass Index
+C0005938||Bone Mineral Density
+C0206159||Postmenopausal
+C0043210||Women
+C0005938||bone density
+C0029456||osteoporosis
+C0206159||postmenopausal
+C0043210||women
+C0023779||lipid
+C0449381||parameters
+C1305855||Body Mass Index
+C1305855||Body Mass Index
+C2603343||study
+C0023779||lipid
+C0449381||parameters
+C1305855||Body Mass Index
+C0029456||osteoporosis
+C0206159||postmenopausal
+C0043210||women
+C2603343||study
+C0043210||females
+C0206159||postmenopausal
+C1510486||DEXA method
+C0011900||diagnosed
+C0029456||osteoporosis
+C0000872||University Medical Center of RS
+C0043210||females
+C0206159||postmenopausal
+C0011900||diagnosed
+C0029456||osteoporosis
+C0679646||participants
+C2603343||study
+C0005774||biochemical analysis of blood
+C0936012||analysis
+C0023779||lipid
+C1979963||profile
+C0543421||total cholesterol
+C0023824||LDL cholesterol
+C0041004||triglycerides
+C0041004||triglycerides
+C0023822||HDL cholesterol
+C1305855||Body Mass Index
+C0455829||waist circumference
+C0455829||waist circumference
+C0936012||Analysis
+C0035168||research
+C0206031||univariate logistic regression
+C0023779||lipid
+C0449381||parameters
+C0543421||total cholesterol
+C0023824||LDL
+C0041004||triglycerides
+C0029456||osteoporosis
+C0023965||multivariate logistic model
+C0543421||total cholesterol
+C0035648||risk factor
+C0029456||osteoporosis
+C0206159||postmenopausal
+C0043210||women
+C1305855||Body Mass Index
+C1513916||not
+C0029456||osteoporosis
+C0005938||bone mineral density
+C0029456||osteoporosis
+C0206159||postmenopausal
+C0043210||women
+C0035648||risk factors
+C0029456||disease
+C0001792||elderly

@@ -1,0 +1,46 @@
+C0556345||Heavy Drinking
+C0441610||Reductions
+C2603343||COMBINE Study
+C0041714||Food and Drug Administration
+C0041714||Food and Drug Administration
+C0205229||expand
+C2081612||medications
+C0001967||alcohol
+C0243095||nonabstinent
+C0556345||heavy drinking
+C0556345||heavy drinking
+C1704788||defined
+C0001967||drinks
+C0043210||women
+C0001967||drinks
+C0025266||men
+C0041714||Food and Drug Administration
+C1706316||length for a clinical trial
+C0243095||nonabstinent
+C0008976||clinical trials
+C0332128||examined
+C0556344||nonheavy drinking
+C0001758||after treatment
+C2603343||COMBINE study
+C0332128||examined
+C0556345||heavy drinking
+C0087111||treatment
+C0556345||Heavy drinking
+C0556344||nonheavy drinking
+C0237401||individuals
+C0556338||drinkers
+C0087111||treatment
+C0556345||heavy drinking
+C0556345||heavy drinking
+C0556345||heavy drinking
+C0700287||reported
+C0441610||reduction
+C0556327||drinking frequency
+C0441610||reduction
+C0456984||results
+C0556345||heavy drinking
+C0087111||treatment
+C0001967||drink
+C0441610||reductions
+C2603343||studies
+C0441610||reduction

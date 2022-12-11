@@ -1,0 +1,41 @@
+C0205102||intrinsic
+C0443158||brain activity
+C0027361||individuals
+C0027910||neuroscience
+C0678594||structural
+C0205102||Intrinsic
+C0443158||brain activity
+C0392335||cognitive functions
+C0392335||cognitive functions
+C0205102||intrinsic
+C0443158||brain activities
+C0205102||intrinsic
+C0443158||brain activity
+C0086418||human
+C0006104||brains
+C2603343||study
+C0006104||brain structure
+C0031843||function
+C0599755||cohorts
+C0678594||Structural
+C0024485||MRI
+C4288291||resting-state functional-MRI
+C0205102||intrinsic
+C0443158||brain activity
+C0205132||linear
+C0228179||brain lobes
+C1273723||regions
+C0016733||frontal lobe
+C2338540||left middle frontal gyrus
+C0175190||anterior cingulate gyrus
+C0228265||Rolandic operculum
+C0021640||insula
+C1446409||positive
+C0599755||cohorts
+C0205102||intrinsic
+C0443158||brain activity
+C0678594||structural
+C0205102||intrinsic
+C0443158||brain activity
+C0086418||human
+C0006104||brain

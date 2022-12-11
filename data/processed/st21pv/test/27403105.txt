@@ -1,0 +1,28 @@
+C0011900||Diagnosis
+C0311262||Chronic Mesenteric Ischaemia
+C0871685||Clinicians
+C1290807||diarrhoeal illnesses
+C0027497||nausea
+C1262477||weight loss
+C0017163||gastroenterology
+C0442115||intra-luminal
+C0021390||inflammatory bowel disease
+C0007570||coeliac disease
+C3280502||malabsorptive conditions
+C0699819||gut
+C0012634||disorders
+C4282132||malignancy
+C0871685||clinicians
+C0042373||vascular disorders
+C0011900||diagnosis
+C0311262||chronic mesenteric ischaemia
+C0426576||gastrointestinal symptoms
+C0011900||diagnosis
+C0021390||inflammatory bowel disease
+C0027497||nausea
+C0011991||diarrhoea
+C0030193||pain
+C0023866||literature
+C0012634||condition
+C0871685||clinicians
+C0011900||diagnostic

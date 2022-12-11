@@ -1,0 +1,51 @@
+C0807321||pathology report
+C2347585||central pathology review
+C0006142||breast cancer
+C0677850||adjuvant treatment
+C0683956||predictive factors
+C0005516||markers
+C0006142||breast cancer
+C0677850||adjuvant therapy
+C0206034||randomized clinical trials
+C0807321||pathology report
+C2347585||central pathology review
+C0205276||local
+C0205099||central
+C0684224||histopathological report
+C0035363||retrospective analysis
+C1458155||breast cancer tumors
+C0334866||local pathologists
+C0587487||Pathology Division
+C1708333||European Institute of Oncology
+C0030664||central pathology
+C0208804||Ki-67
+C0441799||grading
+C0019929||hormone receptors
+C0034804||ER
+C0034833||PgR
+C1512413||HER2/neu
+C0242481||Bland-Altman plots
+C0208804||Ki-67
+C0034804||ER
+C0034833||PgR
+C0034804||ER
+C0034833||PgR
+C0069515||HER2
+C0444061||pathology specimens
+C1513817||Cancer Centers
+C0034804||ER
+C0034833||PgR
+C0208804||Ki-67
+C0441799||grading
+C0069515||HER2
+C0069515||HER2
+C0034804||ER
+C0034833||PgR
+C0069515||Her2
+C0034804||ER
+C0034833||PgR
+C0033080||prescription
+C0035363||retrospective analysis
+C2347585||central pathological review
+C0006142||breast cancer
+C0008976||clinical trials

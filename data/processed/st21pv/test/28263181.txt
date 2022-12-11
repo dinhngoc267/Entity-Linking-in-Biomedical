@@ -1,0 +1,35 @@
+C0006826||cancer
+C1520120||Warburg effect
+C0334227||Cancer cells
+C0017725||glucose
+C1158288||glycolytic fermentation
+C0376261||lactate
+C0035203||respiration
+C1520120||Warburg effect
+C0001480||ATP
+C0035203||respiration
+C0015852||fermentation
+C0001480||ATP
+C0017725||glucose
+C1520120||Warburg effect
+C0205132||linearly
+C0017725||glucose
+C0015852||fermentation
+C0035203||respiration
+C0015852||fermentative
+C0025519||metabolism
+C0017725||glucose
+C0334227||cancer cells
+C0015852||fermentation
+C0334227||cancer cells
+C0282574||Prigogine theorem
+C0282574||theorem
+C0007634||open cellular systems
+C0184511||modified
+C0007634||cells
+C0007012||CO2
+C0017725||glucose
+C0035203||respiration
+C0015852||fermentation
+C0022885||tests
+C1520120||Warburg effect

@@ -1,0 +1,44 @@
+C3714363||Health Belief Model
+C0281187||Cervical Cancer Screening
+C0043210||Women
+C1514578||Sisaket Province
+C0039725||Thailand
+C4048328||Cervical cancer
+C0033213||public health problem
+C0039725||Thailand
+C0699794||ranked
+C0678222||breast cancer
+C0337910||Thai
+C0043210||women
+C0700287||reported
+C0281187||cervical cancer screening
+C0018017||goal
+C0043237||WHO
+C3714363||health belief model
+C0281187||cervical cancer screening
+C0017446||Kanthararom District
+C1514578||Sisaket Province
+C0043210||women
+C0034656||randomly
+C1257890||experimental group
+C3714363||health belief model
+C0281187||cervical cancer screening
+C1516602||research tools
+C3714363||health belief model
+C0034394||questionnaire
+C0030971||perceptions
+C4048328||cervical cancer
+C0678257||Descriptive
+C0392366||sample ttest
+C0392366||ttest
+C0030971||perception
+C4048328||cervical cancer
+C1257890||experimental group
+C0035168||research
+C4048328||cervical cancer
+C3714363||health belief model
+C0281187||cervical cancer screening
+C0043210||women
+C0162791||guideline
+C0018747||health services
+C0018738||health promotion

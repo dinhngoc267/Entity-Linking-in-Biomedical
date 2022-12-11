@@ -1,0 +1,52 @@
+C3544174||Perineal injuries
+C0243095||birth positions
+C0043210||women
+C0404841||low risk pregnancy
+C0419367||homebirth
+C0243095||birth positions
+C3544174||perineal injuries
+C0018017||objective
+C2603343||study
+C3544174||perineal injuries
+C1257890||population
+C0043210||women
+C0419367||birth at home
+C3544174||perineal injuries
+C0014586||episiotomy
+C0243095||birth positions
+C0036273||Nordic countries
+C1257890||population
+C1709709||prospective cohort study
+C0419367||home births
+C0036273||Nordic countries
+C0034394||questionnaire
+C0005615||birth
+C0026083||midwife
+C1710191||Descriptive statistics
+C0206031||logistic regression
+C0043210||women
+C0419367||home births
+C0442519||home
+C0184736||transfer to hospital
+C0014586||episiotomy
+C1858460||maternal
+C3669209||sacrum
+C0733755||positions
+C3544174||perineal injuries
+C3669209||sacrum
+C0733755||positions
+C0014586||episiotomies
+C0014586||episiotomy
+C0043210||women
+C0419367||home birth
+C0036273||Nordic countries
+C0043210||Women
+C0243095||birth positions
+C0005615||birth
+C3669209||sacrum
+C0733755||positions
+C3669209||sacrum
+C0733755||positions
+C3669209||sacrum
+C0733755||positions
+C0014586||episiotomies

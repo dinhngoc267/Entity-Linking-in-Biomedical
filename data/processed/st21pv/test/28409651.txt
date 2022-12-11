@@ -1,0 +1,21 @@
+C4040543||Fear Assessment
+C0039005||Pigs
+C0680536||Commercial
+C0018017||objective
+C0015730||feasibility
+C0039005||pigs
+C0680536||commercial
+C0680536||commercial
+C0557759||farms
+C0039005||pigs
+C0039005||novel
+C0039005||pig
+C0237798||nonhuman
+C0003062||animals
+C0003062||animals
+C0039005||pig
+C0557759||farm
+C0557759||intrafarm
+C0015726||fear
+C0680536||commercial
+C0557759||farms

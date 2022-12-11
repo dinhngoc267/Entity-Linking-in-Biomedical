@@ -1,0 +1,57 @@
+C1510755||Accessions
+C0946573||Pineapple
+C0946573||Ananas comosus (L.) Merr.
+C0039290||Inter simple sequence repeat
+C1519302||simple sequence repeat
+C0012872||Markers
+C0039290||Inter simple sequence repeat
+C0039290||Inter simple sequence repeat
+C1519302||simple sequence repeat
+C1519302||simple sequence repeat
+C0012872||markers
+C0946573||pineapple
+C1510755||accessions
+C0454664||countries
+C0017446||regions
+C0039290||Inter simple sequence repeat
+C0206415||primers
+C1519302||simple sequence repeat
+C0206415||primers
+C0282574||Nei's gene diversity
+C0282574||h
+C0918012||Shannon's information index
+C0918012||I
+C0282574||polymorphism information content
+C0282574||PIC
+C1519302||simple sequence repeat
+C0206415||primers
+C0039290||Inter simple sequence repeat
+C0206415||primers
+C0282574||h
+C0918012||I
+C0282574||PIC
+C1519302||SSR system
+C0039290||ISSR system
+C0946573||pineapple
+C1510755||accessions
+C0039290||Inter simple sequence repeat
+C1519302||simple sequence repeat
+C0039290||Inter simple sequence repeat
+C1519302||simple sequence repeat
+C0946573||pineapple
+C1510755||accessions
+C1881045||clustered
+C0946573||pineapple
+C1510755||accessions
+C0039290||Inter simple sequence repeat
+C1519302||simple sequence repeat
+C0039290||Inter simple sequence repeat
+C1519302||simple sequence repeat
+C0936012||analyses
+C0025663||unweighted pair-group with arithmetic averaging (UPGMA) method
+C0025663||unweighted pair-group with arithmetic averaging
+C1881045||clustering
+C0946573||pineapple
+C4046074||germplasm
+C0946573||pineapple
+C4042898||breeding strategies

@@ -1,0 +1,28 @@
+C0024485||MRI
+C0376358||prostate cancer
+C0011900||detection
+C0008902||classification
+C0870951||deep neural networks
+C0011900||detection
+C0376358||prostate cancer
+C0008902||classification
+C0011900||detection
+C0870951||deep learning network
+C4304904||multiparametric MR
+C1704922||images
+C0008902||classification
+C0025663||method
+C0282574||multiple random forest classifiers
+C0011900||detection
+C0376358||prostate cancer
+C0681814||experiments
+C0025663||method
+C0220825||section-based evaluation
+C0220825||section-based evaluation
+C0025663||method
+C0011900||detecting
+C0376358||prostate cancer
+C0005898||regions
+C0008902||classification
+C0006826||cancer
+C0011900||detection

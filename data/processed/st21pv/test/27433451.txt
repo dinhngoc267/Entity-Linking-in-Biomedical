@@ -1,0 +1,12 @@
+C0033770||Prune Belly Syndrome
+C1735591||Associated with VACTERL
+C0033770||Prune belly syndrome
+C1704258||abnormality
+C1735591||association with VACTERL
+C1735591||association
+C0700287||reported
+C0023866||literature
+C0700287||reported
+C1850556||stillbirths or died shortly after birth
+C0033770||Prune belly syndrome
+C1735591||associated with VACTERL

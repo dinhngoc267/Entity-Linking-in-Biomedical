@@ -1,0 +1,70 @@
+C0027361||people
+C0025353||mental health
+C1306754||practitioners
+C0035173||researchers
+C0282574||Transition Preparation Programme
+C0596545||experience
+C0027361||people
+C0025355||Child and Adolescent Mental Health Services
+C0025355||Child and Adolescent Mental Health Services
+C0041700||UK
+C0027361||people
+C0025355||child and adolescent mental health services
+C0025355||Child and Adolescent Mental Health Services
+C2585021||referral to
+C0025355||adult service
+C1446377||mental health problems
+C0025355||Child and Adolescent Mental Health Services
+C0205160||negative
+C0027361||people
+C0596545||experience
+C0008972||study
+C0027361||people
+C0025355||Child and Adolescent Mental Health Services
+C0025355||Child and Adolescent Mental Health Services
+C0282574||Transition Preparation Programme
+C0282574||Transition Preparation Programme
+C0027462||National Health Service
+C0027361||people
+C0041700||UK
+C0027462||National Health Service
+C0027462||National Health Service
+C0034394||questionnaires
+C0025106||clinical staff
+C0027361||people's
+C0027361||people
+C0027361||people
+C0003467||anxious
+C0015726||fearful
+C0025355||Child and Adolescent Mental Health Services
+C0030971||perceived
+C0025355||mental health services
+C0679646||Participants
+C0030258||booklet
+C0025355||Child and Adolescent Mental Health Services
+C1257890||leavers
+C0025355||adult service
+C1704726||confidence
+C0027361||people
+C2700280||world
+C0871685||clinicians
+C0003467||anxious
+C0027361||people
+C0025355||services
+C0871685||Clinicians
+C0027462||National Health Service
+C0242456||policies
+C0027361||people's
+C0027361||people
+C0025355||Mental health services
+C0003467||anxiety
+C0025355||Child and Adolescent Mental Health Services
+C1257890||leavers
+C0027361||people
+C0025355||Child and Adolescent Mental Health Services
+C1704726||confidence
+C0086388||health care
+C0027462||National Health Service
+C0851286||staff
+C0035173||researchers
+C0035168||research

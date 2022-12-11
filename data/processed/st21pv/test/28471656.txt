@@ -1,0 +1,33 @@
+C0034407||4-Anilino-2-pyridylquinazolines
+C0034289||pyrimidines
+C0243077||Inhibitors
+C0761993||Breast Cancer Resistance Protein
+C0761993||ABCG2
+C0242738||ATP-binding cassette (ABC) transport proteins
+C3665472||chemotherapeutic treatment
+C0027651||cancer
+C0596902||transporter
+C1519628||transport process
+C0761993||breast cancer resistance protein
+C0761993||BCRP
+C0761993||ABCG2
+C0243077||inhibitors
+C0761993||ABCG2
+C0034407||4-substituted-2-pyridylquinazolines
+C0761993||ABCG2
+C0034407||quinazoline scaffold
+C0034289||4-methylpyrimidine
+C0596402||cytotoxicity
+C0729502||chemotherapeutic agents
+C0142710||SN-38
+C0026259||mitoxantrone
+C0026259||mitoxantrone
+C1706082||compounds
+C0761993||ABCG2
+C1531834||colorimetric
+C0001473||ATPase
+C2717977||assay
+C0062907||Hoechst 33342
+C0016320||fluorescent dye
+C0761993||ABCG2
+C1706082||compounds

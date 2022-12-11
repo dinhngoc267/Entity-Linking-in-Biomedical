@@ -1,0 +1,43 @@
+C0949415||qualitative study
+C0004340||Australia
+C0031831||doctors
+C0031831||doctors
+C0004340||Australia
+C0031831||doctors
+C0031831||doctors
+C0238711||Australian
+C0035168||research
+C0557558||leaders
+C0949415||qualitative studies
+C0004340||Australia
+C0035173||researchers
+C0557558||leaders
+C0004340||Australia
+C0018747||health services
+C0033173||private
+C0020022||public hospitals
+C1514958||health departments
+C0449445||approaches
+C0282441||literature review
+C0557558||leaders
+C0015392||eyes
+C0871685||clinicians
+C0031831||doctors
+C0035168||research
+C1705493||Western
+C0004340||Australia
+C0031831||doctors
+C0031831||doctors
+C0035168||research
+C0031831||doctors
+C1552267||health practitioners
+C0035168||research
+C0437940||descriptive
+C0035168||research
+C0018720||health organisations
+C1274022||employers
+C1514958||health departments
+C2603343||study
+C0035168||researched
+C2603343||studies
+C0936012||analysis

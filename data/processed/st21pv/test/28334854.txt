@@ -1,0 +1,43 @@
+C0021344||Human papillomavirus
+C0012634||diseases
+C0022277||Italy
+C0343641||Human papillomavirus (HPV) infection
+C0007847||cervical cancer
+C0006826||cancer
+C0030851||penis
+C0003461||anus
+C0018670||head
+C0027530||neck
+C0521367||oropharynx
+C0042066||genitourinary system
+C2603343||study
+C0019993||hospitalizations
+C0343641||HPV-related pathologies
+C0022277||Italy
+C0586003||national hospital discharge
+C1274109||Ministry of Health
+C0021344||Human papillomavirus
+C0019993||hospitalizations
+C0805701||codes
+C1137112||ICD-9-CM
+C2347818||coding system
+C0019993||hospitalizations
+C0343641||HPV-related pathologies
+C0023866||literature
+C0007847||Uterine cervical cancer
+C0851140||CIN III
+C0019993||hospitalizations
+C0018670||Head
+C0027530||neck
+C0521367||oropharynx
+C0019993||hospitalizations
+C0153446||anal
+C0019993||hospitalizations
+C0751569||genitourinary
+C0153601||penis cancers
+C2603343||study
+C0019993||hospitalizations
+C0343641||HPV-related pathologies
+C0033213||issue
+C0022277||Italy
+C1257890||population

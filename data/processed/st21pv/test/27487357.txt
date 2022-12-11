@@ -1,0 +1,57 @@
+C1561643||Chronic Kidney Disease
+C0019994||Hospital
+C0442519||Home
+C0035171||Study Design
+C0600290||hospital readmission
+C1257890||population
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C4287891||www.clinicaltrials.gov; NCTO1459770
+C0037181||single-blind
+C0008961||investigators
+C0034656||randomized
+C0008976||clinical trial
+C0086388||Providence Health Care
+C3827207||Spokane, Washington
+C1561643||chronic kidney disease
+C0332293||treated with
+C0206074||kidney replacement therapy
+C1096775||study intervention
+C1449564||pharmacist-led
+C0338059||home-based
+C0150270||medication management
+C0184661||intervention
+C0586003||hospital discharge
+C0600290||hospital readmissions
+C0562508||emergency departments
+C1710587||urgent care centers
+C0586003||hospital discharge
+C0162791||guideline-based
+C1561643||chronic kidney disease
+C0035648||risk factors
+C0009566||complications
+C1516879||Enrollment
+C0679646||participants
+C0043210||women
+C0020538||hypertension
+C0011847||diabetes
+C3811844||estimated glomerular filtration
+C0455271||urine albumin-to-creatinine ratio
+C0184666||hospital admission
+C0007222||cardiovascular diseases
+C0011900||single diagnosis
+C0030673||admission
+C0022660||acute kidney injury
+C0679646||Participants
+C1561643||chronic kidney disease
+C1561643||chronic kidney disease
+C0150270||medication management
+C0184661||intervention
+C0586003||hospital discharge
+C2603343||study
+C0019993||hospitalization
+C0679878||acute care
+C1561643||chronic kidney disease
+C0376636||management

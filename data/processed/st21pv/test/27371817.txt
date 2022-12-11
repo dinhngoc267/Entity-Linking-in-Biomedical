@@ -1,0 +1,49 @@
+C1328813||Metabolomic
+C0162448||glycerophospholipid
+C0021368||inflammation
+C0332293||treated with
+C0003211||non-steroidal anti-inflammatory drugs
+C0024432||RAW264.7 cells
+C0877853||(1)H NMR
+C0008562||U-HPLC
+C0877853||Non-destructive proton nuclear magnetic resonance ((1)H NMR) spectroscopy
+C0008562||ultra-performance liquid chromatography
+C0008562||U-HPLC
+C0025663||methods
+C1328813||metabolic profiling
+C0162448||glycerophospholipids
+C0162448||glycerophospholipids
+C0024432||RAW264.7 cells
+C0021368||inflammation
+C0033325||prognosis
+C0936012||Analysis
+C0877853||(1)H NMR
+C3161035||models
+C0877853||(1)H NMR
+C0003209||anti-inflammatory drugs
+C1328813||metabolic profiling
+C0162448||glycerophospholipids
+C0162448||glycerophospholipids
+C0008562||U-HPLC
+C2603343||study
+C0005516||biomarkers
+C1959616||phosphatidylcholine
+C1959616||phosphatidylcholine
+C0005516||biomarkers
+C0877853||(1)H NMR
+C0008562||U-HPLC
+C1148554||determination
+C0005516||biomarkers
+C1720914||sample preparation steps
+C0870883||metabolite
+C0162448||glycerophospholipids
+C0021368||inflammation
+C0877853||(1)H NMR spectroscopy
+C0008562||U-HPLC
+C1328813||metabolic profiling
+C0162448||glycerophospholipids
+C0021368||inflammation
+C0011900||diagnosis
+C0033325||prognosis
+C0021368||inflammation
+C0242656||progression

@@ -1,0 +1,36 @@
+C0035648||best predictors
+C0231303||distress
+C0035648||best predictors
+C0231303||distress suffered
+C0010362||cross-sectional study
+C0243095||negative impact of care
+C0243095||negative impact of care
+C4075362||lower stress
+C4075362||higher stress
+C2735110||process of providing care
+C0681841||explanatory
+C2673413||variables
+C0086388||care-related attributes
+C0243095||patient-related results
+C0017463||geriatric assessments
+C0012634||disease
+C0681841||explanatory
+C2673413||variables
+C0231303||distress
+C0681935||cross-validation method
+C0681841||explanatory
+C2673413||variables
+C0035648||predictors
+C0026348||statistical model
+C0231303||distress
+C0175637||lower self-evaluation of health
+C2936632||self-appraisal
+C1276367||general support
+C0424230||motor retardation
+C3161512||Timed Up and Go (TUG) test
+C3161512||TUG test
+C0035648||predictor
+C0231303||distress
+C2673413||variables
+C0243095||negative impact of care
+C0087111||kinesitherapeutic methods

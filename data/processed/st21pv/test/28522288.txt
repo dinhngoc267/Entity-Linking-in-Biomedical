@@ -1,0 +1,56 @@
+C0008902||Grade Group
+C0243095||Underestimation
+C0194804||Prostate Biopsy
+C0683956||Predictive Factors
+C1518681||Outcomes
+C1257890||Candidates
+C1827061||Active Surveillance
+C1518681||outcomes
+C0683956||predictive factors
+C0376358||prostate cancer
+C0376358||prostate cancer
+C0008902||grade group
+C0008902||grade group
+C0194804||prostate biopsies
+C0599755||monocentric cohort
+C0194810||minimally invasive radical prostatectomy
+C0194810||radical prostatectomy
+C0242356||monocentric prospectively maintained database
+C0194810||minimally invasive RP
+C1518681||outcomes
+C0008902||grade group
+C0005558||biopsy
+C0194810||radical prostatectomy
+C0206031||Multivariate logistic regression
+C1450294||nomogram
+C0008902||GG1
+C0005558||Biopsy
+C0008902||grade group
+C0194810||radical prostatectomy
+C0008902||GG1
+C0008902||GG2
+C0008902||GG3
+C0194810||radical prostatectomy
+C2985506||biochemical recurrence
+C0008902||GG2
+C0008902||GG3
+C0005558||biopsy
+C0194810||radical prostatectomy
+C2985506||biochemical recurrence
+C0008902||GG1
+C0008902||GG1
+C0376358||prostate cancer
+C1384593||abnormal digital rectal examination
+C0243095||prostate -specific antigen density
+C0243095||percentage of positive cores
+C4055400||body mass index
+C1450294||nomogram
+C0005558||Biopsy
+C1273712||grading system
+C0008902||grade group
+C0005558||biopsy
+C0194810||radical prostatectomy
+C1518681||clinical outcomes
+C1450294||nomogram
+C0008902||GG1
+C0220825||evaluation

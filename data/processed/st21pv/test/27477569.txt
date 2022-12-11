@@ -1,0 +1,60 @@
+C0442123||Intravascular
+C0021368||Inflammation
+C0442111||Intracerebral
+C0206116||Microglia
+C0270611||Secondary Brain Injury
+C0038525||Subarachnoid Hemorrhage
+C0038525||Experimental Subarachnoid Hemorrhage
+C0270611||secondary brain injury
+C0038525||subarachnoid hemorrhage
+C0038525||Experimental Subarachnoid Hemorrhage
+C0206116||Microglia
+C4055506||accumulation
+C0006104||brain
+C2754100||neuronal cell death
+C0038525||Experimental Subarachnoid Hemorrhage
+C0025929||mouse
+C0006104||brain
+C0935624||capillaries
+C0038525||Experimental Subarachnoid Hemorrhage
+C0017262||gene expression
+C1334074||intercellular adhesion molecule-1
+C1334074||intercellular adhesion molecule-1
+C1335809||P-selectin
+C0442123||intravascular
+C1155266||inflammatory processes
+C0700287||reported
+C0206116||microglia
+C4055506||accumulation
+C0459385||brain tissue
+C0038525||Experimental Subarachnoid Hemorrhage
+C0206745||knockout mice
+C1334074||intercellular adhesion molecule-1
+C1334074||ICAM-1
+C1419941||P-selectin glycoprotein ligand-1
+C1419941||P-selectin glycoprotein ligand-1
+C0027950||neutrophil
+C0225336||endothelial
+C0007582||interaction
+C0019080||bleeding
+C3163632||cranial
+C0751982||neutrophil recruitment
+C0225336||endothelium
+C0243095||ameliorated
+C0206116||microglia
+C4055506||accumulation
+C2754100||neuronal cell death
+C3714787||CNS innate
+C0020962||immune system
+C0042591||vessel
+C0006104||brain
+C0038525||Experimental Subarachnoid Hemorrhage
+C0206116||Microglia
+C0007634||cells
+C0006104||brain's
+C0021368||inflammatory reaction
+C0243079||microvasculature
+C0038525||Experimental Subarachnoid Hemorrhage
+C2754100||neuronal cell death
+C0035168||research
+C0038525||Experimental Subarachnoid Hemorrhage

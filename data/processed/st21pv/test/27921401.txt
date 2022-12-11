@@ -1,0 +1,77 @@
+C4076257||soybean isoflavone
+C0021853||intestinal
+C1148564||antioxidant capacity
+C0079189||cytokines
+C0039005||piglets
+C0030011||oxidized
+C0016157||fish oil
+C0253391||glycitein
+C4076257||soybean isoflavone
+C4076257||isoflavone
+C0021853||intestinal
+C1148564||antioxidant capacity
+C0079189||cytokine
+C0039005||piglets
+C0030011||oxidized
+C0016157||fish oil
+C0039005||piglets
+C0001563||treatments
+C2983588||basal diet
+C0016157||fish oil
+C0030011||oxidized
+C0016157||fish oil
+C4076257||isoflavone
+C0030011||oxidized
+C0016157||fish oil
+C4076257||isoflavone
+C0242297||supplementation
+C0030011||oxidized
+C0016157||fish oil
+C0024643||malondialdehyde
+C0024643||malondialdehyde
+C0061516||oxidized glutathione
+C0061516||GSSG
+C0021753||interleukin-1β
+C0021753||interleukin-1β
+C1456820||tumor necrosis factor-α
+C1456820||tumor necrosis factor-α
+C0021756||interleukin-2
+C0021756||interleukin-2
+C0079904||nuclear factor κ B
+C0079904||(NF-κB
+C0132555||inducible nitric oxide synthase
+C0132555||inducible nitric oxide synthase
+C0028128||NO
+C0291573||Caspase-3
+C0227308||jejunal mucosa
+C0227266||villous
+C0013303||duodenum
+C0020838||secretory immunoglobulin A
+C0020838||(sIgA
+C0021758||IL-4
+C0227308||jejunal mucosa
+C0242297||supplementation
+C0016157||oil
+C0030011||oxidized
+C0016157||fish oil
+C4076257||isoflavone
+C0030011||oxidized
+C0016157||fish oil
+C4076257||isoflavone
+C0227266||villous
+C0020838||secretory immunoglobulin A
+C0021758||IL-4
+C0227308||jejunal mucosa
+C0021753||interleukin-1β
+C0021756||interleukin-2
+C0227308||jejunal mucosa
+C0030011||oxidized
+C0016157||fish oil
+C0242297||dietary supplementation
+C4076257||isoflavone
+C0030011||oxidized
+C0016157||fish oil
+C0021853||intestinal morphology
+C1148564||antioxidant capacity
+C1817756||immune function
+C0039005||piglets

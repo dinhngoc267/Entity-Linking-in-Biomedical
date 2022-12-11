@@ -1,0 +1,31 @@
+C0004920||bee venom
+C0002092||allergen
+C0002092||rApi m 1
+C0282574||ImmunoCAP system
+C0011900||diagnosis
+C1828283||bee venom (BV) allergy
+C0002092||rApi m 1
+C0002092||2
+C0002092||3
+C0002092||5
+C0002092||10
+C1828283||BV-allergic
+C0002092||rApi m 1
+C0002092||2
+C1325847||sensitization
+C1325847||monosensitization
+C1325847||double sensitization
+C0936012||Analysis
+C0004920||bee venom
+C0002092||allergens
+C0282574||CAP system
+C0936012||analysis
+C0002092||rApi m 1
+C0002092||2
+C1325847||Sensitization
+C0002092||rApi m 5
+C1325847||double-sensitized
+C0002092||rApi m 2
+C0004920||bee venom
+C0010357||cross-reacting
+C0002092||allergens

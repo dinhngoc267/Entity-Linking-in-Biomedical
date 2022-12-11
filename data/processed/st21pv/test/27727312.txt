@@ -1,0 +1,34 @@
+C1832073||Handling
+C0240321||Mediterranean
+C0936012||analyzed
+C0557745||natural environments
+C0240321||Mediterranean
+C0037747||Madrid
+C0037747||central Spain
+C0162340||understand
+C0870781||landscape
+C0004923||bee
+C0871648||habitat
+C0870781||landscape
+C0035177||analytic hierarchy process
+C0035177||analytic hierarchy process
+C0699794||rank
+C0871648||Habitat
+C0871648||habitat
+C0702240||elevation
+C0032098||plant
+C1705920||species
+C0332285||located
+C0019906||honey
+C0450429||location
+C0004924||wax
+C0323623||Varroa
+C0243095||loads
+C0035177||analytic hierarchy process
+C0936012||analysis
+C0019906||honey
+C0702240||elevation
+C0871648||habitat
+C0243095||load
+C0042776||viruses
+C0019906||honey

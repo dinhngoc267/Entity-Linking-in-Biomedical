@@ -1,0 +1,55 @@
+C0752248||Metatranscriptomics
+C0004611||Bacterial
+C0004611||Eukaryotic Fibrolytic Communities
+C0035946||Rumen
+C0012155||Diet
+C0035950||Ruminants
+C0032098||plant
+C0032594||polysaccharides
+C0035946||rumen
+C1000792||microbiota
+C1000792||microbiota members
+C0014442||enzymes
+C1515655||in vivo
+C0917793||RNA-sequencing
+C0017262||expression
+C0017337||genes
+C0014442||carbohydrate-active enzymes
+C0014442||carbohydrate-active enzymes
+C0035946||rumen
+C1000792||microbiota
+C1260603||fiber
+C0936012||Functional analysis
+C0014442||carbohydrate-active enzymes
+C1519595||transcripts
+C0014442||CAZyme
+C0055033||GH94
+C0055033||cellobiose-phosphorylase
+C0002712||GH13
+C0002712||amylase
+C0062220||GH43
+C0062220||GH10
+C0062220||hemicellulases
+C1260229||GH9
+C1260229||GH48
+C1260229||cellulases
+C0032491||PL11
+C0032491||pectinase
+C0014442||GH2
+C0014442||GH3
+C0014442||oligosaccharidases
+C0004611||fibrolytic bacteria
+C0242946||Prevotella
+C0318074||Ruminocccus
+C0995400||Fibrobacter
+C0016832||fungi
+C0008781||ciliate protozoa
+C0032594||polysaccharide
+C0033739||protozoa
+C0035946||rumen
+C0004611||fibrolytic bacterial community
+C0014442||CAZyme
+C1519595||transcripts
+C0004611||strains
+C0752248||metatranscriptomics
+C0035946||rumen

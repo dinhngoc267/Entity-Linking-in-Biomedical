@@ -1,0 +1,57 @@
+C0009170||Cocaine
+C0027880||Striatal Plasticity
+C0009170||Cocaine
+C0026605||motivated
+C0242510||drug-using
+C0036239||satiation
+C0035804||rodents
+C0206249||transient synaptic potentiation
+C0206249||transient synaptic potentiation
+C0039062||cortical glutamatergic synapses
+C0028633||nucleus accumbens
+C0444669||core
+C0682698||medium spiny neurons
+C0242510||drug use
+C0001721||affects
+C0027880||plasticity
+C0015347||extinction
+C0009170||cocaine
+C0036589||self-administration
+C0009170||cocaine
+C0001721||affects
+C0206249||transient synaptic potentiation
+C0034721||Rats
+C0036589||self-administer
+C0009170||cocaine
+C1511501||control animals
+C0015347||extinction
+C0009170||cocaine
+C0009170||cocaine
+C1444662||discontinued
+C0243095||unreinforced lever pressing ensued
+C0206249||transient synaptic potentiation
+C1510438||assayed
+C0872341||dendritic spine
+C0051318||alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid
+C0051318||alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid
+C0079883||N-methyl-D-aspartate
+C0079883||N-methyl-D-aspartate
+C0025543||matrix metalloproteinase
+C0243102||activity
+C0243095||found
+C0009170||cocaine
+C0206249||transient synaptic potentiation
+C0009170||cocaine
+C1444662||discontinued
+C0872341||dendritic spine
+C0051318||alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid
+C0079883||N-methyl-D-aspartate
+C0003062||animals
+C0026605||motivated
+C0243095||lever pressing
+C1446409||positively
+C2752558||spine
+C0009170||cocaine
+C0009170||cocaine
+C0026605||motivation
+C1254351||drug

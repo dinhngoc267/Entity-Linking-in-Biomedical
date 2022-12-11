@@ -1,0 +1,53 @@
+C0023185||learning
+C0376683||lecture
+C0038495||medical student
+C0332149||possible
+C1257890||learner
+C0242428||satisfaction
+C0681814||two-armed experiment
+C0220825||evaluate
+C0038492||student
+C0242428||satisfaction
+C1518934||pediatric radiology
+C1555712||topic
+C0376683||lecture
+C0038495||Medical students
+C0034599||radiology
+C0038492||Student
+C0599755||cohorts
+C0015535||faculty
+C0203054||pediatric gastrointestinal radiology
+C0376683||lecture
+C1555712||topic
+C0038951||Survey
+C1522634||questions
+C1257890||learners'
+C0030971||perceived
+C0242428||satisfaction
+C0596545||experience
+C0220825||evaluate
+C0023185||learning
+C0038951||Survey
+C2911692||responses
+C0936012||analyzed
+C0008041||chi-squared test
+C0936012||analyzed
+C0038492||Students
+C0376683||lecture
+C0038492||students
+C0038492||Students
+C0376683||lecture
+C0700287||reported
+C0162340||understanding
+C0034770||recall
+C0038492||students
+C0038492||Students
+C0376683||lecture
+C0030971||perceived
+C0376683||lecture
+C0376683||lecture
+C0700287||reported
+C0038492||students
+C0596545||experience
+C0376683||lecture
+C0376683||lecture

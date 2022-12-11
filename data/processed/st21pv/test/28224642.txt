@@ -1,0 +1,20 @@
+C2603343||study
+C0242481||research
+C0011365||dental health
+C2603343||studies
+C2603343||study
+C1955832||systematic review
+C2603343||studies
+C2603343||studies
+C0035171||study design
+C0039309||target population
+C0449370||sampling strategy
+C0005516||biomarkers
+C0018727||planning
+C2603343||studies
+C0011334||dental caries
+C0035171||study design
+C0002783||epidemiological study
+C0011334||dental caries
+C0035173||researchers
+C2603343||study

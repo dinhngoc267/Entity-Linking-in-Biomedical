@@ -1,0 +1,78 @@
+C1299574||Hyperandrogenemia
+C0043210||women
+C0032460||polycystic ovary syndrome
+C1305855||body mass index
+C1299574||Hyperandrogenemia
+C0011900||diagnosis
+C0032460||polycystic ovary syndrome
+C0032460||polycystic ovary syndrome
+C1299574||hyperandrogenemia
+C0043210||women
+C0032460||polycystic ovary syndrome
+C1305855||body mass index
+C1305855||body mass index
+C0150312||presence
+C1299574||hyperandrogenemia
+C0043210||women
+C0011900||diagnosed
+C0032460||polycystic ovary syndrome
+C1299574||Hyperandrogenemia
+C0039601||testosterone
+C0039601||testosterone
+C0443483||free testosterone
+C0443483||free testosterone
+C4284099||∆4 androstenedione
+C4284099||Δ4-A
+C0019932||hormone
+C1257890||groups
+C1305855||body mass index
+C1299574||Hyperandrogenemia
+C0150312||present
+C0039601||testosterone
+C0443483||free testosterone
+C4284099||Δ4-A
+C2712185||normal weight
+C0043210||women
+C1305855||body mass index
+C1299574||hyperandrogenemia
+C0562350||hip circumference
+C3639411||HOMA-IR
+C0039601||testosterone
+C0443483||free testosterone
+C4284099||Δ4-A
+C0045010||17-hydroxyprogesterone
+C0045010||17-OHP
+C0057277||dehydroepiandrosterone sulfate
+C0057277||dehydroepiandrosterone sulfate
+C0023516||white blood cells
+C0023516||white blood cells
+C0027950||neutrophils
+C0043210||women
+C1299574||hyperandrogenemia
+C0497406||overweight
+C0043210||women
+C0039601||testosterone
+C0443483||free testosterone
+C4284099||Δ4-A
+C0045010||17-OHP
+C0057277||dehydroepiandrosterone sulfate
+C0020268||cortisol
+C0202230||thyroid-stimulating hormone (TSH) levels
+C0043210||women
+C1299574||hyperandrogenemia
+C1299574||hyperandrogenemia
+C0032460||polycystic ovary syndrome
+C0043210||women
+C0043210||Women
+C1305855||body mass index
+C0002844||androgens
+C0023516||white blood cells
+C0027950||neutrophils
+C3639411||HOMA-IR
+C0043210||women
+C1305855||body mass index
+C0002844||androgens
+C2825077||thyroid-stimulating hormone
+C0020268||cortisol
+C0150312||presence
+C1299574||hyperandrogenemia

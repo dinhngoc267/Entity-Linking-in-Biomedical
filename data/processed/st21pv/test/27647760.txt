@@ -1,0 +1,61 @@
+C0032529||polymorphisms
+C1538322||BDNFOS
+C1332408||BDNF genes
+C0019337||heroin addiction
+C0011892||heroin
+C2700280||world
+C0019337||heroin addiction
+C0752046||single nucleotide polymorphisms
+C0752046||single nucleotide polymorphisms
+C1425077||LIN7C
+C1538322||BDNFOS
+C1332408||BDNF genes
+C1510472||drug addiction
+C0007328||case-control study
+C0008115||China
+C0752046||single nucleotide polymorphisms
+C1285573||genotyped
+C0282574||MassARRAY technology
+C0683757||Sequenom
+C3828258||San Diego, CA
+C0041703||USA
+C0206031||unconditional logistic regression
+C0008041||chi-squared test
+C0678941||rs7481311
+C0678941||rs11030096
+C1538322||BNDFOS
+C0019337||heroin addiction
+C0678941||rs988712
+C1538322||BDNFOS
+C0019337||heroin addiction
+C0026343||genetic model
+C0936012||analysis
+C0002085||'T' allele
+C0678941||rs988712
+C1538322||BDNFOS
+C0019337||heroin addiction
+C0026343||additive model
+C0026343||dominant model
+C0002085||allele 'T'
+C0678941||rs7481311
+C1538322||BDNFOS
+C0019337||heroin addiction
+C0026343||additive model
+C0026343||recessive model
+C0026343||dominant model
+C0002085||allele 'C
+C0678941||rs11030096
+C0019337||addiction
+C0026343||dominant model
+C0026343||additive model
+C0678941||rs6265
+C0678941||rs11030104
+C0678941||rs10767664
+C1332408||BDNF
+C0019337||heroin addiction
+C0678941||rs7481311
+C1538322||BDNFOS
+C2825142||results
+C0032529||polymorphisms
+C1538322||BDNFOS
+C0019337||heroin addiction

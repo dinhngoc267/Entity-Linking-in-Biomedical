@@ -1,0 +1,34 @@
+C0162969||chitosan
+C0024109||pulmonary
+C0085104||drug delivery
+C1254351||drug
+C0024109||pulmonary
+C0085104||drug delivery
+C0035168||research
+C0162969||Chitosan
+C0005479||biocompatible
+C0032594||polysaccharide
+C0013161||carrier
+C0085104||drug delivery
+C0162969||chitosan
+C0162969||chitosan
+C0162969||synthetic derivatives
+C1254351||delivery of various therapeutic agents
+C0184511||improved
+C4085688||micro-
+C0162969||chitosan
+C0162969||derivatives
+C0024109||pulmonary
+C1254351||delivery of various therapeutic agents
+C0017337||genes
+C0042210||vaccines
+C0162969||chitosan
+C0524527||formulations
+C0282443||review
+C0024109||pulmonary
+C1881966||delivery of drug-encapsulated nanoparticles
+C0162969||chitosan
+C0162969||derivatives
+C0600688||toxicological effects
+C0162969||chitosan
+C0024109||lung

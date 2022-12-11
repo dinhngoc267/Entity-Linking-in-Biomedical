@@ -1,0 +1,90 @@
+C0019158||Liver Inflammation
+C0005393||Canalicular
+C0618375||Bile Transporter
+C1171362||Expression
+C0012634||Intestinal Failure
+C0023895||liver disease
+C0009566||complication
+C0030547||parenteral nutrition
+C0030547||parenteral nutrition
+C0012634||intestinal failure
+C0012634||intestinal failure
+C0699748||pathogenesis
+C0160390||liver injury
+C0012634||intestinal failure
+C0023884||Liver
+C1171362||expression
+C0005393||canalicular
+C0031676||phospholipid
+C1260069||ABCB4
+C0005390||bile acid
+C1313221||ABCB11
+C0038323||sterol
+C0971221||ABCG5/8
+C0007292||transporters
+C0033684||upstream regulators
+C4277606||LXR
+C1173940||FXR
+C0079189||pro-inflammatory cytokines
+C0021760||interleukin-6
+C0021760||interleukin-6
+C0041368||tumor necrosis factor
+C0041368||tumor necrosis factor
+C0012634||intestinal failure
+C0160390||liver injury
+C0030547||parenteral nutrition
+C0229671||serum
+C0031866||plant sterols
+C1431711||fibroblast growth factor 19
+C0969677||α-tocopherol
+C0030547||parenteral nutrition
+C0160390||liver injury
+C0043084||weaning
+C0030547||parenteral nutrition
+C2748698||portal inflammation
+C0030547||parenteral nutrition
+C0043084||weaned
+C0242656||progression
+C0008370||cholestasis
+C0239946||liver fibrosis
+C2748698||portal inflammation
+C0023884||liver
+C0040649||RNA expression
+C1334122||interleukin-6
+C0812246||tumor necrosis factor
+C0920533||repression
+C1173940||FXR
+C0005393||canalicular
+C0618375||bile transporter
+C0017337||gene
+C0040649||RNA expression
+C1412071||ABCB4
+C1412070||ABCB11
+C1171362||protein expression
+C1313221||ABCB11
+C1260069||ABCB4
+C0041904||upregulation
+C4277606||LXR
+C1422255||ABCG5/8
+C0040649||RNA expression
+C2748698||portal inflammation
+C0030547||parenteral nutrition
+C0229671||serum
+C0031866||plant sterols
+C0038329||stigmasterol
+C0031866||avenasterol
+C0220914||sitosterol
+C0229671||serum
+C0008864||citrulline
+C0005516||marker
+C0682610||enterocyte mass
+C2748698||portal inflammation
+C0012634||intestinal failure
+C0030547||parenteral nutrition
+C0021853||intestinal
+C0019158||liver inflammation
+C0242656||progression
+C0160390||liver injury
+C1171362||expression
+C0005393||canalicular
+C0618375||bile transporters

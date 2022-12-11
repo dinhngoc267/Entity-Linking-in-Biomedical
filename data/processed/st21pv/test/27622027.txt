@@ -1,0 +1,71 @@
+C1608815||CD169
+C0243095||identifies
+C1515879||activated
+C0242629||CD8(+) T cell
+C0079720||subset
+C1179441||regional lymph nodes
+C0033325||prognosis
+C1527249||colorectal cancer
+C1608815||CD169
+C0024432||macrophages
+C0024432||macrophages
+C0206431||antigen presentation
+C0017262||CD169 expression
+C0242629||CD8(+) T lymphocytes
+C1179441||regional lymph nodes
+C1179441||lymph nodes
+C0031843||function
+C0243095||clinical relevance
+C0039194||CD169(+)CD8(+) T cells
+C0024204||tumor-draining LNs
+C1527249||colorectal cancer
+C1527249||colorectal cancer
+C0440747||Fresh tumor-draining LN tissues
+C0016263||flow cytometry
+C0007589||differentiation
+C0039194||CD169(+)CD8(+) T cells
+C1523368||T cell-mediated killing of tumor cells
+C0024204||tumor-draining LN
+C1527249||colorectal cancer
+C0016318||multiple-color immunofluorescence
+C0039194||CD169(+)CD8(+) T cell
+C0220901||prognostic
+C0039194||CD169(+)CD8(+) T cells
+C0220825||evaluated
+C0242629||CD8(+) T cells
+C1179441||regional LNs
+C0229664||peripheral blood
+C0836921||tonsils
+C0027651||tumors
+C1608815||expressed surface CD169
+C0444498||In situ
+C1511790||detection
+C0024204||draining LNs
+C0039194||CD169(+)CD8(+) T cells
+C1518052||subcapsular sinus
+C1512836||interfollicular regions
+C0024432||CD169(+) Mϕ
+C0039194||CD169(+)CD8(+) T cell
+C0024204||lymph nodes
+C0024204||lymph nodes
+C0039194||CD169(+)CD8(+) T cells
+C0005516||activation markers
+C0108800||CD69
+C0019764||HLA-DR
+C0135710||PD-1
+C0108789||CD45RA
+C0125090||CD62L
+C0061878||granzyme B
+C0070410||perforin
+C1456820||TNF-α
+C3539881||IFNγ
+C1446301||tumor-killing efficiency
+C0039194||CD169(+)CD8(+) T cells
+C0332448||infiltrating
+C0024204||tumor-draining LNs
+C0242656||disease progression
+C1527249||colorectal cancer
+C0039195||cytolytic CD169(+)CD8(+) T cells
+C1179441||regional LNs
+C1514474||prognostic factor
+C0021083||immunotherapy

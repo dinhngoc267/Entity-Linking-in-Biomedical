@@ -1,0 +1,47 @@
+C0007131||Non-Small Cells Lung Cancer
+C0040300||Tissues
+C1155874||inhibitory immune checkpoints
+C0920425||tumor therapy
+C2986635||programmed cell death protein 1
+C0023688||ligand
+C0008976||clinical trials
+C0025202||melanoma
+C0007131||non-small cell lung cancer
+C0007131||non-small cell lung cancer
+C0005695||bladder
+C1378703||kidney cancer
+C1171362||expression
+C0034760||reagents
+C1522642||clones
+C0007634||cell
+C1171362||expression
+C0438231||interpretation
+C0014597||epithelial cells
+C0024264||lymphocytes
+C0033213||issue
+C0007131||non-small cell lung cancer
+C1292533||surgical specimens
+C4086729||pathologic examination
+C1449575||microarray approach
+C0079722||tumor-infiltrating lymphocytes
+C0597032||tumor cells
+C0597032||tumor cells
+C1516204||tumor histology
+C0919553||grade
+C0040300||tissue blocks
+C0243095||finding
+C0597032||tumor cells
+C0040300||tissues
+C0017262||expression
+C0079722||tumor-infiltrating lymphocytes
+C0597032||tumor cells
+C0007131||non-small cell lung cancer
+C0007137||squamous carcinoma
+C0449574||histotype
+C0019638||tumors
+C0001418||adenocarcinoma
+C0019638||histology
+C0007131||non-small cell lung cancer
+C0040300||archival tissues
+C0030664||pathology setting
+C0040300||tissue blocks

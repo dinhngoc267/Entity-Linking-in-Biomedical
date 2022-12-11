@@ -1,0 +1,22 @@
+C1536126||Penile Erosion
+C0030486||Paraplegic
+C0025266||Man
+C0521197||Indwelling Urinary Catheter
+C0151609||Scrotal Edema
+C0521197||urinary indwelling catheters
+C0017313||patient care
+C0009566||complications
+C0004448||awareness
+C0042066||urogenital
+C3714660||trauma
+C0042019||urinary catheterization
+C0042029||urinary tract infections
+C3714660||mechanical trauma
+C0041967||urethra
+C0227948||glans penis
+C0007430||catheterization
+C0030486||paraplegic
+C0007439||indwelling catheter
+C1704448||ventral
+C1536126||penile erosion
+C0021708||ICU setting

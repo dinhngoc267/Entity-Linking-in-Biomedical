@@ -1,0 +1,49 @@
+C0016017||fibrinolysis
+C1536220||ST-segment elevation myocardial infarction
+C4291682||current guidelines
+C0087111||treatment
+C1536220||ST-segment elevation myocardial infarction
+C1536220||ST-segment elevation myocardial infarction
+C0016017||fibrinolysis
+C0035124||reperfusion therapy
+C0018795||cardiac catheterisation
+C0016017||fibrinolysis
+C1444656||indicated
+C1710136||southwestern
+C0017480||Germany
+C1532297||emergency primary percutaneous coronary intervention
+C1536220||ST-segment elevation myocardial infarction
+C0016017||fibrinolysis
+C0256103||plasminogen activator reteplase
+C0031831||physicians
+C0087111||treatment
+C0009566||complications
+C0019994||hospital
+C0035363||retrospectively studied
+C1457887||symptoms
+C0582446||medical contact
+C0016017||fibrinolysis
+C0520248||mandated
+C2882099||inferior STEMI
+C1515021||subgroup
+C0009566||complications
+C0021308||infarction
+C2735050||prehospital
+C0036980||cardiogenic shock
+C0009566||complications
+C0243095||manageable
+C1306577||died
+C0019994||hospital
+C0024348||lysis
+C0879626||adverse effects
+C0854375||mucosal haemorrhages
+C0863090||mild allergic skin reactions
+C0018795||cardiac catheterisation
+C0022877||laboratory
+C0016017||fibrinolysis
+C1536220||ST-segment elevation myocardial infarction
+C0031831||physicians
+C1623258||ECG
+C0024348||lysis
+C0087111||therapy
+C0475309||cardiac centres

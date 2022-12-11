@@ -1,0 +1,30 @@
+C0152101||hypoplastic left heart syndrome
+C0033522||prospective mixed-method study
+C0596545||parents' experiences
+C0030695||monitoring
+C0152101||hypoplastic left heart syndrome
+C0442519||home
+C0030695||Interstage home monitoring
+C0152101||hypoplastic left heart syndrome
+C2242650||Norwood stages I and II
+C0030695||interstage home monitoring
+C0033522||Prospective mixed-method study
+C0030695||interstage home monitoring
+C1714475||Short Form Health Survey questionnaire
+C0243095||Family Scale administered
+C0030685||discharge
+C1320368||postdischarge
+C0474179||coping strategies
+C1320368||after hospital discharge
+C0152101||hypoplastic left heart syndrome
+C0018798||univentricular heart malformations
+C0243095||no interstage deaths
+C0025353||Mental Health
+C0424589||vitality
+C0243095||Family Scale values
+C0474179||coping strategy
+C0233459||fragile emotional balance
+C0030695||interstage home monitoring
+C0184661||protective intervention
+C0018724||Healthcare professionals
+C0028678||nursing support

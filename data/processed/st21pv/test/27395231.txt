@@ -1,0 +1,62 @@
+C1705920||species
+C2992016||Draconematidae
+C2287919||Epsilonematida
+C0027581||new species of Draconematidae and Epsilonematida
+C1030325||Desmodorida
+C0036493||White Sea
+C0035970||North Russia
+C0543482||Morphological
+C0678257||descriptions
+C1704319||walking nematode
+C1705920||species
+C0036493||White Sea
+C4111696||Draconema ophicephalum
+C2992016||Draconematidae
+C4093458||Epsilonema steineri
+C2287919||Epsilonematidae
+C0033213||problems
+C1705920||species
+C0486616||compositions
+C1708235||genera
+C1705920||species
+C2992020||Prochaetosoma marisalbi sp
+C2992016||Draconematidae
+C2992020||Prochaetosoma species
+C2992020||P. longicapitatum
+C0031354||pharyngeal
+C1947952||bulb
+C0524461||lumen
+C0243095||not cuticularised
+C2992020||P. longicapitatum
+C1268086||shape of body
+C0243092||rostrum
+C0205096||cephalic
+C0243092||adhesive tubes
+C2992020||P. maertensi
+C0039259||tail
+C0205094||anterior
+C0243092||adhesive tubes
+C1160234||cuticular thickening
+C0031354||pharyngeal
+C1947952||bulb
+C2992018||Draconema hoonsooi
+C2992018||D. youngeouni
+C2992020||P.rochaetosoma beomseomense
+C2992020||P. brevicaudatum
+C2992020||P. byungilli
+C2992020||P. cracense
+C2992020||P. saheungi
+C2992020||P. sujungi
+C2992020||P. supseomense
+C1705920||species
+C2992020||Prochaetosoma arcticum
+C2992020||P. lugubre
+C2287919||Epsilonema cygnoides
+C1705920||species inquirenda
+C1519068||phylogenetic tree
+C0035899||18S rRNA gene
+C0036493||White Sea
+C1705920||species
+C0205107||adjoin
+C1705920||species
+C1708235||genera

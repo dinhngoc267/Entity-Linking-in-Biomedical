@@ -1,0 +1,24 @@
+C0087111||Non-intubated
+C4039027||subxiphoid
+C4304660||uniportal video-assisted thoracoscopic thymectomy
+C0243095||glasses-free
+C0450363||3D
+C0042789||vision
+C0405560||Trans-sternal thymectomy
+C0543467||surgical procedure
+C0040113||thymic masses
+C0025663||methods
+C4304660||video-assisted thoracoscopic surgery
+C4304660||(VATS)
+C0087111||non-intubated
+C0002903||anesthesia
+C0025663||methods
+C0030201||postoperative associated pain
+C4304660||video-assisted thoracoscopic surgery
+C0442965||cosmetic
+C4039027||subxiphoid
+C4304660||uniportal VATS
+C1515430||thymic mass
+C0243095||glasses-free
+C0450363||3D
+C0442425||thoracoscopic

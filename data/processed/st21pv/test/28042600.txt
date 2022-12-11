@@ -1,0 +1,43 @@
+C2936470||Synbiotics
+C0087111||Treatment
+C1527298||Bacillary Dysentery
+C0013072||Double-Blind
+C0206035||Randomized
+C1527298||Bacillary dysentery
+C0184666||admission to hospitals
+C0525033||probiotic
+C2717875||prebiotic
+C2936470||synbiotics
+C0013369||dysentery
+C0206034||randomized clinical trial
+C0013369||dysentery
+C2936470||synbiotic
+C0039225||tablet
+C2936470||synbiotic
+C1696465||placebo
+C1696465||placebo
+C0039225||tablets
+C0039225||tablet
+C0525033||probiotics
+C0087111||treatment
+C0019993||hospitalization
+C0013369||dysentery
+C0015967||fever
+C1262477||weight loss
+C0013369||dysentery
+C0015967||fever
+C2936470||synbiotic
+C1696465||placebo
+C1262477||weight loss
+C2936470||synbiotic
+C1696465||placebo
+C0019993||hospitalization
+C2936470||synbiotics
+C0677850||adjuvant therapy
+C0087111||treatment
+C0013369||dysentery
+C0013369||dysentery
+C0015967||fever
+C1262477||rate of weight losses
+C0008976||trial
+C1514821||registered

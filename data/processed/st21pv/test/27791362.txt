@@ -1,0 +1,55 @@
+C0040405||X-ray Computed Tomography
+C0009924||Contrast Agents
+C0040405||X-ray computed tomography
+C0040405||computed tomography
+C2986496||noninvasive
+C1515655||in vivo
+C0079595||imaging techniques
+C0183263||X-ray device
+C0969683||enhancement technologies
+C2603343||study
+C0077513||metal tungstates
+C0054486||CaWO4
+C0009924||contrast agents
+C0043299||X-ray
+C0040405||CT imaging
+C0043299||X-ray
+C0041383||tungsten
+C0041383||W
+C0054486||CaWO4
+C0054486||CaWO4
+C0257395||poly(ethylene glycol-b-d,l-lactic acid) (PEG-PLA) block copolymer (BCP) capsule
+C0257395||PEG-PLA
+C0040405||computed tomography
+C0021968||iodine
+C0009924||radiocontrast agents
+C0022005||Iohexol
+C0041383||W
+C0021968||I
+C0567415||atoms
+C0257395||PEG-PLA
+C0026809||mice
+C0013125||intravenous (IV) administration
+C0086140||dextran
+C0060240||iron oxide
+C0024485||MRI
+C0009924||contrast agents
+C0026809||mice
+C0257395||PEG-PLA
+C1513916||no
+C0677043||histopathologic
+C0178784||excretory organs
+C0018787||histopathologic damage in major excretory organs
+C0023884||liver
+C0024109||lungs
+C0037993||spleen
+C0022646||kidney
+C0026809||mice
+C0005775||blood circulation
+C0026809||mice
+C0022646||renal
+C1711359||hepatobiliary systems
+C0257395||PEG-PLA
+C2986594||tumor-bearing mouse model
+C0257395||PEG-PLA
+C0040405||computed tomography

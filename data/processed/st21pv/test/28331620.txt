@@ -1,0 +1,42 @@
+C0002957||Anger
+C0006012||borderline personality disorder
+C1263846||attention deficit hyperactivity disorder
+C0038435||stress
+C0038435||stress
+C0002957||anger
+C0006012||Borderline Personality Disorder
+C0006012||Borderline Personality Disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C2603343||study
+C0002957||anger
+C0012634||disorders
+C0243095||unmedicated
+C0006012||Borderline Personality Disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C2700446||self-reports
+C0002957||anger
+C0242481||state anger measurement
+C0038435||Stress
+C3494508||Mannheim Multicomponent Stress Test
+C3494508||Mannheim Multicomponent Stress Test
+C2700446||self-report
+C1263846||Attention Deficit Hyperactivity Disorder
+C0006012||Borderline Personality Disorder
+C0020039||hostility
+C0002957||anger
+C0002957||anger
+C0006012||Borderline Personality Disorder
+C0002957||anger
+C1263846||Attention Deficit Hyperactivity Disorder
+C0002957||anger
+C0006012||Borderline Personality Disorder
+C0002957||anger
+C0243095||findings
+C0038435||stress
+C0002957||anger
+C0006012||Borderline Personality Disorder
+C0006012||Borderline Personality Disorder
+C1263846||Attention Deficit Hyperactivity Disorder
+C0002957||anger
+C0006012||Borderline Personality Disorder

@@ -1,0 +1,56 @@
+C0032105||Plasma
+C0012854||DNA
+C0035668||RNA
+C0005778||coagulation
+C1141926||abdominal sepsis
+C2603343||explorative study
+C4289789||Cell-free DNA
+C4289789||Cell-free DNA
+C0521119||extracellular
+C0035668||RNA
+C0035668||extracellular RNA
+C0005779||coagulation cascades
+C0243026||sepsis
+C2603343||study
+C0032105||plasmatic
+C0028606||nucleic acids
+C0005778||coagulation
+C0198482||abdominal surgery
+C0243026||sepsis
+C1708335||healthy volunteers
+C0023981||longitudinal study
+C0005767||Blood
+C0243026||sepsis
+C0543467||surgery
+C4289789||Cell-free DNA
+C0035668||extracellular RNA
+C0182400||probe-based
+C0032520||polymerase chain reaction
+C0040017||thromboelastography
+C0005778||coagulation
+C0022885||thromboaggregometry
+C1254881||platelet function
+C4289789||Cell-free DNA
+C0035668||extracellular RNA
+C0243026||sepsis
+C1708335||healthy volunteers
+C0035668||extracellular RNA
+C2266672||faster clotting time
+C0302148||stable clots
+C4289789||Cell-free DNA
+C2266672||shorter clotting time
+C0016017||fibrinolysis
+C4289789||Cell-free DNA
+C0151746||kidney dysfunction
+C0005516||markers
+C0022917||lactate dehydrogenase
+C0376261||lactate
+C0028606||nucleic acid
+C0005778||coagulation
+C0243026||sepsis
+C2917275||procoagulatory
+C0087111||therapeutic approaches
+C0751408||suffering
+C0005778||coagulation
+C0449380||associated
+C0342953||organ dysfunction

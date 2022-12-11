@@ -1,0 +1,54 @@
+C2828037||Acinetobacter calcoaceticus-Acinetobacter baumannii complex
+C3714514||infection
+C0012984||dogs
+C0007450||cats
+C0019996||veterinary hospital
+C2828037||Acinetobacter calcoaceticus-Acinetobacter baumannii complex
+C0086418||humans
+C0700287||reported
+C0003062||animals
+C0035363||retrospective study
+C0012984||dogs
+C0007450||cats
+C4076168||multidrug resistant member
+C2828037||Acinetobacter calcoaceticus-Acinetobacter baumannii complex
+C0019996||veterinary hospital
+C2603343||study
+C0012984||dogs
+C0007450||cats
+C2828037||Acinetobacter calcoaceticus-Acinetobacter baumannii complex bacteria
+C0042036||urine
+C0003062||animals
+C0035237||respiratory tract
+C0040300||tissues
+C0005767||blood
+C3714514||infection
+C0449380||associated findings
+C0015967||fever
+C0333274||purulent discharge
+C0336630||endotracheal tubes
+C0020649||hypotension
+C0221023||neutropaenia
+C3714514||Infection
+C0032285||pneumonia
+C0042029||urinary tract infection
+C0007642||cellulitis
+C0243026||sepsis
+C3714514||Infection
+C0242781||transmitted
+C0021708||intensive care unit
+C0003062||animals
+C0184666||hospitalised
+C0003062||animals
+C0035243||respiratory infection
+C3714514||infections
+C0014406||environmental
+C0012683||disinfection
+C0003424||antisepsis
+C3714514||infection
+C2828037||Acinetobacter calcoaceticus-Acinetobacter baumannii complex
+C0012984||dogs
+C0007450||cats
+C1283169||monitoring
+C3536839||antiseptic
+C0003232||antibiotic

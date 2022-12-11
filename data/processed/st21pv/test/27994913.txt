@@ -1,0 +1,37 @@
+C0220825||Evaluation
+C1334507||MIF -173 G/C
+C0549217||Turkish
+C0038013||Ankylosing Spondylitis
+C0038013||Ankylosing spondylitis
+C0038013||Ankylosing spondylitis
+C1290886||chronic inflammatory disease
+C0037949||spine
+C0036036||sacroiliac joints
+C0024429||Macrophage migration inhibitory (MIF) factor
+C0079189||cytokine
+C1326500||immune cell migration
+C1334507||MIF gene
+C0314621||promoter
+C0242656||progression
+C1290884||inflammatory disorders
+C1334507||MIF gene -173 G/C
+C0752046||single-nucleotide polymorphism
+C0752046||single-nucleotide polymorphism
+C0038013||Ankylosing spondylitis
+C0010362||Cross-sectional study
+C2603343||study
+C0038013||Ankylosing spondylitis
+C1334507||MIF gene -173 G/C
+C0752046||single-nucleotide polymorphism
+C0936012||analyzed
+C0032520||polymerase chain reaction
+C3714764||restriction fragment length polymorphism method
+C1257890||groups
+C1883559||wild-type
+C0038013||Ankylosing spondylitis
+C0038013||Ankylosing spondylitis
+C0012634||disease
+C1334507||MIF -173 G/C
+C1334507||MIF -173 G/C
+C0002085||C allele
+C0038013||Ankylosing spondylitis

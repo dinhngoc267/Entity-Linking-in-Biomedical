@@ -1,0 +1,70 @@
+C0936012||evolutionary analysis
+C1417530||adapter molecule MyD88
+C0021948||invertebrate
+C2713498||metazoans
+C1417530||myeloid differentiation factor 88
+C1417530||myeloid differentiation factor 88
+C0670896||Toll-like receptor
+C0670896||Toll-like receptor
+C0037083||signalling pathways
+C0670896||Toll-like receptor
+C1564907||pattern-recognition receptor
+C1564907||pattern-recognition receptor
+C0013138||Drosophila
+C2603343||study
+C1417530||MyD88 gene
+C1304606||shellfish
+C3346701||Scapharca subcrenata
+C1511738||DEATH domain
+C1956034||TIR domain
+C0026391||molluscs
+C0796358||comparative genomic evidence
+C1417530||myeloid differentiation factor 88
+C0015295||exon
+C0021920||intron regions
+C1519068||phylogenetic relationships
+C0021948||invertebrate
+C2713498||metazoan
+C1417530||myeloid differentiation factor 88
+C0037589||MrBayes and PhyML software
+C2827421||construct
+C0024970||maximum likelihood approaches
+C1417530||myeloid differentiation factor 88
+C0003903||Arthropoda
+C0021948||invertebrates
+C0543482||morphological
+C0015219||evolutionary patterns
+C0678933||positive selection sites
+C0678933||positive selection sites
+C1417530||MyD88 gene
+C0003903||Arthropoda
+C0026391||Mollusca
+C0021585||Insecta
+C0037589||PAML software
+C0025663||maximum likelihood method
+C0678933||positive selection sites
+C0442726||detected
+C1257890||groups
+C0002518||partial sites
+C1956034||TIR domain
+C0442737||not found
+C1511738||DEATH domain
+C2603343||study
+C1417530||myeloid differentiation factor 88
+C0021948||invertebrate
+C2713498||metazoans
+C0015219||evolutionary position
+C0003903||Arthropoda
+C1417530||myeloid differentiation factor 88
+C1446409||positive
+C0036576||selection pressures
+C1417530||myeloid differentiation factor 88
+C0003903||Arthropoda
+C0026391||Mollusca
+C0021585||Insecta
+C0015219||evolutionary pattern
+C0670896||Toll-like receptor
+C1417530||myeloid differentiation factor 88
+C0037083||signalling pathways
+C0021948||invertebrate
+C0042567||vertebrate taxa

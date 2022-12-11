@@ -1,0 +1,66 @@
+C1515655||In Vivo
+C0450363||Three-Dimensional
+C0030647||Patellar
+C0022742||Knees
+C0444914||Domed
+C0030647||Patellar
+C0447801||Patellofemoral
+C0035110||revision surgery
+C0086511||total knee arthroplasty
+C0086511||total knee arthroplasty
+C0447801||patellofemoral articulation
+C0447801||patellofemoral
+C0205146||contact area
+C2603343||study
+C0450363||three-dimensional
+C0450363||3D
+C1515655||in vivo
+C0444914||domed
+C0332479||shaped
+C0030647||patellar
+C0030647||patellae
+C0022742||knees
+C0332293||treated with
+C0086511||LCS-PS (low contact stress-posterior stabilized) TKA
+C0332479||shaped
+C0030647||patellar
+C0332293||treated with
+C0086511||PFC Sigma RP-PS (press-fit condylar Sigma rotating platform-posterior stabilized) TKA
+C0444914||domed
+C0030647||patellar
+C0936012||analyzed
+C0016356||fluoroscopic
+C0085086||weight-bearing
+C0205125||deep
+C0243095||knee bend
+C0240114||knee flexion
+C0441635||segmented
+C0412645||computed tomography
+C0412645||computed tomography
+C0441633||scans
+C3161035||models
+C0021102||implanted
+C0450363||Three-dimensional
+C0447801||patellofemoral
+C0600169||kinematics
+C0450363||3D
+C1705052||2D
+C0030647||articulating patellar
+C0828554||femoral surfaces
+C0030647||patellar
+C0600169||rotational kinematics
+C0223886||femoral trochlea
+C0030647||patella
+C0205146||contact areas
+C0086511||total knee arthroplasty
+C0240114||knee flexion
+C0205146||areas
+C0684224||reported
+C0030647||patella
+C3714763||Contact points
+C0086511||total knee arthroplasty
+C0205099||center
+C0030647||patellar
+C0447801||patellofemoral
+C0205146||contact areas
+C0030647||patella

@@ -1,0 +1,41 @@
+C0039431||radiological
+C0221733||paradox
+C0392335||cognitive function
+C0024485||MRI
+C0682708||white matter
+C0221198||lesions
+C0027361||people
+C0026769||multiple sclerosis
+C1955832||systematic review
+C0282458||meta-analysis
+C0006104||brain
+C0682708||white matter
+C0221198||lesions
+C0027361||people
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0030664||pathology
+C0023866||literature
+C0039431||radiological
+C0221733||paradox
+C1955832||Systematic review
+C0282458||meta-analysis
+C0035168||research
+C0392335||cognitive function
+C0682708||white matter
+C0221198||lesion
+C0282443||review
+C0282458||meta-analysis
+C0679646||participants
+C0009240||cognition
+C0475373||T2
+C0221198||lesion
+C0200765||image analysis techniques
+C0039431||radiological
+C0221733||paradox
+C0220825||evaluation
+C0030664||pathology
+C0024485||MRI
+C0200765||image analysis
+C0026769||multiple sclerosis
+C0683888||innovation

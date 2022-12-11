@@ -1,0 +1,51 @@
+C0017337||Carbon Assimilation Rate 8
+C0597336||Quantitative Trait Locus
+C0242724||Flag Leaf
+C0028158||Nitrogen
+C1955855||Stomatal
+C1140671||Rice
+C1140671||rice
+C1140671||Oryza sativa
+C1140671||rice cultivars
+C0017337||genes
+C0450429||location
+C0017337||Carbon Assimilation Rate 8
+C0017337||Carbon Assimilation Rate 8
+C0010366||crossing
+C1659274||indica cultivar
+C0022341||Japanese
+C0680536||commercial
+C0032098||cultivar
+C0017337||Carbon Assimilation Rate 8
+C0033684||putative Heme Activator Protein 3
+C0033684||OsHAP3
+C0526260||CCAAT-box-binding transcription factor
+C0017337||OsHAP3H
+C1659274||indica
+C0002085||allele
+C0017337||Carbon Assimilation Rate 8
+C0162773||1-bp deletion
+C0600436||bp
+C0242610||start codon
+C1144558||truncated protein
+C0002520||amino acids
+C0017337||Carbon Assimilation Rate 8
+C0017337||DTH8
+C0017337||Ghd8
+C0017337||LHD1
+C1140671||rice
+C1820370||flowering
+C0242724||leaf
+C0028158||nitrogen
+C1955855||stomatal
+C1955855||stomatal
+C0002085||allele
+C1955855||stomatal
+C0017337||Carbon Assimilation Rate 8
+C0031843||physiological aspects
+C0936012||analysis
+C1148560||molecular functions
+C0017337||Carbon Assimilation Rate 8
+C1820370||flowering
+C0184511||improve
+C1140671||rice

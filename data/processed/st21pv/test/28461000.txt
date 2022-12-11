@@ -1,0 +1,11 @@
+C1176020||Sunitinib
+C0205042||Coronary Artery
+C0340643||Aortic Dissections
+C0879484||Small-molecule multitargeted tyrosine kinase inhibitor (TKI) therapy
+C0006826||cancer
+C0013227||drugs
+C0876994||cardiovascular toxicity
+C0340643||aortic dissection
+C0376554||knowledge
+C0340643||coronary dissection
+C0879484||TKI treatment

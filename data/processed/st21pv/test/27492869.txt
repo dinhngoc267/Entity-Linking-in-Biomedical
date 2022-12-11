@@ -1,0 +1,32 @@
+C0151736||Unintentional Injuries
+C0376554||Knowledge
+C0004271||Attitudes
+C0022277||Italy
+C0035648||risk factors
+C0151736||unintentional injuries
+C0376554||knowledge
+C0004271||attitudes
+C3263723||injuries
+C0010362||cross-sectional survey
+C0150105||random sample
+C0034394||anonymous questionnaire
+C0151736||unintentional injury
+C0552510||leading cause
+C0000921||falls
+C3263723||injuries
+C0442519||home
+C0562508||emergency department
+C0151736||unintentional injuries
+C0282122||respondents
+C0004448||aware
+C0036547||security measures
+C3263723||injuries
+C0376554||knowledge
+C0030971||perceived
+C3263723||injuries
+C0451267||Likert scale
+C0699943||public health
+C0151736||unintentional injuries
+C0150638||injury prevention
+C3263723||injuries
+C0442519||home

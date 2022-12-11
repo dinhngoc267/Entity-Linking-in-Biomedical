@@ -1,0 +1,49 @@
+C0015732||faecal incontinence
+C0036421||systemic sclerosis
+C0015732||faecal incontinence
+C0015732||faecal incontinence
+C0036421||SSc
+C0021853||intestinal
+C0015732||faecal incontinence
+C0010362||cross-sectional study
+C0036421||SSc
+C1708333||Canadian Scleroderma Research Group
+C0599755||cohort
+C0034394||questionnaires
+C0349674||Jorge-Wexner score
+C0015732||faecal incontinence
+C0681887||severity scale
+C4084861||Bristol stool scale
+C0426740||stool consistency
+C0015732||faecal incontinence
+C0451401||Quality-of-Life scale
+C0009806||Constipation
+C0679228||Rome III criteria
+C0349674||Jorge-Wexner score
+C1836458||clinical variables
+C0034980||multivariate regression analyses
+C0015732||faecal incontinence
+C0015733||stools
+C0009806||constipation
+C3160854||small intestinal bacterial overgrowth
+C3160854||small intestinal bacterial overgrowth
+C0015732||faecal incontinence
+C2129214||loose
+C0015733||stools
+C0009806||constipation
+C3160854||small intestinal bacterial overgrowth
+C0042024||urinary incontinence
+C0015732||faecal incontinence
+C0451401||Quality-of-Life scale
+C0015732||faecal incontinence
+C0015732||faecal incontinence
+C0036421||SSc
+C2129214||Loose stools
+C3160854||small intestinal bacterial overgrowth
+C0009806||constipation
+C0042024||urinary incontinence
+C0015732||faecal incontinence
+C0277785||dysfunction
+C0087111||treatment
+C0015732||faecal incontinence
+C0036421||SSc

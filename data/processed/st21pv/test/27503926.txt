@@ -1,0 +1,55 @@
+C2720168||SIRT2
+C2246982||Deacetylates
+C3893923||Inhibits the Peroxidase Activity
+C0672553||Peroxiredoxin-1
+C1512505||Sensitize Breast Cancer Cells
+C0242606||Oxidant Stress
+C2720168||SIRT2
+C2246982||protein deacetylase
+C1325410||tumor suppressor activity
+C0006142||breast
+C0345904||liver tumors
+C1705285||mutated
+C0243095||antitumor activity
+C2720168||SIRT2
+C1149286||binds
+C1511737||deacetylates
+C3893923||inhibits the peroxidase activity
+C0672553||antioxidant protein peroxiredoxin
+C0672553||Prdx-1
+C1512505||breast cancer cells
+C0574895||Ectopic
+C0017262||overexpression
+C2720168||SIRT2
+C0596988||catalytically dead mutant
+C0178719||intracellular levels
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0020281||induced by hydrogen peroxide,
+C0672553||overoxidized and multimeric form of Prdx-1
+C0243041||activity as a molecular chaperone
+C1420071||SIRT2
+C1512505||sensitized breast cancer cells
+C0012860||intracellular DNA damage
+C3894015||cell death induced by oxidative stress
+C1333633||nuclear FOXO3A
+C4282114||proapoptotic BIM protein
+C2720168||SIRT2
+C1512505||sensitized breast cancer cells
+C0052416||arsenic trioxide
+C0162772||intracellular ROS
+C1254351||inducing agents
+C0080124||antisense RNA
+C2720168||SIRT2
+C0162772||reactive oxygen species
+C1516457||induced toxicity
+C0043457||zebrafish
+C0013935||embryo model system
+C1325410||tumor suppressor activity
+C2720168||SIRT2
+C1148564||antioxidant activity
+C0672553||Prdx-1
+C1512505||sensitizing breast cancer cells
+C0162772||reactive oxygen species
+C0012860||induced DNA damage
+C0596402||cell cytotoxicity

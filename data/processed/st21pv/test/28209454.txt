@@ -1,0 +1,45 @@
+C0686217||Carcinoma In Situ of the Glans Penis
+C0392251||Carbon Dioxide Laser
+C0728940||Excision
+C0686217||carcinoma in situ (CIS) of the glans penis
+C0154089||erythroplasia of Queyrat
+C1519552||topical chemotherapy
+C0021083||immunotherapy
+C0728940||surgical excision
+C0728940||evaluated
+C0392251||carbon dioxide laser
+C0348007||ablation
+C0221198||lesion
+C0686217||carcinoma in situ
+C0332293||treated
+C0392251||carbon dioxide laser
+C0348007||ablation
+C0019637||histologic examination
+C0013221||toxicity
+C0879626||adverse effects
+C0019637||histologic examination
+C0332652||no residual tumor
+C4050307||complete response
+C4050307||complete response
+C0677946||stable disease
+C1335499||progressive disease
+C4050307||complete response
+C0021344||human papillomavirus
+C0221198||lesions
+C1513916||no
+C1522577||follow-up
+C1335499||progressive disease
+C0194708||penectomy
+C2584946||alive
+C0260832||follow-up examination
+C0013221||toxicity
+C0085624||burning erythema
+C1513916||no
+C0879626||adverse effects
+C0686217||carcinoma in situ
+C0021344||human papillomavirus
+C0221198||lesions
+C0019637||histologic examination
+C0012634||disease
+C1522577||follow-up
+C0442711||protocol

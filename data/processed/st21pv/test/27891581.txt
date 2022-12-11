@@ -1,0 +1,50 @@
+C0003241||anti-red blood cell IgG-Fc alloantibody
+C0014761||haemolytic disease of the fetus and newborn
+C0014761||Haemolytic disease of the fetus and newborn
+C0014761||Haemolytic disease of the fetus and newborn
+C0012634||disease
+C0015965||fetal
+C0014792||red blood cells
+C0014792||red blood cells
+C0729663||maternal anti-RBC IgG alloantibodies
+C0014761||Haemolytic disease of the fetus and newborn
+C0140430||anti-D
+C0313239||anti-K
+C0432626||-c
+C0947659||-E
+C1622430||N-linked glycosylation
+C0140430||anti-D
+C3271553||fucosylation
+C0003255||affinity
+C1521898||IgG-Fc receptor IIIa
+C0966831||IIIb
+C0014761||Haemolytic disease of the fetus and newborn
+C0012634||disease
+C0033011||pregnant women
+C0432626||anti-c
+C0947659||-E
+C0313239||-K
+C0022144||alloantibodies
+C0422390||screening cohort
+C0376322||Fc-tail glycosylation
+C0003241||antibodies
+C0020971||immunisation
+C0032972||pregnancy outcome
+C0432626||Anti-c
+C0947659||-E
+C0313239||-K
+C0020971||immunisation
+C0376322||Fc-glycosylation
+C0020852||IgG fraction
+C0140430||anti-D
+C1159287||Fc-galactosylation
+C4235385||sialylation
+C0432626||anti-c
+C0014761||Haemolytic disease of the fetus and newborn
+C0012634||disease
+C0313239||anti-K
+C1159287||Fc-fucosylation
+C2349595||fetal anaemia
+C0376322||IgG-Fc glycosylation
+C0003241||anti-RBC antibodies
+C0003320||antigen

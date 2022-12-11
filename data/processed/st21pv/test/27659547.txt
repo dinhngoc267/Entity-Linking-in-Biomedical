@@ -1,0 +1,61 @@
+C0242498||self-perceptions
+C0001811||aging
+C0006826||cancer
+C0025353||mental health
+C0006826||cancer
+C0010362||A cross-sectional study
+C0011570||stigmas
+C0006826||cancer
+C0001811||aging
+C2603343||studies
+C0205160||negative
+C0449911||view
+C0006826||cancer
+C1319226||level of depression
+C2603343||studied
+C0001792||elderly population
+C0205160||negative
+C0242498||self-perception
+C0001811||aging
+C0025353||mental
+C0001811||aging
+C0027651||oncology
+C0936012||analyze
+C0011570||stigmas
+C0001792||elderly
+C0027651||oncology
+C0006826||cancer
+C0006142||breast
+C0017411||gynecological
+C0242379||lung
+C0018939||hematological
+C0011900||diagnosis
+C0242498||self-perception
+C0006826||cancer
+C0025353||mental
+C0684321||regressions
+C0205160||negative
+C0242498||self-perception
+C0001811||aging
+C0205160||negative
+C0006826||cancer
+C1456573||global health
+C0205160||negative
+C0242498||self-perception
+C0001811||aging
+C0025353||mental health
+C0205160||negative
+C0006826||cancer
+C0025353||mental health
+C0011570||stigmas
+C0006826||cancer
+C0205160||negative
+C0242498||self-perception
+C0001811||aging
+C0006826||cancer
+C0011570||stigmas
+C0025353||mental health
+C0242498||Self-perception
+C0001811||aging
+C0023981||Longitudinal studies
+C0936012||analyze

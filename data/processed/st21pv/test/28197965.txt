@@ -1,0 +1,41 @@
+C2242529||Allogeneic stem cell transplantation
+C0023449||acute lymphoblastic leukemia
+C4050309||central nervous system involvement
+C2603343||study
+C0023449||acute lymphoblastic leukemia
+C1883562||Working Group
+C0022341||Japan
+C0037455||Society
+C1705576||Hematopoietic Cell Transplantation
+C0033325||prognosis
+C0023449||acute lymphoblastic leukemia
+C0023449||acute lymphoblastic leukemia
+C4050309||central nervous system (CNS) involvement
+C4050309||CNS+
+C1705576||allogeneic hematopoietic stem cell transplantation
+C1705576||allogeneic hematopoietic stem cell transplantation
+C1705576||allogeneic hematopoietic stem cell transplantation
+C4050309||CNS involvement
+C4050309||CNS involvement
+C4050309||CNS involvement
+C0242356||database
+C0022341||Japan
+C2603343||study
+C1704656||diagnosis
+C0023449||acute lymphoblastic leukemia
+C1705576||allogeneic hematopoietic stem cell transplantation
+C1705576||SCT
+C0936012||analyses
+C1457868||worse
+C0012634||disease
+C1705576||SCT
+C1518965||performance status
+C1518965||performance status
+C1705576||SCT
+C3714787||central nervous system
+C1705576||SCT
+C0677874||CR
+C4050309||CNS+
+C4050309||CNS involvement
+C4050309||CNS involvement
+C0677874||CR

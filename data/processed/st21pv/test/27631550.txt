@@ -1,0 +1,73 @@
+C1537720||MicroRNA-22
+C0085196||6-Hydroxydopamine
+C0007634||Cell
+C0684309||Model
+C0030567||Parkinson's Disease
+C0017263||Regulation
+C0017337||Gene
+C1425224||transient receptor potential melastatin 7
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0205391||prevalent
+C0524851||neurodegenerative disorder
+C0087111||treatment
+C1512035||dopaminergic neurons
+C0025462||midbrain
+C1101610||microRNAs
+C1101610||microRNAs
+C1514248||regulate post-transcriptional
+C0017262||gene expression
+C0027765||neuronal disease
+C2603343||study
+C1537720||miR-22
+C0085262||PC12 pheochromocytoma cells
+C0085196||6-hydroxydopamine
+C0085196||6-OHDA
+C0030567||Parkinson's disease
+C0599161||RT-PCR
+C0017262||expression
+C1537720||miR-22
+C0013081||downregulated
+C0085196||6-OHDA
+C0085262||PC12 cells
+C0017262||overexpression
+C1537720||miR-22
+C0007620||survival
+C0596290||proliferation
+C0085196||6-OHDA
+C0085262||PC12 cells
+C1537720||miR-22
+C0085262||PC12 cells
+C1537720||miR-22 mimics
+C0085196||6-OHDA
+C1533734||administration
+C0162772||ROS
+C1148560||production
+C0041904||upregulation
+C0013081||downregulation
+C1150132||caspase-3 activity
+C0024075||luciferase
+C2717977||assay
+C1425224||transient receptor potential melastatin 7
+C1425224||transient receptor potential melastatin 7
+C0017337||gene
+C1537720||miR-22
+C1537720||miR-22
+C0017262||overexpression
+C0013081||downregulated
+C1425224||transient receptor potential melastatin 7
+C0936012||analysis
+C1537720||miR-22
+C0085196||6-OHDA
+C0085262||PC12
+C0007620||cell survival
+C0596290||proliferation
+C1425224||transient receptor potential melastatin 7
+C2603343||study
+C1537720||miR-22
+C0017262||overexpression
+C0085196||6-OHDA
+C0085262||PC12
+C0007595||cell growth
+C0162638||apoptosis
+C1425224||transient receptor potential melastatin 7

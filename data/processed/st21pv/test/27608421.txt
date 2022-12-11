@@ -1,0 +1,68 @@
+C1327622||co-regulation
+C0017258||genomic clusters
+C1136170||virulence factors
+C0012634||grapevine trunk
+C2269732||Neofusicoccum parvum
+C0003965||ascomycete
+C2269732||Neofusicoccum parvum
+C0449411||causal agents
+C1011772||Botryosphaeria dieback
+C0439663||infecting
+C0016832||fungus
+C0018208||grape
+C2700280||worldwide
+C4289767||colonizing
+C1514137||woody tissue
+C0036536||secretion
+C1706082||compounds
+C0042765||virulence
+C1136170||virulence factors
+C0040649||transcriptional
+C0016832||fungus
+C0016452||feeds
+C4289767||colonizes
+C2699642||woody stem
+C0205283||contiguous
+C0017428||genome
+C0752248||Transcriptome profiling
+C0917793||RNA-sequencing
+C0017428||genome
+C0449774||patterns
+C0017262||expression
+C1136170||virulence factors
+C0032846||potato
+C3266617||dextrose agar
+C0010454||medium
+C0018208||grape
+C0032098||planta
+C0237913||Pairwise statistical testing
+C0017262||expression
+C1880945||co-expression network analysis
+C0017258||clustered genes
+C0017380||coding
+C0042765||virulence
+C0032098||plant
+C3714514||infection
+C0017262||Co-expressed
+C0017258||gene clusters
+C0017337||genes
+C0260000||secondary metabolism
+C1157855||cell wall degradation
+C1327622||co-regulation
+C1720950||transcriptional networks
+C2269732||N. parvum
+C0042765||virulence
+C0017262||co-expressed
+C0017258||clusters
+C0017337||genes
+C0033413||promoter region
+C1327622||co-regulation
+C0040648||transcription factor
+C1880945||Co-expression analysis
+C0008546||chromatin
+C0017262||expression
+C0017258||clusters
+C1136170||virulence factors
+C1327622||regulation
+C0042765||virulence
+C2269732||N. parvum

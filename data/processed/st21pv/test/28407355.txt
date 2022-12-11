@@ -1,0 +1,63 @@
+C3894683||Extracellular vesicles
+C0005953||bone marrow
+C1257975||mesenchymal stem cells
+C0026809||murine
+C4303160||hepatic ischemia - reperfusion injury
+C4303160||Hepatic ischemia-reperfusion injury
+C4303160||ischemia-reperfusion injury
+C0021368||associated inflammation
+C0086565||liver dysfunction
+C0009566||complications
+C0193373||liver surgery
+C0040732||transplantation
+C1257975||Mesenchymal stem cells
+C1257975||Mesenchymal stem cells
+C4303160||hepatic IRI
+C1527392||immunomodulatory
+C0040300||tissues
+C3894683||extracellular vesicles
+C1257975||MSCs
+C1257975||Mesenchymal stem cells
+C3894683||EV
+C1511243||mouse bone marrow
+C1257975||Mesenchymal stem cells
+C3894683||EV
+C0887965||experimental murine model
+C4303160||hepatic IRI
+C0019145||hepatic artery
+C0032718||portal vein
+C0035124||reperfusion
+C0013125||controls, intravenous administration
+C1257975||Mesenchymal stem cells
+C3894683||EV
+C4303160||ischemia-reperfusion injury
+C0027540||tissue necrosis
+C0291573||caspase-3 positive
+C3269134||apoptotic cells
+C0002594||aminotransferase
+C1257975||Mesenchymal stem cells
+C3894683||EV
+C0205054||hepatic
+C1515670||mRNA expression
+C1864814||NACHT, LRR and PYD domains-containing protein 12
+C1864814||Nlrp12
+C0812445||chemokine (C-X-C motif) ligand 1
+C0812445||CXCL1
+C1515670||mRNA expression
+C0079189||cytokines
+C0021760||IL-6
+C4303160||ischemia-reperfusion injury
+C1257975||Mesenchymal stem cells
+C3894683||EV
+C0007620||cell viability
+C0961340||NF-κB
+C0227525||AML12 murine hepatocytes
+C1533734||administration
+C3894683||EV
+C0005953||bone marrow
+C1257975||MSCs
+C0243095||ameliorate
+C4303160||hepatic IRI
+C0160390||hepatic injury
+C0443264||modulation
+C1155266||inflammatory response

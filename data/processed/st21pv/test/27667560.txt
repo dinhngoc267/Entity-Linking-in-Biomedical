@@ -1,0 +1,26 @@
+C0020792||Identification
+C0007992||Pharmacological
+C1328819||Small-Molecule
+C0373483||Phenotypic Screens
+C0920472||drug discovery
+C0025663||methods
+C0013227||drug leads
+C3810854||closely
+C0231294||disease states
+C0007634||cellular
+C0033213||problem
+C0037589||DePick
+C1148554||determine
+C1328819||small-molecule
+C0373483||phenotypic screens
+C0037589||DePick
+C0678367||publicly
+C0013227||drug
+C0023866||literature
+C0543488||Interestingly
+C0936012||analysis
+C0449379||connection
+C1520113||Wnt signaling pathway
+C0003805||aromatase
+C3254086||CYP19A1
+C0037589||DePick

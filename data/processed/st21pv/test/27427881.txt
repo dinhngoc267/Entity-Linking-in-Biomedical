@@ -1,0 +1,27 @@
+C4019079||Care Transitions
+C0086388||Healthcare
+C0035168||research
+C4019079||care transition
+C0184661||intervention
+C1519790||unfavorable outcome
+C4019079||care transitions
+C0086388||healthcare
+C0184661||intervention
+C0877248||adverse events
+C4019079||care transitions
+C0033213||issue
+C0870433||dissatisfied
+C0184661||interventions
+C4019079||care transitions
+C0012634||disease
+C0002122||allied healthcare professionals
+C1563179||hospital-based discharge planning
+C2911685||method of evaluation
+C0205125||in-depth
+C0220825||investigation
+C0035648||potential risks
+C4019079||care transitions
+C0086388||healthcare
+C0184661||interventions
+C1706852||article
+C4019079||care transitions

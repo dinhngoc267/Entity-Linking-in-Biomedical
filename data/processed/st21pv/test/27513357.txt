@@ -1,0 +1,85 @@
+C0007018||Carbon Monoxide
+C0184511||Improves
+C3178844||Mesenchymal Stromal Cells
+C0243026||Sepsis
+C0243095||Proresolving
+C3178844||Mesenchymal stromal cells
+C3658313||cell-based therapy
+C0030660||disease processes
+C2825142||results
+C0599779||animal models
+C0243026||sepsis
+C2603343||Studies
+C0184511||improve
+C3178844||mesenchymal stromal cells
+C0017110||gas
+C0184511||improves
+C0243026||sepsis
+C0007018||carbon monoxide
+C3178844||mesenchymal stromal cells
+C0007018||carbon monoxide
+C0007634||cells
+C1515655||in vivo
+C0275524||polymicrobial
+C0243026||sepsis
+C0025929||mice
+C0683949||Animal study
+C1449562||primary cell culture
+C0022877||Laboratory
+C0220825||investigation
+C0025919||BALB/c mice
+C0275524||Polymicrobial
+C0243026||sepsis
+C0007531||cecal
+C0023690||ligation
+C0034117||puncture
+C3178844||Mesenchymal stromal cells
+C3178844||mesenchymal stromal cells
+C0007018||carbon monoxide
+C0016030||fibroblasts
+C0016030||fibroblasts
+C0007018||carbon monoxide
+C2985205||tail vein
+C1533685||injections
+C0025929||mice
+C0025929||mice
+C1155266||inflammatory response
+C0243026||sepsis
+C3178844||Mesenchymal stromal cells
+C0031308||phagocytosis
+C0027950||neutrophils
+C0243095||proresolving
+C3178844||mesenchymal stromal cells
+C0031843||function
+C0598496||gene silencing
+C0007018||carbon monoxide
+C3178844||mesenchymal stromal cells
+C0243026||sepsis
+C1527144||therapeutic effect
+C0007018||Carbon monoxide
+C3178844||mesenchymal stromal cells
+C0332675||organ injury
+C0184511||improve
+C1514893||resolution
+C0021368||inflammation
+C3178844||Mesenchymal stromal cells
+C0007018||carbon monoxide
+C0556150||docosahexaenoic acid
+C0243095||proresolving
+C4288292||resolvins
+C0598496||Silencing
+C1157322||lipoxygenase pathways
+C1151570||5-lipoxygenase
+C1151569||12
+C1324412||15-lipoxygenase
+C0014442||enzymes
+C0243095||proresolving
+C3178844||mesenchymal stromal cells
+C0007018||carbon monoxide
+C0243095||proresolving
+C0184511||improved
+C3178844||mesenchymal stromal cell
+C0007018||carbon monoxide
+C0184511||improved
+C0521982||therapeutic response
+C0243026||sepsis

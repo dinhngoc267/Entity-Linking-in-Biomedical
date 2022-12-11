@@ -1,0 +1,22 @@
+C2350265||Terahertz identification
+C0027908||neurotransmitter
+C0027754||neurotrophy mixture
+C2350265||Terahertz spectroscopy
+C0016128||fingerprint spectrum
+C0006826||cancerous
+C0040300||tissues
+C0040300||tissues
+C0936012||analyze
+C0334227||cancer cell
+C0011900||diagnose
+C0027908||neurotransmitters
+C0016904||γ-aminobutyric acid
+C0061472||L-glutamic acid
+C0282151||dopamine hydrochloride
+C0870883||metabolites
+C0021547||inositol
+C0010286||creatine
+C0027882||neurons
+C2350265||terahertz spectra
+C0027908||nerve substances
+C0936012||analysis

@@ -1,0 +1,27 @@
+C0519801||laparoscopic radical antegrade modular pancreatosplenectomy
+C0346647||left-sided pancreatic cancer
+C2607850||institution
+C0679250||oncological outcomes
+C0751429||Laparoscopic surgery
+C0346647||pancreatic cancer
+C0027651||oncological
+C1709157||negative margin
+C0184919||radical lymph node dissection
+C0393360||laparoscopic application
+C0031150||laparoscopic
+C0346647||left-sided pancreatic cancer
+C0041158||trocars
+C0543467||operative procedures
+C0242382||range of dissection
+C1704685||follow-up data
+C1335302||pancreatic ductal adenocarcinoma
+C1443559||estimated blood loss
+C0032787||postoperative
+C0080274||urinary retention
+C0024204||lymph nodes
+C1709157||negative margins
+C1522577||follow-up
+C0031150||laparoscopic
+C0031150||Laparoscopic
+C0027651||oncologically
+C0346647||left-sided pancreatic cancer

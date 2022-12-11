@@ -1,0 +1,31 @@
+C0033011||Pregnant Women
+C0015024||Northwest Ethiopia
+C2603343||study
+C0033011||pregnant women
+C0015024||South Wollo
+C0015024||Northwest Ethiopia
+C0033011||pregnant women
+C0021821||interviewer
+C0034394||administered questionnaire
+C0936012||analyzed
+C0037585||computer program
+C0333052||SPSS version 20.00
+C0033011||Pregnant women
+C4082130||prepared
+C0033011||Pregnant women
+C0037088||danger signs
+C0032961||pregnancy
+C0005615||delivery
+C0043210||Women
+C4082130||prepared
+C0020899||illiterates
+C0043210||Women
+C0595939||stillbirth
+C0033052||ANC
+C0032961||pregnancy
+C0010210||counseling
+C0033052||ANC
+C1522577||follow-up
+C4082130||prepared
+C1512347||health communication
+C0010210||counseling

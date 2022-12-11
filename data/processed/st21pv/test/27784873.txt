@@ -1,0 +1,52 @@
+C0001480||Adenosine triphosphate
+C0227692||bladder urothelium
+C0036760||serosa
+C0012644||model
+C0005694||partial bladder outlet obstruction
+C0878773||Overactive bladder
+C0243095||health problem
+C0001792||elderly people
+C0001480||Adenosine triphosphate
+C0001480||Adenosine triphosphate
+C0227599||urinary bladder cells
+C1155937||smooth muscle contraction
+C0042034||micturition
+C0001480||Adenosine triphosphate
+C0277785||pathophysiology
+C0878773||overactive bladder
+C0001480||Adenosine triphosphate
+C0878773||overactive bladder
+C0005694||partial bladder outlet obstruction
+C0005694||partial bladder outlet obstruction
+C0012644||model
+C0034693||rats
+C0005682||bladder
+C0005694||partial bladder outlet obstruction
+C0005682||bladder
+C0020564||hypertrophy
+C0227598||sub-urothelium
+C0036760||sub-serosal area
+C0232850||voiding bladder contraction
+C0042036||urine
+C0205112||Basal
+C0001480||Adenosine triphosphate
+C0227692||urothelium
+C0036760||serosa
+C0005694||partial bladder outlet obstruction
+C0034693||rats
+C0034693||rats
+C0005687||Distention
+C0001480||Adenosine triphosphate
+C0227692||urothelium
+C0005694||partial bladder outlet obstruction
+C0034693||rats
+C0005687||distention
+C0001480||Adenosine triphosphate
+C0036760||serosa
+C0005694||partial bladder outlet obstruction
+C0034693||rats
+C0001480||Adenosine triphosphate
+C0036760||serosa
+C0232850||voiding contractions
+C0878773||overactive bladder
+C1457887||symptoms

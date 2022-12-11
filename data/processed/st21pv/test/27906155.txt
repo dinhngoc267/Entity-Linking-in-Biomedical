@@ -1,0 +1,27 @@
+C0020676||Hypothyroidism
+C0037747||Andalusia, Spain,
+C0040135||Thyroid Hormone
+C0020676||Hypothyroidism
+C0037747||Spain
+C1514821||registration
+C0040135||thyroid hormones
+C0037747||Andalusia (South Spain)
+C1881373||levothyroxine
+C0018747||Andalusian Health Service
+C0220825||evaluated
+C0027361||people
+C1881373||levothyroxine
+C0020676||hypothyroidism
+C1257890||population
+C1257890||population
+C0043210||women
+C0043210||women
+C1514578||western provinces
+C1514578||eastern provinces
+C0017446||coastal areas
+C1257890||mountainous ones
+C0020676||hypothyroidism
+C1257890||population
+C0037747||Andalusia
+C0454664||countries
+C0221423||illness

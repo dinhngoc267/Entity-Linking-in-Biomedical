@@ -1,0 +1,47 @@
+C0168458||glucose transporter-1
+C1171362||expression
+C0585362||oral squamous cell carcinoma
+C0282574||prisma-compliant meta-analysis
+C2603343||studies
+C0220825||evaluated
+C0168458||glucose transporter-1
+C0168458||glucose transporter-1
+C1171362||expression
+C0033325||prognosis
+C0585362||oral squamous cell carcinoma
+C0585362||oral squamous cell carcinoma
+C0920317||meta-analysis
+C0220901||prognostic
+C0168458||glucose transporter-1
+C0585362||oral squamous cell carcinoma
+C1138432||PubMed
+C0282574||Embase
+C0282574||Web of Science
+C2603343||relevant studies
+C0220825||evaluate
+C0168458||glucose transporter-1
+C3810252||clinical features
+C0168458||glucose transporter-1
+C2603343||studies
+C0080105||subjects
+C0920317||meta-analysis
+C0168458||glucose transporter-1
+C1171362||expression
+C1300072||advanced tumor stages
+C0441800||higher tumor grade
+C0475440||tumor size
+C0332397||lymph node metastasis
+C1302548||distant metastasis
+C0168458||glucose transporter-1
+C1171362||expression
+C0442726||detected
+C0920317||meta-analysis
+C0168458||glucose transporter-1
+C1514559||overexpression
+C3810252||aggressive clinical features
+C0585362||oral squamous cell carcinoma
+C2603343||studies
+C0168458||glucose transporter-1
+C0220901||prognostic
+C0005516||biomarker
+C0585362||oral squamous cell carcinoma

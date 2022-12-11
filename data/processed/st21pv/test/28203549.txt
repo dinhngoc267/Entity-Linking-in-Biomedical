@@ -1,0 +1,121 @@
+C0025953||Microbiological
+C0001699||Hypermucoviscous Klebsiella pneumoniae
+C1764827||Isolates
+C4285937||Invasive Infections
+C0008115||China
+C0039082||distinctive syndrome
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C0267830||pyogenic liver abscess
+C0267830||pyogenic liver abscess
+C0872315||globally emerging disease
+C2603343||study
+C0001699||K. pneumoniae
+C1764827||isolates
+C4285937||invasive infections
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C0267830||pyogenic liver abscess
+C0267830||pyogenic liver abscess
+C0011849||diabetes mellitus
+C0020538||hypertension
+C0035648||risk factors
+C0948802||HMKP infections
+C0449547||K2
+C0205151||capsular
+C0449943||serotype
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0449547||K1
+C0449547||K1
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0267830||pyogenic liver abscess
+C0449547||K2
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C4285937||invasive infections
+C1446409||positive
+C0017337||iutA
+C0017337||mrkD
+C0017337||aerobactin
+C0017337||iroN
+C0017337||rmpA
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0001699||non-HMKP
+C1764827||isolates
+C0017337||magA
+C0017337||ybtS
+C0017337||alls
+C0017337||wcaG
+C0449547||K1
+C1764827||isolates
+C0017337||mrkD
+C0442726||exclusively detected
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C0449547||K2
+C1764827||isolates
+C0449547||K1
+C0449547||K2
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C0001699||non-HMKP
+C1764827||isolates
+C1446409||positive
+C0017337||rmpA
+C0017337||Aerobactin
+C0150312||found
+C0449547||K1
+C0449547||K2
+C1764827||isolates
+C0449943||ST23
+C0150312||found
+C0449943||ST
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0449547||K1
+C0449547||K2
+C0449547||K5
+C0449547||K20
+C0449547||K57
+C0150312||found
+C0449547||K1
+C1764827||isolates
+C0449943||ST65
+C0449943||ST
+C0150312||found
+C0449547||K2
+C1764827||isolates
+C0449547||ST23-K1
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0267830||pyogenic liver abscess
+C0449547||ST65-K2
+C1764827||isolates
+C0457463||types of infections
+C0449547||ST23-K1
+C1764827||isolates
+C0085117||PFGE
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0085117||PFGE
+C1764827||isolates
+C0085117||PFGE
+C1764827||isolates
+C2603343||study
+C0150312||found
+C0020538||hypertension
+C0035648||risk factors
+C0486616||composition
+C0449943||ST types
+C0085117||PFGE
+C0001699||K. pneumoniae
+C0449547||K2
+C1764827||isolates
+C0449547||K1
+C1764827||isolates
+C0449547||K1
+C0449547||K2
+C0001699||hypermucoviscous Klebsiella pneumoniae
+C1764827||isolates
+C0042765||virulence
+C0017337||genes

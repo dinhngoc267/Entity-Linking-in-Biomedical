@@ -1,0 +1,36 @@
+C0087111||family-based therapy
+C0004936||externalizing disorders
+C0038586||substance use disorders
+C0522174||delinquency
+C0282443||review
+C0087111||Family therapy
+C0184643||mental health care
+C0184661||interventions
+C0282443||review
+C0220825||evaluate
+C0087111||family-based therapy
+C0004936||externalizing disorders
+C0038586||substance use disorders
+C0522174||delinquency
+C1138432||PubMed
+C0242356||Cochrane
+C0282443||reviews
+C0947630||studies
+C0184661||family-based interventions
+C0038586||substance use disorders
+C0522174||delinquency
+C0004936||externalizing disorders
+C1706852||articles
+C0947630||studies
+C0947630||studies
+C0947630||studies
+C0947630||studies
+C0184661||family-based interventions
+C0012634||disorders
+C0947630||study
+C0920317||meta-analysis
+C0087111||family-based therapy
+C0004936||externalizing disorders
+C0038586||substance use disorders
+C0522174||delinquency
+C0087111||family-based therapy

@@ -1,0 +1,54 @@
+C0443268||Nodal
+C0560435||skip
+C0596869||metastasis
+C0861674||thoracic esophageal squamous cell carcinoma
+C0443268||Nodal
+C0560435||skip
+C0596869||metastasis
+C1514474||prognostic factor
+C4282132||malignancies
+C0014859||esophageal cancer
+C0443268||nodal
+C0560435||skip
+C0861674||thoracic esophageal squamous cell carcinoma
+C0085198||esophagectomy
+C0861674||thoracic esophageal squamous cell carcinoma
+C1708333||Center for Esophageal Diseases
+C0035363||retrospectively evaluated
+C0677874||R0 resection
+C0445034||M0 stage
+C0806692||lymph node involvement
+C0600558||neoadjuvant therapy
+C0806692||lymph node involvement
+C0220825||evaluation
+C0443268||nodal
+C0560435||skip
+C0596869||metastasis
+C0596869||lymph node metastases
+C0443268||nodal
+C0560435||skip
+C0596869||metastasis
+C3897941||peritumoral
+C0443203||distant
+C0596869||lymph node metastases
+C0443268||nodal
+C0560435||skip
+C0596869||metastasis
+C0596869||lymph node metastasis
+C0596869||lymph node metastasis
+C0444598||middle
+C0227188||thoracic esophagus
+C0441994||lower
+C0227188||thoracic esophagus
+C1282910||upper
+C0227188||thoracic esophagus
+C0441959||N0 stage
+C1272457||N+ stage
+C0443268||Nodal
+C0560435||skip
+C0596869||metastasis
+C0806692||metastatic lymph involvement
+C0861674||thoracic esophageal squamous cell carcinoma
+C0443268||nodal
+C0560435||skip
+C0596869||metastasis

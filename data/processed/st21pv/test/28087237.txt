@@ -1,0 +1,57 @@
+C0042024||Urinary Incontinence
+C1112442||Female Sexual Dysfunction
+C0007328||Case Control Study
+C0042024||Urinary incontinence
+C0042024||Urinary incontinence
+C0205160||negative
+C0043210||women's
+C0043210||Women's
+C0278092||sexual function
+C0033213||issue
+C0042024||Urinary incontinence
+C0042024||Urinary incontinence
+C0278098||female sexual function
+C1257890||population
+C0043210||women
+C0007328||case-control study
+C0220825||evaluated
+C0043210||women
+C0220825||evaluated
+C0021055||anamnesis
+C0031809||physical examination
+C2700446||self-report
+C0451149||quality-of-life questionnaires
+C0043210||women
+C0430973||pad test
+C0220825||evaluated
+C0042024||Urinary incontinence
+C0241028||sexually active
+C0043210||women
+C2700446||self-report
+C0333052||Version
+C0034394||questionnaire
+C0043210||women
+C2603343||study
+C0043210||women
+C0043210||women
+C0042024||Urinary incontinence
+C0683956||predictive factors
+C0043210||women
+C0241028||Sexually active
+C0043210||women
+C0043210||women
+C0558138||foreplay
+C3887537||partner
+C1331418||sexual comfort
+C0871356||sexual satisfaction
+C0043210||Women
+C3897214||urinary leakage
+C0430973||pad test
+C0278092||sexual function
+C0043210||Women
+C0042024||Urinary incontinence
+C0043210||women
+C0043210||women
+C0042024||Urinary incontinence
+C1331418||sexual comfort
+C0871356||sexual satisfaction

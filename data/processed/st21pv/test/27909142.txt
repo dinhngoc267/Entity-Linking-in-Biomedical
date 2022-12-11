@@ -1,0 +1,40 @@
+C0332167||Increased Risk of
+C0376297||Cardiovascular Death
+C0003872||Psoriatic Arthritis
+C1301700||cardiovascular (CV) morbidity
+C0376297||mortality
+C0003872||psoriatic arthritis
+C0003872||psoriatic arthritis
+C0007465||cause of death
+C1320716||CV events
+C1709269||northern
+C0038995||Sweden
+C0003872||psoriatic arthritis
+C0003872||psoriatic arthritis
+C1320716||CV events
+C0282574||National Causes of Death Register
+C0282574||National Inpatient Care Register
+C0038995||Sweden
+C0683971||general population
+C0728936||diseases of the circulatory system
+C0870733||International Classification of Diseases
+C0034980||regression analysis
+C1306577||death
+C0007465||causes of death
+C0728936||diseases of the circulatory system
+C0006826||malignant neoplasms
+C1704436||Peripheral
+C3805913||axial disease
+C1306577||death
+C1704436||peripheral disease
+C1320716||CV event
+C0027051||myocardial infarction
+C0018843||stroke
+C0025266||men
+C0003872||psoriatic arthritis
+C1306577||death
+C0728936||diseases of the circulatory system
+C0683971||general population
+C1306577||death
+C3805913||axial involvement
+C1704436||peripheral disease

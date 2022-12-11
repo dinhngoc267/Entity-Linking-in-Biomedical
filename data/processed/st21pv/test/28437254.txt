@@ -1,0 +1,15 @@
+C0449830||electronic states
+C0567415||artificial atoms
+C0043491||ZnO
+C0449830||electronic states
+C0043491||ZnO
+C0013852||electrons
+C0013852||electron-electron
+C0061005||GaAs
+C0172463||InAs
+C0043491||ZnO
+C0172463||InAs
+C0043491||ZnO
+C0449830||ground state
+C0172463||InAs
+C0018880||helium

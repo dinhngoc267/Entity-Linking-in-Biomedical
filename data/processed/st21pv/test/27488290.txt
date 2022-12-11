@@ -1,0 +1,70 @@
+C1705181||Repair
+C3874316||Lumbar Pars Interarticularis
+C0014245||Microendoscopic Techniques
+C0035363||retrospective analysis
+C2985631||clinical outcomes
+C3874316||lumbar pars interarticulars
+C0332154||treated
+C1705181||repair
+C0014245||microendoscopic techniques
+C2603343||study
+C0301559||screw
+C1705181||repair
+C0282624||minimally invasive surgery
+C3874316||lumbar pars interarticulars
+C2603343||pilot study
+C1705181||repair
+C3874316||pars interarticulars
+C0087111||treat
+C0684224||Reports
+C1705181||repair
+C0282624||minimally invasive techniques
+C3874316||pars interarticulars
+C0025102||medical records
+C0332154||treated
+C0014245||microendoscopic techniques
+C0011079||Debridement
+C0040736||autograft
+C3874316||pars interarticularis
+C0014245||microendoscopic procedure
+C0522523||percutaneous
+C0238767||bilateral
+C0205274||intralaminar
+C0301559||screws
+C0441587||inserted
+C1516606||clinical
+C0039431||radiological
+C0936012||analyzed
+C0087111||treatment
+C1457887||Symptoms
+C0205131||axial
+C0004604||back pain
+C0700594||radiculopathy
+C0040736||Autograft
+C1522577||follow-up
+C1457887||Symptoms
+C3714811||resolved
+C0024031||Low back pain
+C2960751||visual analog scores
+C0229962||pars
+C2004454||healing
+C0039431||radiological
+C1522577||follow-up
+C0332917||bilateral fusion failure
+C0035110||revision surgery
+C0436343||mild complaint
+C4032686||No complications
+C1504340||dural tear
+C0854396||nerve root injury
+C3714514||infection
+C0282624||Minimally invasive
+C1705181||repair
+C3874316||pars interarticularis
+C0205274||intralaminar
+C0301559||screws
+C0014245||microendoscopic system
+C0087111||treatment
+C0038018||spondylolysis
+C0039431||radiological
+C0025080||special tools
+C0023185||learning curve

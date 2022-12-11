@@ -1,0 +1,12 @@
+C2348746||Draft Genome Sequences
+C3494793||Isolates
+C3472320||Listeria monocytogenes Serotype 1/2a
+C1515021||Subgroup
+C0023861||Listeria monocytogenes
+C0016452||range of food
+C0014406||environmental
+C0449416||sources
+C0004340||Australia
+C2348746||draft genome sequences
+C0025017||meat
+C0010947||dairy associated sources

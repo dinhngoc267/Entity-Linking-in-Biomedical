@@ -1,0 +1,40 @@
+C0237401||Individual
+C0392366||Tested
+C0036449||Scoring Procedures
+C0026612||Motor Skill
+C0392366||Tests
+C0392366||test batteries
+C0026612||motor skills
+C0681814||research studies
+C0008976||clinical settings
+C0036449||scoring
+C1441526||computed
+C0036449||scoring
+C0035168||research
+C0237401||individual's
+C0026612||skill
+C0392366||tests
+C2603343||study
+C0392366||tested
+C0043210||female
+C0335104||players
+C0237401||Individual
+C0335104||players
+C0036449||scoring
+C0036449||scoring
+C0335104||players
+C0036449||scoring
+C0699794||rank
+C0335104||players
+C0237401||individual
+C0699794||rankings
+C1257890||group
+C0036449||scoring
+C0456984||results
+C0456984||test outcomes
+C0456984||test results
+C0011900||diagnosing
+C0184661||intervention
+C0035168||research
+C0036449||scoring
+C0392366||tests

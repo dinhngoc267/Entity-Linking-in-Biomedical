@@ -1,0 +1,60 @@
+C0228071||Ganglion Cell
+C1512785||Inner Plexiform Layer
+C0242656||Clinical Progression
+C1719378||Mild Cognitive Impairment
+C0002395||Alzheimers Disease
+C0228071||ganglion cell
+C1512785||inner plexiform layer
+C1512785||ganglion cell - inner plexiform layer
+C1517753||peripapillary retinal nerve fiber layer
+C1517753||retinal nerve fiber layer
+C0242656||disease progression
+C1719378||mild cognitive impairment
+C1719378||mild cognitive impairment
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C1719378||mild cognitive impairment
+C1517753||retinal nerve fiber layer
+C1512785||ganglion cell - inner plexiform layer
+C3876157||spectral-domain optic coherent tomography
+C0679646||participants
+C1719378||mild cognitive impairment
+C0002395||Alzheimer's disease
+C0027902||neuropsychological tests
+C3827230||Clinical Dementia Rating scale-Sum of Boxes
+C3827230||Clinical Dementia Rating scale-Sum of Boxes
+C0205160||negative
+C1512785||average GCIPL
+C1512785||ganglion cell - inner plexiform layer
+C1275875||superotemporal
+C1275872||superonasal
+C1275873||inferonasal sectors
+C1446409||positive
+C1512785||average GCIPL
+C1512785||ganglion cell - inner plexiform layer
+C1275875||superotemporal
+C1275873||inferonasal
+C1275868||inferotemporal sectors
+C1517753||temporal RNFL
+C1512785||ganglion cell - inner plexiform layer
+C1512785||ganglion cell - inner plexiform layer
+C1275873||inferonasal
+C0005898||inferior
+C1275868||inferotemporal sectors
+C1719378||mild cognitive impairment
+C0002395||Alzheimer's disease
+C1719378||mild cognitive impairment
+C3827230||Clinical Dementia Rating scale-Sum of Boxes
+C0205160||negative
+C1512785||minimum GCIPL
+C1512785||ganglion cell - inner plexiform layer
+C1275875||superotemporal
+C0005898||superior
+C1275872||superonasal
+C1275873||inferonasal sectors
+C1512785||ganglion cell - inner plexiform layer
+C0005516||biomarker
+C0242656||progression
+C1719378||mild cognitive impairment
+C0002395||Alzheimer's disease

@@ -1,0 +1,63 @@
+C1684405||Lubiprostone
+C0232484||Intestinal Transit
+C3160854||Small Intestinal Bacterial Overgrowth
+C0401149||Chronic Constipation
+C1684405||Lubiprostone
+C0401149||chronic constipation
+C0401149||chronic constipation
+C1684405||lubiprostone
+C2263233||fluid secretion
+C0545876||intestinal lumen
+C1684405||lubiprostone
+C0232484||gastrointestinal transit
+C3160854||small intestinal bacterial overgrowth
+C3160854||small intestinal bacterial overgrowth
+C2603343||study
+C1684405||lubiprostone
+C0232484||gastrointestinal transit
+C3160854||small intestinal bacterial overgrowth
+C0009806||constipation
+C0401149||chronic constipation
+C1684405||lubiprostone
+C0426740||Stool consistency
+C4084861||Bristol stool scale
+C0426642||frequency of bowel movements
+C0011135||bowel movements
+C0009368||colon
+C0232688||small and large bowel transit time
+C0232688||small and large bowel transit time
+C0699819||gut
+C0430022||wireless motility capsule
+C3160854||small intestinal bacterial overgrowth
+C0344439||lactulose breath test
+C0936012||analyzed
+C0008041||Chi-square tests
+C1684405||Lubiprostone
+C0015733||stool
+C0426642||frequency of BM
+C0232688||small and large bowel transit time
+C1257890||responders
+C1684405||lubiprostone
+C0011135||BM
+C1257890||nonresponders
+C0426642||frequency of BM
+C0232688||small and large bowel transit time
+C0699819||gut
+C3160854||small intestinal bacterial overgrowth
+C1446409||positive
+C3160854||small intestinal bacterial overgrowth
+C1446409||positive
+C3160854||small intestinal bacterial overgrowth
+C0205160||negative
+C1684405||lubiprostone
+C0401149||chronic constipation
+C1684405||lubiprostone
+C0426642||frequency of BMs
+C0015733||stool
+C0232484||intestinal transit
+C3160854||small intestinal bacterial overgrowth
+C3160854||small intestinal bacterial overgrowth
+C0232671||intestinal fluid
+C0026727||mucus
+C0021838||intestinal motility
+C1684405||lubiprostone

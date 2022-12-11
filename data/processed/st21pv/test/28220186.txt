@@ -1,0 +1,60 @@
+C0242613||gene targeting
+C1002871||Lipomyces starkeyi
+C0023779||lipids
+C0220806||oleochemicals
+C2717894||biodiesel
+C0043393||Oleaginous yeasts
+C0023779||lipid
+C0043393||producers
+C0032098||plants
+C0003062||animals
+C0007983||chemical
+C0043393||oleaginous yeast
+C1002871||Lipomyces starkeyi
+C0023779||lipid
+C0043393||producer
+C0023779||lipid
+C0220806||oleochemicals
+C0017387||Genetic
+C3179022||metabolic engineering
+C1002871||L. starkeyi
+C0023779||lipid
+C0023779||lipid
+C1254351||drug
+C0017393||marker
+C1002871||L. starkeyi
+C0242613||gene-targeting
+C0034865||non-homologous recombination
+C1002871||L. starkeyi
+C0017387||Genetic engineering tools
+C1002871||L. starkeyi
+C0017387||genetic tool
+C1002871||L. starkeyi
+C0242613||gene-targeting system
+C1002871||L. starkeyi
+C0678941||mutants
+C0017337||genes
+C0033684||LsKu70p
+C0033684||LsKu80p
+C0033684||LsLig4p
+C0043393||yeasts
+C0033684||Ku70p
+C0033684||Ku80p
+C0033684||Lig4p
+C0017260||Deletion
+C0017337||LsLIG4 gene
+C0034865||homologous recombination
+C0017337||LsURA3
+C1708726||locus
+C1883559||wild-type
+C0004793||2000-bp homologous flanking regions
+C0034865||homologous recombination
+C0678941||mutant
+C0678941||∆l sku70∆lslig4
+C0678941||mutant
+C0678941||∆lsku70∆lsku80∆lslig4
+C1002871||L. starkeyi
+C0678941||∆lslig4
+C0017387||genetic
+C3179022||metabolic engineering
+C0043393||yeast

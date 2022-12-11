@@ -1,0 +1,60 @@
+C4277667||Attentional Bias
+C0015457||Angry Faces
+C4277667||attentional bias
+C0849912||emotional
+C0012634||disorders
+C0013987||emotion
+C0004936||dysregulation
+C0003469||anxiety
+C0011570||depression
+C0740858||substance abuse
+C0596545||subjective experience
+C0013987||emotions
+C4277667||attentional biases
+C0849912||emotional
+C0035168||research
+C2603343||Study 1
+C2603343||Study 2
+C4277667||attentional biases
+C3280055||happy
+C0015457||angry faces
+C2603343||Study 1
+C0043210||young women
+C0679646||Participants
+C0013987||emotions
+C0849912||emotional
+C0596545||experience
+C0282574||emotionally negative film clip
+C4277667||Attentional bias
+C0039333||dot-probe task
+C0002957||angry
+C0018592||happy
+C0015457||facial expressions
+C2603343||Study 2
+C0025266||young men
+C0043210||women
+C0679646||Participants
+C0728721||suppression
+C0700613||state
+C0003467||trait anxiety
+C0039333||dot-probe task
+C0679646||participants
+C0237913||Statistical tests
+C2603343||Study 1
+C0679646||participants
+C0013987||negative emotions
+C0282574||emotionally negative film clip
+C4277667||attentional bias
+C0015457||angry faces
+C0679646||participants
+C0013987||negative emotions
+C0034980||Multiple regression analyses
+C2603343||Study 2
+C0015457||angry faces
+C0700613||state anxiety
+C0015457||angry faces
+C0728721||trait suppression
+C3280055||happy faces
+C4277667||attentional bias
+C0205160||negative
+C0849912||emotional

@@ -1,0 +1,42 @@
+C0181075||collagenated xenogeneic bone block
+C0002387||lateral alveolar ridge augmentation
+C0021107||staged implant placement
+C2826346||monocenter, prospective single-arm clinical study
+C0181075||collagenated xenogeneic bone block
+C0181075||collagenated xenogeneic bone block
+C0002387||lateral alveolar ridge augmentation
+C0021107||implant placement
+C0040426||tooth
+C3887622||gap
+C0543467||surgical procedure
+C1881914||mucoperiosteal flaps
+C0185023||rigid fixation
+C0181075||collagenated xenogeneic bone block
+C0282574||Geistlich Bio-Graft(®)
+C0005975||osteosynthesis screw
+C0876954||contour
+C1293122||augmentation
+C0043240||submerged healing
+C2986535||primary endpoint
+C0447361||ridge
+C0205145||sites
+C0447361||ridge
+C2347800||Clinical parameters
+C2698524||bleeding on probing
+C2698524||BOP
+C0333047||mucosal recession
+C0333047||MR
+C0458893||cementation of the crown
+C0204309||final visit
+C0021107||implant placement
+C0447361||ridge
+C0936012||analysis
+C0439713||homogeneous
+C0262950||osseous
+C0181075||collagenated xenogeneic bone block
+C2698524||BOP
+C0333047||MR
+C0204309||final visit
+C0181075||collagenated xenogeneic bone block
+C0002387||lateral alveolar ridge augmentation
+C0021107||implant placement

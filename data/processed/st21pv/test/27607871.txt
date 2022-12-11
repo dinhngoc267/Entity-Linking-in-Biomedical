@@ -1,0 +1,39 @@
+C0086750||Outcomes
+C0796693||Sentinel Lymph Node Biopsy
+C0375071||Vulvar Cancer
+C0796693||sentinel node biopsy
+C0043210||women
+C0375071||vulvar cancer
+C0242356||Perspective database
+C0242356||all-payer database
+C0010995||collects data
+C0019994||hospitals
+C2985505||retrospective cohort study
+C0043210||women
+C0375071||vulvar cancer
+C0195066||vulvectomy
+C0193842||lymph node assessment
+C0796693||sentinel node biopsy
+C0043210||women
+C0796693||sentinel node biopsy
+C0024203||lymphadenectomy
+C0043210||women
+C0796693||sentinel node biopsy
+C0398408||inguinofemoral lymphadenectomy
+C0796693||sentinel node biopsy
+C0043210||women
+C0796693||sentinel node biopsy
+C0043210||women
+C0020023||rural hospitals
+C0796693||procedure
+C2939193||median
+C0796693||sentinel node biopsy
+C2939193||median
+C0043210||women
+C0398408||inguinofemoral lymphadenectomy
+C0796693||sentinel node biopsy
+C0024203||lymphadenectomy
+C0796693||sentinel node biopsy
+C0375071||vulvar cancer
+C0796693||Sentinel lymph node biopsy
+C0398408||inguinofemoral lymphadenectomy

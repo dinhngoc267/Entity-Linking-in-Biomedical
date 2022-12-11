@@ -1,0 +1,75 @@
+C1257792||vascular endothelial cells
+C0162574||advanced glycation end products
+C0178314||injury
+C1674035||Promyelocytic leukemia zinc finger protein
+C0004391||autophagy
+C0085243||diabetic mice
+C0162574||advanced glycation end products
+C0162574||advanced glycation end products
+C0011847||diabetic
+C0014261||vascular endothelial
+C0178314||injury
+C1674035||Promyelocytic leukemia zinc finger protein
+C1674035||Promyelocytic leukemia zinc finger protein
+C0040648||transcription factor
+C2253861||activated
+C3714634||exert beneficial effects
+C0014261||vascular endothelium
+C2603343||study
+C1674035||Promyelocytic leukemia zinc finger protein
+C2253861||activation
+C0162574||AGE
+C0014261||endothelial
+C0178314||injury
+C0162574||AGE
+C0162638||apoptosis
+C3179121||human umbilical vein endothelial cells
+C3179121||human umbilical vein endothelial cells
+C1674035||Promyelocytic leukemia zinc finger protein
+C2253861||activation
+C1171362||expression
+C2936824||phosphatidylinositol-3 kinases
+C2936824||phosphatidylinositol-3 kinases
+C0031727||kinases
+C0004391||autophagic
+C0037080||signaling pathway
+C1674035||Promyelocytic leukemia zinc finger protein
+C2253861||activation
+C0004391||autophagy
+C3179121||HUVEC
+C0041904||upregulation
+C2936824||phosphatidylinositol-3 kinases
+C0016318||Immunofluorescence
+C0487602||staining
+C0162574||advanced glycation end products
+C3179121||human umbilical vein endothelial cells
+C0392752||localized
+C0024369||lysosomes
+C0004391||autophagy
+C0162574||advanced glycation end products
+C3179121||human umbilical vein endothelial cells
+C0028027||nicotinamide
+C0038432||streptozotocin
+C0085243||diabetic mice
+C0087111||therapy
+C0217068||serum AGEs
+C0162574||advanced glycation end products
+C0014261||vascular endothelium
+C0087111||therapy
+C0011847||diabetes
+C4087233||inflammatory markers
+C0014261||vascular endothelium
+C0184511||improved
+C0014261||vascular endothelial
+C3179279||protective effects
+C0087111||therapy
+C0442737||not found
+C1674035||Promyelocytic leukemia zinc finger protein
+C0206745||knockout mice
+C1674035||Promyelocytic leukemia zinc finger protein
+C2253861||activation
+C1257792||vascular endothelial cells
+C0014261||vascular endothelium
+C0085243||diabetic mice
+C0162574||AGE
+C0178314||injury

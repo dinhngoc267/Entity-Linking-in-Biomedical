@@ -1,0 +1,54 @@
+C0229671||serum
+C0005516||signature
+C2063866||treatment resistant depression
+C1269683||major depressive disorder
+C1269683||major depressive disorder
+C0008976||trials
+C0003289||anti-depressants
+C0242656||course of disease
+C0087111||treatment
+C1514892||resistant
+C2063866||treatment-resistant depression
+C2063866||treatment-resistant depression
+C0017337||genes
+C0005516||biomarkers
+C2063866||treatment-resistant depression
+C0872252||high-throughput proteomic platforms
+C0205100||peripheral
+C0005516||biomarkers
+C2063866||treatment-resistant depression
+C0449394||staging models
+C0449394||Thase and Rush staging model
+C0449394||Thase and Rush staging model
+C0449394||Maudsley Staging Model
+C0449394||Maudsley Staging Model
+C0229671||Serum
+C0027361||individuals
+C1269683||major depressive disorder
+C0037813||mass spectrometric-based platforms
+C0872318||label-free liquid chromatography mass spectrometry
+C0872318||liquid chromatography mass spectrometry
+C0020980||multiplex bead based assay
+C0872318||LC-MS(E) analysis
+C0033684||proteins
+C0001349||acute phase response
+C0009528||complement activation
+C1328723||coagulation
+C0449394||staging groups
+C0449394||models
+C0020980||multiplex bead-based assay
+C1168005||TNF-α levels
+C0449394||Thase and Rush staging model
+C0085201||apolipoproteins A-I
+C1438565||M
+C0052208||F
+C0449394||Thase and Rush staging model
+C0449394||Maudsley Staging Model
+C0243095||findings
+C0033684||proteins
+C1155000||immune
+C0009528||complement activation
+C0005516||biomarkers
+C0871685||clinicians
+C0332167||high-risk
+C0449394||staging groups

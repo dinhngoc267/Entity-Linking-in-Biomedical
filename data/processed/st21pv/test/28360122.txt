@@ -1,0 +1,56 @@
+C0242683||head-down tilt
+C0020440||elevated carbon dioxide
+C2603343||SPACECOT Study
+C0242688||Astronauts
+C0020490||hyperopic shifts
+C0205095||posterior
+C0015392||eye globe
+C0700124||dilated
+C0228673||optic nerve sheaths
+C0030353||optic disc swelling
+C0151740||Elevated intracranial pressure
+C0151740||intracranial pressure
+C0205096||cephalad
+C0242705||fluid shifts
+C0429568||ocular changes
+C0242683||Head-down tilt
+C0242683||Head-down tilt
+C0242744||Earth
+C0242705||fluid shifts
+C0014406||Sealed environments
+C0007012||carbon dioxide
+C0007012||CO2
+C2267010||arteriolar vasodilator
+C0428714||flow
+C0524466||intracranial
+C3714738||compliance
+C0151740||intracranial pressure
+C0031928||collaborative pilot study
+C1708333||National Space Biomedical Research Institute
+C1561598||German Aerospace Center
+C0242683||Head-down tilt
+C0007012||CO2
+C0242683||Head-down tilt
+C0007012||CO2
+C0013072||double-blind
+C0150097||crossover study
+C0376519||near-infrared spectroscopy
+C0151740||intracranial pressure
+C0021888||intraocular pressure
+C0021888||intraocular pressure
+C0242683||Head-down tilt
+C0007012||CO2
+C0599755||cohort
+C1522601||cardiac
+C2346753||amplitude
+C0242683||Head-down tilt
+C0007012||CO2
+C0027361||individual
+C0442737||not detected
+C0151740||intracranial pressure
+C0021888||intraocular pressure
+C0599755||cohort
+C0232123||"water hammer" effect
+C0006104||cerebral
+C0429568||ocular changes
+C0242688||astronauts

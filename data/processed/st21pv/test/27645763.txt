@@ -1,0 +1,42 @@
+C0023211||Left Bundle Branch Block
+C3509486||Transcatheter Aortic Valve Implantation
+C0184252||CoreValve
+C0019993||Re-Hospitalization
+C0030163||Pacemaker
+C0232219||conduction disturbances
+C3509486||transcatheter aortic valve implantation
+C3509486||transcatheter aortic valve implantation
+C0009566||complication
+C0023211||left bundle branch block
+C0023211||left bundle branch block
+C0023211||left bundle branch block
+C3509486||transcatheter aortic valve implantation
+C0023211||left bundle branch block
+C0030163||pacemakers
+C0030673||admissions
+C0018801||heart failure
+C1517942||long-term follow-up
+C0003507||aortic stenosis
+C0332293||treated with
+C0021107||implantation
+C0184252||CoreValve prosthesis
+C0936012||analysis
+C0023211||left bundle branch block
+C0021102||implanted
+C0021107||implantation
+C0023211||left bundle branch block
+C0232219||conduction disturbances
+C0087111||treatment
+C1522577||followed up
+C0023211||left bundle branch block
+C3509486||transcatheter aortic valve implantation
+C0232219||conduction disturbances
+C1522577||follow-up
+C0019993||re-hospitalizations
+C0018801||heart failure
+C0189842||pacemaker implantation
+C1522577||follow-up
+C0023211||left bundle branch block
+C0184252||CoreValve
+C0021107||implantation
+C0019993||re-hospitalization

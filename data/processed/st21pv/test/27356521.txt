@@ -1,0 +1,35 @@
+C0562433||Approach-Avoidance Behavior
+C0037420||social interactions
+C0849912||Emotional
+C0562433||approach and avoidance
+C0221736||emotional reactions
+C0037420||social interaction
+C0027912||neuroendocrine
+C0033927||psychopathologies
+C0031212||psychopathy
+C1704258||abnormalities
+C0562433||approach-avoidance
+C0205147||regions
+C1327622||regulation
+C0562433||approach-avoidance behavior
+C0002708||amygdala
+C0849912||emotional
+C0025361||processing
+C0205094||anterior
+C0162783||prefrontal cortex
+C0015264||exerts
+C0002708||amygdala
+C0019932||Hormones
+C0039601||testosterone
+C0020268||cortisol
+C0001721||affect
+C0562433||approach-avoidance behavior
+C0562433||approach and avoidance behavior
+C0035168||research
+C0035168||research field
+C0562433||approach-avoidance
+C3161035||exemplar
+C0849912||emotional
+C1327622||regulation
+C0162340||understanding
+C0001723||affective disorders

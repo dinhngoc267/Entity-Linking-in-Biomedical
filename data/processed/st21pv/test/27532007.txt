@@ -1,0 +1,64 @@
+C0022885||Integrated Management Strategies
+C0033684||Protein
+C0010197||Cotton Embryos
+C0028158||N
+C0028158||N
+C0033684||Protein
+C4055506||Accumulation
+C0010197||Cottonseed
+C0449416||source
+C0035950||ruminant
+C0003050||feed
+C0184511||improve
+C0010197||cotton embryos
+C2603343||study
+C0022885||conventional management
+C0022885||conventional management
+C0010197||cotton
+C0022885||management strategies
+C0022885||IMS1
+C0022885||IMS2
+C0243095||fertility
+C2603343||study
+C0028158||N
+C0028158||N
+C0036563||embryonic
+C0033684||protein
+C4055506||accumulation
+C0033684||protein
+C0202202||levels of proteins
+C0201874||essential amino acids
+C0201874||semi-essential amino acids
+C0523665||glutamate
+C0523760||lysine
+C0428210||methionine
+C0022885||IMS1
+C0022885||IMS2
+C0036563||embryos
+C0022885||conventional management
+C0036563||embryos
+C1446409||positively
+C0523793||N content
+C1150667||glutamine synthetase activity
+C0033684||protein
+C4055506||accumulation
+C1513916||negatively
+C1328436||amino acid level
+C0022885||integrated management strategies
+C0028158||N
+C0028158||N
+C0028158||N
+C0010197||cotton embryos
+C0202202||protein content
+C0033684||protein
+C4055506||accumulation
+C0201874||amino acid content
+C0597252||growth
+C0028158||N
+C0032098||plant
+C0242437||seedling
+C0184511||improve
+C0033684||protein
+C0010197||cotton embryos
+C0029224||organic matter
+C0028158||nitrogen

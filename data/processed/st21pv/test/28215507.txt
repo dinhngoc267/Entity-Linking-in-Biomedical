@@ -1,0 +1,52 @@
+C0153574||uterine corpus tumor
+C1269955||invasion
+C1517886||early-stage
+C0007847||cervical cancer
+C0043210||women
+C0543467||surgically-treated
+C0007847||cervical cancer
+C0153574||uterine corpus tumor
+C1269955||invasion
+C0242638||Surveillance, Epidemiology, and End Results Program
+C0007847||cervical cancer
+C0020699||hysterectomy
+C0035648||risk factors
+C0153574||uterine corpus tumor
+C1269955||invasion
+C0153574||uterine corpus tumor
+C1269955||invasion
+C0007847||cervical cancer
+C0034980||Cox proportional hazard regression models
+C0153574||uterine corpus
+C1269955||invasion
+C1522577||follow-up
+C0011065||deaths
+C0007847||cervical cancer
+C0153574||Uterine corpus
+C1269955||invasion
+C1334017||high-grade tumors
+C0475440||large tumor size
+C0443268||nodal
+C0027627||metastasis
+C0153574||uterine corpus tumor
+C1269955||invasion
+C1514474||prognostic factors
+C0153574||uterine corpus tumor
+C1269955||invasion
+C1514474||prognostic factor
+C0475385||stage T1b
+C0153574||uterine corpus tumor
+C1269955||invasion
+C1514474||prognostic factor
+C0153574||Uterine corpus tumor
+C1269955||invasion
+C0730458||stage T1b1
+C0153574||disease
+C0730459||stage T1b2
+C0153574||disease
+C0153574||Uterine corpus tumor
+C1269955||invasion
+C1514474||prognostic factor
+C0043210||women
+C1517886||early-stage
+C0007847||cervical cancer

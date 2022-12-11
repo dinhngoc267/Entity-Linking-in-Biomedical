@@ -1,0 +1,29 @@
+C0237123||substance use
+C3179065||Facebook
+C0237123||substance use
+C0237123||substance use
+C1706852||article
+C0043210||girls
+C0237123||substance use
+C0025361||goal setting
+C0033211||problem solving
+C0600564||self-efficacy
+C0036597||self-esteem
+C0005891||body image
+C0038443||perceived stress
+C0003469||anxiety
+C0011570||depression
+C0010362||Cross-sectional data
+C3179065||Facebook
+C0237123||substance use
+C0242510||drug use
+C0344315||depressive mood
+C0237123||substance use
+C1171221||Substance abuse prevention
+C0043113||programs
+C0033211||problem solving
+C0600564||self-efficacy
+C0036597||self-esteem
+C0005891||body image
+C0038443||perceived stress
+C0262715||mood management

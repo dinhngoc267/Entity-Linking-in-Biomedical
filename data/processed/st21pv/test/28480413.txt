@@ -1,0 +1,73 @@
+C0150312||PRESENCE OF
+C0008861||CITRININ
+C0007757||GRAINS
+C0332149||POSSIBLE
+C0008861||Citrinin
+C0026955||mycotoxin
+C1705920||species
+C0004034||genera Aspergillus
+C0030843||Penicillium
+C0997448||Monascus
+C0007757||stored grain
+C0008861||Citrinin
+C0007757||stored grains
+C0026955||mycotoxins
+C0069299||ochratoxin A
+C0004698||endemic nephropathy
+C0015179||European Union
+C1283169||monitoring
+C0008861||Citrinin
+C0007757||grains
+C0016452||food
+C1283169||monitoring
+C0008861||above mentioned mycotoxin
+C0010343||Croatia
+C0018017||main goal
+C2603343||study
+C0150312||presence of
+C0008861||Citrinin
+C0007757||grains
+C0205146||area
+C0079170||Međimurje
+C0079170||Osijek-Baranja
+C0079170||Vukovar-Srijem
+C0079170||Brod-Posavina County
+C0008861||citrinin
+C4054775||high performance liquid chromatograph (HPLC) with fluorescence
+C1273517||used
+C0205146||area
+C0079170||Međimurje County
+C1138842||corn
+C0043137||wheat
+C0936012||analyzed
+C0008861||Citrinin
+C0205146||area
+C0079170||Osijek-Baranja
+C0079170||Vukovar-Srijem County
+C0079170||County
+C0936012||analyzed
+C0079170||Osijek-Baranja County
+C0079170||Vukovar-Srijem County
+C0008861||citrinin
+C0936012||analyzed
+C0079170||Brod-Posavina County
+C0008861||citrinin
+C1514821||registered
+C0007757||grains
+C0079170||Counties
+C0008861||Citrinin
+C1444656||indicating
+C0008861||citrinin
+C0086418||humans
+C0007757||grains
+C0016452||grain-based products
+C0012155||diet
+C0008861||citrinin
+C0936012||analysis
+C0007757||large grains
+C0007757||small grains
+C0205146||area
+C0079170||Brod-Posavina County
+C0008861||citrinin
+C0007757||grains
+C0086418||humans

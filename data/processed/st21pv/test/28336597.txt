@@ -1,0 +1,21 @@
+C0017428||Draft Genome
+C0314659||Sequence
+C0315286||Providencia stuartii PS71
+C0205721||Nosocomial Infections
+C0018226||Greece
+C0315286||Providencia stuartii
+C0205721||nosocomial outbreaks
+C0205102||intrinsic
+C1136254||antimicrobials
+C0017428||draft genome
+C0314659||sequence
+C0315286||P. stuartii strain
+C3536856||cephalosporins
+C0017337||blaSHV-5
+C0017337||blaVEB-1
+C0006968||carbapenems
+C0017337||blaVIM-1
+C0002556||aminoglycosides
+C0017337||rmtB
+C0018226||Greek
+C0019994||hospitals

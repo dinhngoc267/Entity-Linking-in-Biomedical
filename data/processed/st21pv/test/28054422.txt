@@ -1,0 +1,35 @@
+C0033684||protein universe
+C1510464||protein structures
+C0002518||sequences
+C1527118||Protein function
+C0002520||amino acids
+C0242481||Active site profiling
+C2348167||DASP
+C2348167||DASP2
+C0950141||sequence databases
+C0242481||active site profiling
+C0025663||TuLIP
+C0025663||Two-Level Iterative clustering Process
+C0242481||active site profiling
+C0025663||TuLIP
+C0242356||Structure-Function Linkage Database
+C0242356||SFLD
+C2348167||DASP2
+C0025663||TuLIP
+C2348167||DASP2
+C0025663||TuLIP
+C0031691||enolase
+C0017837||glutathione transferase
+C0242356||SFLD
+C0678594||structures
+C0025663||TuLIP
+C0031691||enolase
+C0598211||DASP2 GenBank
+C0002518||sequences
+C0936012||performance analysis
+C0031691||enolase
+C0025663||GEMMA
+C0025663||SCI-PHY
+C0025663||TuLIP
+C0031691||enolase families
+C0023866||literature

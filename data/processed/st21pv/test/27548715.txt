@@ -1,0 +1,58 @@
+C0013987||emotion
+C0015457||expression
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0030971||perceived
+C0205160||negatively
+C0679739||peers
+C0205160||negative
+C0037427||social perception
+C0599755||cohort
+C0030567||Parkinson's disease
+C0013987||emotion
+C0849912||emotional
+C0015457||facial expressions
+C0030567||Parkinson's disease
+C0013987||emotionally
+C4019020||films
+C0681814||Experiment
+C0679739||peers
+C0012634||disease
+C2936644||audiovisual
+C0021821||interview excerpts
+C4019020||films
+C0681814||Experiment
+C0681814||Experiment
+C0679646||participants
+C0030567||Parkinson's disease
+C0015457||facially expressive
+C0030567||Parkinson's disease
+C0596545||experiencing
+C0205160||negative
+C0013987||emotion
+C1446409||positive
+C0013987||emotion
+C0700287||reported
+C1527305||feeling
+C0681814||Experiment
+C0456984||results
+C0679739||age-peers
+C0030567||Parkinson's disease
+C0679646||participants
+C0030567||Parkinson's disease
+C0543488||interested
+C0564470||optimistic
+C0456984||results
+C0030567||Parkinson's disease
+C0700287||report
+C1527305||feeling
+C0596130||attributions
+C0013987||emotions
+C0012634||disease
+C0443264||modulate
+C0015457||expression
+C0205160||negative
+C0013987||emotions
+C0205160||negative
+C0030567||Parkinson's disease

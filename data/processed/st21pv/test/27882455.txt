@@ -1,0 +1,31 @@
+C0679057||Memory consolidation
+C0025361||memory stabilization
+C0025361||item integration
+C0001792||older adults
+C2603343||study
+C0001811||aging
+C0679057||consolidation processes
+C0025361||memory stabilization
+C0679057||consolidation processes
+C0025361||integrating
+C0376554||knowledge
+C0025361||item integration
+C0001792||Older adults
+C0023185||learned
+C0282574||nonwords
+C0025260||memory
+C0282574||nonwords
+C0282574||nonwords
+C0282574||words
+C0679646||Participants
+C0282574||nonwords
+C0524637||recognition
+C0034770||recall
+C0282574||nonwords
+C0282574||similar-sounding words
+C0451414||delayed test
+C0679057||memory consolidation processes
+C0025361||item integration
+C0025361||memory stabilization processes
+C0025260||memories
+C0001792||older adults

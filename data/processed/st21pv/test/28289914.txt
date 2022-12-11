@@ -1,0 +1,28 @@
+C3544170||eye exposure
+C0681814||experimental study
+C0679083||simulation
+C0015408||ocular injury
+C0011900||diagnoses
+C1457887||symptoms
+C0162340||comprehension
+C0005700||blast injury
+C0033213||issue
+C0220825||numerical investigation
+C3714660||trauma
+C1266926||bony orbit
+C0029180||cavity
+C0015392||eye
+C0040300||tissues
+C0392366||tests
+C0220825||evaluating
+C3665571||porcine
+C0015392||eyes
+C0029180||orbital cavity
+C0029180||orbit
+C0392366||tests
+C0282420||paper
+C0015392||ocular
+C0040300||tissues
+C0596130||attributable
+C4243627||orbital bony walls
+C0015392||eye

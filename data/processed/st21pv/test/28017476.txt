@@ -1,0 +1,43 @@
+C1511667||Double strand break
+C0020517||hypersensitivity
+C0022567||keratinocytes
+C1522449||radiotherapy
+C3159064||DNA double strand break (DSB) foci
+C0014520||epidermis
+C0005558||biopsies
+C0034619||radiotherapeutic
+C2603343||study
+C1522449||radiotherapy
+C0087111||treatment
+C3159064||foci
+C3159064||foci
+C0600139||prostate cancer
+C1522449||radiotherapy treatment
+C1522449||radiotherapy treatment
+C1123023||skin
+C1522449||radiotherapy treatment
+C0087111||treatment
+C0150866||skin biopsies
+C3159064||DSB-foci
+C0012872||markers
+C1415406||γH2AX
+C1420865||53BP1
+C0014520||epidermal
+C0022567||keratinocytes
+C0016318||immunofluorescence
+C2348290||digital image analysis
+C0022567||keratinocytes
+C3159064||DSB foci
+C0441621||sampling
+C0025663||method
+C3159064||Foci
+C1511667||double strand break
+C3159064||foci
+C3159064||foci
+C0012860||damage
+C1415406||γH2AX
+C1420865||53BP1
+C0005558||biopsies
+C1415406||γH2AX
+C1420865||53BP1
+C3159064||DSB foci

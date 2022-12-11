@@ -1,0 +1,38 @@
+C0075810||tanshinone I
+C3714634||activities
+C0003232||antibiotics
+C0038172||Staphylococcus aureus
+C1515655||in vivo
+C3714514||Infections
+C0038172||Staphylococcus aureus
+C0003232||antibiotics
+C1444090||resistant bacteria
+C0033213||problem
+C0019994||hospital
+C1274109||community settings
+C0003232||antibiotic
+C0003232||antibiotics
+C2603343||study
+C1254351||16-aldehyde tanshinone I
+C1254351||16-aldehyde tanshinone I
+C3714634||bacteriostatic activity
+C3714634||activity
+C1254351||16-aldehyde tanshinone I
+C0003233||aminoglycoside antibiotics
+C0026458||β-lactam antibiotics
+C1254351||16-aldehyde tanshinone I
+C0038425||streptomycin
+C0038425||streptomycin
+C0002680||ampicillin
+C0002680||ampicillin
+C0038172||S. aureus
+C2986594||murine infection model
+C1254351||16-aldehyde tanshinone I
+C0004611||bacterial
+C3161472||cell membrane
+C4055506||accumulation
+C0003232||antibiotics
+C0563199||bacterial cells
+C3714514||infections
+C0038172||S. aureus
+C0075810||tanshinones

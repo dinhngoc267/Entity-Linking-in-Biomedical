@@ -1,0 +1,58 @@
+C0033968||Psychotherapeutic
+C0184661||Micro-Interventions
+C0026516||Mood
+C0449445||approach
+C0087111||treat
+C0004936||mental disorders
+C0376554||Knowledge
+C0184661||intervention
+C0033927||psychopathological
+C0033968||psychotherapy
+C0449445||approaches
+C0184661||micro-interventions
+C0237915||psychotherapeutic techniques
+C3463807||video-clips
+C0085633||mood changes
+C2713543||neurofeedback
+C2603343||study
+C0080105||subjects
+C2713543||neurofeedback
+C0184661||micro-interventions
+C0004268||attention
+C0849912||emotional
+C0175631||imagery
+C0015457||facial expression
+C0026516||mood
+C0451394||Multidimensional Mood State Questionnaire
+C0234422||awake
+C0557875||tired
+C0522165||calm
+C0027769||nervous
+C0025266||men
+C0936012||analyses
+C0004268||attention
+C3161035||models
+C0080105||subjects
+C0026516||mood
+C0234422||awake
+C0522165||calmer
+C0026516||mood
+C0085633||changes in mood
+C0026516||GB mood
+C0026516||AT mood
+C0026516||CN mood
+C0243095||findings
+C0184661||micro-interventions
+C0085633||mood changes
+C0033968||psychotherapeutic
+C0449445||approaches
+C3542996||mindfulness
+C0033968||psychotherapy
+C0150814||transcendental meditation
+C0087111||therapies
+C0026516||mood
+C0681867||controlled studies
+C0184661||micro-interventions
+C0026516||mood
+C0582386||psychotherapeutic interventions
+C0206034||randomized trial

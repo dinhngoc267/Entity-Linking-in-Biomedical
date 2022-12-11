@@ -1,0 +1,41 @@
+C0037440||Human Welfare
+C0021201||India
+C0242402||opioids
+C0021201||India
+C0002771||analgesics
+C2987634||agonist
+C0087111||therapies
+C0030193||unalleviated pain
+C0683278||suffering
+C1510472||drug dependence
+C0021201||India
+C0029112||opium
+C0402574||exporter
+C0027413||narcotics law
+C0013146||harmful use of drugs
+C0444454||access
+C0242402||opioids
+C0680532||Amendment
+C1947938||law
+C0220868||national regulatory framework
+C0444454||access
+C0002772||opioid analgesics
+C0683278||human suffering,
+C0037431||multilayered complexities
+C0242456||policy framework
+C1704312||health care professionals
+C0086530||lawyers
+C4054555||media
+C0242304||government officials
+C0034035||public
+C0805586||challenges
+C0242402||opioid
+C0150270||medications
+C0335161||executive arm of the government
+C0033107||measures
+C0034035||public
+C0021729||interest
+C0242456||policy
+C0037440||humanitarian
+C0086388||healthcare
+C0518609||considerations

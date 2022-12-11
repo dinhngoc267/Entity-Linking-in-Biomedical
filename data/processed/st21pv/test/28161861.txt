@@ -1,0 +1,58 @@
+C0596123||Aryl hydrocarbon receptor (AhR) rs2066853
+C0021359||infertile
+C0028960||oligoasthenoteratozoospermic
+C0025266||men
+C1519232||seminal
+C0242606||oxidative stress
+C0596123||aryl hydrocarbon receptor (AhR) rs2066853
+C0021359||infertile
+C0028960||oligoasthenoteratozoospermic
+C0028960||oligoasthenoteratozoospermic
+C0025266||men
+C1519232||seminal
+C0242606||oxidative stress
+C0242606||oxidative stress
+C0025266||Egyptian men
+C0202533||semen analysis
+C0015895||fertile
+C4231237||normozoospermic controls
+C0021359||infertile
+C0028960||oligoasthenoteratozoospermic
+C0025266||men
+C0199182||history taking
+C1274016||clinical examination
+C0202533||semen analysis
+C1519232||seminal
+C0017822||glutathione peroxidase
+C0017822||glutathione peroxidase
+C0024643||malondialdehyde
+C0024643||malondialdehyde
+C0596123||AhR rs2066853
+C0005767||blood
+C0032520||PCR
+C0035268||RFLP
+C0021359||infertile
+C0028960||oligoasthenoteratozoospermic
+C0025266||men
+C0015895||fertile
+C0596123||AhR rs2066853
+C1883559||wild
+C0002085||alleles
+C0596123||AhR rs2066853
+C0028960||oligoasthenoteratozoospermic
+C0025266||men
+C0015895||fertile
+C0025266||men
+C0002085||G allele
+C0002085||A allele
+C1519232||Seminal
+C0024643||malondialdehyde
+C1519232||seminal
+C0017822||glutathione peroxidase
+C0596123||AhR rs2066853
+C0037868||sperm
+C1519232||seminal
+C0242606||oxidative stress
+C0021359||infertile
+C0028960||oligoasthenoteratozoospermic
+C0025266||men

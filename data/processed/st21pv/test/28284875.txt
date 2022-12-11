@@ -1,0 +1,15 @@
+C0450363||3D
+C2603343||Studying
+C0086418||Human
+C0007634||Cell
+C0026926||Tuberculosis
+C1515655||In vivo
+C0599779||animal models
+C2603343||studying
+C0026926||tuberculosis
+C0026032||microsphere
+C0450363||3D
+C1516329||culture system
+C0026926||Mycobacterium tuberculosis
+C0086418||human
+C0005767||blood

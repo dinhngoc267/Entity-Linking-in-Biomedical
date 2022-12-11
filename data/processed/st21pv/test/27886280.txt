@@ -1,0 +1,73 @@
+C0038187||Starvation
+C0003232||antibiotics
+C0007613||formation
+C0563199||persister cells
+C0033809||Pseudomonas aeruginosa
+C0032071||Planktonic
+C0430402||stationary and exponential cultures
+C0033809||Pseudomonas aeruginosa
+C1306577||killing
+C0003232||bactericidal antimicrobials
+C0563199||persisters
+C0563199||cells
+C0013220||multidrug tolerant
+C0081786||biofilm
+C3714514||infections
+C0085973||study
+C0007613||formation
+C0563199||persister cells
+C0033809||P. aeruginosa
+C0430402||stationary
+C0430402||exponential cultures
+C0456387||class
+C0003232||antimicrobials
+C0033809||P. aeruginosa PAO1 wild-type
+C0003232||antimicrobials
+C2827874||standard microtiter broth dilution method
+C0563199||persister
+C0007613||formation
+C0022885||killing experiments
+C0003232||antibiotics
+C0007559||Ceftazidime
+C3536856||Cephalosporin
+C0430402||culture
+C0563199||Stationary-phase cells
+C0013220||tolerant
+C0020933||imipenem
+C0006968||Carbapenem
+C0563199||exponential cells
+C0563199||persisters
+C0020933||imipenem
+C1257890||populations
+C0032535||Polymyxin B
+C0032539||Polymyxin
+C1257890||cell populations
+C0032535||polymyxin B
+C0563199||exponential cells
+C1257890||stationary population
+C0563199||Stationary cells
+C0013220||tolerant
+C0040341||tobramycin
+C0002556||Aminoglycoside
+C0563199||exponential cells
+C0040341||tobramycin
+C0008809||Ciprofloxacin
+C0949665||Fluoroquinolone
+C1306577||killing
+C0430402||cultures
+C0033809||P. aeruginosa
+C0563199||persisters
+C1306577||killing
+C0563199||Stationary cells
+C0013220||tolerant
+C0563199||exponential cells
+C0005507||assays
+C0678695||nutrient
+C0036720||serine
+C0038187||starvation
+C0149784||stringent and general stress response
+C0151956||increased tolerance
+C0033809||P. aeruginosa
+C0563199||exponential and stationary planktonic cells
+C0007613||production
+C0563199||persisters

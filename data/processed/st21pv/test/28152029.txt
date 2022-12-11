@@ -1,0 +1,36 @@
+C1522642||Clonal
+C0449943||serotype
+C1532752||serogroup 6
+C1764827||isolates
+C1320214||invasive pneumococcal disease
+C0032729||Portugal
+C1532752||serogroup 6
+C0038410||Streptococcus pneumoniae
+C0449943||serotypes
+C0206515||pneumococcal conjugate vaccines
+C0206515||pneumococcal conjugate vaccines
+C1320214||invasive pneumococcal disease
+C1320214||invasive pneumococcal disease
+C0206515||conjugate vaccine
+C1764827||CC273 isolates
+C3697188||Serotype 6C
+C1320214||invasive pneumococcal disease
+C1171362||expressed
+C1532752||serogroup 6
+C0449943||serotypes
+C2717886||cross-protection
+C0206515||pneumococcal conjugate vaccines
+C3697188||serotype 6C
+C1320214||invasive pneumococcal disease
+C1519885||vaccinated
+C2732283||Serotype 6A
+C1532752||serogroup 6
+C0449943||serotype
+C1320214||invasive pneumococcal disease
+C1532752||serogroup 6
+C0449943||serotypes
+C0442726||detected
+C1510438||assays
+C0449943||serotypes
+C1532752||serogroup 6
+C1764827||isolates

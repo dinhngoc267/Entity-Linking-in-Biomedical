@@ -1,0 +1,15 @@
+C2708733||Clinical Pearls
+C0040822||Tremor
+C0424295||Hyperkinetic Movement
+C0004936||Disorders
+C0424295||Hyperkinetic movements
+C0040822||tremor
+C0027066||myoclonus
+C0008489||chorea
+C0013421||dystonia
+C0524851||neurologic
+C0012634||medical conditions
+C4084924||clinical evaluation
+C1704656||diagnosis
+C0087111||treatment
+C0013384||abnormal movements

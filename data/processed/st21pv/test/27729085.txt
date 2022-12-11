@@ -1,0 +1,31 @@
+C1266174||Chordoma dedifferentiation
+C2169187||proton beam therapy
+C0007320||case report
+C0282441||review of the literature
+C0008487||Chordoma
+C0005967||bone tumor
+C1522496||neuraxis
+C0027652||histological varieties
+C0008487||conventional
+C1266173||chondroid
+C1266174||dedifferentiated
+C0684224||report
+C0007457||white
+C0008487||conventional chordoma
+C0332154||treated
+C0015252||surgical resection
+C3539769||photon beam therapy
+C1515091||resection cavity
+C1266174||dedifferentiated morphology
+C0521158||recurrent tumor
+C1171362||express
+C0170844||brachyury
+C0033684||protein
+C0040300||tissue
+C0028439||notochordal
+C2169187||radiation therapy
+C2248595||dedifferentiation
+C0871685||clinicians
+C0332149||possibility
+C1266174||chordoma dedifferentiation
+C2169187||proton beam therapy

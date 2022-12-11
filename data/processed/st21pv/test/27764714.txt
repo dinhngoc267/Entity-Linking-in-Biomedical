@@ -1,0 +1,19 @@
+C0016928||gait
+C0033145||primary school
+C0026649||propulsion
+C0005516||marker
+C0016928||gait
+C0678723||maturation
+C2603343||study
+C0220825||investigated
+C0003086||ankle
+C0019552||hip
+C0450363||three-dimensional
+C0558820||gait analysis
+C0003086||ankle
+C0019552||hip
+C0003086||ankle
+C0026649||propulsion
+C0026649||propulsion
+C0243095||findings
+C0678723||matures

@@ -1,0 +1,35 @@
+C0600406||venipuncture
+C0205145||sites
+C0027551||needle
+C0016536||forearm
+C0038496||nursing students
+C0025080||vein visualization display system
+C0025080||Vein Display
+C0600406||venipuncture
+C0205145||sites
+C0027551||needle
+C0016536||forearm
+C0038496||nursing students
+C0027551||needle
+C0042449||Vein
+C0679646||participants
+C0015535||faculty
+C0600406||venipuncture procedure
+C0205145||sites
+C0349674||scale
+C3812881||authors
+C0600406||puncture
+C0205145||site
+C0040519||tourniquet
+C0025080||Vein Display
+C0042449||Vein
+C0600406||venipuncture
+C0205145||site
+C0025080||Vein Display
+C0600406||venipuncture
+C0205145||sites
+C0600406||venipuncture
+C0349674||scale
+C0025080||Vein Display
+C0600406||venipuncture
+C0001792||elderly

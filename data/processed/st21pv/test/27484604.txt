@@ -1,0 +1,59 @@
+C0220825||Evaluation
+C0005972||Bone Regeneration
+C0014392||Enucleation
+C0010709||Cysts
+C0022359||Jaws
+C1441526||Computed
+C0037585||Software
+C0005972||regeneration of bone
+C0543467||surgical
+C0014392||enucleation
+C0010709||cysts
+C0543467||surgical
+C0014392||enucleation
+C0005972||regeneration of bone
+C0031110||periosteum
+C1293130||stabilization
+C2603343||study
+C0700287||reported
+C0019961||department of oral and maxillofacial surgery
+C0012634||complaint
+C0030193||pain
+C0038999||swelling
+C0022359||jaws
+C0011900||diagnosed
+C0010709||cyst
+C0034579||Panoramic radiographs
+C0014392||enucleation
+C0010709||cyst
+C0220825||evaluated
+C1306645||radiograph
+C1306645||radiographs
+C0936012||analyzed
+C0037585||software
+C1881134||imaging research
+C0441610||reduction
+C1510420||cavity
+C0456389||size
+C0005972||bone regeneration
+C0185003||closure
+C0441587||placement
+C0181074||grafts
+C0009566||complications
+C0441587||placement
+C2603343||studies
+C1522577||follow-up
+C2603343||study
+C0005972||bone regeneration
+C0014392||enucleation
+C0022359||jaw
+C0010709||cyst
+C0181074||graft material
+C0014392||enucleation
+C1708063||first line of treatment
+C0221198||lesion
+C0022359||jaws
+C0543467||surgical procedure
+C0441610||reduces
+C0032787||postoperative complications
+C1522577||Follow-up

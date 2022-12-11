@@ -1,0 +1,65 @@
+C0002085||Allelic
+C0017337||NLR gene
+C0017337||BPH9
+C1140671||rice
+C0600234||planthopper
+C0600234||Brown planthopper
+C0600234||Brown planthopper
+C1051066||Nilaparvata lugens Stål
+C0021585||insect
+C1140671||rice
+C1140671||Oryza sativa L.
+C0600234||Brown planthopper
+C1953345||chromosome regions
+C0009017||molecular cloning
+C0600234||Brown planthopper
+C0017337||BPH9
+C1276871||long arm of rice chromosome 12
+C0017337||BPH9
+C1148916||nucleotide-binding
+C1517773||leucine-rich repeat
+C1517773||nucleotide-binding and leucine-rich repeat
+C0033684||protein
+C1167315||endomembrane system
+C0007587||cell death
+C0017337||BPH9
+C0036079||salicylic acid
+C0064138||jasmonic acid
+C0037080||signaling pathways
+C1140671||rice
+C0032098||plants
+C0600234||Brown planthopper
+C0600234||Brown planthopper
+C0008633||chromosome 12L
+C0017337||BPH1
+C0023866||literature
+C1708726||locus
+C0017337||BPH1/9
+C0017337||genes
+C0002085||allelotypes
+C0017337||BPH1/9-1
+C0017337||-2
+C0017337||-7
+C0017337||-9
+C0002085||allelotypes
+C1514892||resistance
+C0449562||biotypes
+C0600234||Brown planthopper
+C0079941||coding region
+C0017337||BPH1/9
+C1140671||rice germplasm
+C1148916||nucleotide-binding
+C1148916||nucleotide-binding
+C1517773||leucine-rich repeat
+C1517773||leucine-rich repeat
+C1514562||domains
+C0002085||allele
+C1140671||rice
+C0032098||plant
+C0021585||insect
+C0562691||herbivores
+C0242481||artificial shuffling
+C0017337||gene
+C0006159||breeding
+C0449562||biotypes
+C0600234||Brown planthopper

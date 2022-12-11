@@ -1,0 +1,71 @@
+C1149888||alkaline phosphatase activity
+C0007600||MC3T3-E1 cells
+C0040302||Ti
+C0205148||surfaces
+C0440273||grit
+C0040302||modified sandblasted with large grit and acid-etched
+C0040302||Ti
+C0205148||surfaces
+C2603343||study
+C2603343||study
+C0220825||evaluate
+C0205148||surface
+C0007589||cell differentiation
+C0029418||osteoblast cells
+C0205148||surfaces
+C0440273||grit
+C0037494||NaCl
+C0040302||titanium
+C0205148||surface
+C0040302||titanium
+C0205148||surface
+C0040302||modified sandblasted with large grit and acid-etched
+C0205148||surfaces
+C0040302||LT
+C0040302||LAT
+C0205148||surfaces
+C0002059||Alkaline phosphatase
+C1171362||expression
+C0002059||Alkaline phosphatase expression
+C1159974||osteoblastic differentiation
+C0007600||MC3T3-E1 cell
+C0205148||Surface
+C0220825||evaluated
+C0025080||contact profilometer
+C0022341||Japan
+C0262878||Scanning electron microscope
+C0205148||surface
+C0040302||LT
+C0040302||LAT
+C0205148||surface
+C0002059||Alkaline phosphatase
+C1171362||expression
+C1159974||osteoblastic differentiation
+C0002059||Alkaline phosphatase expression
+C1171362||expression
+C0007634||surface-adherent cells
+C0205148||surfaces
+C0002059||Alkaline phosphatase expression
+C1171362||expression
+C0040302||modified sandblasted with large grit and acid-etched
+C0040302||LAT
+C0205148||surfaces
+C1171362||expression
+C0040302||LT
+C0007634||surface-adherent cells
+C0002059||Alkaline phosphatase expression
+C1171362||expression
+C0040302||modified sandblasted with large grit and acid-etched
+C0040302||LAT
+C0205148||surface
+C2603343||study
+C0040302||modified sandblasted with large grit and acid-etched
+C0040302||LAT
+C0205148||surfaces
+C0014406||environment
+C1159974||osteoblast differentiation
+C0040302||LT
+C0205148||surface
+C0021102||implant
+C0205148||surface
+C2603343||studies

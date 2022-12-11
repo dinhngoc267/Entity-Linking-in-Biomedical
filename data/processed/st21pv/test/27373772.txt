@@ -1,0 +1,61 @@
+C0022266||ISX-9
+C0596290||cell proliferation
+C0027882||neuronal
+C1160036||commitment
+C0086893||rat
+C0152314||dentate gyrus
+C0019564||hippocampal
+C0814002||neurogenesis
+C0443264||modulated
+C0752135||pathological conditions
+C0038435||stress
+C0525045||affective disorders
+C0031843||functioning
+C0019564||hippocampus
+C0023185||learning
+C0025260||memory
+C0019564||hippocampal
+C0814002||neurogenesis
+C1254351||compounds
+C0879626||side effects
+C0008972||study
+C0022266||isoxazole 9
+C0022266||isoxazole 9
+C0373483||screening of chemical libraries
+C0009385||stem cell-based assays
+C1533734||administration
+C0022266||isoxazole 9
+C0596290||cell proliferation
+C0027882||neurons
+C0019564||hippocampal
+C0152314||DG
+C0086893||rats
+C0022266||isoxazole 9
+C0087111||treatment
+C1518289||neurogenic process
+C0042444||vehicle
+C0003062||animals
+C0037793||handling
+C0021493||intraperitoneal injections
+C0814002||neurogenesis
+C0008972||studies
+C0037793||handling
+C0947647||manipulation
+C0003062||animals
+C0019564||hippocampal
+C0596290||cell proliferation
+C0027882||neuronal
+C0007589||differentiation
+C2825141||findings
+C0022266||isoxazole 9
+C1254351||compound
+C0038435||stress
+C0019564||hippocampal
+C0814002||neurogenesis
+C0008972||studies
+C0220825||evaluate
+C0022266||isoxazole 9
+C0599779||animal models
+C0525045||affective
+C0027765||neurological disorders
+C0019564||hippocampal

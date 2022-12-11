@@ -1,0 +1,59 @@
+C1101610||miR-9600
+C0178874||Tumor Progression
+C0144576||Paclitaxel
+C0007131||Non-small-cell Lung Cancer
+C1367307||signal transducer and activator of transcription 3
+C0017262||Expression
+C1101610||MicroRNAs
+C1300072||center stage
+C1516164||cancer biology
+C0596290||cell proliferation
+C1622501||migration
+C0205160||negatively
+C0017263||regulate gene expression
+C0035696||targeted mRNAs
+C1101610||miR-9600
+C0086418||human
+C0007131||non-small-cell lung cancer
+C0007131||non-small-cell lung cancer
+C1101610||miR-9600
+C0013081||downregulated
+C0007131||non-small-cell lung cancer
+C0040300||tissues
+C0007634||cells
+C1367307||signal transducer and activator of transcription 3
+C1367307||signal transducer and activator of transcription 3
+C0017337||putative target gene
+C1101610||miR-9600
+C1101610||miR-9600
+C1171362||protein expression
+C1367307||signal transducer and activator of transcription 3
+C0035696||mRNA
+C1101610||miR-9600
+C1367307||signal transducer and activator of transcription 3
+C1101610||miR-9600
+C0007595||cell growth
+C1171362||expression
+C0007586||cell cycle
+C0033684||proteins
+C1622501||cell migration
+C2699153||invasion
+C0086418||human
+C0007131||non-small-cell lung cancer
+C0085983||cell lines
+C1101610||miR-9600
+C0025932||nude mice
+C1101610||miR-9600
+C0007621||tumorigenesis
+C4255448||metastasis
+C1148560||targeting
+C1367307||signal transducer and activator of transcription 3
+C1101610||miR-9600
+C0144576||paclitaxel
+C0008838||cisplatin
+C0013081||downregulating
+C1367307||signal transducer and activator of transcription 3
+C3665472||chemotherapy
+C0162638||apoptosis
+C1101610||miR-9600
+C0007131||non-small-cell lung cancer

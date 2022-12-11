@@ -1,0 +1,36 @@
+C1328856||Co-ChIP
+C0079435||genome-wide mapping
+C1257775||histone mark
+C1156199||Histone modifications
+C1156187||chromatin organization
+C1158770||transcriptional regulation
+C0017428||genome-wide
+C1156199||histone modification
+C0007634||cells
+C0040300||tissues
+C1156199||modifications
+C0028623||nucleosome
+C0918012||combinatorial indexed
+C1328856||chromatin immunoprecipitation
+C1328856||combinatorial indexed chromatin immunoprecipitation
+C1156199||histone modifications
+C0028623||nucleosomes
+C1328856||combinatorial indexed chromatin immunoprecipitation
+C0681814||study
+C0017428||genome-wide
+C1257775||chromatin marks
+C0449774||patterns
+C0314621||H3K9me1
+C0314621||H3K27ac
+C0004793||super-enhancers
+C1328856||combinatorial indexed chromatin immunoprecipitation
+C0314621||H3K4me3
+C0314621||H3K27me3
+C1514562||domains
+C4042879||mouse embryonic stem cell
+C4042879||mouse embryonic stem cell
+C0040300||adult tissues
+C0017362||regulatory genes
+C1514562||domains
+C1328856||combinatorial indexed chromatin immunoprecipitation
+C1156199||histone modifications

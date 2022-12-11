@@ -1,0 +1,28 @@
+C0238246||Giant Liver Hemangioma
+C0221025||Kasabach-Merritt Syndrome
+C0150312||found
+C0238246||giant liver hemangioma
+C0475440||size
+C3163695||arterial embolization
+C0205230||shrink
+C0027651||tumor
+C0027651||tumor
+C1704258||abnormalities
+C0279810||hematological
+C0005778||coagulative
+C0040405||computed tomography
+C0205090||right
+C0019155||hepatic vein
+C0205090||right
+C0019145||hepatic artery
+C0205090||right
+C0032718||portal vein
+C0018916||hemangioma
+C0728940||Resection
+C0238246||giant liver hemangioma
+C0005857||bloodletting
+C0200591||blood salvage
+C0279810||hematological
+C0005778||coagulative
+C1704258||abnormalities
+C0087111||procedure

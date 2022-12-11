@@ -1,0 +1,46 @@
+C0220825||Evaluation
+C0349674||Condom Barriers Scale
+C2827413||Black Men Who Have Sex With Men
+C0349674||Subscales
+C0349674||scale
+C0004764||barriers
+C2827413||black men who have sex with men
+C2827413||young black men who have sex with men
+C0349674||Condom Barriers Scales
+C2827413||young black men who have sex with men
+C2827413||young black men who have sex with men
+C0282574||abbreviated version
+C0349674||Condom Barriers Scale
+C0349674||subscales
+C0036911||partner
+C0004764||barriers
+C0036658||sensation
+C0004764||barriers
+C0026605||motivation
+C0004764||barriers
+C0036911||partner
+C0036658||sensation
+C0026605||motivation
+C0349674||subscales
+C0420844||condomless
+C0420844||condomless
+C0349674||subscales
+C0420844||condomless
+C0009253||sex
+C0036658||sensation
+C0004764||barriers
+C0420844||condomless
+C0349674||subscales
+C0420844||condomless
+C0036911||partner
+C0004764||barriers
+C0036658||sensation
+C0004764||barriers
+C0349674||subscale
+C1514241||positive
+C0008148||Chlamydia
+C0018081||gonorrhea
+C0349674||subscales
+C1518527||observational
+C0681814||experimental research
+C2827413||young black men who have sex with men

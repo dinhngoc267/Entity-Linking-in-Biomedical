@@ -1,0 +1,63 @@
+C0271051||macular edema
+C0442163||peripapillary
+C0015388||exudate
+C0030275||pancreas transplantation
+C0242656||progression
+C0011884||diabetic retinopathy
+C0030275||pancreas transplantation
+C0011884||diabetic retinopathy
+C0011854||type 1 diabetes mellitus
+C0011854||diabetes mellitus
+C0030275||pancreas transplantation
+C0271051||macular edema
+C0442163||peripapillary
+C0015388||exudate
+C0242656||progression
+C0154830||proliferative diabetic retinopathy
+C0035363||retrospective observational study
+C0011847||diabetic
+C0030275||pancreas transplantation
+C0565990||medical center
+C0271051||macular edema
+C0442163||peripapillary
+C0015388||exudate
+C0332285||within
+C0543467||operation
+C0025102||medical records
+C0011884||Diabetic retinopathy
+C0242656||progression
+C0087111||treatment
+C0030275||pancreas transplantation
+C0152035||Chinese
+C0043210||women
+C0011854||type 1 DM
+C2603343||study
+C0019018||hemoglobin (Hb) A1c
+C0030275||transplantation
+C0332285||within
+C0011884||diabetic retinopathy
+C0271051||macular edema
+C0442163||peripapillary
+C0015388||exudate
+C0229118||both eyes
+C0030275||pancreas transplantation
+C0271051||macular edema
+C3714811||resolved
+C0087111||treatment
+C0242656||progressed
+C0154830||proliferative diabetic retinopathy
+C0730064||panretinal photocoagulation
+C0011884||Diabetic retinopathy
+C0015392||eyes
+C0087111||treatment
+C0278250||prognosis was good
+C0015392||eye
+C0006123||branch retinal artery occlusion
+C0016622||foveal
+C0271051||macular edema
+C0030275||pancreas transplantation
+C0242656||progression
+C0154830||proliferative diabetic retinopathy
+C0019018||HbA1c
+C0005802||blood sugar
+C0242656||disease course

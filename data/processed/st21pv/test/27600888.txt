@@ -1,0 +1,67 @@
+C0042164||Uveitis
+C0949690||spondyloarthritis
+C0019740||HLA-B27 histocompatibility antigen
+C0033522||prospective study
+C0033522||prospective study
+C0042164||uveitis
+C0949690||spondyloarthritis
+C0949690||spondyloarthritis
+C0019740||HLA-B27 histocompatibility antigen
+C2603343||study
+C0042164||uveitis
+C0019740||HLA-B27 antigen
+C3714514||infections
+C0042769||viral
+C0004623||bacterial
+C0747256||parasitic
+C0332128||examined
+C0026860||locomotive system
+C0150312||presence
+C0019740||HLA-B27 antigen
+C0011900||diagnosed
+C0949690||spondyloarthritis
+C0019740||HLA-B27
+C0205160||negative
+C0011900||diagnosed
+C0949690||spondyloarthritis
+C0012634||diseases
+C0949690||spondyloarthritis
+C0205160||negative
+C0949690||spondyloarthritis
+C0042164||uveitis
+C1515974||site
+C0205092||uni
+C0238767||bilateral
+C0205160||negative
+C0949690||spondyloarthritis
+C0009566||complication
+C0205160||negative
+C0019740||HLA-B27
+C0205160||negative
+C3888523||autoimmune
+C0042164||infectious uveitis
+C0544452||remissions
+C1515974||site
+C0042164||uveitis
+C0019740||HLA-B27
+C0042164||uveitis
+C0011900||diagnosis
+C0012634||Diseases
+C0949690||spondyloarthritis
+C0019740||HLA-B27
+C0205160||negative
+C0042164||uveitis
+C0150312||presence
+C0949690||spondyloarthritis
+C0205160||negative
+C0042164||idiopathic uveitis
+C0019740||HLA-B27
+C0039082||syndrome
+C0949690||spondyloarthritis
+C0042164||uveitis
+C0278252||worse prognosis
+C0009566||Complications
+C0042164||uveitis
+C0243095||non-SpA
+C0019740||HLA-B27
+C0205160||negative

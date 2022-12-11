@@ -1,0 +1,65 @@
+C0022688||natural killer cells
+C0243095||antitumor activity
+C0242614||epigenetic imprinting
+C0039215||CD4(+) T cell
+C0022688||Natural killer (NK) cell
+C0574032||infusions
+C0006826||cancer
+C0022688||NK cell
+C1326120||activation
+C0574032||infusion
+C0022688||NK cells
+C0079189||cytokines
+C0123759||IL-12
+C0254610||15
+C0383327||18
+C0022688||NK cell
+C0243095||antitumor activity
+C0022688||NK cells
+C3850137||in vitro
+C0123759||IL-12
+C0254610||15
+C0383327||18
+C0254610||IL-15
+C0243095||antitumor activity
+C0024312||lymphopenic
+C1419248||RAG-2(-/-)
+C0026809||mice
+C0022688||NK cell
+C0021745||IFNγ
+C0021920||non-coding sequence
+C0021920||conserved non-coding sequence
+C1334085||Ifng
+C1708726||locus
+C0040649||transcription
+C1334085||Ifng
+C0012644||xenograft melanoma mouse model
+C0086418||human
+C0123759||IL-12
+C0254610||15
+C0383327||18
+C0022688||NK cells
+C0027651||tumors
+C1419248||RAG-2(-/-)
+C0026809||mice
+C0039215||CD4(+) T cells
+C0022688||NK cells
+C0021745||IFNγ
+C0021756||IL-2
+C0039215||CD4(+) T cell
+C1326120||activation
+C1326161||homeostatic proliferation
+C0024432||macrophages
+C0022688||NK cell
+C0243095||antitumor activity
+C0022688||NK cells
+C0079189||cytokines
+C0242614||epigenetic imprinting
+C0021745||IFNγ
+C0079189||cytokine
+C0022688||NK cells
+C0039215||CD4(+) T cell
+C1326120||activation
+C0024312||lymphopenic
+C0022688||NK cell
+C0278348||cancer immunotherapy

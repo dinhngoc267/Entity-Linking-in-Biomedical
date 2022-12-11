@@ -1,0 +1,25 @@
+C0150706||Perioperative Management
+C4013784||Severe Hypertension
+C0751429||Laparoscopic Surgery
+C0031511||Pheochromocytoma
+C0031511||Phaeochromocytoma
+C1325901||catecholamine-secreting
+C0282607||vascular tumour
+C0376604||chromaffin cell
+C3151529||Lethal
+C0161816||cardiovascular complications
+C0020538||hypertension
+C0027051||myocardial infarction
+C0340643||aortic dissection
+C0271748||uncontrolled catecholamine release
+C1300200||anaesthesia management
+C0271748||destructive catecholamine secretion
+C0857127||induction
+C0185111||surgical manipulation
+C0150706||preoperative preparation
+C3536752||α-adrenergic blockade
+C3536830||β-adrenergic blockade
+C0037533||sodium nitroprusside
+C0246631||remifentanil
+C0751429||laparoscopic surgery
+C0031511||phaeochromocytoma

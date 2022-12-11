@@ -1,0 +1,19 @@
+C0429283||Dominant
+C0429283||Dominant
+C0042510||Ventricular Fibrillation
+C0012984||Dogs
+C0151744||Myocardial Ischemia
+C3517066||electrically provoked
+C0042510||ventricular fibrillation
+C0012984||dogs
+C0151744||ischemic heart disease
+C0429283||dominant ECG frequency
+C0042510||ventricular fibrillation
+C0042510||fibrillation
+C0429283||dominant frequencies
+C0042510||fibrillation
+C0429283||dominant
+C2919051||ischemic myocardium
+C0042510||ventricular fibrillation
+C0011905||automatic diagnostics
+C0086418||humans

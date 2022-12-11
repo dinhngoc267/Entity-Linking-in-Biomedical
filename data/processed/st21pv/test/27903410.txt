@@ -1,0 +1,56 @@
+C0015689||Long-chain n-3 PUFA
+C0012155||diet
+C0038233||plasma stearoyl-CoA desaturase
+C0918012||index
+C0243095||non-hypertriglyceridemic
+C0001792||older adults
+C0005847||vascular
+C0243102||activity
+C2002916||stearoyl-CoA desaturase-1
+C2002916||stearoyl-CoA desaturase-1
+C0014442||central enzyme
+C0015687||monounsaturated fatty acids
+C0015687||monounsaturated fatty acids
+C1563744||lipogenesis
+C0086272||experimental models
+C2002916||stearoyl-CoA desaturase-1
+C0013081||down-regulated
+C0032615||polyunsaturated fatty acids
+C0032615||polyunsaturated fatty acids
+C0008972||clinical studies
+C0015689||long-chain n-3 PUFA
+C0015689||long-chain n-3 PUFA
+C0012155||regular diet
+C0453017||fatty fish
+C0556145||fish oil
+C0242295||supplementation,
+C2002916||plasma SCD1
+C0918012||index
+C0069966||C16:1n-7
+C0030234||C16:0
+C1287879||nutrient intake
+C0599755||sub-cohort
+C0243095||non-hypertriglyceridemic
+C0080105||subjects
+C0008976||PREDIMED (PREvención con DIeta MEDiterranea) trial
+C0015663||fasting
+C0041004||triglycerides
+C2002916||plasma SCD1
+C0918012||index
+C1305855||BMI
+C0012155||dietary
+C0015689||long-chain n-3 PUFA
+C0015687||monounsaturated fatty acids
+C1318902||plant-derived PUFA
+C2002916||plasma SCD1
+C0918012||index
+C0015689||long-chain n-3 PUFA
+C0016452||food
+C0453017||fatty fish
+C0013081||down-regulation
+C2002916||plasma SCD1
+C0918012||index
+C0015689||long-chain n-3 PUFA
+C0016163||fish
+C0243095||non-supplemented
+C0012155||diet

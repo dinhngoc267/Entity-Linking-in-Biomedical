@@ -1,0 +1,50 @@
+C1510586||Autism Spectrum Disorder
+C0679035||cognitive development
+C0243095||findings
+C0243107||development
+C1510586||autism spectrum disorder
+C1510586||autism spectrum disorder
+C1510586||autism spectrum disorder
+C0595960||continuum
+C0683971||general population
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C1510586||autism spectrum disorder
+C1510586||autism spectrum disorder
+C1257890||populations
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C0679035||cognitive development
+C2603343||study
+C0025361||pretense development
+C0025361||imaginary objects
+C0025361||production
+C0936012||analyzed
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C0600269||familiarity
+C0543488||interest
+C1510586||autism spectrum disorder
+C0011900||diagnosis
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C0038951||survey
+C0543488||interest
+C0600269||familiarity
+C0543488||interest
+C0025361||production
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C0025361||production
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C0025361||production
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C1510586||autism spectrum disorder
+C1457887||symptoms
+C0087111||treatment
+C1510586||autism spectrum disorder
+C1457887||symptoms

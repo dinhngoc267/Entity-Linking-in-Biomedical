@@ -1,0 +1,31 @@
+C0025663||method
+C1561964||dose-guided patient positioning
+C1512814||intensity-modulated radiation therapy
+C1512814||intensity-modulated radiation therapy
+C0011923||imaging
+C0504075||anatomical landmarks
+C0449850||patient position
+C0011923||imaging
+C0243095||finding
+C0018017||objectives
+C0086388||patient shifts
+C3494285||interpolation
+C0086388||Pareto-efficient patient shifts
+C3494285||interpolation
+C1561964||dose-guided positioning
+C0278996||head and neck
+C0278996||head and neck
+C0600139||prostate cancer
+C1561964||Dose-guided positioning
+C0040405||CT
+C0011923||imaging
+C3494285||interpolation
+C0278996||head and neck
+C0600139||prostate cases
+C1561964||dose-guided positioning
+C0278996||head and neck
+C0030580||parotid glands
+C0600139||prostate
+C0278996||head and neck
+C0600139||prostate cases
+C1561964||dose-guided positioning

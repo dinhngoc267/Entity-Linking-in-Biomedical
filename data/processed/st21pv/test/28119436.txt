@@ -1,0 +1,26 @@
+C1519941||Validation
+C0015846||Neogen® Fentanyl
+C0014441||ELISA
+C0005767||Blood
+C0042036||Urine
+C0015846||Neogen® Fentanyl
+C0014441||enzyme-linked immunosorbent assay
+C1257890||Scientific Working Group
+C0086343||Standard Practices
+C1519941||Validation
+C4291774||Laboratory Guidelines.
+C0370231||whole blood
+C0042036||urine
+C1519941||validation
+C0220825||evaluation
+C0220825||evaluation
+C0005767||blood
+C0042036||urine
+C0370231||whole blood
+C0042036||urine
+C0010357||Cross-reactivity
+C0220825||evaluated
+C0214194||norfentanyl
+C2713534||4-anilino-N-phenethylpiperidine
+C4305826||butyryl fentanyl
+C0015846||furanyl fentanyl

@@ -1,0 +1,14 @@
+C0008976||Trials
+C0730319||Genetic
+C1328813||Metabolomic
+C1516924||Epigenetic
+C0243095||Findings
+C0005516||biomarkers
+C1095963||smoking cessation treatments
+C1095963||smoking cessation treatment
+C0237401||individual's
+C2986505||genetic
+C3853758||metabolic profile
+C1285573||genotyping
+C0681814||research studies
+C0008976||clinical trials

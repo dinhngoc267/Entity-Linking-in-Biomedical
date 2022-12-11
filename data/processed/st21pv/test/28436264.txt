@@ -1,0 +1,25 @@
+C1273869||Interventions
+C0184511||Improve
+C0025353||Mental
+C0517226||Physical Health
+C0282443||Integrative Review
+C0282443||integrative review
+C1273869||interventions
+C0184511||improve
+C0517226||physical
+C0025353||mental health
+C0242356||database
+C2603343||studies
+C0034036||publications
+C2603343||studies
+C2603343||studies
+C0025353||mental health
+C0517226||physical health
+C0337609||social relations
+C0205146||areas
+C0517226||physical health
+C1273869||interventions
+C2603343||studies
+C0206035||randomized controlled trial
+C1273869||interventions
+C0035168||research

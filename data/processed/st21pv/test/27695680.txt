@@ -1,0 +1,36 @@
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0442726||detection
+C1514241||positive
+C0041327||pulmonary tuberculosis
+C0008115||China
+C0282574||first phase of the Fund for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0008115||China
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0442726||detection
+C1514241||positive
+C0041327||pulmonary tuberculosis
+C0041327||pulmonary tuberculosis
+C0008115||China
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0017446||areas
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0017446||areas
+C0243095||non-FI-DELIS
+C0017446||areas
+C1514578||province
+C1257890||population
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0017446||areas
+C0243095||non-FIDELIS
+C0017446||areas
+C0936012||analysis
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0017446||areas
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0017446||areas
+C0282574||for Innovative DOTS Expansion through Local Initiatives to Stop TB
+C0442726||detection
+C1514241||positive
+C0041327||pulmonary tuberculosis
+C0008115||China

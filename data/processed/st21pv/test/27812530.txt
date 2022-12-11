@@ -1,0 +1,27 @@
+C0005533||Polymethylmethacrylate
+C0005934||Cement
+C1303192||Vertebroplasty
+C0005533||Polymethylmethacrylate
+C0005533||Polymethylmethacrylate
+C0005934||bone cement
+C0262950||bone
+C0229984||void
+C0005934||filler
+C1303192||vertebroplasty
+C0005533||Polymethylmethacrylate
+C0005479||material's
+C2603343||study
+C0005934||bone cement
+C0033213||problems
+C0005934||bone cements
+C0005533||Polymethylmethacrylate
+C0007343||castor oil
+C0007343||castor oil
+C0005934||cements
+C0007343||castor oil
+C0005479||material
+C0007343||castor oil
+C0007343||castor oil
+C0005533||Polymethylmethacrylate
+C0005934||bone cement
+C1303192||vertebroplasty

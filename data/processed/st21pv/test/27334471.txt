@@ -1,0 +1,43 @@
+C0037589||CAGEd-oPOSSUM
+C0936012||motif enrichment analysis
+C0150098||Cap Analysis of Gene Expression
+C0949639||transcription start sites
+C0150098||large-scale Cap Analysis of Gene Expression (CAGE) datasets
+C0022877||individual labs
+C0034987||cis-regulatory regions
+C0040649||gene transcription
+C3158211||transcription factor binding site
+C3158211||transcription factor binding site
+C0936012||enrichment analysis
+C0150098||Cap Analysis of Gene Expression
+C0037589||CAGEd-oPOSSUM
+C0040648||TFs
+C0017337||genes
+C1512977||mammalian cell
+C2713035||tissue types
+C0037589||webtool
+C0936012||analysis
+C0150098||Cap Analysis of Gene Expression
+C0949639||transcription start sites
+C0949639||transcription start sites
+C1706077||user
+C0024660||mammalian
+C3158211||transcription factor binding site
+C0242356||JASPAR TF binding profiles
+C0242356||tool
+C0233820||insights
+C0017263||regulation of genes
+C2603343||study
+C0949639||transcription start sites
+C0449475||cell types
+C0037589||CAGEd-oPOSUM web tool
+C0037589||Perl
+C1710218||MySQL
+C0243030||Apache
+C2349146||http://cagedop.cmmt.ubc.ca/CAGEd_oPOSSUM
+C1705961||anthony.mathelier@ncmm.uio.no
+C1705961||wyeth@cmmt.ubc.ca
+C2936424||Supplementary information
+C2936424||Supplementary data
+C0282420||Bioinformatics
+C0029038||online

@@ -1,0 +1,40 @@
+C0017263||Regulated
+C0021920||Intron
+C0596545||Experience
+C0596545||experiences
+C0025265||transient memory
+C0025361||internal state
+C0596545||experience
+C0025260||memories
+C0596545||experience
+C0025361||internal state
+C0025260||memory
+C0949989||Drosophila Orb2A protein
+C0423909||long-lasting memory
+C0006104||brain
+C0035696||mRNA
+C0949989||Orb2A protein
+C0026661||unspliced non-protein-coding form
+C0596545||experience
+C0013126||internal drive
+C0035696||spliced protein-coding Orb2A mRNA
+C1100909||pasilla
+C0024660||mammalian
+C0033684||Nova-1
+C0033684||2
+C1363844||mediator
+C0035696||Orb2A mRNA
+C0314627||processing
+C0028630||single-nucleotide
+C0021920||intronic
+C1100909||Pasilla
+C0033618||binding
+C0021920||intron
+C0423909||long-term memory
+C1100909||pasilla
+C0314627||processing
+C0035696||unspliced Orb2A mRNA
+C0596545||experience
+C0025361||internal state
+C0949989||Orb2A protein
+C0423909||long-term memory

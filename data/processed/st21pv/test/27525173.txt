@@ -1,0 +1,44 @@
+C0028953||Oligonucleotide
+C2607480||Mir31
+C0013264||Duchenne Muscular Dystrophy
+C0035687||Exon-skipping
+C0079925||antisense oligonucleotides
+C0087111||therapies
+C0013264||Duchenne muscular dystrophy
+C0013264||Duchenne muscular dystrophy
+C1624609||sequence-specific
+C0028953||oligonucleotide
+C0079259||dystrophin
+C0035696||mRNA
+C1519619||translational suppression
+C1101610||microRNA
+C2607480||miR31
+C2607480||miR31
+C0026845||muscle
+C0013264||Duchenne muscular dystrophy
+C0028953||oligonucleotide
+C0035687||exon skipping
+C1519619||translational block
+C0035687||exon skipping
+C0600600||3'UTR
+C0013264||Duchenne muscular dystrophy
+C0080089||in-frame
+C1519595||transcript
+C1261322||investigations
+C0035687||exon skipping
+C2607480||miR31
+C3850137||in vitro
+C0206535||mdx mouse
+C0599779||animal model
+C0013264||Duchenne muscular dystrophy
+C1283169||monitoring
+C0079259||dystrophin
+C0040649||transcriptional
+C1519614||translational
+C0007585||cell culture
+C1515655||in vivo
+C0079259||dystrophin
+C1519614||translation
+C2607480||miR31
+C0028953||oligonucleotide
+C1261322||investigations

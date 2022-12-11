@@ -1,0 +1,50 @@
+C1171307||Health Disparities
+C0376358||Prostate Cancer
+C0087111||Treatment
+C0376358||prostate cancer
+C0871685||clinician
+C0444454||access
+C0031831||physicians
+C0018704||treating facilities
+C0035168||research
+C0087111||treatment
+C0025266||men
+C0376358||prostate cancer
+C0034510||race
+C0086388||care
+C0444454||access
+C0086388||care
+C0035168||Research
+C0087111||treatment
+C0449774||patterns
+C0376358||prostate cancer
+C0815319||Geographical Information System
+C0815319||Geographical Information System
+C2603343||Studies
+C1706852||articles
+C0035168||research
+C0041703||US
+C1257890||populations
+C1706852||articles
+C0037775||spatial
+C0936012||analyses
+C0376358||prostate cancer
+C0087111||treatment
+C0815319||Geographical Information System
+C0035168||research
+C0376358||prostate cancer
+C0936012||analyses
+C0016253||Florida
+C0025266||men
+C0376358||prostate cancer
+C0376358||prostate cancer
+C0376358||prostate cancer
+C0087111||treatment
+C0936012||analysis
+C1257890||groups
+C0444454||access
+C0086388||care
+C2826212||public health officials
+C0018707||health-systems administrators
+C0871685||clinicians
+C0242170||policymakers

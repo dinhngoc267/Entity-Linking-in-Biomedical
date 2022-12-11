@@ -1,0 +1,57 @@
+C1515941||ACR
+C0376636||Management
+C1412000||Mesenteric Ischemia
+C1412000||Mesenteric vascular insufficiency
+C0241950||bowel infarction
+C0449445||approach
+C0087111||therapy
+C0001363||acute mesenteric ischemia
+C0349707||aspiration
+C0162575||embolectomy
+C0203005||transcatheter
+C0040044||thrombolysis
+C0162577||angioplasty
+C2348535||stenting
+C0087111||treatment
+C0238397||arterial stenosis
+C3852986||Nonocclusive mesenteric ischemia
+C0021439||transarterial infusion
+C0042402||vasodilators
+C0017887||nitroglycerin
+C0030350||papaverine
+C0017687||glucagon
+C0002335||prostaglandin E1
+C0087111||therapy
+C0311262||chronic mesenteric ischemia
+C0162577||angioplasty
+C0522776||stent placement
+C1997114||endovascular approach
+C1536078||surgical bypass
+C0014098||endarterectomy
+C0011900||diagnosis
+C1861783||median arcuate ligament syndrome
+C0543467||surgical
+C0348013||Venous
+C1412000||mesenteric ischemia
+C0003281||anticoagulation
+C0589464||Transhepatic
+C0226742||superior mesenteric vein
+C1457887||symptoms
+C0683521||condition of the patient
+C0003281||anticoagulation
+C0339897||transjugular intrahepatic portosystemic shunt creation
+C1515941||American College of Radiology
+C0162791||guidelines
+C0683521||clinical conditions
+C1319406||multidisciplinary expert panel
+C0162791||guideline
+C0936012||extensive analysis
+C2985503||peer-reviewed journals
+C0086912||methodologies
+C3826892||RAND
+C0282574||Grading of Recommendations Assessment, Development, and Evaluation
+C0282574||GRADE
+C0079595||imaging
+C0087111||treatment procedures
+C0079595||imaging
+C0087111||treatment

@@ -1,0 +1,62 @@
+C0002066||Alkaptonuria
+C0026022||low energy X-ray fluorescence microscopy
+C0026022||low energy X-ray fluorescence microscopy
+C1511524||correlative study
+C0678236||rare disease
+C0002066||Alkaptonuria
+C0002066||Alkaptonuria
+C0678236||ultra-rare disease
+C0014442||enzyme
+C1156678||tyrosine catabolism
+C4055506||accumulation
+C0019881||homogentisic acid
+C0019881||homogentisic acid
+C0022417||joint
+C0007301||cartilage
+C0022408||arthropathy
+C0002726||Secondary amyloidosis
+C0002066||Alkaptonuria
+C0022408||arthropathy
+C0678594||structurally
+C0002716||amyloid
+C0026022||X-Ray Fluorescence microscopies
+C0005507||bio-assays
+C0936012||analytical
+C0002066||Alkaptonuria
+C0007301||cartilage
+C0002066||Alkaptonuria
+C0007301||cartilage
+C0033692||proteoglycans
+C0595879||increased Sodium levels
+C4055506||accumulation
+C0023779||lipids
+C0229984||peri-lacunar regions
+C0002716||amyloid
+C1510940||aromatic compounds
+C0684299||oxygen-containing species
+C0024467||Magnesium
+C0392752||localized
+C0229984||peri-lacunar region
+C0150312||presence
+C0006681||calcium carbonate
+C1514583||proximity
+C0225370||cartilage lacunae
+C0002066||Alkaptonuria
+C0022408||arthropathy
+C0012634||disease
+C0150312||presence
+C0002716||amyloids
+C0205161||peculiar
+C1533591||calcifications
+C0936012||analyses
+C0002066||Alkaptonuria
+C0007301||cartilage
+C0012634||disease
+C0002066||Alkaptonuria
+C1623047||tissue degeneration
+C0005507||bio-assays
+C0678594||structural
+C0002716||amyloids
+C0035168||work
+C0936012||analytical
+C0936012||analyses

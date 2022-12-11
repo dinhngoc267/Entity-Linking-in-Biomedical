@@ -1,0 +1,44 @@
+C0008838||cisplatin
+C0011777||dexamethasone
+C0045093||gemcitabine
+C0071568||pegaspargase
+C1254351||dexamethasone, gemcitabine and pegaspargase
+C0040808||regimen
+C1955906||extranodal natural killer/T-cell lymphoma
+C0936012||analysis
+C2603343||study
+C0392788||extranodal natural killer/T-cell lymphoma, nasal type
+C0392788||extranodal natural killer/T-cell lymphoma, nasal type
+C2603343||study
+C0008838||cisplatin
+C0011777||dexamethasone
+C0045093||gemcitabine
+C0071568||pegaspargase
+C1254351||dexamethasone, gemcitabine and pegaspargase
+C0040808||regimen
+C0040808||protocol treatment
+C0936012||analysis
+C1254351||dexamethasone, gemcitabine and pegaspargase
+C3665472||chemotherapy
+C1275810||complete response
+C1275810||complete response
+C1521726||partial response
+C1521726||partial response
+C1335499||progressive disease
+C1335499||progressive disease
+C1522577||follow-up
+C0441800||Grade
+C0023530||leukopenia
+C0441800||grade
+C0040034||thrombocytopenia
+C0030605||Activated Partial Phromboplastin Ptime
+C0030605||Activated Partial Phromboplastin Ptime
+C0240671||elongation
+C0553681||hypofibrinogenemia
+C1254351||dexamethasone, gemcitabine and pegaspargase
+C0040808||regimen
+C0013220||tolerated
+C0392788||extranodal natural killer/T-cell lymphoma, nasal type
+C0008976||trial
+C1514821||registered
+C2349146||www.ClinicalTrials.gov

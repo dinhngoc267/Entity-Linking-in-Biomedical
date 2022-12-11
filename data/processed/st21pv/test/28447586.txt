@@ -1,0 +1,28 @@
+C0229671||Serum
+C0169539||vascular endothelial growth factor receptor-3
+C0279626||esophageal squamous cell cancer
+C0014859||Esophageal cancer
+C0017185||tumors of the gastrointestinal tract
+C0229671||serum
+C0169539||vascular endothelial growth factor-3
+C0169539||vascular endothelial growth factor-3
+C1171362||expression
+C0279626||esophageal squamous cell carcinoma
+C0279626||esophageal squamous cell carcinoma
+C0169539||vascular endothelial growth factor-3
+C0279626||esophageal squamous cell carcinoma
+C0279626||esophageal squamous cell carcinoma
+C1550100||samples
+C0014441||ELISA
+C0169539||vascular endothelial growth factor-3
+C0169539||vascular endothelial growth factor-3
+C0279626||esophageal squamous cell carcinoma
+C0013018||donors
+C0169539||vascular endothelial growth factor-3
+C0279626||esophageal squamous cell carcinoma
+C0169539||vascular endothelial growth factor-3
+C0005516||biomarker
+C0279626||esophageal squamous cell carcinoma
+C0005516||Biomarker
+C0279626||esophageal squamous cell carcinoma
+C0169539||vascular endothelial growth factor-3

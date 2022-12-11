@@ -1,0 +1,23 @@
+C0018747||Secondary Health Care Services
+C2911692||Response
+C0600591||Patient Choice Policies
+C1955832||Systematic Review
+C3494402||elective secondary care services
+C0454664||countries
+C1138432||PubMed
+C0282574||Embase
+C1706852||articles
+C1705823||titles
+C0600678||abstracts
+C0008972||studies
+C0008972||studies
+C3161035||models
+C0425245||mobility
+C0425245||Mobility
+C0034379||better service quality
+C1510819||advanced technology
+C0001792||advanced age
+C0242456||policy
+C0032670||perspective
+C0243095||losers
+C0018747||services

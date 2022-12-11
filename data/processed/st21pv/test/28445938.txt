@@ -1,0 +1,42 @@
+C0298067||Pirfenidone
+C3665472||chemotherapy
+C0556530||Normalization
+C0932050||components
+C0027651||tumor
+C0015350||extracellular matrix
+C0027651||tumor
+C0005847||blood vessels
+C0005847||vessel
+C0087111||drug delivery
+C0920425||cancer therapy
+C0243095||tolerated
+C1254351||pharmaceutical agents
+C0280100||solid tumors
+C3665472||chemotherapy
+C2603343||study
+C0298067||Pirfenidone
+C0087111||treatment
+C1800706||idiopathic pulmonary fibrosis
+C0556530||normalization
+C0574893||orthotopic
+C0006141||mammary
+C1710493||tumor models
+C0298067||Pirfenidone
+C0009325||collagen
+C0813622||hyaluronan
+C0005847||blood vessel
+C0013089||doxorubicin
+C0932050||extracellular matrix components
+C0013081||downregulation
+C1366557||TGFβ1
+C1332772||COL1A1
+C1413581||COL3A1
+C1415475||HAS2
+C1415476||HAS3
+C0017262||expression
+C0243095||findings
+C0298067||Pirfenidone
+C0035171||strategy
+C0087111||drug delivery
+C0280100||solid tumors
+C0556530||normalizing

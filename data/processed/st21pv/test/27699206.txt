@@ -1,0 +1,27 @@
+C0205148||Surfaces
+C0683312||Category
+C0086418||Human
+C0042817||Visual Cortex
+C0376335||fMRI studies
+C0086418||human
+C0028785||lateral occipital (LO) cortex
+C1704922||images
+C0028785||lateral occipital
+C3161035||unbiased parametric texture model
+C0028785||lateral occipital
+C0302523||Observation
+C0205148||surfaces
+C0376335||fMRI
+C3536733||fusiform face area
+C3536733||fusiform face area
+C3536733||fusiform face area
+C0028785||lateral occipital
+C0205148||faces
+C0016689||freckled
+C0205148||faces
+C0449379||connections
+C0028785||lateral occipital
+C3536733||fusiform face area
+C0028785||lateral occipital
+C3536733||fusiform face area
+C0683312||category

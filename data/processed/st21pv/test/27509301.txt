@@ -1,0 +1,62 @@
+C0014939||Estrogenic
+C0220806||Environmental Chemical
+C0870883||Metabolites
+C0041712||US Environmental Protection Agency's
+C0041712||Environmental Protection Agency's
+C0282574||ToxCast
+C0282574||Tox21
+C2718002||high-throughput screening assays
+C0014136||endocrine
+C0220806||environmental chemicals
+C3850137||in vitro assays
+C0220806||inactive chemicals
+C0005576||biotransformed
+C0870883||metabolites
+C0014136||endocrine
+C0025519||metabolism
+C0014136||endocrine
+C0220806||parent chemicals
+C0870883||metabolites
+C0037585||software
+C0870883||metabolites
+C1706082||parent compounds
+C0220806||chemicals
+C0014939||estrogenic
+C0870883||metabolites
+C1706082||compounds
+C0870883||metabolites
+C0014939||estrogenic
+C0034804||ER
+C3161035||models
+C0014939||estrogen
+C1706082||parent compounds
+C0870883||metabolites
+C3161035||models
+C0220806||chemicals
+C0220806||parent chemical
+C0870883||metabolites
+C0037585||metabolite prediction software
+C0014939||estrogenic
+C0870883||metabolites
+C0220806||parent chemicals
+C0870883||metabolite
+C0014939||estrogenic
+C0870883||metabolites
+C0005576||biotransformation
+C0005522||products
+C0220806||parent chemical
+C3161035||models
+C0014939||estrogenic
+C0014939||estrogenic
+C0870883||metabolites
+C0220806||parent chemicals
+C3161035||models
+C1706082||parent compounds
+C0220806||chemicals
+C0870883||metabolites
+C0442726||detection
+C0220806||chemicals
+C0014939||estrogenic
+C0870883||metabolites
+C0205558||false negative
+C3850137||in vitro assays

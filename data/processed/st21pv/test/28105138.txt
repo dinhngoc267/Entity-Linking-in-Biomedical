@@ -1,0 +1,49 @@
+C0002978||angiographic
+C0006560||high-sensitivity C-reactive protein
+C1303258||acute ST elevation myocardial infarction
+C0947751||Vascular inflammation
+C1155266||inflammatory responses
+C0699748||pathogenesis
+C1963943||atherothrombotic
+C0948089||acute coronary syndrome
+C0948089||acute coronary syndrome
+C0027051||myocardial infarction
+C0027051||myocardial infarction
+C1536220||ST segment elevation myocardial infarction
+C1536220||segment elevation myocardial infarction
+C0948089||acute coronary syndrome
+C0006560||C-reactive protein
+C0006560||C-reactive protein
+C0001347||acute phase prsotein
+C3839560||high-sensitivity methods
+C3839560||hs-CRP
+C0428528||level
+C0005889||body fluids
+C0021376||chronic inflammatory
+C3839560||hs-CRP
+C0428528||level
+C0021368||inflammatory
+C0005516||marker
+C0010054||coronary artery disease
+C0010054||coronary artery disease
+C2603343||study
+C3839560||hs-CRP
+C0428528||level
+C0002978||angiographic
+C1536220||segment elevation myocardial infarction
+C0035648||risk factors
+C0009566||complications
+C0027051||myocardial infarction
+C0010054||coronary artery disease
+C1536220||segment elevation myocardial infarction
+C0936012||analyzed
+C0035124||reperfusion therapy
+C3839560||hs-CRP
+C0011847||diabetic
+C3839560||hs-CRP
+C3827339||hs-troponin T
+C3839560||hs-CRP
+C2603343||study
+C0004153||atherosclerosis
+C0087111||therapy
+C0012634||disease

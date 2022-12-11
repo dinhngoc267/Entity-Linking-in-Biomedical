@@ -1,0 +1,38 @@
+C0018738||Health Promotion Program
+C0010362||cross-sectional nature
+C1160858||assessing the relative impact
+C1527116||working adult population
+C2700446||self-reported
+C0599755||cohort
+C0679646||participants
+C0162579||workplace
+C0043113||wellness program
+C0010235||Cox proportional-hazards models
+C2700446||self-reported
+C0008679||chronic diseases
+C0011065||death
+C4019276||Data were collected
+C0242970||low-fat diet
+C0001701||aerobic exercise
+C2364286||adequate sleep
+C4284887||dose-response effect
+C0425440||dietary fat intake
+C0020538||hypertension
+C0028754||obesity
+C0011847||diabetes
+C0018799||heart disease
+C0020443||hypercholesterolemia
+C0425440||dietary fat intake
+C0001701||aerobic exercise
+C0086750||development of outcomes
+C0679646||participants
+C0018799||heart disease
+C0020443||hypercholesterolemia
+C0242970||Low-fat diet
+C2364286||adequate sleep
+C0018738||health promotion programs
+C0162579||workplace
+C0018738||health promotion
+C0242970||low-fat diet
+C0001701||aerobic exercise
+C2364286||adequate sleep

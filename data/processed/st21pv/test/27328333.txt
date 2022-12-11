@@ -1,0 +1,18 @@
+C0042164||Uveitis
+C0042164||inflammatory uveitis
+C0242656||severe disease course
+C0087111||treatment
+C1514815||refractory disease
+C0017393||genetic markers
+C0005516||biomarkers
+C0042164||uveitis
+C0242656||disease course
+C3650840||traditional therapy
+C0243095||Racial disparities
+C0684224||reported
+C0450442||agents
+C2987124||patient reported outcomes
+C0042164||Uveitis
+C0009566||vision-threatening complications
+C0087111||Timely and aggressive treatment
+C0242656||severe uveitis course

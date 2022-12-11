@@ -1,0 +1,75 @@
+C0032595||Capsular Polysaccharide
+C0042765||Virulence-Related
+C1855645||KPC
+C0001699||Klebsiella pneumoniae
+C1764827||Isolates
+C0008115||Chinese
+C0020028||University Hospital
+C0001699||Klebsiella pneumoniae
+C0086418||human
+C0012634||diseases
+C0017337||blaKPC
+C0001699||K. pneumoniae
+C0001699||KPC-Kp
+C0085229||Capsule
+C1136170||virulence factor
+C0001699||K. pneumoniae
+C2603343||study
+C0032595||capsular polysaccharide
+C0032595||capsular polysaccharide
+C0042765||virulence
+C0001699||KPC-Kp
+C0001699||KPC-Kp
+C1764827||isolates
+C0020028||Chinese hospital
+C2936544||multilocus sequence typing
+C2936544||multilocus sequence typing
+C0085229||Capsule
+C0441704||typing
+C1294197||wzi sequencing
+C0032520||wzc polymerase chain reaction
+C0032520||polymerase chain reaction
+C0042765||virulence
+C0017337||genes
+C0200924||molecular approaches
+C0042765||virulence
+C1325881||biofilm formation
+C0229671||serum
+C0599733||killing
+C0031308||phagocytosis
+C3714514||infection
+C3161035||models
+C2359784||STs
+C0150312||found
+C0001699||KPC-Kp
+C1764827||isolates
+C1764827||isolates
+C2359784||ST11
+C2359784||6
+C1764827||isolates
+C2359784||ST147
+C1764827||isolates
+C2359784||ST15
+C2359784||ST1456
+C2359784||ST65
+C2359784||ST23
+C3708993||wzi gene DNA sequences
+C0032520||wzc PCR
+C0085229||capsular
+C0085229||wzi47-K47
+C0085229||wzi64-K64
+C0085229||wzi8-K8
+C0085229||wzi37-K37
+C0085229||wzi53-K53
+C0085229||wzi125-K2
+C0085229||wzi1-K1
+C0442726||detected
+C1325881||biofilm formation
+C0031308||phagocytosis
+C0032595||capsular polysaccharide
+C2359784||ST11
+C2359784||ST
+C0001699||KPC-Kp
+C0042765||virulence-associated
+C2359784||ST
+C0032595||capsular polysaccharide

@@ -1,0 +1,73 @@
+C1259051||TRIB3
+C0013081||downregulation
+C0013089||doxorubicin
+C0596402||cytotoxicity
+C0024623||gastric cancer
+C0334227||cells
+C1259051||TRIB3
+C0033684||pseudokinase
+C1327622||regulate multiple pro-survival pathways
+C0087111||therapeutic
+C0920425||treatment
+C0086418||human
+C0027651||tumors
+C0006826||cancer
+C1259051||TRIB3
+C0428479||protein levels
+C0278250||good
+C0278252||poor prognosis
+C1259051||TRIB3
+C1171362||expression
+C0007620||survival
+C0024623||gastric cancer
+C0334227||cells
+C0003392||anticancer drugs
+C0003392||anticancer drug
+C0013089||doxorubicin
+C0596402||cytotoxicity
+C1540055||TRIB3
+C0040649||transcription
+C0162638||apoptotic cell death
+C1099354||TRIB3 siRNA
+C2350567||knockdown
+C0013089||doxorubicin
+C0162638||apoptosis
+C0024623||gastric cancer
+C0334227||cells
+C1171362||expression
+C0522506||downstream
+C0763396||apoptotic factors
+C1514559||overexpression
+C1259051||TRIB3
+C0007634||protected cells
+C0013089||doxorubicin
+C0162638||apoptosis
+C0013081||downregulation
+C1259051||TRIB3
+C0007587||cell death
+C0013089||doxorubicin
+C0162638||apoptosis
+C2986514||anti-apoptotic
+C1259051||TRIB3
+C0017391||inductions
+C0752312||MAPKs
+C0013089||doxorubicin
+C1259051||TRIB3
+C0013081||downregulation
+C1259051||TRIB3
+C1514559||overexpression
+C0013089||doxorubicin
+C1155551||MAPK activation
+C2825141||findings
+C1259051||TRIB3
+C2986514||anti-apoptotic
+C0013089||doxorubicin
+C0024623||gastric cancer
+C0334227||cell lines
+C1259051||TRIB3
+C1171362||expression
+C0003392||anticancer drugs
+C0013089||doxorubicin
+C0123931||irinotecan
+C0069717||oxaliplatin
+C0920425||cancer therapy

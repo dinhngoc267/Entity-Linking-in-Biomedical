@@ -1,0 +1,53 @@
+C0562676||larval
+C1082670||Notofairchildia stenygros
+C0012578||Diptera
+C0033888||Psychodidae
+C1082670||Bruchomyiinae
+C1082670||Bruchomyiinae
+C1711207||plesiomorphic subfamily
+C0033888||Psychodidae
+C0012578||Diptera
+C1082670||Bruchomyiinae
+C1513916||no
+C0015219||evolutionary
+C1123010||Phlebotominae
+C1705920||species
+C1711207||subfamily
+C0557745||natural environment
+C0563200||adults
+C0012578||flies
+C0562677||egg
+C0562676||larvae
+C0034120||pupae
+C1082670||Notofairchildia stenygros
+C0600281||nomenclatural notes
+C0562676||larval
+C0026020||scanning electron microscopy
+C0026020||scanning electron microscopy
+C1082670||Nt. stenygros
+C1082670||Bruchomyiinae
+C0033888||Psychodidae
+C1705920||species
+C1705920||species
+C1123010||Phlebotominae
+C1082670||Bruchomyiinae
+C2603343||study
+C0543482||morphological
+C1082670||Bruchomyiinae
+C1123010||Phlebotominae
+C0000726||abdominal
+C0033827||pseudopods
+C0018494||microtrichia
+C0205096||cephalic
+C0037267||integument
+C0562676||larvae
+C1123010||Phlebotominae
+C0543482||morphological
+C1711207||subfamilies
+C0243095||findings
+C1082670||Bruchomyiinae
+C1704307||Phlebtominae
+C0015219||evolutionarily
+C1082670||Notofairchildia stenygros
+C1705920||species
+C1082670||Bruchomyiinae

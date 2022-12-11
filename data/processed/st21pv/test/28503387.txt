@@ -1,0 +1,41 @@
+C0035934||Rubinstein-Taybi Syndrome
+C0346308||Pituitary Macroadenoma
+C0085973||Case Report
+C0035934||Rubinstein-Taybi Syndrome
+C0035934||Rubinstein-Taybi Syndrome
+C3899989||autosomal dominant disorder
+C0151686||growth restriction
+C0025958||microcephaly
+C0432072||dysmorphic craniofacial features
+C0426891||broad thumbs
+C1865038||toes
+C3714756||intellectual disability
+C0346308||pituitary macroadenoma
+C0035934||Rubinstein-Taybi Syndrome
+C0043157||Caucasian
+C0043210||female
+C0455458||past medical history
+C0035934||Rubinstein-Taybi Syndrome
+C0011900||diagnosed
+C0016911||gadolinium
+C0342419||pituitary mass
+C0024485||magnetic resonance imaging
+C0024485||magnetic resonance imaging
+C0006104||brain
+C0018681||migraine-like headaches
+C0011923||imaging
+C0018270||growth
+C0456389||size
+C0032005||pituitary
+C0221198||sellar lesion
+C0015252||resected
+C0442418||endoscopic
+C3897344||transnasal
+C0205508||transsphenoidal approach
+C0346303||thyrotroph adenoma
+C0035934||Rubinstein-Taybi Syndrome
+C1535926||neurodevelopmental
+C0019247||genetic disease
+C0012634||disorder
+C0027766||nervous system tumors
+C0032000||pituitary adenomas

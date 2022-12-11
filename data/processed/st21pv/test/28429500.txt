@@ -1,0 +1,42 @@
+C0428946||Electrocardiographic appearance
+C0003507||aortic stenosis
+C0003506||aortic valve replacement
+C0429097||QRS complex
+C0429029||ST-segment
+C0239242||T wave
+C0003507||aortic stenosis
+C0003507||aortic stenosis
+C0429094||S-wave
+C0441907||leads V1
+C0449218||V3
+C0003507||aortic stenosis
+C0033522||prospective study
+C0543467||surgical
+C0003506||aortic valve replacement
+C0003506||aortic valve replacement
+C0231221||asymptomatic
+C0003507||aortic stenosis
+C0428772||EFLV
+C0232117||PG
+C0220825||evaluated
+C0429094||S-wave
+C0003506||aortic valve replacement
+C0429094||S-wave
+C0013798||electrocardiogram
+C0204901||hemodynamic measurements
+C0013516||echocardiography
+C0936012||Analysis
+C0013516||echocardiographic
+C0449381||parameters
+C0543467||surgery
+C0231221||asymptomatic
+C0429094||S-wave
+C0003506||aortic valve replacement
+C0429094||S-wave
+C0441908||leads V2
+C0449218||V3
+C0232117||PG
+C0429094||S-wave
+C0232117||PG
+C2585524||referral for
+C0003506||aortic valve replacement

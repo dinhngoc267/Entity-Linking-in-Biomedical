@@ -1,0 +1,42 @@
+C0010654||cysteine
+C1150301||peptidyl-prolyl cis-trans isomerase activity
+C0043137||wheat
+C0917877||cyclophilin
+C1418793||TaCYPA-1
+C1150301||peptidyl-prolyl cis-trans isomerase (PPIase) activity
+C0917877||cyclophilins
+C0038734||Thiol
+C0030012||redox
+C0033684||proteins
+C0243102||activity
+C0043137||wheat
+C0917877||cyclophilin
+C1418793||TaCYPA-1
+C0443264||modulated
+C0030012||redox
+C1150301||PPIase activity
+C1418793||TaCYPA-1
+C0596988||mutants
+C1418793||TaCYPA-1
+C0010654||cysteine
+C0733755||positions
+C0036720||serine
+C0033382||proline
+C1150301||PPIase activity
+C0136073||TaCYPA-1C40S
+C0136073||TaCYPA-1C122S
+C0136073||TaCYPA-1
+C0596988||mutant
+C0136073||TaCYPA-1C40S/C122S
+C1883559||wild-type
+C1418793||TaCYPA-1
+C0596988||mutants
+C1177210||Cu2+
+C2603343||study
+C1150301||PPIase activity
+C0596988||mutant
+C1418793||TaCYPA-1C126P
+C0282498||heat stress
+C0302523||observations
+C1418793||TaCYPA-1
+C3544386||thermotolerance

@@ -1,0 +1,67 @@
+C0030095||Oxytocin
+C0015450||Face
+C0524637||Recognition
+C0015392||Eye
+C0553544||Gaze
+C0681814||studies
+C0030095||oxytocin
+C0030095||oxytocin
+C0184511||improve
+C0524637||recognition
+C0849912||emotional
+C0015457||facial expressions
+C0004268||attention
+C0446453||eye-region
+C0015450||faces
+C0681814||studies
+C0030095||oxytocin
+C0013987||emotion
+C0524637||recognition
+C0015392||eye
+C0553544||gaze
+C0025663||Methods
+C0013072||double-blind
+C0332285||within
+C0080105||subjects
+C0681814||randomized control experiment
+C0025266||male participants
+C0001560||intranasal
+C0030095||oxytocin
+C1696465||placebo
+C0589102||Visual attention
+C0446453||eye-region
+C0679646||participants
+C0015450||facial
+C0013987||emotion
+C0524637||recognition
+C0015457||facial expressions
+C0030095||oxytocin
+C0013987||emotion
+C0524637||recognition
+C0524637||recognition
+C0184511||improved
+C0015450||face
+C0013987||emotions
+C0030095||oxytocin
+C0681814||study
+C0030095||oxytocin
+C0015392||eye
+C0553544||gaze
+C0449774||patterns
+C0449911||viewing
+C0849912||emotional
+C0015450||faces
+C0524637||recognition
+C0015450||face
+C0243095||findings
+C0030095||oxytocin
+C0015450||facial
+C0013987||emotion
+C0524637||recognition
+C0004268||attention
+C0446453||eye-region
+C0015450||faces
+C0033213||issues
+C0243095||discrepant findings
+C0030095||oxytocin
+C0589102||visual attention

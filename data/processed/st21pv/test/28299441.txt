@@ -1,0 +1,58 @@
+C0040648||R2R3MYB
+C0040648||VvMYBPA1
+C0682492||grape
+C1156966||phenylpropanoid pathway
+C0740009||tobacco
+C0330090||flowers
+C0740009||tobacco
+C1512167||ectopic expression
+C0040648||VvMYBPA1
+C0682492||grape
+C0072018||proanthocyanidin
+C1157519||up- or down-regulates
+C1156966||phenylproanoid pathway
+C0072018||Proanthocyanidins
+C0596577||flavonoids
+C3668949||animal
+C0012155||human diet
+C0035168||Research
+C0242775||crops
+C0596577||Flavonoids
+C1167128||MBW
+C1167128||transcriptional complex
+C0040648||R2R3MYB
+C0288972||bHLH
+C0040648||WD40 proteins
+C0040648||MYB
+C0439799||channeling
+C1704241||complex
+C1704259||pathway
+C0740009||tobacco
+C1512167||ectopic expression
+C0072018||proanthocyanidin
+C0040648||VvMYBPA1
+C0682492||grape
+C0301868||committed cells
+C0040649||transcriptomic
+C0936012||analyses
+C0085245||transgenic lines
+C0040648||VvMYBPA1
+C1156966||phenylpropanoid pathway
+C0740009||tobacco
+C0330090||floral organs
+C0040648||VvMYBPA1
+C1171362||expression
+C1171362||expression
+C0072018||proanthocyanidin
+C0017337||early genes
+C1156966||phenylpropanoid pathway
+C0072018||proanthocyanidins
+C0008240||chlorogenic acids
+C0330090||floral limbs, tubes
+C1136236||stamens
+C1156966||phenylpropanoid branches
+C0330090||floral structure
+C0040648||VvMYBPA1
+C0040648||MYBs
+C0072018||proanthocyanidins
+C0242775||crops

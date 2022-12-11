@@ -1,0 +1,41 @@
+C0162807||secondary
+C0162808||tertiary structure
+C0012524||polyphenol oxidase
+C0017446||oriental
+C0440285||sweet melon
+C0947370||Cucumis melo var. makuwa Makino
+C0012524||Polyphenol oxidase
+C0012524||Polyphenol oxidase
+C0016767||fruits
+C0042440||vegetables
+C0440285||sweet melon
+C4055646||unexpected
+C0684224||reports
+C0012524||Polyphenol oxidase
+C0440285||sweet melon
+C0012524||Polyphenol oxidase
+C1268568||juice
+C0332293||treated with
+C0012524||Polyphenol oxidase
+C0454527||thermal treatment
+C0012524||Polyphenol oxidase
+C0087111||treatment
+C0678594||structure
+C0012524||Polyphenol oxidase
+C0012524||Polyphenol oxidase
+C0012524||Polyphenol oxidase
+C0301643||dissociation
+C0012524||Polyphenol oxidase
+C0597177||particles
+C0162805||α-helix structure
+C4081854||high-intensity
+C0301641||conformational changes
+C0012524||Polyphenol oxidase
+C0017446||oriental
+C0440285||sweet melons
+C0012524||Polyphenol oxidase
+C0678594||structure
+C0014442||enzyme
+C0012524||Polyphenol oxidase
+C0017446||oriental
+C0440285||sweet melons

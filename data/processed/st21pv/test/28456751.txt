@@ -1,0 +1,26 @@
+C0025663||Methods
+C3897816||proteogenomics
+C2936625||high-throughput next-generation sequencing
+C0037813||deep mass spectrometry
+C0872252||proteomics
+C3897816||proteogenomics
+C0936012||integrative analysis
+C0033684||protein
+C0282574||sample-specific genomic
+C0026382||transcriptomic sequencing data
+C0936012||integrative analysis
+C0681814||genomic and proteomic studies
+C0017263||gene expression regulation
+C0037083||cell signaling
+C0012634||disease
+C0025663||methods
+C1510941||array
+C1706852||article
+C0008902||classify
+C0025663||methods
+C3897816||Sequence -centric proteogenomics
+C0936012||Analysis
+C0870071||Integrative modeling
+C0175631||visualization
+C0025663||methods
+C0683312||category

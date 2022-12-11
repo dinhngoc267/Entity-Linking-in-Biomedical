@@ -1,0 +1,56 @@
+C0019693||HIV infection
+C1963724||art
+C0038951||kenya AIDS indicator survey 2012
+C0087111||treatment
+C0022558||kenya
+C0019693||HIV infection
+C1963724||antiretroviral (ARV) therapy
+C1963724||ART
+C1963724||ART
+C0022558||Kenya
+C0178913||dried blood spot samples
+C0038951||Kenya's second AIDS Indicator Survey
+C0005516||biomarker
+C4049918||liquid chromatography-tandem mass spectrometry
+C1963724||ART
+C2700446||self-report
+C0019693||HIV infection
+C1963724||ART
+C0019693||HIV infection
+C1963724||ART
+C0027361||persons
+C1963724||ART
+C0178913||samples
+C0005516||biomarker
+C0442726||detected
+C0599685||ARV drugs
+C1963724||ART
+C1963724||ART
+C0700287||reporting
+C0854048||HIV-negative status
+C0700287||reporting
+C1513916||no
+C1321876||HIV test
+C0019693||HIV infection
+C1963724||ART
+C1963724||ART
+C0019693||HIV infection
+C1963724||ART
+C0001792||aged
+C0018724||health provider
+C1963724||ART
+C0019693||HIV infection
+C1963724||ART
+C1963724||ART
+C0027361||persons
+C1963724||ART
+C0027361||persons
+C2700446||self-reported
+C1963724||ART
+C1963724||ART
+C1257890||population
+C0019700||sero-surveys
+C0184511||improve
+C1283169||monitoring
+C0087111||treatment
+C0454664||countries

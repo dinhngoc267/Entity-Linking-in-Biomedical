@@ -1,0 +1,39 @@
+C1257880||conjugated linoleic acid
+C3658346||multifunctional
+C0031691||enolase
+C0317608||Lactobacillus plantarum
+C0317608||Lactobacillus plantarum
+C2364020||α-enolase
+C3658346||multifunctional
+C0025252||surface protein
+C0031691||enolases
+C0017952||glycolytic
+C0025519||metabolism
+C0025519||intricate metabolism
+C0023749||linoleic acid
+C1609806||9-cis-11-trans-CLA
+C0620518||10-hydroxy-12-cis-octadecenoic acid
+C0031691||enolase
+C0037813||mass spectrometric analysis
+C0002518||amino acid sequence
+C0031691||enolase
+C0023749||linoleic acid
+C0700307||hydroxyl
+C0620518||10-hydroxi-12-cis-octadecenoic acid
+C0050156||conjugated linoleic acid
+C2603343||studies
+C1609806||9-cis-11-trans-CLA
+C0014439||stability
+C2364020||α-enolase
+C0204514||structural analysis
+C0033684||protein
+C0005456||binding sites
+C0031691||enolase
+C0022009||channel
+C3658346||multifunctional
+C2364020||α-enolase
+C4235382||cell detoxification
+C0032615||polyunsaturated fatty acids
+C0023749||linoleic acid
+C0312354||linoleate isomerase
+C1704241||complex

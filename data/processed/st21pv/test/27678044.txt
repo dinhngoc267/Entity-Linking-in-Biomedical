@@ -1,0 +1,40 @@
+C1842981||Neuroticism
+C0015672||Fatigue
+C0948008||Ischemic Stroke
+C0010362||Cross-Sectional Study
+C0332128||examine
+C1842981||neuroticism
+C0015672||fatigue
+C0008115||Chinese
+C0038454||stroke
+C0010362||Cross-sectional study
+C0587502||stroke unit
+C0948008||ischemic stroke
+C0587502||stroke unit
+C0233849||personality trait
+C1842981||neuroticism
+C1842981||neuroticism
+C0008115||Chinese
+C0333052||version
+C0031213||NEO Five-Factor Inventory
+C0015672||fatigue
+C2733557||Fatigue Assessment Scale
+C3472496||National Institutes of Health Stroke Scale
+C0451184||Geriatric Depression Scale
+C0451019||Barthel Index
+C0451306||Mini-Mental State Examination
+C2708733||clinical information
+C3813323||Fatigue severity
+C0038454||stroke
+C0451184||Geriatric Depression Scale
+C0031213||NEO Five-Factor Inventory
+C1842981||neuroticism
+C0205160||negatively
+C1842981||Neuroticism
+C1299583||independent
+C0086132||depressive symptoms
+C3813323||fatigue severity
+C0038454||stroke
+C1511790||detection
+C0332167||high risk of
+C2938940||poststroke depression

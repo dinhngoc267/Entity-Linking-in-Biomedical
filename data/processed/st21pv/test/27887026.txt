@@ -1,0 +1,48 @@
+C1225414||Chaetomium thermophilum
+C0016570||formate dehydrogenase
+C0973231||hydrogen carbonate
+C0973231||HCO3 -
+C0220832||formate
+C0016570||formate dehydrogenases
+C0016570||formate dehydrogenases
+C0178555||cofactor
+C1511130||chemoenzymatic synthesis
+C0016570||FDH
+C0007012||CO2
+C0007012||CO2
+C0220832||formate
+C0220832||HCOO(-)
+C0007012||CO2
+C0973231||hydrogen carbonate
+C0973231||HCO3(-)
+C0220832||formate
+C0016570||formate dehydrogenases
+C1011924||Candida methylica
+C0016570||CmFDH
+C1225414||Chaetomium thermophilum
+C0016570||Candida methylica ( CmFDH ) and Chaetomium thermophilum
+C0027289||NADH
+C0243102||catalytic performance
+C0973231||HCO3(-)
+C1510438||productivity assays
+C0016570||Candida methylica ( CmFDH ) and Chaetomium thermophilum
+C0973231||HCO3(-)
+C0220832||formate
+C0016570||CmFDH
+C0016570||CmFDH
+C0030011||oxidation
+C0220832||formate
+C0973231||HCO3(-)
+C0016570||Candida methylica ( CmFDH ) and Chaetomium thermophilum
+C0973231||HCO3(-)
+C1148560||hydride transfer
+C0007012||CO2
+C1148560||hydride donated
+C0027289||NADH
+C0007009||carbon atom
+C0973231||HCO3(-)
+C0013852||electrons
+C0973231||hydrogen carbonate
+C0003075||hydride
+C0220832||formate
+C0220853||hydroxide ions

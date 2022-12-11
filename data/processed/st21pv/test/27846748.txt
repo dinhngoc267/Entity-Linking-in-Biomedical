@@ -1,0 +1,67 @@
+C3651790||natural eggshell membrane
+C3651790||natural eggshell membrane
+C0003864||arthritis
+C0971858||collagen-induced arthritic
+C0034721||rats
+C2603343||study
+C0220825||evaluate
+C3651790||natural eggshell membrane
+C3651790||natural eggshell membrane
+C0971858||collagen-induced arthritic
+C0034721||rats
+C1519106||rodent model of inflammation
+C0003873||rheumatoid arthritis
+C0034721||Rats
+C0971858||type II collagen-induced arthritis
+C0971858||collagen-induced arthritis
+C0042444||vehicle
+C3651790||natural eggshell membrane
+C0034721||Rats
+C2983562||euthanized
+C0003086||ankle
+C0175720||caliper
+C0003086||ankle
+C0677043||histopathologic evaluation
+C0003086||ankles
+C0022742||knees
+C0229671||Serum
+C0005516||biomarkers
+C0231581||cartilage function
+C0021368||inflammation
+C2825914||collagen type II C-telopeptide
+C2825914||CTXII
+C3715143||cartilage oligomeric matrix protein
+C3715143||cartilage oligomeric matrix protein
+C0523483||alpha-2-macroglobulin
+C0523483||alpha-2-macroglobulin
+C0014441||ELISA
+C3651790||natural eggshell membrane
+C0003086||ankle
+C0003086||ankle
+C0003086||Ankle
+C0022742||knee
+C0428093||histopathology scores
+C0428093||histopathology scores
+C0003086||ankle
+C0022742||knee
+C0034721||rats
+C3651790||natural eggshell membrane
+C0229671||serum
+C2825914||CTXII
+C3715143||cartilage oligomeric matrix protein
+C0523483||alpha-2-macroglobulin
+C3651790||natural eggshell membrane
+C0034721||rats
+C3651790||natural eggshell membrane
+C0003864||inflammatory arthritis
+C0021368||inflammation
+C0333350||pannus
+C0549421||cartilage damage
+C0005974||bone resorption
+C0231565||periosteal bone formation
+C2603343||study
+C0631180||CTXII
+C0601900||cartilage oligomeric matrix protein
+C0002198||alpha-2-macroglobulin
+C0005516||biomarkers
+C3651790||natural eggshell membrane

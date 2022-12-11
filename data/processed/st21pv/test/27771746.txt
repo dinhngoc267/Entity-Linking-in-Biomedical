@@ -1,0 +1,55 @@
+C0206574||GTPV
+C0033413||promoter region
+C0206574||goat pox chick embryo-attenuated virus
+C0206574||GTPV
+C0042210||vaccine
+C0301872||immune responses
+C0017428||genome
+C0017262||express
+C0017337||genes
+C0206574||virus
+C0034862||recombinant live vaccines
+C0009450||infectious diseases
+C0035950||ruminant animals
+C0033413||promoter region
+C0206574||GTPV
+C0086860||PbVV(±)
+C0086860||PbVV(±)
+C0082367||ETF-l
+C0040648||VITF-3
+C0040649||transcribed
+C1521805||opposite
+C0449738||directions
+C0206574||recombinant goat pox virus
+C0206574||recombinant goat pox virus
+C0086860||PbVV(+)
+C0086860||promoter
+C1621913||Brucella OMP31
+C1171362||expression
+C0086860||PbVV
+C0086860||promoter element
+C1258415||enhanced green fluorescent protein
+C1258415||enhanced green fluorescent protein
+C0086860||PbVV(-) promoter
+C0086860||P7.5 promoter
+C0042216||vaccinia virus
+C1258415||enhanced green fluorescent protein
+C1171362||expression
+C0026022||fluorescence intensity
+C1258415||enhanced green fluorescent protein
+C1171362||expressed
+C0007634||cells
+C0026022||fluorescence microscopy
+C0016263||flow cytometry
+C0086860||PbVV(+) promoter
+C1621913||Brucella OMP31
+C1171362||expression
+C0003250||anti-Brucella-OMP31 monoclonal antibody
+C0005863||western blotting
+C1621913||OMP31
+C1515670||mRNA expression
+C1514628||qRT-PCR
+C1514218||multivalent vaccines
+C0206574||recombinant goat pox virus
+C1171362||expression
+C0017337||genes

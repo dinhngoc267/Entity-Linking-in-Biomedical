@@ -1,0 +1,52 @@
+C1306459||primary cancer
+C0087111||treatment
+C2603343||study
+C0020792||identify
+C0014406||environmental
+C0419120||endurance exercise
+C1306459||primary cancer
+C0087111||treatment
+C3815594||randomized
+C0282574||Resistance and Endurance exercise After ChemoTherapy
+C0282574||Resistance and Endurance exercise After ChemoTherapy
+C2603343||study
+C2603343||study
+C0679646||participants
+C0282574||Resistance and Endurance exercise After ChemoTherapy
+C2603343||study
+C4081854||high intensity
+C4081854||high intensity
+C4081855||moderate intensity
+C0282574||Resistance and Endurance exercise After ChemoTherapy
+C2603343||study
+C0558058||reflected
+C0679646||participants
+C2603343||studied
+C4081854||high intensity
+C0681906||self-reported
+C0034394||questionnaires
+C2708733||clinical information
+C0025102||medical records
+C0020792||identify
+C0419120||endurance exercises
+C0679646||Participants
+C0424933||higher education
+C0337672||non-smokers
+C0030971||perceive
+C1257890||non-participants
+C4081854||high intensity
+C0600564||self-efficacy
+C0419120||endurance exercises
+C0337672||non-smoker
+C1305855||BMI
+C0419120||endurance exercises
+C0700287||report
+C0419120||endurance exercises
+C0006826||cancer
+C0012632||discriminative
+C3161035||models
+C4081854||high intensity
+C2603343||study
+C0684224||registered
+C0034975||Netherlands Trial Register
+C0034975||NTR2153

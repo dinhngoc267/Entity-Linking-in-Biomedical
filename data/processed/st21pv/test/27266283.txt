@@ -1,0 +1,48 @@
+C0041365||DR-70
+C0020980||immunoassay
+C0041365||tumor marker
+C0007131||non-small cell lung cancer
+C0242379||Lung cancer
+C0242379||lung cancer
+C0430022||diagnosed
+C0005898||advanced
+C0005898||locally advanced stage
+C0596473||early diagnosis
+C0242379||lung cancer
+C0596473||early detection
+C0242379||lung cancer
+C0040405||low-dose computed tomography
+C0041366||tumor biomarkers
+C0220825||evaluate
+C0041365||DR-70
+C0041365||tumor marker
+C1511790||detection
+C0007131||non-small cell lung cancers
+C1550100||serum samples
+C0006826||non lung cancer
+C0024117||chronic obstructive pulmonary disesase
+C0178913||Blood samples
+C0679646||participant
+C0936012||analyzed
+C0041365||DR-70
+C2603343||study
+C0025266||male
+C0043210||female
+C0430022||diagnosed
+C0149782||squamous cell lung cancer
+C0001418||adenocarcinoma
+C0007131||non-small cell lung cancer
+C0041365||mean serum DR-70
+C0242379||lung cancer
+C0243095||significantly higher
+C0243095||non-cancerous
+C2349001||subjects
+C0041365||DR-70
+C0012634||disease
+C0041365||DR-70
+C0041365||DR-70
+C0041365||marker
+C0163275||fibrin degradation products
+C0006826||cancers
+C0332167||high risk
+C0242379||lung cancer

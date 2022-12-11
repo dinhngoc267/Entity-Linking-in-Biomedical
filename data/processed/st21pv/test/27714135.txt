@@ -1,0 +1,23 @@
+C0178638||Folate
+C0597452||single cell screening
+C0037815||surface enhanced Raman microimaging
+C0005540||biomedical settings
+C2350269||early cancer diagnosis
+C0334227||cancer cells
+C0007603||plasma membrane
+C1513401||molecular receptors
+C0597452||single cell screening
+C0037815||Surface Enhanced Raman Scattering (SERS) microimaging
+C0037815||SERS-labelled
+C0016410||folic acid
+C0007634||treating the cells
+C0007600||different cell lines
+C0018873||cancer HeLa
+C3890720||PC-3
+C0022567||normal HaCaT lines
+C2955669||folate binding proteins
+C0334227||cancer cell lines
+C0037815||Surface Enhanced Raman Scattering
+C0334227||cancer cells
+C0597452||single cell diagnostics
+C4046052||theranostics

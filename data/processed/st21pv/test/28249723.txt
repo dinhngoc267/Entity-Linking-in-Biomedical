@@ -1,0 +1,31 @@
+C0085245||transgenic
+C0162741||Arabidopsis plants
+C0022487||Kanamycin
+C0005516||marker
+C0162741||Arabidopsis
+C3714584||transformations
+C0025663||method
+C0032098||untransformed plants
+C0242437||seedling
+C0025663||method
+C1704458||top
+C0001771||agar
+C0162740||Arabidopsis thaliana
+C1704458||Top
+C0001771||agar
+C0220844||growth
+C0330098||untransformed wild-type plants
+C0010454||media
+C3714584||transformed
+C0032098||plants
+C0750484||confirmed
+C0242724||leaves
+C0017262||expression
+C0311727||firefly luciferase
+C0206414||reporter gene
+C1704458||Top
+C0001771||agar
+C0025663||method
+C0036563||seeds
+C0162741||Arabidopsis
+C3714584||transformation

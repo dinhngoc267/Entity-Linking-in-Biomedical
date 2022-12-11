@@ -1,0 +1,52 @@
+C0002732||acetylated amylose
+C0035608||rifampicin
+C0002732||Amylose
+C0002732||Amylose
+C0450442||agents
+C1704241||complexes
+C0005479||biomaterial
+C0013185||pharmaceutical industry
+C0035608||Rifampicin
+C0035608||Rifampicin
+C1254351||drug
+C0026926||Mycobacterium tuberculosis
+C1533734||administration
+C0035608||Rifampicin
+C0002732||amylose
+C0002732||Amylose
+C1704241||complexes
+C0002732||acetylated amylose
+C0002732||AMA
+C0043047||water
+C0002732||amylose
+C0002732||acetylated amylose
+C0206055||Fourier Transform Infrared (FT-IR) spectroscopy
+C0026020||Scanning Electron Microscopy
+C0026020||Scanning Electron Microscopy
+C0206055||Fourier Transform Infrared
+C1444656||indicated
+C0001038||acetylation
+C0017725||anhydroglucose
+C0002732||amylose
+C0026020||Scanning Electron Microscopy
+C0205148||smooth surfaces
+C0002732||amylose
+C0205148||surfaces
+C0001038||acetylation
+C0936012||analysis
+C0002732||Amylose
+C0035608||Rifampicin
+C0002732||AMA
+C0035608||Rifampicin
+C0002732||amylose
+C1882368||dynamic light scattering
+C1882368||dynamic light scattering
+C0456389||average size
+C1882368||dynamic light scattering
+C0936012||analysis
+C1704241||complexes
+C0150312||presence
+C0035608||Rifampicin
+C0002732||amylose
+C1517331||further
+C0085104||drug delivery systems

@@ -1,0 +1,49 @@
+C0004611||halotolerant rhizobacteria
+C2350261||halophytes
+C0018270||growth
+C0330391||sugar beet
+C0330391||Beta vulgaris L
+C1154956||salt stress
+C0004611||rhizobacteria
+C0242726||plant roots
+C0014406||environments
+C0035171||feasible strategy
+C1956027||salinity
+C2350261||Halophytes
+C0242726||roots
+C0018270||growth
+C1752460||salt tolerance
+C0242775||crops
+C2603343||study
+C2350260||halotolerant plant
+C0597252||growth
+C2350261||halophytes
+C0330391||sugar beet
+C0330391||Beta vulgaris L
+C0018270||growth
+C1154956||salinity stress
+C1764827||isolates
+C0044278||1-aminocyclopropane-1-carboxylate deaminase
+C0044278||1-aminocyclopropane-1-carboxylate deaminase
+C0597252||plant-growth
+C3537372||16S rRNA
+C0017337||gene
+C1764827||isolates
+C2766719||Micrococcus yunnanensis
+C1483193||Planococcus rifietoensis
+C0314842||Variovorax paradoxus
+C1154956||salt stress
+C0330391||sugar beet
+C1160189||seed germination
+C0032098||plant
+C0038435||stress
+C0015075||ethylene
+C0037494||NaCl
+C1956027||salinity
+C0392673||adapted
+C0044278||1-aminocyclopropane-1-carboxylate deaminase
+C0004611||bacteria
+C2350261||halophytes
+C0330391||sugar beet
+C0018270||growth
+C1154956||saline stress conditions

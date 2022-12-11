@@ -1,0 +1,44 @@
+C0031150||Laparoscopic
+C0193854||radical lymph node dissection
+C4016406||advanced colon cancer
+C0227385||hepatic flexure
+C0728940||Complete mesocolic excision
+C0184661||standard procedure
+C0699790||colon cancer
+C0447070||Gastroepiploic
+C0229779||infrapyloric
+C0229783||superficial pancreatic head lymph node
+C0024232||metastases
+C0230229||gastrocolic ligament
+C0699790||colon cancer
+C0227385||hepatic flexure
+C0024232||metastases
+C0230229||gastrocolic ligament
+C0699790||colon cancer
+C0227385||hepatic flexure
+C0035363||single-center retrospective study
+C0475373||T2
+C0699790||colon cancer
+C3897292||tumor location
+C0585464||laparoscopic right hemicolectomy
+C0400043||extended right hemicolectomy
+C0018704||institution
+C0242382||Lymph node dissection
+C0230229||gastrocolic ligament
+C0009566||Complications
+C4055231||Clavien-Dindo classification
+C0024232||Lymph node metastases
+C0230229||gastrocolic ligament
+C0024232||metastasis
+C0024232||Metastases
+C0230229||gastrocolic ligament
+C0475373||T2
+C0699790||colon cancer
+C0227385||hepatic flexure
+C1883297||Laparoscopy
+C0728940||gastrocolic ligament resection
+C2603343||study
+C0231449||extended
+C1522577||follow-up
+C2603343||studies
+C0243095||finding

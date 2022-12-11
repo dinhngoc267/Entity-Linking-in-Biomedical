@@ -1,0 +1,61 @@
+C1706947||Bioavailability
+C0032346||toxic elements
+C0017446||Thriasio Plain, near Athens
+C0018226||Greece
+C0032346||toxic elements
+C0032346||potentially toxic elements
+C0017446||Thriasio Plain
+C0017446||plain near Athens
+C0018226||Greece
+C0442506||residential
+C0205146||area
+C0032346||potentially toxic elements
+C0032098||plant species
+C0232478||ingestion
+C0032098||plants
+C0205146||area
+C0002367||Al
+C0003818||As
+C0006632||Cd
+C0009148||Co
+C0008574||Cr
+C0009968||Cu
+C0302583||Fe
+C0024706||Mn
+C0026402||Mo
+C0028013||Ni
+C0023175||Pb
+C0042306||V
+C0043481||Zn
+C1514137||plant tissues
+C0003818||As
+C0006632||Cd
+C0008574||Cr
+C0009968||Cu
+C0028013||Ni
+C0023175||Pb
+C0043481||Zn
+C0220905||regulatory
+C0013879||Element
+C0032098||plants
+C0032098||plants
+C0009968||Copper
+C0043481||Zn
+C0032098||plant
+C0013879||elements
+C0009968||Cu
+C0009968||Cu
+C0086930||Risk assessment analysis
+C0003818||As
+C0013879||element
+C0232478||ingestion
+C0008574||Cr
+C0023175||Pb
+C0024706||Mn
+C0013879||element
+C0032346||potentially toxic elements
+C0003818||As
+C0008574||Cr
+C0023175||Pb
+C0032346||toxic elements
+C0024706||Mn

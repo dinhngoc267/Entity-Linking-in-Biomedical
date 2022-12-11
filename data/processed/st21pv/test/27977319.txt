@@ -1,0 +1,44 @@
+C0039840||thiamine
+C1720942||Root nodule
+C1138420||arbuscular mycorrhiza
+C1940771||Lotus japonicus
+C0017337||THIC
+C0017262||expressed
+C0032098||organs
+C0033684||encoded protein
+C1157735||thiamine biosynthesis
+C0243095||Loss of function
+C0008272||chlorosis
+C0039840||thiamine
+C0039840||thiamine's
+C0017337||THI1
+C0017337||thiamine-biosynthesis gene
+C0017262||expressed
+C0242726||roots
+C1720942||nodules
+C0036563||seeds
+C0678941||thi1 mutant
+C0242724||green leaves
+C1720942||nodules
+C0036563||seeds
+C0017337||THI1
+C0039840||thiamine
+C0017337||THI1
+C1720942||nodule
+C2265562||seed maturation
+C4289767||colonization
+C1138420||arbuscular mycorrhiza
+C1138420||arbuscular mycorrhiza
+C0016832||fungus
+C2664655||Rhizophagus irregularis
+C0678941||thi1 mutant
+C0039840||thiamine
+C0038029||spores
+C2664655||R. irregularis
+C0039840||thiamine
+C0017337||thiamine biosynthesis genes
+C0039840||thiamine
+C1159442||spore formation
+C1156247||hyphal growth
+C0039840||thiamine's
+C1138420||arbuscular mycorrhiza

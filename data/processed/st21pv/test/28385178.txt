@@ -1,0 +1,54 @@
+C0014507||Epidemiology
+C0178314||injuries
+C0022558||Kenya
+C0178314||Injury
+C0231170||disability
+C1306577||death
+C1306577||deaths
+C0178314||injury
+C0454664||low- and middle-income countries
+C1306577||injury -related deaths
+C3714660||trauma
+C0178314||injury
+C0014507||epidemiology
+C0454664||low- and middle-income countries
+C0022558||Kenya
+C0178314||injury
+C0014507||epidemiology
+C0018017||objective
+C0002783||study
+C0014507||epidemiology
+C0178314||injuries
+C0019994||referral hospitals
+C0022558||Kenya
+C0019994||hospital
+C3714660||trauma
+C0562508||casualty departments
+C0019994||Kenyatta National
+C0019994||Thika Level 5
+C0019994||Machakos Level 5
+C0019994||Meru Level 5 Hospitals
+C0010995||Data collected
+C2735050||prehospital care
+C0178314||injury pattern
+C0178314||traffic injuries
+C0000921||falls
+C0027361||person
+C0006434||Burn
+C0683312||category
+C0005898||Body regions
+C0023216||lower extremity
+C1140618||upper extremity
+C0018670||head
+C0278173||Glasgow Coma Scale ≤12
+C0021504||injury severity score
+C0006434||burns
+C0043252||gunshot injuries
+C0019994||Hospital
+C3714660||trauma
+C0002783||study the epidemiology
+C0178314||injuries
+C0454664||low- and middle-income countries
+C3714660||trauma
+C0678367||public
+C0184661||interventions

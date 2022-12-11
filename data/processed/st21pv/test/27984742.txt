@@ -1,0 +1,15 @@
+C0282688||Evolutionary
+C0012854||DNA
+C0040549||Toxin
+C0003445||Antitoxin
+C1513407||Molecular Cell
+C0040549||toxin
+C0003445||antitoxin
+C0014442||DarT
+C0040549||toxin
+C0012935||single-stranded DNA
+C0033684||DarG
+C0003445||antitoxin
+C0014442||DarT
+C1167622||binding
+C0014442||enzymatic

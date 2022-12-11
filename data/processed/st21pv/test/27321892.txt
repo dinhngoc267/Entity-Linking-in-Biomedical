@@ -1,0 +1,69 @@
+C0026018||Dual-color STED microscopy
+C0678594||sandwich structure
+C1454967||Bassoon
+C1452991||Piccolo
+C3541837||active zones
+C0025929||mice
+C3541837||Presynaptic active zones
+C0039065||synaptic vesicle
+C0005898||release sites
+C0027793||synaptic transmission
+C3541837||active zones
+C0024660||mammalian
+C0027869||neuromuscular junctions
+C0027869||neuromuscular junctions
+C1454967||Bassoon
+C1452991||Piccolo
+C3541837||active zone
+C1383501||cytosolic
+C0033684||proteins
+C3896009||active zone assembly
+C0027869||neuromuscular junctions
+C1179874||ribbon synapses
+C0006104||brain
+C0039062||synapses
+C0033684||proteins
+C0392752||colocalize
+C3541837||active zones
+C0597704||non-overlapping localization
+C0033684||proteins
+C0025929||mouse
+C0027869||neuromuscular junctions
+C0026018||super resolution microscopy
+C1452991||Piccolo
+C0243095||puncta
+C1454967||Bassoon
+C0243095||puncta
+C1452991||Piccolo
+C1454967||Bassoon
+C1452991||Piccolo
+C0678594||structure
+C0027869||neuromuscular junctions
+C0243095||puncta
+C0392752||colocalized
+C1454967||Bassoon
+C0243095||puncta
+C1454967||Bassoon
+C0428479||protein levels
+C0027869||neuromuscular junctions
+C0025929||mouse
+C1452991||Piccolo
+C0428479||levels
+C0027869||neuromuscular junctions
+C0025929||mice
+C0428479||levels
+C0025929||mice
+C3541837||active zones
+C0025929||mouse
+C0027869||neuromuscular junctions
+C0007613||selective degeneration mechanism
+C3541837||active zone
+C0033684||proteins
+C0027869||neuromuscular junctions
+C0025929||mice
+C0597704||localization pattern
+C3541837||active zone
+C0033684||proteins
+C3541837||active zone
+C0678594||structures
+C2350255||electron microscope tomography

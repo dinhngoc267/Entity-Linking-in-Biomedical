@@ -1,0 +1,73 @@
+C0282443||Review
+C0038951||Survey
+C0524865||Reconstruction
+C0684550||Metastatic Spine Tumors
+C0282443||review
+C0582175||surgeons
+C0018724||health care professionals
+C0162791||guidelines
+C0524865||surgical reconstruction
+C0027627||metastatic
+C0037933||spine disease
+C0543467||surgical treatment
+C0684550||spinal metastases
+C0524865||surgical reconstruction
+C0005976||bone graft
+C0543467||surgery
+C0684550||metastatic spine tumors
+C0524865||reconstruction
+C0005479||construct
+C0184512||stabilize
+C0282443||review
+C0023866||literature
+C0038951||survey
+C0037949||spine
+C0582175||surgeons
+C0087111||treat
+C0684550||metastatic spine tumors
+C0023866||literature
+C0150600||guidance
+C0005976||bone graft
+C0027627||metastatic tumor
+C0524865||reconstruction
+C0023866||literature
+C0449494||graft type
+C0282122||respondents
+C0005976||bone graft
+C0005976||bone graft
+C0243003||substitutes
+C1293131||fusion
+C0008972||studies
+C0175649||prefabricated prosthetic
+C0008972||studies
+C0005533||polymethyl methacrylate
+C0005533||polymethyl methacrylate
+C0005934||bone cement
+C0008972||studies
+C0005976||bone graft
+C0205094||anterior
+C0037949||column
+C0524865||reconstruction
+C0009817||experts
+C0205094||anterior
+C0524865||reconstruction
+C0441239||cage
+C0524865||reconstruction
+C0005533||polymethyl methacrylate
+C0005934||bone cement
+C0391889||bony union
+C0037949||spinal
+C0524865||reconstruction
+C0391889||bony union
+C0023866||literature
+C0205094||anterior
+C0524865||reconstruction
+C0175649||prefabricated prosthetic
+C0005533||polymethyl methacrylate
+C0005934||bone cement
+C0205094||anterior
+C0005479||construct
+C0238767||bilateral
+C0205095||posterior
+C0450010||performing
+C0524865||three-column reconstruction

@@ -1,0 +1,48 @@
+C0020676||thyroid hormone deficiency
+C0087111||treatment
+C0019360||herpes zoster
+C0040135||Thyroid hormone
+C0040135||Thyroid hormone
+C0019369||herpes virus
+C0017262||gene expression
+C0598312||replication
+C0027882||neurons
+C1516924||epigenetics
+C0206588||nuclear receptors
+C0020676||hypothyroidism
+C0019360||herpes zoster
+C0019360||herpes zoster
+C0020676||TH deficiency
+C0035648||risk factor
+C0042338||varicella zoster virus
+C0042338||varicella zoster virus
+C2603343||study
+C2986608||TH treatment
+C0009566||complication
+C0019360||herpes zoster
+C2603343||study
+C0242356||comprehensive medical database
+C1708333||Kaiser Permanente Southern California
+C1708333||Kaiser Permanente Southern California
+C0040135||Thyroid hormone
+C2081612||medication
+C0019360||herpes zoster
+C0020676||hypothyroidism
+C0040135||Thyroid hormone
+C0013227||medicines
+C0019360||herpes zoster
+C0936012||analysis
+C2081612||medication
+C0087111||treatment
+C0020676||TH deficiency
+C0019360||herpes zoster
+C0019360||herpes zoster
+C0599755||cohort
+C2986608||TH treatment
+C0243095||findings
+C0040135||Thyroid hormone
+C0019360||herpes zoster
+C2603343||studies
+C0262707||evaluate the laboratory data
+C0936012||analysis
+C0027361||individuals

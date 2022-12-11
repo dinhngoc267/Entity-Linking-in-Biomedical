@@ -1,0 +1,10 @@
+C0037382||Snake
+C1517884||Limb Development
+C0015385||limbs
+C0037382||snake
+C0456966||long-distance
+C1516561||cis-acting enhancer
+C1335824||Sonic Hedgehog
+C1514535||binding sites
+C0040648||transcription factors
+C0035161||reptiles

@@ -1,0 +1,42 @@
+C0596290||Proliferation
+C0225336||Endothelial Cells
+C0017110||Plasma
+C0752188||Nonthermal plasma
+C0162772||reactive chemical species
+C0162772||ROS
+C0242821||living body
+C0017110||plasma
+C0017110||gas
+C0752188||biomedical application
+C0017110||gas
+C0017110||plasma
+C0007634||living cells
+C0017110||plasma
+C0017110||gas
+C0017110||plasma
+C0596290||proliferation
+C0225336||endothelial cells
+C0017110||plasma
+C0020281||H2O2
+C0028214||HNO2
+C0068808||HNO3
+C0991865||phosphate buffered
+C0024467||Mg(++)
+C0006675||Ca(++)
+C0991865||PBS
+C0991865||PBS
+C0017110||plasma
+C0991865||PBS
+C0007635||cell-cultured
+C0017110||plasma
+C0017110||plasma
+C0596290||proliferation
+C0225336||endothelial cells
+C0020281||H2O2
+C0596290||cell proliferation
+C0162772||ROS
+C0017110||plasma
+C0596290||cell proliferation
+C0752188||biomedical applications
+C0017110||gas
+C0017110||plasma

@@ -1,0 +1,48 @@
+C0521119||Extracellular
+C0032821||Potassium
+C0036572||Seizures
+C1956068||Ih
+C0036572||Seizure activity
+C0521119||extracellular
+C0032821||potassium
+C0597277||K
+C0027882||neuronal
+C3161472||membrane
+C1257890||population
+C2603343||study
+C0521119||extracellular
+C0032821||potassium
+C0036572||seizure activities
+C0000477||4-AP
+C0036572||seizure
+C3161035||model
+C0175173||neocortex
+C1515655||in vivo
+C0597277||K
+C0036572||seizure
+C0027882||neuronal
+C0025251||resting membrane potential
+C0025251||resting membrane potential
+C0597277||K
+C0036572||seizure like events
+C0036572||seizure like events
+C0027882||neurons
+C0011570||depression
+C0036572||ictal events
+C0597277||K
+C0597277||K
+C1515655||in vivo
+C1521713||mouse brain preparations
+C0086418||human
+C0175173||neocortical
+C0040300||tissue
+C0014544||epilepsy
+C0543467||surgery
+C1956068||hyperpolarization-activated cyclic nucleotide-gated (HCN) channels
+C0597277||K
+C0036572||seizure like events
+C0597277||K
+C0597277||K
+C0027882||neuronal
+C0235169||excitability
+C0036572||seizure activity

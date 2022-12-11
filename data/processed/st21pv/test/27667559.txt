@@ -1,0 +1,68 @@
+C0184661||intervention
+C0086418||human
+C0002630||amniotic
+C0014597||epithelial cells
+C0024117||chronic obstructive pulmonary disease
+C0034716||rat
+C2603343||study
+C0184661||intervention
+C0086418||human
+C0002630||amniotic
+C0014597||epithelial cell
+C0014597||human amniotic epithelial cell
+C0034716||rat
+C0024117||chronic obstructive pulmonary disease
+C0024117||chronic obstructive pulmonary disease
+C0034716||Wistar rats
+C0206034||randomized
+C0024117||chronic obstructive pulmonary disease
+C0024117||chronic obstructive pulmonary disease
+C0014597||human amniotic epithelial cell
+C0024117||chronic obstructive pulmonary disease
+C0023810||LPS
+C0037366||smoke
+C0034716||rats
+C0014597||AEC
+C0014597||hAECs
+C0032043||placenta
+C0013018||donors
+C0034067||lung emphysema
+C0079633||IL-8
+C0034580||radioimmunoassay
+C0084692||surfactant protein D
+C0084692||surfactant protein D
+C0014441||ELISA
+C0172537||matrix metalloproteinase (MMP)2
+C0172956||MMP8
+C1171362||expression
+C0032520||PCR
+C0037366||Smoke
+C0023810||LPS
+C0024117||chronic obstructive pulmonary disease
+C0034716||rat
+C0034067||emphysema
+C0021368||airway inflammation
+C0024109||lung
+C0040300||tissue
+C0079633||IL-8
+C0084692||surfactant protein D
+C1171362||expression
+C0172537||MMP2
+C0172956||MMP8
+C0034716||Rats
+C0024117||chronic obstructive pulmonary disease
+C0014597||human amniotic epithelial cell
+C0024109||lung
+C0010957||damage
+C0024109||lung
+C0040300||tissue
+C0079633||IL-8
+C0084692||surfactant protein D
+C0172537||MMP2
+C0172956||MMP8
+C1171362||expression
+C0184661||intervention
+C0014597||hAECs
+C0242656||disease progression
+C0034716||rats
+C0024117||chronic obstructive pulmonary disease

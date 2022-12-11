@@ -1,0 +1,24 @@
+C1271650||antimicrobial
+C0771499||mecetronium etilsulfate
+C0175804||propanol
+C1330330||hand rubs
+C0543467||surgical
+C0018570||hand disinfection
+C2603343||study
+C0771499||mecetronium etilsulfate
+C0771499||mecetronium etilsulfate
+C0543467||surgical
+C0018570||hand disinfection
+C1330330||hand rubs
+C0022237||iso-propanol
+C0001964||n-propanol
+C1254351||EN 12791
+C0242817||crossover design
+C0680536||commercial
+C1330330||hand rub
+C0771499||mecetronium etilsulfate
+C1330330||hand rubs
+C0771499||mecetronium etilsulfate
+C1271650||antimicrobial
+C0771499||mecetronium etilsulfate
+C1330330||hand rubs

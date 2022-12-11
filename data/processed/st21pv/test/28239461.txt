@@ -1,0 +1,86 @@
+C0040300||Tissue
+C1101610||MicroRNA
+C1511876||diagnostic
+C0015252||resectable
+C1335302||pancreatic ductal adenocarcinoma
+C1335377||periampullary cancers
+C2603343||study
+C0220901||prognostic
+C1101610||microRNA
+C0040300||tissue
+C0235974||pancreatic cancer
+C1335377||periampullary cancers
+C0017262||Expression
+C1101610||microRNAs
+C0949307||formalin
+C1519524||paraffin-embedded tissue
+C0015252||resected
+C1335302||pancreatic ductal adenocarcinoma
+C0262401||ampullary cancer
+C0541912||duodenal cancer
+C0205108||distal
+C0740277||common bile duct cancer
+C0024623||gastric cancer
+C0149521||chronic pancreatitis
+C0940731||normal pancreas
+C1101610||microRNAs
+C0032520||PCR
+C0282574||Fluidigm platform
+C1101610||microRNAs
+C0017262||expressed
+C0235974||pancreatic cancer
+C0149521||chronic pancreatitis
+C1101610||miRNAs
+C0041904||upregulated
+C1537719||miR-21-5p
+C1842758||23a-3p
+C1537742||31-5p
+C1537747||34c-5p
+C1537750||93-3p
+C1537788||135b-3p
+C1537811||155-5p
+C1537820||186-5p
+C1537832||196b-5p,
+C1537841||203
+C4284346||205-5p
+C1537846||210
+C1537860||222-3p
+C1826031||451
+C1826046||492
+C1826193||614
+C1826201||miR-622
+C0013081||downregulated
+C1865068||miR-122-5p
+C1537780||130b-3p
+C2239687||216b
+C1537853||217
+C1537896||miR-375
+C1101610||MicroRNAs
+C1101610||microRNAs
+C0033325||prognosis
+C1621390||let-7 g
+C1835841||miR-29a-5p
+C1537745||34a-5p
+C1537770||125a-3p
+C1826002||146a-5p
+C1537821||187
+C4284346||205-5p
+C1537848||212-3p
+C1537860||222-5p
+C2239697||miR-450b-5p
+C0017262||expression
+C1101610||microRNAs
+C0235974||pancreatic
+C0262401||ampullary cancer
+C2603343||study
+C0235974||pancreatic cancer
+C0040300||tissue
+C1101610||microRNA
+C1335377||periampullary cancers
+C0149521||chronic pancreatitis
+C0940731||normal pancreas
+C0220901||prognostic
+C1101610||microRNAs
+C1101610||microRNA
+C0015252||resected
+C0235974||pancreatic cancer

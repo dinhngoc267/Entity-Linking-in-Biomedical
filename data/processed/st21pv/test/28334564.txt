@@ -1,0 +1,58 @@
+C0336648||Alarm
+C0184661||Interventions
+C0587446||Cardiovascular Surgical ICU
+C0021708||ICU
+C1301725||documented
+C0023866||literature
+C0021708||ICU's
+C4081854||high-intensity
+C0014406||environment
+C0851286||staff's
+C0043012||vigilant
+C0004268||attention
+C0336648||alarms
+C0851286||staff
+C0870433||dissatisfaction
+C1113679||patient safety
+C0336648||alarms
+C1113679||patient safety
+C0336648||alarm
+C0587446||cardiovascular surgical intensive care unit
+C0587446||cardiovascular surgical intensive care unit
+C0332128||examine
+C0028661||nurses
+C0004271||attitudes
+C0336648||alarm
+C0028661||nurses
+C1113679||patient safety
+C0587446||cardiovascular surgical intensive care unit
+C0028661||nurses
+C0336648||alarm
+C0038951||perception survey
+C0336648||alarm
+C2361339||Nurse survey data
+C0336648||alarm
+C0336648||alarm
+C0184661||interventions
+C0336648||alarm
+C1320716||cardiorespiratory event
+C0587446||cardiovascular surgical intensive care unit
+C0034108||pulse oximetry
+C0018810||heart rate
+C0277882||systolic
+C0235222||diastolic blood pressure
+C0034108||pulse oximetry
+C0042514||ventricular tachycardia
+C0336648||alarms
+C1320716||cardiorespiratory events
+C0336648||alarm
+C0184661||interventions
+C0336648||alarms
+C0336648||alarm
+C0336648||alarm
+C0336648||alarm
+C0422202||notification
+C0025080||secondary device
+C0851286||staff
+C0336648||alarm
+C0237401||individual

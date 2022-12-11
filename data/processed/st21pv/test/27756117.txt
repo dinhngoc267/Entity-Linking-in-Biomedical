@@ -1,0 +1,58 @@
+C0013161||carrier system
+C0016006||fibrinogen
+C0040018||thrombin
+C0009117||coagulant
+C0019080||bleeding
+C0184661||interventions
+C3263723||traumatic injury
+C0019120||Hemostatic devices
+C0302148||blood clotting
+C0009117||agents
+C0016006||fibrinogen
+C0185125||application
+C0025663||method
+C0009117||coagulant
+C0016006||fibrinogen
+C0040018||thrombin
+C0441126||sponges
+C0009117||coagulants
+C0043047||aqueous
+C0074529||silk
+C0022885||molding
+C0016698||freeze-drying
+C0022885||water annealing
+C0016006||fibrinogen
+C0019116||hemostatic potential
+C0074529||silk
+C0016006||fibrinogen
+C0040018||thrombin
+C0015982||fibrin
+C0032521||polymeric
+C0074529||silk
+C0678594||spongy structure
+C0074529||silk
+C0074529||silk
+C0441126||sponges
+C0016006||fibrinogen
+C0015982||fibrin
+C0016006||fibrinogen
+C0074529||silk
+C0441126||sponges
+C0015982||fibrin
+C0205132||linear
+C0252016||Calcein-AM
+C0033470||PI
+C0038128||stainings
+C2986858||MTT assay
+C0007577||cell adhesion
+C0205148||surface
+C0074529||silk
+C0015982||fibrin
+C0441126||sponges
+C0040018||thrombin
+C0016006||fibrinogen
+C0074529||silk
+C0013161||carrier material
+C0019116||hemostatic features
+C0009117||coagulant substances
+C0019120||hemostatic devices

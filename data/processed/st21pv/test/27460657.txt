@@ -1,0 +1,69 @@
+C0040648||transcription factors
+C4277090||MS188
+C1434242||ABORTED MICROSPORES
+C1171362||expression
+C2000791||CYP703A2
+C2755351||sporopollenin biosynthesis
+C0162740||Arabidopsis thaliana
+C1820011||sexine layer
+C0032385||pollen grain
+C0075041||sporopollenins
+C2717770||sporophytic secretory tapetum
+C2755351||biosynthesis of sporopollenin
+C0014442||enzymes
+C2755351||sporopollenin biosynthesis
+C1152521||regulatory mechanism
+C0014442||enzymes
+C2717770||tapetal layer
+C1434242||ABORTED MICROSPORES
+C1434242||ABORTED MICROSPORES
+C4277090||MALE STERILE 188
+C0769095||MYB103
+C0769095||MYB80
+C4277090||MS188
+C0769095||MYB103
+C0769095||MYB80
+C2717770||tapetal cell
+C0040648||transcription factors
+C1326804||pollen wall formation
+C1434242||ABORTED MICROSPORES
+C0522505||upstream
+C4277090||MS188
+C1434242||ABORTED MICROSPORES
+C4277090||MS188
+C1333195||CYP703A2 gene
+C2755351||sporopollenin biosynthesis
+C1434242||ABORTED MICROSPORES
+C4277090||MS188
+C0392752||localized
+C2717770||tapetum
+C2000791||CYP703A2
+C0392752||localized
+C2717770||tapetum
+C1136229||locule
+C1328856||Chromatin immunoprecipitation
+C1328856||Chromatin immunoprecipitation
+C4277090||MS188
+C0086860||promoter
+C1333195||CYP703A2
+C0024075||luciferase-inducible
+C1510438||assay
+C4277090||MS188
+C1171362||expression
+C2000791||CYP703A2
+C1961118||Yeast two-hybrid
+C0949632||electrophoretic mobility shift assays
+C0949632||electrophoretic mobility shift assays
+C4277090||MS188
+C1434242||ABORTED MICROSPORES
+C1171362||expression
+C1333195||CYP703A2
+C4277090||MS188
+C1434242||ams
+C0596988||mutant
+C4277090||MS188
+C1434242||ABORTED MICROSPORES
+C2000791||CYP703A2
+C2755351||sporopollenin biosynthesis
+C0032098||plant
+C2717770||tapetum

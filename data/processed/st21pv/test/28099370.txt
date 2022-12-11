@@ -1,0 +1,18 @@
+C0449445||Approach
+C0031831||Doctor
+C0008967||Nursing Practice Project
+C0038492||Student
+C0449445||approach
+C0031831||doctor
+C0008967||nursing practice project
+C0038492||students
+C0015535||faculty member
+C0237463||agency
+C0025369||mentors
+C0243095||Project findings
+C0205221||disseminated
+C0684224||written
+C0684224||oral reports
+C0449445||approach
+C0015535||faculty
+C0038492||students

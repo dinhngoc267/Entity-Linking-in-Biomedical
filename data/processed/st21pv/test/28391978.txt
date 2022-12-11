@@ -1,0 +1,64 @@
+C0034861||Recombinant
+C1514562||protein transduction domain
+C0010461||Cu/Zn superoxide dismutase
+C0279530||bone cancer
+C0596240||pain
+C0914290||peroxiredoxin 4
+C1148560||modulation
+C1148560||antioxidation
+C0279530||Bone cancer
+C0596240||pain
+C0596240||Bone cancer pain
+C0162772||reactive oxygen species
+C0162772||reactive oxygen species
+C0038838||superoxide dismutase
+C0038838||superoxide dismutase
+C0038836||superoxide anions
+C0020281||hydrogen peroxide
+C0020281||H2O2
+C0020281||H2O2
+C0043047||water
+C0914290||peroxiredoxin 4
+C0684224||reported
+C0034861||recombinant
+C1514562||protein transduction domain
+C1514562||protein transduction domain
+C0010461||Cu/Zn SOD
+C1148560||scavenged
+C0162772||reactive oxygen species
+C0225828||cardiomyocytes
+C1514562||protein transduction domain
+C0010461||Cu/Zn SOD
+C0596240||Bone cancer pain
+C0681814||study
+C0150312||found
+C0021102||implanted
+C0007097||carcinoma
+C0034721||rat
+C0040184||tibia
+C0020429||hyperalgesia
+C0020281||H2O2
+C0038838||superoxide dismutase
+C0914290||peroxiredoxin 4
+C0034861||recombinant
+C1514562||protein transduction domain
+C0010461||Cu/Zn SOD
+C0034721||rats
+C0020429||hyperalgesia
+C0914290||peroxiredoxin 4
+C1171362||expression
+C0080093||N-methyl-d-aspartic acid (NMDA) receptors
+C0206518||γ-aminobutyric acid (GABA) receptors
+C0596240||cancer pain
+C1514562||protein transduction domain
+C0010461||Cu/Zn SOD
+C0914290||peroxiredoxin 4
+C1514559||overexpression
+C0162772||reactive oxygen species
+C0027627||cancer metastatic
+C0596240||pain
+C0034861||recombinant PTD
+C0010461||Cu/Zn SOD
+C0914290||peroxiredoxin 4
+C1148560||modulation
+C0242606||oxidative stress

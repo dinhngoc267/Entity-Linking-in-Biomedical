@@ -1,0 +1,19 @@
+C0039298||Tanzania
+C0040329||Tobacco
+C2603343||study
+C0039298||Tanzania
+C0679083||simulation
+C0459840||cigarette consumption
+C0454664||country
+C0454695||African
+C0454664||countries
+C0039298||Tanzanian
+C0006347||household budget
+C0038951||survey
+C0039298||Tanzania
+C0039298||Tanzania
+C3161035||two-part demand equation model
+C0679083||simulation
+C0459840||cigarette consumption
+C0039298||Tanzania
+C0459840||cigarette consumption

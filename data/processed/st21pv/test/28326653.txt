@@ -1,0 +1,68 @@
+C0008060||childhood maltreatment
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C1099456||escitalopram
+C0581391||chronic depression
+C0008060||Childhood maltreatment
+C0008060||Childhood maltreatment
+C1444656||indicated
+C1096649||antidepressant treatment
+C0033968||psychotherapy
+C0013227||medication
+C0008060||Childhood maltreatment
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C1099456||escitalopram
+C1516615||clinical management
+C1099456||escitalopram plus clinical management
+C0581391||chronic depression
+C0034656||randomized
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C1099456||escitalopram plus clinical management
+C0087111||treatment
+C0017480||German
+C0337950||treatment sites
+C0008060||Childhood maltreatment
+C0034394||Questionnaire
+C0871685||clinician
+C0282574||Early Trauma Inventory
+C2718028||Intention-to-treat analyses
+C0008060||Childhood maltreatment
+C0011570||depression
+C0008060||Childhood maltreatment
+C0521982||treatment response
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C1099456||escitalopram plus clinical management
+C0087111||treatment
+C0008060||Childhood maltreatment
+C0220825||assessment
+C0008060||Childhood maltreatment
+C0087111||treatment
+C0150312||found
+C4054475||Montgomery-Asberg Depression Rating Scale
+C0262926||history
+C0008060||Childhood maltreatment
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C0008060||Childhood maltreatment
+C1099456||escitalopram plus clinical management
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C1099456||escitalopram plus clinical management
+C0087111||treatment
+C1515021||subgroup
+C0581391||chronic depression
+C0262926||history
+C0008060||Childhood maltreatment
+C0008060||Childhood maltreatment
+C0521982||treatment response
+C0033968||psychotherapy
+C0033968||Cognitive Behavioral Analysis System of Psychotherapy
+C1099456||escitalopram
+C0087111||treatment
+C0581391||chronic depression
+C0087111||treatments
+C1515021||subgroup
+C0581391||chronic depression
+C0262926||history
+C0008060||childhood maltreatment
+C0008060||Childhood maltreatment
+C0521982||treatment response
+C0033968||psychotherapy

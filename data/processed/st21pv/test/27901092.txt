@@ -1,0 +1,23 @@
+C1707501||enhanced MRI
+C0011923||imaging diagnostics
+C0024485||Magnetic Resonance Imaging
+C0024485||Magnetic Resonance Imaging
+C0009924||Contrast Agents
+C0009924||Contrast Agents
+C0220806||chemically
+C1706082||compounds
+C0024485||Magnetic Resonance Imaging
+C0009924||Contrast Agents
+C0060933||gadolinium diethylenetriamine penta-acetic acid
+C0060933||gadolinium diethylenetriamine penta-acetic acid
+C0060933||gadolinium diethylenetriamine penta-acetic acid
+C0032521||polymer
+C0038891||surfactants
+C0060933||Gd
+C0060933||Gd
+C0060933||gadolinium diethylenetriamine penta-acetic acid
+C0442123||intravascularly
+C1272883||injectable
+C0063083||biocompatible hydrogel
+C0009924||Contrast Agents
+C0087111||therapy

@@ -1,0 +1,91 @@
+C1254351||Delicaflavone
+C1326207||autophagic cell death
+C0684249||lung cancer
+C1515844||Akt
+C1515673||mTOR
+C0073337||p70S6K
+C0037080||signaling pathway
+C0003392||anticancer agents
+C0449416||natural sources
+C0729502||chemotherapeutic agents
+C2603343||study
+C1515655||in vivo
+C0243095||anticancer effects
+C1254351||delicaflavone
+C0596577||biflavonoid
+C1210298||Selaginella doederleinii
+C1254351||Delicaflavone
+C0243095||anticancer
+C2986858||MTT assay
+C1520166||xenograft model
+C0086418||human
+C0007131||non-small cell lung cancer
+C0025929||BALB/c nude mice
+C0559546||adverse effect
+C0678118||transmission electron microscopy
+C0001185||acridine orange
+C0004391||Cyto-ID®Autophagy
+C0013343||dyes
+C0949466||Western blot
+C0936012||analysis
+C1709846||RT-PCR assay
+C1254351||delicaflavone
+C1326207||autophagic cell death
+C3711208||LC3-II
+C3714087||LC3-I
+C4277731||autophagy-related proteins
+C0029219||acidic vesicular organelles
+C0230822||autolysosomes
+C0010834||cytoplasm
+C0684249||lung cancer
+C4277577||A549
+C0007634||PC-9 cells
+C1254351||Delicaflavone
+C0013081||downregulated
+C2697945||expression of phospho-Akt
+C0033684||phospho-mTOR
+C0033684||phospho-p70S6K
+C0004391||autophagy
+C1515844||Akt
+C1515673||mTOR
+C0073337||p70S6K
+C0037080||pathway
+C4277577||A549
+C0007634||PC-9 cells
+C1254351||Delicaflavone
+C0003392||anticancer agent
+C1326207||autophagic cell death
+C0086418||human
+C0007131||non-small cell lung cancer
+C1515844||Akt
+C1515673||mTOR
+C0073337||p70S6K
+C0037080||signaling pathway
+C1254351||Delicaflavone
+C0243095||anti-lung cancer effects
+C1515655||in vivo
+C1254351||Delicaflavone
+C1326207||autophagic cell death
+C1515844||Akt
+C1515673||mTOR
+C0073337||p70S6K
+C0037080||signaling pathway
+C1254351||Delicaflavone
+C0879626||side effects
+C1520166||xenograft mouse model
+C1254351||Delicaflavone
+C0684249||lung cancer
+C1254351||Delicaflavone
+C0243095||anti-lung cancer effects
+C1515655||in vivo
+C1254351||Delicaflavone
+C1326207||autophagic cell death
+C1515844||Akt
+C1515673||mTOR
+C0073337||p70S6K
+C0037080||signaling pathway
+C1254351||Delicaflavone
+C0879626||side effects
+C1520166||xenograft mouse model
+C1254351||Delicaflavone
+C0684249||lung cancer

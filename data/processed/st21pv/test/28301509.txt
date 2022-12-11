@@ -1,0 +1,64 @@
+C2350277||Genome-wide association mapping
+C0004755||winter barley
+C0086369||grain
+C0242767||culm
+C0007623||cell wall
+C0022885||CoMPP technique
+C0004755||winter barley varieties
+C0331554||Hordeum vulgare L.
+C0597252||grown
+C1709269||northern
+C0022277||Italy
+C0086369||grain
+C4047917||straw
+C1000417||barley yellow mosaic virus
+C1000417||barley yellow mosaic virus
+C0086369||grain
+C4047917||straw
+C1285573||genetic determination
+C1285573||genetic determination
+C0086369||grain
+C4047917||straw
+C1285573||genetic determination
+C0007623||Cell wall
+C0242767||culms
+C0003250||monoclonal antibodies
+C1449622||LM6
+C1449622||LM11
+C1449622||JIM13
+C1449622||BS-400-3
+C1449622||carbohydrate-binding module CBM3a
+C0022885||CoMPP technique
+C1449622||LM6
+C0442726||detects
+C0052274||arabinan
+C1285573||genetic determination
+C0205160||negative
+C0086369||grain
+C1449622||LM6
+C1449622||JIM
+C0752046||SNPs
+C2603343||study
+C2350277||genome-wide association study
+C2350277||genome-wide association study
+C0086369||grain
+C0007623||cell wall
+C1449622||LM6
+C1449622||JIM13
+C0597336||single QTL
+C0008633||chromosome 3H
+C1414351||Hv-eIF4E gene
+C1000417||barley yellow mosaic virus
+C0597336||QTL
+C0017337||rym4
+C1708726||locus
+C0042776||virus
+C2350277||GWAs
+C0052274||arabinans
+C1449622||LM6
+C0597336||QTLs
+C0008633||3H
+C0017337||putative candidate genes
+C2603343||study
+C0017262||gene expression
+C1140694||bioinformatics

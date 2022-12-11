@@ -1,0 +1,28 @@
+C0043047||Water
+C0018704||healthcare facilities
+C0282574||Vieste Charter
+C0035173||Study Group
+C0019994||Hospital
+C0020405||Hygiene
+C1274109||Italian Society of Hygiene, Preventive Medicine and Public Health
+C1274109||GISIO-SItI
+C1274109||Local Health Authority
+C0017446||Foggia
+C0017446||Apulia
+C0022277||Italy
+C0043047||water
+C0018704||healthcare facilities
+C0017446||Vieste-Pugnochiuso
+C0282574||Vieste Charter
+C0009817||experts
+C0035648||risk factors
+C2237113||affect
+C0043047||water
+C0018704||healthcare facilities
+C0282574||regulatory frameworks
+C0043047||water
+C0018704||health facilities
+C0018704||healthcare facilities
+C0018704||facilities
+C0449445||multidisciplinary approach
+C0035168||research

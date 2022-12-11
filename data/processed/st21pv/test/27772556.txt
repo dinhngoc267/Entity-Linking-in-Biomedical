@@ -1,0 +1,51 @@
+C0033920||Psychometric analysis
+C1879301||Patient Health Questionnaire
+C0011318||Danish
+C0162589||implantable cardioverter defibrillator
+C0681876||DEFIB-WOMEN study
+C0033920||psychometric properties
+C4083201||Patient Health Questionnaire
+C4083201||PHQ-9
+C0086132||depressive symptoms
+C0011318||Danish
+C0599755||national cohort
+C0018799||heart disease
+C0021107||implanted
+C0162589||implantable cardioverter defibrillator
+C0162589||implantable cardioverter defibrillator
+C0599755||prospective cohort
+C0021107||implanted
+C0162589||implantable cardioverter defibrillator
+C0025266||men
+C4083201||PHQ-9
+C0021107||implant
+C0936012||analyzed
+C0026348||partial credit model
+C0026348||generalized partial credit model
+C0936012||analysis
+C1706817||disordered response
+C0026348||partial credit model
+C0026348||generalized partial credit model
+C0282122||respondents
+C0012632||discriminating
+C1706817||response
+C1706817||response
+C4083201||PHQ-9
+C0026348||models
+C4083201||PHQ-9
+C0013658||educational level
+C0162589||implantable cardioverter defibrillator
+C0021107||implantation
+C0018801||heart failure
+C0011570||depression
+C0162589||implantable cardioverter defibrillator
+C0026348||partial credit model
+C0026348||generalized partial credit model
+C4083201||PHQ-9
+C0750484||confirmed
+C1706817||response
+C0451267||Likert scale
+C0332128||examined
+C4083201||PHQ-9
+C1710032||screening
+C0037589||tool

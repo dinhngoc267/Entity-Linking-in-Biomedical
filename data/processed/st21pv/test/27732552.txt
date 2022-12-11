@@ -1,0 +1,64 @@
+C0430022||Volumetric absorptive microsampling
+C0442519||home
+C1283169||monitoring
+C0019018||HbA1c
+C0011847||diabetes
+C0005834||blood collection
+C3178862||Dried blood spot (DBS) sampling
+C0005834||blood collection
+C0022885||techniques
+C0430022||Volumetric absorptive microsampling
+C0430022||Volumetric absorptive microsampling
+C0022885||technique
+C0005767||blood
+C0005767||blood drop
+C2603343||study
+C0019018||HbA1c
+C1283169||monitoring
+C0430022||VAMS sampling
+C0442519||home
+C0936012||analysis
+C0022877||laboratory
+C0011847||Diabetic
+C2603343||study
+C0009818||consultation
+C0259863||endocrinologist
+C0444255||venous
+C0444254||capillary (children) sample
+C0019018||HbA1c
+C0936012||analysis
+C3178862||Dried blood spot
+C0430022||dried VAMS
+C0442519||home
+C0022877||laboratory
+C0430022||Volumetric absorptive microsampling
+C0009818||consultation
+C0936012||analysis
+C0430022||wet VAMS
+C0019018||HbA1c
+C0936012||analyses
+C0179038||Tosoh HLC-723 G8 high-performance liquid chromatography (HPLC) analyzer
+C0430022||sampling
+C0442519||home
+C0936012||analysis
+C0019018||HbA1c
+C0430022||Volumetric absorptive microsampling
+C0444255||venous
+C0444254||capillary blood
+C0019994||hospital
+C3178862||Dried blood spot
+C0019018||HbA1c
+C0430022||wet VAMS
+C0178913||blood samples
+C0430022||Volumetric absorptive microsampling
+C3178862||Dried blood spot
+C0332219||easy
+C0022877||laboratory
+C0442519||home
+C0430022||dried VAMS
+C3178862||Dried blood spot
+C1283169||monitoring
+C0019018||HbA1c
+C0019018||HbA1c
+C0430022||wet VAMS
+C0444254||capillary microsamples

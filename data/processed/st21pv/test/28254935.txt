@@ -1,0 +1,19 @@
+C0032098||plant
+C0486616||composition
+C0037455||societies
+C0870781||landscapes
+C0936012||basin-wide analysis
+C0205145||archaeological sites
+C0040811||woody
+C1705920||species
+C0027361||peoples
+C1705920||species
+C1705920||nondomesticated species
+C1705920||species
+C0205145||archaeological sites
+C0205145||archaeological sites
+C1705920||species
+C0936012||analyses
+C0040811||tree
+C0032098||plant
+C0027361||peoples

@@ -1,0 +1,50 @@
+C0220825||evaluation
+C0010467||curcumin
+C0243072||derivatives
+C0289507||nuclear factor erythroid-2-related factor 2
+C0524828||cytoprotectors
+C3893307||oxidative death
+C0289507||nuclear factor erythroid-2-related factor 2
+C0289507||nuclear factor erythroid-2-related factor 2
+C0006826||cancer
+C0010467||curcumin
+C0289507||nuclear factor erythroid-2-related factor 2
+C0006826||cancer
+C1516463||chemopreventive agent
+C2603343||study
+C0010467||curcumin
+C0243071||analogs
+C0289507||nuclear factor erythroid-2-related factor 2
+C0524828||cytoprotectors
+C3893307||oxidative death
+C0054858||catechol
+C0010467||curcumin
+C0243071||analog
+C1254351||compound 3
+C1254351||lead molecule
+C0314668||stability
+C0524828||cytoprotective
+C0076150||tert-butyl hydroperoxide
+C0076150||tert-butyl hydroperoxide
+C0007587||death
+C2717940||HepG2 cells
+C2603343||studies
+C0524828||cytoprotective
+C0289507||nuclear factor erythroid-2-related factor 2
+C0037080||signaling pathway
+C1254351||Michael acceptor
+C0054858||catechol
+C0009968||copper
+C0302583||iron
+C0022023||ion
+C0007974||chelators
+C0025552||metal
+C0022023||ion
+C0030011||oxidations
+C1254351||compound 3
+C0034435||o-quinone
+C0289507||nuclear factor erythroid-2-related factor 2
+C0524828||cytoprotection
+C0010467||curcumin
+C0289507||nuclear factor erythroid-2-related factor 2
+C0314668||stability

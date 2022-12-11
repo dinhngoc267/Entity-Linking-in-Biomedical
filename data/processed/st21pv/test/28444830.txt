@@ -1,0 +1,48 @@
+C0017262||Gene expression
+C0034802||EGFR
+C0015385||proximal-distal limb
+C0376678||patterning
+C0597910||myriapod
+C0015219||Evolution
+C0015385||segmented limbs
+C0003903||Arthropoda
+C0018670||head
+C0460005||trunk
+C0598782||appendages
+C0015385||Proximodistal limb
+C0376678||patterning
+C1720950||regulatory networks
+C0013139||Drosophila melanogaster
+C0021585||insects
+C0566267||morphogens
+C0168282||Wingless
+C0168282||Wingless
+C0082344||Decapentaplegic
+C0082344||Decapentaplegic
+C1155379||EGFR-signaling cascade
+C0168282||Wingless
+C0082344||Decapentaplegic
+C2603343||studied
+C0003903||arthropods
+C1218615||Pancrustacea
+C1095852||Hexapoda
+C0010395||Crustacea
+C0597910||Myriapoda
+C0998333||Chelicerata
+C1155379||EGFR-signaling
+C0021585||insects
+C1095852||Hexapoda
+C1880945||Gene expression analysis
+C0034802||Egfr
+C0023688||ligands
+C0033684||putative downstream factors
+C0323823||pill millipede
+C1023180||Glomeris marginata
+C0597910||Myriapoda
+C0323823||Diplopoda
+C1218616||mandibulate
+C0003903||arthropods
+C1155379||EGFR-signaling
+C0243095||regulatory mechanism
+C0015385||proximodistal limb
+C0376678||patterning

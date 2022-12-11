@@ -1,0 +1,39 @@
+C0006433||Burnout
+C0038496||Student Nurses
+C0026347||ICWR-1 Model
+C0237401||Individual
+C0028677||nursing work
+C0441516||demanding
+C0006433||burnout
+C0557351||employed
+C0028661||nurses
+C0557351||employed
+C0028661||nurses
+C0026350||theoretical model
+C2827421||constructs
+C0023866||literature
+C0233398||psychological functioning
+C0038496||nursing students
+C0028677||nursing
+C2700616||workforce
+C1257890||population
+C0038496||Student nurses
+C0038951||online survey
+C2827421||constructs
+C0026347||ICWR-1 model
+C0038496||students
+C0004340||Australia
+C0006823||Canada
+C0038951||survey
+C0233849||trait negative affect
+C3542996||mindfulness
+C0600564||self-efficacy
+C0006433||burnout
+C0026347||model
+C3542996||mindfulness
+C0600564||self-efficacy
+C0006433||burnout
+C1842981||Neuroticism
+C0006433||burnout
+C0038496||nursing students
+C0006433||burnout

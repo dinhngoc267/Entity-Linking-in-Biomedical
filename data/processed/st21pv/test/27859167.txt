@@ -1,0 +1,14 @@
+C0035150||first reproduction
+C0035150||first reproduction
+C0460139||high selective pressure
+C0205102||intrinsic quality
+C0237401||individuals
+C0325368||Wandering Albatross
+C0035150||first reproduction
+C0870071||finite mixture capture recapture modeling
+C0035150||first reproduction
+C1513916||negatively
+C0035150||reproductive
+C0035150||first reproduction
+C0006159||first breeding
+C0325368||seabird species

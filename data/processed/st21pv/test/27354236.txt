@@ -1,0 +1,54 @@
+C0241863||diabetic
+C0005686||bladder disorder
+C1328813||metabolomic analysis
+C0034721||rat
+C0241863||diabetic
+C1180419||detrusor
+C0227692||urothelial layer
+C0005682||bladder
+C0025519||metabolism
+C0011847||diabetes
+C0241863||diabetic
+C0005686||bladder disorder (DBD)
+C1180419||detrusor
+C0227692||urothelial layer
+C0038432||streptozotocin
+C0034721||rat
+C0012644||model
+C0011854||type 1 diabetes
+C0011847||diabetes
+C1180419||detrusor
+C0227692||urothelial layer's
+C0011847||Diabetes
+C0011847||diabetic
+C0005516||markers
+C0040300||tissues
+C0017725||glucose
+C0064582||lactate
+C0046188||2-hydroxybutyrate
+C3494275||branched-chain amino acid degradation products
+C0005390||bile acids
+C0044029||1,5-anhydroglucitol
+C0005516||markers
+C0242606||oxidative stress
+C1180419||detrusor
+C0227692||urothelial layer
+C0011847||diabetes
+C0030893||pentose-phosphate
+C0071629||polyol
+C1704259||pathways
+C1516586||TCA cycle
+C1158368||β-oxidation
+C1180419||detrusor
+C1158271||energy-generating pathways
+C0037688||sorbitol
+C0162574||advanced glycation end products
+C0005686||diabetic bladder disorder
+C0241863||diabetic
+C0227692||urothelial layer
+C0017725||glucose
+C0017952||glycolysis
+C0598783||lipid metabolism
+C0033554||prostaglandin
+C1180419||detrusor
+C0277785||dysfunction

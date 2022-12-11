@@ -1,0 +1,63 @@
+C0162493||Activation of transcription
+C0230595||nuclear bodies
+C0043457||zebrafish
+C0013935||embryos
+C0230595||Nuclear bodies
+C2335889||cellular compartments
+C0023768||lipid bilayers
+C0035668||RNAs
+C0033684||proteins
+C0230595||nuclear bodies
+C0230595||nuclear bodies
+C0751972||Cajal bodies
+C0751972||Cajal bodies
+C2752281||histone locus bodies
+C2752281||histone locus bodies
+C0007609||nucleoli
+C0314666||splicing machinery
+C1158725||histone mRNA 3' end processing
+C1156152||rRNA processing
+C0013935||embryos
+C0043457||zebrafish
+C0043457||Danio rerio
+C0013935||embryo
+C0230595||nuclear body
+C0043544||zygotic
+C0040649||transcription
+C0751972||Cajal bodies
+C0015914||fertilization
+C2752281||HLB
+C0007609||nucleolar
+C0243092||components
+C0205234||foci
+C0019652||histone
+C0017337||genes
+C0012933||rDNA
+C2752281||HLB
+C1514673||transcription inhibition
+C1519595||nascent histone transcripts
+C2752281||HLB
+C0243092||components
+C0162464||U7 snRNP
+C0600436||base-pairing
+C1519595||nascent histone transcripts
+C1158693||localization
+C2752281||histone locus bodies
+C2752281||histone locus bodies
+C0751972||Cajal bodies
+C0035709||snRNAs
+C0751972||Cajal bodies
+C2752281||histone locus bodies
+C0033684||protein
+C0230595||nuclear bodies
+C0007609||nucleolar
+C2752281||HLB
+C0751972||CB
+C0243092||components
+C0013936||embryogenesis
+C0040649||transcription
+C0040649||transcription
+C1708726||gene loci
+C0230595||nuclear body
+C0243092||components
+C0031843||functions

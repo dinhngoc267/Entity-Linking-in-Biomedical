@@ -1,0 +1,67 @@
+C0023951||locus coeruleus
+C0948482||analgesic efficacy
+C0067685||N-acetylaspartylglutamate peptidase
+C0067685||glutamate carboxypeptidase II
+C0014432||inhibitors
+C1451894||ZJ43
+C0910831||2-PMPA
+C0130693||N-acetylaspartylglutamate
+C0130693||N-acetylaspartylglutamate
+C0027908||neurotransmitter
+C0024660||mammalian
+C0027763||nervous system
+C0130693||N-acetylaspartylglutamate
+C0532371||group II metabotropic glutamate receptor
+C0532371||mGluR3
+C0067685||extracellular enzyme, glutamate carboxypeptidase II
+C0067685||glutamate carboxypeptidase II
+C1515655||in vivo
+C0014432||Inhibitors of this enzyme
+C0002771||analgesic
+C0599779||animal models
+C0234251||inflammatory
+C3714625||neuropathic
+C0279530||bone cancer
+C0030193||pain
+C0130693||N-acetylaspartylglutamate
+C0067685||glutamate carboxypeptidase II
+C0023951||locus coeruleus
+C0949307||formalin
+C2985236||footpad
+C0012644||model
+C0014432||GCPII inhibitors
+C0234251||inflammatory pain
+C0521329||spinal
+C0028351||noradrenaline
+C0948482||analgesic efficacy
+C0021485||injection
+C0532371||group II mGluR
+C1254351||antagonist
+C0021896||intrathecal (spinal) injection
+C0304513||alpha 2 adrenergic receptor antagonist
+C0025991||microinjection
+C1254351||α-amino-3-hydroxy-5-methylisoxazole-4-propionic acid (AMPA) receptor antagonist
+C0441988||contralateral
+C0023951||locus coeruleus
+C2985236||Footpad
+C0021368||inflammation
+C0017789||glutamate
+C0441988||contralateral
+C0023951||locus coeruleu
+C0014432||GCPII inhibitor
+C0021485||injection
+C0014432||GCPII inhibitors
+C0441988||contralateral
+C0441989||ipsilatera
+C0023951||locus coeruleus
+C0234251||inflammatory pain
+C0441988||contralateral
+C0021896||intrathecal injection
+C0304513||alpha 2 adrenergic receptor antagonist
+C0948482||analgesic efficacy
+C0014432||GCPII inhibitors
+C0441988||contralatera
+C0023951||locus coeruleus
+C0532371||group II mGluR
+C1528634||α-amino-3-hydroxy-5-methylisoxazole-4-propionic acid
+C0001639||alpha 2 adrenergic receptors

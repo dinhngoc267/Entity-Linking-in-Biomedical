@@ -1,0 +1,50 @@
+C0032950||Prednisolone
+C0740400||worse lipid profile
+C0020268||hydrocortisone
+C0001623||adrenal insufficiency
+C0032950||Prednisolone
+C0017710||glucocorticoid
+C0279033||replacement therapy
+C0001623||adrenal insufficiency
+C0001623||adrenal insufficiency
+C0001623||adrenal insufficiency
+C0005938||bone mineral density
+C0035648||risk factors
+C0007222||cardiovascular disease
+C0001623||adrenal insufficiency
+C0032950||prednisolone
+C0007465||cause
+C0282574||European Adrenal Insufficiency Registry
+C0282574||European Adrenal Insufficiency Registry
+C0282574||European Adrenal Insufficiency Registry
+C0475309||centres
+C0017480||Germany
+C0027778||Netherlands
+C0038995||Sweden
+C0041700||UK
+C0001623||adrenal insufficiency
+C0032950||prednisolone
+C0020268||hydrocortisone
+C0439745||grouped
+C0032950||prednisolone
+C0020268||hydrocortisone
+C0457464||type of disease
+C1522577||follow-up
+C1512346||visits
+C0001627||congenital adrenal hyperplasia
+C0023824||low-density lipoprotein (LDL) cholesterol
+C0032950||prednisolone
+C0020268||hydrocortisone
+C1522577||follow-up
+C0019018||HbA1c
+C0023821||high-density lipoprotein
+C0428475||triglyceride levels
+C1305855||body mass index
+C0221155||systolic
+C0235222||diastolic blood pressure
+C0455829||waist circumference
+C0936012||analysis
+C0428473||LDL levels
+C0032950||prednisolone
+C0020268||hydrocortisone
+C0007222||cardiovascular disease

@@ -1,0 +1,48 @@
+C2081612||Medication
+C0007789||cerebral palsy
+C1709599||population based study
+C2081612||medication
+C0007789||CP
+C3873236||Gross Motor Function Classification System
+C3873236||Gross Motor Function Classification System
+C0034394||Questionnaire
+C0010362||cross-sectional study
+C0017446||Brittany
+C0079170||French county
+C0007789||cerebral palsy
+C0034394||Questionnaires
+C0013227||drugs
+C0029365||orthotic devices
+C3495449||mobility aids
+C0496675||medical input
+C0680022||members
+C0017446||regional French
+C0007789||cerebral palsy
+C0034394||questionnaire
+C0679646||participant
+C0919876||responders
+C3873236||GMFCS level
+C0679646||Participants
+C0013227||orally administered drugs
+C0003299||antiepileptic drugs
+C0949766||physiotherapy
+C3495449||mobility aid
+C0029365||orthotic device
+C3873236||GMFCS level
+C0150312||found
+C3873236||GMFCS level
+C0679646||participants
+C3873236||GMFCS level
+C0496675||medical input
+C0025080||trunk-supporting devices
+C0399651||antireflux
+C0282090||laxative
+C3873236||GMFCS levels
+C0007789||cerebral palsy
+C0013227||drugs
+C3495449||mobility aids
+C0029365||orthotic devices
+C0496675||medical input
+C0086388||Healthcare
+C0033213||cerebral palsy -related issues
+C3873236||Gross Motor Function Classification System

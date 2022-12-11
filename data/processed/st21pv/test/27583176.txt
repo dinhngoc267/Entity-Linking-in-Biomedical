@@ -1,0 +1,45 @@
+C2937358||intracerebral hemorrhage
+C2937358||Intracerebral hemorrhage
+C2937358||Intracerebral hemorrhage
+C2826244||life threatening
+C0029909||early outcome assessment
+C0087111||therapeutic efforts
+C0936012||analyzed
+C2937358||Intracerebral hemorrhage
+C0282574||outcome grading scoring systems
+C0349674||intracerebral hemorrhage grading scale
+C0349674||intracerebral hemorrhage grading scale
+C1257890||population
+C2603343||study
+C0282574||outcome grading scoring systems
+C0349674||intracerebral hemorrhage grading scale
+C0349674||intracerebral hemorrhage grading scale
+C1257890||population
+C2603343||study
+C0017594||Glasgow Coma Scale
+C0017594||Glasgow Coma Scale
+C0184666||admission
+C2937358||Intracerebral hemorrhage
+C0018944||hematoma
+C1515974||location
+C0004781||basal ganglia
+C0543467||surgical
+C0459914||conservative treatment
+C0017594||Glasgow Coma Scale
+C0019080||bleeding
+C0441939||infratentorial
+C0018944||hematoma
+C1515974||location
+C0936012||analysis
+C0017594||Glasgow Coma Scale
+C2937358||Intracerebral hemorrhage
+C0441938||supratentorially
+C0441939||infratentorially
+C1709490||Pearson correlation
+C0349674||intracerebral hemorrhage grading scale
+C0017594||Glasgow Coma Scale
+C0184666||admission
+C0019080||hemorrhage
+C2937358||intracerebral hemorrhage
+C0332167||high-risk
+C0349674||intracerebral hemorrhage grading scale

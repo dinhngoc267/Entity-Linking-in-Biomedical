@@ -1,0 +1,88 @@
+C1445913||High-fructose diet
+C0521974||high-fat diet
+C0857127||induction
+C0021655||insulin resistance
+C0011847||diabetes
+C0205054||hepatic
+C0030274||pancreatic
+C3178870||endoplasmic reticulum (ER) stress
+C0086418||human
+C0016745||fructose
+C0012155||diets
+C0162340||understand
+C0556134||fructose intake
+C0007634||cellular
+C1969875||β-cell dysfunction
+C0021655||insulin resistance
+C0015677||fat
+C0021655||insulin resistance
+C0025517||metabolic disorders
+C2603343||studies
+C1445913||high-fructose diet
+C2603343||study
+C0012155||diets
+C0521974||high-fat diet
+C0521974||high-fat diet
+C1445913||high-fructose diet
+C1445913||high-fructose diet
+C1445913||high-fructose diet
+C0521974||high-fat diet
+C0012155||diet
+C1326961||glucose homeostasis
+C0920563||insulin sensitivity
+C0034716||Wistar rats
+C1511501||control animals
+C0012155||diet
+C0029161||oral glucose tolerance test
+C0236287||insulin tolerance test
+C0430445||histopathology
+C0523207||H&E
+C1294297||Masson's trichrome staining
+C1515670||mRNA expression
+C1709846||real-time PCR
+C1882495||protein expression
+C0949466||Western blot
+C1150132||caspase-3 activity
+C0009407||colorimetry
+C0034721||Rats
+C0521974||high-fat
+C1445913||fructose diets
+C0017725||glucose
+C0021655||insulin-resistant
+C0243095||dyslipidemic
+C1511501||control animals
+C0034721||rats
+C0521974||fat
+C1445913||fructose diets
+C1515670||mRNA
+C1171362||protein expression
+C3178870||ER stress
+C0030274||pancreas
+C0023884||liver
+C0040648||Transcription factors
+C0007613||β-cell function
+C1447572||INSIG1
+C0537474||SREBP1c
+C1528563||PDX1
+C0205054||hepatic
+C0017715||gluconeogenesis
+C0250455||FOXO1
+C4042244||PEPCK
+C0879626||adversely affected
+C0012155||diet
+C0021655||insulin-resistant
+C0034721||rats
+C3178870||ER stress
+C0162638||apoptosis
+C0030274||pancreas
+C0023884||liver
+C1444656||indicated
+C0035696||CHOP mRNA
+C1150587||JNK
+C1150132||Caspase-3
+C0034721||rats
+C0521974||high-fat
+C1445913||fructose diets
+C2603343||study
+C1445913||high-fructose diet
+C0025517||metabolic disorders

@@ -1,0 +1,42 @@
+C0033081||written drug information
+C3273178||leaflet
+C1704922||images
+C1518028||Low-literate
+C0033081||written drug information
+C1955348||patient information
+C1257890||group
+C0027361||people
+C0033081||written drug information
+C3273178||leaflet
+C1704922||images
+C1561598||Food banks
+C0036375||education institution
+C0027778||Netherlands
+C0237401||individual
+C1518028||low-literate participants
+C1518028||Low-literate people's
+C1955348||patient information
+C3273178||leaflets
+C0030971||perceptions
+C1955348||Patient information
+C3273178||leaflets
+C0162340||understand
+C0683836||information sources
+C3273178||leaflet
+C0679646||Participants
+C1704922||images
+C3273178||leaflet's
+C1522634||questions
+C1527021||textual
+C0034770||recall
+C1704726||confidence
+C3273178||leaflet
+C1518028||low-literate patients
+C0596545||experience
+C0033081||written drug information
+C1527021||textual
+C0681841||explanations
+C3273178||leaflet
+C0184511||improve
+C0162340||understanding
+C1518028||low-literate target group

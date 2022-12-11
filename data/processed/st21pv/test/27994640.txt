@@ -1,0 +1,32 @@
+C0002778||Analysis
+C0966451||tilianin
+C0100994||acacetin
+C1008095||Agastache rugosa
+C0008562||high-performance liquid chromatography
+C1720867||ionic liquids
+C0684295||extraction
+C1720867||Ionic liquid
+C1956443||1-butyl-3-methylimidazolium bromide
+C0001963||methanol
+C0684295||extraction
+C0684295||ILUAE
+C0684295||extract
+C0966451||tilianin
+C0100994||acacetin
+C1136056||aerial parts
+C1008095||Agastache rugose
+C1008095||Agastache rugose
+C2717789||reversed phase high performance liquid chromatographic
+C2717789||reversed phase high performance liquid chromatographic
+C0449335||ultraviolet detection
+C0449335||RP-HPLC-UV)
+C3469601||mobile phase
+C0001963||methanol
+C0000983||acetic acid
+C0966451||tilianin
+C0100994||acacetin
+C0684295||ILUAE
+C0014406||environmental friendly
+C1706082||compounds
+C0025124||traditional Chinese medicines
+C0025124||traditional Chinese medicines

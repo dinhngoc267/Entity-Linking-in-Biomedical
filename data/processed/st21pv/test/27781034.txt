@@ -1,0 +1,60 @@
+C0014548||Generalized Epilepsy
+C0014550||Myoclonic Seizures
+C0012236||22q11.2 Deletion Syndrome
+C0270853||juvenile myoclonic epilepsy
+C0270853||juvenile myoclonic epilepsy
+C0012236||22q11.2 deletion syndrome
+C0012236||22q11.2 deletion syndrome
+C1511518||recurrent copy number variants
+C0014548||generalized epilepsy
+C0014548||genetic generalized epilepsy
+C0012236||22q11.2 deletion syndrome
+C0014548||genetic generalized epilepsy
+C0014550||myoclonic seizures
+C0086143||routine diagnostics
+C0027361||individuals
+C0012236||22q11.2 deletion syndrome
+C0270853||juvenile myoclonic epilepsy
+C0220908||screened
+C0023866||literature
+C0684224||reports
+C0012236||22q11.2 deletion syndrome
+C0220908||screened
+C0242356||database
+C0012236||22q11.2 deletion syndrome
+C0027361||individual
+C0270853||juvenile myoclonic epilepsy
+C0014548||genetic generalized epilepsy
+C0243095||co-occurrence
+C0012236||22q11.2 deletion syndrome
+C0014548||genetic generalized epilepsy
+C0014548||genetic generalized epilepsy
+C0014550||myoclonic seizures
+C0011900||diagnosis
+C0270853||juvenile myoclonic epilepsy
+C0027361||individuals
+C0012236||22q11.2 deletion syndrome
+C0011900||diagnosis
+C0014547||focal
+C0014548||generalized epilepsy
+C0014547||focal epilepsy
+C0020598||syndrome-associated hypocalcaemia
+C2937358||cerebral bleeds
+C3280971||structural brain anomalies
+C0014548||genetic generalized epilepsy
+C2603343||study
+C0027361||individuals
+C0012236||22q11.2 deletion syndrome
+C0014548||genetic generalized epilepsy
+C0270853||juvenile myoclonic epilepsy
+C0012634||disorders
+C0243095||frequently co-occur
+C0150093||case series
+C0012236||22q11.2 deletion syndrome
+C0027361||individuals
+C0014544||epilepsy
+C0014548||genetic generalized epilepsy
+C1521104||22q11.2
+C0014548||genetic generalized epilepsy
+C1332838||candidate genes
+C0052887||GABAB receptor

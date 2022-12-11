@@ -1,0 +1,51 @@
+C2350277||Genome-Wide Detection
+C0017393||Selective Signatures
+C0008051||Chicken
+C0752046||High Density SNPs
+C0008051||Chicken
+C0017428||genomic
+C0015219||evolution
+C0086418||human
+C0004793||core regions
+C0752046||SNP
+C0008051||Chicken
+C3897601||chip
+C0005595||hens
+C0010364||reciprocal crosses
+C0008051||White Leghorn
+C0008051||Dongxiang chicken
+C0004793||core regions
+C0017428||genome
+C0596142||autosomes
+C0004793||core regions
+C0017337||Genes
+C0004793||candidate regions
+C2347644||positive selection
+C0017337||genes
+C1422497||AASDHPPT
+C1539559||GDPD5
+C1414507||PAR3
+C1424266||SOX6
+C1415193||GPC1
+C0037080||signal pathway
+C0812228||AKT1
+C0442726||detected
+C0936012||enrichment analyses
+C0017337||genes
+C1817756||immune function
+C1160370||sensory organ development
+C0814002||neurogenesis
+C2347644||positive selection
+C0008051||chicken
+C0004793||core regions
+C0017337||genes
+C2350277||GWAS
+C0017337||genes
+C2347644||positive selection
+C0013710||egg
+C0079435||genome-wide map
+C0017393||selection signature
+C0008051||chicken
+C0017428||genome
+C0032850||poultry
+C0006159||breeding

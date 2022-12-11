@@ -1,0 +1,58 @@
+C0450363||three-dimensional
+C0009570||composite
+C0678594||macrostructures
+C1879848||biomedical
+C1879848||biomedical
+C0450363||three-dimensional
+C0678594||macrostructures
+C0460002||biological systems
+C0815081||regeneration
+C0040300||body tissues
+C0178784||organs
+C0032521||conductive polymers
+C0007634||cells
+C0450363||three-dimensional
+C0009570||composite
+C0678594||macrostructures
+C0137734||polycaprolactone
+C0137734||polycaprolactone
+C0962453||polyaniline
+C0962453||polyaniline
+C0450363||3D
+C0678594||structures
+C0678594||cap-like macrostructures
+C0450363||3D
+C0137734||polycaprolactone
+C0962453||polyaniline
+C0009570||composite
+C0678594||macrostructures
+C0025929||mouse
+C0596995||myoblasts
+C0596995||C2C12 cells
+C2986594||model
+C0007634||cells
+C0596995||C2C12 cells
+C0450363||3D
+C0137734||polycaprolactone
+C0962453||polyaniline
+C0009570||composite
+C0678594||macrostructures
+C0137734||polycaprolactone
+C0007634||cells
+C0033827||pseudopodia
+C0962453||polyaniline
+C0596290||cell proliferation
+C0962453||polyaniline
+C3714634||cell affinity
+C0962453||polyaniline
+C0450363||3D
+C0009570||composite
+C0678594||macrostructures
+C1159966||myoblast differentiation
+C2265916||myotube maturation
+C0450363||3D
+C0137734||polycaprolactone
+C0962453||polyaniline
+C0009570||composite
+C0678594||macrostructures
+C0596171||tissue engineering

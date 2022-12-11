@@ -1,0 +1,36 @@
+C0006114||Cerebral Edema
+C0751530||Aneurysmal Subarachnoid Hemorrhage
+C0023866||literature
+C0006114||cerebral edema
+C0270611||early brain injury
+C0751530||aneurysmal subarachnoid hemorrhage
+C0751530||aneurysmal subarachnoid hemorrhage
+C0162869||Aneurysm rupture
+C0006114||cerebral edema
+C0006114||cerebral edema
+C0751530||aneurysmal subarachnoid hemorrhage
+C0006114||cerebral edema
+C3806166||poor outcome
+C0006114||cerebral edema
+C0022116||ischemia
+C0162869||aneurysm rupture
+C0019868||autoregulation
+C2937287||blood breakdown
+C0020625||hyponatremia
+C4025823||endocrine abnormalities
+C0292777||aquaporin-4
+C0165519||matrix metalloproteinase-9
+C3711621||SUR1
+C1384655||TRPM4 cation channels
+C1171892||vascular endothelial growth factor
+C0006100||bradykinin
+C0007634||cellular
+C0006114||cerebral edema
+C0751530||aneurysmal subarachnoid hemorrhage
+C0013604||edema
+C0751530||aneurysmal subarachnoid hemorrhage
+C0030660||pathological process
+C0006114||cerebral edema
+C0751530||aneurysmal subarachnoid hemorrhage
+C0418981||medical therapies
+C0012634||disease

@@ -1,0 +1,40 @@
+C0003765||l-Arginine
+C0043240||Dural Healing
+C0013313||Dural
+C0034693||Rat
+C0043240||repair
+C0013313||dura mater
+C0009566||complications
+C0023182||cerebrospinal fluid leakage
+C0025289||meningitis
+C0043240||repair
+C0013313||dura mater
+C0205276||local
+C0003765||l-arginine
+C0043240||dural healing
+C0034716||Wistar rats
+C0205276||local
+C0003765||l-arginine
+C0034716||rats
+C0184898||experimental incision
+C2330954||lumbar segment of the dura mater
+C0023182||cerebrospinal fluid leakage
+C1515021||subgroups
+C0034716||rats
+C0015187||killed
+C0441635||segments
+C0013313||dura
+C0043240||dural healing
+C0007634||cell types
+C0018180||granulation tissue
+C0009325||collagen
+C0003765||l-arginine
+C0043240||dural healing
+C0018180||granulation
+C0009325||collagen
+C0027686||neovascularization
+C0043240||healing
+C0003765||l-arginine
+C0043240||dural healing
+C0018180||granulation tissue
+C0009325||collagen

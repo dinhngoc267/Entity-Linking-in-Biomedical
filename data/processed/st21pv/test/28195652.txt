@@ -1,0 +1,43 @@
+C0360390||anti-mycobacterial
+C1254351||piperidinol derivatives
+C0041296||Tuberculosis
+C0041296||Tuberculosis
+C0007465||cause of death
+C0041296||Tuberculosis
+C0013227||drug
+C0040808||regimen
+C1254351||anti-tubercular agents
+C0206525||drug-resistant TB
+C2603343||study
+C1254351||piperidinol compound derivative
+C0026926||Mycobacterium tuberculosis
+C0004587||bacillus
+C0279516||antibacterial
+C1254351||piperidinol compound
+C0024728||bis-Mannich base
+C0243071||analogue
+C0220825||evaluated
+C0317761||M. smegmatis
+C0018150||Gram-negative organisms
+C0596402||Cytotoxicity
+C2603343||studies
+C0918012||selectivity index
+C1254351||compounds
+C0596988||mutants
+C0317761||M. smegmatis
+C1254351||piperidinol
+C1254351||bis-Mannich base lead derivatives
+C4277689||genetic modifications
+C1254351||compounds
+C1254351||piperidinol
+C1254351||bis-Mannich base analogue
+C0026912||mycobacteria
+C0596402||cytotoxicity
+C0918012||selectivity index
+C0026912||mycobacteria
+C0317761||M. smegmatis
+C1254351||lead compounds
+C0752046||single nucleotide polymorphisms
+C1254351||piperidinol moiety
+C1254351||compound class
+C1254351||anti-tubercular agents

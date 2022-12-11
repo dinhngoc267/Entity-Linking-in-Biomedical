@@ -1,0 +1,28 @@
+C0043481||Zinc
+C0043240||Wound Healing
+C0043481||Zinc
+C0031843||Physiology
+C0233820||understanding
+C0043481||zinc
+C0086418||human
+C0031843||physiology
+C3887622||gaps
+C0043481||zinc
+C0043240||wound healing
+C0282443||review
+C0871685||clinician
+C0043481||zinc
+C0005532||biology
+C0043481||zinc
+C0043240||wound healing
+C0043481||Zinc
+C0022023||ion
+C0031843||physiology
+C0235950||zinc deficiency
+C0043240||wound healing
+C0021053||immune dysfunction
+C0235950||zinc deficiency
+C0043240||wound healing
+C0023866||literature
+C0025663||optimal methods
+C0043481||zinc

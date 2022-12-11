@@ -1,0 +1,23 @@
+C0037589||Juicer
+C0936012||Analyzing
+C0200892||Loop-Resolution Hi-C Experiments
+C0200892||Hi-C experiments
+C0026377||3D structure
+C0017428||genome
+C0150098||terabases of data
+C0037589||Juicer
+C0037589||open-source tool
+C0150098||Hi-C datasets
+C0037589||Juicer
+C1706077||users
+C1705163||transform
+C0026382||raw sequence data
+C0037589||Juicer
+C0242193||hic file
+C1704640||contact matrices
+C0175631||visualization
+C0936012||analysis
+C0026377||Structural features
+C1516509||loops
+C0037589||Juicer
+C0037585||software

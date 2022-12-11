@@ -1,0 +1,50 @@
+C0585179||Roux-en-Y gastric bypass
+C3160799||sleeve gastrectomy
+C0011847||diabetic
+C0034721||rat
+C0012644||model
+C1708235||genera
+C0025519||metabolic
+C1456587||bariatric surgery
+C0025519||metabolism
+C0585179||Roux-en-Y gastric bypass
+C0585179||Roux-en-Y gastric bypass
+C3160799||sleeve gastrectomy
+C3160799||sleeve gastrectomy
+C0016452||food
+C0025519||metabolism
+C0011847||diabetic
+C0034721||fatty rats
+C0585179||Roux-en-Y gastric bypass
+C0032042||sham-operated
+C0585179||Roux-en-Y gastric bypass
+C0032042||sham-operated
+C3160799||sleeve gastrectomy
+C0936012||analyzed
+C1708235||genera
+C1513159||metabolic markers
+C0585179||Roux-en-Y gastric bypass
+C0087111||procedures
+C0017725||glucose
+C0032042||sham-operated
+C0585179||Roux-en-Y gastric bypass
+C0751985||Proteobacteria
+C0751988||Gammaproteobacteria
+C0751987||Betaproteobacteria
+C1222477||Fusobacteria
+C0009054||Clostridium
+C3160799||sleeve gastrectomy
+C0600148||Actinobacteria
+C1708235||genera
+C0025519||metabolic
+C1708235||genera
+C1261415||serum insulin level
+C0016452||food
+C0585179||Roux-en-Y gastric bypass
+C0585179||Roux-en-Y gastric bypass
+C3160799||sleeve gastrectomy
+C0011847||diabetic
+C0034721||fatty rats
+C0025519||functions
+C0443264||modulation
+C0021655||insulin resistance

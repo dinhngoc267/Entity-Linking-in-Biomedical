@@ -1,0 +1,31 @@
+C0016129||Digital
+C1302808||Myopericytoma
+C0007320||Case Report
+C1955832||Systematic Literature Review
+C1302808||myopericytoma
+C1302808||myopericytoma
+C1335392||perivascular tumor
+C0242943||mimicry
+C4282132||malignancy
+C1302808||MP tumors
+C0582175||surgeons
+C0011906||differential diagnosis
+C0007320||case report
+C0025266||male
+C0029916||outpatient clinic
+C0038999||swelling
+C1306645||plain film X-ray
+C3810196||bony destruction
+C0223821||distal phalanx
+C0030660||Pathological
+C0220825||evaluation
+C0184922||incisional biopsy
+C0086692||benign variant
+C1302808||myopericytoma
+C0221198||lesion
+C0728940||excision
+C0027651||tumor
+C1283248||shelling
+C0376636||management
+C0085973||cases
+C1302808||myopericytoma

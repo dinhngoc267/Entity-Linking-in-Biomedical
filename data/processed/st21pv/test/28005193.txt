@@ -1,0 +1,71 @@
+C0754471||TREK-1 (K2P2.1) K(+) channels
+C0004238||atrial fibrillation
+C0018801||heart failure
+C0004238||Atrial fibrillation
+C0004238||Atrial fibrillation
+C0003811||cardiac arrhythmia
+C0018801||Concomitant heart failure
+C0018801||heart failure
+C1315011||challenge
+C0034954||atrial electrical refractoriness
+C0018787||non-failing hearts
+C0013081||downregulation
+C1371280||atrial repolarizing
+C0754471||TREK-1 (K2P2.1) K(+) channels
+C3658220||electrical remodeling
+C0004238||Atrial fibrillation
+C0018801||heart failure
+C1517499||TREK-1 gene transfer
+C1882115||normalization
+C0428938||atrial effective refractory periods
+C0004238||Atrial fibrillation
+C2986480||subset
+C0694539||chronic AF
+C0018801||heart failure
+C0754471||atrial TREK-1
+C0035696||mRNA
+C0225860||left atrium
+C0225844||right atrium
+C0232201||sinus rhythm
+C0232201||sinus rhythm
+C0080105||subjects
+C0086418||Human
+C0243095||findings
+C0004238||atrial tachypacing-induced AF
+C0080310||left ventricular function
+C0754471||TREK-1
+C0035696||mRNA
+C0754471||protein
+C0004238||Atrial fibrillation
+C0003062||animals
+C0232201||sinus rhythm
+C0013081||Downregulation
+C1371280||repolarizing
+C0754471||TREK-1 channels
+C0428938||atrial effective refractory periods
+C0302523||observations
+C0086418||humans
+C0018801||heart failure
+C0039005||pigs
+C0034656||randomized
+C0017296||atrial Ad-TREK-1 gene therapy
+C0032042||sham treatment
+C1517499||Gene transfer
+C0754471||TREK-1 protein
+C0428938||atrial effective refractory period
+C0754471||Ad-TREK-1
+C0232201||sinus rhythm
+C0004238||Atrial fibrillation
+C0003062||animals
+C0004238||Atrial fibrillation
+C0754471||TREK-1
+C0013081||downregulation
+C1517499||Ad-TREK-1 transfer
+C0087111||mechanistic and potential therapeutic
+C0754471||TREK-1 channels
+C1515021||subgroup
+C0004238||Atrial fibrillation
+C0018801||heart failure
+C0428938||atrial effective refractory periods
+C0017296||TREK-1 gene therapy
+C0004238||Atrial fibrillation

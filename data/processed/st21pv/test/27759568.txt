@@ -1,0 +1,54 @@
+C0018762||Survey
+C0021709||Neonatal Intensive Care Unit
+C0028661||Nurse
+C0004271||Attitudes
+C0020674||Therapeutic Hypothermia Treatment
+C0332293||treated with
+C0020674||therapeutic hypothermia
+C0020674||therapeutic hypothermia
+C0035168||research
+C0021709||neonatal intensive care unit
+C0021709||neonatal intensive care unit
+C0028661||nurse
+C0020672||hypothermic
+C0021709||neonatal intensive care unit
+C0028661||nurse
+C0004271||attitudes
+C0020674||therapeutic hypothermia
+C0030971||perceptions
+C0030193||pain
+C0344106||sedation
+C0028661||nurse
+C0011109||decision making
+C0020674||therapeutic hypothermia
+C0018762||survey
+C0028661||nurses
+C0021709||NICUs
+C1706817||responses
+C0028661||nurses
+C1706817||responses
+C1706817||response
+C0020029||urban
+C0020023||rural institutions
+C0021709||neonatal intensive care unit
+C0028661||nurses
+C0020674||therapeutic hypothermia
+C0020674||therapeutic hypothermia
+C0020674||therapeutic hypothermia
+C0028661||Nurses
+C0020029||urban institution
+C0087111||treatment
+C0030193||pain
+C0344106||sedation
+C0028661||nurses
+C0028661||nurse
+C0020674||therapeutic hypothermia
+C0011109||decision making
+C0020674||therapeutic hypothermia
+C0021709||neonatal intensive care unit
+C0028661||nurses
+C0087111||treatment
+C0020674||therapeutic hypothermia
+C0020674||therapeutic hypothermia
+C0035168||Research
+C0020674||TH treatment

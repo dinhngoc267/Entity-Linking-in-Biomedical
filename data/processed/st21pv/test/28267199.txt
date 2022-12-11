@@ -1,0 +1,41 @@
+C1408354||non-breast cancer-specific death
+C0006142||breast cancer
+C1408354||non-breast cancer-specific death
+C1408354||non-breast cancer-specific death
+C0006142||breast cancer
+C0043210||Women
+C0006142||breast cancer
+C0242638||Surveillance, Epidemiology, and End Results database
+C0936012||analyzed
+C0006142||breast cancer
+C1408354||non-breast cancer-specific death
+C0206031||Binary logistics
+C1408354||non-breast cancer-specific death
+C0282574||Gray method
+C1408354||non-breast cancer-specific death
+C1408354||non-BCSDs
+C0007465||causes of death
+C3272897||stacked
+C0681493||function plots
+C1408354||non-breast cancer-specific death
+C0010235||Models of Cox proportional hazards regression
+C0034980||competing risk regression
+C3161035||suitable model
+C1408354||non-BCSDs
+C0005680||black race
+C1408354||non-BCSDs
+C1562029||hormone receptor-positive (HoR+) status
+C1408354||non-breast cancer-specific death
+C0012634||grade 1, stage I disease
+C1562029||HoR+ status
+C1408354||non-breast cancer-specific death
+C0007465||causes of death
+C0010235||Cox proportional hazards model
+C0034980||competing risk model
+C1408354||non-breast cancer-specific death
+C0006142||breast cancer
+C0008976||clinical trial
+C1562029||hormone receptor-positive
+C0006142||breast cancer
+C1408354||non-breast cancer-specific death
+C0002455||American Cancer Society

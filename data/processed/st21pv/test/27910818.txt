@@ -1,0 +1,80 @@
+C0200760||Histomorphometric
+C3178810||transcriptome
+C0220825||evaluation
+C1321023||healing bone
+C0332293||treated with
+C0011429||human particulate dentin
+C0032861||powder
+C0011429||Human particulate dentin
+C0011429||Human particulate dentin
+C0005976||bone grafting
+C0181074||material
+C1321023||bone healing
+C1961139||grafting
+C0011429||Human particulate dentin
+C2603343||study
+C0017262||gene expression
+C0391978||bone tissues
+C0011429||Human particulate dentin
+C0011429||Human particulate dentin
+C4082130||prepared
+C0043301||X-ray diffraction
+C0043301||X-ray diffraction
+C2699997||energy dispersive x-ray spectroscopy
+C2699997||energy dispersive x-ray spectroscopy
+C0444626||crystal structure
+C0029224||organic compound
+C0018670||heads
+C0324547||New Zealand White rabbits
+C0011429||Human particulate dentin
+C0181074||grafting material
+C0029433||new bone formation
+C0220825||evaluated
+C2350281||micro-CT
+C0936012||analyses
+C0022885||microarray assay
+C0391978||bone tissue
+C0178913||blood samples
+C0456984||results
+C0043301||X-ray diffraction
+C2699997||energy dispersive x-ray spectroscopy
+C0011429||Human particulate dentin
+C0020326||hydroxyapatite
+C0029433||New bone formation
+C0011429||Human particulate dentin
+C0021107||implantation
+C0523207||hematoxylin and eosin staining
+C2350281||micro-CT
+C0011429||Human particulate dentin
+C0003062||animals
+C0302523||observation
+C1449575||Microarray analysis
+C1621270||vascular development
+C0017337||genes
+C0017262||expressed
+C0043240||healing
+C3839127||gene coding
+C3536785||IL-1 antagonist
+C1416402||IL1RN
+C0017262||expressed
+C0021469||inhibit
+C1155266||inflammatory response
+C1337092||CCL2 gene
+C1332424||BMP2
+C1419771||RUNX2
+C0017337||COL1A
+C1420369||OPN
+C0017262||expression
+C0041904||up-regulated
+C1337092||CCL2
+C1159974||osteoblastogenesis
+C0011429||Human particulate dentin
+C0043240||healing
+C0011429||Human particulate dentin
+C0005972||bone regeneration
+C0332509||augmentation
+C0456984||results
+C0011429||Human particulate dentin
+C0005976||bone graft
+C0262950||bone
+C2004454||healing process

@@ -1,25 +1,50 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "--base_model_name",
+        "nlpie/bio-distilbert-uncased",
+        "--umls_dir_path",
+        "./data/raw/UMLs",
+        "--st21pv_dir_path",
+        "./data/raw/ST21pv",
+        "--ab3p_output_file_path",
+        "./data/processed/Ab3P_output.txt",
+        "--output_dir",
+        "./models",
+        "--st21pv_corpus_IOB2_format_dir_path",
+        "data/processed/ST21pv_IOB2_formmat.txt",
+        "--all_entity_description_tokens_path",
+        "models/all_entity_description_tokens_dict.txt",
+        "--training_sentences_tokens_path",
+        "data/processed/training_sentences_tokens.txt"
+      ]
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Skyon/Máy tính/Entity-Linking-in-Biomedical",
+      "program": "c:/Users/Skyon/Máy tính/Entity-Linking-in-Biomedical/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
         {
-            "name": "Python: Current File",
-            "type": "python",
-            "request": "launch",
-            "program": "${file}",
-            "console": "integratedTerminal",
-            "justMyCode": true,
-            "args": ["--base_model_name","nlpie/bio-distilbert-uncased", 
-                     "--umls_dir_path", "./data/raw/UMLs",
-                     "--st21pv_dir_path","./data/raw/ST21pv",
-                     "--ab3p_output_file_path", "./data/processed/Ab3P_output.txt",
-                     "--output_dir", "./models",
-                     "--st21pv_corpus_IOB2_format_dir_path", "data/processed/ST21pv_IOB2_formmat.txt",
-                     "--all_entity_description_tokens_path", "models/all_entity_description_tokens_dict.txt",
-                     "--training_sentences_tokens_path", "data/processed/training_sentences_tokens.txt"
-        ]
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
         }
-    ]
+      ]
+    }
+  ]
 }

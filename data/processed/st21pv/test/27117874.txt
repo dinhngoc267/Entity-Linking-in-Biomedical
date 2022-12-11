@@ -1,0 +1,27 @@
+C0206035||Randomized Controlled Noninferiority Trial
+C0004096||Asthma
+C1696465||placebo
+C0542339||inferior
+C0581124||mild
+C0581125||moderate
+C0349790||asthma exacerbations
+C1706712||additional treatment
+C3266628||persistent
+C0004096||asthma
+C0034656||randomized
+C1696465||placebo
+C0178941||follow-up telephone interview
+C0011777||dexamethasone
+C0032952||prednisone
+C0178941||telephone follow-up
+C0011777||dexamethasone
+C0019993||hospitalization
+C1512346||visit
+C0011777||dexamethasone
+C0032952||prednisone
+C0032952||prednisone
+C0581124||mild
+C0581125||moderate
+C0349790||asthma exacerbations
+C3714738||compliance
+C0011777||dexamethasone

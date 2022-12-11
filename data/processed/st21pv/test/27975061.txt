@@ -1,0 +1,28 @@
+C0038409||Streptococcus mutans
+C0078814||Zirconia
+C0078814||Zirconia
+C0011438||dentistry
+C0016542||foreign bodies
+C0441587||inserted
+C0004611||bacteria
+C0226896||oral cavity
+C4313424||surface roughness
+C1325881||biofilm formation
+C0038409||Streptococcus mutans
+C0038409||Streptococcus mutans
+C0078814||zirconia
+C0242849||Atomic force microscopy
+C0078814||zirconia
+C0205148||surface
+C0038409||Streptococcus mutans
+C0078814||zirconia
+C4313424||surface roughness
+C0205143||contact angles
+C4313424||surface roughness
+C0038409||Streptococcus mutans
+C0078814||zirconia
+C0081786||biofilm
+C4313424||surface roughness
+C0078814||zirconia
+C0038409||Streptococcus mutans
+C1325881||biofilm formation

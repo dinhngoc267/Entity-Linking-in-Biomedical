@@ -1,0 +1,62 @@
+C0243095||Anti-inflammatory
+C1006436||Elaeagnus angustifolia
+C0772257||fruit extract
+C0034693||rat
+C0687080||paw
+C0013604||edema
+C1006436||Elaeagnus angustifolia
+C0016767||fruit
+C0022065||Iranian
+C2240391||herbal medicine
+C0011991||diarrhea
+C0003873||rheumatoid arthritis
+C1006436||E. angustifolia
+C0772257||fruit extract
+C0949307||formalin
+C0034693||rat
+C0687080||paw
+C0013604||edema
+C0332128||examined
+C0243095||anti-inflammatory effects
+C1006436||E. angustifolia
+C0772257||fruit extract
+C0949307||formalin
+C0034693||rat's
+C0687080||paw
+C0442120||intraperitoneally
+C0772257||hydroalcoholic fruit extracts
+C1006436||E. angustifolia
+C0037549||sodium salicylate
+C0037549||sodium salicylate
+C0790233||distilled water
+C1446409||positive
+C0205160||negative
+C0037549||sodium salicylate
+C0772257||fruit extracts
+C0013604||edema
+C0025080||mercury plethysmometer
+C0175720||digital caliper
+C0243095||anti-inflammatory
+C2603343||study
+C0205160||negative
+C0037549||sodium salicylate
+C2603343||study
+C1006436||E. angustifolia
+C0687080||paw
+C0013604||edema
+C0021368||inflammation
+C0175720||digital caliper
+C0025080||mercury plethysmometer
+C0022885||Phytochemical tests
+C0772257||hydroalcoholic fruit extract
+C1006436||E. angustifolia
+C1446409||positive
+C0007158||cardiac glycosides
+C0596577||flavonoids
+C0039561||terpenoids
+C0036189||saponins
+C0243095||findings
+C1006436||E. angustifolia
+C0772257||fruit extract
+C0243095||anti-inflammatory
+C0016419||folk medicine

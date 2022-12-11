@@ -1,0 +1,27 @@
+C0162969||Chitosan
+C0032509||poly(2-hydroxyethyl methacrylate)
+C0013161||core-shell microgels
+C0085104||drug delivery carriers
+C0036079||salicylic acid
+C0162969||chitosan
+C0032509||poly(2-hydroxyethyl methacrylate)
+C0162969||CS
+C0032509||PHEMA
+C0013161||core-shell microgels
+C0085104||drug delivery carriers
+C0162969||CS
+C0032509||PHEMA
+C0013161||microgels
+C0067314||N,N '-methylenebisacrylamide
+C0067314||'-methylenebisacrylamide
+C0029224||crosslinker
+C0013175||study on drug loading
+C0036079||salicylic acid
+C0036079||salicylic acid
+C1254351||model drug
+C1254351||drug
+C0067314||'-methylenebisacrylamide
+C0037494||NaCl
+C0162969||CS
+C0032509||PHEMA
+C1135768||sustained release delivery device

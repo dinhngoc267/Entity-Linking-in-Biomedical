@@ -1,0 +1,22 @@
+C0002520||Amino Acids
+C1737934||Twisted Cucurbit[14]uril
+C1167622||Binding
+C0205103||between
+C1737934||twisted cucurbit[14]uril
+C1737934||(tQ[14])
+C0002520||amino acids
+C0002520||(AAs)
+C0877853||NMR spectroscopy
+C0006779||isothermal titration calorimetry
+C0006779||(ITC)
+C0043047||aqueous
+C0020259||HCl solutions
+C0012403||DMSO
+C1737934||tQ[14]
+C1167622||binding
+C0002520||amino acids
+C0020245||aromatic ring
+C1167622||binding
+C0002520||amino acids
+C1167622||binding
+C0002520||amino acids

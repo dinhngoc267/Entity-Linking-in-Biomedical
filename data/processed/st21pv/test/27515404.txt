@@ -1,0 +1,55 @@
+C0033137||primary health care
+C0041400||Turkey
+C0030672||health service utilization
+C0033137||primary health care
+C0033137||primary health care
+C0018696||health systems
+C0454664||countries
+C1293116||stepwise introduction
+C0015607||family medicine
+C1514578||provinces
+C0041400||Turkey
+C0454664||country
+C0033137||primary health care
+C0681814||natural experiment
+C0015607||family medicine
+C0030672||health service utilization
+C0018696||health system
+C0015607||family medicine
+C0023981||longitudinal
+C0035168||province-level data
+C0033137||primary
+C3494402||secondary care
+C0018747||services
+C0038951||annual Life Satisfaction Surveys
+C0033137||primary
+C3494402||secondary
+C0020022||public
+C0033173||private
+C0018747||health services
+C0017446||rural/urban settings
+C0033137||primary health care
+C0009818||consultations
+C0027361||person
+C0015607||family medicine
+C1293116||introduction
+C0033137||primary health care
+C0009818||consultations
+C0027361||person
+C0033137||primary health care
+C3494402||secondary care
+C0009818||consultations
+C0015607||family medicine
+C1293116||introduction
+C0033137||primary health care
+C3494402||secondary care
+C0009818||consultations
+C0027361||person
+C0033137||primary health care
+C1514583||proximity
+C0700287||Reporting
+C0031831||physician
+C0033137||primary health care
+C0017446||settings
+C1331016||low-income
+C1257890||populations

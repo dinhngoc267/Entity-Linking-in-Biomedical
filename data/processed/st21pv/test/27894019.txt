@@ -1,0 +1,50 @@
+C1154988||defense mechanism
+C0920736||Antarctic
+C0032699||sponges
+C0870883||secondary metabolite
+C0870883||erebusinone
+C0870883||Ereb
+C0920736||Antarctic
+C4102027||sea sponge
+C4102027||Isodictya erinacea
+C0870883||Ereb
+C0282576||molting
+C0003903||arthropod species
+C3780008||Orchomene plebs
+C0078610||Xanthurenic acid
+C0078610||Xanthurenic acid
+C0003903||arthropods
+C0078610||Xanthurenic acid
+C0282576||molting
+C1167622||binding
+C0010762||P450 enzymes
+C0010762||CYP315a1
+C0010762||CYP314a1
+C0019932||molt-inducing hormone
+C0013495||20-hydroxyecdysone
+C0013495||20-hydroxyecdysone
+C0444626||crystal structures
+C0430027||biochemical assays
+C0010762||CYP315a1
+C0010762||CYP314a1
+C0936012||exploration
+C0078610||Xanthurenic acid
+C0870883||Ereb's
+C0282576||molt
+C1516769||computational techniques
+C1512489||homology modeling
+C1149343||binding site
+C1140694||bioinformatics
+C1522290||flexible receptor-flexible ligand docking
+C0002045||Born surface area calculations
+C0010762||P450s
+C0243077||inhibitors
+C0870883||Ereb
+C0078610||Xanthurenic acid
+C0870883||Ereb
+C0010762||CYP315a1
+C1149343||binding site
+C0078610||Xanthurenic acid
+C0010762||CYP315a1
+C0010762||CYP314a1
+C0022023||charged nature

@@ -1,0 +1,67 @@
+C0042196||vaccination
+C4277607||immunogenicity
+C1691781||reactogenicity
+C2348563||study protocol
+C0237401||individual
+C0679646||participant
+C0920317||meta-analysis
+C0206035||randomised controlled trials
+C0012634||Disease
+C0009450||infectious
+C1290884||inflammatory diseases
+C0301872||immune responses
+C0042210||vaccines
+C0042742||viral vaccines
+C1704632||response
+C0020971||immunisation
+C0042210||vaccines
+C1533734||coadministration
+C0042210||vaccines
+C0301872||immune response
+C0042196||vaccination
+C0237401||Individual
+C0679646||participant
+C0920317||meta-analysis
+C0206035||randomised controlled trials
+C0042210||vaccines
+C0206035||randomised controlled trials
+C0042210||accines
+C0012546||diphtheria
+C0039614||tetanus
+C0006017||Bordetella pertussis
+C0032371||polio
+C0121772||Haemophilus influenzae type B
+C0019163||hepatitis B
+C0038410||Streptococcus pneumoniae
+C0027575||Neisseria meningitidis
+C0025007||measles
+C0026780||mumps
+C0035920||rubella
+C0008049||varicella
+C0035870||rotavirus
+C0936012||analysis
+C4277607||immunogenicity
+C0021027||immunoglobulins
+C1691781||reactogenicity
+C0012634||disease
+C0008976||trials
+C0042210||vaccines
+C3161035||models
+C0042196||vaccinations
+C1955832||Systematic reviews
+C0008976||clinical trial
+C0700287||reporting
+C0023866||literature
+C0205391||widespread
+C0237401||individual
+C0679646||participant
+C0206035||randomised controlled trials
+C0237401||individual
+C0679646||participant
+C0920317||meta-analyses
+C0243095||impossible
+C0034036||publication
+C0700287||reporting
+C0162340||understanding
+C0301872||immune response
+C0282443||review

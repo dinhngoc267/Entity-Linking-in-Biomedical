@@ -1,0 +1,13 @@
+C0064449||kynurenine 3-monooxygenase
+C0014432||inhibitors
+C0087111||treatment
+C0001339||acute pancreatitis
+C0064449||kynurenine monooxygenase
+C0014432||inhibitors
+C0449445||approach
+C0087111||treatment
+C0001339||acute pancreatitis
+C1706082||compound
+C0007634||cellular
+C0851347||pharmacodynamic
+C1515655||in vivo

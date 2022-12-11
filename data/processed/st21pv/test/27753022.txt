@@ -1,0 +1,43 @@
+C0033053||Prenatal Diagnosis
+C0033053||Non-Invasive Prenatal Diagnosis
+C0022877||National Health Service Laboratory
+C0012634||Disorders
+C0022877||UK National Health Service regional genetics laboratory
+C0033053||Non-Invasive Prenatal Diagnosis
+C0443147||autosomal dominant
+C0001080||achondroplasia
+C0039743||thanataphoric dysplasia
+C0001193||Apert syndrome
+C0026882||mutation
+C0010674||cystic fibrosis
+C0033053||Non-Invasive Prenatal Diagnosis
+C0035648||risks
+C0430022||invasive testing
+C0033053||prenatal diagnosis
+C0011900||diagnosis
+C0265388||autosomal recessive diseases
+C0596988||mutant
+C0002085||allele
+C4289789||cell-free DNA
+C0449445||approaches
+C1519941||Validation
+C0033053||Non-Invasive Prenatal Diagnosis
+C0001627||congenital adrenal hyperplasia
+C0001627||congenital adrenal hyperplasia
+C0150312||presence
+C0033799||pseudogene
+C0449445||approach
+C0005507||assay
+C0752046||SNPs
+C1413861||CAH gene
+C1413861||CYP21A2
+C0332167||high-risk
+C0449445||approach
+C0002085||alleles
+C0033053||Non-Invasive Prenatal Diagnosis
+C0015965||fetal
+C0026882||mutations
+C0033053||Non-Invasive Prenatal Diagnosis
+C0022885||multi-disorder panel
+C0265388||autosomal recessive disease
+C0019247||genetic conditions

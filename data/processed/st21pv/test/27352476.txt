@@ -1,0 +1,22 @@
+C0678594||structural
+C0029162||oral health
+C0011365||dental
+C0010478||curricula
+C0036376||health professional schools
+C0029162||oral health
+C0036376||dental schools
+C0011365||dental
+C0010478||curricula
+C0029162||oral health
+C0010478||professional curricula
+C0013622||education
+C0035168||research
+C0029162||oral health
+C0036376||dental schools
+C0376649||address
+C0029162||oral health
+C0011365||dental
+C0010478||curricula
+C0678594||structural
+C2607850||institutions
+C0588053||graduates

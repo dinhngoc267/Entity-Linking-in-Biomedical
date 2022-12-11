@@ -1,0 +1,32 @@
+C0031485||phenylketonuria
+C0333497||focal segmental glomerulosclerosis
+C0033687||proteinuria
+C0031485||Phenylketonuria
+C0031485||Phenylketonuria
+C0002514||inborn error of amino acid metabolism
+C0031456||Phenylalanine hydroxylase
+C0014442||enzyme
+C0332155||untreated
+C0878787||growth failure
+C0025958||microcephaly
+C0557874||global developmental delay
+C0036572||seizures
+C0031485||Phenylketonuria
+C0033684||protein
+C0019868||homeostasis
+C0027726||nephrotic syndrome
+C0033687||proteinuria
+C0333497||Focal segmental glomerulosclerosis
+C0333497||Focal segmental glomerulosclerosis
+C0150312||presented
+C1850534||generalized edema
+C0557874||global developmental delay
+C1261322||Investigations
+C0031485||Phenylketonuria
+C0333497||Focal segmental glomerulosclerosis
+C3501848||congenital nephrosis
+C0184511||ameliorated
+C0031485||Phenylketonuria
+C0018271||growth and development
+C0031485||Phenylketonuria
+C0333497||Focal segmental glomerulosclerosis

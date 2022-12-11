@@ -1,0 +1,12 @@
+C0936012||Analysis
+C0205125||depths
+C0871648||organic-rich anaerobic sedimentary habitats
+C0871648||ultraoligotrophic aerobic sedimentary habitats
+C0014406||environment
+C1552723||historical background
+C0243095||tracing
+C0025663||methods
+C0243095||detecting
+C0025952||molecular microbiology
+C0243095||detecting
+C0025519||metabolic activity

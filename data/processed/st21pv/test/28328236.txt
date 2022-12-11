@@ -1,0 +1,24 @@
+C0087111||Treated
+C1263846||Attention-Deficit/Hyperactivity Disorder
+C0041703||United States
+C0087111||treated
+C1263846||attention-deficit/hyperactivity disorder
+C1263846||attention-deficit/hyperactivity disorder
+C0041703||United States
+C0332128||examine
+C0021682||Medicaid insurance
+C0205127||longitudinal
+C0150098||administrative datasets
+C0013227||drug
+C0237401||individuals
+C0021682||Medicaid insurance
+C0242356||Truven Health MarketScan(®) Administrative Claims Databases
+C0087111||Treated
+C1263846||attention-deficit/hyperactivity disorder
+C0080105||Subjects
+C0087111||treated
+C1263846||attention-deficit/hyperactivity disorder
+C0021682||Medicaid
+C0087111||Treated
+C1263846||attention-deficit/hyperactivity disorder
+C0021682||Medicaid sample

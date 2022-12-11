@@ -1,0 +1,54 @@
+C1411976||Toll-Like Receptor 4
+C0086418||Human
+C0026473||Monocyte
+C1515021||Subsets
+C0018787||Coronary
+C0332461||Plaque
+C3179130||64-Slice Multidetector Computed Tomography
+C1411976||Toll-like receptor 4
+C1411976||Toll-like receptor 4
+C1155075||monocyte activation
+C0004153||atherosclerosis
+C1411976||Toll-like receptor 4
+C0026473||monocyte
+C0018787||coronary
+C0332461||plaque
+C0220825||evaluated
+C3179130||64-slice multidetector computed tomography
+C3179130||multidetector computed tomography
+C0340288||stable angina pectoris
+C0340288||stable angina pectoris
+C0340288||stable angina pectoris
+C3179130||multidetector computed tomography
+C0026473||monocyte
+C1515021||subsets
+C0026473||CD14(++)CD16(-)
+C0026473||CD14(++)CD16(+)
+C0026473||CD14(+)CD16(+)
+C1411976||Toll-like receptor 4
+C0016263||flow cytometry
+C0018787||Intracoronary
+C0332461||plaques
+C3179130||64-slice MDCT
+C0018787||intracoronary
+C0332461||plaques
+C3854505||positive remodeling
+C0243095||remodeling index
+C0040405||CT
+C0026473||CD14(++)CD16(+)monocytes
+C1411976||Toll-like receptor 4
+C0026473||CD14(++)CD16(-)
+C0026473||CD14(+)CD16(+)monocytes
+C1411976||Toll-like receptor 4
+C0026473||CD14(++)CD16(+)monocytes
+C0332461||vulnerable plaque
+C1411976||Toll-like receptor 4
+C0026473||CD14(++)CD16(+)monocytes
+C0243095||remodeling index
+C0040405||CT
+C0949479||Upregulation
+C1411976||Toll-like receptor 4
+C0026473||CD14(++)CD16(+)monocytes
+C0018787||coronary
+C0332461||plaque
+C0340288||stable angina pectoris

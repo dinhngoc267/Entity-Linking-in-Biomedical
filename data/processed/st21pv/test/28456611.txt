@@ -1,0 +1,53 @@
+C0432487||Post-transplant lymphoproliferative disease
+C2063401||lung transplant recipients
+C0010674||cystic fibrosis
+C0432487||Post-transplant lymphoproliferative disease
+C0432487||Post-transplant lymphoproliferative disease
+C0024128||lung transplantation
+C0010674||cystic fibrosis
+C0010674||cystic fibrosis
+C0432487||Post-transplant lymphoproliferative disease
+C0023866||literature
+C0599755||single center cohorts
+C0432487||Post-transplant lymphoproliferative disease
+C0024128||lung transplant
+C1257890||population
+C0282574||International Society for Heart and Lung Transplantation Registry
+C2603343||studied
+C1709854||recipients
+C0024128||lung transplants
+C0432487||Post-transplant lymphoproliferative disease
+C0040732||transplant
+C0014644||Epstein-Barr virus
+C0014644||Epstein-Barr virus
+C0010825||cytomegalovirus
+C0010825||cytomegalovirus
+C1300950||serostatus
+C0010235||multivariable Cox proportional hazard models
+C0599755||cohort
+C0011900||diagnosis
+C0010674||cystic fibrosis
+C0432487||Post-transplant lymphoproliferative disease
+C0010674||cystic fibrosis
+C2063401||non-CF recipients
+C2063401||non-CF recipients
+C0010674||cystic fibrosis
+C0014644||Epstein-Barr virus
+C2919629||CMV seronegativity
+C0014644||Epstein-Barr virus
+C0010825||cytomegalovirus
+C0010674||cystic fibrosis
+C0432487||Post-transplant lymphoproliferative disease
+C0014644||Epstein-Barr virus
+C1513916||negative
+C2063401||non-CF recipients
+C0432487||Post-transplant lymphoproliferative disease
+C0014644||Epstein-Barr virus
+C0010674||cystic fibrosis
+C0010674||cystic fibrosis
+C0432487||Post-transplant lymphoproliferative disease
+C2063401||non-CF recipients
+C2603343||studies
+C0035648||risk factors
+C0035649||management
+C2063401||population post-transplant

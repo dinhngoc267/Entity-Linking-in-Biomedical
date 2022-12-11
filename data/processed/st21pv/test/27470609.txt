@@ -1,0 +1,87 @@
+C0087111||Treatment
+C0003873||Rheumatoid Arthritis
+C1281905||Risk
+C0002395||Alzheimer's Disease
+C0027775||Nested Case-Control Analysis
+C0021368||inflammation
+C0699748||pathogenesis
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0020962||immune
+C0017337||genes
+C0002395||Alzheimer's disease
+C1456820||tumor necrosis factor (TNF)-α
+C0079189||proinflammatory cytokine
+C0004364||autoimmune disorders
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0030660||pathological mechanisms
+C0003261||production
+C1456820||TNF-α,
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0281481||anti-TNF therapy
+C0003873||rheumatoid arthritis
+C1281905||risk
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0027775||nested case-control study
+C0041703||US states
+C0034044||Puerto Rico
+C0042752||US Virgin Islands
+C0242356||Verisk Health claims database
+C0599755||sub-cohort
+C0011900||diagnosis
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C0002395||Alzheimer's disease
+C0150103||matching
+C0086930||assessed relative risk
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0087111||therapies
+C1562242||anti-TNF agents
+C0666743||infliximab
+C1122087||adalimumab
+C0717758||etanercept
+C0025677||methotrexate
+C0032952||prednisone
+C0036078||sulfasalazine
+C0393022||rituximab
+C0010068||coronary artery disease
+C0011849||diabetes mellitus
+C0085096||peripheral vascular disease
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0003873||rheumatoid arthritis
+C4315615||Chronic conditions
+C0010068||coronary artery disease
+C0011847||diabetes
+C0085096||peripheral vascular disease
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C1562242||anti-TNF agents
+C0021081||immunosuppressive drugs
+C1281905||risk
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C1562242||anti-TNF agents
+C0717758||etanercept
+C1281905||risk
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C1281905||risk
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0002395||Alzheimer's disease
+C0003873||rheumatoid arthritis
+C0717758||etanercept
+C0281481||Anti-TNF therapy
+C0717758||etanercept
+C0087111||treatment
+C0002395||Alzheimer's disease

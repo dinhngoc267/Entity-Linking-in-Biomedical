@@ -1,0 +1,60 @@
+C3252265||Salvianolic Acids
+C1272883||Injection
+C1272883||Salvianolic Acids for Injection
+C1155266||inflammatory responses
+C0206116||microglia
+C0270611||brain damage
+C0917798||focal cerebral ischemia
+C0021368||Inflammatory reactions
+C0206116||microglia
+C0006104||brain
+C0007786||ischemia
+C3854511||reperfusion (I/R) cerebral injuries
+C0206116||Microglia
+C2247725||TLR4
+C1513838||NF-κB signal pathways
+C3252265||Salvianolic acids
+C1272883||injection
+C1272883||Salvianolic Acids for Injection
+C0948008||ischemic stroke
+C0700287||reported
+C2603343||studied
+C1272883||Salvianolic Acids for Injection
+C1155266||inflammatory responses
+C0023810||LPS
+C4075604||BV-2
+C0206116||microglia
+C1272883||Salvianolic Acids for Injection
+C1527144||therapeutic effect
+C0740391||Middle cerebral artery occlusion
+C0740391||Middle cerebral artery occlusion
+C0034721||rat
+C0012644||model
+C0557351||employed
+C1272883||Salvianolic Acids for Injection
+C0948008||ischemic stroke
+C0034721||Rats
+C1272883||Salvianolic Acids for Injection
+C1272883||Salvianolic Acids for Injection
+C0917798||I
+C3854511||R injury
+C1272883||Salvianolic Acids for Injection
+C0021368||neuroinflammation
+C0021308||infarction
+C0042444||vehicle
+C0206116||microglia cells
+C2247725||TLR4
+C1513838||NF-κB signals
+C1272883||Salvianolic Acids for Injection
+C0228174||hemisphere
+C1171362||expression
+C0680255||release
+C0079189||cytokines
+C0021753||IL-1β
+C0021760||IL-6
+C2603343||study
+C1272883||Salvianolic Acids for Injection
+C0006104||brain
+C0917798||cerebral ischemia
+C0021368||inflammation
+C0206116||microglia

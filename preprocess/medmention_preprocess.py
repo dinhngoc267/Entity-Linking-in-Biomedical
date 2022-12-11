@@ -4,13 +4,13 @@ import stanza
 import os
 import argparse
 
-def load_corpus_into_dictionary(corpus_file: str):
+def load_corpus_into_dictionary(corpus_file: str, input_ids: list):
     """
     input_file: string - file path of corpus
     """
     corpus = {}
     
-    with open(corpus_file, "r") as f:
+    with open(corpus_file, "r", encoding='utf-8') as f:
         data = f.read().split('\n\n')
 
     for item in data:
@@ -31,6 +31,9 @@ def load_corpus_into_dictionary(corpus_file: str):
                 entity_annotation = '\t'.join(line.split('\t')[1:4] + [line.split('\t')[5].split(':')[1]])
                 list_entity_annotations.append(entity_annotation)
         
+        if id not in input_ids:
+            continue
+
         if len(list_entity_annotations) > 0:
             text = title + '\n' + abstract + '\n'
             corpus[id] = text + '\n'.join(list_entity_annotations)
@@ -104,7 +107,7 @@ def load_Ab3P_output(file_path):
     return abbreviation_dict
 
 def load_Ab3P_output(Ab3P_output_file):
-    with open(Ab3P_output_file, "r") as f:
+    with open(Ab3P_output_file, "r", encoding='utf-8') as f:
         data = f.read().split('\n\n')
         abbreviation_dict = defaultdict(list)
 
@@ -189,10 +192,10 @@ def main(args):
         os.makedirs(output_dir)
 
     # read input_file
-    with open(input_file, "r") as f:
+    with open(input_file, "r", encoding='utf-8') as f:
         input_ids = f.read().split('\n')
 
-    corpus = load_corpus_into_dictionary(corpus_file=corpus_file)
+    corpus = load_corpus_into_dictionary(corpus_file=corpus_file, input_ids= input_ids)
     corpus = delete_overlapping_mentions(corpus=corpus)
 
     abbreviations_dict = load_Ab3P_output(ab3p_output_file)
@@ -268,7 +271,7 @@ def main(args):
             
             output_file = os.path.join(output_dir, "{}.context".format(id))
 
-            with open(output_file, "w") as f:
+            with open(output_file, "w", encoding='utf-8') as f:
                 for sent in buffer:
                     for word_tag in sent:
                         f.write('\t'.join(word_tag) + '\n')
@@ -277,7 +280,7 @@ def main(args):
 
     for id, doc in tqdm(corpus.items()):
         output_file = os.path.join(output_dir, "{}.txt".format(id))
-        with open(output_file, "w") as f:
+        with open(output_file, "w", encoding='utf-8') as f:
             lines = doc.split('\n')
 
             list_entity_annotations = lines[2:]
@@ -298,10 +301,10 @@ if __name__ == "__main__":
                     default="./data/raw/ST21pv/corpus_pubtator.txt",
                     help='path of corpus file')
     parser.add_argument('--input_file', type=str,
-                    default="./data/raw/ST21pv/corpus_pubtator_pmids_trng.txt",
+                    default="./data/raw/ST21pv/corpus_pubtator_pmids_test.txt",
                     help='path of input file (train/test)')                
     parser.add_argument('--output_dir', type=str,
-                    default="./data/processed/st21pv/train", 
+                    default="./data/processed/st21pv/test", 
                     help='path of output directionary')
     parser.add_argument('--ab3p_output_file', type=str,
                     default="./data/externel/st21pv/ab3p_output.txt", 

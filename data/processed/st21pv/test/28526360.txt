@@ -1,0 +1,29 @@
+C0038951||FLASHE Study
+C0038951||Survey
+C0679646||Participant
+C1513882||National Cancer Institute
+C0013470||Eating
+C0038951||Family Life, Activity, Sun, Health, and Eating
+C0038951||Study
+C0281206||cancer preventive
+C0038951||Family Life, Activity, Sun, Health, and Eating
+C0012155||diet
+C0281206||cancer preventive behaviors
+C0038951||FLASHE surveys
+C0282441||literature reviews
+C0009817||experts
+C0204471||cognitive testing
+C0010362||cross-sectional
+C2603343||web-based study
+C0038951||FLASHE surveys
+C0038951||Family Life, Activity, Sun, Health, and Eating
+C0442519||home environments
+C0038951||Family Life, Activity, Sun, Health, and Eating
+C0038951||Family Life, Activity, Sun, Health, and Eating
+C0027361||individuals
+C0281206||cancer preventive behaviors
+C0038951||Family Life, Activity, Sun, Health, and Eating
+C0035173||researchers
+C0017319||practitioners
+C0035168||research
+C0281206||cancer preventive

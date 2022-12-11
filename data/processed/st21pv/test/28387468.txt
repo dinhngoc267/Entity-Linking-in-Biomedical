@@ -1,0 +1,42 @@
+C1866959||Sella turcica bridging
+C0262444||dental anomalies
+C1866959||Sella turcica bridging
+C1866959||Sella turcica bridging
+C0006660||calcification
+C0023685||interclinoid ligament
+C0036609||sella turcica
+C0262444||dental anomalies
+C2749981||palatal canine
+C0040456||impaction
+C1319068||transposition
+C2603343||study
+C2749981||canine
+C0040456||impaction
+C0040457||hyperdontia
+C0020608||hypodontia
+C0036609||sellar
+C1866959||bridging
+C0205093||Lateral
+C0007723||cephalometric
+C1306645||radiographs
+C0040456||impacted
+C2749981||canines
+C0399352||dental agenesis
+C0040457||hyperdontia
+C0205132||Linear
+C0036609||sella turcica
+C0237401||individuals
+C0349674||standardize scoring scale
+C1866959||Sella turcica bridging
+C1306645||radiographs
+C0006660||calcifications
+C0036609||sella
+C0262444||dental anomalies
+C1866959||Sella turcica bridging
+C0205132||linear
+C0036609||sella
+C0036609||sellar
+C1866959||Sella turcica bridging
+C1306645||radiographs
+C1866959||Sella turcica bridging
+C0262444||dental abnormalities

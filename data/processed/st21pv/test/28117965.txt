@@ -1,0 +1,35 @@
+C0162713||Photosensitizer
+C0014792||Red Blood Cells
+C0085104||Ultra-Sensitive Light-Responsive Drug Delivery System
+C0014792||Red blood cells
+C0014792||Red blood cells
+C0007634||cells
+C0005767||blood
+C0162713||photosensitizer
+C0055367||chlorin e6
+C0055367||chlorin e6
+C0596901||membrane
+C0014792||Red blood cells
+C0596901||membrane
+C0074565||singlet oxygen
+C0055367||chlorin e6
+C0014792||RBC
+C0596901||membrane
+C0013089||doxorubicin
+C0013089||doxorubicin
+C3665472||chemotherapy
+C0013227||drug
+C3161035||model
+C0085104||light-responsive RBC-based DDS
+C0055367||chlorin e6
+C0007603||cell membrane
+C0013089||doxorubicin
+C0007634||cells
+C0007603||cell membrane
+C0013089||doxorubicin
+C3665472||light-controlled chemotherapy
+C0014792||RBC
+C0014442||enzymes
+C0085104||biocompatible cell-based DDS
+C0920425||cancer therapy
+C0005574||biotechnologies

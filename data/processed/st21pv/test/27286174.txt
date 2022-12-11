@@ -1,0 +1,40 @@
+C1519941||Validation
+C0022646||Kidney
+C3272315||Transplant Waiting List
+C0022671||kidney transplant
+C0011065||death
+C0420299||removal from the waiting list
+C0022671||kidney transplant
+C0524355||candidates
+C0022671||transplant
+C0034975||US Scientific Registry
+C2985505||retrospective cohort
+C0022671||kidney transplant
+C0035648||Predictors
+C1383165||blood type
+C1443182||calculated
+C1141951||panel-reactive antibodies
+C0411257||donation
+C0007403||service area
+C0011946||dialysis
+C1275743||comorbid conditions
+C1305855||body mass index
+C0348050||living donor
+C0022671||transplant
+C0011065||death
+C0420299||removal from the list
+C0420299||removal
+C0332149||possible
+C0031843||function
+C0524355||candidate
+C0012632||Discrimination
+C0018623||Cox proportional hazard model
+C0332149||possible
+C0524355||candidate's
+C0524355||candidate's
+C0411257||donation
+C0007403||service area
+C1708333||transplant center
+C0242456||policy
+C0022671||transplant
+C0524355||candidates

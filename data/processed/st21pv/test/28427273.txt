@@ -1,0 +1,50 @@
+C0005516||Markers
+C0010362||Cross-Sectional Study
+C0021368||inflammation
+C0028754||obese
+C0005516||markers
+C1257890||population
+C0086409||Spanish
+C0010362||cross-sectional study
+C0036375||schools
+C1711190||southeast
+C0037747||Spain
+C0034394||parental questionnaire
+C0021760||Interleukin-6
+C0021760||Interleukin-6
+C1456820||tumor necrosis factor-alpha
+C1456820||tumor necrosis factor-alpha
+C0014441||enzyme-linked immunosorbent assay
+C0006560||C-reactive protein
+C0006560||C-reactive protein
+C0020980||solid-phase chemiluminescent immunometric assay
+C0010101||correlation analyses
+C0005516||markers
+C0021368||inflammation
+C1273937||No significant
+C0021760||Interleukin-6
+C1456820||tumor necrosis factor-alpha
+C0006560||C-reactive protein
+C1285592||normal weight
+C0497406||overweight
+C0028754||obese
+C0021760||Interleukin-6
+C1285592||normal weight
+C0028754||obese
+C1273937||no significant
+C0150312||found
+C0005516||markers
+C0021368||inflammation
+C1305855||body mass index
+C1305855||body mass index
+C0150312||found
+C0332149||possible
+C0005516||markers
+C1305855||body mass index
+C0243095||finding
+C0028754||obesity
+C0006147||breastfeeding
+C0021368||inflammation
+C0162340||understanding
+C0006147||breastfeeding
+C0005516||markers

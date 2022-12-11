@@ -1,0 +1,83 @@
+C3827821||Protein-Extraction Methods
+C0751973||Proteome
+C0002778||Analysis
+C0010028||Maize
+C0242724||Leaf
+C2698828||Midrib
+C1514137||Compound Tissue
+C1514137||Sclerenchyma Cells
+C0242724||Leaf
+C0018271||growth and development
+C0010028||maize (Zea mays L.) plants
+C0043137||kernel
+C0010028||maize
+C0242724||leaf
+C2698828||midrib
+C0242724||leaf
+C1136056||aerial position
+C0242724||Leaf
+C2698828||midrib
+C0010028||plants
+C1514137||sclerenchyma cells
+C0023705||lignified
+C0918262||secondary walls
+C0359916||phenolics
+C3827821||protein extraction
+C0751973||proteome
+C0002778||analysis
+C0242724||leaf
+C2698828||midrib
+C3827821||protein-extraction methods
+C0032098||plant
+C0872252||proteomics
+C0070570||phenol
+C0684295||extraction
+C0040900||TCA
+C0001002||acetone
+C0684295||extraction
+C0040900||TCA
+C0001002||acetone
+C0070570||phenol
+C0684295||extraction
+C0037813||MS/MS analysis
+C2698828||midribs
+C0242724||leaves
+C0010028||maize plants
+C0026018||Microscopy
+C1514137||sclerenchyma
+C0010028||maize
+C2698828||midrib
+C0376608||epidermises
+C0376608||epidermises
+C0013860||2DE mapping
+C0070570||phenol
+C0684295||extraction
+C0040900||TCA
+C0001002||acetone
+C0684295||extraction
+C0040900||TCA
+C0001002||acetone
+C0070570||phenol
+C0684295||extraction
+C0037813||MS/MS analysis
+C0070570||phenol
+C0684295||extraction
+C0032089||proteins
+C0032089||protein
+C0013860||2DE maps
+C0010028||maize
+C0242724||leaf
+C2698828||midrib
+C0070570||phenol
+C0684295||extraction
+C0013860||2DE map
+C0040900||TCA
+C0001002||acetone
+C0684295||extraction
+C0032089||protein
+C3827821||protein extraction
+C3827821||protein extraction
+C0751973||proteome
+C0002778||analysis
+C1514137||plant tissues
+C1514137||sclerenchyma cells

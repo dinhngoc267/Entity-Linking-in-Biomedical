@@ -1,0 +1,61 @@
+C2936279||switching
+C0069751||oxcarbazepine
+C2725262||eslicarbazepine acetate
+C1518527||observational study
+C2936279||switch
+C1708470||immediate-release
+C0069751||oxcarbazepine
+C0069751||oxcarbazepine
+C2725262||eslicarbazepine acetate
+C2725262||eslicarbazepine acetate
+C0069751||oxcarbazepine
+C2725262||eslicarbazepine acetate
+C0035363||retrospective
+C2603343||single-center study
+C0013203||drug-resistant
+C0014547||focal epilepsy
+C1708470||immediate-release
+C0069751||oxcarbazepine
+C2936279||switched
+C2725262||eslicarbazepine acetate
+C2936279||switched
+C0036572||seizures
+C0069751||oxcarbazepine
+C1299582||unable
+C0069751||oxcarbazepine
+C0041755||adverse events
+C0282574||Adverse Events Profile
+C0282574||Adverse Events Profile
+C0282574||Quality of Life in Epilepsy Inventory 10
+C0282574||Quality of Life in Epilepsy Inventory 10
+C1443086||alertness
+C0037585||Test Battery for Attention Performance version 2.3
+C1261322||Assessments
+C2936279||switching
+C0069751||oxcarbazepine
+C2725262||eslicarbazepine acetate
+C0936012||analysis
+C0043210||women
+C0025266||men
+C0243095||mean age 36 years
+C2936279||switching
+C0069751||oxcarbazepine
+C2725262||eslicarbazepine acetate
+C0282574||Adverse Events Profile
+C0282574||Quality of Life in Epilepsy Inventory 10
+C1443086||alertness
+C0282574||Adverse Events Profile
+C0184511||improved
+C0282574||Quality of Life in Epilepsy Inventory 10
+C0184511||improved
+C1443086||alertness
+C0184511||improved
+C2603343||single-center study
+C2936279||switch
+C0069751||oxcarbazepine
+C2725262||eslicarbazepine acetate
+C0013203||drug-resistant
+C0014547||focal epilepsies
+C2825142||resulted
+C0041755||side effects
+C1443086||alertness

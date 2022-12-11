@@ -1,0 +1,27 @@
+C0017387||Engineering
+C0012933||ribosomal DNA
+C0008642||chromosome XII
+C0036025||Saccharomyces cerevisiae
+C0017387||megachunk integration
+C0017387||meiotic recombination-mediated assembly
+C0008642||chromosome
+C0036025||S. cerevisiae
+C0442726||detected
+C0017260||deletion
+C0035711||tRNA
+C0017337||genes
+C0017337||ectopic copy
+C0035711||single tRNA
+C0017337||gene
+C0017258||ribosomal gene cluster
+C0017258||rDNA
+C0017387||assembly process
+C0017258||rDNA
+C0017258||rDNA
+C0008633||chromosomal locations
+C0004793||sequences
+C0017258||rDNA
+C1705920||species
+C0243095||identity
+C0036024||Saccharomyces
+C1504647||Saccharomyces bayanus

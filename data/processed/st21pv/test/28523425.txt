@@ -1,0 +1,50 @@
+C0430797||electrocorticogram
+C1140618||upper extremity
+C0026649||movement
+C0086418||human
+C3495441||primary motor cortex
+C3495441||M1
+C1140618||upper extremity
+C0026649||movement
+C0600169||kinematics
+C0086418||human
+C0430797||electrocorticogram
+C0430797||electrocorticogram
+C0443264||modulate
+C1140618||upper extremity
+C0026649||movement
+C0033213||issue
+C0430797||electrocorticogram
+C0014544||epilepsy
+C0543467||surgery
+C0220825||evaluation
+C1140618||upper extremity
+C0026649||movements
+C0026649||movement
+C0429273||pincer grasp
+C0575546||shoulder flexion
+C0026649||movements
+C3495441||M1
+C2346753||amplitude
+C0205146||area
+C3495441||M1
+C0026649||movement
+C0026649||movement
+C3495441||M1
+C2346753||amplitude
+C0026649||movement
+C0243095||findings
+C1140618||upper extremity
+C0026649||movement
+C3495441||M1
+C0205132||linear
+C0026649||movement
+C3495441||M1
+C1442085||instructions
+C0026649||movement
+C0026649||movement
+C0037775||spatial distribution
+C0150312||presence
+C0026845||muscle
+C3495441||M1
+C0205146||area

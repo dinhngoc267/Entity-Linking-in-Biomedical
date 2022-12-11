@@ -1,0 +1,23 @@
+C0870071||Modeling
+C0019994||hospital
+C0681814||conjoint experiment
+C0018747||health service
+C0018017||objective
+C2603343||study
+C0681814||conjoint experiment
+C0679646||Participants
+C0679646||Participants
+C0449445||approach
+C0025106||staff
+C0025109||hospital staff
+C0936012||analysis
+C0679646||Actively engaged participants
+C3508152||engagement
+C0449445||approach
+C3508152||engagement
+C0025106||staff
+C0086388||care
+C2242882||immigrant backgrounds
+C0013658||less education
+C0018747||Health services
+C1514241||positive response

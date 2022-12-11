@@ -1,0 +1,49 @@
+C3830326||electrochemiluminescence
+C2936695||reduced graphene oxide
+C0389357||copper sulfide
+C0201699||capillary electrophoresis
+C1148554||determination
+C0354468||amlodipine besylate
+C0025929||mice
+C0032105||plasma
+C3830326||electrochemiluminescence
+C3830326||electrochemiluminescence
+C2936695||reduced graphene oxide
+C0389357||copper sulfide
+C2936695||rGO
+C0389357||CuS
+C0201699||capillary electrophoresis
+C0201699||capillary electrophoresis
+C1511790||detection
+C0354468||amlodipine besylate
+C0354468||amlodipine besylate
+C2936695||rGO
+C0389357||CuS
+C0013812||electrode
+C3840684||modification
+C2350499||electrochemical
+C3830326||electrochemiluminescence
+C3830326||electrochemiluminescence
+C2936695||rGO
+C0389357||CuS
+C0456984||results
+C2936695||rGO
+C0389357||CuS
+C0013812||electrode
+C0205148||surface
+C0205099||center
+C1704241||Ru(bpy)3(2+)
+C0013812||electrode
+C3830326||electrochemiluminescence
+C0201699||capillary electrophoresis
+C0201699||capillary electrophoresis
+C3830326||electrochemiluminescence
+C0449381||parameters
+C1511790||detection
+C0354468||amlodipine besylate
+C0871511||method
+C0354468||amlodipine besylate
+C0025929||mice
+C0032105||plasma
+C0456984||result
+C0936012||pharmaceutical analysis

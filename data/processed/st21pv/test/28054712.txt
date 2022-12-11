@@ -1,0 +1,45 @@
+C0038492||students
+C1263846||attention/deficit hyperactivity disorder
+C0038492||Students
+C1263846||attention/deficit hyperactivity disorder
+C1263846||attention/deficit hyperactivity disorder
+C0679739||peers
+C0013658||education attainment
+C0038492||students
+C1263846||attention/deficit hyperactivity disorder
+C0243095||low school engagement
+C0679646||Participants
+C0599395||high school
+C1704656||diagnosed
+C1263846||attention/deficit hyperactivity disorder
+C0679646||Participants
+C0030755||paediatric
+C0010362||Cross-sectional study
+C0220825||assessment
+C0221457||teacher
+C0038951||surveys
+C0036375||school
+C0009240||cognitive
+C0013987||emotional
+C0034980||Multivariable regression analyses
+C0038492||student
+C0038492||students
+C1263846||attention/deficit hyperactivity disorder
+C0599395||high school
+C0679739||peers
+C0004271||attitudes
+C0243095||high rates of suspension
+C0004271||attitudes
+C0011570||depression
+C0038842||supervision
+C0564495||devaluing
+C0424295||hyperactivity
+C0243095||increased likelihood of being suspended
+C0392334||cognitive ability
+C0036375||schools
+C0237401||individual
+C0011570||depression
+C0233514||behavioural problems
+C0038842||supervision
+C0038492||students
+C1263846||attention/deficit hyperactivity disorder

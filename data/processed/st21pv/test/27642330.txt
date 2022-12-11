@@ -1,0 +1,47 @@
+C0279516||Antibacterial
+C0962453||Polyaniline
+C0037125||Silver
+C3643364||Piper Betle Leaves Extract
+C0032098||Plants
+C2603343||study
+C0962453||polyaniline
+C0037125||silver
+C3643364||Piper betle leaves extract
+C0279516||antibacterial
+C0037125||Silver
+C0037129||silver nitrate
+C0074728||NaBH4
+C0376446||reducing agent
+C0037125||Silver
+C0032081||extracts
+C0962453||polyaniline
+C0037812||Ultraviolet-visible spectroscopy
+C0037812||Ultraviolet-visible spectroscopy
+C0206055||Fourier transform infrared Spectroscopy
+C0206055||Fourier transform infrared Spectroscopy
+C0678118||Transmission Electron Microscopy (TEM) techniques
+C0279516||Antibacterial
+C0037125||silver
+C0038172||Staphylococcus aureus ATCC 25923
+C0036125||Salmonella typhi ATCC 14028
+C0014834||Escherichia coli ATCC 25922
+C0033809||Pseudomonas aeruginosa ATCC 27853
+C0037812||UV-Vis spectrum
+C0206055||Fourier transform infrared Spectroscopy
+C0587081||results
+C3643364||P. betle
+C0678118||Transmission Electron Microscopy
+C0332624||dispersed
+C0332501||spherical structures
+C0038172||S. aureus
+C0028365||norfloxacin
+C0038172||S. aureus
+C1710706||maximum zone
+C0036125||S. typhi
+C0014834||E. coli
+C0033809||P. aeruginosa
+C2603343||study
+C0086418||human
+C0008972||further studies
+C1136254||antimicrobial
+C0872152||drug development program

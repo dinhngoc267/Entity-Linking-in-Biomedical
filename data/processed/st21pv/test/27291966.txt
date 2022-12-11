@@ -1,0 +1,57 @@
+C1870887||Neutrophil gelatinase-associated lipocalin
+C0599779||rat model
+C0001407||adenine
+C0160420||kidney injury
+C1870887||NGAL
+C0005516||biomarkers
+C0041349||renal tubulointerstitial insult
+C0001407||adenine
+C1870887||NGAL
+C0005516||biomarker
+C2609414||acute kidney injury
+C0238304||chronic interstitial disease
+C1870887||NGAL
+C0599779||adenine model
+C2348561||Study group
+C0034693||rats
+C0001407||adenine
+C0012155||diet
+C0034693||rats
+C0178913||Blood
+C1610733||urine samples
+C0041942||urea
+C0010294||creatinine
+C1870887||NGAL
+C0034693||rat
+C0008972||study
+C0022646||Kidney
+C0034693||rats
+C0487602||stained
+C0523207||Hematoxylin-eosin
+C0523207||Hematoxylin-eosin
+C0005186||β-actin
+C0487602||stainings
+C2945624||Serum urea
+C0201975||creatinine
+C1870887||NGAL
+C0041349||Tubulointerstitial
+C0001407||adenine
+C0034693||rats
+C0034693||rats
+C0001407||adenine
+C2945624||serum urea
+C1318439||creatinine
+C1870887||NGAL
+C1336825||triphasic pattern
+C0160420||kidney injury
+C0001407||adenine
+C0012155||diet
+C2004454||recovery
+C1561643||chronic kidney disease
+C0232804||renal function
+C1870887||NGAL
+C0005516||biomarker
+C2609414||acute kidney injury
+C1561643||chronic kidney disease
+C0041349||tubulointerstitial
+C0599779||rat model

@@ -1,0 +1,48 @@
+C0549113||Aortic Root
+C0729662||Root-Sparing Ascending Replacement
+C2677304||Nonsyndromic
+C0040300||aortic tissue
+C0444498||in situ
+C0729662||root-sparing ascending aortic replacement
+C0549113||root
+C0035110||reoperation
+C0392752||localized
+C0340643||dissections
+C3203359||rupture
+C0549113||root
+C0018270||natural growth
+C0549113||aortic root
+C0729662||root-sparing aortic replacement
+C0025266||male
+C0729662||root-sparing aortic replacement
+C0549113||aortic root
+C1522577||follow-up
+C0079595||imaging
+C0040405||computed tomography
+C0013516||echocardiography
+C0003506||aortic valve replacement
+C0549113||root
+C2711450||enlargement
+C0549113||root
+C0549113||aortic root
+C0729662||root-sparing aortic replacement
+C0225914||aortic regions
+C1298820||root aneurysm
+C0035110||reoperation
+C1517001||expected
+C0035110||reoperation
+C1720302||until
+C2828386||have passed
+C0003506||aortic valve replacement
+C1866956||root dilation
+C2677304||nonsyndromic
+C0549113||aortic root
+C0018270||growing
+C0449719||portion
+C1522460||thoracic aorta
+C0549113||root
+C0729662||root-sparing ascending aortic replacement
+C0449445||safe approach
+C0549113||secondary root
+C0184661||intervention
+C0549113||aortic root

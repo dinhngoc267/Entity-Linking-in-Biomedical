@@ -1,0 +1,51 @@
+C0035648||Risk Factors
+C1536136||Neurological Deterioration
+C0007785||Cerebral Infarction
+C2711237||Large-Artery Atherosclerosis
+C0948008||ischemic stroke
+C1536136||neurological deterioration
+C1536136||neurological deterioration
+C2711237||large-artery atherosclerosis
+C2711237||large-artery atherosclerosis
+C0237726||medical treatments
+C1536136||neurological deterioration
+C1536136||neurological deterioration
+C2711237||large-artery atherosclerosis
+C2603343||studied
+C2711237||large-artery atherosclerosis
+C0184666||admitted to our hospital
+C0234985||deterioration
+C0220825||evaluated
+C0025102||medical records
+C0035648||risk factors
+C0243095||findings
+C1514241||positive
+C0221198||lesion
+C2348561||study population
+C0683278||suffer
+C0234985||deterioration
+C0005823||blood pressure
+C0005823||blood pressure
+C0018810||heart rate
+C4269147||National Institutes of Health Stroke Scale (NIHSS) score
+C1514241||positive
+C0221198||lesion
+C0014772||count of red blood cell
+C0023821||high-density lipoprotein
+C0871470||systolic BP
+C1536136||neurological deterioration
+C0598801||diffusion-weighted image
+C0598801||diffusion-weighted image
+C1514241||positive
+C0221198||lesion
+C4269147||NIHSS score
+C1536136||neurological deterioration
+C0020538||High BP
+C0521654||neurological deficit
+C0243095||findings
+C0598801||diffusion-weighted image
+C1514241||positive
+C0221198||lesion
+C0243095||independently
+C1536136||neurological deterioration
+C2711237||large-artery atherosclerosis

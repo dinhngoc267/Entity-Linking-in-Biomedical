@@ -1,0 +1,52 @@
+C0015392||Eyes
+C0015392||Eye
+C2729169||Wrinkles
+C0019944||Horse's
+C0935620||Emotional State
+C0935620||emotional states
+C0019944||horses
+C0015392||eye
+C2729169||wrinkles
+C1140999||contraction
+C0015420||inner eyebrow
+C0558058||reflects
+C0849912||emotional valence
+C0019944||horses
+C1446409||positive
+C0205160||negative
+C1446409||positive
+C0205160||negative
+C0935620||emotional states
+C1446409||positive
+C0013987||emotions
+C0205160||negative
+C0013987||emotions
+C0015392||eye
+C2729169||wrinkle
+C0019944||horses
+C1446409||positive
+C0205160||negative
+C0016452||food
+C0015392||eyes
+C0019944||horse
+C0150108||blind
+C0015426||eyelid
+C0332479||shape
+C2729169||wrinkles
+C0150312||presence
+C0036410||eye white
+C2729169||wrinkles
+C0205143||angle
+C0015392||eyeball
+C2729169||wrinkle
+C0205143||angle
+C0016452||food
+C0442726||detected
+C0015392||eye
+C2729169||wrinkle
+C0019944||horses
+C0015392||eye
+C2729169||wrinkle
+C0359589||provide
+C0019944||horse
+C1519941||validation

@@ -1,0 +1,50 @@
+C0178555||cofactor
+C0682969||binding loop
+C0026882||mutations
+C3544386||thermotolerance
+C0243102||activity
+C0014834||E. coli
+C0040709||transketolase
+C0014442||engineered enzymes
+C0033627||Denaturation
+C0178555||cofactor
+C0682969||binding loops
+C0014834||Escherichia coli
+C0040709||transketolase
+C0040709||transketolase
+C0243102||enzyme activity
+C0041942||urea
+C0022885||Incubation
+C0033684||protein
+C0014442||enzyme
+C0243102||activity
+C0178555||cofactor
+C0682969||binding loop
+C1444783||instability
+C0178555||cofactor
+C0682969||binding loops
+C0002518||residues 185-192
+C0002518||382-392
+C0004793||sequence
+C0085475||Thermus thermophilus
+C0040709||transketolase
+C0678941||variants
+C0004793||Cofactor-binding loop 2
+C0678941||variants
+C0026882||H192P mutation
+C0004793||cofactor-binding loop 1
+C0026882||H192P
+C1883559||wild-type
+C0022885||pre-incubations
+C0026882||H192P
+C1883559||wild-type
+C0040709||transketolase
+C0026882||H192P
+C1883559||wild type
+C0004793||cofactor-binding loop 1
+C0033627||denaturation
+C0026882||single rigidifying mutation
+C0004793||loop
+C0243102||enzyme specific activity
+C0033627||denaturation
+C0243102||activity

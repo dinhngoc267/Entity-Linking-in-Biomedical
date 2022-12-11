@@ -1,0 +1,29 @@
+C0278983||Stage IIIA Non-Small-Cell Lung Cancer
+C0436307||Chemoradiotherapy
+C0278983||stage IIIA non-small-cell lung cancer
+C0278983||non-small-cell lung cancer
+C0600558||neoadjuvant
+C3178775||concurrent chemoradiotherapy
+C3178775||concurrent chemoradiotherapy
+C1519810||unresectable
+C2603343||study
+C0040808||phased CCRT protocol
+C0278983||stage IIIA NSCLC
+C3178775||continuous-course definitive CCRT
+C0278983||stage IIIA NSCLC
+C3178775||concurrent chemoradiotherapy
+C0040808||phased CCRT protocol
+C0600558||neoadjuvant
+C3178775||concurrent chemoradiotherapy
+C0481504||maintenance chemotherapy
+C3178775||split-course CCRT
+C3178775||continuous-course definitive CCRT
+C0936012||analyzed
+C1522577||follow-up
+C1518965||performance status
+C0001418||adenocarcinoma
+C1514474||independent prognostic factors
+C0278983||stage IIIA NSCLC
+C0040808||phased CCRT strategy
+C3178775||split-course CCRT
+C0481504||maintenance chemotherapy

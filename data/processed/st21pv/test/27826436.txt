@@ -1,0 +1,71 @@
+C0982164||flavor
+C0457802||strawberry
+C0457802||Strawberry fruits
+C0457802||cv. Benihoppe
+C0457802||Tochiotome
+C0457802||Sachinoka
+C0457802||Guimeiren
+C0982164||flavor
+C1881045||hierarchical clustering analysis
+C2350439||volatile compounds
+C0242209||sugar
+C0369760||acid
+C0242209||total soluble sugars
+C0369760||total organic acids
+C2350439||volatile compounds
+C0457802||cv. Benihoppe
+C0457802||Tochiotome
+C0457802||Sachinoka
+C0457802||Guimeiren strawberry fruits
+C0185115||extracted
+C1720881||head-space solid-phase microextraction
+C1720881||head-space solid-phase microextraction
+C0014898||Esters
+C0378287||Furaneol
+C0032098||cultivars
+C0457802||Sachinoka
+C0457802||Guimeiren
+C0457802||mesifuran
+C0457802||cv. Tochiotome
+C0457802||Tochiotome
+C0457802||Sachinoka
+C0064997||linalool
+C0955941||(E)-nerolidol
+C0457802||Sachinoka
+C0242209||total sugars
+C0369760||total acids
+C0457802||Guimeiren
+C0918012||index
+C0032098||cultivars
+C0457802||Tochiotome
+C0457802||cv. Sachinoka
+C0457802||Guimeiren
+C0457802||Tochiotome
+C0457802||Sachinoka
+C0368606||titratable acidity TA value
+C0003968||ascorbic acid
+C0003968||ascorbic acid
+C0457802||cv. Tochiotome
+C1273937||no significant
+C0032098||cultivars
+C0457802||Benihoppe
+C0457802||Tochiotome
+C0457802||Sachinoka
+C0016745||Fructose
+C0017725||glucose
+C0242209||sugars
+C0032098||cultivars
+C0055819||Citric acid
+C0369760||organic acid
+C0457802||cv. Tochiotome
+C0457802||cv. Sachinoka
+C0457802||cv. Guimeiren
+C0457802||Tochiotome
+C0368606||TA
+C0242209||total sugars
+C0369760||total organic acids
+C0369760||acid
+C0457802||Sachinoka
+C0457802||Guimeiren
+C0457802||Tochiotome
+C0457802||Benihoppe

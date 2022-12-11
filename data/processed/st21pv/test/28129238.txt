@@ -1,0 +1,40 @@
+C0005841||Blood Transfusions
+C1517927||Locally
+C4048328||Cervical Cancer
+C0543467||Radical Surgery
+C0005841||Transfusions
+C0005841||transfusions
+C0006826||solid cancers
+C0008972||study
+C0005841||blood transfusion
+C1517927||locally
+C4048328||cervical cancer
+C1517927||locally
+C4048328||cervical cancer
+C0543467||radical surgery
+C0035363||retrospectively
+C0005841||transfusions
+C2827659||Kaplan-Meier
+C0010234||Cox models
+C0008972||study
+C0005841||blood transfusion
+C0005841||transfusion
+C1458156||recurrence
+C3272974||noncomplete
+C4055223||clinical response
+C4050242||pathological
+C4050242||response
+C1518890||parametrial
+C0042232||vaginal
+C0024204||lymph node
+C0042232||vaginal
+C0024204||lymph node
+C0005841||blood transfusion
+C0024204||lymph node
+C0042232||vaginal
+C0005841||blood transfusions
+C1458156||recurrence
+C4048328||LAAC
+C0332293||treated
+C0543467||radical surgery
+C0033522||prospective studies

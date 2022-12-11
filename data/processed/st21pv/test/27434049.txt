@@ -1,0 +1,31 @@
+C3887460||Cardiovascular
+C1257890||Kailuan
+C0002458||American Heart Association
+C3887460||cardiovascular
+C0282574||health metrics
+C0007222||cardiovascular diseases
+C0035648||risk factor
+C0007222||cardiovascular diseases
+C0020538||hypertension
+C0004268||attention
+C0027361||individual
+C3887460||cardiovascular
+C0020538||hypertension
+C1257890||Kailuan
+C1709269||north
+C0008115||China
+C3887460||Cardiovascular
+C0220825||evaluated
+C3274571||follow-ups
+C2348561||study population
+C3274571||follow-ups
+C0020538||hypertension
+C3274571||follow-ups
+C3274571||follow-up
+C0020538||hypertension
+C0020538||hypertension
+C0679646||participants
+C3887460||cardiovascular
+C0282574||health metrics
+C1257890||Population
+C0018738||promotion

@@ -1,0 +1,53 @@
+C0009244||cognitive treatment
+C3887537||partners
+C0027361||persons
+C0751967||relapsing remitting multiple sclerosis
+C0700325||observation
+C0184511||improved
+C0600564||self-efficacy
+C0003467||anxiety
+C0011570||depression
+C0027361||persons
+C0026769||multiple sclerosis
+C0026769||multiple sclerosis
+C0600564||self-efficacy
+C1446409||positively
+C0009244||cognitive treatment
+C3887537||partners
+C0600564||self-efficacy
+C0184511||improved
+C0027361||persons
+C0751967||relapsing remitting MS
+C0751967||relapsing remitting MS
+C0027361||persons
+C0026769||multiple sclerosis
+C3887537||partners
+C0087111||treatment
+C0600564||self-efficacy
+C0600564||self-efficacy
+C0025353||mental
+C0003467||anxiety
+C0011570||depression
+C0015672||fatigue
+C2700446||self-report
+C0034394||questionnaires
+C1709451||paired t test
+C0027361||persons
+C0026769||multiple sclerosis
+C0034394||questionnaires
+C1704632||response
+C0751967||relapsing remitting MS
+C0026769||multiple sclerosis
+C0751967||RR
+C0600564||self-efficacy
+C0011570||depression
+C0003467||anxiety
+C0025353||mental
+C0015672||fatigue
+C0009244||cognitive treatment
+C3887537||partners
+C0600564||self-efficacy
+C0027361||persons
+C0751967||relapsing remitting MS
+C0003467||anxiety
+C0011570||depression

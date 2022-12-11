@@ -1,0 +1,37 @@
+C0242821||Body
+C0598801||Diffusion Weighted Imaging
+C0079595||Non-CPMG Fast Spin Echo
+C0079595||SS-FSE
+C0079595||technique
+C2828093||off-resonance
+C0162734||EPI
+C0162734||EPI
+C0079595||SS-FSE
+C0598801||diffusion weighted imaging
+C0598801||diffusion weighted imaging
+C0243095||Carr-Purcell-Meiboom-Geill (CPMG) condition
+C0243095||Non-CPMG
+C0079595||SS-FSE
+C0598801||diffusion weighted imaging
+C0442504||places
+C3714811||resolved
+C0079595||parallel imaging
+C0184511||improved
+C0162734||EPI
+C0243095||nCPMG
+C0079595||SS-FSE
+C0598801||Diffusion imaging
+C0243095||nCPMG
+C0079595||SS-FSE
+C0162734||EPI
+C0162734||EPI
+C1515655||In vivo
+C1704922||images
+C0598801||diffusion weighted imaging
+C1704922||images
+C0205146||areas
+C2828093||off-resonance
+C0079595||Parallel imaging
+C0449738||direction
+C1155281||SAR
+C4055506||accumulation

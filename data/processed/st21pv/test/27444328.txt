@@ -1,0 +1,62 @@
+C0108401||carbohydrate binding module
+C0243102||catalytic activity
+C0020289||non-modular hydrolase
+C0384886||5 endoglucanase
+C1225186||Fomitiporia mediterranea MF3/22
+C0384886||FmEG
+C1225186||Fomitiporia mediterranea
+C0384886||non-modular endoglucanase
+C0002520||24-amino acids
+C0002520||13-amino acids
+C0030956||linker-like peptide
+C1514562||N-terminus
+C0002520||312-amino acids
+C0600499||GH5 catalytic domain
+C0600499||catalytic domain
+C1514562||C-terminus
+C0384886||FmEG
+C0030935||N-terminal fragments
+C0162768||fusion
+C0108401||family 1 carbohydrate-binding module
+C0108401||CBM1
+C0108401||CBM1
+C0384886||FmEG
+C0243102||catalytic activity
+C0384886||FmEG
+C0007630||cellobiose
+C0007630||G2
+C1690565||cellotriose
+C1690565||G3
+C1690565||cellotriose
+C1690565||G4
+C1690565||G4
+C0007648||regenerated amorphous cellulose
+C0007648||regenerated amorphous cellulose
+C1690565||derivatives
+C0007068||carboxymethylcellulose
+C0007068||carboxymethylcellulose
+C0108401||CBM1
+C0384886||FmEG△24
+C0384886||FmEG△37
+C0030956||flexible peptide
+C0007648||regenerated amorphous cellulose
+C0007648||regenerated amorphous cellulose
+C0384886||FmEG△24
+C0108401||CBM1
+C0384886||FmEG△24
+C0108401||CBM1
+C0384886||FmEG△24
+C0243095||2.67-fold more activity
+C0007648||regenerated amorphous cellulose
+C0108401||CBM1
+C0384886||FmEG△37
+C0384886||FmEG△37
+C0108401||CBM1
+C0384886||FmEG
+C0007648||insoluble celluloses
+C0108401||CBM1
+C0033618||binding affinity
+C0002520||N-terminal 24- or 37-amino acids
+C1514562||two domains
+C0002520||N-terminal 24- or 37-amino acids
+C0243102||enzymatic activity

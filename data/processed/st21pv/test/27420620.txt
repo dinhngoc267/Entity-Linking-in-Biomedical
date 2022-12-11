@@ -1,0 +1,53 @@
+C0017263||Regulation
+C1412058||ABCA1
+C1412096||ABCG1
+C0017262||gene expression
+C1563739||intraabdominal adipose tissue
+C1519516||Tissue specific expression of genes
+C0008377||cholesterol
+C0007292||transporters
+C3711161||ABCA1
+C0963751||ABCG1
+C0017337||genes
+C0040649||transcriptional
+C0815047||regulators
+C0596843||adipogenesis
+C0297439||LXRa
+C0754148||LXRb
+C3887582||PPARg
+C0284080||RORa
+C1563739||intraabdominal adipose tissue
+C1563739||intraabdominal adipose tissue
+C3711161||ABCA1
+C0963751||ABCG1 proteins
+C0284080||RORa protein
+C0040648||transcription factor
+C0284080||RORa
+C1327622||regulation
+C1563739||intraabdominal adipose tissue
+C3711161||ABCA1
+C0963751||ABCG1 protein
+C1412058||ABCA1
+C1412096||ABCG1
+C0017262||gene expression
+C0028754||obesity
+C0021212||indicators
+C1305855||body mass index
+C1305855||body mass index
+C0455829||waist circumference
+C0028754||obesity
+C1563739||intraabdominal adipose tissue
+C1335634||RORa
+C1417823||LXRb
+C0035696||mRNA
+C0284080||nuclear factor RORa
+C1327622||regulation
+C1156530||cholesterol metabolism
+C1563739||intraabdominal adipose tissue
+C1171362||expression
+C3711161||ABCA1
+C0963751||ABCG1
+C1563739||intraabdominal adipose tissue
+C1417823||LXRb
+C0017262||gene expression
+C0028754||obesity

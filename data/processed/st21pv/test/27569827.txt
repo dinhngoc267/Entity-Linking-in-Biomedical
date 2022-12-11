@@ -1,0 +1,26 @@
+C0042776||viruses
+C4304723||seasonal
+C0029347||pandemic influenza A viruses
+C4304723||Seasonal influenza
+C4055506||accumulation
+C0003319||antigenic changes
+C4304383||Pandemic influenza
+C0003319||antigenic change
+C0029347||influenza A virus
+C0003319||antigenic variants
+C0029347||influenza A virus
+C0042776||seasonal
+C0042776||pandemic viruses
+C0282574||stochastic individual-based SEIR (susceptible-exposed-infectious-recovered) model
+C0679083||simulations
+C0042776||virus
+C0017446||tropical regions
+C0017446||temperate regions
+C1135927||herd immunity
+C0042776||pandemic virus
+C0042776||seasonal virus
+C0035150||reproductive
+C0042776||pandemic virus
+C1160716||virus transmission
+C4304723||seasonal
+C4304383||pandemic influenza

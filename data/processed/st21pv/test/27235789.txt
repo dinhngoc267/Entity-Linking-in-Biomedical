@@ -1,0 +1,52 @@
+C0206058||Elective
+C0194086||Nephron Sparing Surgery
+C0476465||Other Cause Mortality
+C0401181||Radical Nephrectomy
+C1515021||Subgroups
+C0007134||Renal Cell Carcinoma
+C0006826||cancer
+C0332293||treated with
+C0206058||elective
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C1515021||subgroups
+C0242356||database
+C1522634||queried
+C0220825||evaluate
+C1561643||chronic kidney disease
+C0011900||diagnosed
+C0332293||treated with
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C0034980||Multivariable Cox regression analysis
+C0543467||surgery
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C0476465||other cause mortality
+C0006826||cancer
+C0543467||surgery
+C0599755||subcohorts
+C0476465||other cause mortality
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C1257890||population
+C0401181||radical nephrectomy
+C0476465||other cause mortality
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C0476465||other cause mortality
+C3714916||Charlson comorbidity index
+C3714916||Charlson comorbidity index
+C0476465||other cause mortality
+C0194086||nephron sparing surgery
+C0401181||radical nephrectomy
+C0206058||Elective
+C0194086||nephron sparing surgery
+C0184511||improve
+C0401181||radical nephrectomy
+C0740457||kidney cancer
+C0221423||ill
+C0194086||nephron sparing surgery
+C0476465||other cause mortality

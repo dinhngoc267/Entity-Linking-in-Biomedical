@@ -1,0 +1,14 @@
+C1705920||intraspecies
+C0028814||ocean
+C0028814||Ocean
+C0681814||experiments
+C0332128||examining
+C0858343||elevated pCO2
+C0031843||physiology
+C0035150||reproduction
+C0035150||reproduction
+C0029974||eggs
+C0037868||sperm
+C2603343||specific studies
+C1257890||populations
+C0028814||ocean

@@ -1,0 +1,60 @@
+C0007452||Truncated Bovine
+C0166814||Integrin Alpha-v/Beta-6
+C1749457||Universal Capture Ligand
+C0016514||Foot-and-mouth disease
+C0011900||Diagnosis
+C0016514||Foot-and-mouth disease
+C0016514||Foot-and-mouth disease
+C0277550||endemic
+C0205147||regions
+C2700280||world
+C0003047||animal diseases
+C0016514||Foot-and-mouth disease
+C2936506||livestock
+C0007452||cattle
+C0036945||sheep
+C1510458||goats
+C0039005||pigs
+C1318963||Preparedness
+C0596473||early diagnosis
+C0085557||effective control
+C0016514||Foot-and-mouth disease
+C1510438||diagnostic assays
+C0949945||anti-FMD virus
+C0949945||anti-FMD virus
+C0443640||serotype-specific antibodies
+C0003062||animals
+C3887509||rabbits
+C0085979||guinea pigs
+C0042776||virus
+C0007452||bovine
+C0166814||αvβ6
+C1167622||bind
+C0949945||anti-FMD virus
+C0052350||RGD
+C1372999||divalent cation dependent interaction
+C0034760||trapping reagent
+C0949945||anti-FMD virus
+C0014441||sandwich ELISA
+C0251594||FLAG
+C0019602||His tags
+C0597301||purification
+C1721019||virus binding
+C0085979||guinea pig
+C0229671||polyclonal serum
+C0003250||serotype-specific monoclonal antibodies
+C0021701||integrin
+C0442726||detect
+C0042776||viruses
+C0006933||empty capsids
+C0003320||antigen
+C0014441||ELISA
+C0003320||inactivated virus antigen
+C1510438||assay
+C0456984||results
+C0007452||bovine
+C0166814||αvβ6
+C0949945||anti-FMD virus
+C0006933||empty capsids
+C0016514||Foot-and-mouth disease
+C1510438||diagnostic assays

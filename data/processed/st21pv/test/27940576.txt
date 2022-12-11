@@ -1,0 +1,58 @@
+C0004057||Aspirin
+C0018270||Growth
+C1335212||PI3K
+C0678941||Mutant
+C0678222||Breast Cancer
+C2350345||AMP-activated protein kinase
+C2975458||mTORC1
+C0029016||oncogenic
+C0026882||mutations
+C1335212||PIK3CA
+C3839127||gene encoding
+C0600499||catalytic subunit
+C0044602||PI3K
+C0044602||PI3K
+C0014432||inhibitors
+C1333602||clinical benefit
+C0678222||breast cancer
+C0002783||epidemiologic studies
+C0004057||aspirin
+C0006826||cancers
+C0044602||oncogenic PIK3CA
+C0678941||mutant
+C0044602||PIK3CA
+C0017262||expressing
+C1512505||breast cancer cells
+C0004057||aspirin
+C0007595||growth
+C0007613||suppression
+C1883559||wild-type
+C0004057||Aspirin
+C0007620||viability
+C1515979||anchorage-independent growth
+C0678941||mutant
+C0044602||PIK3CA
+C1512505||breast cancer cells
+C1299583||independently
+C0387583||COX-2
+C0079904||NF-κB
+C0004057||aspirin
+C2350345||AMP-activated protein kinase
+C2350345||AMP-activated protein kinase
+C2975459||mTORC1
+C1519312||inhibition
+C0004391||autophagy
+C0029016||oncogenic
+C0044602||PIK3CA
+C0025929||mouse
+C1458155||mammary tumors
+C0004057||aspirin
+C0087111||therapy
+C0004057||aspirin
+C0044602||PI3K
+C0220825||evaluation
+C0004057||aspirin
+C0044602||PI3K
+C1254351||inhibitors
+C0087111||therapy
+C0678222||breast cancer

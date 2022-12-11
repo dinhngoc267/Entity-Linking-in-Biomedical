@@ -1,0 +1,44 @@
+C0014406||environmental
+C0318248||Vibrio cholerae O1
+C0018510||Haiti
+C0008354||cholera
+C0454978||Hispaniola
+C0042629||Vibrio cholerae
+C0014406||environmental
+C0445332||toxigenic
+C0318248||V. cholerae O1
+C0449416||source
+C0008354||cholera epidemics
+C0012634||disease
+C0042629||V. cholerae
+C0442537||reservoirs
+C0018510||Haitian
+C0008354||cholera epidemic
+C0017337||ctxA/B
+C0205160||negative
+C0318248||Vibrio cholerae O1
+C1764827||isolates
+C3640076||whole-genome sequencing
+C0887950||genomics
+C1764827||isolates
+C0040811||tree
+C0008354||cholera
+C0017428||genomic components
+C0008354||cholera
+C0017258||Vibrio Pathogenicity Island
+C0017258||(VPI)-1
+C0150312||present
+C0017258||SXT/R391-family ICE
+C0017258||VPI-2
+C0042776||vibriophage
+C0546816||persistence
+C0318248||V. cholerae O1
+C0018510||Haitian
+C0011000||reported
+C0008354||cholera
+C0162340||understanding
+C0017337||genes
+C0018510||Haitian
+C1522642||clone
+C0008356||cholera toxin
+C0008356||CTXϕ

@@ -1,0 +1,21 @@
+C2700446||Self-Report
+C2700446||self-report
+C0026348||models
+C0376688||Measurement Survey
+C0376688||Physical Activity Measurement Survey
+C0679646||Participants
+C0376688||Physical Activity Measurement Survey
+C0596972||monitor
+C0021823||telephone
+C0026348||statistical model
+C0026348||models
+C2700446||self-reported
+C0424927||education
+C1305855||BMI
+C0681935||Cross-validation
+C0034980||regression
+C0026348||models
+C2700446||self-report
+C1257890||population
+C0026348||models
+C0596972||monitor

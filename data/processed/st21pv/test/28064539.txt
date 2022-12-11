@@ -1,0 +1,35 @@
+C0596170||binge
+C0015665||(fat) body
+C4024583||fatness
+C0596170||binge eating disorder
+C0700287||reports
+C0456984||results
+C0086418||Foucauldian
+C4024583||fatness
+C0596170||binge eating disorder
+C0936012||Analyses
+C1444656||indicate
+C0024763||manual
+C1262477||weight loss
+C1457887||symptoms
+C0596170||binge eating disorder
+C0302523||observations
+C0243095||findings
+C0033909||psychology's
+C4024583||fatness
+C0028754||obesity
+C1273869||intervention
+C0033909||psychology
+C0237070||discipline
+C1262477||weight loss
+C0596170||binge eating disorder
+C0015665||fat bodies
+C0017319||practitioners
+C0033213||problem
+C0036938||fat shame
+C0037455||society
+C0237401||individual
+C0242821||body
+C0237401||individuals
+C0277787||fat stigma
+C0242821||bodies

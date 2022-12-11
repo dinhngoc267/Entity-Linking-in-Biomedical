@@ -1,0 +1,16 @@
+C3494273||molecular docking
+C2603343||study
+C0014432||non-β-lactam inhibitors
+C0597979||TEM type β-lactamase
+C1254351||acylated phenoxyanilide
+C1254351||thiourea compounds
+C1524081||inhibit
+C0597979||TEM type β-lactamase enzyme
+C1254351||compounds 4g
+C1254351||5c
+C1524081||inhibition
+C1167622||non-covalent binding
+C0597979||TEM-171
+C1254351||acylated phenoxyanilide
+C0600115||molecular modelling
+C2603343||study

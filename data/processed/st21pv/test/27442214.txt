@@ -1,0 +1,103 @@
+C1184751||Secondary Ossification Center
+C1293215||Closure in the Pelvis
+C0448190||Proximal Femur
+C0029433||ossification
+C0449774||patterns
+C0030797||pelvis
+C0037253||skeletally
+C0030797||pelvic
+C1306645||radiographs
+C1184751||secondary ossification centers
+C0220825||evaluates
+C0008717||chronology
+C1293215||closure of pelvic
+C0448190||proximal femoral
+C1184751||secondary ossification centers
+C0040405||computed tomography
+C0040405||computed tomography
+C0412620||abdominal
+C0040786||trauma centers
+C0011923||imaging
+C0030797||pelvis
+C0448190||proximal femurs
+C1274117||orthopaedic trauma
+C0030664||pathology
+C0029433||ossification
+C0040405||CT scans
+C0185003||closure
+C1184751||secondary ossification centers
+C0223645||anterior inferior iliac spine
+C0223645||anterior inferior iliac spine
+C0223644||anterior superior iliac spine
+C0223644||anterior superior iliac spine
+C0015813||femoral head
+C0015813||femoral head
+C0223865||greater trochanter
+C0223865||greater trochanter
+C0223651||iliac crest
+C0223651||iliac crest
+C0223656||ischial tuberosity
+C0223656||ischial tuberosity
+C0223866||lesser trochanter
+C0223866||lesser trochanter
+C0223646||posterior superior iliac spine
+C0223646||posterior superior iliac spine
+C0034015||symphysis pubis
+C0034015||symphysis pubis
+C0007301||triradiate cartilage
+C0007301||triradiate cartilage
+C0040405||CT scans
+C1184751||secondary ossification centers
+C0223865||greater trochanter
+C0223866||lesser trochanter
+C0223645||anterior inferior iliac spine
+C0223656||ischial tuberosity
+C0223644||anterior superior iliac spine
+C0223646||posterior superior iliac spine
+C0223651||iliac crest
+C0034015||symphysis pubis
+C0223865||greater trochanter
+C0223866||lesser trochanter
+C0223656||ischial tuberosity
+C0223645||anterior inferior iliac spine
+C0223646||posterior superior iliac spine
+C0223651||iliac crest
+C0223644||anterior superior iliac spine
+C0034015||symphysis pubis
+C0185003||closure
+C0007301||triradiate cartilage
+C0223866||lesser trochanter
+C0015813||femoral head
+C0223645||anterior inferior iliac spine
+C0223865||greater trochanter
+C0223644||anterior superior iliac spine
+C0223646||posterior superior iliac spine
+C0223656||ischial tuberosity
+C0223651||iliac crest
+C0034015||symphysis pubis
+C0223866||lesser trochanter
+C0007301||triradiate cartilage
+C0223645||anterior inferior iliac spine
+C0015813||femoral head
+C0223865||greater trochanter
+C0223644||anterior superior iliac spine
+C0223646||posterior superior iliac spine
+C0223656||ischial tuberosity
+C0223651||iliac crest
+C0034015||symphysis pubis
+C1184744||ossification centers
+C1515974||locations
+C1184744||ossification centers
+C1515974||locations
+C0007301||triradiate cartilage
+C0223651||iliac crest
+C0034015||symphysis pubis
+C1293215||closure of the pelvis
+C0448190||proximal femur
+C1184751||secondary ossification centers
+C1160401||skeletal development
+C1184751||secondary ossification centers
+C0220825||evaluate
+C0030755||pediatric
+C0030664||pathology
+C1515089||surgical management

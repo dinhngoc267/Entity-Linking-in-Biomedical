@@ -1,0 +1,98 @@
+C1512167||Ectopic Expression
+C1517488||CoWRI1
+C1517488||AP2/EREBP
+C0040648||Transcription Factor
+C0009210||Coconut
+C0009210||Cocos nucifera L
+C2717855||Endosperm
+C0036563||Seeds
+C0032085||Oil
+C0085245||Transgenic
+C0162740||Arabidopsis thaliana
+C1140671||Rice
+C1140671||Oryza sativa L
+C0009210||Coconut
+C0009210||Cocos nucifera L.
+C0242775||crop
+C0682477||Arecaceae
+C0682477||Palmaceae
+C0017337||genes
+C0025519||metabolic processes
+C0009210||coconut
+C2717855||endosperm
+C2603343||study
+C1517488||WRI1
+C1517488||gene family
+C0009210||coconut
+C2717855||endosperm
+C1517488||CoWRI1
+C0040649||transcriptional
+C0001022||acetyl-CoA carboxylase
+C0213275||BCCP2
+C0086860||promoter
+C1517488||CoWRI1
+C0599647||yeast two-hybrid
+C0599647||yeast one-hybrid
+C0036563||seed
+C0017262||expression
+C0162741||Arabidopsis
+C2717855||endosperm
+C0017262||expression
+C1140671||rice
+C0085245||transgenic
+C0162741||Arabidopsis
+C0017262||over-expressions
+C1517488||CoWRI1
+C0085245||T2
+C1140671||lines
+C3179034||quantitative real-time PCR
+C0035696||mRNA
+C0017337||genes
+C0014442||enzymes
+C0596562||fatty acid biosynthesis
+C0041004||triacylglycerols
+C0017337||BCCP2
+C0017337||KASI
+C0017337||MAT
+C0017337||ENR
+C0017337||FATA
+C0017337||GPDH
+C0005507||assayed
+C0036563||seeds
+C0023779||lipid
+C0015684||fatty acids
+C0030234||C16:0
+C0038228||C18:0
+C0085245||T2
+C0085245||transgenic
+C1140671||rice lines
+C1140671||G5
+C1140671||G2
+C1517488||CoWRI1
+C0017262||expression
+C1517488||CoWRI1
+C1519595||transcripts
+C1883559||wild type
+C0936012||Analyses
+C0036563||seed
+C0032085||oil
+C0038179||starch
+C0033684||protein
+C0085245||T2
+C0085245||transgenic lines
+C0036563||seed
+C0032085||oil
+C0085245||transgenic lines
+C0038179||starch
+C0033684||protein
+C0936012||analysis
+C0015684||fatty acid
+C0030234||palmitic acid
+C0030234||C16:0
+C0125903||linolenic acid
+C0125903||C18:3
+C0036563||seeds
+C0085245||transgenic
+C1140671||rice lines
+C0028928||oleic acid
+C0028928||C18:1

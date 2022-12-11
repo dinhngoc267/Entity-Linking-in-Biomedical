@@ -1,0 +1,38 @@
+C1286104||dietary intake
+C0011860||type 2 diabetes
+C0376344||NHANES
+C0012155||Dietary
+C0011860||diabetes
+C0452415||healthy diet
+C0041703||US
+C0011860||type 2 diabetes
+C0679646||Participants
+C0376344||cross-sectional National Health and Nutrition Examination Surveys
+C0011860||Diabetes
+C2700446||self-report
+C0031831||physician's
+C0011900||diagnosis
+C0678695||nutrients
+C0679646||participants
+C0016452||food
+C1286104||intake
+C0679646||participants
+C0011860||diabetes
+C0001792||older adults
+C0025266||men
+C0043210||women
+C0085756||non-Hispanic blacks
+C0453802||carbohydrate
+C0012171||total fat
+C0453858||protein
+C2603343||study
+C0474451||Fibre intake
+C0037570||Sodium
+C0008395||cholesterol
+C0006726||calcium
+C1286104||intakes
+C0011860||diabetes
+C0012155||dietary
+C0011860||diabetes
+C0011860||diabetes
+C0012173||fibre

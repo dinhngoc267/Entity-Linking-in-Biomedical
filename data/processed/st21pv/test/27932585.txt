@@ -1,0 +1,41 @@
+C0033684||TYW3
+C0033684||Taw3
+C0969403||SAM-dependent methyltransferases
+C0969403||S-adenosylmethionine (SAM)-dependent methyltransferases
+C1327622||regulate
+C3714634||biological processes
+C2752381||modification
+C0033684||proteins
+C0028606||nucleic acids
+C0032594||polysaccharides
+C0870883||metabolites
+C0033684||TYW3
+C0033684||Taw3
+C0969403||SAM-dependent methyltransferase
+C1158758||tRNA modification
+C1171957||wybutosine
+C1519614||decoding
+C0597295||protein synthesis
+C0230587||crystal structure
+C0033684||Taw3
+C0033684||TYW3
+C0162847||α/β fold
+C0002518||S/T)xSSCxGR
+C0085845||aspartate
+C0019602||histidine
+C0033684||TYW3
+C0033684||Taw3
+C1510464||structural
+C0002518||sequence
+C0033684||TYW3
+C0033684||Taw3
+C0969403||SAM-dependent methyltransferases
+C0079870||site-directed mutagenesis
+C0017381||in vivo complementation assays
+C0037813||mass spectrometry
+C1522290||ligand docking
+C1323251||cofactor binding
+C1510438||assays
+C0033684||TYW3
+C1323251||cofactor binding
+C1152247||methyltransferase activity

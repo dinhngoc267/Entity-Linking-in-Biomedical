@@ -1,0 +1,49 @@
+C0007465||Causes of Death
+C0015024||Ethiopia
+C0805586||challenges
+C0454695||African countries
+C0001738||Sub-Saharan Africa
+C0018017||objective
+C0007465||causes of death
+C1257890||population
+C0004398||autopsy
+C1257890||kebeles
+C1257890||kebeles
+C0001567||district
+C0282574||Kersa HDSS database
+C2603343||study
+C1257890||population
+C0034394||questionnaires
+C0282574||SPSS database
+C0282574||STATA
+C1306577||deaths
+C1257890||population
+C2603343||study
+C1257890||populations
+C1306577||deaths
+C2603343||study
+C0162429||malnutrition
+C0178238||intestinal infectious diseases
+C0238990||acute lower respiratory infections
+C0007465||causes of death
+C0007465||causes of death
+C0008902||classification
+C0043251||injuries
+C0007465||cause of death
+C0009450||communicable diseases
+C1306577||deaths
+C0007465||causes of death
+C0008902||classification
+C0162429||malnutrition
+C0178238||intestinal infectious diseases
+C0238990||acute lower respiratory infections
+C0007465||causes of death
+C0007465||causes of death
+C0009450||communicable diseases
+C0043251||injuries
+C0007465||causes of death
+C0007465||causes of death
+C0936012||inferential analysis
+C0033144||prevention
+C0376636||management
+C0009450||infectious diseases

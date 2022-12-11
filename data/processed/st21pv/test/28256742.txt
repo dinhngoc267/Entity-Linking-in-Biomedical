@@ -1,0 +1,41 @@
+C1959882||Halogenated phenolic compounds
+C0016163||wild fish
+C0006823||Canadian Areas
+C1959882||halogenated phenolic compounds
+C0032105||plasma
+C0328325||brown bullhead
+C0328325||Ameiurus nebulosus
+C0006823||Canadian Areas
+C0006823||AOCs
+C0040132||thyroid
+C1568245||disrupting chemicals
+C0032447||Hydroxylated polychlorinated biphenyls
+C0032447||OH-PCBs
+C0006823||AOCs
+C1511790||detection
+C0006823||AOC
+C0032447||OH-PCBs
+C0040135||thyroid hormones
+C0030855||Pentachlorophenol
+C0030855||Pentachlorophenol
+C0016163||fish
+C3203003||Prince Edward Bay
+C3203003||Bay of Quinte Lake reference site
+C0524230||Elevated PCP concentrations
+C0032105||plasma
+C0328325||brown bullhead
+C0006823||Toronto and Region AOC
+C0040958||Triclosan
+C0006823||Toronto and Region AOC
+C0450237||wastewater
+C0032105||plasma
+C0328325||brown bullhead
+C3203003||Bay of Quinte
+C0006823||AOC
+C2350562||polybrominated diphenyl ethers
+C0006823||Toronto and Region AOC
+C3203003||Bay of Quinte
+C0006823||AOC
+C0006823||Trenton and Belleville
+C0449775||Distribution patterns
+C0006823||AOC

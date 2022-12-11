@@ -1,0 +1,57 @@
+C1438871||AXIN1
+C1454580||AXIN2
+C0963182||Tankyrase
+C0014432||Inhibitor-Induced
+C1180347||Degradasomes
+C0105770||β-Catenin
+C1524081||Inhibition
+C0963182||tankyrase enzymes
+C1504783||TNKS1
+C1448153||TNKS2
+C0105770||β-catenin
+C1704241||destruction complex
+C1179435||components
+C1180347||degradasomes
+C0105770||β-catenin
+C1520113||Wnt signaling
+C1527249||colorectal cancer
+C0007634||cells
+C1438871||AXIN1
+C1454580||AXIN2
+C1454580||Conductin
+C1704241||destruction complexes
+C0184512||stabilized
+C0963182||TNKS
+C1524081||inhibition
+C3178961||AXIN
+C1180347||proteasome
+C1438871||AXIN1
+C1454580||AXIN2
+C0033684||scaffolding proteins
+C1520113||Wnt signaling pathway
+C0162340||understood
+C1180347||degradasomes
+C0033684||protein
+C0543482||morphological
+C0105770||β-catenin
+C1704241||destruction complexes
+C0007634||SW480
+C1527249||colorectal cancer
+C0007634||cells
+C0014432||tankyrase inhibitor
+C0014432||tankyrase inhibitor
+C3658785||G007-LK
+C0150312||found
+C1438871||AXIN1
+C1180347||degradasome
+C1180347||degradasomes
+C0105770||β-catenin
+C3658785||G007-LK-treated
+C0007634||cells
+C1454580||AXIN2
+C0243095||findings
+C0233820||insights
+C1438871||AXIN1
+C1454580||AXIN2
+C0105770||β-catenin
+C1704241||destruction complex

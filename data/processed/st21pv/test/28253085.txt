@@ -1,0 +1,48 @@
+C0375734||Secondhand Tobacco Smoke
+C1620185||CYP1A2
+C3884187||CYP2A6
+C0042014||Caffeine Urine Test
+C0085098||Public policies
+C0375734||secondhand smoke
+C0243083||associated diseases
+C1149063||cytochrome P450 (CYP450) activities
+C0687133||drug interaction
+C0086418||humans
+C0375734||secondhand smoke
+C0683140||drug metabolism
+C1708335||healthy volunteers
+C0375734||secondhand tobacco smoke
+C0027361||persons
+C1620185||CYP1A2
+C3884187||CYP2A6
+C0243102||enzyme activities
+C1515655||in vivo
+C0042014||caffeine urine test
+C2700446||self-reported
+C0375734||secondhand smoke
+C1257890||group
+C2700446||self-reported
+C0439994||tobacco smoke
+C0239059||smoked
+C0936012||Analysis
+C1620185||CYP1A2
+C3884187||CYP2A6
+C0243102||activities
+C2603343||study
+C1257890||groups
+C0375734||secondhand smoke
+C1620185||CYP1A2
+C3884187||CYP2A6
+C0243102||activities
+C0936012||analysis
+C0375734||secondhand smoke
+C1515655||in vivo
+C0243102||activities
+C0683140||drug metabolism
+C1704259||pathways
+C0683140||drug metabolism
+C0239059||cigarette smoke
+C2603343||studies
+C0375734||secondhand tobacco smoke
+C0010762||cytochrome P450
+C0439994||smoke

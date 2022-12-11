@@ -1,0 +1,29 @@
+C0011581||Depression
+C0018810||Heart Rate
+C1269683||major depression
+C0018799||impaired autonomic control of the heart
+C0018810||heart rate
+C0003289||antidepressant drug
+C0087111||therapy
+C2603343||SEEDS study
+C0074393||sertraline
+C0003289||antidepressant drug
+C0087111||therapy
+C0037181||Single-blind
+C0206035||randomized controlled trial
+C0033137||primary care
+C1269683||major depression
+C0033137||primary care
+C0074393||Sertraline
+C0074393||sertraline
+C0918012||indices
+C0018810||heart rate
+C0846574||Psychiatric
+C0582103||medical assessments
+C0679646||Participants
+C0918012||indices
+C0918012||indices
+C0074393||sertraline
+C1446409||positive
+C0232164||autonomic control of the heart
+C1269683||major depression

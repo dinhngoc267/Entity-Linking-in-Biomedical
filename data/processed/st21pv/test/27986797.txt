@@ -1,0 +1,51 @@
+C0668195||Growth differentiation factor 15
+C0574031||myomitokine
+C3157768||governing systemic energy homeostasis
+C1325653||mitochondrial electron transport chain
+C0184511||improves
+C3157043||energy homeostasis
+C0007613||cell-autonomous
+C0007613||non-autonomous factors
+C3178757||mitohormetic
+C2612628||mitochondrial unfolded protein response
+C2612628||UPR(mt)
+C0149784||adaptive stress-response
+C0026237||mitochondrial
+C0449430||proteotoxic stress
+C0025929||mice
+C0242692||skeletal muscle-specific
+C2352141||Crif1
+C0026845||muscle-specific
+C0206745||knockout
+C0206745||muscle-specific knockout
+C0033684||integral protein
+C1166894||large mitoribosomal subunit
+C2611782||39S
+C0668195||growth differentiation factor 15
+C0668195||growth differentiation factor 15
+C2612628||UPR(mt)
+C0007613||cell-non-autonomous
+C0574031||myomitokine
+C3157768||regulates systemic energy homeostasis
+C0206745||MKO mice
+C0028754||obesity
+C1325847||sensitized
+C0021641||insulin
+C0668195||growth differentiation factor 15
+C1159339||secretion
+C2612628||UPR(mt)
+C0206745||ob/ob mice
+C0034861||recombinant
+C0668195||growth differentiation factor 15
+C0184511||improved
+C0920563||insulin sensitivity
+C0282636||oxidative metabolism
+C0023773||lipid mobilization
+C0023884||liver
+C0026845||muscle
+C0001527||adipose tissue
+C0668195||growth differentiation factor 15
+C3178757||mitohormetic
+C3537152||signal
+C0243095||onset of obesity
+C0021655||insulin resistance

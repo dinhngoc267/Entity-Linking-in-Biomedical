@@ -1,0 +1,63 @@
+C0169658||Jak1
+C0253050||STAT3
+C0037083||Signals
+C1175888||ubiquitin-specific protease 6
+C1175888||TRE17 Oncogene
+C0596263||Tumorigenesis
+C0005967||Bone
+C0037579||soft tissue tumors
+C0027651||Bone and soft tissue tumors
+C0087111||therapies
+C0684224||report
+C1175888||ubiquitin-specific protease 6
+C1175888||ubiquitin-specific protease 6
+C1175888||TRE17 oncogene
+C1514559||overexpressed
+C0040715||chromosome translocation
+C0086418||human
+C0027651||tumors
+C0152244||aneurysmal bone cyst
+C0152244||aneurysmal bone cyst
+C0221198||lesion
+C0410005||nodular fasciitis
+C1512167||Ectopic expression
+C1175888||ubiquitin-specific protease 6
+C0027651||tumors
+C0152244||aneurysmal bone cyst
+C0410005||nodular fasciitis
+C1175888||USP6's
+C0684224||report
+C0169658||Jak1
+C0253050||STAT3
+C0037080||signaling pathway
+C1175888||ubiquitin-specific protease 6
+C0027651||Bone and soft tissue tumors
+C1175888||ubiquitin-specific protease 6
+C1157996||deubiquitinated
+C0169658||Jak1
+C0184512||stabilization
+C0253050||STAT3
+C0007621||tumorigenic
+C1175888||ubiquitin-specific protease 6
+C3658200||CRISPR
+C0017260||deletion
+C1334290||Jak1
+C1367307||STAT3
+C0597721||Jak family
+C0936012||Analysis
+C0410005||nodular fasciitis
+C0750484||confirmed
+C0169658||Jak1
+C0253050||STAT3
+C0947630||studies
+C0169658||Jak1
+C1175888||ubiquitin-specific protease 6
+C1261322||clinical investigation
+C0597721||Jak
+C0253050||STAT3
+C0087111||treatment
+C0005967||bone
+C0037579||soft tissue tumors
+C0027651||neoplasms
+C1175888||ubiquitin-specific protease 6
+C1514559||overexpression

@@ -1,0 +1,42 @@
+C1444483||Medical Management
+C0021390||Inflammatory Bowel Disease
+C1444483||medical management
+C0021390||inflammatory bowel disease
+C0021390||inflammatory bowel disease
+C0587668||surgical necessity
+C0543467||surgery
+C1457868||worsened
+C0543467||operating
+C0221423||sicker
+C1531518||biologic medications
+C1137112||ICD-9-CM codes
+C0184666||admissions
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0021390||inflammatory bowel disease
+C0392209||nutrition
+C0543467||surgeries
+C0032787||postoperative complications
+C0184666||admissions
+C0021390||inflammatory bowel disease
+C2603343||study
+C0543467||Surgery
+C0442739||unchanged
+C2603343||study
+C0184666||admissions
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0162429||poor nutrition
+C0009324||ulcerative colitis
+C0010346||Crohn's disease
+C0919691||anastomotic leak
+C0442739||unchanged
+C0392618||Postoperative infection
+C0010346||Crohn's disease
+C0009324||ulcerative colitis
+C0021390||inflammatory bowel disease
+C0038894||surgery
+C0032787||postoperative infectious complications
+C0018726||implementation
+C1531518||biologic therapies
+C0162429||poor nutrition

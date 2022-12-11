@@ -1,0 +1,42 @@
+C1997575||revision arthroscopic repair
+C0263912||rotator cuff tears
+C0443142||arthroscopic
+C3515385||suprascapular nerve release
+C1997575||revision repair
+C0263912||rotator cuff tears
+C1261046||glenoid
+C0026846||Goutallier Grade 4 atrophy
+C3515385||release of the suprascapular nerve
+C0026846||Grade 3 atrophy
+C1997575||revision rotator cuff repair
+C1997575||rotator cuff repair
+C3515385||nerve release
+C3515385||nerve release
+C1883464||University of California
+C0024015||Los Angeles
+C1997575||revision repair
+C0263912||rotator cuff tears
+C3515385||release of the suprascapular nerve
+C0816410||suprascapular notch
+C1257890||group
+C1997575||revision RTCR
+C3515385||suprascapular nerve release
+C1257890||groups
+C1522577||follow-up
+C1257890||nerve-release group
+C1522577||follow-up
+C1257890||group
+C1522577||follow-up
+C1257890||nerve-release group
+C1257890||groups
+C1257890||nerve-release group
+C0231452||flexion
+C0517349||strength
+C0451615||pain relief
+C3515385||release of the suprascapular nerve
+C1997575||revision RTCR
+C0451615||pain relief
+C0231452||active forward flexion
+C0517349||strength
+C1257890||group
+C3515385||nerve release

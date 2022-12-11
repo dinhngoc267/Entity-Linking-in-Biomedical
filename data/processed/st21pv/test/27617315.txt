@@ -1,0 +1,74 @@
+C4084801||Prostate Health Index
+C3710767||[-2]pro-prostate-specific antigen
+C0152035||Chinese
+C0025266||men
+C0138741||prostate specific antigen
+C1384593||digital rectal examination
+C4084801||Prostate Health Index
+C4084801||Prostate Health Index
+C3710767||[-2]pro-prostate-specific antigen
+C3710767||%p2PSA
+C0152035||Chinese
+C0025266||men
+C0138741||prostate-specific antigen
+C0138741||prostate-specific antigen
+C1384593||digital rectal examination
+C1384593||digital rectal examination
+C0152035||Chinese
+C0025266||men
+C0138741||prostate-specific antigen
+C1384593||digital rectal examination
+C0373345||transrectal ultrasound
+C0373345||transrectal ultrasound
+C0194804||prostate biopsy
+C0178913||Blood samples
+C0373345||transrectal ultrasound
+C0194804||prostate biopsy
+C2986589||total PSA
+C2986589||total PSA
+C3710767||%p2PSA
+C4084801||Prostate Health Index
+C0206031||logistic regression
+C0936012||decision curve analyses
+C0936012||decision curve analyses
+C0152035||Chinese
+C0025266||men
+C0025266||men
+C0011900||diagnosed
+C0376358||prostate cancer
+C0005558||biopsy
+C0025266||men
+C1514241||positive biopsies
+C4084801||Prostate Health Index
+C4084801||Prostate Health Index
+C4084801||Prostate Health Index
+C0008041||chi-square test
+C3161035||base model
+C2986589||total PSA
+C0005558||biopsy
+C3710767||%p2PSA
+C4084801||Prostate Health Index
+C3161035||base model
+C0184511||improved
+C0936012||decision curve analyses
+C1514241||positive biopsy
+C0332326||Gleason 7 or above
+C0376358||prostate cancers
+C4084801||Prostate Health Index
+C4084801||Prostate Health Index
+C4084801||Prostate Health Index
+C0008041||chi-square test
+C4084801||Prostate Health Index
+C0025266||men
+C0138741||prostate-specific antigen
+C1384593||digital rectal examination
+C0005558||biopsies
+C4084801||Prostate Health Index
+C3710767||%p2PSA
+C0376358||prostate cancer
+C0376358||high grade prostate cancer
+C4084801||Prostate Health Index
+C3710767||%p2PSA
+C0152035||Chinese
+C0025266||men
+C1384593||digital rectal examination

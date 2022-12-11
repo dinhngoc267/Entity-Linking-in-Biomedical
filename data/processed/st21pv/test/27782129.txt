@@ -1,0 +1,57 @@
+C0320203||Colletotrichum species
+C0032080||anthracnose
+C0032098||tea plants
+C0949852||Camellia sinensis (L.) O. Kuntze
+C0008115||China
+C0032080||Anthracnose
+C0320203||Colletotrichum
+C0032080||diseases
+C0949852||Camellia sinensis
+C0035168||research
+C0320203||Colletotrichum
+C0008115||China
+C0681814||study
+C0320203||Colletotrichum
+C1764827||isolates
+C0032080||diseased
+C0242724||leaves
+C0949852||Ca. sinensis
+C1514578||provinces
+C0008115||China
+C1519068||Multi-locus phylogenetic analysis
+C1294314||morphological identification
+C1764827||isolates
+C1705920||species
+C1705920||species
+C2642537||C. camelliae
+C2803492||C. cliviae
+C2813833||C. fioriniae
+C2804746||C. fructicola
+C3397324||C. karstii
+C2804749||C. siamense
+C1705920||record species
+C3584139||C. aenigma
+C3746379||C. endophytica
+C2790917||C. truncatum
+C1705920||species
+C0016832||C. wuxiense
+C0320203||Colletotrichum sp.
+C1705920||species
+C2642537||C. camelliae
+C2804746||C. fructicola
+C1705920||species
+C0032080||anthracnose
+C0949852||Ca. sinensis
+C0681814||study
+C1519068||phylogenetic analysis
+C0162326||ApMat and GS sequences
+C1531932||C. gloeosporioides
+C1705920||species complex
+C0022885||tests
+C2642537||C. camelliae
+C3584139||C. aenigma
+C3746379||C. endophytica
+C1705920||species
+C2987620||inoculation
+C0242724||leaves
+C0949852||Ca. sinensis

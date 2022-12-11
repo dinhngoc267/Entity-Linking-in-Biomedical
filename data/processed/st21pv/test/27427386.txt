@@ -1,0 +1,63 @@
+C0026237||mitochondrial
+C3178895||modifier
+C0917796||Leber's hereditary optic neuropathy
+C0948444||mitochondrial DNA mutation
+C0917796||Leber's hereditary optic neuropathy
+C0917796||Leber's hereditary optic neuropathy
+C0751651||mitochondrial disease
+C0026237||Mitochondrial
+C3178895||modifiers
+C0917796||Leber's hereditary optic neuropathy
+C0012929||mitochondrial DNA
+C0012929||mitochondrial DNA
+C0948444||mutations
+C2603343||study
+C0917796||Leber's hereditary optic neuropathy
+C0012655||susceptibility
+C0002085||allele
+C0002085||m.14502T > C
+C0002085||p. 58I > V
+C1537995||ND6 gene
+C0443264||modulated
+C0917796||Leber's hereditary optic neuropathy
+C0026882||m.11778G > A mutation
+C0030761||pedigrees
+C0026882||m.14502T > C
+C0026882||m.11778G > A mutations
+C3887709||optic neuropathy
+C0026882||m.11778G > A mutation
+C0005507||assays
+C0007600||cybrid cell models
+C0007634||mtDNA-less ρ(o) cells
+C0007634||enucleated cells
+C0917796||Leber's hereditary optic neuropathy
+C0026882||m.11778G > A
+C0026882||m.14502T > C mutations
+C0026882||m.14502T > C
+C0026882||m.11778G > A mutation
+C0012929||mitochondrial DNA
+C0007600||cybrids cell lines
+C0026882||m.14502T > C mutation
+C0026237||mitochondrial
+C0026882||m.11778G > A mutation
+C0026237||mitochondrial
+C0007600||cell lines
+C0026882||m.14502T > C
+C0026882||m.11778G > A mutations
+C0026882||m.11778G > A
+C0026882||m.14502T > C mutation
+C0026882||m.14502T > C mutation
+C0171406||complex I
+C0026882||m.11778G > A mutation
+C0171406||complex I
+C0026237||mitochondrial
+C0001480||ATP
+C0162772||reactive oxygen species
+C0596988||mutant
+C0007634||cells
+C0026882||m.14502T > C
+C0026882||m.11778G > A mutation
+C0026882||11778G > A mutation
+C0917796||Leber's hereditary optic neuropathy
+C0012929||mitochondrial DNA
+C0948444||mutations

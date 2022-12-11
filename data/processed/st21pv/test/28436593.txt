@@ -1,0 +1,52 @@
+C1261473||sarcoma
+C0011900||diagnoses
+C0553580||Ewing sarcoma
+C0332154||treated
+C0008976||Euro-EWING 99 trial
+C0008976||Euro-EWING 99 trial
+C1535514||European
+C0553580||Ewing tumor
+C1287154||Initiative
+C0015737||National
+C1507394||EE99
+C0282461||phase III study
+C0553580||Ewing sarcoma
+C1708333||German Society of Pediatric Oncology and Hematology (GPOH) data center
+C1514821||registered
+C0011900||diagnoses
+C0553580||Ewing sarcoma
+C0332154||treated
+C1507394||EE99 protocol
+C0242356||non-Ewing database
+C0011900||diagnoses
+C0553580||Ewing sarcoma
+C0332154||treated
+C1507394||EE99 protocol
+C0936012||analyzed
+C0011900||diagnoses
+C0011900||diagnosed
+C1261473||sarcoma
+C0391978||bone
+C0225317||soft tissue
+C0011900||diagnosis
+C0277565||Localized disease
+C0011900||diagnosed
+C0027627||distant metastases
+C0011900||diagnosis
+C1522577||follow-up
+C0277565||localized disease
+C0027627||metastases
+C1261473||sarcoma
+C0277565||localized
+C0027627||metastatic disease
+C0011900||diagnoses
+C0553580||Ewing sarcoma
+C0332154||treated
+C1507394||EE99
+C0277565||localized
+C0027627||metastatic disease
+C1261473||Sarcomas
+C0225317||soft tissue
+C0391978||bone
+C0008902||classified
+C0805586||challenge

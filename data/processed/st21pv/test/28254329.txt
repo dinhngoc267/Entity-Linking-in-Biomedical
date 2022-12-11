@@ -1,0 +1,62 @@
+C0243095||hydroxylation degree
+C0243095||biological response
+C0005479||biomaterials
+C0021102||implant
+C0205148||surfaces
+C0005889||biological fluids
+C0040300||tissues
+C0242481||systematic studies
+C0023866||scientific literature
+C0035168||research
+C0243095||hydroxylation degree
+C0243095||biological response
+C0243095||protein adsorption
+C0005767||blood
+C0007577||cell
+C0004614||bacterial adhesion
+C0005479||biomaterials
+C0205148||surfaces
+C0005479||implantable biomaterials
+C0205148||smooth surfaces
+C2348563||controlled protocol
+C0030015||oxides
+C0021521||ZrO2
+C0002374||Al2O3
+C0037098||SiO2
+C0025552||metals
+C0038239||316LSS steel
+C0040302||Ti
+C0028101||Nb
+C0032521||polymers
+C0032604||corona treated polystyrene
+C0032604||untreated polystyrene
+C0430402||bacteria culture
+C0205148||surfaces
+C0242481||contact profilometry
+C0026020||SEM
+C2699997||EDS
+C2700282||XPS
+C0206055||FTIR
+C0243095||Protein adsorption
+C0005767||blood
+C0004614||bacterial
+C0007577||cell adhesion
+C0243095||biological responses
+C2700282||XPS
+C0243095||hydroxylation degree
+C0005767||blood
+C0392366||test
+C0392366||tests
+C0243095||Hydroxylation degree
+C0043047||water
+C0242481||Wetting tests
+C0243095||protein absorption
+C0243095||hydroxylation degree
+C0205148||surfaces
+C0043047||water
+C0033684||protein
+C0004614||bacterial adhesion
+C0243095||protein adsorption
+C0243095||hydroxylation degree
+C0007577||cell adhesion
+C0007620||viability

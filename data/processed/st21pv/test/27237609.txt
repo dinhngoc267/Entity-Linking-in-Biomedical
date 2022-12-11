@@ -1,0 +1,34 @@
+C0012155||dietary
+C4049177||Non Enzymatic Antioxidant Capacity
+C0019557||hip fracture
+C0001792||elderly
+C0729311||Dietary antioxidants
+C0029453||bone loss
+C0016658||fractures
+C0242606||oxidative stress
+C0012155||dietary
+C4049177||Non Enzymatic Antioxidant Capacity
+C4049177||Non Enzymatic Antioxidant Capacity
+C0019557||hip fracture
+C0599755||Swedish National March Cohort
+C0025266||men
+C0043210||women
+C0006826||cancer
+C0007222||cardiovascular disease
+C0019557||hip fracture
+C0025101||record-linkages
+C4049177||Non Enzymatic Antioxidant Capacity
+C2986698||food frequency questionnaire
+C4049177||Non Enzymatic Antioxidant Capacity
+C0033489||multivariable adjusted Cox proportional hazards regression models
+C1522577||follow-up
+C0019557||hip fracture
+C0012155||dietary
+C4049177||Non Enzymatic Antioxidant Capacity
+C0019557||hip fracture
+C0012155||dietary
+C4049177||Non Enzymatic Antioxidant Capacity
+C0012155||dietary
+C4049177||Non Enzymatic Antioxidant Capacity
+C4049177||Non Enzymatic Antioxidant Capacity
+C0019557||hip fracture

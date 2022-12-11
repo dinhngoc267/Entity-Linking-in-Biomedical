@@ -1,0 +1,85 @@
+C0013081||Downregulation
+C1563722||Endothelial Transient Receptor Potential Vanilloid Type 4 Channel
+C1571638||Small-Conductance of Ca2+-Activated K+ Channels
+C0082428||Endothelium-Dependent Hyperpolarization
+C0020538||Hypertension
+C0082428||Endothelium-dependent hyperpolarization
+C0082428||Endothelium-dependent hyperpolarization
+C1704632||responses
+C0020538||hypertension
+C1571638||small-
+C1571649||intermediate-conductance of Ca(2+)-activated K(+) channels
+C1571638||SKCa
+C1571649||IKCa
+C0082428||Endothelium-dependent hyperpolarization
+C1704632||responses
+C0684224||reported
+C3158761||Ca(2+) influx
+C1563722||endothelial transient receptor potential vanilloid type 4 channel
+C1563722||transient receptor potential vanilloid type 4 channel
+C1571638||SKCa
+C1571649||IKCa
+C0225336||endothelial cells
+C0082428||Endothelium-dependent hyperpolarization
+C0020538||hypertension
+C1563722||transient receptor potential vanilloid type 4 channel
+C1571638||S
+C1571649||IKCa
+C0162861||superior mesenteric arteries
+C0034705||stroke-prone spontaneously hypertensive rats
+C0034705||SHRSP
+C0034709||Wistar-Kyoto (WKY) rats
+C0034709||Wistar-Kyoto
+C0003842||arteries
+C0082428||Endothelium-dependent hyperpolarization
+C1704632||responses
+C1571638||SKCa
+C1571649||IKCa
+C0003521||apamin
+C0916207||TRAM-34
+C0916207||1-[(2-chlorophenyl)diphenylmethl]-1H-pyrazole
+C1563722||transient receptor potential vanilloid type 4 channel
+C0243076||antagonist
+C2744078||RN-1734
+C3493142||HC-067047
+C0034705||SHRSP
+C0003842||arteries
+C0082428||EDH-mediated hyperpolarization
+C0034709||Wistar-Kyoto
+C2604031||GSK1016790A
+C1563722||transient receptor potential vanilloid type 4 channel
+C0243192||activator
+C2262820||hyperpolarization
+C0034709||Wistar-Kyoto
+C0003842||arteries
+C0034705||SHRSP
+C0003842||arteries
+C2604031||GSK1016790A
+C2262820||hyperpolarization
+C2262820||Hyperpolarization
+C2976731||cyclohexyl-[2-(3,5-dimethyl-pyrazol-1-yl)-6-methyl-pyrimidin-4-yl]-amine
+C1571638||SKCa
+C0243192||activator
+C0034705||SHRSP
+C0003842||arteries
+C0034709||Wistar-Kyoto
+C0003842||arteries
+C1171362||expression
+C1563722||endothelial TRPV4
+C1571638||SKCa
+C0034705||SHRSP
+C0162861||mesenteric arteries
+C0034709||Wistar-Kyoto
+C1171362||expression
+C1571649||IKCa
+C0034705||SHRSP
+C0003842||arteries
+C0243095||findings
+C0082428||Endothelium-dependent hyperpolarization
+C1704632||responses
+C0162861||superior mesenteric arteries
+C0034705||SHRSP
+C0441610||reduction
+C1563722||transient receptor potential vanilloid type 4 channel
+C1571638||SKCa
+C0082428||Endothelium-dependent hyperpolarization

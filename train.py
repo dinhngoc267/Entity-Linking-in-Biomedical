@@ -26,7 +26,7 @@ from src.utils import (
     load_all_mentions,
     load_negative_candidates
     )
-from .src.models.generate_model import GenerateCandidateModel
+from .src.models.candidate_generator import GenerateCandidateModel
 from src.data.pre_processing import convert_IOB2_format
 from tqdm import tqdm
 import logging

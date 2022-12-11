@@ -1,0 +1,39 @@
+C0205108||Distal
+C0149576||posterior cerebral artery
+C0007794||revascularization
+C0149576||PCA
+C0002940||aneurysm
+C0007794||revascularization
+C0205107||proximal
+C0149576||posterior cerebral artery
+C0028790||occlusion
+C0751004||giant
+C0333099||fusiform aneurysms
+C0021308||infarction
+C0149576||posterior cerebral artery
+C0028790||occlusion
+C3812881||authors
+C0741847||bypass
+C0005847||vessel
+C0333099||fusiform aneurysm
+C0149576||posterior cerebral artery
+C3640841||clinically failed
+C3697458||balloon test occlusion
+C0226117||occipital artery
+C0205108||distal
+C0149576||posterior cerebral artery
+C0741847||bypass
+C0002940||aneurysm
+C1522577||follow up
+C0007767||cerebral angiography
+C0741847||bypass
+C0149576||posterior cerebral artery
+C0038454||territory stroke
+C0205108||distal
+C0007794||revascularization
+C0205107||proximal
+C0149576||posterior cerebral artery
+C0028790||occlusion
+C0917798||cerebral ischemia
+C0021308||infarction
+C3697458||test occlusion

@@ -1,0 +1,47 @@
+C0687133||drug-drug interactions
+C0033080||prescriptions
+C0001792||elderly
+C0033137||primary health care
+C0001792||Elderly
+C0332167||high risk
+C0687133||drug-drug interactions
+C0687133||drug-drug interactions
+C2603343||study
+C0220825||evaluates
+C0687133||drug-drug interactions
+C0001792||elderly
+C0033137||primary health care
+C0029916||outpatient clinic
+C0242356||Online database systems
+C0687133||drug-drug interactions
+C0033080||prescriptions
+C1836458||clinical severity
+C0687133||drug-drug interactions
+C0242356||Lexi-Interact Online database
+C0033080||prescriptions
+C0687133||drug-drug interactions
+C0442726||detected
+C0687133||drug-drug interactions
+C0033080||prescriptions
+C0033080||Prescriptions
+C0687133||drug-drug interactions
+C0687133||drug-drug interactions
+C1254351||drugs
+C0033080||prescription
+C0004057||Acetylsalicylic acid
+C0001927||salbutamol
+C1254351||drugs
+C0243095||clinically important
+C0687133||drug-drug interactions
+C0004057||acetylsalicylic acid
+C1099456||escitalopram
+C1333602||predicted clinical outcomes
+C0687133||drug-drug interactions
+C0559546||adverse
+C0542243||toxic reactions
+C0687133||drug-drug interactions
+C0001792||elderly
+C0033080||prescribing
+C0003211||nonsteroidal anti-inflammatory agents
+C0360105||selective serotonin reuptake inhibitors
+C2936789||beta-2 adrenergic receptor agonists

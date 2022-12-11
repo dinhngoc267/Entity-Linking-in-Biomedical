@@ -1,0 +1,47 @@
+C0003188||anthropometry
+C0040405||computed tomography
+C0004153||Atherosclerosis
+C1519427||South Asians
+C0002454||America
+C0003188||anthropometry
+C1519427||South Asians
+C0041703||US
+C0010362||cross-sectional study
+C0679646||participants
+C0004153||Atherosclerosis
+C1519427||South Asians
+C0002454||America
+C2603343||(MASALA) Study
+C1305855||BMI
+C0412620||abdominal CT scans
+C1563740||visceral
+C0222331||subcutaneous fat
+C3161035||model
+C2598146||anthropometric measures
+C0003188||anthropometry
+C1563740||visceral fat
+C1563740||visceral fat
+C0455829||waist circumference
+C1563740||visceral fat
+C0043210||women
+C0025266||men
+C0043210||women
+C0025266||men
+C0003188||anthropometry
+C0222331||subcutaneous fat
+C0043210||women
+C0025266||men
+C1305855||BMI
+C0455829||waist circumference
+C0562350||hip circumference
+C0679646||participants
+C2598146||anthropometric measures
+C1563740||visceral
+C0222331||subcutaneous fat
+C0034510||race
+C0015031||ethnic groups
+C0035173||researchers
+C1519427||South Asians
+C0222331||subcutaneous fat
+C0455829||waist circumference
+C1563740||visceral fat

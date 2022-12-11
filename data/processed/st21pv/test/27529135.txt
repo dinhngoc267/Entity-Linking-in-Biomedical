@@ -1,0 +1,34 @@
+C0033684||Protein
+C0872079||Protein-Protein Interaction
+C1516769||computational approaches
+C0872079||protein-protein interactions
+C0025663||methods
+C0150098||datasets
+C2603343||study
+C0150098||datasets
+C0025663||methods
+C1446409||positive
+C0150098||datasets
+C0033684||proteins
+C0681493||graph
+C0872079||protein-protein interaction
+C0150098||datasets
+C0205160||negative
+C0150098||datasets
+C0033684||proteins
+C0681493||graph
+C1879629||adjacency matrix
+C0033684||proteins
+C0033684||proteins
+C0150098||datasets
+C0033684||Protein
+C1446409||positive
+C0205160||negative
+C0150098||datasets
+C0033684||protein
+C1446409||positive
+C0205160||negative
+C0150098||datasets
+C0150098||datasets
+C0872079||protein-protein interactions
+C0033684||proteins

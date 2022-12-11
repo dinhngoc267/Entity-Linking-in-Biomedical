@@ -1,0 +1,47 @@
+C0043210||Women's
+C0021344||human papillomavirus
+C0080142||self-sampling
+C0041700||UK
+C0007874||cervical
+C0021344||human papillomavirus
+C0021344||human papillomavirus
+C0007874||cervical
+C0021344||human papillomavirus
+C0021344||human papillomavirus
+C0080142||self-sampling
+C0242456||policy
+C0237607||practice
+C0021344||human papillomavirus
+C0080142||self-sampling
+C0010362||cross-sectional survey
+C0043210||women
+C0080142||self-sampling
+C0043210||women
+C0080142||self-sampling
+C0038951||survey
+C0679646||participants
+C0021344||human papillomavirus
+C0162425||intention
+C0030971||perceived
+C0021344||human papillomavirus
+C0302592||cervical cancer
+C0376554||knowledge
+C0021344||human papillomavirus
+C0080142||self-sampling
+C0043210||women's
+C0558092||low confidence
+C0558092||low confidence
+C0558092||lack of confidence
+C0007874||cervical
+C0035168||research
+C0021344||human papillomavirus
+C0080142||self-sampling
+C0242456||policy
+C0237607||practice
+C0243095||system-related barriers
+C0558092||low confidence
+C0007874||cervical
+C1710032||screening
+C0021344||human papillomavirus
+C0080142||self-sampling
+C0007874||cervical

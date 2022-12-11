@@ -1,0 +1,47 @@
+C0681814||Experimental study
+C0034052||pulmonary artery
+C1963784||sealing
+C0025080||vessel-sealing device
+C0025080||vessel-sealing devices
+C0752151||video-assisted thoracoscopic surgery
+C1963784||sealing
+C0034052||pulmonary arteries
+C0025080||Enseal tissue-sealing device
+C0034052||Pulmonary arteries
+C1296765||beagle dogs
+C1515655||in-vivo
+C0449371||sealing method
+C0025080||Enseal
+C0189722||ligation
+C0205107||proximal
+C0189722||ligation
+C0205108||distal
+C0025080||Enseal
+C0444930||end
+C0023928||lobectomy
+C0025080||sealed stumps
+C0599779||survival model
+C0034052||pulmonary arteries
+C0012984||dog
+C0034052||pulmonary arteries
+C0444930||end
+C0034052||pulmonary artery
+C0444930||ends
+C0023928||lobectomy
+C0012984||dogs
+C0034052||pulmonary artery
+C1513916||No
+C1963784||sealing
+C0243095||findings
+C0043240||healing
+C0019116||hemostasis
+C0444930||ends
+C0034052||pulmonary arteries
+C0034052||Pulmonary arteries
+C1515655||in vivo
+C0025080||Enseal device
+C0019116||hemostasis
+C0034052||Pulmonary artery
+C1963784||sealing
+C0025080||Enseal device
+C0524832||thoracic surgery

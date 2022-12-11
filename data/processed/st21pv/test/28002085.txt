@@ -1,0 +1,59 @@
+C0178314||injury
+C0599755||cohort
+C0027361||people
+C0019693||HIV
+C0178314||Injuries
+C0012634||disease
+C0178314||injury
+C0019693||people living with HIV
+C0019693||people living with HIV
+C2603343||study
+C0178314||injury
+C0019693||people living with HIV
+C0683971||general population
+C0006193||British Columbia
+C0006193||British Columbia
+C0006823||Canada
+C0150098||dataset
+C0242239||linkage
+C0205103||between
+C1708333||BC Centre for Excellence in HIV/AIDS
+C0019693||people living with HIV
+C0683971||general population
+C0008902||Classification
+C0012634||Diseases
+C0008902||classify
+C0151736||unintentional
+C0151737||intentional injuries
+C0178314||injury
+C0026348||Generalized estimating equation
+C0026348||Generalized estimating equation
+C0019693||HIV
+C0151736||unintentional
+C0151737||intentional injury
+C0178314||injury
+C0019693||people living with HIV
+C0151736||unintentional injury
+C0027361||person
+C0019693||people living with HIV
+C0027361||person
+C0683971||general population
+C0019693||people living with HIV
+C1306577||deaths
+C0178314||injury
+C1306577||deaths
+C0683971||general population
+C0026348||models
+C0019693||people living with HIV
+C0700287||report
+C0151736||unintentional
+C0151737||intentional injury
+C0683971||general population
+C0151737||intentional
+C0151736||unintentional injury
+C0019693||people living with HIV
+C0178314||Injuries
+C0178314||injury
+C0231170||disability
+C1306577||death
+C0019693||people living with HIV

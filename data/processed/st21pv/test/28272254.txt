@@ -1,0 +1,73 @@
+C0001645||β-blockers
+C0455825||left ventricular mass
+C0020538||hypertension
+C0026348||Bayesian network
+C0920317||meta-analysis
+C0149721||Left ventricular hypertrophy
+C0149721||Left ventricular hypertrophy
+C0020538||hypertension
+C0020538||hypertension
+C1301746||expert consensus document
+C0596070||American
+C0003015||angiotensin-converting enzyme inhibitor
+C0003015||angiotensin-converting enzyme inhibitor
+C0815017||angiotensin receptor blockers
+C0815017||angiotensin receptor blockers
+C0013227||therapeutic drugs
+C0304516||fat-soluble and selective β1-receptor blockers
+C0304516||fat-soluble and selective β1-receptor blockers
+C0001645||β-blockers
+C0149721||Left ventricular hypertrophy
+C0920317||analysis
+C0304516||fat-soluble and selective β1-receptor blockers
+C0003364||antihypertensive drugs
+C0003015||angiotensin-converting enzyme inhibitor
+C0815017||angiotensin receptor blockers
+C0006684||calcium channel blockers
+C0006684||calcium channel blockers
+C0012798||diuretics
+C0149721||Left ventricular hypertrophy
+C0008976||trials
+C1138432||PubMed
+C2349146||Web of Science
+C0282443||OVID EBM Reviews
+C0242356||Cochrane databases
+C1706852||papers
+C0026348||Bayesian
+C0920317||meta-analysis
+C0206035||randomized controlled trials
+C0206035||randomized controlled trials
+C0149721||Left ventricular hypertrophy
+C0936012||Sensitivity analysis
+C0034980||regression analysis
+C0936012||Inconsistency analysis
+C0920317||analysis
+C0008976||trials
+C0026348||network
+C0206035||randomized controlled trials
+C0020538||hypertension
+C0149721||Left ventricular hypertrophy
+C0920317||analysis
+C0026348||Bayesian network
+C0920317||meta-analysis
+C0304516||fat-soluble and selective β1-receptor blockers
+C0003015||angiotensin-converting enzyme inhibitor
+C0304516||fat-soluble and selective β1-receptor blockers
+C0815017||ARB
+C0304516||fat-soluble and selective β1-receptor blockers
+C0012798||diuretic
+C0006684||CCB
+C0087111||treatments
+C0304516||fat-soluble and selective β1-receptor blockers
+C0815017||ARB
+C0003015||angiotensin-converting enzyme inhibitor
+C0006684||CCB
+C0012798||diuretic
+C0920317||analysis
+C0304516||fat-soluble and selective β1-receptor blockers
+C0013227||therapeutic drugs
+C0020538||hypertension
+C0149721||Left ventricular hypertrophy
+C0304516||fat-soluble and selective β1-receptor blockers
+C0149721||Left ventricular hypertrophy
+C0008976||trials

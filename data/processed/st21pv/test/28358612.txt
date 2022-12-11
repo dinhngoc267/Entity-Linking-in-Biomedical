@@ -1,0 +1,62 @@
+C0376636||Management
+C0543472||Case Outcome
+C0600536||Raptors
+C0150093||Case Series
+C0600536||raptors
+C0325583||American kestrel
+C0325583||Falco sparverius
+C0325581||peregrine falcon
+C0325581||Falco peregrinus
+C0325569||golden eagle
+C0325569||Aquila chrysaetos
+C0326063||barn owl
+C0326063||Tyto alba
+C0011900||diagnosed
+C2355627||ventricular
+C0033745||proventricular
+C0232481||foreign material
+C0333124||impactions
+C0018210||grass
+C0027989||newspaper
+C0003123||Partial or total anorexia
+C0600536||birds
+C3519992||casting
+C0600536||birds
+C0038951||Survey
+C1306645||radiographs
+C0038351||gastric
+C1293134||enlargement
+C0600536||birds
+C0325582||kestrel
+C0325569||eagle
+C0017195||gastroscopy
+C0017134||gastric lavage
+C0549433||surgical intervention
+C2355627||ventricular
+C0333124||impactions
+C0600536||birds
+C2826209||died of undetermined causes
+C0325581||peregrine falcon
+C1306577||died
+C3179131||before medical
+C0549433||surgical intervention
+C0326063||owl
+C0301571||liquid diet
+C0232481||facilitate egestion of the foreign material
+C0023176||Lead poisoning
+C0232481||foreign body ingestion
+C0325569||eagle
+C0031873||pica
+C0600536||birds
+C1306645||Radiographs
+C0221423||sick
+C0600536||raptors
+C0042963||exhibit vomiting
+C0426587||changes in appetite
+C3519992||casting frequency
+C0087111||treatment decisions
+C0600536||birds
+C0518609||consideration
+C0232481||foreign material that could be ingested
+C0376636||management strategy
+C0600536||raptors

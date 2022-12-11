@@ -1,0 +1,20 @@
+C0524620||Metabolic Syndrome
+C1556095||Korean
+C0524620||metabolic syndrome
+C2603343||study
+C0524620||metabolic syndrome
+C0080105||subjects
+C1556095||Korean
+C0376344||National Health and Nutrition Examination Survey
+C0425104||shift
+C4316562||day workers
+C0010362||cross-sectional study
+C0332128||examine
+C0524620||metabolic syndrome
+C0524620||metabolic syndrome
+C0425104||shift workers
+C0524620||metabolic syndrome
+C0524620||metabolic syndrome
+C0043210||women
+C0524620||metabolic syndrome
+C0162579||workplace

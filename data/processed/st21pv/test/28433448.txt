@@ -1,0 +1,61 @@
+C0002871||Anemia
+C0011860||type 2 diabetes
+C0035648||risk factors
+C0033325||prognosis
+C0035648||risk factors
+C0033325||prognosis
+C0002871||anemia
+C0030701||representative
+C0011860||type 2 diabetes
+C2603343||Fremantle Diabetes Study Phase II
+C2603343||FDS2
+C2603343||Busselton Diabetes Study
+C2603343||Busselton Diabetes Study
+C0599755||cohorts
+C2603343||Busselton Diabetes Study
+C0679646||participants
+C0011847||diabetes
+C0936012||analyzed
+C0002871||anemia
+C0019046||hemoglobin
+C0178913||sample
+C2603343||FDS2
+C0002871||anemia
+C0206031||logistic regression
+C0010235||Cox proportional hazards modeling
+C0035648||predictors
+C0011065||death
+C0002871||anemia
+C2603343||FDS2
+C0679646||participants
+C2603343||Busselton Diabetes Study
+C2603343||Busselton Diabetes Study
+C0679646||participants
+C0011847||diabetes
+C2603343||FDS2
+C0002871||anemia
+C0035648||risk factor
+C0427408||serum vitamin B12
+C0241012||serum ferritin
+C1277709||transferrin saturation
+C0428413||serum testosterone
+C1257987||glitazone
+C0087111||therapy
+C3811844||estimated glomerular filtration rate
+C3811844||estimated glomerular filtration rate
+C4282132||malignancy
+C0019045||hemoglobinopathy
+C0857322||anemic
+C0857322||non-anemic
+C2603343||FDS2
+C0035648||predictors
+C1704258||Aboriginality
+C3811844||estimated glomerular filtration rate
+C0002871||anemia
+C0011860||Type 2 diabetes
+C0002871||anemia
+C0035648||risk factors
+C0150312||present
+C0002871||Anemia
+C2749787||increased risk of death
+C0035648||predictors

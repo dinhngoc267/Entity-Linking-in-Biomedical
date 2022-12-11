@@ -1,0 +1,42 @@
+C0037949||Spinal
+C0028661||nurses
+C0028754||obese
+C0028661||Nurses
+C3263722||injury
+C1832073||handling
+C0028754||obese
+C0018017||goal
+C0037949||spinal
+C3263722||injury
+C0028661||nurses
+C0028754||obese
+C0183235||bariatric sheet
+C0019994||hospital
+C0028661||nurses
+C2603343||study
+C0430022||biomechanical analysis
+C0028754||obese
+C0681814||experimental study
+C1305855||Body Mass Index
+C1305855||Body Mass Index
+C0430022||Three-dimensional motion analysis
+C0025080||optoelectronic system
+C0460005||trunk
+C0600169||kinematics
+C0037949||spines
+C0028661||nurses
+C1441526||computed
+C0028661||nurse
+C0460005||trunk
+C0231452||flexed
+C2607871||range of motion
+C0028661||nurse
+C1305855||BMIs
+C0026841||tension
+C0224323||lumbar muscles
+C0026649||movement
+C0028661||nurse
+C0018670||head
+C0016504||feet
+C0037949||spine
+C0028661||nurse

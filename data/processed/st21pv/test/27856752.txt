@@ -1,0 +1,10 @@
+C0565987||ecological
+C0242481||network analysis
+C0242481||Network analysis
+C0565987||ecological structures
+C0242481||network studies
+C0449738||directed
+C0016452||food
+C0003740||Arctic
+C0001905||Alaska
+C0565987||ecological

@@ -1,0 +1,72 @@
+C0012022||Diazoxide
+C0162772||reactive oxygen species
+C1096176||mitochondrial damage
+C0243095||anti-hypertrophic effects
+C1383860||cardiac hypertrophy
+C0446987||wall
+C0205400||thickening
+C0729936||chamber
+C0020564||enlargement
+C0018787||heart
+C0184511||improve
+C0178784||organ
+C1258017||contractile function
+C0026237||mitochondria
+C0242606||oxidative stress
+C0764439||Mitochondrial ATP-sensitive K(+) channels
+C0764439||mitoKATP
+C0443264||modulate
+C0030012||redox status
+C0007634||cell
+C0018787||cardiac
+C0764439||mitoKATP
+C1882151||opening
+C0012022||diazoxide
+C0022245||isoproterenol
+C1383860||cardiac hypertrophy
+C1515655||in vivo
+C0162772||reactive oxygen species
+C0162772||(ROS
+C0026237||mitochondrial
+C0596235||Ca(2+)
+C0038999||swelling
+C1383860||cardiac hypertrophy
+C0162416||Swiss mice
+C0442120||intraperitoneally
+C0022245||isoproterenol
+C0012022||Diazoxide
+C0764439||mitoKATP
+C0098450||5-hydroxydecanoate
+C0764439||mitoKATP
+C0022245||Isoproterenol
+C0025929||mice
+C0018787||heart
+C1279118||tibia
+C0225828||myocyte
+C0243095||cross-sectional areas
+C0018787||hearts
+C0020281||H2O2
+C1151528||glutathione peroxidase activity
+C0764439||mitoKATP
+C1882151||opening
+C0012022||diazoxide
+C0022245||isoproterenol
+C0098450||5-hydroxydecanoate
+C0026237||mitochondria
+C0022245||Isoproterenol
+C0018787||hearts
+C0596235||Ca(2+)
+C0038999||swelling
+C0908146||mitochondrial permeability transition pore
+C1882151||opening
+C0764439||MitokATP
+C1882151||opening
+C0596235||Ca(2+)
+C0026244||mitochondrial swelling
+C0098450||5-hydroxydecanoate
+C0764439||mitoKATP
+C1882151||opening
+C0205160||negatively
+C1327622||regulates
+C1383860||cardiac hypertrophy
+C1096176||mitochondrial damage

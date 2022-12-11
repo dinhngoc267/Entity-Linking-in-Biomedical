@@ -1,0 +1,73 @@
+C0238767||Bilateral
+C0025080||C1 laminar hooks
+C1961768||C2 pedicle screw
+C0185023||fixation
+C0087111||treatment
+C0263905||atlantoaxial subluxation
+C0263885||Grisel syndrome
+C0263905||atlantoaxial subluxaion
+C0263885||Grisel syndrome
+C0263885||Grisel syndrome
+C0263905||subluxation
+C0018670||head
+C0027530||neck
+C0011900||Diagnosis
+C0262926||clinical history
+C0242114||suspicion
+C0039082||syndrome
+C0087111||Nonsurgical treatment
+C1457887||symptoms
+C0543467||surgical treatment
+C0374711||repair
+C0263905||subluxation
+C0011918||surgical techniques
+C0348000||instrumentation systems
+C0087111||treat
+C0263905||atlantoaxial subluxation
+C0087111||treatment method
+C1257890||population
+C0263905||atlantoaxial subluxation
+C0263885||Grisel syndrome
+C0332154||treated
+C0543467||surgically
+C0025080||construct
+C0085973||case report
+C0282441||literature review
+C0085973||case study
+C0332119||history
+C0263905||Fielding type II atlantoaxial subluxation
+C0263885||Grisel syndrome
+C0459914||conservative treatment
+C1457887||symptoms
+C0441610||closed reduction
+C2370853||open reduction
+C0037935||C1-C2 fusion
+C0181209||atlas laminar hook
+C0301559||axis pedicle polyaxial screws
+C0282441||literature review
+C0543467||surgical treatment
+C0263885||Grisel syndrome
+C0599766||functional recovery
+C1457887||symptoms
+C1522577||follow-up
+C0582103||examination
+C0438110||satisfactory
+C0441610||reduction
+C1293131||fusion
+C0009566||complications
+C0282441||literature review
+C0263885||Grisel syndrome
+C0543467||surgically
+C0459914||Conservative management
+C0263885||Grisel syndrome
+C0087111||treatment
+C0700287||reported
+C0023866||literature
+C0438110||Satisfactory
+C2985631||clinical results
+C1293131||fusion
+C0241311||post surgery
+C0263905||atlantoaxial subluxation
+C1444783||instability
+C0181209||atlas laminar hook
+C0301559||axis pedicle polyaxial screws

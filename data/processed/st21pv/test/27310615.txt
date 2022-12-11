@@ -1,0 +1,61 @@
+C3665472||Chemotherapy
+C0012155||Diet
+C0392209||Nutritional Status
+C0043210||Women
+C0006142||Breast Cancer
+C0033522||Prospective Study
+C0016452||food groups
+C3665472||chemotherapy
+C3665472||chemotherapy
+C0879626||side effects of treatment
+C0392209||nutritional status
+C2603343||study
+C0220825||evaluate
+C0012155||diet
+C0392209||nutritional status
+C0043210||women
+C0006142||breast cancer
+C0006142||breast cancer
+C0033522||prospective longitudinal study
+C0043210||women
+C0006142||breast cancer
+C0814244||dietary assessments
+C0566508||dietary recall
+C0282574||Brazilian Healthy Eating Index Revised
+C0282574||Brazilian Healthy Eating Index Revised
+C0282574||EAR cut-off point method
+C0282574||Brazilian Healthy Eating Index Revised
+C0936012||analysis
+C0043210||women
+C0012155||diet
+C3840684||modification
+C3665472||chemotherapy
+C0522060||inadequate diet
+C0016767||Fruit
+C2348898||Dark Green
+C0016452||Orange Vegetable
+C0023263||Legume
+C0282575||micronutrients
+C0006726||calcium
+C0376520||iron
+C0080014||phosphorus
+C2348270||magnesium
+C0027996||niacin
+C0035527||riboflavin
+C0039840||thiamin
+C0087162||vitamin B6
+C0003968||vitamin C
+C2348288||zinc
+C0028708||Assessment
+C0392209||nutritional status
+C0497406||overweight
+C1305855||BMI
+C0455829||Waist Circumference
+C1457868||worse
+C0392209||nutritional status
+C1305855||BMI
+C1821269||Waist-to-Height Ratio
+C3665472||Chemotherapy
+C0012155||diet
+C0282575||micro
+C0392209||nutritional status

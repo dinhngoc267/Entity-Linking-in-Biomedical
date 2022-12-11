@@ -1,0 +1,36 @@
+C4081854||high-intensity
+C1274143||communication interventions
+C0156543||abortion
+C0021201||India
+C0010362||cross-sectional study
+C4081854||high-intensity model
+C4081854||high-intensity model
+C1274143||communication interventions
+C0021201||India
+C0043210||women's
+C1948177||knowledge
+C0156543||safe abortion
+C0184661||intervention
+C0010362||cross-sectional household surveys
+C0555047||married
+C0043210||women
+C0184661||intervention
+C0184661||intervention
+C0243095||sociodemographic characteristics
+C0184661||intervention
+C0156543||abortion
+C0376554||knowledge
+C4081854||high-intensity model
+C0184661||intervention
+C0376554||comprehensive knowledge
+C0156543||abortion
+C0376554||knowledge
+C0000812||legality of abortion
+C3697217||safe abortion care
+C0376554||knowledge
+C0156543||abortion
+C0184661||intervention
+C0156543||abortion
+C0043210||women
+C0156543||safe abortion
+C0851640||postabortion complications

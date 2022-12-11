@@ -1,0 +1,43 @@
+C0333519||Caries
+C0026618||Dental Fluorosis
+C0017446||Quetta
+C0030211||Pakistan
+C0011334||dental caries
+C0026618||dental fluorosis
+C4019289||dietary behaviour
+C0017446||Quetta
+C0030211||Pakistan
+C0010362||Cross-sectional study
+C0036375||Government
+C0036375||private schools
+C0017446||Quetta
+C0036375||schools
+C0010995||data collection
+C0034394||questionnaire
+C0011334||Dental caries
+C0332128||examined
+C0043237||WHO
+C0011334||Dental caries
+C0011334||dental caries
+C0026618||Dental fluorosis
+C0026618||Dental fluorosis
+C0011334||dental caries
+C0026618||fluorosis
+C0333519||caries
+C0026618||fluorosis
+C0333519||caries
+C0040462||paste
+C0040461||brushing habit
+C0011379||miswak
+C0011441||dentist
+C0016452||pastries
+C1268568||juices
+C0011334||dental caries
+C0011334||Dental caries
+C0017446||Quetta
+C0016327||fluoride
+C0454664||countries
+C0026618||dental fluorosis
+C0016452||pastries
+C1268568||juices
+C0011334||dental caries

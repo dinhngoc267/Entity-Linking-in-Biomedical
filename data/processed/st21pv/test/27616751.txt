@@ -1,0 +1,44 @@
+C0003250||Anti-CD45RB
+C2891288||allograft skin rejection
+C0682639||memory T cells
+C0682639||memory T (Tm)cells
+C0018129||rejection
+C0524930||transplanted organs
+C0003250||anti-CD45RB monoclonal antibody (α-CD45RB)
+C0013018||donor
+C0887937||tolerance
+C2603343||study
+C1521751||C57BL/6 mice
+C1123023||skin
+C0026809||BLAB/c mice
+C0682639||Tm cells
+C0018129||rejection
+C0450127||allografts
+C0003250||α-CD45RB
+C0887937||tolerance
+C0440814||skin allograft
+C0887937||tolerance
+C0026809||pre-sensitized mice
+C0887937||tolerance
+C0003250||α-CD45RB
+C0018129||rejection
+C0682639||memory T cells
+C0026809||pre-sensitized mice
+C0039194||CD25+ T-cell
+C0677960||depletion
+C0003250||α-CD45RB
+C0087111||therapy
+C0440814||skin allograft
+C0887937||tolerance
+C0376518||adoptive transfer
+C0013018||donor
+C0682639||memory T cells
+C0887937||tolerant
+C0887937||tolerance
+C0243095||findings
+C0003250||α-CD45RB
+C0018129||rejection
+C0682639||memory T cells
+C0440814||skin allograft
+C0301944||acceptance
+C0026809||mice

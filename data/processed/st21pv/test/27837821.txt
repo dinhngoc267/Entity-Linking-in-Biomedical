@@ -1,0 +1,19 @@
+C0043188||wine
+C0282354||descriptors
+C0684224||reports
+C0936012||analysis
+C0043188||wine
+C0027363||sensory panel
+C0349371||red wine
+C0936012||analysed
+C0002045||fast Fourier transform
+C0002045||fast Fourier transform
+C0012630||linear discriminant analysis
+C0012630||linear discriminant analysis
+C0034980||partial least squares regression
+C0034980||partial least squares regression
+C0008902||classification
+C0043188||wine
+C0001811||ageing
+C0027363||trained sensory panel
+C1515021||subset

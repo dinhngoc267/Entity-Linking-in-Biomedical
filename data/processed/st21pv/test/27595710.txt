@@ -1,0 +1,39 @@
+C0184661||Intervention
+C2364172||Medication Adherence
+C1331016||Low-Income
+C0011860||Type 2
+C0746935||Nonadherence
+C0011847||diabetes
+C2081612||medication
+C2718080||mobile health
+C2718080||mobile health
+C0184661||intervention
+C1706077||user
+C2364172||medication adherence
+C1706077||users
+C0679646||within-participant
+C0019018||HbA1c
+C0011860||type 2 diabetes
+C0220825||assessment
+C1706077||user
+C1706077||users
+C3178910||text messages
+C0679646||participant
+C0871472||t-tests
+C0679646||within-participant
+C3161035||regression models
+C0679646||participant's
+C0019018||HbA1c
+C0679646||Participants
+C0019018||HbA1c
+C2081612||medications
+C2081612||medications
+C2081612||medications
+C0679646||Participants
+C3178910||text messages
+C0679646||participants
+C0019018||HbA1c
+C1706077||users
+C2718080||mobile health
+C0184661||interventions
+C1331016||low-income

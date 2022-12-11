@@ -1,0 +1,32 @@
+C0030596||cyclical parthenogenesis
+C1257890||population
+C1705920||species
+C0030596||Cyclical parthenogenesis
+C0030596||Cyclical parthenogenesis
+C1522642||clonal
+C0035150||reproduction
+C1705920||species
+C0242775||crop
+C0003562||aphids
+C0585165||human parasites
+C3889286||trematodes
+C3161035||models
+C0017398||evolutionary science
+C0010979||Daphnia
+C0030596||Cyclical parthenogenesis
+C1522642||clonal
+C0030596||Cyclical parthenogenesis
+C1708726||locus
+C0679083||simulations
+C1708726||loci
+C1522642||clonal
+C0026882||mutations
+C0917892||genetic drift
+C0030596||Cyclical parthenogenesis
+C1708726||locus
+C0034865||recombination
+C0007613||gametic phases
+C0030596||Cyclical parthenogenesis
+C0237401||individuals
+C3161035||null model
+C0015219||evolutionary

@@ -1,0 +1,49 @@
+C0206054||transesophageal echocardiography
+C3888970||embolic strokes of undetermined source
+C0011933||diagnostic yield
+C0206054||transesophageal echocardiography
+C0206054||transesophageal echocardiography
+C0948008||ischemic stroke
+C0948008||ischemic stroke
+C0679228||diagnostic criteria
+C3888970||embolic strokes of undetermined source
+C3888970||embolic strokes of undetermined source
+C0948008||ischemic stroke
+C3888970||embolic strokes of undetermined source
+C0019994||hospital
+C0206054||TEE examination
+C0587437||tertiary care stroke centers
+C1955832||systematic review
+C0920317||meta-analysis estimating
+C0206054||transesophageal echocardiography
+C0243095||findings
+C1277289||secondary stroke prevention
+C0948008||ischemic stroke
+C3888970||embolic strokes of undetermined source
+C1261322||underwent investigation
+C0206054||transesophageal echocardiography
+C0025266||men
+C0206054||transesophageal echocardiography
+C0243095||findings
+C2348561||study population
+C0206054||transesophageal echocardiography
+C0243095||findings
+C0003281||anticoagulation therapy
+C1533734||administration
+C0338237||IV antibiotic therapy
+C0189967||patent foramen ovale closure
+C0003281||anticoagulation therapy
+C0205161||abnormal
+C0206054||transesophageal echocardiography
+C0243095||findings
+C0948008||ischemic stroke
+C0920317||meta-analysis
+C0936012||subgroup analysis
+C0003281||anticoagulation therapy
+C0206054||transesophageal echocardiography
+C3888970||embolic strokes of undetermined source
+C0948008||ischemic stroke
+C0206054||transesophageal echocardiography
+C0243095||findings
+C0087111||therapeutic strategy
+C3888970||embolic strokes of undetermined source

@@ -1,0 +1,76 @@
+C1452353||TRPV6
+C2976269||TMEM16A
+C0014597||epithelial principal cells
+C1882657||rat epididymis
+C0014533||epididymis
+C0014406||environment
+C0037846||sperm maturation
+C0005889||fluid
+C0006675||calcium
+C0014533||epididymal tubule
+C0162585||ionic currents
+C1156269||calcium homeostasis
+C1882657||rat epididymal
+C0014597||epithelial cells
+C2603343||study
+C1156269||calcium regulation
+C0014533||epididymis
+C0242625||patch-clamp method
+C0034693||rat
+C0228024||cauda epididymal
+C0007634||principal cells
+C0442726||detect
+C0596235||Ca(2+)
+C0162585||current
+C0014609||epithelial
+C0006685||calcium channel
+C1452353||TRPV6
+C1831759||pharmacological data
+C1956140||active calcium-activated chloride conductance
+C1956140||calcium-activated chloride conductance
+C0521119||extracellular
+C0006675||calcium
+C1452353||TRPV6
+C1956140||calcium-activated chloride conductance
+C0205838||Lanthanide
+C1452353||TRPV6
+C1516145||inhibited
+C1956140||calcium-activated chloride conductance
+C1956140||calcium-activated chloride conductance
+C0028067||niflumic acid
+C1516145||inhibits
+C0007634||whole-cell
+C0162585||currents
+C0534702||La(3+)
+C0007634||whole-cell
+C0162585||currents
+C0007634||principal cells
+C0025251||Membrane potential
+C0534702||La(3+)
+C0022009||sensitive ion channels
+C1552740||specific
+C2976269||TMEM16A
+C0243077||inhibitor
+C0039294||tannic acid
+C1515655||In vivo
+C0031001||perfusion
+C0228024||cauda epididymal tubule
+C0596235||Ca(2+)
+C3852988||reabsorption
+C0524462||luminal side
+C0035975||ruthenium red
+C0014609||epithelial
+C0006685||Ca(2+) channels
+C1956140||calcium-activated chloride conductance
+C0035696||messenger RNA
+C1452353||TRPV6
+C2976269||TMEM16A
+C1882657||rat epididymis
+C0033684||proteins
+C0392752||colocalize
+C0007634||principal cells
+C1452353||TRPV6
+C2976269||TMEM16A
+C0007634||principal cells
+C1156269||regulation of calcium homeostasis
+C0014533||epididymis

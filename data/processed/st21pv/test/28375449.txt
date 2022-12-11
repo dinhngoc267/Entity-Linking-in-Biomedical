@@ -1,0 +1,19 @@
+C0677554||anastomotic technique
+C0472889||thoracolaparoscopic Ivor-Lewis esophagectomy
+C0192353||Thoracoscopic intrathoracic esophagogastrostomy
+C0472889||Ivor-Lewis esophagectomy
+C0543467||surgical procedure
+C0677554||anastomotic technique
+C0472889||thoracolaparoscopic Ivor-Lewis esophagectomy
+C0543467||operations
+C0009068||intrathoracic suturing
+C0087111||knotting
+C0348000||instruments
+C0025080||OrVil system
+C0025080||reverse-puncture head
+C0006826||cancer
+C0227191||distal third of the esophagus
+C0007144||gastric cardia
+C0543467||surgical procedure
+C0677554||anastomotic technique
+C0472889||thoracolaparoscopic Ivor-Lewis esophagectomy

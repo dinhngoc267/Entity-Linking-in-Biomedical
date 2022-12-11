@@ -1,0 +1,48 @@
+C0532578||voglibose
+C1533734||administration
+C0598783||lipid metabolism
+C0012240||gastrointestinal
+C0005390||bile acid
+C0008972||study
+C0018017||goal
+C0532578||voglibose
+C1533734||administration
+C0598783||lipid metabolism
+C0521974||high fat diet
+C0025933||obese mice
+C1521751||C57BL/6 mice
+C0428462||serum lipid
+C0583332||glucose levels
+C0017337||genes
+C0598783||lipid
+C0678714||bile acid metabolism
+C2732543||pyrosequencing
+C0486616||composition
+C0015733||feces
+C0043094||Total body weight gain
+C3853758||metabolic profiles
+C0392201||blood glucose
+C0428475||triglyceride
+C0428466||total cholesterol levels
+C0532578||voglibose
+C1533734||administration
+C1254144||Firmicutes
+C0995456||Bacteroidetes
+C0015733||feces
+C0039358||taurocholic
+C0055568||cholic acid
+C0011479||Deoxycholic acid
+C0532578||Voglibose
+C1533734||administration
+C0013081||downregulated
+C1413895||CYP8B1
+C1415629||HNF4α genes
+C0041904||upregulated
+C1418779||PGC1α
+C1417825||FXRα
+C0532578||Voglibose
+C1533734||administration
+C0486616||composition
+C0870883||circulating metabolites
+C0598783||lipid metabolism
+C0025929||mice

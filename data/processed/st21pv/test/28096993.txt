@@ -1,0 +1,13 @@
+C0282160||cutis aplasia
+C0024796||Marfan syndrome
+C0085973||case report
+C0024796||Marfan syndrome
+C0282160||aplasia cutis congenita
+C0282160||aplasia cutis congenita
+C0241889||family history
+C0024796||Marfan syndrome
+C0282160||aplasia cutis congenita
+C0026882||mutation
+C0024796||Marfan syndrome
+C0024796||Marfan syndrome
+C0282160||aplasia cutis congenita

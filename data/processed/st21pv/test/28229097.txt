@@ -1,0 +1,51 @@
+C0042870||Hypovitaminosis D
+C0042866||Vitamin D
+C0036532||secosteroid
+C0678723||development
+C0262950||bone
+C1257890||populations
+C0006657||25-hydroxy vitamin D
+C0006657||25-(OH)-D
+C0879626||adverse
+C0035579||rickets
+C0029442||osteomalacia
+C0410213||osteomalacic myopathy
+C0872084||sarcopenia
+C3714552||weakness
+C0151686||growth retardation
+C0020598||hypocalcemia
+C0036572||seizure
+C0039621||tetany
+C0004352||autism
+C0007222||cardiovascular diseases
+C0011849||diabetes mellitus
+C0006826||cancers
+C0376358||prostate
+C0009375||colon
+C0006142||breast
+C0009450||infectious diseases
+C0042769||viral
+C0041296||tuberculosis
+C0004364||autoimmune diseases,
+C0026769||multiple sclerosis
+C0677607||Hashimoto's thyroiditis
+C0035648||Risk factors
+C0042870||hypovitaminosis D
+C0027361||people
+C0037290||darker skin pigmentation
+C0021294||prematurity
+C0337646||living in northern latitudes
+C0162429||malnutrition
+C0028754||obesity
+C0243095||low maternal vitamin D level
+C0013227||medications
+C0684271||drinking
+C0349374||unfortified cow's milk
+C0085605||liver failure
+C0403447||chronic renal insufficiency
+C0010674||cystic fibrosis
+C0004096||asthma
+C0282443||review
+C0042870||vitamin D deficiency
+C0879626||adverse
+C0282443||review

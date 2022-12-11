@@ -1,0 +1,29 @@
+C0413048||insecticide poisoning
+C0936012||analysis
+C0413048||insecticide poisoning
+C0001721||affects
+C0413048||insecticide-poisoning
+C0449774||patterns
+C0034869||Records
+C0936012||analysis
+C0449774||patterns
+C0003455||Ant
+C0009208||cockroach
+C1154182||Sprays
+C0150312||found
+C0597329||pyrethroids
+C0034245||pyrethrins
+C0031962||piperonly butoxide
+C0012013||organophosphate diazinon
+C2584309||Mouthing
+C0232478||ingesting
+C0031253||pest-control product
+C0332237||Topical
+C1154182||sprays
+C0948564||medical attention
+C0418832||advised by
+C0008071||child development
+C2584309||mouthing
+C0243095||finding
+C0032343||poisonings
+C0949366||vulnerable population

@@ -1,0 +1,13 @@
+C0677521||chicken meats
+C0030054||oxygen
+C0007012||CO2
+C0028158||N2
+C0302583||iron
+C0030054||oxygen
+C0025953||microbiological
+C0677521||chicken thigh meats
+C0033808||Pseudomonas spp.
+C0162781||TBARS
+C2612546||lipid
+C1159301||protein oxidation
+C0677521||chicken thigh meats

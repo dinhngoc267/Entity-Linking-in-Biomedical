@@ -1,0 +1,58 @@
+C0014939||Estrogen
+C0507372||lumbar facet joints
+C0003864||arthritis
+C0507372||lumbar facet joint
+C0507372||lumbar facet joint
+C0003864||arthritis
+C0043210||women
+C0025320||menopause
+C0014939||estrogen
+C0507372||lumbar facet joint
+C0003864||arthritis
+C2603343||study
+C0025929||ovariectomized (OVX) mice
+C0014939||estrogen
+C0206159||post-menopausal
+C0043210||women
+C2350281||Micro-CT
+C0021044||immunohistochemistry
+C0543482||morphological
+C0029936||ovariectomy
+C0507372||lumbar facet joint
+C0003864||arthritis
+C0507372||lumbar facet joint
+C0005938||subchondral bone mass
+C0025929||OVX mice
+C0229984||cavities
+C0262950||subchondral bone
+C0007301||cartilage
+C0029936||ovariectomy
+C0507372||lumbar facet joint
+C0003864||arthritis
+C0005847||blood vessels
+C0011164||degenerated
+C0507372||lumbar facet joint
+C0262950||subchondral bone
+C0005898||area
+C0014912||17β-Estradiol
+C0087111||treatment
+C0507372||lumbar facet joint
+C0231544||subchondral bone turnover
+C0007301||cartilage
+C0005847||blood vessel
+C0027747||nerve ending
+C0018270||growth
+C0011164||degenerated
+C0507372||lumbar facet joint
+C0025929||OVX mice
+C2603343||study
+C0014939||estrogen
+C0507372||lumbar facet joint
+C0011164||degeneration
+C0014939||estrogen
+C1515655||in vivo
+C0262950||subchondral bone
+C0014935||estrogen replacement therapy
+C0011164||degeneration
+C0507372||lumbar facet joint
+C0014939||estrogen

@@ -1,0 +1,12 @@
+C0030231||Palliative Care
+C0545406||Abutment
+C0178314||injury
+C0011397||retention
+C0011463||Removable Partial Denture
+C0011463||Removable Partial Denture
+C0011395||design
+C4277744||patient comfort
+C1299495||clinical report
+C0011463||Removable Partial Denture
+C0205123||coronal
+C1331418||comfort

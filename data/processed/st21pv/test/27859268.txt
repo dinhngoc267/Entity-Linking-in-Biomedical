@@ -1,0 +1,44 @@
+C1527249||colorectal cancer
+C0027651||tumour
+C0033522||prospective study
+C0041700||UK
+C0043210||women
+C1527249||colorectal cancer
+C0027651||tumour
+C0041700||UK
+C0033522||prospective study
+C0035648||risk factors
+C1527249||colorectal cancer
+C0005898||anatomical sites
+C0543482||morphological
+C0449560||subtypes
+C0043210||women
+C1527249||colorectal cancers
+C1522577||follow-up
+C0805443||national cancer registry
+C0010235||Cox regression
+C1527249||colorectal cancer
+C1305855||body mass index
+C1305855||body mass index
+C0030563||parity
+C0282402||menopausal hormone therapy
+C0543482||morphological
+C0337664||smokers
+C0333727||signet ring cell
+C0206754||neuroendocrine tumours
+C0028754||Obese
+C0043210||women
+C0333727||signet ring cell
+C0027651||tumours
+C0001418||adenocarcinomas
+C1527249||colorectal cancers
+C0599755||cohort
+C0035648||risk factor
+C0027651||tumours
+C1305188||right colon
+C0227388||left colon
+C0034896||rectum
+C0035648||factors
+C0014507||epidemiological
+C0243095||findings
+C0027651||tumour

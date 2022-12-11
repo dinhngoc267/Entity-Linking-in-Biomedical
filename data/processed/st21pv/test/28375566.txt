@@ -1,0 +1,41 @@
+C0596290||cell proliferation
+C0013341||dye dilution assay
+C0682523||cell lines
+C0282547||cocultures
+C0596290||Cell proliferation
+C3714634||processes in biological systems
+C0596290||cell proliferation
+C0005532||biological
+C0373483||drug screening
+C0005522||biologics
+C0220825||assessment
+C0596402||cytotoxicity
+C3899698||proliferation assays
+C0007584||cell number
+C0007634||cell population
+C0936012||analysis
+C0007635||cocultured cells
+C0005507||assays
+C0596290||cell proliferation
+C1524026||cellular metabolic activity
+C0013341||dye dilution assay
+C0016320||fluorescent cell tracking dyes
+C0007634||cells
+C0007590||cell divisions
+C1510438||assay
+C0596290||cell proliferation
+C0682523||cell lines
+C0936012||analyze
+C0682523||cell lines
+C0282547||coculture
+C2936595||cell tracking
+C0016320||dyes
+C0013341||dye dilution assay
+C0025663||methods
+C0023866||literature
+C0016320||dye
+C0007635||cocultured cells
+C0007634||cells
+C0016320||dye
+C0016263||flow cytometric analyses
+C0007634||cellular

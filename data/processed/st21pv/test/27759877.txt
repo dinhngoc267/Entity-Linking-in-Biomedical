@@ -1,0 +1,19 @@
+C0199242||Pharmacological Venous Thromboembolism Prophylaxis
+C0025286||Meningioma
+C2936319||report
+C1552762||Turkish Neurosurgery
+C0035363||retrospective study
+C0349604||intracranial meningioma
+C4283938||open surgery
+C1861172||venous thromboembolism
+C1861172||venous thromboembolism
+C1861172||venous thromboembolism
+C0149871||deep vein thrombosis
+C0149871||deep vein thrombosis
+C0034065||pulmonary embolism
+C0034065||pulmonary embolism
+C0009566||complication
+C1096493||meningioma surgery
+C0199176||prophylaxis
+C1861172||venous thromboembolism
+C0420172||pharmacological prophylaxis

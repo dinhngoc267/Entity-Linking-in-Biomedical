@@ -1,0 +1,45 @@
+C0563143||Function
+C0087111||treatments
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0087111||treatments
+C0009240||cognition
+C0563143||function
+C0009240||cognitive
+C0023866||literature
+C0563143||functional
+C0002395||Alzheimer's disease
+C1270972||mild cognitive impairment
+C1270972||mild cognitive impairment
+C0002395||Alzheimer's disease
+C0332293||treated with
+C0002395||Alzheimer's disease
+C0013227||drugs
+C0009244||Cognitive
+C0563143||functional
+C0087111||treatment
+C0002395||Alzheimer's disease
+C2935150||solanezumab
+C2603343||studies
+C0034036||publications
+C1270972||mild cognitive impairment
+C0002395||Alzheimer's disease
+C0563143||functional
+C0563143||functional
+C1518681||treatment effect
+C2603343||studies
+C0563143||functional
+C2935150||solanezumab
+C0009240||cognition
+C2935150||solanezumab
+C0009240||cognition
+C0563143||function
+C0563143||Function
+C0009240||cognitive
+C0002395||Alzheimer's disease
+C0012634||disease
+C0087111||treatments
+C0009240||cognitive
+C0563143||functional
+C0349674||scales

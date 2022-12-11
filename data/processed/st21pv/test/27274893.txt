@@ -1,0 +1,48 @@
+C1955929||sonoelastography
+C0581495||sonourethrography
+C0220825||evaluation
+C1720814||anterior urethral strictures
+C0011923||imaging
+C1720814||anterior urethral strictures
+C0581495||Sonourethrography
+C0581495||Sonourethrography
+C0599880||planning the treatment
+C0041974||stricture disease
+C0016059||spongiofibrosis
+C1955929||Sonoelastography
+C1955929||Sonoelastography
+C1519842||newer technique
+C0030664||pathologies
+C1720814||anterior urethral stricture disease
+C0581495||Sonourethrography
+C1720814||anterior urethral stricture disease
+C0581495||Sonourethrography
+C1955929||Sonoelastography
+C0450429||location
+C1827571||depth
+C0016059||spongiofibrosis
+C3828581||periurethral
+C0030664||pathologies
+C1955929||Sonoelastography
+C0581495||Sonourethrography
+C0450429||location
+C1827571||depth
+C0016059||spongiofibrosis
+C1955929||Sonoelastography
+C0581495||Sonourethrography
+C1955929||Sonoelastography
+C1955929||Sonoelastography
+C0475705||colour of bladder mucosa
+C0401483||cystoscopic examination
+C0184898||incision
+C0581495||Sonourethrography
+C0475705||colour of the bladder mucosa
+C0184898||incision
+C0010702||cystoscopy
+C1955929||Sonoelastography
+C4285457||degree of fibrosis
+C1955929||Sonoelastography
+C0581495||Sonourethrography
+C0016059||spongiofibrosis
+C1514474||prognostic factor
+C0581495||Sonourethrography

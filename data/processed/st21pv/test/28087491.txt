@@ -1,0 +1,40 @@
+C1040746||class Bacilli
+C0337049||deepest valley lake
+C0337049||Manasbal Lake
+C0004611||bacteria
+C0021212||ecological indicators
+C0936012||comprehensive and systematic analysis
+C0337049||Manasbal Lake
+C0337049||deepest spring fed valley lake
+C0936012||analyze
+C0043047||waters
+C0449705||sampling stations
+C0337049||Lake
+C1710706||zones
+C1705920||species
+C0282574||Bergey's Manual specification
+C0010454||culture media
+C0750484||confirmation
+C0035899||16s rRNA gene
+C0073429||universal bacterial primers
+C0073429||27F
+C0073429||1429R
+C0449705||sampling stations
+C1040746||class Bacilli
+C1705920||bacterial species
+C2617064||Bacillus aerius
+C2617063||Bacillus altitudinis
+C0004589||Bacillus anthracis
+C0004590||Bacillus cereus
+C3717612||Bacillus ginsengisoli
+C0314874||Bacillus pumilus
+C2654376||Bacillus safensis
+C2617062||Bacillus stratosphericus
+C0004595||Bacillus subtilis
+C1462983||Bacillus tequilensis
+C3721500||Bacillus thermocopriae
+C0004597||Bacillus thuringiensis
+C1015757||Brevibacillus agri strain
+C1664577||Lysinibacillus boronitolerans
+C3557569||Lysinibacillus pakistanensis
+C0314884||Lysinibacillus sphaericus

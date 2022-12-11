@@ -1,0 +1,23 @@
+C0086418||Human
+C0006309||brucellosis
+C0037712||South Africa
+C3244304||Public health
+C0086418||Human
+C0006309||brucellosis
+C0037712||South Africa
+C0037712||South Africa
+C0243095||under-reported
+C0871685||clinicians
+C0086418||human
+C0006309||brucellosis
+C0006305||Brucella melitensis
+C0037712||South Africa
+C0022877||medical microbiology laboratories
+C1827659||public health investigation
+C0282420||article
+C3244304||public health
+C0199168||medical
+C0042615||veterinary
+C3244304||public health
+C0042615||veterinary
+C0022877||laboratory

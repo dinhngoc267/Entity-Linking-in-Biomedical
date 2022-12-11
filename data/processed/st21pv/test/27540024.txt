@@ -1,0 +1,18 @@
+C0014413||Environmental health
+C0035173||researchers
+C0018105||government agencies
+C1711206||partnerships
+C0014413||environmental health
+C0025663||methods
+C1711206||translational partnerships
+C3887537||partners
+C0242456||policies
+C0086960||planning
+C1711206||partnerships
+C3887537||partners
+C1711206||partnerships
+C1955979||National Institute of Environmental Health Sciences
+C1522486||Community Outreach and Engagement Cores
+C3887537||partners
+C0184511||improve
+C0014413||environmental health

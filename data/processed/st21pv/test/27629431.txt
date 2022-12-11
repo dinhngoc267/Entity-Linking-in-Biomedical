@@ -1,0 +1,65 @@
+C0597295||translation
+C1313678||ULK1
+C0597297||degradation
+C0004391||autophagy
+C0038187||starvation
+C1155604||Macroautophagy
+C0004391||autophagy
+C1523935||intracellular degradation
+C0038187||starvation
+C0040649||transcriptional
+C0041904||upregulation
+C0004391||autophagy
+C0017337||genes
+C0004391||autophagy
+C0038187||starvation
+C0041904||upregulation
+C0035696||mRNA
+C0004391||autophagy
+C0017337||initiation gene
+C1421350||ULK1
+C1313678||protein
+C0038187||starvation
+C0004391||autophagic
+C0033684||proteasomal systems
+C0597297||degradation
+C1313678||ULK1
+C0028158||nitrogen
+C1825498||ATG7
+C0007634||knockout cells
+C0007634||cells
+C0024369||lysosomal
+C1443643||proteasomal inhibitors
+C0038187||starvation
+C0597295||protein translation
+C0087111||treatments
+C0033671||proteosynthesis inhibitors
+C0010572||cycloheximide
+C0003082||anisomycin
+C1313678||ULK1
+C0026237||mitochondrial
+C4235129||respiratory complexes
+C0026237||mitochondrial
+C2250396||ATP synthase function
+C0041904||upregulation
+C0035696||ULK1 mRNA
+C1171362||protein expression
+C2350345||AMPK
+C0597032||U1810 lung cancer cells
+C0010454||culture medium
+C1313678||ULK1 protein
+C0597032||U1810 cells
+C3146638||ATG13
+C1313678||ULK1
+C1171362||expression
+C0041904||upregulation
+C1313678||ULK1 protein
+C0038187||starvation
+C0597295||translation
+C0040649||transcriptional
+C0041904||upregulation
+C1313678||ULK1 protein
+C0597295||protein translation
+C0597297||degradation
+C0004391||autophagy
+C0038187||starvation

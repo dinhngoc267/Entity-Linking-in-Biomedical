@@ -1,0 +1,32 @@
+C0085672||Microbiology
+C0225377||Upper
+C0231989||Lower Airways
+C0010674||Cystic Fibrosis
+C0010674||cystic fibrosis
+C0010674||cystic fibrosis
+C0748725||sinus surgery
+C0035363||Retrospective
+C0337954||Tertiary care
+C0020017||children's hospital
+C0010674||cystic fibrosis
+C0011289||Demographics
+C0430400||culture
+C0043210||female
+C0025643||Methicillin
+C0038172||Staphylococcus aureus
+C0033809||Pseudomonas aeruginosa
+C1999167||older
+C0439099||Kappa
+C1265292||methicillin-resistant S aureus
+C1265292||methicillin-resistant S aureus
+C1514241||positive
+C1265292||methicillin-resistant S aureus
+C0275524||coinfected
+C0033809||P aeruginosa
+C0004037||Aspergillus fumigatus
+C0030471||sinus
+C0010674||cystic fibrosis
+C0087111||treating
+C3714514||infections
+C1265292||methicillin-resistant S aureus
+C0220825||investigation

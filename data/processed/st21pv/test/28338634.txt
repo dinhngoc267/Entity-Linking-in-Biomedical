@@ -1,0 +1,47 @@
+C0001044||Acetylcholinesterase
+C2713587||Synthesized Paramagnetic Nanoparticles
+C1510438||Assay
+C2713587||Magnetic particles
+C2713587||Magnetic particles
+C0014442||enzymes
+C0001044||Acetylcholinesterase
+C0001044||Acetylcholinesterase
+C0014442||enzyme
+C0027793||neurotransmission
+C0014442||enzyme
+C0002395||Alzheimer's
+C1254351||drugs
+C0031253||pesticides
+C1113670||warfare agents
+C0001044||Acetylcholinesterase
+C0014444||immobilized
+C2713587||Magnetic particles
+C0184512||stabilized
+C0017814||glutaraldehyde (GA) molecule
+C1510438||assay
+C0001044||pure AChE
+C0243095||anti-Alzheimer's
+C1254351||drug
+C0016967||galantamine
+C0360422||carbamate pesticide
+C0006995||carbofuran
+C0442726||detection
+C0007009||carbon
+C0013812||working
+C0037125||silver
+C0007009||carbon
+C0013812||auxiliary electrode
+C1510438||Standard Ellman's assay
+C1519941||validation
+C0243077||inhibitors
+C0243077||inhibitors
+C0016967||galantamine
+C0001044||Acetylcholinesterase
+C0001044||Acetylcholinesterase
+C0016967||galantamine
+C0001044||Acetylcholinesterase
+C0006995||carbofuran
+C0360100||organic solvents
+C0001044||Acetylcholinesterase
+C2713587||Magnetic particles
+C0001044||Acetylcholinesterase

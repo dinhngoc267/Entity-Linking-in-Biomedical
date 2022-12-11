@@ -1,0 +1,61 @@
+C0026727||Mucosa
+C3888384||colon
+C0038435||stress
+C2362518||poly-unsaturated fat
+C0032615||Polyunsaturated fatty acids
+C0032615||Polyunsaturated fatty acids
+C3888384||colon
+C0019868||homeostasis
+C0015264||exerting
+C0003232||antimicrobial
+C0026727||mucosal
+C0836209||gut mucosal interface
+C1439852||standardized batch incubations
+C0282574||Mucosal-Simulator of the Human Microbial Intestinal Ecosystem
+C0282574||M-SHIME
+C0524461||luminal
+C0026727||mucosal
+C0032615||PUFA
+C3849996||Western diet
+C0023749||linoleic acid
+C0023749||linoleic acid
+C0023749||linoleic acid
+C0006521||butyrate
+C0317558||Faecalibacterium prausnitzii
+C0023749||linoleic acid
+C0301702||vaccenic acid
+C0301702||vaccenic acid
+C0038229||stearic acid
+C0038229||stearic acid
+C0015733||faecal
+C1439852||batch incubations
+C0023749||linoleic acid
+C0006521||butyrate
+C0038229||stearic acid
+C0006521||butyrate
+C0282574||M-SHIME
+C0026727||mucosal
+C0014406||environment
+C0038229||stearic acid
+C0317558||F. prausnitzii
+C0023749||linoleic acid
+C1708235||genera
+C0995401||Roseburia
+C1012458||Pseudobutyrivibrio
+C0026727||mucosal
+C0282547||Co-culture
+C1439852||batch incubations
+C1667633||Roseburia hominis
+C0317558||F. prausnitzii
+C1519941||validated
+C0302523||observations
+C0995401||Roseburia
+C1012458||Pseudobutyrivibrio
+C0524461||luminal
+C3496041||mucosal SHIME microbiota
+C0023749||linoleic acid
+C0038435||induced stress
+C0026727||mucosal
+C0004611||bacteria
+C0023749||linoleic acid
+C0038435||stress

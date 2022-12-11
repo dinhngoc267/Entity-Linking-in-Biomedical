@@ -1,0 +1,50 @@
+C0115137||calcium hydroxyapatite
+C0299556||Deflux
+C0021485||injection
+C0227716||bladder neck
+C0042024||urinary incontinence
+C1838703||bladder exstrophy-epispadias complex
+C2603343||study
+C3522839||endoscopic injection
+C0115137||calcium hydroxyapatite
+C0115137||calcium hydroxyapatite
+C0227716||bladder neck
+C0227716||bladder neck
+C0042024||urinary incontinence
+C1838703||bladder exstrophy-epispadias complex
+C1838703||bladder exstrophy-epispadias complex
+C2985505||retrospective cohort study
+C0035363||retrospectively studied
+C1838703||bladder exstrophy-epispadias complex
+C0115137||calcium hydroxyapatite
+C0299556||Deflux
+C0021485||injection
+C1536613||continence improvement
+C0021167||incontinent
+C3522839||endoscopic submucosal injection
+C0115137||calcium hydroxyapatite
+C0032105||plasma
+C0299556||Deflux
+C0021485||injection
+C1522577||follow-up
+C0021485||injection
+C0274425||post-injection complication
+C0442726||detected
+C1522577||follow-up
+C0021485||injections
+C0021167||incontinence
+C0442739||no change
+C0299556||Deflux
+C0021485||injection
+C0021167||incontinence
+C0442739||no change
+C0442964||continence achievement
+C0115137||calcium hydroxyapatite
+C0299556||Deflux
+C0429807||bladder capacity
+C2603343||study
+C0115137||calcium hydroxyapatite
+C1320234||bulking agent
+C0087111||treatment
+C0042024||urinary incontinence
+C1838703||bladder exstrophy-epispadias complex

@@ -1,0 +1,38 @@
+C0729619||Ultrasonic computed tomography imaging
+C0025086||medical imaging
+C0041714||FDA
+C0024485||magnetic resonance imaging
+C0024485||magnetic resonance imaging
+C0684224||reports
+C0203325||ultrasound B-scan (pulse-echo) imaging technique
+C3830527||detectability
+C0597177||particles
+C0681814||study
+C0011923||imaging
+C0430022||ultrasonic computed tomography
+C0430022||ultrasonic computed tomography
+C0936012||analysed
+C0430022||through-transmission projection
+C0729619||UCT imaging
+C0006141||breast
+C1519523||ex vivo tissue model
+C0024485||MRI scan
+C0597177||particles
+C0332128||examined
+C0681814||experiment
+C1704254||imaged
+C0011923||Imaging
+C1704254||image
+C0442726||detection
+C0597177||particles
+C0450429||location
+C0430022||raster-scan projection
+C0729619||UCT imaging
+C0243095||findings
+C0009924||contrast agent
+C0006141||breast
+C0011923||imaging
+C0597177||particle
+C1513743||multimodal
+C0024485||magnetic resonance imaging
+C0041618||ultrasound imaging

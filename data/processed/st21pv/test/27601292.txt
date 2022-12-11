@@ -1,0 +1,56 @@
+C0393080||Voriconazole
+C0683140||metabolism
+C0021368||inflammation
+C0033522||prospective study
+C3714514||infection
+C0021368||inflammation
+C1254351||drug
+C0683140||metabolizing
+C0014442||enzymes
+C0023884||liver
+C1327624||down-regulated
+C0010762||cytochrome P450 iso-enzymes
+C0393080||voriconazole
+C0683140||metabolized
+C0010762||cytochrome P450 iso-enzymes
+C0683140||metabolism
+C0393080||voriconazole
+C0021368||inflammation
+C0683151||clearance of the drug
+C0393080||voriconazole
+C0021368||inflammation
+C0393080||voriconazole
+C0683140||metabolism
+C0393080||voriconazole
+C0033522||prospective observational study
+C0000872||University Medical Center
+C0017446||Groningen
+C0332293||treated with
+C0393080||voriconazole
+C0393080||Voriconazole
+C0178913||blood samples
+C0021368||inflammation
+C0201657||C-reactive protein (CRP) concentrations
+C0023981||longitudinal data analysis
+C0021368||inflammation
+C0683140||metabolic
+C0393080||voriconazole
+C0393080||voriconazole
+C0023981||longitudinal data analysis
+C0023981||analysis
+C0021368||inflammation
+C0201657||CRP concentrations
+C0683140||metabolic
+C0393080||voriconazole
+C0393080||voriconazole
+C0683140||metabolism
+C0683140||metabolic
+C0393080||voriconazole
+C0006560||C-reactive protein
+C0393080||voriconazole
+C0683140||metabolism
+C0021368||inflammation
+C0393080||voriconazole
+C1283169||monitoring
+C0393080||voriconazole
+C0021368||inflammation

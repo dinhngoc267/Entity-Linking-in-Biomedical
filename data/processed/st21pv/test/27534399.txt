@@ -1,0 +1,62 @@
+C0079949||Osseointegration
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||dental implants
+C1515655||in vivo
+C2603343||study
+C0220825||evaluate
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||implants
+C3887509||rabbits
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||implants
+C1533810||placed
+C0444532||right
+C0015811||femur
+C1515974||sites
+C3887509||rabbits
+C0040302||titanium
+C0011373||implants
+C0443246||left
+C0015811||femur
+C0039644||Tetracycline
+C0051165||alizarin red
+C1136183||euthanization
+C0011370||implantation
+C0003062||animals
+C0205148||Surface
+C0205148||surface
+C0936012||analysis
+C0262878||scanning electron microscope
+C0025080||energy dispersive X-ray detector
+C0220825||evaluated
+C0242841||confocal laser scanning microscope
+C0523203||Toluidine blue staining
+C0243095||undecalcified
+C0019638||histology
+C0262878||Scanning electron microscope
+C0011373||implants
+C0262950||bone
+C0043240||healing
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||implants
+C0040302||titanium
+C0011373||implants
+C1273937||no significant
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||implants
+C0040302||titanium
+C0011373||implants
+C1273937||No significant
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||implants
+C0040302||titanium
+C0011373||implants
+C0011373||implants
+C0043240||healing
+C0011323||Ti-Nb-Zr-Ta-Si alloy
+C0011373||implants
+C0040302||titanium
+C0011373||implants
+C0011373||implants
+C0184511||improved
+C0011373||dental implants

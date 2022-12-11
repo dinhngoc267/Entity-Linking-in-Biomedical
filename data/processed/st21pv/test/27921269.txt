@@ -1,0 +1,41 @@
+C0008902||Graded Structure
+C1704788||Definitions
+C0008902||Categorizations
+C0243095||Had Sex
+C0019898||Homosexual
+C1527360||Heterosexual
+C0025266||Men
+C0043210||Women
+C1704788||Definitions
+C0009253||sex
+C0035168||research
+C0681841||explanation
+C1704788||definitions
+C0008902||graded categorical structure
+C0022423||judgments
+C0008902||graded structure
+C0424215||identity
+C1704788||definitions
+C0679646||participants
+C0038951||online survey
+C0243095||had sex
+C0679646||Participants
+C1527360||heterosexual
+C0025266||male
+C0043210||female
+C0242657||gay male
+C1533642||lesbian
+C0563018||nonpenetrative contact
+C0243095||no genital contact
+C0008902||graded structure
+C0563018||nonpenetrative
+C0242657||gay male
+C0596545||experience
+C0004271||contextual perspective
+C0424215||identity
+C0243095||findings
+C0035168||research
+C0008902||graded structure
+C0035168||research
+C1704788||definitions
+C1704788||definitions

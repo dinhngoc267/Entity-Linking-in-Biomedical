@@ -1,0 +1,31 @@
+C0035147||DeoR-family
+C1937901||Streptomyces ahygroscopicus
+C1336789||repressor
+C0543482||morphological
+C0031253||Wuyiencin
+C1937901||Streptomyces ahygroscopicus var. wuyiensis
+C0008115||China
+C0007983||industrially
+C0031253||biopesticide
+C0026946||fungal diseases
+C0006159||breeding
+C0015852||fermentation
+C1817179||regulatory functions
+C0543482||morphological
+C0017337||wysR3 gene
+C1937901||S. ahygroscopicus
+C0035147||DeoR family
+C0017362||regulatory genes
+C2350567||gene knockdown
+C0035147||DeoR family proteins
+C0449416||source
+C1253959||branch
+C0017337||wysR3
+C1336789||repressor
+C0543482||morphological
+C0031253||wuyiencin
+C0017337||ΔwysR3
+C1883559||wild-type
+C0007983||industrial
+C0015852||fermentation
+C0017337||ΔwysR3

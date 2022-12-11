@@ -1,0 +1,63 @@
+C1654920||Esophageal Stenting
+C0152018||Cancer Esophagus
+C0020023||Rural Hospital
+C0021201||India
+C0152018||Cancer of the esophagus
+C0021201||India
+C0150312||present
+C0011168||dysphagia
+C1457887||symptom
+C0587437||tertiary care centre
+C1285158||Palliative procedures
+C2348535||Stenting
+C1457887||symptoms
+C0011168||dysphagia
+C0518881||suffering the most
+C0231243||early
+C0009566||complications
+C1654920||esophageal stenting
+C0341129||malignant esophageal stricture
+C1654920||esophageal stenting
+C2603343||study
+C0035363||retrospectively analysed
+C0231243||early
+C0009566||complications
+C0184661||re-interventions
+C2348535||stenting
+C0543467||surgery
+C2939420||metastatic disease
+C0038454||CVA
+C1659989||respiratory problem
+C0543467||surgery
+C0007137||squamous cell carcinoma
+C0001418||adenocarcinoma
+C0011168||dysphagia
+C0008031||chest pain
+C3553459||recurrent cough
+C0750325||recurrent vomiting
+C0011168||dysphagia
+C0011168||complete dysphagia
+C2348535||stenting
+C0011168||dysphagia
+C0184661||procedure
+C0009566||complication
+C0919874||post procedural bleed
+C2348535||stenting
+C1306577||death
+C0558080||Minor
+C0009566||complications
+C0150312||present
+C0184661||procedure
+C0030193||pain
+C2348535||stenting
+C0028778||stent obstruction
+C4087543||stent migration
+C0558080||minor
+C0009566||complications
+C2348535||re-stenting
+C1654920||Esophageal stenting
+C0184661||procedure
+C0019994||hospital
+C0600047||counseled
+C0184661||procedure
+C0009566||complications

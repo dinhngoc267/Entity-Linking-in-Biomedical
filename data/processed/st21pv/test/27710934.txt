@@ -1,0 +1,32 @@
+C0444626||crystal form
+C0243095||unexpectedly results
+C1510464||interwoven packing networks
+C0535847||Nonribosomal peptide synthetases
+C0535847||Nonribosomal peptide synthetases
+C0014442||multimodular enzymes
+C1514562||Tailoring domains
+C0535847||Nonribosomal peptide synthetases
+C0030956||nonribosomal peptide products
+C0018160||Linear gramicidin synthetase
+C1159286||formylation
+C1514562||tailoring domain
+C1159286||F-A
+C1514562||PCP
+C1159286||F-A
+C1514562||di-domain
+C0444626||crystal form
+C0037638||solvent
+C0439799||channels
+C1514562||Asub subdomain
+C1514562||Asub subdomain
+C1159286||F-A
+C1514562||sub
+C0444626||crystal
+C1514562||PCP domain
+C0444626||crystal
+C1510464||original packing network
+C1510464||second network
+C1510464||original network
+C0037638||solvent
+C0439799||channels
+C0444626||space group of the crystal

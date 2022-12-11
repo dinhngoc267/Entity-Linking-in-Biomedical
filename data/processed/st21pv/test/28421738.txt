@@ -1,0 +1,45 @@
+C1159372||Targeting
+C0289507||Nrf2
+C1149161||Amyloid-Beta Liaison
+C0002395||Alzheimer's Disease
+C0002716||Amyloid
+C0002395||Alzheimer's disease
+C0002395||Alzheimer's disease
+C0205132||linear
+C0078939||amyloid-β peptide
+C0078939||amyloid-β peptide
+C0242656||progression
+C1510880||amyloid-β peptide
+C1518762||Nrf2 pathways
+C0078939||amyloid-β peptide
+C0012634||disease
+C0085826||antiaggregating agents
+C0162493||activate transcription
+C0003402||antioxidant
+C0683154||responses
+C1254351||lead 1
+C0556043||requirements
+C0078939||amyloid-β peptide
+C1254351||catechol derivative 12
+C1254351||12
+C0079381||free radical scavenger
+C1518762||Nrf2 pathway
+C0017391||induce
+C0289507||Nrf2
+C2164680||defensive
+C0919428||gene NQO1
+C0040649||transcriptional response
+C1254351||oligomeric intermediates
+C0013221||less toxic
+C1254351||prototype 1
+C1523114||regulate Nrf2
+C0078939||amyloid-β peptide
+C1148560||activities
+C1704259||pathways
+C1254351||compound 12
+C1254351||derivatives
+C0289507||Nrf2
+C0078939||amyloid-β peptide
+C0007634||cellular
+C1254351||drug leads
+C0002395||Alzheimer's disease

@@ -1,0 +1,65 @@
+C2603907||miR-451
+C1533574||migration
+C0555198||malignant glioma
+C0007634||cells
+C0252214||AMPK
+C3537152||signaling
+C1307407||mTOR
+C0443264||modulation
+C0139880||Rac1
+C1621958||Glioblastoma multiforme
+C1621958||Glioblastoma multiforme
+C0017636||WHO grade IV astrocytoma
+C0677930||primary neoplasm
+C3714787||central nervous system
+C3714787||central nervous system
+C4282132||malignancy
+C1621958||Glioblastoma multiforme
+C0728940||surgical resection
+C0033325||prognosis
+C1533574||migration
+C0597032||tumor cells
+C0597032||tumor cell
+C0178719||intracellular
+C1269955||invasion
+C1514628||qRT-PCR
+C0936012||analysis
+C0017262||expression
+C1826031||miR-451
+C0017638||glioma
+C0040300||tissue
+C0459385||control brain tissue
+C0205099||central
+C0449719||portions
+C0027651||tumor
+C0017638||glioma
+C0085983||cell lines
+C1826031||miR-451
+C0017262||expression
+C0597032||tumor cell
+C1533574||migration
+C2715759||CAB39
+C0252214||AMPK
+C1307407||mTOR
+C0139880||Rac1
+C2603907||miR-451
+C1307407||mTOR
+C0139880||Rac1
+C1739697||AMPKα1
+C1171362||expression
+C2930586||shRNA
+C0017638||glioma
+C1826031||miR-451
+C0017262||expression
+C2603907||miR-451
+C0041904||upregulating
+C0252214||AMPK
+C3537152||signaling
+C0443264||modulating
+C1307407||mTOR
+C0139880||Rac1
+C0017638||glioma
+C1533574||migration
+C0597032||tumor cell
+C0007634||cell
+C0332448||infiltration

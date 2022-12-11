@@ -1,0 +1,27 @@
+C1533734||Successive Administration
+C0042313||Vancomycin
+C0002499||Amikacin
+C0018767||Auditory Function
+C1533734||successive administration
+C0042313||vancomycin
+C0002499||amikacin
+C0587901||auditory organ
+C3469597||administration
+C1254351||drugs
+C0205664||experiments
+C3887509||rabbits
+C0085854||auditory brainstem response
+C0085854||auditory brainstem response
+C0430676||distortion product otoacoustic emission
+C0430676||distortion product otoacoustic emission
+C3469597||Drug administration
+C0085854||auditory brainstem response
+C0235280||Ototoxic
+C0003232||antibiotics
+C0430676||distortion product otoacoustic emission
+C3668946||activity
+C1518683||outer hair cells
+C1513916||No
+C0235280||ototoxic effects
+C1533734||successive administration
+C0003232||antibiotics

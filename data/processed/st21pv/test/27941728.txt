@@ -1,0 +1,37 @@
+C0022443||Juvenile Offenders
+C0033167||Inmates
+C1708333||Juvenile Developmental Centers
+C1257890||group
+C1257890||population
+C0728724||law
+C0018017||objective
+C2603343||study
+C0562359||institutionalized
+C0022443||juvenile offenders
+C1257890||non-offenders
+C0004083||association
+C0004936||mental disorders
+C0332128||examined
+C0033167||inmates
+C1708333||Juvenile Development Centers
+C0033927||psychopathology
+C0333052||version
+C0011900||diagnosis
+C1137110||ICD-10
+C0679228||diagnostic criteria
+C0035168||research
+C0728724||law
+C0004936||mental disorder
+C1257890||non-offenders
+C0699726||offenders
+C1269683||Major Depressive Disorder
+C1269683||Major Depressive Disorder
+C1269683||Major Depressive Disorder
+C0038436||Post Traumatic Stress Disorder
+C0038436||Post Traumatic Stress Disorder
+C1257890||non-offenders
+C1269683||Major Depressive Disorder
+C0022443||juvenile offenders
+C1257890||non-offenders
+C0332464||Broad
+C0243095||findings

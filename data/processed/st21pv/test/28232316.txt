@@ -1,0 +1,67 @@
+C0565987||ecological
+C0242724||leaf
+C0205284||margin
+C0015196||Evaluating
+C0005537||biomechanics
+C2700462||bud
+C0282411||commentary
+C0242724||leaves
+C2700462||buds
+C1446409||positive
+C0242724||leaf
+C0205284||margins
+C0681841||explanations
+C0205284||marginal
+C0242724||teeth
+C0242724||leaf
+C0205146||areas
+C0042449||veins
+C0242724||leaf
+C0205284||margin
+C0007613||hydathodal function
+C0562691||herbivores
+C2700462||bud
+C0033213||problems
+C0242724||leaves
+C0205284||margins
+C0936012||structured analyses
+C0330208||angiosperms
+C0314761||flora
+C1708235||genus
+C0969714||Viburnum
+C0205284||margins
+C0242724||leaves
+C0330208||angiosperms
+C0242724||leaf
+C0242724||leaf
+C0205284||margins
+C0600661||outline
+C3161035||synthetic model
+C0005537||biomechanics
+C0042449||vein
+C0242724||leaf
+C0007595||expansion
+C0679218||resting
+C2700462||buds
+C0242724||leaf
+C1287104||drive
+C0449774||patterns
+C0037775||distribution
+C0242724||leaf
+C0205284||margins
+C3161035||model
+C0205284||margins
+C0282645||Mediterranean scrub
+C3850151||tundra
+C0205284||margins
+C0330100||vines
+C0040811||early-successional trees
+C0242724||leaf
+C0205284||margins
+C0331451||monocots
+C0242724||Spinose-toothed leaves
+C0349588||short-statured
+C0040811||evergreen trees
+C0446286||shrubs
+C0282645||Mediterranean scrub
+C0871648||semiarid habitats

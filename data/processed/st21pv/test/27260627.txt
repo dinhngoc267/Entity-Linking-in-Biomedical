@@ -1,0 +1,47 @@
+C1305855||Body Mass Index
+C0549622||Sexual Dysfunction
+C0678222||Breast Cancer
+C0549622||Sexual dysfunction
+C0231303||distressing
+C0678222||breast cancer
+C0678222||breast cancer
+C0087111||treatment
+C2603343||study
+C0278092||sexual functioning
+C0678222||breast cancer
+C0004083||association
+C0043210||women's
+C0920425||cancer treatments
+C0010362||cross-sectional study
+C0278092||sexual function
+C4289276||Female Sexual Function Index
+C4289276||Female Sexual Function Index
+C1516985||European Organization for Research and Treatment of Cancer
+C1516985||European Organization for Research and Treatment of Cancer
+C3641780||QLQ-C30
+C0282574||breast module BR-23
+C0679646||participants
+C0679646||participants
+C0023618||sexual desire
+C4289276||Female Sexual Function Index
+C0020594||hypoactive sexual desire disorder
+C0020594||hypoactive sexual desire disorder
+C0549622||sexual dysfunction
+C0206031||hierarchical logistic regression
+C1305855||body mass index
+C1305855||body mass index
+C3161035||models
+C0549622||sexual dysfunction
+C0020594||hypoactive sexual desire disorder
+C1305855||body mass index
+C0549622||sexual dysfunction
+C0020594||hypoactive sexual desire disorder
+C0678222||breast cancer
+C0549622||sexual dysfunction
+C0015672||fatigue
+C0243095||findings
+C0678222||breast cancer
+C0032893||practice
+C0549622||sexual dysfunction
+C0008976||clinical trials
+C0243095||findings

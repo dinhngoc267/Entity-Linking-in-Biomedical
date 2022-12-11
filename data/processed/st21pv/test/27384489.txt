@@ -1,0 +1,50 @@
+C1425650||leucine-rich repeat kinase 2
+C0752046||R1628P polymorphism
+C0030567||Parkinson's disease
+C0078988||Asian populations
+C1425650||leucine-rich repeat kinase 2
+C1425650||leucine-rich repeat kinase 2
+C0752046||R1628P polymorphism
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0039260||Taiwan
+C0008115||China
+C0037173||Singapore
+C0920317||meta-analysis
+C1425650||leucine-rich repeat kinase 2
+C0752046||R1628P polymorphism
+C0752046||rs33949390
+C0030567||Parkinson's disease
+C0078988||Asian populations
+C2603343||studies
+C1138432||PubMed
+C0079198||Embase
+C0079198||SinoMed
+C0242356||China Knowledge Resource Integrated Database
+C0752046||R1628P polymorphism
+C0030567||Parkinson's disease
+C0920317||meta-analysis
+C2603343||studies
+C0030567||Parkinson's disease
+C0752046||R1628P polymorphism
+C0030567||Parkinson's disease
+C0078988||Asian populations
+C1514983||stratification analyses
+C0752046||R1628P polymorphism
+C0030567||Parkinson's disease
+C0152035||Chinese
+C0078988||non-Chinese Asian populations
+C0030567||Parkinson's disease
+C0008115||China
+C0039260||Taiwan
+C0037173||Singapore
+C1514983||stratified analysis
+C0030567||Parkinson's disease
+C0030567||Parkinson's disease
+C0752046||R1628P polymorphism
+C1425650||LRRK2 gene
+C0030567||Parkinson's disease
+C0012655||susceptibility
+C0078988||Asian
+C0152035||Chinese
+C1257890||populations

@@ -1,0 +1,65 @@
+C0032081||Extract of Caulis Spatholobi
+C1254351||blocker
+C0032176||tumor cell ‑induced platelet aggregation
+C0006142||breast cancer
+C0027627||metastasis
+C0027627||Metastasis
+C0006142||breast cancer
+C0948048||malignant progression
+C0027627||hematogenous metastasis
+C0334227||cancer cells
+C0005821||platelet
+C0398623||hypercoagulable state
+C0005778||coagulation
+C0027627||metastasis
+C0005821||platelet
+C0597032||tumor cell
+C0597032||tumor cell
+C0027627||metastasis
+C0032176||tumor cell ‑induced platelet aggregation
+C0032176||tumor cell ‑induced platelet aggregation
+C1519692||suppression
+C0027627||tumor metastasis
+C0004057||aspirin
+C0004057||as aspirin
+C0243092||tumor‑platelet (T‑P) complex,
+C0001962||ethanol
+C0032081||extracts of Caulis Spatholobi
+C0032081||SET
+C0398623||hypercoagulation state
+C0027627||tumor metastasis
+C0006141||breast
+C0334227||cancer cell
+C0201596||MTT
+C0005507||anti‑aggregation assay stimulated by ADP
+C0032081||SET
+C0242842||confocal microscopy
+C0032081||SET
+C0243092||T‑P complex
+C0079366||FACS analysis
+C0243092||T‑P complex
+C1515655||In vivo
+C0597032||4T1 cells
+C1533685||injected
+C0025929||mouse
+C2985205||tail vein
+C0430022||dynamic visualization
+C0936012||analyzed
+C0523207||hematoxylin and eosin (H&E) staining
+C0024109||lung
+C0040300||tissue
+C0032081||SET
+C0027627||metastasis
+C0025929||mice
+C1148560||molecular mechanism
+C2603343||study
+C0005507||anti‑TCIPA
+C1517469||zymography
+C0599161||T‑PCR assay
+C1148560||molecular mechanism
+C0032081||SET
+C0007582||‑T interaction
+C0006141||breast
+C0027627||metastasis
+C0032176||tumor cell ‑induced platelet aggregation
+C0920425||cancer treatment

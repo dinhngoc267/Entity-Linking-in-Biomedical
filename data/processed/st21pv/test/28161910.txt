@@ -1,0 +1,56 @@
+C1513126||menopausal status
+C0860207||drug-induced liver injury
+C0025320||menopause
+C0860207||drug-induced liver injury
+C0860207||drug-induced liver injury
+C1704632||responses
+C3263723||injury
+C2603343||study
+C0025320||menopause
+C0160390||liver injury
+C0860207||Drug-Induced Liver Injury
+C0034975||registry
+C0679646||participants
+C0332148||probable
+C0193388||liver biopsy
+C0860207||drug-induced liver injury
+C0341439||chronic liver disease
+C3263723||injury
+C0151763||hepatocellular
+C1737228||cholestatic/mixed injury
+C0599755||cohort
+C0683312||categories
+C0025266||men
+C0043210||women
+C0043210||women
+C0683312||category
+C0151763||Hepatocellular injury
+C0043210||women
+C3263723||injury
+C0005680||black race
+C0332149||possible
+C0001811||ageing
+C0019158||hepatitis
+C0005558||biopsies
+C0043210||women
+C0025266||men
+C0043210||women
+C0025266||men
+C0005558||biopsies
+C0043210||women
+C0391861||plasma cell infiltration
+C3269241||hepatocyte apoptosis
+C0227525||hepatocyte
+C0035863||rosettes
+C0302583||iron
+C1514241||positive
+C0227525||hepatocytes
+C0008370||cholestasis
+C0054066||amoxicillin/clavulanic acid
+C0002744||anabolic steroids
+C0028156||nitrofurantoin
+C0860207||drug-induced liver injury
+C0025320||menopause
+C0021368||inflammation
+C3263723||injury
+C0860207||drug-induced liver injury

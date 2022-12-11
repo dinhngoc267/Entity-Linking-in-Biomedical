@@ -1,0 +1,63 @@
+C0236665||Amphetamine Withdrawal
+C1171362||Expression
+C1453697||Organic Cation Transporter 3
+C0170657||Serotonin Transporter
+C0023715||Limbic
+C0006104||Brain Regions
+C0236665||Amphetamine withdrawal
+C0003467||anxiety
+C0038435||stress
+C1704448||ventral
+C0019564||hippocampus
+C0019564||ventral hippocampus
+C0175219||central nucleus of the amygdala
+C0175219||CeA
+C0036751||serotonin
+C0521119||Extracellular
+C0036751||serotonin
+C0170657||serotonin transporter
+C0170657||serotonin transporter
+C1453697||organic cation transporter 3
+C1453697||organic cation transporter 3
+C0019564||ventral hippocampus
+C1453697||organic cation transporter 3
+C1171362||expression
+C0236665||amphetamine withdrawal
+C0170657||serotonin transporter
+C1171362||expression
+C1453697||organic cation transporter 3
+C0170657||serotonin transporter
+C1171362||expression
+C0175219||CeA
+C2825032||withdrawal
+C0023715||limbic
+C2262837||serotonergic neurotransmission
+C2825032||withdrawal
+C0596902||transporter
+C1171362||expression
+C0004728||rats
+C0002658||amphetamine
+C2825032||withdrawal
+C0596902||transporter
+C1171362||expression
+C0949466||Western immunoblot
+C1453697||organic cation transporter 3
+C0170657||serotonin transporter
+C1171362||expression
+C0175219||CeA
+C2825032||withdrawal
+C0019564||ventral hippocampus
+C1453697||organic cation transporter 3
+C1171362||expression
+C2825032||withdrawal
+C0013055||dorsomedial hypothalamus
+C0442739||No changes
+C0005898||regions
+C0023715||limbic
+C1453697||organic cation transporter 3
+C0170657||serotonin transporter
+C1171362||expression
+C0036751||serotonergic
+C1397014||imbalance
+C1513916||negative affect
+C0236665||amphetamine withdrawal

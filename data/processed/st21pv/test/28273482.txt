@@ -1,0 +1,43 @@
+C4255013||Orai1
+C1136254||Antimicrobial
+C0036537||Secretion
+C0227578||Pancreatic Acini
+C1155268||Regulates
+C0699819||Gut
+C0566001||communicates
+C0020962||immune system
+C4084937||Antimicrobial peptides
+C1179435||components
+C0021853||intestinal
+C1819788||antimicrobials secreted
+C0227578||pancreatic acini
+C0021853||intestinal
+C1823405||Ca(2+) channel Orai1
+C0227578||pancreatic acini
+C0026809||mice
+C1817386||activation of the intestinal innate immune response
+C0026809||mice
+C0332207||acinar
+C1823405||Orai1
+C0021853||intestinal
+C0007613||outgrowth
+C0599718||translocation
+C0021368||inflammation
+C0011065||death
+C0544420||digestive enzyme
+C0948571||supplementation
+C0087111||treatments
+C0007613||outgrowth
+C0301571||liquid diet
+C0003232||broad-spectrum antibiotics
+C0043094||weight gain
+C1306845||Pancreatic levels
+C0671062||cathelicidin
+C4084937||antimicrobial peptide
+C4084937||cathelicidin -related antimicrobial peptide
+C4084937||cathelicidin -related antimicrobial peptide
+C0021831||intestinal disease
+C0243095||findings
+C1136254||antimicrobial
+C0232787||pancreatic secretion
+C0699819||gut

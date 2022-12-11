@@ -1,0 +1,55 @@
+C0021294||prematurity
+C0005823||blood pressure
+C2362049||albumin
+C0006675||calcium
+C0031603||phosphate
+C0005823||blood pressures
+C0005823||blood pressures
+C2362049||albumin
+C0026162||mineral
+C0221102||excretion
+C0599755||cohorts
+C0005823||BPs
+C0221102||excretion
+C2362049||albumin
+C0006675||calcium
+C0031603||phosphate
+C0233324||term-born
+C0599755||cohorts
+C0033522||prospective observational study
+C0475309||center
+C0151526||born preterm
+C0460089||GA <30 weeks
+C0233324||at term
+C3536634||≥37 weeks' GA
+C0587185||Urinary albumin
+C0428302||calcium
+C0428304||phosphate levels
+C0918012||indexed
+C0010294||creatinine
+C0005823||blood pressures
+C2939193||median
+C1522577||follow-up
+C0599755||cohort
+C0871470||systolic
+C0428883||diastolic
+C0428886||mean BPs
+C0233324||term
+C3276033||<10th centile
+C0871470||systolic BP
+C0243095||>95th centile
+C1522577||follow-up
+C2362049||Albumin
+C0006675||calcium
+C0221102||excretion
+C0206031||logistic regression
+C1522577||follow-up
+C0871470||systolic
+C0428883||diastolic BP
+C0243095||95th centile
+C0235222||diastolic hypertension
+C0005823||blood pressures
+C0233324||term-born
+C1283169||monitoring
+C0005823||BPs
+C1257890||population

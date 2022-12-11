@@ -1,0 +1,79 @@
+C0037998||Splenic Infarct
+C0011900||Diagnosed
+C0005953||Primary Bone Marrow
+C0882892||CD5 Positive
+C0079744||Diffuse large B cell lymphoma
+C0882892||CD5+
+C0011900||Diffuse large B cell lymphoma
+C0079744||Diffuse large B cell lymphoma
+C0243095||aggressive subtype
+C0079744||Diffuse large B cell lymphoma
+C0243095||clinicopathologic
+C0278252||poor prognosis
+C0150312||presented with
+C0015970||pyrexia of unknown origin
+C0031809||examination
+C0030232||severe pallor
+C0019214||hepatosplenomegaly
+C0497156||lymphadenopathy
+C0009555||Complete blood count
+C1142446||bicytopenia
+C0438221||normal total leucocyte count
+C0023901||Liver
+C0022662||renal function tests
+C0203464||Ultrasonography abdomen
+C0038002||splenic enlargement
+C0243095||two focal lesions
+C0272412||splenic abscess
+C0037998||infarcts
+C0037998||splenic infarct
+C1142446||bicytopenia
+C0220825||investigation
+C0241013||elevated serum ferritin
+C0813230||triglycerides
+C1275604||LDH
+C0242114||suspicion
+C3714514||infection
+C0024291||haemophagocytic lymphohistiocytosis
+C0005954||bone marrow aspiration (BMA) and biopsy (BMBx)
+C0876991||haemophagocytosis
+C0027671||large lymphoma-like cells
+C1699633||PET-CT
+C0038002||enlarged spleen
+C0301639||diffuse uptake
+C0005954||BMBx
+C0028259||nodular
+C0442041||intrasinusoidal
+C0086574||abnormal lymphoid cells
+C0021044||immunohistochemistry
+C0086574||cells
+C4289894||positive for CD20
+C0054964||CD5
+C0299544||MUM1
+C0205160||negative
+C0108779||CD3
+C0025250||CD10
+C0123242||CD23
+C0054953||CD34
+C0205234||focal
+C0442041||intrasinusoidal
+C0449774||pattern
+C0011900||diagnosis
+C0882892||CD5+
+C0079744||Diffuse large B cell lymphoma
+C0012634||primary hepatosplenic
+C0449774||pattern
+C0882892||CD5+
+C0079744||Diffuse large B cell lymphoma
+C0037998||splenic infarct
+C1855575||very rare
+C0011900||diagnosis
+C1332225||primary aggressive lymphoma
+C0876991||haemophagocytosis
+C0015967||fever
+C0037998||splenic infarct
+C0497156||lymphadenopathy
+C0543482||morphological
+C0857285||bone marrow aspirate
+C0005558||biopsy
+C0011900||correct diagnosis

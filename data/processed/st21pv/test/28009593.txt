@@ -1,0 +1,37 @@
+C0936012||Analysis
+C0150312||Presence
+C0028677||Nursing
+C0687673||RN
+C0028677||nursing
+C0150312||presence
+C0849912||emotional
+C0449379||connection
+C0028661||nurse
+C0028661||nurse
+C0150312||Presence
+C0028677||Nursing
+C0687673||RN
+C0333052||version
+C0687673||RN
+C0028661||nurses'
+C0030971||perceptions
+C0150312||present
+C2603343||study
+C1706244||summarizes
+C0033920||psychometric properties
+C0687673||RN
+C1257890||sample
+C0687673||registered nurses
+C0017313||patient care
+C2911692||responded
+C0034394||questionnaire
+C0687673||RN
+C1705052||2-dimensional
+C0678594||structure
+C0027361||person
+C0936012||analysis
+C0936012||analysis
+C0150312||Presence
+C0028677||Nursing
+C0687673||RN
+C0687673||rn

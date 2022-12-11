@@ -1,0 +1,53 @@
+C1222577||Planctomycetes
+C0023657||Lichen
+C0003740||Sub-Arctic
+C1709274||Northwestern
+C0037045||Siberia
+C0562020||terrestrial
+C3850151||tundra
+C0023657||lichens
+C1708235||genera
+C1080962||Cladonia
+C1094116||Cetraria
+C0023657||lichen
+C0003740||sub-arctic zone
+C1709274||northwestern
+C0037045||Siberia
+C3850151||tundra
+C0017446||shallow acidic peatland
+C2603343||study
+C0023657||lichen
+C4289767||colonized
+C0004611||bacteria
+C1709533||phylum
+C1222577||Planctomycetes
+C1222577||planctomycetes
+C0162788||in situ hybridization
+C3537372||16S rRNA
+C0017337||gene fragments
+C1222577||Planctomycetes
+C3537372||16S rRNA
+C0017337||gene
+C1553778||Illumina pair-end sequencing
+C0023657||Lichen
+C1222577||planctomycetes
+C3850151||tundra
+C0995267||Planctomycetaceae
+C1222577||Planctomycetes
+C0162326||sequences
+C2791840||Phycisphaera-related group WD2101
+C1705177||order
+C4087581||Tepidisphaerales
+C0995268||Isosphaera
+C2291815||Singulisphaera group
+C1708235||genera
+C0995258||Gemmata
+C4103516||Planctopirus
+C4103506||Rubinisphaera
+C0871648||habitats
+C0004611||Singulisphaera-like bacteria
+C1222577||planctomycetes
+C0018270||growth
+C0032594||polysaccharides
+C0064959||lichenan
+C0023657||lichen

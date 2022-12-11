@@ -1,0 +1,21 @@
+C3253155||1,3a,6a-triazapentalene
+C0016321||fluorescent probes
+C1173400||kinesin spindle protein
+C1173400||kinesin spindle protein
+C3253155||1,3a,6a-Triazapentalene
+C0016321||fluorescent
+C2603343||study
+C3253155||triazapentalene
+C0005580||biphenyl-type
+C0033671||inhibitors
+C1173400||kinesin spindle protein
+C1173400||kinesin spindle protein
+C0016321||fluorescent probes
+C0178719||intracellular
+C0033684||protein
+C2603343||studies
+C3253155||triazapentalene
+C1706082||compounds
+C1173400||kinesin spindle protein
+C0007635||cultured cells
+C0178719||intracellular

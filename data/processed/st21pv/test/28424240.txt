@@ -1,0 +1,63 @@
+C1571486||Histone Acetyltransferase Gcn5
+C1326165||Positively Regulates T Cell Activation
+C0062773||Histone acetyltransferases
+C0062773||Histone acetyltransferases
+C1158770||regulate inducible transcription
+C1325880||cellular processes
+C1155266||inflammatory
+C0301872||immune response
+C1527118||functions
+C1571486||general control nonrepressed-protein 5
+C1571486||general control nonrepressed-protein 5
+C0062773||HAT
+C0043393||yeast
+C0086418||human
+C1327458||immune regulation
+C0008972||study
+C0017260||deleted
+C1571486||general control nonrepressed-protein 5
+C1415020||Kat2a gene
+C0039194||T lymphocytes
+C0010366||crossing
+C1415020||floxed Gcn5
+C0919477||Lck-Cre
+C0025929||mice
+C1571486||general control nonrepressed-protein 5
+C0007613||T cell functions
+C0815089||development
+C1516670||clonal expansion
+C0007589||differentiation
+C0243095||Loss of
+C1571486||general control nonrepressed-protein 5
+C4022557||impaired T cell proliferation
+C1819447||IL-2 production
+C0242632||Th1
+C2936411||Th17
+C0242633||Th2
+C1155041||regulatory T cell differentiation
+C1571486||general control nonrepressed-protein 5
+C0879590||il-2
+C0086860||promoter
+C0288011||NFAT
+C0039194||T cells
+C2259054||TCR stimulation
+C0001038||acetylating
+C0288011||NFAT
+C1571486||general control nonrepressed-protein 5
+C2613321||histone H3 lysine H9 acetylation
+C1819447||IL-2 production
+C0039194||T cell
+C1571486||general control nonrepressed-protein 5
+C0025929||mice
+C0069428||myelin oligodendrocyte glycoprotein
+C0014072||experimental autoimmune encephalomyelitis
+C0086272||experimental model
+C0086418||human
+C0026769||multiple sclerosis
+C1571486||general control nonrepressed-protein 5
+C3537153||molecular mechanism
+C1527118||functions
+C1818823||regulating T cell immunity
+C1571486||general control nonrepressed-protein 5
+C0004364||autoimmune disease
+C0087111||therapy

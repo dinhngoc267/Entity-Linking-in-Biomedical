@@ -1,0 +1,51 @@
+C0523744||Lipid levels
+C1735901||recurrent venous thrombosis
+C0016441||MEGA follow-up study
+C0523744||lipid levels
+C1735901||recurrent venous thrombosis
+C0023779||Lipids
+C0042487||venous thrombosis
+C0023779||Lipids
+C0523744||Testing lipid levels
+C0035648||risk factors
+C1735901||recurrent venous thrombosis
+C0003281||anticoagulation
+C0523744||lipid levels
+C0042487||venous thrombosis
+C0023779||lipids
+C0523744||lipid levels
+C1735901||recurrent venous thrombosis
+C0042487||venous thrombosis
+C0016441||MEGA study
+C1522577||Follow-up
+C0444930||end
+C0150457||anticoagulant treatment
+C0683312||categories
+C0543421||total
+C0023824||low-density lipoprotein
+C0023822||high-density lipoprotein cholesterol
+C0041004||triglycerides
+C0003593||apolipoproteins B
+C0085201||A1
+C0023779||Lipids
+C1444662||discontinuing
+C0003281||anticoagulation
+C0683312||category
+C0683312||categories
+C0523744||lipid levels
+C1517331||further
+C1305855||body mass index
+C0011847||diabetes
+C0014939||estrogen
+C0360714||statin
+C0003281||anticoagulation
+C1515021||Subgroup
+C0936012||analyses
+C0450429||location
+C0149871||deep vein thrombosis
+C0034065||pulmonary embolism
+C0523744||lipid levels
+C0523744||Testing lipid levels
+C1735901||recurrent venous thrombosis
+C2603343||study
+C0003281||anticoagulation

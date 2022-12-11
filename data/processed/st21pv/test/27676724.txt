@@ -1,0 +1,41 @@
+C0009818||consultation
+C0206762||limb malformation
+C0041618||ultrasound scan
+C0019988||unit
+C0009818||consultations
+C0206762||limb malformation
+C0015965||fetus
+C0009818||consultations
+C2733037||carried out
+C0086390||multi-professional team
+C1306847||rehabilitation
+C0031831||doctor
+C0334891||orthopedic surgeon
+C0028807||occupational therapist
+C2362565||physiotherapist
+C0033908||psychologist
+C0009818||consultation
+C0032961||pregnancy
+C1522486||sonologist
+C0011900||diagnosis
+C0436570||shocked
+C0033053||prenatal diagnosis
+C0025361||imaginary
+C0030971||perceived
+C0011900||diagnosis
+C0000768||malformations
+C0087111||potential treatments
+C0600015||psychological support
+C0011142||self-defense mechanism
+C0018379||guilt feeling
+C0009818||consultation
+C0086390||Team
+C0680022||members
+C4050008||neutral
+C0332149||possible
+C0220825||assessments
+C0679006||decision
+C0032961||pregnancy
+C0392535||termination of pregnancy
+C0009818||consultations
+C0086388||care

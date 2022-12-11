@@ -1,0 +1,49 @@
+C0030106||ozone
+C0030968||paracetic acid
+C0012683||disinfection
+C0440188||resilient liners
+C0001222||acrylic resin
+C0030968||paracetic acid
+C0030968||paracetic acid
+C0030106||ozone
+C0012683||disinfection
+C0037114||silicone-based
+C0440188||resilient liners
+C0001222||acrylic resins
+C0686912||dumbbell shaped
+C0001222||acrylic resins
+C0001222||acrylic
+C0440188||resilient liners
+C0030968||paracetic acid
+C0030106||ozone
+C0012683||disinfection
+C0030968||PAA1
+C0030968||PAA7
+C0030106||ozone1
+C0030106||ozone7
+C0790233||distilled water
+C0030968||paracetic acid
+C0030106||ozone
+C0043047||water
+C0030968||paracetic acid
+C0030106||ozone
+C0022885||tests
+C0022885||Tukey's HSD test
+C1436546||Mollosil
+C0030106||ozone
+C0012683||disinfection
+C0030968||paracetic acid
+C0012683||disinfection
+C1436546||Mollosil
+C0128823||Molloplast B
+C0001222||acrylic resin
+C0030106||ozone
+C0012683||disinfection
+C0128823||Molloplast B
+C0440188||resilient liners
+C0030968||paracetic acid
+C0012683||disinfection
+C0043047||water
+C1436546||Mollosil
+C0030106||ozone
+C0128823||Molloplast B

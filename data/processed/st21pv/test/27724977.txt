@@ -1,0 +1,112 @@
+C1257975||Mesenchymal stem cells
+C0027984||Newcastle disease virus
+C0017638||glioma
+C0007634||cells
+C0017638||glioma
+C0038250||stem cells
+C0036536||secretion
+C0385242||TRAIL
+C0027984||Newcastle disease virus
+C0027984||Newcastle disease virus
+C0206540||avian paramyxovirus
+C0015264||exerts
+C0334227||cancer cells
+C1257975||Mesenchymal stem cells
+C1257975||Mesenchymal stem cells
+C0003392||anti-tumor agents
+C0017636||glioblastoma
+C0017636||glioblastoma
+C0027984||Newcastle disease virus
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0449416||sources
+C0017638||glioma
+C0007634||cells
+C0017638||glioma
+C0038250||stem cells
+C0038250||glioma stem cells
+C0017638||glioma
+C0085983||cell lines
+C0085983||A172
+C0085983||U87
+C0038250||glioma stem cells
+C0017636||glioblastoma
+C0027651||tumors
+C0681814||study
+C1257975||Mesenchymal stem cells
+C0005953||bone marrow
+C0001527||adipose tissue
+C0041633||umbilical cord
+C0439663||infected
+C0027984||Newcastle disease virus
+C0965740||MTH-68/H
+C0007634||cells
+C0042776||virus
+C0017638||glioma
+C0085983||cell lines
+C0038250||glioma stem cells
+C0027984||Newcastle disease virus
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0007587||cell death
+C1155711||self-renewal
+C0038250||glioma stem cells
+C0332128||examined
+C0027984||Newcastle disease virus
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0038250||glioma stem cells
+C0332128||examined
+C0027984||Newcastle disease virus
+C0007587||cell death
+C0017638||glioma
+C0007634||cells
+C0162638||apoptosis
+C1155711||self-renewal
+C0038250||glioma stem cells
+C1257975||Mesenchymal stem cells
+C0005953||bone marrow
+C0001527||adipose
+C0041633||umbilical cord
+C0439663||infected
+C0027984||Newcastle disease virus
+C0042776||virus
+C0282547||co-cultured
+C0017638||glioma
+C0007634||cells
+C0038250||glioma stem cells
+C0162518||Conditioned medium
+C0027984||Newcastle disease virus
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0162638||apoptosis
+C0597032||tumor cells
+C0162638||apoptosis
+C1707758||direct infection
+C1327616||secreted
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0312864||sensitized
+C0017638||glioma
+C0007634||cells
+C0027984||Newcastle disease virus
+C0385242||TRAIL
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0385242||TRAIL
+C0027984||Newcastle disease virus
+C0007587||cell death
+C0017638||glioma
+C0007634||cells
+C0038250||glioma stem cells
+C0439663||infected
+C1257975||Mesenchymal stem cells
+C0038250||glioma stem cells
+C0027984||Newcastle disease virus
+C0439663||infected
+C0041633||umbilical cord
+C1257975||Mesenchymal stem cells
+C0449445||approach
+C0038250||glioma stem cells
+C0017636||glioblastoma
+C0027651||tumors

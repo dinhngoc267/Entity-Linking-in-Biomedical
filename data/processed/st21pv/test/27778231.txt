@@ -1,0 +1,92 @@
+C0011777||dexamethasone
+C0013203||resistance
+C0023449||acute lymphoblastic leukemia
+C0683154||Response
+C0011777||dexamethasone
+C0011777||dexamethasone
+C1254351||hallmark drug
+C0023449||acute lymphoblastic leukemia
+C0023449||acute lymphoblastic leukemia
+C1514474||prognostic factors
+C0033325||prediction of outcome
+C0023449||acute lymphoblastic leukemia
+C0013203||chemoresistance
+C0040808||therapeutic protocol
+C0879626||effect adverse
+C0085104||drug targets
+C0013860||2DE
+C0037813||MS
+C0022885||proteomics study
+C0011777||dexamethasone
+C0007600||resistant cell line
+C0007600||REH
+C0011777||dexamethasone
+C0013216||drug treatment
+C0022885||proteomic methods
+C1171362||expressed
+C0033684||proteins
+C0442726||detected
+C0753015||voltage dependent anion channel 1
+C0753015||voltage dependent anion channel 1
+C1741224||sorting Nexin 3
+C1741224||sorting Nexin 3
+C1743484||prefoldin subunit 6
+C1743484||prefoldin subunit 6
+C1171362||expression
+C0033684||proteins
+C0011777||dexamethasone
+C0007600||REH cells
+C1171362||expression
+C0033684||proteins
+C0035696||mRNA
+C2733022||quantitative PCR method
+C0033684||proteins
+C0033684||proteins
+C0013203||drug resistance
+C1148568||regulation of apoptosis
+C0753015||voltage dependent anion channel 1
+C0599895||protein trafficking
+C1741224||sorting Nexin 3
+C0162847||protein folding
+C1743484||prefoldin subunit 6
+C0035696||mRNA
+C0033684||proteins
+C0438737||bone marrow samples
+C0023449||acute lymphoblastic leukemia
+C0449560||molecular subtypes
+C0023418||leukemia
+C0035696||mRNA
+C1171362||expression
+C0753015||voltage dependent anion channel 1
+C1741224||sorting Nexin 3
+C1743484||prefoldin subunit 6
+C0023449||acute lymphoblastic leukemia
+C0753015||voltage dependent anion channel 1
+C0035696||mRNA
+C1171362||expression
+C0033684||proteins
+C0332167||high-risk
+C0220901||prognostic
+C0033684||proteins
+C0023449||acute lymphoblastic leukemia
+C0220825||investigation
+C0872079||protein-protein interaction
+C1547402||STRING
+C0242356||database
+C0033684||proteins
+C0037080||signaling pathway
+C1370369||NR3C1
+C0011777||dexamethasone
+C0243095||target
+C0022885||proteomic study
+C0011777||dexamethasone
+C0013203||resistant
+C1517806||leukemic cells
+C0753015||voltage dependent anion channel 1
+C1741224||sorting Nexin 3
+C1743484||prefoldin subunit 6
+C0033684||proteins
+C0005516||biomarkers
+C0033325||prognosis
+C3665472||chemotherapy
+C0023449||acute lymphoblastic leukemia

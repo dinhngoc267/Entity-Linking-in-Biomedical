@@ -1,0 +1,35 @@
+C0085973||Case Report
+C0238124||Necrotizing Fasciitis
+C0038410||Streptococcus pneumoniae
+C0238124||Necrotizing fasciitis
+C0038410||Streptococcus pneumoniae
+C2826244||life-threatening
+C0004611||bacterial
+C0149778||soft tissue infection
+C0700287||report
+C0238124||necrotizing fasciitis
+C0038410||Streptococcus pneumoniae
+C3714514||infection
+C0025266||man
+C0085393||immunocompromised
+C0026272||mixed connective tissue disease
+C0030193||painful
+C0521464||edematous skin
+C0221198||lesions
+C0817923||right lower back
+C0230431||right knee
+C0184899||surgical exploration
+C0011900||diagnosis
+C0238124||necrotizing fasciitis
+C0027540||necrosis
+C0015641||fascia
+C0751982||neutrophil infiltration
+C0015450||fascial
+C0178913||blood samples
+C1446409||positive
+C0038410||Streptococcus pneumoniae
+C0700287||report
+C0238124||necrotizing fasciitis
+C0038410||Streptococcus pneumoniae
+C0011900||diagnosed
+C0455097||surgical debridement

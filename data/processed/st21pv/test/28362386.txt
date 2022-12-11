@@ -1,0 +1,52 @@
+C0007589||Differentiation
+C0086418||Human
+C0872076||Pluripotent Stem Cells
+C1519658||Trophoblastic Cells
+C0032043||placenta
+C0178784||organ
+C0013936||embryogenesis
+C0013935||embryo
+C0032043||placenta
+C1519658||trophoblastic cells
+C0007589||differentiate
+C1326118||extra-embryonic trophectoderm cells
+C1446949||preimplantation
+C1281743||blastocyst
+C0007589||differentiation events
+C0086418||human
+C0032043||placenta
+C0204727||isolation
+C0947647||manipulation
+C0086418||human
+C0013936||embryogenesis
+C0872076||Human pluripotent stem cells
+C0872076||Human pluripotent stem cells
+C3161035||model system
+C0020119||human development
+C0007589||differentiated
+C1519658||trophoblastic cells
+C1519658||trophoblast
+C0007634||cell types
+C0007589||differentiating
+C0872076||Human pluripotent stem cells
+C1519658||trophoblastic cells
+C0033684||bone morphogenic protein 4
+C0050668||Activin
+C3271798||Nodal signaling pathways
+C1519658||trophoblast
+C0007634||cell types
+C0040669||transfected
+C1099354||siRNAs
+C0439663||infected
+C0872076||Human pluripotent stem cells
+C0007589||differentiated
+C0041178||trophoblast
+C0038250||progenitors
+C0007589||differentiation method
+C0086418||human
+C0041178||trophoblasts
+C0872076||Human pluripotent stem cells
+C0086418||human
+C0013935||embryos
+C0920472||drug discovery
+C1514966||stem cell research

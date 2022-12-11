@@ -1,0 +1,42 @@
+C3714660||trauma
+C0025260||memories
+C4049623||intrusions
+C0038436||post-traumatic stress disorder
+C0038436||post-traumatic stress disorder
+C0025260||memories
+C0011900||diagnosis
+C0087111||treatment
+C0199176||prevention
+C0683956||predictor variables
+C4049623||intrusion
+C3714660||trauma
+C0220825||investigation
+C0332128||examined
+C3714660||trauma
+C0561768||implicit
+C0561766||explicit
+C0561768||implicit
+C3714660||trauma
+C4085586||retrosplenial cortex
+C0175190||anterior cingulate cortex
+C0175190||anterior cingulate cortex
+C1144879||trauma-related
+C0175191||posterior cingulate cortex
+C0175191||posterior cingulate cortex
+C1281018||precuneus
+C3714660||trauma
+C4049623||intrusion
+C4085586||retrosplenial cortex
+C0561768||implicit
+C0175191||posterior cingulate cortex
+C0561766||explicit
+C0936012||analyses
+C0002708||bilateral amygdala
+C3496173||supplementary motor area
+C0921005||precentral
+C0228203||paracentral lobule
+C3714660||trauma
+C0008972||study
+C3714660||trauma
+C1457887||symptom
+C0038436||post-traumatic stress disorder

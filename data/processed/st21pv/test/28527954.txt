@@ -1,0 +1,56 @@
+C0025929||mouse
+C0162783||prefrontal cortical
+C0107103||Brain-Derived Neurotrophic Factor
+C0729511||ovarian hormones
+C0011570||Depression
+C0038435||stress
+C0003062||animal
+C0011570||depression
+C0043210||women
+C0025266||men
+C0599779||animal models
+C0011570||depression
+C0729511||ovarian hormones
+C0011570||depression
+C0025929||mice
+C0242481||paradigm
+C0025929||mice
+C0011570||depression
+C0178417||anhedonia
+C0011570||depression
+C1171362||expression
+C0107103||Brain-Derived Neurotrophic Factor
+C0107103||Brain-Derived Neurotrophic Factor
+C0027895||neuropeptide
+C0011570||depression
+C0038435||stress
+C0017337||genes
+C1366488||CRH
+C1334899||NR3C1
+C1824528||CART
+C1417815||NPY
+C0162783||Prefrontal Cortex
+C0162783||Prefrontal Cortex
+C0107103||Brain-Derived Neurotrophic Factor
+C1171362||protein expression
+C1515670||mRNA expression
+C1366488||CRH
+C1334899||NR3C1
+C1824528||CART
+C1417815||NPY
+C0025929||mice
+C0243095||behavioral
+C4054479||molecular responses
+C0014912||17β-Estradiol
+C0014912||E2
+C1533734||administration
+C0033308||Progesterone
+C0033308||P4
+C0038435||stress
+C0025929||mice
+C1171362||expression
+C0107103||Brain-Derived Neurotrophic Factor
+C0162783||Prefrontal Cortex
+C0014912||E2
+C1533734||administration
+C0038435||stress

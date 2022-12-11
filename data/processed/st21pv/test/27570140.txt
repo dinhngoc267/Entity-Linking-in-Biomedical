@@ -1,0 +1,54 @@
+C0520483||tubal ligation
+C0242786||high-risk pregnancy
+C0015787||Female sterilization
+C0025663||methods
+C0700589||contraception
+C0041703||United States
+C2603343||studies
+C0520483||tubal ligation
+C0520483||postpartum tubal ligation
+C2603343||study
+C0520483||postpartum tubal ligation
+C2603343||study
+C2985505||retrospective cohort study
+C0043210||women
+C0005615||delivering
+C0020028||university hospital
+C0033052||prenatal care
+C0015535||faculty
+C0442592||resident clinics
+C0332167||High-risk
+C2945690||Society for Maternal-Fetal Medicine guidelines
+C0920316||Documentation
+C0599880||contraceptive plan
+C1533734||administration
+C0700589||contraceptive methods
+C0025102||patient records
+C0032961||pregnancies
+C0679646||participants
+C0332167||high risk
+C0520483||postpartum tubal ligation
+C0332167||high-risk
+C0041747||unintended index pregnancy
+C0520483||postpartum tubal ligation
+C0087111||procedure
+C0332167||high-risk
+C0034510||race
+C0030563||parity
+C0043210||women
+C0520483||postpartum tubal ligation
+C0032961||pregnancies
+C1522577||follow-up
+C0043210||women
+C0242786||high-risk pregnancies
+C0520483||postpartum tubal ligation
+C0087111||procedure
+C0332167||high-risk
+C0043210||women
+C0242786||high-risk pregnancies
+C0520483||postpartum tubal ligation
+C0087111||procedure
+C0087111||procedures
+C0332167||high-risk
+C0043210||women
+C0087111||procedure

@@ -1,0 +1,62 @@
+C0035687||Splicing
+C0001457||ADAR2
+C0001457||ADAR2
+C0162782||RNA editing
+C0017638||glioma
+C0002345||alternative splicing
+C0162782||RNA editing
+C0017263||gene regulation
+C3178810||transcriptome
+C0001457||Adenosine deaminases
+C0035668||RNA
+C0001457||ADARs
+C1158747||adenosine-to-inosine (A-to-I) editing
+C0162782||RNA editing
+C0002345||alternative splicing
+C0162782||self-editing
+C0001457||ADAR2
+C0026661||pre-mRNA
+C0002345||alternative splicing
+C0002345||Alternative splicing
+C0035687||splicing
+C0001457||ADAR2
+C0026661||pre-mRNA
+C0002345||alternative splicing
+C0243102||catalytic activities
+C1158747||A-to-I RNA editing
+C0031845||physiological processes
+C0086418||humans
+C0012634||diseases
+C0002736||amyotrophic lateral sclerosis
+C0525045||mood disorders
+C0014544||epilepsy
+C0017638||glioma
+C0162782||editing
+C0017797||glutamine
+C0003765||arginine
+C0536483||AMPA receptor subunit GluA2
+C0017638||glioma
+C0001457||ADAR2
+C1171362||expression
+C0243102||catalytic activity
+C0001457||ADAR2
+C0282443||review
+C0023866||literature
+C2825142||experimental results
+C0001457||ADAR2
+C0002345||alternative splicing
+C0282443||review
+C0035687||splicing
+C0001457||ADAR2
+C0001457||ADAR2
+C0162782||editing
+C0017638||glioma
+C1171362||expression
+C0001457||ADAR2
+C0035687||splicing
+C0243102||enzyme activity
+C0162782||RNA editing
+C0536483||GluA2 subunit
+C0017797||glutamine
+C0003765||arginine
+C0017638||glioma

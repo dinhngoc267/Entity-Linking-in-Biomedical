@@ -1,0 +1,14 @@
+C0237401||Individual
+C0008902||classification
+C0004271||attitudes
+C0004271||attitudes
+C1704788||definition
+C0237401||individuals
+C0004271||attitudes
+C1704788||definition
+C0004271||attitudes
+C1704788||definition
+C0936012||reanalysis
+C0237401||individuals
+C1704788||definition
+C0001792||older adults

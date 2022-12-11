@@ -1,0 +1,49 @@
+C1254351||Naphthohydroquinones
+C0027388||naphthoquinones
+C0003174||anthraquinones
+C1254351||naphthohydroquinone
+C1136056||aerial parts
+C1474894||Morinda parvifolia
+C0596402||cytotoxic effects
+C0162493||up-regulation
+C0079419||p53
+C1254351||compounds
+C1254351||morindaparvins C-G
+C1254351||naphthohydroquinones
+C0027388||naphthoquinone
+C0003174||anthraquinone
+C1254351||naphthohydroquinone
+C0034435||quinones
+C1254351||compounds
+C1136056||aerial parts
+C1474894||Morinda parvifolia
+C1254351||morindaparvins C
+C1254351||D
+C1254351||E
+C1254351||F
+C1254351||G
+C0037812||spectroscopic
+C1254351||methyl 4-hydroxy-1,6-dimethoxy-naphthalene-2-carboxylate
+C1254351||methyl 4,8-dihydroxy-1-methoxy-naphthalene-2-carboxylate
+C1254351||3-amino-6-methoxy-2-methoxycarbonyl-1,4-naphthoquinone
+C1254351||1,4-dihydroxy-7-hydroxymethyl-anthraquinone
+C1254351||dimethyl 1,1'-dihydroxy-4,4',7,7'-tetramethoxy-2,2'-binaphthalene-3,3'-dicarboxylate
+C0027388||Naphthoquinones
+C1254351||naphthohydroquinone
+C1708235||genus
+C1010821||Morinda
+C1254351||compounds
+C0596402||cytotoxicity
+C0086418||human
+C0085983||cancer cell lines
+C0018873||HeLa
+C0085983||A2780
+C0085983||Ketr3
+C0596890||MCF-7
+C0079419||p53
+C0040649||transcription
+C0027388||naphthoquinones
+C0596402||cytotoxic effects
+C0162493||up-regulation
+C0079419||p53
+C0162493||transcriptional activity

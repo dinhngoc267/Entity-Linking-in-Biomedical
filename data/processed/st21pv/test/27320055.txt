@@ -1,0 +1,82 @@
+C0025611||Methamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C2974592||3,4-methylenedioxypyrovalerone
+C2974592||3,4-methylenedioxypyrovalerone
+C0596402||cytotoxic effects
+C0007452||bovine
+C0006104||brain
+C2350570||microvessel
+C0225336||endothelial cells
+C0011684||Designer drugs
+C0304403||synthetic psychostimulants
+C0033213||problem
+C0013146||drug abuse
+C1510472||addiction
+C0025611||methamphetamine
+C0025611||methamphetamine
+C0011684||drugs
+C0115471||3,4-methylenedioxy-methamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C0680536||commercial
+C0054876||synthetic cathinones
+C2974592||3,4-methylenedioxypyrovalerone
+C2974592||3,4-methylenedioxypyrovalerone
+C0771243||bath salts
+C0304403||psychostimulants
+C0235032||neurotoxic effects
+C0006104||brain
+C0025611||methamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C0879626||adversely affect
+C0005854||blood-brain barrier
+C0005854||blood-brain barrier
+C0684224||reports
+C2974592||3,4-methylenedioxypyrovalerone
+C0005854||blood-brain barrier
+C2603343||study
+C0025611||methamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C2974592||3,4-methylenedioxypyrovalerone
+C0007452||bovine
+C0006104||brain
+C2350570||microvessel
+C0225336||endothelial cells
+C0225336||bovine brain microvessel endothelial cells
+C1515654||in vitro model
+C0005854||blood-brain barrier
+C0225336||bBMVEC
+C0934502||monolayers
+C0025611||methamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C2974592||3,4-methylenedioxypyrovalerone
+C0025611||methamphetamine
+C0115471||3,4-methylenedioxymethamphetamine
+C0022917||lactate dehydrogenase
+C2974592||3,4-methylenedioxypyrovalerone
+C0596402||cytotoxicity
+C0115471||3,4-methylenedioxymethamphetamine
+C0025611||methamphetamine
+C0596290||cellular proliferation
+C2974592||3,4-methylenedioxypyrovalerone
+C2974592||3,4-methylenedioxypyrovalerone
+C0162772||reactive oxygen species
+C0011684||drugs
+C0028128||nitric oxide
+C0936012||Morphological analysis
+C1706082||compound
+C0025611||methamphetamine
+C0042219||vacuole
+C0934502||monolayer
+C0115471||3,4-methylenedioxymethamphetamine
+C0225336||endothelial
+C0934502||monolayer
+C0010840||vacuolization
+C2974592||3,4-methylenedioxypyrovalerone
+C0934502||monolayer
+C0042219||vacuole
+C0007634||cells
+C0304403||synthetic psychostimulants
+C0005854||blood-brain barrier
+C0013221||toxicity
+C2974592||3,4-methylenedioxypyrovalerone

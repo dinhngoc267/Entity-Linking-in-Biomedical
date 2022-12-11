@@ -1,0 +1,67 @@
+C0027950||Neutrophil
+C0026473||Monocyte
+C0007613||Function
+C0524910||Chronic Hepatitis C
+C0280274||Antiviral Therapy
+C0040808||Regimens
+C0033607||Protease Inhibitors
+C0021747||Interferon
+C0004623||bacterial infections
+C0023895||liver disease
+C0033607||protease inhibitor
+C0033607||protease inhibitor
+C0040808||antiviral regimen
+C0220847||hepatitis C
+C0220847||HCV
+C0033607||PIs
+C1524081||inhibition of proteases
+C0544570||anti-bacterial functions
+C0027950||neutrophils
+C0026473||monocytes
+C0085416||phagocytic and oxidative burst
+C0027950||neutrophils
+C0026473||monocytes
+C0033607||protease inhibitor
+C0040808||antiviral regimen
+C1327414||cytokine secretion
+C0027950||neutrophil
+C0007613||stimulation
+C0016194||flagellin
+C0524910||chronic HCV
+C0023890||cirrhosis
+C0087111||triple therapy
+C0441835||Group A
+C0021747||pegylated-interferon
+C0035525||ribavirin
+C0033607||protease inhibitor
+C1876229||telaprevir
+C1738934||boceprevir
+C2605855||simeprevir
+C0040808||interferon -free regimen
+C0008902||Group B
+C2605855||simeprevir
+C2976303||sofosbuvir
+C0085416||Phagocytosis and oxidative burst
+C0016263||flow cytometry
+C0087111||therapy
+C0027950||neutrophils
+C0441835||Group A
+C0085416||oxidative burst
+C2267219||enzymatic activity per cell
+C0087111||therapy
+C1293116||introduction
+C0033607||protease inhibitor
+C2267219||enzymatic activity per cell
+C0026473||monocytes
+C0087111||therapy
+C0441835||Group A
+C0008902||Group B
+C1327414||Cytokine secretion
+C0021747||interferon
+C0033607||protease inhibitor
+C0027950||neutrophil
+C0026473||monocyte
+C0085416||phagocytic and oxidative burst
+C0599755||cohort
+C0220847||HCV
+C0239946||advanced liver fibrosis

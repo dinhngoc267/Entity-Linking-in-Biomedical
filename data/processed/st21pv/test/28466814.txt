@@ -1,0 +1,64 @@
+C1366463||leukemia inhibitory factor gene
+C0015914||fertilization
+C1257890||population
+C0022065||northern Iran
+C2603343||studies
+C0227843||endometrial
+C0125606||leukemia inhibitory factor
+C0125606||leukemia inhibitory factor
+C0029976||embryo implantation
+C0125606||leukemia inhibitory factor
+C0017968||glycoprotein
+C3714634||biological functions
+C0596290||cell proliferation
+C0007589||differentiation
+C0007620||survival
+C0005705||blastocyete
+C0029976||implantation
+C0125607||LIF receptor
+C0037080||signaling pathways
+C0449475||diverse cell types
+C0752312||MAPK
+C0044602||PI3-kinase
+C0037080||pathways
+C0014180||endometrium
+C0015895||fertile
+C0043210||woman
+C1171362||expression
+C0125606||leukemia inhibitory factor
+C0334094||proliferative
+C0021107||implantation
+C2603343||study
+C1858460||maternal
+C0752046||SNP 3951C/T
+C0125606||leukemia inhibitory factor
+C0015915||in vitro fertilization
+C0013938||embryo transfer
+C0015915||IVF
+C0013938||ET
+C0021359||infertile
+C0043210||women
+C0007328||case-control study
+C0021359||infertile
+C0043210||women
+C0686744||healthy child
+C1285573||Genotyping
+C0752046||SNP-3951C/T
+C3714764||PCR/RFLP
+C0002085||Allele
+C0125606||leukemia inhibitory factor
+C0004793||C/C
+C0004793||C/T
+C0004793||T/T
+C0002085||allele
+C0125606||leukemia inhibitory factor
+C0004793||C/C
+C0004793||C/T
+C0004793||T/T
+C0002085||allele
+C0752046||SNP 3951C/T
+C0125606||leukemia inhibitory factor
+C0015915||IVF
+C0013938||ET
+C1257890||population
+C2603343||studies

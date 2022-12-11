@@ -1,0 +1,53 @@
+C0004380||Vehicle Emissions
+C0004380||Emission
+C0038137||Standards
+C0243095||Cold-Start
+C0038137||standards
+C0205391||widespread
+C0004380||emissions
+C0017110||gas-
+C0004380||emissions
+C0006754||California
+C0392366||tested
+C0243095||cold-start
+C0004380||emissions
+C0038137||standard
+C0008902||superultra-low-emission vehicles
+C0008902||superultra-low-emission vehicles
+C0004380||emission
+C0038137||standards
+C0243095||cold-start
+C0004380||emissions
+C0004380||emissions
+C0038137||standard
+C0599786||pollutant
+C0004380||emissions
+C0004380||emissions
+C0007009||elemental carbon
+C0007009||elemental carbon
+C0004380||emissions
+C0008902||superultra-low-emission vehicles
+C0004380||emissions
+C0008902||ultralow-emission vehicles
+C0029224||organic compounds
+C0004380||emissions
+C0005036||benzene
+C0040383||toluene
+C0059792||ethylbenzene
+C0043368||xylenes
+C0029224||benzene, toluene, ethylbenzene, and xylenes
+C0030106||ozone
+C0243095||Cold-start
+C0004380||emissions
+C0004380||emission
+C0038137||standards
+C0017110||gas
+C0004380||emissions
+C0243095||cold-start
+C0599786||pollutants
+C0392366||tested
+C0243095||cold-start
+C0007012||CO2
+C0004380||emissions
+C0007010||black carbon
+C0004380||emissions

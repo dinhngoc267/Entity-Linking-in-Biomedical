@@ -1,0 +1,62 @@
+C1336512||Stromal alterations
+C0029925||ovarian cancers
+C0026018||Second Harmonic Generation microscopy
+C0029925||Ovarian cancer
+C0018417||gynecological
+C0006826||cancer
+C0012634||disease
+C0011900||diagnosis
+C0220908||screening
+C1512629||imaging tools
+C0221198||early lesions
+C0029925||ovarian cancer
+C0087111||treatments
+C0220908||screening
+C1512629||imaging tools
+C0009325||collagen
+C0026018||Second Harmonic Generation (SHG) imaging microscopy
+C0027692||optical scattering measurements
+C1510464||structural
+C0015350||extracellular matrix
+C0015350||extracellular matrix
+C0927195||stroma
+C0086692||benign tumors
+C0474809||endometrioid tumors
+C3839184||low
+C3839280||high-grade serous tumors
+C0026018||Second Harmonic Generation
+C0009325||collagen
+C0282574||size scale
+C1510464||structural
+C0456389||size
+C1179626||collagen fibrils
+C0225325||fibers
+C0015350||metrics
+C1510464||structural
+C0009325||collagen
+C0008902||classification
+C0476122||type I and II serous tumors
+C0474809||type I endometrioid tumors
+C0015350||extracellular matrix
+C0476122||serous malignancies
+C0026018||Second Harmonic Generation
+C0015350||metrics
+C0027692||optical scattering measurements
+C3161035||linear discriminant model
+C0040300||tissues
+C3839280||high-grade serous tumors
+C2713035||tissue types
+C3839280||High-grade serous tumors
+C0029925||ovarian cancers
+C0220908||screening tool
+C0026018||Second Harmonic Generation
+C0027692||optical scattering measurements
+C0430022||superior diagnostic power
+C0011923||clinical imaging
+C0029925||ovarian cancer
+C0040808||treatment protocols
+C0009325||collagen
+C0220908||screening tool
+C1140680||ovarian malignancies
+C0027627||metastasize
+C0011923||clinical imaging

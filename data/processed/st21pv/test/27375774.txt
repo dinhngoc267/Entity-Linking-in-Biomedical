@@ -1,0 +1,21 @@
+C0027361||person's
+C0424366||self-harm
+C0949415||qualitative study
+C0424366||self-harm
+C0220825||re-evaluate
+C0949415||in-depth qualitative study
+C0027361||people
+C0424366||self-harmed
+C0424366||self-harm
+C3887804||upset
+C0424366||self-harm
+C0023185||learning
+C0870209||blaming
+C0424366||self-harm
+C0566001||communicate
+C0376554||knowledge
+C0027361||people
+C0424366||self-harm
+C0679924||Professionals
+C0027361||people
+C0424366||self-harm

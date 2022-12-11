@@ -1,0 +1,30 @@
+C0031264||crude oil
+C1158281||anammox
+C0028215||N2O
+C1158281||anammox
+C0205101||external
+C0028158||nitrogen
+C0557760||coastal
+C0599786||pollutants
+C2603343||study
+C0031264||crude oil
+C1158281||anammox
+C0681814||Controlled laboratory experiments
+C0017446||Lima
+C0032729||Portugal
+C1158281||Anammox
+C0028162||(15)N-labeled
+C0699857||NO3(-)
+C0028158||(29)N2
+C0028158||(30)N2
+C0037813||membrane inlet mass spectrometry
+C0031264||crude oil
+C0680532||amendment
+C1158281||anammox
+C0031264||crude oil
+C0028215||N2O
+C0031264||crude oil
+C0028215||N2O
+C2603343||study
+C0031264||crude oil
+C1158281||anammox

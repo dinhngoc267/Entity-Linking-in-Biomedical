@@ -1,0 +1,41 @@
+C1705187||Safety
+C0442027||oral
+C0150457||anticoagulant therapy
+C0018795||Cardiac catheterization
+C0003281||anticoagulation
+C1707825||withdrawn
+C3873426||bridging therapy with heparin
+C1518527||observational study
+C0018795||transradial catheterization
+C0000956||acenocoumarol
+C0441835||group A
+C0441836||group B
+C0009566||complications
+C0018795||procedure
+C0019080||bleeding
+C0920165||vascular access complications
+C0441835||group A
+C1518563||older
+C0003281||anticoagulation
+C0004238||atrial fibrillation
+C1513916||No
+C0009566||complications
+C0018795||procedures
+C1513916||no
+C0333276||acute bleedings
+C0004726||bandage
+C1110554||radial occlusions
+C0441835||group A
+C0441836||group B
+C0018944||Hematomas
+C0441835||group A
+C0441836||group B
+C1522577||follow-up
+C1110554||radial occlusion
+C0018944||hematomas
+C0441836||group B
+C0441835||group A
+C0442027||oral
+C3266157||safe
+C0000956||acenocumarol
+C0087111||therapy

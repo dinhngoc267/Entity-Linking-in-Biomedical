@@ -1,0 +1,63 @@
+C0109272||Heat-shock protein 60
+C0085478||Porphyromonas gingivalis
+C3179121||human umbilical endothelial cells
+C1327622||regulation
+C0669365||endothelial-nitric oxide synthase
+C0300423||vascular endothelial-cadherin
+C0031099||periodontitis
+C0035648||risk factor
+C0010068||coronary heart disease
+C0010068||coronary heart disease
+C0085478||Porphyromonus gingivalis
+C0085478||P. gingivalis
+C1155266||inflammatory response
+C0010068||coronary heart disease
+C1515655||in vivo
+C2603343||study
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C0109272||heat-shock protein 60
+C3179121||human umbilical vein endothelial cells
+C3179121||human umbilical vein endothelial cells
+C3179121||human umbilical vein endothelial cells
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C0300423||vascular endothelial (VE)-cadherin
+C0669365||endothelial nitric oxide synthase
+C0669365||endothelial nitric oxide synthase
+C0291573||cysteinyl aspartate-specific protease-3
+C0291573||cysteinyl aspartate-specific protease-3
+C0949466||western blot
+C0936012||analysis
+C0162638||apoptotic
+C3179121||human umbilical vein endothelial cells
+C0016263||flow cytometry
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C1171362||expression
+C0300423||VE-cadherin
+C0669365||eNOS protein
+C0033684||proteins
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C0013081||downregulated
+C1171362||expression
+C0300423||VE-cadherin
+C0669365||eNOS protein
+C3179121||human umbilical vein endothelial cells
+C0291573||cysteinyl aspartate-specific protease-3
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C0162638||apoptosis
+C3179121||human umbilical vein endothelial cells
+C0085478||P. gingivalis
+C0109272||heat-shock protein 60
+C0162638||apoptosis
+C3179121||human umbilical vein endothelial cells
+C0013081||downregulating
+C1171362||expression
+C0300423||VE-cadherin
+C0669365||endothelial nitric oxide synthase
+C0291573||cysteinyl aspartate-specific protease-3

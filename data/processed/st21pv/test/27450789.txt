@@ -1,0 +1,66 @@
+C0030193||pain
+C0596545||experience
+C0543467||consecutive surgeries
+C0282545||phacoemulsification
+C2603343||study
+C0030193||pain
+C0596545||experience
+C0543467||consecutive surgeries
+C0282545||phacoemulsification
+C0015392||eyes
+C0002921||sub-Tenon's local anesthesia
+C0344106||sedation
+C2603343||study
+C0543467||operations
+C0344106||sedation
+C0010031||corneal
+C0282545||phacoemulsification technique
+C0002921||sub-Tenon's local anesthesia
+C0582175||surgeons
+C0543467||surgery
+C0015392||eye
+C0086543||cataract
+C0015392||eye
+C0582175||surgeon
+C0030193||pain
+C0596545||experience
+C0857127||induction
+C0002903||anesthesia
+C0282545||phacoemulsification surgery
+C0042815||visual analogue scale
+C0042815||visual analogue scale
+C3891813||no pain
+C3640014||unbearable pain
+C0543467||surgery
+C0015413||markedeye
+C0376591||head movement
+C0850674||lid squeezing
+C0582175||surgeon
+C0582148||mean pain score
+C0015392||eye
+C0015392||eye
+C1533734||administration
+C0002921||sub-Tenon's anesthesia
+C0015392||eye
+C0015392||eye
+C0282545||phacoemulsification surgery
+C0543467||surgery
+C0543467||surgery
+C0543467||surgeries
+C0282545||phaco surgery
+C0015392||eye
+C0030193||pain
+C1457868||worse
+C0282545||phaco surgery
+C0015392||eye
+C0543467||surgeries
+C0582175||surgeon
+C0543467||operation
+C0582175||surgeon
+C0038901||contralateral eye surgery
+C0344106||sedation
+C3202977||analgesia
+C0543467||surgery
+C0233792||recent memory
+C0030193||pain
+C0596545||experience

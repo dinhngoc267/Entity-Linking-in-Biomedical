@@ -1,0 +1,29 @@
+C2603343||study
+C0038257||stent
+C0038257||stent
+C0178324||significant
+C3263723||injure
+C0005847||blood vessel
+C0332461||plaque
+C0243095||reduce/minimize
+C0557351||employed
+C0679083||simulate
+C0038257||stent
+C1261287||stenosis
+C0332461||plaque
+C0332461||plaque
+C0441289||elastoplastic stents
+C0243095||foreshortening
+C0038435||stress
+C0332461||plaque
+C0205229||expand
+C0038257||stent
+C0038257||stent
+C0038257||stents
+C0038257||stent
+C0918012||heterogeneous index
+C0038239||Steel
+C0038257||stent
+C0243095||foreshortening
+C0918012||heterogeneous index
+C0038257||stent

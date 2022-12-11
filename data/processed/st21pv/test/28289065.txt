@@ -1,0 +1,56 @@
+C0332326||Gleason grade grouping
+C0600139||prostate cancer
+C1514474||prognostic value
+C0078988||Asian
+C0025266||men
+C1708333||International Society of Urological Pathology
+C0332326||Grade Groups
+C0332326||Grade Groups
+C1547383||Epstein
+C3203027||Gleason score
+C3203027||Gleason score
+C0425382||adopted
+C2603343||studies
+C0043157||Caucasian populations
+C0332326||GG system
+C0015031||mixed-ethnicity
+C0599755||cohort
+C0078988||Asian
+C0025266||men
+C0194810||radical prostatectomies
+C0194810||radical prostatectomies
+C3203027||Gleason score
+C0005558||biopsy
+C0194810||RP
+C0332326||Grade Groups
+C3203027||Gleason score
+C3203027||Gleason score
+C3203027||Gleason score
+C3203027||Gleason score
+C3203027||Gleason score
+C2985506||Biochemical recurrence
+C0194810||RP
+C0138741||prostate-specific antigen
+C0138741||prostate-specific antigen
+C0194810||RP
+C0138741||prostate-specific antigen
+C2985506||biochemical recurrence
+C0332326||Gleason GG
+C0005558||biopsy
+C0033573||prostatectomy
+C0332326||Grade Groups
+C2985506||biochemical recurrence
+C0332326||GG system
+C0005558||biopsy
+C0194810||RP
+C3203027||Gleason score
+C2603343||study
+C1519941||validates
+C0332326||GG system
+C0015031||mixed-ethnicity population
+C0078988||Asian
+C0025266||men
+C0332326||Grade Groups
+C2985506||biochemical recurrence
+C1516615||clinical management
+C0600139||prostate cancer

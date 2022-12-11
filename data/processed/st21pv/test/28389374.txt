@@ -1,0 +1,93 @@
+C1368335||BRCA1-Associated Protein-1
+C0597298||Isoform
+C0025500||Mesothelioma Cells
+C0013227||Drugs
+C1528558||BRCA1
+C0012899||DNA Repair
+C1368335||BRCA1 associated protein1
+C1368335||BRCA1 associated protein1
+C0597611||tumor suppressor
+C0007613||cellular processes
+C1158770||transcriptional regulation
+C1156197||chromatin modification
+C1157996||deubiquitinating
+C0147579||histone 2A
+C0012899||DNA repair
+C1368335||BRCA1 associated protein1
+C0026882||mutations
+C0812413||malignant pleural mesothelioma
+C0812413||malignant pleural mesothelioma
+C0597298||isoform
+C1368335||of BAP1
+C0017262||expression
+C0812413||malignant pleural mesothelioma
+C0017262||Expression
+C1368335||BRCA1 associated protein1
+C0442726||detected
+C2733022||quantitative polymerase chain reaction
+C0812413||malignant pleural mesothelioma
+C0086610||mesothelium
+C0007600||cell lines
+C0475358||tumor
+C1292533||nontumor samples
+C0019646||Histone H2A
+C1156207||ubiquitination
+C0936012||analyzed
+C0949466||Western blot
+C0684295||acidic extraction
+C2987130||core histones
+C3893246||Subcellular
+C1368335||BRCA1 associated protein1
+C0597298||isoforms
+C0332128||examined
+C0079603||immunofluorescence
+C0812413||malignant pleural mesothelioma
+C0007620||cell survival
+C0032405||poly(adenosine diphosphate-ribose) polymerase
+C0032405||poly(adenosine diphosphate-ribose) polymerase
+C0044602||phosphoinositide 3-kinase
+C0044602||phosphoinositide 3-kinase
+C1307407||mammalian target of rapamycin
+C1307407||mammalian target of rapamycin
+C0014432||inhibitors
+C0936012||analyzed
+C1515653||in vitro assays
+C1720834||alternative splice isoform
+C1368335||BRCA1 associated protein1
+C1332380||BAP1
+C0600499||catalytic domain
+C0007634||Cells
+C0040669||transfected
+C1332380||BAP1
+C1157996||deubiquitinating activity
+C1368335||BRCA1 associated protein1
+C0017262||expression
+C1332380||BAP1
+C1519595||transcript
+C1292533||nontumor
+C0812413||malignant pleural mesothelioma
+C0085983||cell lines
+C0017262||expressing
+C1332380||BAP1
+C2316164||olaparib
+C1567710||PARP1
+C0014432||inhibitor
+C0596402||cytotoxicity
+C2316164||olaparib
+C3887704||treatment
+C2984520||GDC0980
+C0044602||phosphoinositide 3-kinase
+C1307407||mammalian target of rapamycin
+C0014432||inhibitor
+C0013081||downregulation
+C1528558||BRCA1
+C0302523||observations
+C1332380||BAP1
+C3270705||regulate DNA damage response
+C0017262||expression
+C1332380||BAP1
+C0521982||responsive
+C0032405||poly(adenosine diphosphate-ribose) polymerase
+C0044602||phosphoinositide 3-kinase
+C1307407||mammalian target of rapamycin
+C0014432||inhibitors

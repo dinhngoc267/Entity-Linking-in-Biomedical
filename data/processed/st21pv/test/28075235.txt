@@ -1,0 +1,57 @@
+C1680786||Staphylococcus pseudintermedius
+C0086418||Human
+C3714514||Infection
+C0037747||Spain
+C0012984||Dog
+C0086418||Human
+C0242781||Transmission
+C1680786||Staphylococcus pseudintermedius
+C2747813||colonizer
+C0012984||dogs
+C1680786||S. pseudintermedius
+C0442726||detected
+C0086418||humans
+C0027361||people
+C0012984||dogs
+C0681814||study
+C0332149||possible
+C1680786||S. pseudintermedius
+C0031268||pet
+C0086418||human
+C0242781||transmission
+C0936012||analyzed
+C0086418||human
+C0012984||dog
+C1704784||owners
+C1680786||S. pseudintermedius
+C0442726||detected
+C2747813||colonizer
+C0003062||animals
+C1680786||S. pseudintermedius
+C1764827||isolates
+C0012984||dogs
+C0085117||pulsed-field gel electrophoresis
+C0449774||patterns
+C2359784||sequence types
+C2359784||sequence types
+C1456627||antimicrobial resistance
+C0014806||erythromycin
+C0008947||clindamycin
+C0039644||tetracycline
+C0041044||trimetoprim-sulfamethoxazole
+C0008809||ciprofloxacin
+C1680786||S. pseudintermedius
+C2359784||ST241
+C2359784||ST521
+C0442726||detected
+C0012984||dog
+C1704784||owner
+C2359784||sequence types
+C2359784||ST719
+C2359784||ST720
+C0376554||knowledge
+C0678257||description
+C0086418||human
+C3714514||infections
+C1680786||S. pseudintermedius
+C0037747||Spain

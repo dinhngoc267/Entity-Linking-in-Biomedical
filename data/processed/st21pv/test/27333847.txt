@@ -1,0 +1,38 @@
+C0680844||estimation
+C0034961||refugee
+C0034961||refugee
+C0004340||Australia
+C1301725||documented
+C2348576||date of birth
+C2348576||date of birth
+C0582103||medical assessment
+C1301725||documented
+C2348576||date of birth
+C0037589||holistic age assessment tool
+C0037589||age assessment tool
+C0680844||estimating
+C0034961||refugee
+C0004340||Australia
+C0037589||holistic AAT
+C0680844||estimate
+C0034961||refugee
+C2348576||date of birth
+C0037589||tool
+C0442027||oral
+C0220825||assessment
+C2598146||anthropometric measures
+C1627769||pubertal
+C0220825||assessment
+C0401803||Assessors
+C0150108||blinded
+C0680844||estimated
+C0037589||tool
+C0680844||estimated
+C0037589||age assessment tool
+C0442027||oral
+C0037589||tool
+C0680844||estimates
+C0037589||age assessment tool
+C0680844||estimate
+C0034961||refugee
+C0039431||radiological methods

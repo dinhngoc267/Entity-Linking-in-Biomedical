@@ -1,0 +1,52 @@
+C1710261||Sustained delivery
+C0042679||vincristine
+C0574893||orthotopic
+C1522023||mouse sarcoma
+C1261473||Sarcoma
+C0280100||solid tumors
+C0543467||Surgery
+C3665472||chemotherapy
+C0027651||tumors
+C1710261||sustained release
+C0074529||silk
+C0086418||Human
+C0553580||Ewing sarcoma
+C0334227||cells A673
+C0430400||cultured
+C0042679||vincristine
+C0013089||doxorubicin
+C0334227||Cells
+C0025929||mouse
+C1522391||hind leg
+C0574893||orthotopic
+C0027651||tumors
+C0041618||ultrasound
+C0184661||interventions
+C0021107||implantation
+C0074529||silk
+C0013089||doxorubicin
+C0013089||(Dox400
+C0042679||vincristine
+C0042679||Vin50
+C0074529||silk
+C0042679||vincristine
+C0042679||Vin50
+C0348016||intravenous
+C0042679||vincristine
+C0042679||Vin50
+C0042679||vincristine
+C0013089||doxorubicin
+C0013089||Dox400
+C0042679||Vin50
+C4086857||slower growth
+C0042679||Vin50
+C0042679||Vin50
+C4086857||Growth was slowest
+C0042679||Vin50
+C1710261||Sustained delivery
+C0042679||vincristine
+C1261473||sarcoma
+C0027651||tumor
+C0074529||silk
+C1831733||intratumoral treatment
+C0728940||surgical excision

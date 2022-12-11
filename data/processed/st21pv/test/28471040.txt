@@ -1,0 +1,43 @@
+C0297002||Farnesylthiosalicylic acid
+C1254351||lipid-polyethylene glycol-polymer hybrid nanoparticles
+C0087111||treatment
+C0017636||glioblastoma
+C1254351||lipid-polyethylene glycol (PEG)-polymer hybrid nanoparticles
+C0475358||tumour tissue
+C1372955||active ingredient
+C0003392||antineoplastic drug
+C0297002||farnesylthiosalicylic acid
+C0297002||farnesylthiosalicylic acid
+C0087111||treatment
+C0017636||glioblastoma
+C0297002||Farnesylthiosalicylic acid
+C1254351||poly(lactic-co-glycolic acid)-1,2 distearoyl-glycerol-3-phospho-ethanolamine-N [methoxy (PEG)-2000] ammonium salt
+C1254351||PLGA-DSPE-PEG
+C1254351||1,2-dioleoyl-3-trimethylammonium-propane (DOTAP) hybrid nanoparticles
+C4082130||prepared
+C0220825||evaluated
+C0596402||Cytotoxicity
+C0297002||FTA-loaded nanoparticles
+C0007634||rat glioma-2 (RG2) cells
+C0220825||evaluated
+C0007600||non-malignant cell line, L929
+C0523160||Scanning electron microscopy studies
+C1182795||smooth surface
+C0332501||spherical in shape
+C0297002||farnesylthiosalicylic acid
+C0297002||FTA-loaded nanoparticles
+C0596402||cytotoxic activity
+C0007600||RG2 glioma cell lines
+C1254351||1,2-dioleoyl-3-trimethylammonium-propane
+C0024485||Magnetic resonance imaging
+C0677043||histopathologic
+C0220825||evaluation
+C0431085||RG2 tumour cells
+C0012644||rat glioma model
+C0034716||Wistar rats
+C1254351||drug
+C0297002||FTA-loaded nanoparticles
+C0475440||tumour size
+C0297002||Farnesylthiosalicylic acid
+C1254351||PLGA-DSPE-PEG-DOTAP hybrid nanoparticles
+C0017636||glioblastoma

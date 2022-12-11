@@ -1,0 +1,44 @@
+C0011923||Visualization
+C0038925||Intimal Flap
+C3665731||Intracranial Arterial Dissection
+C0024485||3T MRI
+C0150312||Presence
+C0038925||intimal flap
+C1287399||imaging finding
+C0011900||diagnosing
+C3665731||intracranial artery dissection
+C3665731||intracranial artery dissection
+C0684224||reports
+C0024485||magnetic resonance imaging
+C0024485||magnetic resonance imaging
+C0038925||intimal flaps
+C0024485||MRI techniques
+C0024485||magnetic resonance imaging
+C0016911||gadolinium
+C0441633||scanning
+C0220825||evaluated
+C0024485||nonenhanced high-resolution fast spin echo (HR-FSE) MRI
+C0038925||intimal flaps
+C3665731||intracranial artery dissection
+C3665731||intracranial artery dissection
+C0024485||magnetic resonance imaging
+C1705052||2-dimensional
+C0011923||T2-weighted FSE imaging
+C0441633||scanning
+C1536105||CT angiography
+C0243032||magnetic resonance angiography
+C0002979||digital subtraction angiography
+C0038925||intimal flap
+C0243095||double lumen sign
+C0679646||participants
+C0024485||high-resolution fast spin echo
+C0024485||high-resolution fast spin echo
+C0038925||intimal flaps
+C0243095||double lumen signs
+C0243095||double lumen sign
+C0024485||HR-FSE imaging
+C0184511||improved
+C0011923||visualization
+C0038925||intimal flaps
+C3665731||intracranial artery dissection
+C0011900||diagnosed

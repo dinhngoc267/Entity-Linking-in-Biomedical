@@ -1,0 +1,30 @@
+C1519941||validation
+C0086930||risk assessment tool
+C0230102||low back
+C0005479||Lifting Fatigue Failure Tool
+C0005479||Lifting Fatigue Failure Tool
+C0026857||musculoskeletal disorders
+C0026857||musculoskeletal disorders
+C0015672||fatigue
+C0040300||tissues
+C0005479||assessment tool
+C0005479||Lifting Fatigue Failure Tool
+C0005479||Lifting Fatigue Failure Tool
+C0230102||low back
+C0015672||fatigue
+C0037949||spine
+C0039333||tasks performed
+C0005479||new tool
+C1519941||validated
+C0242356||databases
+C0575375||Lumbar Motion Monitor
+C0575375||Lumbar Motion Monitor
+C0242356||database
+C0242356||database
+C0041703||U.S
+C0005479||Lifting Fatigue Failure Tool
+C0558029||cumulative damage metric
+C0024031||low back disorders
+C0024031||low back disorders
+C0005479||Lifting Fatigue Failure Tool
+C0558029||damage metric

@@ -1,0 +1,45 @@
+C0008976||Clinical Trial
+C0456984||Results
+C0014099||Carotid Endarterectomy
+C2348535||Stenting
+C0206034||Randomized trials
+C2348535||carotid-artery stenting
+C0014098||endarterectomy
+C1096775||clinical trial publications
+C3495793||carotid revascularization procedures
+C0681939||population-level time-series analysis
+C0237401||individuals
+C0014099||carotid endarterectomy
+C2348535||stenting
+C0029040||Ontario
+C0006823||Canada
+C0936012||primary analysis
+C3495793||carotid revascularization procedures
+C0034036||publications
+C0206034||randomized trials
+C1457887||carotid-artery symptom
+C0014098||endarterectomy
+C2348535||stenting
+C3495793||carotid revascularization
+C0184661||procedures
+C0237401||individuals
+C0184661||procedures
+C0014098||endarterectomy
+C2348535||carotid-artery stenting
+C2348535||stenting
+C0034036||publication
+C0242481||SAPPHIRE trial
+C0242481||Stenting and Angioplasty With Protection in Patients at High Risk for Endarterectomy
+C2348535||stenting
+C0442739||unchanged
+C0206034||randomized trials
+C0014098||endarterectomy
+C3495793||carotid revascularization
+C0014098||endarterectomy
+C2348535||carotid-artery stenting
+C0034036||publication
+C2348535||stenting
+C0242481||SAPPHIRE trial
+C0206034||randomized trials
+C0442797||decreasing rate
+C0014099||carotid endarterectomy

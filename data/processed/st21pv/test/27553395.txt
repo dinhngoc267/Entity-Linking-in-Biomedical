@@ -1,0 +1,19 @@
+C0558027||Nutrient intake
+C0041698||United Arab Emirates
+C0012155||diet
+C0041698||United Arab Emirates
+C0041698||Al Ain
+C0041698||Dubai
+C0558027||nutrient intake
+C0006147||breastfeeding
+C0041698||Al Ain
+C0041698||Dubai
+C0518043||Iron intake
+C1305855||body mass index
+C0043237||World Health Organization
+C0497406||over
+C0041667||underweight
+C0558027||intakes
+C0524787||RDA
+C1257763||over
+C0162429||underfed

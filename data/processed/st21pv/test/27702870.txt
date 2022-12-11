@@ -1,0 +1,23 @@
+C0456984||clinical results
+C0547070||ablation
+C0085590||catheter
+C0232177||Surround Flow
+C0232177||Surround Flow
+C0040300||tissue
+C0087111||Procedure
+C0547070||ablation procedures
+C0242356||database
+C0087111||procedures
+C0087111||STSF procedure
+C0455713||procedure type
+C1705274||operator
+C0596545||experience
+C0455713||procedure type
+C4032686||No complication
+C0009566||Complications
+C0031039||pericardial effusion
+C0013103||drainage
+C0199640||pacing
+C3897822||Complete procedural success
+C0009566||complication
+C0003811||arrhythmias

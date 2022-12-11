@@ -1,0 +1,50 @@
+C0230467||transverse arch
+C1510667||forefoot
+C0016928||gait
+C1708335||healthy subjects
+C0230467||transverse arch
+C1510667||forefoot
+C0450363||3-dimensional
+C0450363||3-dimensional
+C0600169||kinematics
+C0016928||gait
+C0935598||sagittal plane
+C0080105||Subjects
+C0025663||Methods
+C1708335||healthy subjects
+C0681814||study
+C0230467||transverse arch
+C1510667||forefoot
+C0277814||sitting
+C0231472||standing
+C0016504||foot
+C0439780||forward
+C1140621||lower leg
+C0205094||anteriorly
+C0733755||position
+C0018870||heel
+C0016928||Gait
+C0016928||gait
+C0010101||Spearman correlation analysis
+C0230467||transverse arch
+C1510667||forefoot
+C0205094||anterior
+C0205095||posterior
+C0019558||hip joint
+C0205143||angle
+C0003086||ankle
+C0231784||plantar flexion moment
+C0681814||study's
+C0243095||findings
+C1444656||indicated
+C0427008||stiffness
+C0230467||transverse arch
+C1510667||forefoot
+C0003086||ankle
+C0231784||plantar moment
+C0427008||stiffness
+C0230467||transverse arch
+C1510667||forefoot
+C0019558||hip joint
+C0205143||angle
+C0016928||gait

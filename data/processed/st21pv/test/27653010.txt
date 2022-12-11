@@ -1,0 +1,67 @@
+C0185125||Application
+C0031150||Laparoscopic
+C0408632||Lumbar Discectomy
+C2144940||Artificial Disc Replacement
+C1522577||Follow-Up
+C0033522||prospective
+C1518527||observational study
+C0011900||diagnosed
+C0158266||degenerative disc disease
+C2144940||artificial disc replacement
+C2144940||artificial disc replacement
+C0031150||laparoscopic
+C2603343||study
+C2144940||artificial disc replacement
+C0031150||laparoscopic
+C0281899||lumbar disc herniation
+C0158266||degenerative disc disease
+C0024031||low back pain
+C0024090||lumbar
+C0205122||segmental
+C1444783||instability
+C2144940||artificial disc replacement
+C0281899||lumbar disc herniation
+C0449445||approach
+C0920347||spinal surgery
+C0007397||catastrophic
+C0019080||bleeding
+C3263723||injury
+C0005847||vessels
+C3263723||injury
+C0042779||viscera
+C1285145||associated structures
+C0031150||laparoscopic
+C0408632||lumbar discectomy
+C2144940||artificial disc replacement
+C0011900||diagnosed
+C0158266||degenerative disc disease
+C2603343||study
+C0459914||conservative treatments
+C0543467||surgery
+C0543467||operation
+C0450363||Three-dimensional
+C1536105||computed tomographic angiography
+C0450363||3D
+C1536105||CTA
+C0020889||iliac
+C0005847||blood vessels
+C0543467||surgery
+C0543467||surgical procedures
+C0023036||laparoscope
+C1522577||followed up
+C0543467||surgeries
+C0543467||operation
+C0019080||hemorrhage
+C0043299||X-rays
+C0032786||postoperative
+C1522577||follow-up
+C1522577||follow-up
+C2960751||visual analog scale
+C2960751||visual analog scale
+C2960603||Oswestry scores
+C2960751||VAS score
+C0024090||Lumbar
+C2144940||artificial disc replacement
+C0023036||laparoscope
+C0158266||degenerative disc disease
+C3662826||lumbar discogenic pain

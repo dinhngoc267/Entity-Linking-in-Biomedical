@@ -1,0 +1,50 @@
+C1334085||Interferon gamma
+C1334098||interleukin 10
+C0152035||Chinese
+C0024291||hemophagocytic lymphohistiocytosis
+C2603343||study
+C1334085||interferon gamma
+C1334085||interferon gamma
+C1334098||interleukin-10
+C1334098||interleukin-10
+C0017337||gene
+C0752046||single nucleotide polymorphisms
+C0012655||susceptibility
+C0024291||hemophagocytic lymphohistiocytosis
+C0024291||hemophagocytic lymphohistiocytosis
+C0152035||Chinese
+C0332123||without known family history of
+C0024291||hemophagocytic lymphohistiocytosis
+C0024291||hemophagocytic lymphohistiocytosis
+C0019994||Xuzhou Children's Hospital
+C2603343||study
+C0229671||Serum
+C3539881||interferon gamma
+C0085295||interleukin-10
+C0014441||enzyme linked-immunosorbent assay
+C1334085||IFN-γ gene
+C1334098||interleukin-10
+C2963401||analyzed
+C0002085||allele
+C0032520||PCR
+C0229671||Median serum
+C3539881||IFN -γ
+C0085295||interleukin-10
+C0024291||hemophagocytic lymphohistiocytosis
+C1334085||interferon gamma
+C0002085||T allele
+C0024291||hemophagocytic lymphohistiocytosis
+C1334098||interleukin-10
+C0002085||G allele
+C0024291||hemophagocytic lymphohistiocytosis
+C1273937||No significant
+C1334085||interferon gamma
+C0024291||hemophagocytic lymphohistiocytosis
+C2603343||study
+C0150312||presents
+C1334085||IFN
+C1334098||interleukin-10
+C0024291||hemophagocytic lymphohistiocytosis
+C0012655||susceptibility
+C0152035||Chinese
+C0024291||hemophagocytic lymphohistiocytosis

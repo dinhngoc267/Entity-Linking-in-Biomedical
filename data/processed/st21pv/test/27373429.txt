@@ -1,0 +1,27 @@
+C0050505||water-soluble cellulose acetate
+C0684224||report
+C0449445||approach
+C0332624||well-dispersed
+C0050505||water-soluble cellulose acetate
+C0050505||cellulose acetate
+C0376446||reductant
+C0050505||cellulose acetate
+C0700307||hydroxyl groups
+C1299581||able
+C0022023||silver ions
+C0037812||UV-vis spectroscopy
+C0043301||X-ray diffraction
+C2700282||X-ray photoelectron spectroscopy
+C0678118||transmission electron microscopy
+C2699997||energy dispersive X-ray spectroscope
+C0002778||analysis
+C4082130||prepared
+C0332624||well-dispersed
+C0597731||surface plasmon resonance
+C0050505||cellulose acetate
+C0048581||4-nitrophenol
+C0048047||4-aminophenol
+C0074728||NaBH4
+C0018270||growth
+C0004611||bacterial
+C0279516||antibacterial

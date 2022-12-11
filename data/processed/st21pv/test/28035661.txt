@@ -1,0 +1,54 @@
+C1184482||groove
+C3178755||Neandertal
+C0205094||anterior
+C0205095||posterior
+C0040426||teeth
+C0026018||microscopic examination
+C3178755||Neandertal
+C0011443||dentitions
+C0017446||El Sidrón
+C0037747||Spain
+C0017446||Hortus
+C0016674||France
+C1708982||mesial
+C0205108||distal sides
+C0040426||tooth
+C0446455||cervix
+C1184482||grooves
+C1300203||Homo species
+C0237832||experimental replication
+C1184482||groove
+C0018210||grass
+C2700372||stalks
+C3178755||Neandertal
+C0040426||teeth
+C0037088||marks
+C1184482||groove
+C0349674||five-grade recording scale
+C1184482||groove
+C0017446||Hortus
+C0027361||individuals
+C0027361||individuals
+C0017446||El Sidrón
+C0027361||individuals
+C1184482||grooves
+C0017446||El Sidrón
+C1184482||grooves
+C0017446||Hortus
+C3178755||Neandertals
+C1184482||grooves
+C0021156||incisors
+C0010482||canines
+C0447303||occlusal
+C2717979||dental wear
+C0017446||Hortus
+C0027361||individuals
+C0025017||meat
+C0012155||diet
+C0016452||food
+C1184482||grooves
+C0086418||human
+C0034869||record
+C0376554||knowledge
+C3178755||Neandertals
+C0424439||oral care habits
