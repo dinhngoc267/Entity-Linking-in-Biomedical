@@ -6,7 +6,7 @@ import random
 from tqdm import tqdm
 from collections import defaultdict
 from torch.utils.data import Dataset, DataLoader
-import argparse
+from itertools import combinations
 
 def tokenize_sentence(sentence, tokenizer):
     sentence_tokens = []
@@ -100,7 +100,7 @@ class MentionEntityDataset(Dataset):
     anchor_negative_pairs = []
     for i in range(len(self.mentions)):
       hardest_negative_cuis = [cui for cui in self.candidates_dict[self.mentions[i].lower()] if cui != self.labels[i]]
-      hardest_negative_cuis =  hardest_negative_cuis
+      hardest_negative_cuis =  hardest_negative_cuis[:32]
       for cui in hardest_negative_cuis:
         anchor_negative_pairs.append((0, i, cui))
 
@@ -329,4 +329,142 @@ class MentionMentionDataset(Dataset):
     # mention_mask_b[start_mention_token_b:end_mention_token_b] = [1]*(end_mention_token_b-start_mention_token_b)
   
     return torch.tensor([input_ids, token_type_ids, attention_mask]), np.array([start_mention_token_a, end_mention_token_a]), np.array([start_mention_token_b, end_mention_token_b])  #torch.tensor(mention_mask_a, dtype=torch.float32), torch.tensor(mention_mask_b, dtype=torch.float32)
+
+
+
+class QueryMentionMentionDataset(Dataset):
+  def __init__(self, data_dir, tokenizer, max_len = 256):
+    self.tokenizer = tokenizer
+    self.max_len = max_len
+    
+    self.mentions = []
+    self.labels = []
+    self.context_data = []
+    self.pair_indices = []
+
+    doc_ids = []
+    # load context data
+    files = glob.glob(os.path.join(data_dir, "*.context"))
+    index = 0
+    for file_name in tqdm(files):
+        mentions_in_doc = defaultdict(list)
+
+        with open(file_name, "r") as f:
+            list_sents = f.read().split('\n\n')
+            list_sents = list_sents[:-1]
+        for sent in list_sents:
+            sent_token_ids, mention_index = tokenize_sentence(sent.lower().split('\n'), tokenizer)
+            self.context_data.append((sent_token_ids, mention_index))
+
+        mention_file = os.path.join(data_dir, os.path.basename(file_name).replace(".context", ".txt"))
+        with open(mention_file, "r") as f:
+          lines = f.read().split('\n')
+          for line in lines: 
+            line = line.split('||')
+            self.mentions.append(line[1].lower())
+            self.labels.append(line[0])
+            mentions_in_doc[line[0]].append(index)
+            index += 1
+
+        for key, values in mentions_in_doc.items():
+          if len(values) >= 2:
+            pairs = [pair for pair in combinations(values, 2)]
+            #pairs = [(i, j) for i in values for j in values if i != j] 
+            self.pair_indices += pairs
+
+  def __len__(self):
+    return len(self.pair_indices)
+  
+  def __getitem__(self, idx):
+    pair = self.pair_indices[idx]
+
+    context_a = self.context_data[int(pair[0])]
+    context_b = self.context_data[int(pair[1])]
+
+    inputs = MentionMentionDataset.generate_input(context_a=context_a,
+                                                  context_b=context_b,
+                                                  max_len=self.max_len)
+  
+    return inputs
+
+
+class QueryMentionEntitynDataset(Dataset):
+  def __init__(self, data_dir, dictionary_file, candidate_file, tokenizer, max_len = 256, n_test = 1):
+    self.tokenizer = tokenizer
+    self.max_len = max_len
+    
+    self.mentions = []
+    self.labels = []
+    self.context_data = []
+    self.pair_indices = []
+    self.entity_description_dict = defaultdict(list)
+    self.candidates_dict = defaultdict(list)
+
+    doc_ids = []
+    # load context data
+    files = glob.glob(os.path.join(data_dir, "*.context"))
+    index = 0
+    for file_name in tqdm(files):
+        mentions_in_doc = defaultdict(list)
+
+        with open(file_name, "r") as f:
+            list_sents = f.read().split('\n\n')
+            list_sents = list_sents[:-1]
+        for sent in list_sents:
+            sent_token_ids, mention_index = tokenize_sentence(sent.lower().split('\n'), tokenizer)
+            self.context_data.append((sent_token_ids, mention_index))
+
+        mention_file = os.path.join(data_dir, os.path.basename(file_name).replace(".context", ".txt"))
+        with open(mention_file, "r") as f:
+          lines = f.read().split('\n')
+          for line in lines: 
+            line = line.split('||')
+            self.mentions.append(line[1].lower())
+            self.labels.append(line[0])
+            mentions_in_doc[line[0]].append(index)
+            index += 1
+        n_test -= 1
+        if n_test == 0:
+          break
+         
+    # load dictionary
+    with open(dictionary_file, "r") as f:
+      lines = f.read().split('\n')
+      
+      for line in lines:
+        line = line.split('||')
+        cui = line[0]
+        description = line[1]
+        self.entity_description_dict[cui] = description.lower()
+
+    # load candidates
+    with open(candidate_file, "r") as f:
+      lines = f.read().split('\n')
+      for line in lines:
+        line = line.split('||')
+        self.candidates_dict[line[0]] = list(set(line[1].split(' ')))
+
+
+    for idx, mention in enumerate(self.mentions):
+      for candidate in self.candidates_dict[mention][:64]:
+        self.pair_indices.append([idx, candidate])
+
+
+  def __len__(self):
+    return len(self.pair_indices)
+  
+  def __getitem__(self, idx):
+    pair = self.pair_indices[idx]
+    data_index = int(pair[0])
+    mention_cui = pair[1]
+
+    entity_description = self.entity_description_dict[mention_cui]
+    entity_description_tokens = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(entity_description))
+
+    input_tokens= MentionEntityDataset.generate_input(data_index, 
+                                                      self.context_data,
+                                                      entity_description_tokens,
+                                                      self.max_len)
+  
+    return input_tokens
 

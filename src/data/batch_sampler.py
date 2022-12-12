@@ -104,31 +104,31 @@ class MentionEntityBatchSampler(object):
           input_tokens_buffer = torch.stack(input_tokens_buffer).to(self.device)
           neg_affin = self.model(input_tokens_buffer)
 
-          # top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=True, sorted=True)[1].cpu()
-          # top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
-          # neg_batch_indices.extend(top_k_neg)
+          top_k_neg = torch.topk(neg_affin,  1, dim=0, largest=True, sorted=True)[1].cpu()
+          top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
+          neg_batch_indices.extend(top_k_neg)
 
-          flag = False
-          max_affin = 0
-          max_idx = 0
-          for idx, affin in enumerate(neg_affin): 
-            if affin > (pos_affin - self.margin) and affin < pos_affin and max_affin < affin:
-              max_idx = idx
-              max_affin = affin
-              flag = True
+          # flag = False
+          # max_affin = 0
+          # max_idx = 0
+          # for idx, affin in enumerate(neg_affin): 
+          #   if affin > (pos_affin - self.margin) and affin < pos_affin and max_affin < affin:
+          #     max_idx = idx
+          #     max_affin = affin
+          #     flag = True
 
-          if flag == True:
-            top_k_neg = neg_candidates[max_idx].flatten().tolist()
-            neg_batch_indices.extend(top_k_neg)
-          else: #  flag == False:
-            if neg_affin[0] >= pos_affin:
-              top_k_neg = torch.topk(neg_affin, 1, dim=0, largest=False, sorted=True)[1].cpu()
-              top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
-              neg_batch_indices.extend(top_k_neg)
-            else:
-              top_k_neg = torch.topk(neg_affin, 1, dim=0, largest=True, sorted=True)[1].cpu()
-              top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
-              neg_batch_indices.extend(top_k_neg)
+          # if flag == True:
+          #   top_k_neg = neg_candidates[max_idx].flatten().tolist()
+          #   neg_batch_indices.extend(top_k_neg)
+          # else: #  flag == False:
+          #   if neg_affin[0] >= pos_affin:
+          #     top_k_neg = torch.topk(neg_affin, 1, dim=0, largest=False, sorted=True)[1].cpu()
+          #     top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
+          #     neg_batch_indices.extend(top_k_neg)
+          #   else:
+          #     top_k_neg = torch.topk(neg_affin, 1, dim=0, largest=True, sorted=True)[1].cpu()
+          #     top_k_neg = neg_candidates[top_k_neg].flatten().tolist()
+          #     neg_batch_indices.extend(top_k_neg)
           #top_k_neg = neg_candidates[1].flatten().tolist()
 
       batch_indices.extend(pos_batch_indices)
